@@ -1,0 +1,1188 @@
+- question: [Q103, Q2]
+  lang_id: 5
+  lang_name: Arabic
+  country: null
+  iso_639_3:
+  - arb
+  iso_name: Modern Standard Arabic
+  note: Since this applies to all surveys, standard arabic is all I can use.
+
+- question: Q103
+  lang_id: 104
+  lang_name: Outamari
+  country: BEN
+  iso_639_3:
+  - tbz
+  iso_name: null
+  note: null
+
+- question: Q103
+  lang_id: 106
+  lang_name: Lopka
+  country: BEN
+  iso_639_3:
+  - dop
+  iso_name: null
+  note: Lokpa
+- question: Q103
+  lang_id: 1220
+  lang_name: Foufouldé
+  country: CAM
+  iso_639_3:
+  - fub
+  - fuv
+  iso_name: Fulfulde, Adamawa or Mbororo
+  note: https://www.ethnologue.com/country/cm/languages
+- question: Q103
+  lang_id: 1300
+  lang_name: Soussou
+  country: GUI
+  iso_639_3:
+  - sus
+  iso_name: null
+  note: Susu
+- question: Q103
+  lang_id: 1302
+  lang_name: Poular
+  country: GUI
+  iso_639_3:
+  - fuf
+  iso_name: null
+  note: Pular is the Fula language generally spoken in Guinea
+- question: Q103
+  lang_id: 1305
+  lang_name: Maninka
+  country: GUI
+  iso_639_3:
+  - emk
+  iso_name: null
+  note: Maninka are a lot of closely related languages. Eastern Manika seems to be
+    the most widely used.
+- question: Q103
+  lang_id: 1307
+  lang_name: Kpèlè
+  country: GUI
+  iso_639_3:
+  - gkp
+  iso_name: Guinea Kpelle
+  note: https://en.wikipedia.org/wiki/Kpelle_language
+- question: Q103
+  lang_id: 1312
+  lang_name: Kissié
+  country: GUI
+  iso_639_3:
+  - kqs
+  iso_name: Northern Kissi
+  note: https://en.wikipedia.org/wiki/Kissi_language
+- question: Q103
+  lang_id: 1660
+  lang_name: Creolo
+  country: STP
+  iso_639_3:
+  - aoa
+  iso_name: Angolar Creole
+  note: https://en.wikipedia.org/wiki/Angolar_Creole
+- question: Q103
+  lang_id: 183
+  lang_name: Gulmacema
+  country: BFO
+  iso_639_3:
+  - gux
+  iso_name: null
+  note: Gourmanchema language also goes by https://en.wikipedia.org/wiki/Gourmanch%C3%A9_language
+- question: Q103
+  lang_id: 184
+  lang_name: Gourounsi
+  country: BFO
+  iso_639_3:
+  - gur
+  iso_name: null
+  note: Farfene or Gurenne
+- question: Q103
+  lang_id: 265
+  lang_name: Waala
+  country: GHA
+  iso_639_3:
+  - wlx
+  iso_name: null
+  note: Wali
+- question: Q103
+  lang_id: 273
+  lang_name: Dagaree
+  country: GHA
+  iso_639_3:
+  - dga
+  iso_name: null
+  note: Dagaare
+- question: Q103
+  lang_id: 302
+  lang_name: Luhya
+  country: KEN
+  iso_639_3:
+  - luy
+  - lrm
+  - lwg
+  - lks
+  - lto
+  - lkb
+  - nle
+  iso_name: Luyia
+  note: 'This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy'
+- question: Q103
+  lang_id: 420
+  lang_name: Malgache officiel
+  country: MDG
+  iso_639_3:
+  - mlg
+  - plt
+  iso_name: Plateau Malagasy
+  note: 'Plateau Malagasay is considered the official language: https://www.ethnologue.com/language/plt'
+- question: Q103
+  lang_id: 421
+  lang_name: Malgache avec regional dialect
+  country: MDG
+  iso_639_3:
+  - mlg
+  - xmv
+  - bhr
+  - buc
+  - msh
+  - bmm
+  - skg
+  - bzc
+  - tdx
+  - txy
+  - tkg
+  - xmw
+  iso_name: Antankarana; Bara; Bushi; Masikovo; Northern Betsimisaraka; Sakaleava;
+    Southern Betsimisaraka; Tandrroy-Mafahaly; Tanosy; Tesaka; Tsimihety
+  note: Include macrolanguage code for Malagasay, and all languages that are not Plateau
+    Malagasay
+- question: Q103
+  lang_id: 514
+  lang_name: Peulh/Fulfude
+  country: MLI
+  iso_639_3:
+  - ffm
+  iso_name: null
+  note: Fulfulde. This is the Fula langauge spoken in Mali. The Mali code is ‘ffm’
+    but should we just keep it as ‘ful?
+- question: Q103
+  lang_id: 623
+  lang_name: Pidgin English
+  country: NIG
+  iso_639_3:
+  - pcm
+  iso_name: null
+  note: null
+- question: Q103
+  lang_id: 665
+  lang_name: Diola
+  country: SEN
+  iso_639_3:
+  - dyo
+  iso_name: null
+  note: Acholi
+- question: Q103
+  lang_id: 782
+  lang_name: Runyoro-Rutooro
+  country: UGA
+  iso_639_3:
+  - nyo
+  iso_name: null
+  note: Runyoro-Rutooro (according to WALS)
+- question: Q103
+  lang_id: 788
+  lang_name: Acholi-Langi
+  country: UGA
+  iso_639_3:
+  - ach
+  iso_name: null
+  note: Acholi
+- question: Q103
+  lang_id: 792
+  lang_name: Japadhola
+  country: UGA
+  iso_639_3:
+  - adh
+  iso_name: null
+  note: Adhola
+- question: Q103
+  lang_id: 798
+  lang_name: Kupsabinyi
+  country: UGA
+  iso_639_3:
+  - kpz
+  iso_name: null
+  note: Kupsabiny or Sabiny https://en.wikipedia.org/wiki/Sabiny_language
+- question: Q103
+  lang_id: 799
+  lang_name: Ngakarimajong
+  country: UGA
+  iso_639_3:
+  - kdj
+  iso_name: null
+  note: Ngakarimojong
+- question: Q103
+  lang_id: 821
+  lang_name: Bembia
+  country: ZAM
+  iso_639_3:
+  - bem
+  iso_name: null
+  note: Bemba is only off by one letter and one of bhe more widely spoken languages.
+    It looks like an Afrobarometer typo.
+- question: Q103
+  lang_id: 900
+  lang_name: Creole
+  country: MAU
+  iso_639_3:
+  - mfe
+  iso_name: null
+  note: Mauritian Creole
+- question: Q2
+  lang_id: 105
+  lang_name: Otamari
+  country: BEN
+  iso_639_3:
+  - tbz
+  iso_name: null
+  note: Ditammari. Has a similar name, and the only major language not coded.
+- question: Q2
+  lang_id: 107
+  lang_name: Lopka
+  country: BEN
+  iso_639_3:
+  - dop
+  iso_name: null
+  note: Lokpa
+- question: Q2
+  lang_id: 11
+  lang_name: Berber Language
+  country: ALG MOR
+  iso_639_3:
+  - kab
+  - shy
+  - cnu
+  - thv
+  - rif
+  - shi
+  - tzm
+  iso_name: Kabyle, Shawiya, Shenwa, Tamahaq
+  note: Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya,
+    Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight
+    spoken in Morocco
+- question: Q2
+  lang_id: 1105
+  lang_name: Goumantchéma
+  country: NGR
+  iso_639_3:
+  - gux
+  iso_name: null
+  note: Gourmanchema
+- question: Q2
+  lang_id: 1154
+  lang_name: Ngam-gam
+  country: TOG
+  iso_639_3:
+  - gng
+  iso_name: Ngangam
+  note: https://www.ethnologue.com/country/tg/languages
+- question: Q2
+  lang_id: 1160
+  lang_name: Tchpkossi (Anoufom)
+  country: TOG
+  iso_639_3:
+  - cko
+  iso_name: Anufo
+  note: Tchokossi is an alternative name. https://www.ethnologue.com/country/tg/languages
+- question: Q2
+  lang_id: 1220
+  lang_name: Foufouldé
+  country: CAM
+  iso_639_3:
+  - fub
+  - fuv
+  iso_name: Fulfulde, Adamawa or Mbororo
+  note: https://www.ethnologue.com/country/cm/languages
+- question: Q2
+  lang_id: 1229
+  lang_name: Bamileke
+  country: CAM
+  iso_639_3:
+  - fmp
+  - bbj
+  - bko
+  - byv
+  - xmg
+  - nnz
+  - nnh
+  - jgo
+  - nla
+  - new
+  - ybb
+  iso_name: null
+  note: Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale,
+    Ngwe, Yemba. This is listed as an alternative name for multiple other languages.
+    We should see if there is any discrepancy in gender features among these, if so,
+    we should delete.
+- question: Q2
+  lang_id: 1251
+  lang_name: Mbouda
+  country: CAM
+  iso_639_3:
+  - nnh
+  - jgo
+  - nla
+  iso_name: null
+  note: 'Ngiemboon, Ngomba, and Ngombale are listed by the Ethnologue as being spoken
+    in Mbouda. All three languages are closely related: Bemileke languages.'
+- question: Q2
+  lang_id: 1254
+  lang_name: Moudan
+  country: CAM
+  iso_639_3:
+  - mnf
+  iso_name: Moudani
+  note: https://www.ethnologue.com/country/cm/languages
+- question: Q2
+  lang_id: 1255
+  lang_name: Ngueba
+  country: CAM
+  iso_639_3:
+  - nnh
+  iso_name: Ngiemboon
+  note: Alternate name is Nguemba. https://www.ethnologue.com/language/nnh
+- question: Q2
+  lang_id: 1262
+  lang_name: Adjoukrou
+  country: CDI
+  iso_639_3:
+  - adj
+  iso_name: null
+  note: Adioukrou
+- question: Q2
+  lang_id: 1263
+  lang_name: Agny
+  country: CDI
+  iso_639_3:
+  - any
+  iso_name: null
+  note: Anyin
+- question: Q2
+  lang_id: 1280
+  lang_name: Gnanboua
+  country: CDI
+  iso_639_3:
+  - nwb
+  iso_name: Nyabwa
+  note: Gnanboua are an ethnicity in Zoukougbeu. The primary language is Nyabwa. https://www.ethnologue.com/language/nwb,
+    http://www.rezoivoire.net/cotedivoire/ville/17/la-sous-prefecture-de-zoukougbeu.html#.V_cUR5MrLOY
+- question: Q2
+  lang_id: 1300
+  lang_name: Soussou
+  country: GUI
+  iso_639_3:
+  - sus
+  iso_name: null
+  note: Susu
+- question: Q2
+  lang_id: 1301
+  lang_name: Poular
+  country: GUI
+  iso_639_3:
+  - fuf
+  iso_name: null
+  note: 'This seems to be a typo of some kind, and should be the same as 1301: Poular'
+- question: Q2
+  lang_id: 1302
+  lang_name: Maninka
+  country: GUI
+  iso_639_3:
+  - emk
+  iso_name: null
+  note: Maninka are a lot of closely related languages. Eastern Manika seems to be
+    the most widely used.
+- question: Q2
+  lang_id: 1303
+  lang_name: Kpèlè
+  country: GUI
+  iso_639_3:
+  - gkp
+  iso_name: Guinea Kpelle
+  note: https://en.wikipedia.org/wiki/Kpelle_language
+- question: Q2
+  lang_id: 1304
+  lang_name: Loma
+  country: GUI
+  iso_639_3:
+  - tom
+  iso_name: null
+  note: Toma is the dialect of Loma spoken in Guinea
+- question: Q2
+  lang_id: 1305
+  lang_name: Kissié
+  country: GUI
+  iso_639_3:
+  - kqs
+  iso_name: Northern Kissi
+  note: https://en.wikipedia.org/wiki/Kissi_language
+- question: Q2
+  lang_id: 1420
+  lang_name: Algerian Arabic
+  country: ALG
+  iso_639_3:
+  - arq
+  iso_name: null
+  note: null
+- question: Q2
+  lang_id: 143
+  lang_name: Sesubia
+  country: BOT
+  iso_639_3:
+  - sbs
+  iso_name: null
+  note: Sesubea or Kuhane
+- question: Q2
+  lang_id: 145
+  lang_name: Seherero
+  country: BOT
+  iso_639_3:
+  - her
+  iso_name: null
+  note: Herero
+- question: Q2
+  lang_id: 146
+  lang_name: Sembukushu
+  country: BOT
+  iso_639_3:
+  - mhw
+  iso_name: null
+  note: Mbukushu
+- question: Q2
+  lang_id: 1460
+  lang_name: Egyptian Arabic
+  country: EGY
+  iso_639_3:
+  - arz
+  iso_name: Modern Egyptian
+  note: null
+- question: Q2
+  lang_id: 147
+  lang_name: Sebirwa
+  country: BOT
+  iso_639_3:
+  - brl
+  iso_name: null
+  note: Birwa
+- question: Q2
+  lang_id: 148
+  lang_name: Sengologa
+  country: BOT
+  iso_639_3:
+  - xkv
+  iso_name: null
+  note: Kgalagadi or Ngologa
+- question: Q2
+  lang_id: 149
+  lang_name: Seyei
+  country: BOT
+  iso_639_3:
+  - yey
+  iso_name: null
+  note: Yeyi
+- question: Q2
+  lang_id: 1501
+  lang_name: Alhassania
+  country: MOR
+  iso_639_3:
+  - mey
+  iso_name: Arabic, Hassaniyya
+  note: https://www.ethnologue.com/country/ma/languages
+- question: Q2
+  lang_id: 1541
+  lang_name: Nubian Language
+  country: SUD
+  iso_639_3:
+  - fia
+  - kzh
+  iso_name: null
+  note: Nobiin. This is the most widely spoken Nubian language. kzh (Dongoloese) is
+    used to match with WALS Nuban (Dongolese)
+- question: Q2
+  lang_id: 1621
+  lang_name: Shangaan
+  country: SWZ
+  iso_639_3:
+  - tso
+  iso_name: null
+  note: Tsonga (Shangaan or Changana is a dialect)
+- question: Q2
+  lang_id: 1660
+  lang_name: Creolo
+  country: STP
+  iso_639_3:
+  - aoa
+  iso_name: Angolar Creole
+  note: https://en.wikipedia.org/wiki/Angolar_Creole
+- question: Q2
+  lang_id: 1700
+  lang_name: Fang
+  country: GAB
+  iso_639_3:
+  - fan
+  iso_name: Fang
+  note: https://www.ethnologue.com/country/ga/languages
+- question: Q2
+  lang_id: 1701
+  lang_name: Punu/Mériè
+  country: GAB
+  iso_639_3:
+  - kog
+  iso_name: Kota
+  note: https://www.ethnologue.com/country/ga/languages
+- question: Q2
+  lang_id: 1702
+  lang_name: Kota
+  country: GAB
+  iso_639_3:
+  - kog
+  iso_name: Kota
+  note: https://www.ethnologue.com/country/ga/languages
+- question: Q2
+  lang_id: 1703
+  lang_name: Mbédè
+  country: GAB
+  iso_639_3:
+  - mbt
+  iso_name: Mbere
+  note: Alternate name is Mbede. https://www.ethnologue.com/country/ga/languages
+- question: Q2
+  lang_id: 1704
+  lang_name: Nzébi/Métié
+  country: GAB
+  iso_639_3:
+  - nzb
+  iso_name: Njebi
+  note: Alternate name is Nzebi. https://www.ethnologue.com/country/ga/languages
+- question: Q2
+  lang_id: 1705
+  lang_name: Myénè
+  country: GAB
+  iso_639_3:
+  - mye
+  iso_name: Myene
+  note: https://www.ethnologue.com/country/ga/languages
+- question: Q2
+  lang_id: 1706
+  lang_name: Tsogho
+  country: GAB
+  iso_639_3:
+  - tsv
+  iso_name: Tsongo
+  note: https://www.ethnologue.com/country/ga/languages
+- question: Q2
+  lang_id: 1707
+  lang_name: Kélè
+  country: GAB
+  iso_639_3:
+  - keb
+  iso_name: Kele
+  note: https://www.ethnologue.com/country/ga/languages
+- question: Q2
+  lang_id: 183
+  lang_name: Gulmacema
+  country: BFO
+  iso_639_3:
+  - gux
+  iso_name: null
+  note: Gourmanchema language also goes by https://en.wikipedia.org/wiki/Gourmanch%C3%A9_language
+- question: Q2
+  lang_id: 184
+  lang_name: Gourounsi
+  country: BFO
+  iso_639_3:
+  - gur
+  iso_name: null
+  note: Farfene or Gurenne
+- question: Q2
+  lang_id: 2221
+  lang_name: Yabassi
+  country: CAM
+  iso_639_3:
+  - dua
+  iso_name: Duala
+  note: 'Yabassi only mentioned in Duala entry: https://www.ethnologue.com/country/CM/languages'
+- question: Q2
+  lang_id: 265
+  lang_name: Waala
+  country: GHA
+  iso_639_3:
+  - wlx
+  iso_name: null
+  note: Wali
+- question: Q2
+  lang_id: 266
+  lang_name: Moshie
+  country: GHA
+  iso_639_3:
+  - mos
+  iso_name: null
+  note: Moshi, Mossi, or Moore.
+- question: Q2
+  lang_id: 268
+  lang_name: Likpakpaln
+  country: GHA
+  iso_639_3:
+  - xon
+  iso_name: null
+  note: Konkomba
+- question: Q2
+  lang_id: 269
+  lang_name: Kusal
+  country: GHA
+  iso_639_3:
+  - kus
+  iso_name: null
+  note: Kusaal
+- question: Q2
+  lang_id: 273
+  lang_name: Dagaari
+  country: GHA
+  iso_639_3:
+  - dga
+  iso_name: null
+  note: Dagaare
+- question: Q2
+  lang_id: 2742
+  lang_name: Kishirazi
+  country: TAN
+  iso_639_3:
+  - ikz
+  iso_name: Ikizu
+  note: 'Kishashi is a dialect of Ikizu: https://www.ethnologue.com/country/tz/languages'
+- question: Q2
+  lang_id: 276
+  lang_name: Gruma
+  country: GHA
+  iso_639_3:
+  - kma
+  iso_name: Konni
+  note: 'Konni is spoken in Nangruma: http://www.ethnologue.com/18/language/kma/'
+- question: Q2
+  lang_id: 302
+  lang_name: Luhya
+  country: KEN
+  iso_639_3:
+  - luy
+  - lrm
+  - lwg
+  - lks
+  - lto
+  - lkb
+  - nle
+  iso_name: Luyia
+  note: null
+- question: Q2
+  lang_id: 308
+  lang_name: Mijikenda
+  country: KEN
+  iso_639_3:
+  - dig
+  - dug
+  - nyf
+  - seg
+  iso_name: null
+  note: Mijikenda language maps to ISO 639-3 languages Chonyi (coh), Digo (dig), Duruma
+    (dug), Giryama (nyf), and Segeju (Seg) https://en.wikipedia.org/wiki/Mijikenda_language
+- question: Q2
+  lang_id: 314
+  lang_name: Garre
+  country: KEN
+  iso_639_3:
+  - gex
+  iso_name: null
+  note: Garree
+- question: Q2
+  lang_id: 342
+  lang_name: Sethepu
+  country: LES
+  iso_639_3:
+  - xho
+  iso_name: Xhosa
+  note: 'Sethepu is a name for Thembu, which is a dialect of Xhosa: https://en.wikipedia.org/wiki/Thembu_people'
+- question: Q2
+  lang_id: 420
+  lang_name: Malgache officiel
+  country: MDG
+  iso_639_3:
+  - mlg
+  - plt
+  iso_name: Plateau Malagasy
+  note: null
+- question: Q2
+  lang_id: 421
+  lang_name: Malgache avec regional dialect
+  country: MDG
+  iso_639_3:
+  - mlg
+  - xmv
+  - bhr
+  - buc
+  - msh
+  - bmm
+  - skg
+  - bzc
+  - tdx
+  - txy
+  - tkg
+  - xmw
+  iso_name: Antankarana; Bara; Bushi; Masikovo; Northern Betsimisaraka; Sakaleava;
+    Southern Betsimisaraka; Tandrroy-Mafahaly; Tanosy; Tesaka; Tsimihety
+  note: null
+- question: Q2
+  lang_id: 461
+  lang_name: Chinkhonde
+  country: MLW
+  iso_639_3:
+  - nyy
+  iso_name: Nyakyusa
+  note: https://en.wikipedia.org/wiki/Nyakyusa_language
+- question: Q2
+  lang_id: 462
+  lang_name: Chilambya
+  country: MLW
+  iso_639_3:
+  - lam
+  iso_name: null
+  note: Chilamba is one of the offical Zambian languages
+- question: Q2
+  lang_id: 465
+  lang_name: Chingoni
+  country: MLW
+  iso_639_3:
+  - nya
+  iso_name: null
+  note: Chichewa/Ngoni
+- question: Q2
+  lang_id: 466
+  lang_name: Chilomwe
+  country: MLW
+  iso_639_3:
+  - lon
+  iso_name: null
+  note: Lomwe (some reports that this rolls into ‘nya’)
+- question: Q2
+  lang_id: 469
+  lang_name: Chisukwa
+  country: MLW
+  iso_639_3:
+  - ndh
+  iso_name: null
+  note: Ndali
+- question: Q2
+  lang_id: 470
+  lang_name: Chisenga
+  country: MLW
+  iso_639_3:
+  - nkv
+  - she
+  iso_name: null
+  note: http://www.ethnologue.com/18/country/MW/languages/ Chisenga area villages
+    mention Nyika. Also named Chisena. Spoken in neighboring Mozambique. https://www.ethnologue.com/language/seh
+- question: Q2
+  lang_id: 502
+  lang_name: Bella
+  country: MLI
+  iso_639_3:
+  - ses
+  iso_name: null
+  note: Bella is the Songhai name for Ikelan (a caste of Tuareg). They speak a Nilo-Saharan
+    language. Since it isn't covered by other values, this must be a Songhay language.
+    Koyraboro Sennai (ses) is spoken by 300-430,000 and not matched by any of the
+    other entries. Soninke is spoken by 2.1 million, but matched by another entry.
+- question: Q2
+  lang_id: 514
+  lang_name: Peulh/Fulfude
+  country: MLI
+  iso_639_3:
+  - ffm
+  iso_name: null
+  note: Fulfulde. This is the Fula langauge spoken in Mali. The Mali code is ‘ffm’
+    but should we just keep it as ‘ful?
+- question: Q2
+  lang_id: 516
+  lang_name: Senufo
+  country: MLI
+  iso_639_3:
+  - spp
+  iso_name: null
+  note: Senoufo or Supyire.
+- question: Q2
+  lang_id: 545
+  lang_name: Chope
+  country: MOZ
+  iso_639_3:
+  - cce
+  iso_name: Chopi
+  note: https://en.wikipedia.org/wiki/Chopi_language
+- question: Q2
+  lang_id: 549
+  lang_name: Ajaua
+  country: MOZ
+  iso_639_3:
+  - yao
+  iso_name: Chiyao
+  note: https://fr.wikipedia.org/wiki/Yao_(peuple_d%27Afrique)
+- question: Q2
+  lang_id: 590
+  lang_name: Masubia
+  country: NAM
+  iso_639_3:
+  - sbs
+  iso_name: null
+  note: Subiya
+- question: Q2
+  lang_id: 591
+  lang_name: San
+  country: NAM
+  iso_639_3:
+  - nhr
+  - nmn
+  - knw
+  - xuu
+  - naq
+  - hnh
+  - ktz
+  - hgm
+  - vaj
+  iso_name: Naro;!Xoo;Kung-Ekoka;Khwe;Khoekhoe;||Ani;Ju|'hoan;Hai||om;Northwestern
+    !Kung
+  note: 'San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx''aull''ein and Kxoe'
+- question: Q2
+  lang_id: 623
+  lang_name: Pidgin English
+  country: NIG
+  iso_639_3:
+  - pcm
+  iso_name: null
+  note: null
+- question: Q2
+  lang_id: 649
+  lang_name: Nwangavul
+  country: NIG
+  iso_639_3:
+  - sur
+  iso_name: Mwaghavul
+  note: null
+- question: Q2
+  lang_id: 665
+  lang_name: Diola
+  country: SEN
+  iso_639_3:
+  - dyo
+  iso_name: null
+  note: Acholi
+- question: Q2
+  lang_id: 710
+  lang_name: Asian/Indian
+  country: SAF
+  iso_639_3:
+  - qai
+  iso_name: Use a custom ISO code for “Asian/Indian”
+  note: Multilple languages
+- question: Q2
+  lang_id: 741
+  lang_name: Kichaga
+  country: TAN
+  iso_639_3:
+  - old
+  iso_name: null
+  note: There are many Chaga dialects. Mochi is the most widely spoken.
+- question: Q2
+  lang_id: 750
+  lang_name: Kimasai
+  country: TAN
+  iso_639_3:
+  - mas
+  iso_name: null
+  note: Maasai
+- question: Q2
+  lang_id: 752
+  lang_name: Kikurya
+  country: TAN
+  iso_639_3:
+  - kuj
+  iso_name: null
+  note: Kuria
+- question: Q2
+  lang_id: 756
+  lang_name: Kimanyema
+  country: TAN
+  iso_639_3:
+  - unk
+  iso_name: null
+  note: Could not find a match
+- question: Q2
+  lang_id: 757
+  lang_name: Kinyiramba
+  country: TAN
+  iso_639_3:
+  - nim
+  iso_name: null
+  note: Nilamba
+- question: Q2
+  lang_id: 759
+  lang_name: Kiarusha
+  country: TAN
+  iso_639_3:
+  - mas
+  iso_name: Maasi
+  note: Arusha speak Maasi (https://en.wikipedia.org/wiki/Arusha_people)
+- question: Q2
+  lang_id: 762
+  lang_name: Kiiraq
+  country: TAN
+  iso_639_3:
+  - irk
+  iso_name: null
+  note: Iraqw
+- question: Q2
+  lang_id: 763
+  lang_name: Kijaluo
+  country: TAN
+  iso_639_3:
+  - luo
+  iso_name: Luo
+  note: 'Kidjaluo is a dialect of Luo: https://www.ethnologue.com/country/tz/languages'
+- question: Q2
+  lang_id: 765
+  lang_name: Kikaguru
+  country: TAN
+  iso_639_3:
+  - kki
+  iso_name: null
+  note: kagulu
+- question: Q2
+  lang_id: 766
+  lang_name: Kimakuwa
+  country: TAN
+  iso_639_3:
+  - mgh
+  iso_name: null
+  note: Makhuwa-Meeto
+- question: Q2
+  lang_id: 768
+  lang_name: Kimbulu
+  country: TAN
+  iso_639_3:
+  - irk
+  iso_name: null
+  note: Iraqw
+- question: Q2
+  lang_id: 775
+  lang_name: Kinguu
+  country: TAN
+  iso_639_3:
+  - ziw
+  iso_name: null
+  note: https://en.wikipedia.org/wiki/Zigula_language
+- question: Q2
+  lang_id: 778
+  lang_name: Kipogoro
+  country: TAN
+  iso_639_3:
+  - poy
+  iso_name: null
+  note: pogolo
+- question: Q2
+  lang_id: 785
+  lang_name: Lukhonjo
+  country: UGA
+  iso_639_3:
+  - koo
+  iso_name: null
+  note: Konzo is also named Lukonzo https://www.ethnologue.com/language/koo
+- question: Q2
+  lang_id: 792
+  lang_name: Japadhola
+  country: UGA
+  iso_639_3:
+  - adh
+  iso_name: null
+  note: Adhola
+- question: Q2
+  lang_id: 793
+  lang_name: Lusamia
+  country: UGA
+  iso_639_3:
+  - lsm
+  iso_name: null
+  note: Samia
+- question: Q2
+  lang_id: 798
+  lang_name: Kupsabinyi
+  country: UGA
+  iso_639_3:
+  - kpz
+  iso_name: null
+  note: Kupsabiny or Sabiny https://en.wikipedia.org/wiki/Sabiny_language
+- question: Q2
+  lang_id: 799
+  lang_name: Ngakarimajong
+  country: UGA
+  iso_639_3:
+  - kdj
+  iso_name: null
+  note: Ngakarimojong
+- question: Q2
+  lang_id: 8
+  lang_name: Arabe
+  country: MLI NGR
+  iso_639_3:
+  - mey
+  iso_name: Arabic, Hasanya
+  note: Hassanyi Arabic, the form of Maghrebi Arabic spoken in Mali
+- question: Q2
+  lang_id: 847
+  lang_name: Tokaleya
+  country: ZAM
+  iso_639_3:
+  - toi
+  iso_name: Tonga
+  note: https://www.ethnologue.com/country/zm/languages
+- question: Q2
+  lang_id: 870
+  lang_name: Buja
+  country: ZIM
+  iso_639_3:
+  - bja
+  - tmv
+  iso_name: Budza;Tembo
+  note: https://en.wikipedia.org/wiki/Budza_language
+- question: Q2
+  lang_id: 872
+  lang_name: Suthu
+  country: ZIM
+  iso_639_3:
+  - sot
+  iso_name: Sotho
+  note: https://en.wikipedia.org/wiki/Sotho_language
+- question: Q2
+  lang_id: 900
+  lang_name: Creole
+  country: MAU
+  iso_639_3:
+  - mfe
+  iso_name: null
+  note: Mauritian Creole
+- question: Q2
+  lang_id: 935
+  lang_name: Sherbo
+  country: SRL
+  iso_639_3:
+  - bun
+  iso_name: Sherbro
+  note: https://en.wikipedia.org/wiki/Sherbro_language
+- question: Q2
+  lang_id: 936
+  lang_name: Fulla
+  country: SRL
+  iso_639_3:
+  - fuf
+  iso_name: Pular
+  note: Fula languag spoken in Guinea and Sierra Leonee
+- question: Q2
+  lang_id: -1
+  lang_name: Missing
+  country: null
+  iso_639_3:
+  - qna
+  iso_name: null
+  note: Custom ISO code for “missing”
+- question: Q2
+  lang_id: 9995
+  lang_name: Other
+  country: null
+  iso_639_3:
+  - qot
+  iso_name: null
+  note: Custom ISO code for “other”
+- question: Q2
+  lang_id: 9999
+  lang_name: Don't know
+  country: null
+  iso_639_3:
+  - qdk
+  iso_name: null
+  note: Custom ISO code for “don't know”
+- question: Q2
+  lang_id: 9998
+  lang_name: Refused to answer
+  country: null
+  iso_639_3:
+  - qra
+  iso_name: null
+  note: Custom ISO code for “refused to answer”
+- question: Q103
+  lang_id: -1
+  lang_name: Missing
+  country: null
+  iso_639_3:
+  - qna
+  iso_name: null
+  note: Custom ISO code for “missing”
+- question: Q103
+  lang_id: 9995
+  lang_name: Other
+  country: null
+  iso_639_3:
+  - qot
+  iso_name: null
+  note: Custom ISO code for “other”
+- question: Q2
+  lang_id: 1661
+  lang_name: Forro
+  country: null
+  iso_639_3:
+  - cri
+  iso_name: Forro Creole
+  note: null
+- question: Q2
+  lang_id: 1662
+  lang_name: Angolar
+  country: null
+  iso_639_3:
+  - aoa
+  iso_name: Angolar Creole
+  note: null
+
+- question: Q2
+  lang_id: 304
+  country: KEN
+  lang_name: Kalenjin
+  note: >
+    Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken
+    in Kenya within that group. Did not include (Endo/Marakuet)
+    The most likely language are Nandi (niq) or Kipsigis (sgc)
+  iso_639_3:
+  - enb # markweeta
+  - oki # Okiek
+  - spy # Sabaot
+  - tuy # Tugen
+  # - pko # Pokoot
+  - eyo # Elgeyo, Keyo
+  - sgc # Kipsigis
+  - niq # Nandi - this is the largest
+  - tec # Terik (Nyang'ori
+
+- question: [Q2, Q103]
+  lang_id: 260
+  country: GHA
+  lang_name: Akan
+  note: >
+    Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in
+    the individual Afrobarometer languages
+  iso_639_3:
+  - fat # Fanti
+  - twi # Twi

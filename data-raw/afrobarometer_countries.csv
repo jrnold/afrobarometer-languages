@@ -1,0 +1,39 @@
+country_name,iso_alpha3,afrob_abbv,iso_alpha2
+Algeria,DZA,ALG,DZ
+Benin,BEN,BEN,BJ
+Botswana,BWA,BOT,BW
+Burkina Faso,BFA,BFO,BF
+Burundi,BDI,BDI,BI
+Cameroon,CMR,CAM,CM
+Cape Verde,CPV,CVE,CV
+Cote d'Ivoire,CIV,CDI,CI
+Egypt,EGY,EGY,EG
+Ethiopia,ETH,ETH,ET
+Gabon,GAB,GAB,GA
+Ghana,GHA,GHA,GH
+Guinea,GNQ,GUI,GQ
+Kenya,KEN,KEN,KE
+Lesotho,LSO,LES,LS
+Liberia,LBR,LIB,LR
+Madagascar,MDG,MAD,MG
+Malawi,MWI,MLW,MW
+Mali,MLI,MLI,ML
+Mauritius,MUS,MAU,MU
+Morocco,MAR,MOR,MA
+Mozambique,MOZ,MOZ,MZ
+Namibia,NAM,NAM,"NA"
+Niger,NER,NGR,NE
+Nigeria,NGA,NIG,NG
+Senegal,SEN,SEN,SN
+Sierra Leone,SLE,SRL,SL
+South Africa,ZAF,SAF,ZA
+South Sudan,SSD,SSD,SS
+Sao Tome and Principe,STP,STP,ST
+Sudan,SDN,SUD,SD
+Swaziland,SWZ,SWZ,SZ
+Tanzania,TZA,TAN,TZ
+Togo,TGO,TOG,TG
+Tunisia,TUN,TUN,TN
+Uganda,UGA,UGA,UG
+Zambia,ZMB,ZAM,ZM
+Zimbabwe,ZWE,ZIM,ZW

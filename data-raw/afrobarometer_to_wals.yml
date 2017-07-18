@@ -1,9 +1,17 @@
+- lang_id: -1
+  questions:
+  - Q2
+  - Q103
+  wals_code:
+  - null
+  lang_name: "Missing"
+
 - lang_id: 5
   questions:
   - Q2
   - Q103
   lang_name: "Arabic"
-  wals_codes: 
+  wals_codes:
   - "ams"
   comments: >
     Assume Modern Standard Arabic.
@@ -72,7 +80,7 @@
   comments: >
     Appears in Benin and Togo. WALS doesn't have Borgu Fulfulde. The closest langs are
     Maasina Fulfulde and Guinean Fula https://www.ethnologue.com/subgroups/west-central-2.
-    
+
 - lang_id: 30
   lang_name: "Sénoufo"
   wals_codes:
@@ -81,7 +89,7 @@
   - snd
   comments: >
     All three list Senoufo as an alternate name in WALS
-    
+
 - lang_id: 32
   questions:
   - Q103
@@ -98,9 +106,9 @@
   wals_codes:
   - toz
   comments: >
-    WALS uses code toz for Tonga (Zimbabwe). This appears in 
-    ZAM and ZIM in Afrobarometer. 
-  
+    WALS uses code toz for Tonga (Zimbabwe). This appears in
+    ZAM and ZIM in Afrobarometer.
+
 - lang_id: 105
   lang_name: Peulh
   questions:
@@ -131,7 +139,7 @@
 
 - lang_id: 315
   lang_name: "Borana"
-  questions: 
+  questions:
   - Q2
   wals_codes:
   - orb
@@ -152,7 +160,7 @@
   - tms
   - dts
   comments: "Include all languages in the \"Dogon\" genus."
-    
+
 - lang_id: 511
   questions:
   - Q2
@@ -160,7 +168,7 @@
   - mdk
   - mlq
   lang_name: Malinke
-  comments: > 
+  comments: >
     These are the two Mande languages spoken in Mali.
     Mandinka (mdk) and Manika (Western) (mlq)
 
@@ -188,12 +196,12 @@
   - "ger"
   comments: >
     Keep only the main German german language
-    
+
 - lang_id: 591
   lang_name: "San"
   questions:
   - Q2
-  wals_codes: 
+  wals_codes:
   - nro
   - kxo
   - kho
@@ -208,7 +216,7 @@
   questions: [Q2, Q103]
   wals_codes: [igb]
   comments: "Only use the main Igbo language"
-    
+
 - lang_id: 626
   lang_name: Fulani
   questions:
@@ -243,11 +251,11 @@
   - bam
   - mdk
   comments: >
-  
+
     WALS does not mention Bambaara as spoken in Senegal. But it is included since it is mentioned by name.
 
 - lang_id: 704
-  questions: 
+  questions:
   - Q103
   - Q2
   lang_name: "Sesotho/Sotho/South Sotho"
@@ -283,7 +291,7 @@
   comments: >
     Nsegna is the Ngoni language spoken in Zambia.
     Chichewa is spoken in Malawi.
-    
+
 - lang_id: 861
   questions: [Q103, Q2]
   lang_name: Shona
@@ -291,14 +299,14 @@
   comments: >
     Both WALS Karanga and Shona map to Ethnologue sna (Shona).
     However, Afrobarometer has a seperate entry for Karanga.
-  
+
 - lang_id: 862
   questions: [Q2]
   lang_name: Zezuru
   wals_codes: [shn]
   comments: >
     Zezuru is another major Shona dialect.
-    
+
 - lang_id: 863
   questions: [Q2]
   lang_name: Korekore
@@ -328,7 +336,7 @@
   wals_codes:
   - mnk
   comments: >
-    
+
     Maninka (mnk) is the more widely spoken Mende language in Sierra Leone (listed as 3 by Ethnologue)
 
 - lang_id: 1105
@@ -412,7 +420,7 @@
   questions:
   - Q2
   lang_name: Yacouba
-  wals_codes: 
+  wals_codes:
   - dan
   comments: >
     Yacouba listed as an alternate name in http://wals.info/languoid/lect/wals_code_dan
@@ -423,7 +431,7 @@
   wals_codes:
   - mnk
   lang_name: Maninka
-  
+
 - lang_id: 1305
   questions:
   - Q103
@@ -440,7 +448,7 @@
   - fub
   comments: >
     Spoken in Cameroon.
-    
+
 - lang_id: 1301
   lang_name: Poular
   questions:
@@ -449,7 +457,7 @@
   - fgu
   comments: >
     Guinean Fula
-    
+
 - lang_id: 1302
   questions:
   - Q103
@@ -460,7 +468,7 @@
     Guinean Fula
 
 - lang_id: 1420
-  questions: 
+  questions:
   - Q2
   lang_name: Algerian Arabic
   wals_codes:
@@ -470,14 +478,14 @@
     Algerian Arabic is closest to Tunisian and Moroccan Arabic.
 
 - lang_id: 1460
-  questions: 
+  questions:
   - Q2
   lang_name: Egyptian Arabic
   wals_codes:
   - aeg
 
 - lang_id: 1540
-  questions: 
+  questions:
   - Q2
   lang_name: Sudanese Arabic
   wals_codes:

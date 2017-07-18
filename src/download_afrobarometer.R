@@ -1,0 +1,38 @@
+AFROBAROMETER_URLS <- list(
+  "r1" = "http://afrobarometer.org/sites/default/files/data/round-1/merged_r1_data.sav",
+  "r2" = "http://afrobarometer.org/sites/default/files/data/round-2/merged_r2_data.sav",
+  "r3" = "http://www.afrobarometer.org/data/merged-round-3-data-18-countries-2005",
+  "r4" = "http://afrobarometer.org/sites/default/files/data/round-4/merged_r4_data.sav",
+  "r5" = "http://afrobarometer.org/sites/default/files/data/round-5/merged-round-5-data-34-countries-2011-2013-last-update-july-2015.sav",
+  "r6" = "http://afrobarometer.org/sites/default/files/data/round-6/merged_r6_data_2016_36countries2.sav"
+)
+
+#' Download Afrobarometer Merged Datasets
+#'
+#' Currently this only downloads r6
+#'
+#' @param path URL of Afrobarometer Data
+#' @param dst
+#' @return A string with the filename of the file created.
+download_afrobarometer <- function(dst) {
+  if (!dir.exists(dst)) {
+    dir.create(dst, recursive = TRUE)
+  }
+  path <- AFROBAROMETER_URLS[["r6"]]
+  outfile <- file.path(dst, basename(path))
+  if (!file.exists(outfile)) {
+    message("Downloading ", path, "\n")
+    resp <- GET(path, add_headers("user-agent" = "Mozilla/5.0"),
+                write_disk(outfile, overwrite = TRUE))
+    status <- status_code(resp)
+    message("Status code: ", status, "\n")
+    if (status == 200) {
+      message("Wrote to ", outfile, "\n")
+    } else {
+      stop("Failed to download \n", call. = FALSE)
+    }
+    outfile
+  } else {
+    message(sprintf("%s already exists; not downloading it\n", dst))
+  }
+}
