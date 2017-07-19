@@ -11,7 +11,7 @@ library("httr")
 OUTPUT <- find_rstudio_root_file("external", "iso-639-3")
 
 # URL of the current version of
-ISO_639_3_VERSION <- "20160525"
+ISO_639_3_VERSION <- "20170217"
 ISO_639_3_URL <- paste0("http://www-01.sil.org/iso639-3/",
                         "iso-639-3_Code_Tables_",
                         ISO_639_3_VERSION, ".zip")

@@ -79,6 +79,8 @@ write_afroarometer_langs <- function(x, dst) {
          languages = map_chr(languages, function(x) {
            str_c(str_trim(x), collapse = ";")
          })) %>%
+  select(question, lang_id, lang_name, everything()) %>%
+  arrange(question, lang_id) %>%
   write_csv(path = dst)
 }
 
