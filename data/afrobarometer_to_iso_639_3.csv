@@ -1,0 +1,770 @@
+question,iso_639_3,lang_id,iso_scope,iso_ref_name,lang_name
+Q103,qna,-1,,,Missing
+Q103,eng,1,I,English,English
+Q103,fra,2,I,French,French
+Q103,por,3,I,Portuguese,Portuguese
+Q103,swh,4,I,Swahili (individual language),Swahili
+Q103,arb,5,I,Standard Arabic,Arabic
+Q103,afr,7,I,Afrikaans,Afrikaans
+Q103,dyu,15,I,Dyula,Dioula
+Q103,ewe,16,I,Ewe,Ewe
+Q103,fuh,18,I,Western Niger Fulfulde,Fulfuldé
+Q103,fuq,18,I,Central-Eastern Niger Fulfulde,Fulfuldé
+Q103,hau,20,I,Hausa,Hausa
+Q103,taq,32,I,Tamasheq,Tamasheq
+Q103,ttq,32,I,Tawallammat Tamajaq,Tamasheq
+Q103,thv,32,I,Tahaggart Tamahaq,Tamasheq
+Q103,yor,35,I,Yoruba,Yoruba
+Q103,fon,100,I,Fon,Fon
+Q103,ajg,101,I,Aja (Benin),Adja
+Q103,bba,102,I,Baatonum,Bariba
+Q103,tbz,104,I,Ditammari,Outamari
+Q103,fue,105,I,Borgu Fulfulde,Peulh
+Q103,fuh,105,I,Western Niger Fulfulde,Peulh
+Q103,dop,106,I,Lukpa,Lopka
+Q103,tsn,140,I,Tswana,Setswana
+Q103,mos,180,I,Mossi,Mooré
+Q103,gux,183,I,Gourmanchéma,Gulmacema
+Q103,gur,184,I,Farefare,Gourounsi
+Q103,kea,220,I,Kabuverdianu,Crioulo
+Q103,por,221,I,Portuguese,Português
+Q103,fat,260,I,Fanti,Akan
+Q103,twi,260,I,Twi,Akan
+Q103,gaa,262,I,Ga,Ga/Dangbe
+Q103,adq,262,I,Adangbe,Ga/Dangbe
+Q103,dag,263,I,Dagbani,Dagbani
+Q103,wlx,265,I,Wali (Ghana),Waala
+Q103,dga,273,I,Southern Dagaare,Dagaree
+Q103,kik,300,I,Kikuyu,Kikuyu
+Q103,luo,301,I,Luo (Kenya and Tanzania),Luo
+Q103,lkb,302,I,Kabras,Luhya
+Q103,lks,302,I,Kisa,Luhya
+Q103,lto,302,I,Tsotso,Luhya
+Q103,lwg,302,I,Wanga,Luhya
+Q103,nle,302,I,East Nyala,Luhya
+Q103,kam,303,I,Kamba (Kenya),Kamba
+Q103,enb,304,I,Markweeta,Kalenjin
+Q103,eyo,304,I,Keiyo,Kalenjin
+Q103,niq,304,I,Nandi,Kalenjin
+Q103,oki,304,I,Okiek,Kalenjin
+Q103,sgc,304,I,Kipsigis,Kalenjin
+Q103,spy,304,I,Sabaot,Kalenjin
+Q103,tec,304,I,Terik,Kalenjin
+Q103,tuy,304,I,Tugen,Kalenjin
+Q103,guz,305,I,Gusii,Kisii
+Q103,mer,306,I,Meru,Meru/Samburu
+Q103,saq,306,I,Samburu,Meru/Samburu
+Q103,mas,307,I,Masai,Maasai / Samburu
+Q103,saq,307,I,Samburu,Maasai / Samburu
+Q103,som,310,I,Somali,Somali
+Q103,sot,340,I,Southern Sotho,Sesotho
+Q103,lir,380,I,Liberian English,Liberian English
+Q103,plt,420,I,Plateau Malagasy,Malgache « officiel »
+Q103,bhr,421,I,Bara Malagasy,Malgache avec spécificité régionale
+Q103,bmm,421,I,Northern Betsimisaraka Malagasy,Malgache avec spécificité régionale
+Q103,buc,421,I,Bushi,Malgache avec spécificité régionale
+Q103,bzc,421,I,Southern Betsimisaraka Malagasy,Malgache avec spécificité régionale
+Q103,msh,421,I,Masikoro Malagasy,Malgache avec spécificité régionale
+Q103,skg,421,I,Sakalava Malagasy,Malgache avec spécificité régionale
+Q103,tdx,421,I,Tandroy-Mahafaly Malagasy,Malgache avec spécificité régionale
+Q103,tkg,421,I,Tesaka Malagasy,Malgache avec spécificité régionale
+Q103,txy,421,I,Tanosy Malagasy,Malgache avec spécificité régionale
+Q103,xmv,421,I,Antankarana Malagasy,Malgache avec spécificité régionale
+Q103,xmw,421,I,Tsimihety Malagasy,Malgache avec spécificité régionale
+Q103,tum,460,I,Tumbuka,Chitumbuka
+Q103,nya,463,I,Nyanja,Chichewa
+Q103,bam,501,I,Bambara,Bambara
+Q103,ffm,514,I,Maasina Fulfulde,Peulh/Fulfude
+Q103,snk,517,I,Soninke,Soninké
+Q103,hmb,518,I,Humburi Senni Songhay,Sonrhai
+Q103,khq,518,I,Koyra Chiini Songhay,Sonrhai
+Q103,ses,518,I,Koyraboro Senni Songhai,Sonrhai
+Q103,vmw,540,I,Makhuwa,Makua
+Q103,seh,541,I,Sena,Sena
+Q103,ndc,542,I,Ndau,Ndau
+Q103,tso,543,I,Tsonga,Changana
+Q103,ndo,581,I,Ndonga,Oshiwambo (Oshindonga/Oshikwanyama)
+Q103,her,582,I,Herero,Otjiherero
+Q103,kwn,583,I,Kwangali,Rukwangali
+Q103,agb,621,I,Legbo,Igbo
+Q103,ibo,621,I,Igbo,Igbo
+Q103,pcm,623,I,Nigerian Pidgin,Pidgin English
+Q103,wol,660,I,Wolof,Wolof
+Q103,fuc,661,I,Pulaar,Pulaar/Toucouleur
+Q103,dyo,665,I,Jola-Fonyi,Diola
+Q103,xho,702,I,Xhosa,Xhosa
+Q103,nso,703,I,Pedi,Pedi/Spedi/North Sotho
+Q103,sot,704,I,Southern Sotho,Sesotho/Sotho/South Sotho
+Q103,nso,704,I,Pedi,Sesotho/Sotho/South Sotho
+Q103,tsn,705,I,Tswana,Setswana/Tswana
+Q103,ven,708,I,Venda,Venda
+Q103,zul,709,I,Zulu,Zulu
+Q103,lug,780,I,Ganda,Luganda
+Q103,cgg,781,I,Chiga,Runyankore-Rukiga
+Q103,nyo,782,I,Nyoro,Runyoro-Rutooro
+Q103,xog,783,I,Soga,Lusoga
+Q103,myx,784,I,Masaaba,Lumasaaba
+Q103,teo,787,I,Teso,Ateso
+Q103,ach,788,I,Acoli,Acholi-Langi
+Q103,alz,789,I,Alur,Alur
+Q103,lgg,790,I,Lugbara,Lugbara
+Q103,adh,792,I,Adhola,Japadhola
+Q103,kpz,798,I,Kupsabiny,Kupsabinyi
+Q103,kdj,799,I,Karamojong,Ngakarimajong
+Q103,nya,820,I,Nyanja,Chewa/Nyanja
+Q103,bem,821,I,Bemba (Zambia),Bembia
+Q103,toi,822,I,Tonga (Zambia),Tonga
+Q103,kqn,823,I,Kaonde,Kaonde
+Q103,loz,824,I,Lozi,Lozi
+Q103,nde,860,I,North Ndebele,Ndebele
+Q103,sna,861,I,Shona,Shona
+Q103,mfe,900,I,Morisyen,Creole
+Q103,kri,930,I,Krio,Krio
+Q103,men,931,I,Mende (Sierra Leone),Mende
+Q103,tem,932,I,Timne,Temne
+Q103,hau,1100,I,Hausa,Haoussa
+Q103,dje,1101,I,Zarma,Zarma/Songhaï
+Q103,kbp,1142,I,Kabiyè,Kabye
+Q103,kdh,1143,I,Tem,Tem (Kotokoli)
+Q103,mfq,1144,I,Moba,Ben (Moba)
+Q103,las,1145,I,Lama (Togo),Nawdem (Losso)
+Q103,nmz,1145,I,Nawdm,Nawdem (Losso)
+Q103,run,1180,I,Rundi,Kirundi
+Q103,fub,1220,I,Adamawa Fulfulde,Foufouldé
+Q103,fuv,1220,I,Nigerian Fulfulde,Foufouldé
+Q103,wes,1221,I,Cameroon Pidgin,Pidgin
+Q103,ewo,1222,I,Ewondo,Ewondo
+Q103,sus,1300,I,Susu,Soussou
+Q103,fuf,1302,I,Pular,Poular
+Q103,emk,1305,I,Eastern Maninkakan,Maninka
+Q103,gkp,1307,I,Guinea Kpelle,Kpèlè
+Q103,kqs,1312,I,Northern Kissi,Kissié
+Q103,ssw,1620,I,Swati,siSwati
+Q103,aoa,1660,I,Angolar,Creolo
+Q103,qot,9995,,,Other
+Q103,qra,9998,,,
+Q103,qdk,9999,,,
+Q2,qna,-1,,,Missing
+Q2,eng,1,I,English,English
+Q2,fra,2,I,French,French
+Q2,por,3,I,Portuguese,Portuguese
+Q2,swh,4,I,Swahili (individual language),Swahili
+Q2,arb,5,I,Standard Arabic,Arabic
+Q2,ajg,6,I,Aja (Benin),Adja
+Q2,afr,7,I,Afrikaans,Afrikaans
+Q2,mey,8,I,Hassaniyya,Arabe
+Q2,bam,9,I,Bambara,Bambara
+Q2,bas,10,I,Basa (Cameroon),Bassa
+Q2,ngn,10,I,Ngwo,Bassa
+Q2,bsq,10,I,Bassa,Bassa
+Q2,cnu,11,I,Chenoua,Berber Language
+Q2,kab,11,I,Kabyle,Berber Language
+Q2,rif,11,I,Tarifit,Berber Language
+Q2,shi,11,I,Tachelhit,Berber Language
+Q2,shy,11,I,Tachawit,Berber Language
+Q2,thv,11,I,Tahaggart Tamahaq,Berber Language
+Q2,tzm,11,I,Central Atlas Tamazight,Berber Language
+Q2,bib,12,I,Bissa,Bissa
+Q2,bbo,13,I,Northern Bobo Madaré,Bobo
+Q2,box,13,I,Buamu,Bobo
+Q2,bwq,13,I,Southern Bobo Madaré,Bobo
+Q2,bmq,13,I,Bomu,Bobo
+Q2,nya,14,I,Nyanja,Chewa
+Q2,dyu,15,I,Dyula,Dioula
+Q2,ewe,16,I,Ewe,Ewe
+Q2,fon,17,I,Fon,Fon
+Q2,fuh,18,I,Western Niger Fulfulde,Fulfuldé
+Q2,fuq,18,I,Central-Eastern Niger Fulfulde,Fulfuldé
+Q2,hau,19,I,Hausa,Haoussa
+Q2,hau,20,I,Hausa,Hausa
+Q2,bms,21,I,Bilma Kanuri,Kanuri
+Q2,kby,21,I,Manga Kanuri,Kanuri
+Q2,knc,21,I,Central Kanuri,Kanuri
+Q2,krt,21,I,Tumari Kanuri,Kanuri
+Q2,kss,22,I,Southern Kisi,Kissi
+Q2,kqs,22,I,Northern Kissi,Kissi
+Q2,lob,23,I,Lobi,Lobi
+Q2,mev,24,I,Mano,Mano
+Q2,men,25,I,Mende (Sierra Leone),Mende
+Q2,ndc,26,I,Ndau,Ndau
+Q2,nbl,27,I,South Ndebele,Ndebele
+Q2,nde,27,I,North Ndebele,Ndebele
+Q2,nya,28,I,Nyanja,Nyanja
+Q2,fue,29,I,Borgu Fulfulde,Peulh
+Q2,fuh,29,I,Western Niger Fulfulde,Peulh
+Q2,sen,30,I,Nanerigé Sénoufo,Sénoufo
+Q2,sep,30,I,Sìcìté Sénoufo,Sénoufo
+Q2,seq,30,I,Senara Sénoufo,Sénoufo
+Q2,dyi,30,I,Djimini Senoufo,Sénoufo
+Q2,plr,30,I,Palaka Senoufo,Sénoufo
+Q2,seb,30,I,Shempire Senoufo,Sénoufo
+Q2,sef,30,I,Cebaara Senoufo,Sénoufo
+Q2,sev,30,I,Nyarafolo Senoufo,Sénoufo
+Q2,tgw,30,I,Tagwana Senoufo,Sénoufo
+Q2,tsn,31,I,Tswana,Setswana
+Q2,taq,32,I,Tamasheq,Tamasheq
+Q2,ttq,32,I,Tawallammat Tamajaq,Tamasheq
+Q2,thv,32,I,Tahaggart Tamahaq,Tamasheq
+Q2,toi,33,I,Tonga (Zambia),Tonga
+Q2,ndc,33,I,Ndau,Tonga
+Q2,tso,33,I,Tsonga,Tonga
+Q2,ven,34,I,Venda,Venda
+Q2,yor,35,I,Yoruba,Yoruba
+Q2,bba,102,I,Baatonum,Bariba
+Q2,ddn,103,I,Dendi (Benin),Dendi
+Q2,tbz,105,I,Ditammari,Otamari
+Q2,dop,107,I,Lukpa,Lopka
+Q2,hio,141,I,Tsoa,Sesarwa
+Q2,xkv,142,I,Kgalagadi,Sekgalagadi
+Q2,sbs,143,I,Subiya,Sesubia
+Q2,kck,144,I,Kalanga,Ikalanga/Sekalaka
+Q2,her,145,I,Herero,Seherero
+Q2,mhw,146,I,Mbukushu,Sembukushu
+Q2,brl,147,I,Birwa,Sebirwa
+Q2,xkv,148,I,Kgalagadi,Sengologa
+Q2,yey,149,I,Yeyi,Seyei
+Q2,mos,180,I,Mossi,Mooré
+Q2,gux,183,I,Gourmanchéma,Gulmacema
+Q2,gur,184,I,Farefare,Gourounsi
+Q2,bfo,186,I,Malba Birifor,Birifor
+Q2,box,187,I,Buamu,Bwamu
+Q2,bwj,187,I,Láá Láá Bwamu,Bwamu
+Q2,bwy,187,I,Cwi Bwamu,Bwamu
+Q2,dgi,188,I,Northern Dagara,Dagari
+Q2,kfz,189,I,Koromfé,Fulse
+Q2,cme,190,I,Cerma,Goin
+Q2,kza,191,I,Western Karaboro,Karaboro
+Q2,xrb,191,I,Eastern Karaboro,Karaboro
+Q2,xsm,192,I,Kasem,Kassena
+Q2,rkm,194,I,Marka,Marka
+Q2,knz,195,I,Kalamsé,Samo
+Q2,sbd,195,I,Southern Samo,Samo
+Q2,stj,195,I,Matya Samo,Samo
+Q2,sym,195,I,Maya Samo,Samo
+Q2,hmb,197,I,Humburi Senni Songhay,Sonrai
+Q2,kea,220,I,Kabuverdianu,Crioulo
+Q2,por,221,I,Portuguese,Português
+Q2,fat,260,I,Fanti,Akan
+Q2,twi,260,I,Twi,Akan
+Q2,gaa,262,I,Ga,Ga/Dangbe
+Q2,adq,262,I,Adangbe,Ga/Dangbe
+Q2,dag,263,I,Dagbani,Dagbani
+Q2,wlx,265,I,Wali (Ghana),Waala
+Q2,mos,266,I,Mossi,Moshie
+Q2,maw,267,I,Mampruli,Mampruli
+Q2,xon,268,I,Konkomba,Likpakpaln
+Q2,kus,269,I,Kusaal,Kusal
+Q2,xon,270,I,Konkomba,Konkomba
+Q2,gjn,271,I,Gonja,Gonja
+Q2,gur,272,I,Farefare,Frafra
+Q2,dga,273,I,Southern Dagaare,Dagaari
+Q2,kdh,275,I,Tem,Kotokoli
+Q2,kma,276,I,Konni,Gruma
+Q2,bwu,277,I,Buli (Ghana),Buli
+Q2,bud,278,I,Ntcham,Basari
+Q2,kik,300,I,Kikuyu,Kikuyu
+Q2,luo,301,I,Luo (Kenya and Tanzania),Luo
+Q2,lkb,302,I,Kabras,Luhya
+Q2,lks,302,I,Kisa,Luhya
+Q2,lto,302,I,Tsotso,Luhya
+Q2,lwg,302,I,Wanga,Luhya
+Q2,nle,302,I,East Nyala,Luhya
+Q2,kam,303,I,Kamba (Kenya),Kamba
+Q2,enb,304,I,Markweeta,Kalenjin
+Q2,eyo,304,I,Keiyo,Kalenjin
+Q2,niq,304,I,Nandi,Kalenjin
+Q2,oki,304,I,Okiek,Kalenjin
+Q2,sgc,304,I,Kipsigis,Kalenjin
+Q2,spy,304,I,Sabaot,Kalenjin
+Q2,tec,304,I,Terik,Kalenjin
+Q2,tuy,304,I,Tugen,Kalenjin
+Q2,guz,305,I,Gusii,Kisii
+Q2,mer,306,I,Meru,Meru/Embu
+Q2,ebu,306,I,Embu,Meru/Embu
+Q2,mas,307,I,Masai,Maasai/Samburu
+Q2,saq,307,I,Samburu,Maasai/Samburu
+Q2,dig,308,I,Digo,Mijikenda
+Q2,dug,308,I,Duruma,Mijikenda
+Q2,nyf,308,I,Giryama,Mijikenda
+Q2,seg,308,I,Segeju,Mijikenda
+Q2,dav,309,I,Taita,Taita
+Q2,som,310,I,Somali,Somali
+Q2,pko,311,I,Pökoot,Pokot
+Q2,tuv,312,I,Turkana,Turkana
+Q2,kuj,313,I,Kuria,Kuria
+Q2,gex,314,I,Garre,Garre
+Q2,gax,315,I,Borana-Arsi-Guji Oromo,Borana
+Q2,sot,340,I,Southern Sotho,Sesotho
+Q2,ssw,341,I,Swati,Sephuthi
+Q2,xho,342,I,Xhosa,Sethepu
+Q2,blh,381,I,Kuwaa,Belle
+Q2,dee,382,I,Dewoin,Dei
+Q2,bza,383,I,Bandi,Gbandi
+Q2,dnj,384,I,Dan,Gio
+Q2,gol,385,I,Gola,Gola
+Q2,gbo,386,I,Northern Grebo,Grebo
+Q2,gec,386,I,Gboloo Grebo,Grebo
+Q2,grj,386,I,Southern Grebo,Grebo
+Q2,grv,386,I,Central Grebo,Grebo
+Q2,gry,386,I,Barclayville Grebo,Grebo
+Q2,xpe,388,I,Liberia Kpelle,Kpelle
+Q2,kqo,389,I,Eastern Krahn,Krahn
+Q2,krw,389,I,Western Krahn,Krahn
+Q2,klu,390,I,Klao,Kru
+Q2,ted,390,I,Tepo Krumen,Kru
+Q2,lom,391,I,Loma (Liberia),Lorma
+Q2,mzj,392,I,Manya,Mandingo
+Q2,vai,395,I,Vai,Vai
+Q2,lir,396,I,Liberian English,Liberian English
+Q2,plt,420,I,Plateau Malagasy,Malgache « officiel »
+Q2,bhr,421,I,Bara Malagasy,Malgache avec spécificité régionale
+Q2,bmm,421,I,Northern Betsimisaraka Malagasy,Malgache avec spécificité régionale
+Q2,buc,421,I,Bushi,Malgache avec spécificité régionale
+Q2,bzc,421,I,Southern Betsimisaraka Malagasy,Malgache avec spécificité régionale
+Q2,msh,421,I,Masikoro Malagasy,Malgache avec spécificité régionale
+Q2,skg,421,I,Sakalava Malagasy,Malgache avec spécificité régionale
+Q2,tdx,421,I,Tandroy-Mahafaly Malagasy,Malgache avec spécificité régionale
+Q2,tkg,421,I,Tesaka Malagasy,Malgache avec spécificité régionale
+Q2,txy,421,I,Tanosy Malagasy,Malgache avec spécificité régionale
+Q2,xmv,421,I,Antankarana Malagasy,Malgache avec spécificité régionale
+Q2,xmw,421,I,Tsimihety Malagasy,Malgache avec spécificité régionale
+Q2,tum,460,I,Tumbuka,Chitumbuka
+Q2,nyy,461,I,Nyakyusa-Ngonde,Chinkhonde
+Q2,lam,462,I,Lamba,Chilambya
+Q2,nya,463,I,Nyanja,Chichewa
+Q2,yao,464,I,Yao,Chiyao
+Q2,nya,465,I,Nyanja,Chingoni
+Q2,lon,466,I,Malawi Lomwe,Chilomwe
+Q2,swk,467,I,Malawi Sena,Chimang'anja
+Q2,swk,468,I,Malawi Sena,Chisena
+Q2,ndh,469,I,Ndali,Chisukwa
+Q2,nkv,470,I,Nyika (Malawi and Zambia),Chisenga
+Q2,she,470,I,Sheko,Chisenga
+Q2,tog,471,I,Tonga (Nyasa),Chitonga
+Q2,ses,502,I,Koyraboro Senni Songhai,Bella
+Q2,boo,504,I,Tiemacèwè Bozo,Bozo
+Q2,boz,504,I,Tiéyaxo Bozo,Bozo
+Q2,bze,504,I,Jenaama Bozo,Bozo
+Q2,bzx,504,I,Kɛlɛngaxo Bozo,Bozo
+Q2,rkm,505,I,Marka,Dafing
+Q2,aqd,506,I,Ampari Dogon,Dogon
+Q2,dbg,506,I,Dogul Dom Dogon,Dogon
+Q2,dbt,506,I,Ben Tey Dogon,Dogon
+Q2,dbu,506,I,Bondum Dom Dogon,Dogon
+Q2,dbw,506,I,Bankan Tey Dogon,Dogon
+Q2,dds,506,I,Donno So Dogon,Dogon
+Q2,dgb,506,I,Bunoge Dogon,Dogon
+Q2,djm,506,I,Jamsay Dogon,Dogon
+Q2,dmb,506,I,Mombo Dogon,Dogon
+Q2,dti,506,I,Ana Tinga Dogon,Dogon
+Q2,dtk,506,I,Tene Kan Dogon,Dogon
+Q2,dtm,506,I,Tomo Kan Dogon,Dogon
+Q2,dto,506,I,Tommo So Dogon,Dogon
+Q2,dts,506,I,Toro So Dogon,Dogon
+Q2,dtt,506,I,Toro Tegu Dogon,Dogon
+Q2,dtu,506,I,Tebul Ure Dogon,Dogon
+Q2,dym,506,I,Yanda Dom Dogon,Dogon
+Q2,nzz,506,I,Nanga Dama Dogon,Dogon
+Q2,tde,506,I,Tiranige Diga Dogon,Dogon
+Q2,xkg,509,I,Kagoro,Kakolo
+Q2,kao,510,I,Xaasongaxango,Khassonké
+Q2,kao,511,I,Xaasongaxango,Malinké
+Q2,mlq,511,I,Western Maninkakan,Malinké
+Q2,mwk,511,I,Kita Maninkakan,Malinké
+Q2,mey,512,I,Hassaniyya,Maure
+Q2,myk,513,I,Mamara Senoufo,Mianka
+Q2,ffm,514,I,Maasina Fulfulde,Peulh/Fulfude
+Q2,dux,515,I,Duungooma,Samogo
+Q2,spp,516,I,Supyire Senoufo,Senufo
+Q2,snk,517,I,Soninke,Soninké/Sarakolé
+Q2,hmb,518,I,Humburi Senni Songhay,Sonrhai
+Q2,khq,518,I,Koyra Chiini Songhay,Sonrhai
+Q2,ses,518,I,Koyraboro Senni Songhai,Sonrhai
+Q2,vmw,540,I,Makhuwa,Makua
+Q2,seh,541,I,Sena,Sena
+Q2,tso,543,I,Tsonga,Changana
+Q2,cce,545,I,Chopi,Chope
+Q2,toh,546,I,Gitonga,Bitonga
+Q2,kde,547,I,Makonde,Makonde
+Q2,chw,548,I,Chuwabu,Chuabo
+Q2,yao,549,I,Yao,Ajaua
+Q2,ngl,550,I,Lomwe,Lomue
+Q2,nyu,552,I,Nyungwe,Nyungwe
+Q2,tsc,553,I,Tswa,Xitswa
+Q2,deu,581,I,German,German
+Q2,naq,582,I,Khoekhoe,Nama/Damara
+Q2,ndo,583,I,Ndonga,Oshiwambo (Oshindonga/Oshikwanyama)
+Q2,her,584,I,Herero,Otjiherero
+Q2,kwn,585,I,Kwangali,Rukwangali
+Q2,diu,586,I,Diriku,Rugririku/Rumanyo
+Q2,mhw,587,I,Mbukushu,Thimbukushu
+Q2,loz,588,I,Lozi,Silozi
+Q2,sbs,590,I,Subiya,Masubia
+Q2,hgm,591,I,Hai//om,San
+Q2,hnh,591,I,//Ani,San
+Q2,knw,591,I,Kung-Ekoka,San
+Q2,ktz,591,I,Ju/'hoan,San
+Q2,naq,591,I,Khoekhoe,San
+Q2,nhr,591,I,Naro,San
+Q2,nmn,591,I,!Xóõ,San
+Q2,vaj,591,I,Sekele,San
+Q2,xuu,591,I,Kxoe,San
+Q2,agb,621,I,Legbo,Igbo
+Q2,ibo,621,I,Igbo,Igbo
+Q2,pcm,623,I,Nigerian Pidgin,Pidgin English
+Q2,efi,624,I,Efik,Efik
+Q2,igb,625,I,Ebira,Ebira
+Q2,fub,626,I,Adamawa Fulfulde,Fulani
+Q2,iso,627,I,Isoko,Isoko
+Q2,ibb,628,I,Ibibio,Ibibio
+Q2,nup,631,I,Nupe-Nupe-Tako,Nupe
+Q2,ijc,632,I,Izon,Ijaw
+Q2,ijs,632,I,Southeast Ijo,Ijaw
+Q2,bin,633,I,Bini,Edo
+Q2,igl,634,I,Igala,Igala
+Q2,urh,635,I,Urhobo,Urhobo
+Q2,ogo,636,I,Khana,Ogoni
+Q2,anw,637,I,Anaang,Anang
+Q2,ikw,638,I,Ikwere,Ikwere
+Q2,idu,639,I,Idoma,Idoma
+Q2,ish,640,I,Esan,Esan
+Q2,ijs,641,I,Southeast Ijo,Nembe
+Q2,ala,642,I,Alago,Alago
+Q2,deg,643,I,Degema,Degema
+Q2,ego,644,I,Eggon,Eggon
+Q2,jbu,645,I,Jukun Takum,Jukun
+Q2,kdm,646,I,Kagoma,Kagoma
+Q2,lan,647,I,Laru,Laru
+Q2,ijn,648,I,Kalabari,Kalabari
+Q2,sur,649,I,Mwaghavul,Nwangavul
+Q2,tan,650,I,Tangale,Tangale
+Q2,yer,651,I,Tarok,Tarok
+Q2,wja,652,I,Waja,Waja
+Q2,yba,653,I,Yala,Yala
+Q2,wol,660,I,Wolof,Wolof
+Q2,fuc,661,I,Pulaar,Pulaar/Toucouleur
+Q2,cae,662,I,Lehar,Serer
+Q2,fap,662,I,Palor,Serer
+Q2,snf,662,I,Noon,Serer
+Q2,srr,662,I,Serer,Serer
+Q2,mnk,663,I,Mandinka,Mandinka/Bambara
+Q2,snk,664,I,Soninke,Soninke
+Q2,dyo,665,I,Jola-Fonyi,Diola
+Q2,mfv,666,I,Mandjak,Manjack
+Q2,bsc,668,I,Bassari,Bassari
+Q2,xho,702,I,Xhosa,Xhosa
+Q2,nso,703,I,Pedi,Pedi/North Sotho
+Q2,nso,704,I,Pedi,Sotho/South Sotho
+Q2,sot,704,I,Southern Sotho,Sotho/South Sotho
+Q2,tsn,705,I,Tswana,Tswana
+Q2,tso,706,I,Tsonga,Shangaan/Tsonga
+Q2,ssw,707,I,Swati,Swazi
+Q2,zul,709,I,Zulu,Zulu
+Q2,qai,710,,,Asian/Indian
+Q2,nyy,740,I,Nyakyusa-Ngonde,Kinyakyusa
+Q2,old,741,I,Mochi,Kichaga
+Q2,hay,742,I,Haya,Kihaya
+Q2,ngo,743,I,Ngoni,Kingoni
+Q2,cwe,744,I,Kwere,Kikwere
+Q2,ked,744,I,Kerewe,Kikwere
+Q2,asa,745,I,Asu (Tanzania),Kipare
+Q2,heh,746,I,Hehe,Kihehe
+Q2,kde,747,I,Makonde,Kimakonde
+Q2,nym,748,I,Nyamwezi,Kinyamwezi
+Q2,suk,749,I,Sukuma,Kisukuma
+Q2,mas,750,I,Masai,Kimasai
+Q2,rwk,751,I,Rwa,Kimeru
+Q2,kuj,752,I,Kuria,Kikurya
+Q2,gog,753,I,Gogo,Kigogo
+Q2,ruf,754,I,Luguru,Kiluguru
+Q2,fip,755,I,Fipa,Kifipa
+Q2,unk,756,I,Enawené-Nawé,Kimanyema
+Q2,nim,757,I,Nilamba,Kinyiramba
+Q2,rim,758,I,Nyaturu,Kinyaturu
+Q2,mas,759,I,Masai,Kiarusha
+Q2,bez,760,I,Bena (Tanzania),Kibena
+Q2,haq,761,I,Ha,Kiha
+Q2,irk,762,I,Iraqw,Kiiraq
+Q2,luo,763,I,Luo (Kenya and Tanzania),Kijaluo
+Q2,jit,764,I,Jita,Kijita
+Q2,kki,765,I,Kagulu,Kikaguru
+Q2,mgh,766,I,Makhuwa-Meetto,Kimakuwa
+Q2,mgv,767,I,Matengo,Kimatengo
+Q2,irk,768,I,Iraqw,Kimbulu
+Q2,mjh,769,I,Mwera (Nyasa),Kimwera
+Q2,mwe,769,I,Mwera (Chimwera),Kimwera
+Q2,ndh,770,I,Ndali,Kindali
+Q2,ndj,771,I,Ndamba,Kindamba
+Q2,dne,772,I,Ndendeule,Kindendeule
+Q2,ndg,773,I,Ndengereko,Kindengereko
+Q2,nnq,774,I,Ngindo,Kingindo
+Q2,ziw,775,I,Zigula,Kinguu
+Q2,now,776,I,Nyambo,Kinyambo
+Q2,nih,777,I,Nyiha (Tanzania),Kinyiha
+Q2,nkt,777,I,Nyika (Tanzania),Kinyiha
+Q2,poy,778,I,Pogolo,Kipogoro
+Q2,lag,779,I,Langi,Kirangi
+Q2,lug,780,I,Ganda,Luganda
+Q2,nyn,781,I,Nyankole,Runyankole
+Q2,nyo,782,I,Nyoro,Runyoro
+Q2,xog,783,I,Soga,Lusoga
+Q2,myx,784,I,Masaaba,Lumasaaba
+Q2,koo,785,I,Konzo,Lukhonjo
+Q2,nuj,786,I,Nyole,Lunyole
+Q2,teo,787,I,Teso,Ateso
+Q2,ach,788,I,Acoli,Acholi
+Q2,alz,789,I,Alur,Alur
+Q2,lgg,790,I,Lugbara,Lugbara
+Q2,mhi,791,I,Ma'di,Madi
+Q2,snm,791,I,Southern Ma'di,Madi
+Q2,adh,792,I,Adhola,Japadhola
+Q2,lsm,793,I,Saamia,Lusamia
+Q2,gwr,794,I,Gwere,Lugwere
+Q2,cgg,795,I,Chiga,Rukiga
+Q2,ttj,796,I,Tooro,Rutooro
+Q2,laj,797,I,Lango (Uganda),Langi
+Q2,kpz,798,I,Kupsabiny,Kupsabinyi
+Q2,kdj,799,I,Karamojong,Ngakarimajong
+Q2,kin,800,I,Kinyarwanda,Rufumbira
+Q2,bem,820,I,Bemba (Zambia),Bemba
+Q2,loz,823,I,Lozi,Lozi
+Q2,nse,825,I,Nsenga,Nsenga
+Q2,tum,826,I,Tumbuka,Tumbuka
+Q2,kqn,827,I,Kaonde,Kaonde
+Q2,lue,828,I,Luvale,Luvale
+Q2,mwn,829,I,Nyamwanga,Namwanga
+Q2,bem,830,I,Bemba (Zambia),Lunda
+Q2,lun,830,I,Lunda,Lunda
+Q2,leb,831,I,Lala-Bisa,Bisa
+Q2,nka,832,I,Nkoya,Nkoya
+Q2,mgr,833,I,Mambwe-Lungu,Mambwe
+Q2,leh,834,I,Lenje,Lenje
+Q2,nse,835,I,Nsenga,Ngoni
+Q2,nya,835,I,Nyanja,Ngoni
+Q2,tum,835,I,Tumbuka,Ngoni
+Q2,sby,836,I,Soli,Soli
+Q2,ilb,837,I,Ila,Ila
+Q2,auh,838,I,Aushi,Ushi
+Q2,cjk,839,I,Chokwe,Chokwe
+Q2,mck,840,I,Mbunda,Mbunda
+Q2,kdn,841,I,Kunda,Kunda
+Q2,nya,841,I,Nyanja,Kunda
+Q2,leb,842,I,Lala-Bisa,Lala
+Q2,lam,843,I,Lamba,Lamba
+Q2,mgr,844,I,Mambwe-Lungu,Lungu
+Q2,nih,845,I,Nyiha (Tanzania),Nyika
+Q2,nkv,845,I,Nyika (Malawi and Zambia),Nyika
+Q2,nse,846,I,Nsenga,Senga
+Q2,tum,846,I,Tumbuka,Senga
+Q2,toi,847,I,Tonga (Zambia),Tokaleya
+Q2,tap,851,I,Taabwa,Tabwa
+Q2,sna,861,I,Shona,Shona
+Q2,sna,862,I,Shona,Zezuru
+Q2,sna,863,I,Shona,Korekore
+Q2,sna,864,I,Shona,Karanga
+Q2,mxc,865,I,Manyika,Manyika
+Q2,kck,868,I,Kalanga,Kalanga
+Q2,bja,870,I,Budza,Buja
+Q2,tmv,870,I,Tembo (Motembo),Buja
+Q2,tso,871,I,Tsonga,Shangani
+Q2,sot,872,I,Southern Sotho,Suthu
+Q2,mfe,900,I,Morisyen,Creole
+Q2,kri,930,I,Krio,Krio
+Q2,tem,932,I,Timne,Temne
+Q2,lia,933,I,West-Central Limba,Limba
+Q2,lma,933,I,East Limba,Limba
+Q2,lok,934,I,Loko,Loko
+Q2,bun,935,I,Sherbro,Sherbo
+Q2,fuf,936,I,Pular,Fulla
+Q2,kno,937,I,Kono (Sierra Leone),Kono
+Q2,knk,938,I,Kuranko,Kuranko
+Q2,emk,939,I,Eastern Maninkakan,Madingo
+Q2,sus,941,I,Susu,Susu
+Q2,yal,943,I,Yalunka,Yalunka
+Q2,dje,1101,I,Zarma,Zarma/Songhaï
+Q2,gux,1105,I,Gourmanchéma,Goumantchéma
+Q2,gej,1141,I,Gen,Mina (Guen)
+Q2,kbp,1142,I,Kabiyè,Kabye
+Q2,kdh,1143,I,Tem,Tem (Kotokoli)
+Q2,mfq,1144,I,Moba,Ben (Moba)
+Q2,las,1145,I,Lama (Togo),Nawdem (Losso)
+Q2,nmz,1145,I,Nawdm,Nawdem (Losso)
+Q2,las,1146,I,Lama (Togo),Lama (Lamba)
+Q2,ife,1147,I,Ifè,Ife (Ana)
+Q2,kpo,1148,I,Ikposo,Ikposso (Akposso)
+Q2,bud,1149,I,Ntcham,N'tcha (Bassar)
+Q2,keu,1151,I,Akebu,Akebou
+Q2,gux,1152,I,Gourmanchéma,Gourma
+Q2,xon,1153,I,Konkomba,Konkomba
+Q2,gng,1154,I,Ngangam,Ngam-gam
+Q2,aks,1155,I,Akaselem,Tchamba
+Q2,wci,1157,I,Waci Gbe,Ouatchi
+Q2,cko,1160,I,Anufo,Tchpkossi (Anoufom)
+Q2,run,1180,I,Rundi,Kirundi
+Q2,fub,1220,I,Adamawa Fulfulde,Foufouldé
+Q2,fuv,1220,I,Nigerian Fulfulde,Foufouldé
+Q2,wes,1221,I,Cameroon Pidgin,Pidgin
+Q2,ewo,1222,I,Ewondo,Ewondo
+Q2,fmp,1223,I,Fe'fe',Bafang
+Q2,dua,1224,I,Duala,Douala
+Q2,ksf,1225,I,Bafia,Bafia
+Q2,bfd,1226,I,Bafut,Bafut
+Q2,byv,1227,I,Medumba,Bangangté
+Q2,bdu,1228,I,Oroko,Bakundu
+Q2,bbj,1229,I,Ghomálá',Bamileke
+Q2,bko,1229,I,Kwa',Bamileke
+Q2,byv,1229,I,Medumba,Bamileke
+Q2,fmp,1229,I,Fe'fe',Bamileke
+Q2,jgo,1229,I,Ngomba,Bamileke
+Q2,new,1229,I,Newari,Bamileke
+Q2,nla,1229,I,Ngombale,Bamileke
+Q2,nnh,1229,I,Ngiemboon,Bamileke
+Q2,nnz,1229,I,Nda'nda',Bamileke
+Q2,xmg,1229,I,Mengaka,Bamileke
+Q2,ybb,1229,I,Yemba,Bamileke
+Q2,bax,1230,I,Bamun,Bamoun
+Q2,bbj,1231,I,Ghomálá',Bandjoun
+Q2,nge,1232,I,Ngemba,Bangwa
+Q2,nnz,1232,I,Nda'nda',Bangwa
+Q2,lns,1233,I,Lamnso',Banso
+Q2,bdu,1235,I,Oroko,Batanga
+Q2,bnm,1235,I,Batanga,Batanga
+Q2,ckx,1235,I,Caka,Batanga
+Q2,ken,1236,I,Kenyang,Bayangi
+Q2,bum,1237,I,Bulu (Cameroon),Bulu
+Q2,ybb,1238,I,Yemba,Dschang
+Q2,eto,1239,I,Eton (Cameroon),Eton
+Q2,fal,1240,I,South Fali,Fali
+Q2,fll,1240,I,North Fali,Fali
+Q2,ewo,1241,I,Ewondo,Fong
+Q2,gya,1242,I,Northwest Gbaya,Gbaya
+Q2,gid,1243,I,Gidar,Guider
+Q2,gis,1244,I,North Giziga,Guiziga
+Q2,giz,1244,I,South Giziga,Guiziga
+Q2,kvj,1246,I,Psikye,Kapsiki
+Q2,maf,1247,I,Mafa,Mafa
+Q2,mkk,1248,I,Byep,Maka
+Q2,nge,1249,I,Ngemba,Mankon
+Q2,mcn,1250,I,Masana,Massa
+Q2,jgo,1251,I,Ngomba,Mbouda
+Q2,nla,1251,I,Ngombale,Mbouda
+Q2,nnh,1251,I,Ngiemboon,Mbouda
+Q2,mdd,1252,I,Mbum,Mboum
+Q2,mnf,1254,I,Mundani,Moudan
+Q2,nnh,1255,I,Ngiemboon,Ngueba
+Q2,lns,1257,I,Lamnso',Lamnso
+Q2,tik,1258,I,Tikar,Tikari
+Q2,tui,1259,I,Tupuri,Toupouri
+Q2,aba,1260,I,Abé,Abbey
+Q2,abr,1261,I,Abron,Abron
+Q2,adj,1262,I,Adioukrou,Adjoukrou
+Q2,any,1263,I,Anyin,Agny
+Q2,ati,1264,I,Attié,Attié
+Q2,avi,1265,I,Avikam,Avikam
+Q2,bci,1267,I,Baoulé,Baoulé
+Q2,bet,1268,I,Guiberoua Béte,Bété
+Q2,bev,1268,I,Daloa Bété,Bété
+Q2,btg,1268,I,Gagnoa Bété,Bété
+Q2,nwb,1268,I,Nyabwa,Bété
+Q2,dic,1269,I,Lakota Dida,Dida
+Q2,gud,1269,I,Yocoboué Dida,Dida
+Q2,god,1270,I,Godié,Godié
+Q2,goa,1271,I,Guro,Gouro
+Q2,gxx,1272,I,Wè Southern,Guéré
+Q2,wec,1272,I,Wè Western,Guéré
+Q2,nku,1273,I,Bouna Kulango,Koulango
+Q2,pye,1274,I,Pye Krumen,Kroumen
+Q2,ted,1274,I,Tepo Krumen,Kroumen
+Q2,dnj,1278,I,Dan,Yacouba
+Q2,dyi,1279,I,Djimini Senoufo,Djimini
+Q2,nwb,1280,I,Nyabwa,Gnanboua
+Q2,kga,1281,I,Koyaga,Koyaka
+Q2,wob,1282,I,Wè Northern,Wobe
+Q2,sus,1300,I,Susu,Soussou
+Q2,fuf,1301,I,Pular,Poular
+Q2,emk,1302,I,Eastern Maninkakan,Maninka
+Q2,gkp,1303,I,Guinea Kpelle,Kpèlè
+Q2,tom,1304,I,Tombulu,Loma
+Q2,kqs,1305,I,Northern Kissi,Kissié
+Q2,arq,1420,I,Algerian Arabic,Algerian Arabic
+Q2,arz,1460,I,Egyptian Arabic,Egyptian Arabic
+Q2,mey,1501,I,Hassaniyya,Alhassania
+Q2,apd,1540,I,Sudanese Arabic,Sudanese Arabic
+Q2,fia,1541,I,Nobiin,Nubian Language
+Q2,kzh,1541,,,Nubian Language
+Q2,ssw,1620,I,Swati,siSwati
+Q2,tso,1621,I,Tsonga,Shangaan
+Q2,aoa,1660,I,Angolar,Creolo
+Q2,cri,1661,I,Sãotomense,Forro
+Q2,aoa,1662,I,Angolar,Angolar
+Q2,fan,1700,I,Fang (Equatorial Guinea),Fang
+Q2,kog,1701,I,Cogui,Punu/Mériè
+Q2,kog,1702,I,Cogui,Kota
+Q2,mbt,1703,I,Matigsalug Manobo,Mbédè
+Q2,nzb,1704,I,Njebi,Nzébi/Métié
+Q2,mye,1705,I,Myene,Myénè
+Q2,tsv,1706,I,Tsogo,Tsogho
+Q2,keb,1707,I,Kélé,Kélè
+Q2,yam,2220,I,Yamba,Yamba
+Q2,dua,2221,I,Duala,Yabassi
+Q2,bum,2222,I,Bulu (Cameroon),Bene
+Q2,sbk,2740,I,Safwa,Kisafwa
+Q2,ksb,2741,I,Shambala,Kisambaa
+Q2,ikz,2742,I,Ikizu,Kishirazi
+Q2,suj,2743,I,Shubi,Kisubi
+Q2,suw,2744,I,Sumbwa,Kisumbwa
+Q2,yao,2745,I,Yao,Kiyao
+Q2,zak,2746,I,Zanaki,Kizanaki
+Q2,zaj,2747,I,Zaramo,Kizaramo
+Q2,ziw,2748,I,Zigula,Kizigua
+Q2,qot,9995,,,Other
+Q2,qra,9998,,,
+Q2,qdk,9999,,,Don't know
+Q103,swa,4,,,Swahili
+Q103,ara,5,,,Arabic
+Q103,ful,18,,,Fulfuldé
+Q103,tmh,32,,,Tamasheq
+Q103,ful,105,,,Peulh
+Q103,aka,260,,,Akan
+Q103,luy,302,,,Luhya
+Q103,kln,304,,,Kalenjin
+Q103,mlg,420,,,Malgache « officiel »
+Q103,mlg,421,,,Malgache avec spécificité régionale
+Q103,ful,514,,,Peulh/Fulfude
+Q103,ful,661,,,Pulaar/Toucouleur
+Q103,ful,1220,,,Foufouldé
+Q103,ful,1302,,,Poular
+Q103,man,1305,,,Maninka
+Q103,kpe,1307,,,Kpèlè
+Q2,swa,4,,,Swahili
+Q2,ara,5,,,Arabic
+Q2,tmh,11,,,Berber Language
+Q2,ful,18,,,Fulfuldé
+Q2,kau,21,,,Kanuri
+Q2,ful,29,,,Peulh
+Q2,tmh,32,,,Tamasheq
+Q2,aka,260,,,Akan
+Q2,luy,302,,,Luhya
+Q2,kln,304,,,Kalenjin
+Q2,kln,311,,,Pokot
+Q2,orm,315,,,Borana
+Q2,grb,386,,,Grebo
+Q2,kpe,388,,,Kpelle
+Q2,mlg,420,,,Malgache « officiel »
+Q2,mlg,421,,,Malgache avec spécificité régionale
+Q2,man,511,,,Malinké
+Q2,ful,514,,,Peulh/Fulfude
+Q2,ful,626,,,Fulani
+Q2,ful,661,,,Pulaar/Toucouleur
+Q2,man,663,,,Mandinka/Bambara
+Q2,luy,793,,,Lusamia
+Q2,ful,936,,,Fulla
+Q2,man,939,,,Madingo
+Q2,ful,1220,,,Foufouldé
+Q2,gba,1242,,,Gbaya
+Q2,ful,1301,,,Poular
+Q2,man,1302,,,Maninka
+Q2,kpe,1303,,,Kpèlè
+Q2,ara,1420,,,Algerian Arabic
+Q2,ara,1460,,,Egyptian Arabic
+Q2,ara,1540,,,Sudanese Arabic

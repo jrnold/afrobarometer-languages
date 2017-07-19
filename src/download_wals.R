@@ -1,4 +1,11 @@
+#' ---
+#' title: Download WALS data
+#' ---
 library("httr")
+library("rprojroot")
+
+OUTPUT <- find_rstudio_root_file("external", "wals")
+
 WALS_CSV_URL <- "http://wals.info/static/download/wals-language.csv.zip"
 
 #' Download WALS Data
@@ -18,3 +25,5 @@ download_wals <- function(dst) {
     message(sprintf("Directory %s exits; Not downloading WALS files\n", dst))
   }
 }
+
+download_wals(OUTPUT)

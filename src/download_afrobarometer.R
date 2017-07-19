@@ -1,3 +1,10 @@
+#' ---
+#' title: Download Afrobarometer data
+#' ---
+library("httr")
+library("rprojroot")
+
+OUTPUT <- find_rstudio_root_file("external", "afrobarometer")
 AFROBAROMETER_URLS <- list(
   "r1" = "http://afrobarometer.org/sites/default/files/data/round-1/merged_r1_data.sav",
   "r2" = "http://afrobarometer.org/sites/default/files/data/round-2/merged_r2_data.sav",
@@ -36,3 +43,5 @@ download_afrobarometer <- function(dst) {
     message(sprintf("%s already exists; not downloading it\n", dst))
   }
 }
+
+download_afrobarometer(OUTPUT)

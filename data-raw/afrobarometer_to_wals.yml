@@ -82,6 +82,9 @@
     Maasina Fulfulde and Guinean Fula https://www.ethnologue.com/subgroups/west-central-2.
 
 - lang_id: 30
+  questions:
+  - Q103
+  - Q2
   lang_name: "Sénoufo"
   wals_codes:
   - nrg
@@ -355,7 +358,7 @@
 
 - lang_id: 1229
   lang_name: Bamileke
-  qestions:
+  questions:
   - Q2
   wals_codes:
   - fef
@@ -366,6 +369,8 @@
     Ethnologue lists a Bamileke hierarchy - no mention of Bamileke in WALS
 
 - lang_id: 1228
+  questions:
+  - Q2
   lang_name: Bakundu
   wals_codes:
   - bkn
@@ -384,6 +389,8 @@
 
 - lang_id: 1235
   lang_name: Batanga
+  questions:
+  - Q2
   wals_codes:
   - bkn
   - ldo
@@ -492,3 +499,45 @@
   - abb
   comments: >
     Abbeche Chad Arabic is also put in the Sudanese Group, https://en.wikipedia.org/wiki/Varieties_of_Arabic
+
+- lang_id: 9999
+  questions:
+  - Q2
+  - Q103
+  wals_codes:
+  - ""
+
+- lang_id: 9995
+  lang_name: "Other"
+  questions:
+  - Q2
+  - Q103
+  wals_codes:
+  - ""
+
+- lang_id: 710
+  questions:
+  - Q2
+  - Q103
+  wals_codes:
+  - ""
+
+- lang_id: 396
+  lang_name: Liberian English
+  wals_code:
+  - npi
+  questions:
+  - Q2
+  note: >
+    Liberian English is an English-based Creole. Nigerian Pidgin is the
+    most similar Creole included in WALS
+
+- lang_id: 380
+  questions:
+  - Q103
+  lang_name: Liberian English
+  wals_code:
+  - npi
+  note: >
+    Liberian English is an English-based Creole. Nigerian Pidgin is the
+    most similar Creole included in WALS

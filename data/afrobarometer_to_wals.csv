@@ -1,0 +1,1485 @@
+question,lang_id,lang_name,wals_code,wals_name,auto,distance,latitude,longitude,genus,family,countrycodes
+Q103,-1,Missing,,,FALSE,,,,,,
+Q103,1,English,eng,English,TRUE,0,52,0,Germanic,Indo-European,GB IE
+Q103,2,French,fre,French,TRUE,0,48,2,Romance,Indo-European,CH FR
+Q103,3,Portuguese,por,Portuguese,TRUE,0,39,-8,Romance,Indo-European,PT
+Q103,4,Swahili,swa,Swahili,TRUE,0,-6.5,39,Bantoid,Niger-Congo,TZ
+Q103,5,Arabic,ams,Arabic (Modern Standard),FALSE,,25,42,Semitic,Afro-Asiatic,KM KW SO SY OM QA EG TN MA LY JO LB ER YE SA IQ PS DZ AE BH SD IL
+Q103,7,Afrikaans,afr,Afrikaans,TRUE,0,-31,22,Germanic,Indo-European,ZA
+Q103,15,Dioula,dyu,Dyula,TRUE,0,9.83333333333,-4.66666666667,Western Mande,Mande,ML BF CI
+Q103,16,Ewe,ewe,Ewe,FALSE,,6.33333333333,0.416666666667,Kwa,Niger-Congo,TG GH
+Q103,18,Fulfuldé,fbf,Fula (Burkina Faso),FALSE,,14,0,Northern Atlantic,Niger-Congo,BF
+Q103,18,Fulfuldé,fli,Ful (Liptako),FALSE,,13.5,0.5,Northern Atlantic,Niger-Congo,BF
+Q103,20,Hausa,hau,Hausa,TRUE,0,12,7,West Chadic,Afro-Asiatic,NG NE
+Q103,29,,fuf,,FALSE,,,,,,
+Q103,29,,fum,Fulfulde (Maasina),FALSE,,15,-5,Northern Atlantic,Niger-Congo,ML
+Q103,30,,dym,Dyimini,FALSE,,8.41666666667,-4.41666666667,Gur,Niger-Congo,CI
+Q103,30,,nrg,Nanerge,FALSE,,11.75,-5,Gur,Niger-Congo,BF
+Q103,30,,snd,Senadi,FALSE,,9.5,-6.25,Gur,Niger-Congo,CI
+Q103,32,Tamasheq,tsk,Tamashek,FALSE,,20,-2,Berber,Afro-Asiatic,ML
+Q103,35,Yoruba,yor,Yoruba,TRUE,0,8,4.33333333333,Defoid,Niger-Congo,NG BJ
+Q103,100,Fon,fon,Fongbe,TRUE,0,6.41666666667,2.16666666667,Kwa,Niger-Congo,BJ
+Q103,101,Adja,ajg,Ajagbe,TRUE,0,7,1.75,Kwa,Niger-Congo,TG BJ
+Q103,102,Bariba,brb,Bariba,TRUE,0,10,2.5,Gur,Niger-Congo,NG BJ
+Q103,104,Outamari,wwa,Waama,TRUE,2,10.5833333333,1.66666666667,Gur,Niger-Congo,BJ
+Q103,105,Peulh,fuf,,FALSE,,,,,,
+Q103,105,Peulh,fum,Fulfulde (Maasina),FALSE,,15,-5,Northern Atlantic,Niger-Congo,ML
+Q103,106,Lopka,tem,Tem,TRUE,2,8.66666666667,0.5,Gur,Niger-Congo,BJ GH TG
+Q103,106,Lopka,kby,Kabiyé,TRUE,2,9.66666666667,1.16666666667,Gur,Niger-Congo,TG
+Q103,140,Setswana,tsw,Tswana,TRUE,0,-24,26,Bantoid,Niger-Congo,BW ZA
+Q103,180,Mooré,moo,Mooré,TRUE,0,12.8333333333,-1.25,Gur,Niger-Congo,BF
+Q103,183,Gulmacema,grm,Gurma,TRUE,0,12.25,1,Gur,Niger-Congo,BF
+Q103,183,Gulmacema,gut,Gurma (Togo),TRUE,0,10.75,0.666666666667,Gur,Niger-Congo,BF
+Q103,184,Gourounsi,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH
+Q103,220,Crioulo,mlc,Malacca Creole,TRUE,2,2.2,102.25,Creoles and Pidgins,other,MY
+Q103,220,Crioulo,ago,Angolar,TRUE,2,0.25,6.5,Creoles and Pidgins,other,ST
+Q103,220,Crioulo,pri,Príncipense,TRUE,2,1.61666666667,7.36666666667,Creoles and Pidgins,other,ST
+Q103,220,Crioulo,gbc,Guinea Bissau Crioulo,TRUE,2,12,-15,Creoles and Pidgins,other,GW
+Q103,221,Português,por,Portuguese,TRUE,0,39,-8,Romance,Indo-European,PT
+Q103,260,Akan,akn,Akan,TRUE,0,6.5,-1.25,Kwa,Niger-Congo,GH
+Q103,262,Ga/Dangbe,ga,Gã,TRUE,0,5.66666666667,-0.166666666667,Kwa,Niger-Congo,GH
+Q103,263,Dagbani,dgb,Dagbani,TRUE,0,9.58333333333,-0.5,Gur,Niger-Congo,GH
+Q103,265,Waala,grn,Gurenne,TRUE,2,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH
+Q103,265,Waala,moo,Mooré,TRUE,2,12.8333333333,-1.25,Gur,Niger-Congo,BF
+Q103,273,Dagaree,dga,Dagaare,TRUE,0,10.5,-2.66666666667,Gur,Niger-Congo,GH BF
+Q103,300,Kikuyu,kik,Kikuyu,TRUE,0,-0.75,36.75,Bantoid,Niger-Congo,KE
+Q103,301,Luo,luo,Luo,TRUE,0,-0.5,34.75,Nilotic,Eastern Sudanic,TZ KE
+Q103,302,Luhya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q103,302,Luhya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q103,302,Luhya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q103,302,Luhya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q103,302,Luhya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q103,302,Luhya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q103,302,Luhya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q103,302,Luhya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q103,302,Luhya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q103,302,Luhya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q103,302,Luhya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q103,302,Luhya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q103,302,Luhya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q103,302,Luhya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q103,302,Luhya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q103,302,Luhya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q103,302,Luhya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q103,302,Luhya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q103,302,Luhya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q103,302,Luhya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q103,302,Luhya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q103,302,Luhya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q103,302,Luhya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q103,302,Luhya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q103,302,Luhya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q103,302,Luhya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q103,302,Luhya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q103,302,Luhya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q103,302,Luhya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q103,302,Luhya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q103,302,Luhya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q103,302,Luhya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q103,302,Luhya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q103,302,Luhya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q103,302,Luhya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q103,302,Luhya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q103,302,Luhya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q103,302,Luhya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q103,302,Luhya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q103,302,Luhya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q103,302,Luhya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q103,302,Luhya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q103,302,Luhya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q103,302,Luhya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q103,302,Luhya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q103,302,Luhya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q103,302,Luhya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q103,303,Kamba,kba,Kamba,TRUE,0,-1.5,38,Bantoid,Niger-Congo,KE
+Q103,304,Kalenjin,nan,Nandi,FALSE,,0.25,35,Nilotic,Eastern Sudanic,KE
+Q103,305,Kisii,gus,Gusii,TRUE,0,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q103,306,Meru/Samburu,maa,Maasai,TRUE,2,-3,36,Nilotic,Eastern Sudanic,KE TZ
+Q103,307,Maasai / Samburu,maa,Maasai,TRUE,0,-3,36,Nilotic,Eastern Sudanic,KE TZ
+Q103,310,Somali,som,Somali,TRUE,0,3,45,Lowland East Cushitic,Afro-Asiatic,SO
+Q103,340,Sesotho,ses,Sesotho,TRUE,0,-28,27,Bantoid,Niger-Congo,ZA LS
+Q103,380,Liberian English,,,FALSE,,,,,,
+Q103,420,Malgache « officiel »,mal,Malagasy,TRUE,0,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q103,460,Chitumbuka,ngo,Ngoni,TRUE,4,-11,36,Bantoid,Niger-Congo,MZ TZ
+Q103,460,Chitumbuka,sen,Sena,TRUE,4,-18,35.25,Bantoid,Niger-Congo,MZ
+Q103,460,Chitumbuka,nse,Nsenga,TRUE,4,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q103,460,Chitumbuka,cic,Chichewa,TRUE,4,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q103,463,Chichewa,cic,Chichewa,TRUE,0,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q103,501,Bambara,bam,Bambara,TRUE,0,12.5,-7.5,Western Mande,Mande,ML
+Q103,514,Peulh/Fulfude,fum,Fulfulde (Maasina),FALSE,,15,-5,Northern Atlantic,Niger-Congo,ML
+Q103,517,Soninké,snn,Soninke,TRUE,0,15,-10.5,Western Mande,Mande,CI SN BF ML
+Q103,518,Sonrhai,kch,Koyra Chiini,FALSE,,17,-3,Songhay,Songhay,ML
+Q103,518,Sonrhai,kse,Koyraboro Senni,FALSE,,16,0,Songhay,Songhay,ML NE
+Q103,540,Makua,mua,Makua,TRUE,2,-15,38.6666666667,Bantoid,Niger-Congo,MZ
+Q103,541,Sena,sen,Sena,TRUE,0,-18,35.25,Bantoid,Niger-Congo,MZ
+Q103,542,Ndau,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA
+Q103,542,Ndau,tsw,Tswana,TRUE,4,-24,26,Bantoid,Niger-Congo,BW ZA
+Q103,542,Ndau,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW
+Q103,542,Ndau,shn,Shona,TRUE,4,-18,31,Bantoid,Niger-Congo,ZW
+Q103,542,Ndau,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q103,542,Ndau,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA
+Q103,542,Ndau,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA
+Q103,542,Ndau,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA
+Q103,542,Ndau,rga,Ronga,TRUE,4,-26,32.5,Bantoid,Niger-Congo,MZ
+Q103,542,Ndau,stn,Sotho (Northern),TRUE,4,-24,29,Bantoid,Niger-Congo,ZA
+Q103,542,Ndau,ses,Sesotho,TRUE,4,-28,27,Bantoid,Niger-Congo,ZA LS
+Q103,542,Ndau,swt,Swati,TRUE,4,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q103,542,Ndau,ven,Venda,TRUE,4,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q103,542,Ndau,tsn,Tsonga,TRUE,4,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q103,542,Ndau,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA
+Q103,543,Changana,tsn,Tsonga,TRUE,0,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,TRUE,0,-18,17,Bantoid,Niger-Congo,AO NA
+Q103,582,Otjiherero,her,Herero,TRUE,0,-20.5833333333,19,Bantoid,Niger-Congo,BW NA
+Q103,583,Rukwangali,kwn,Kwangali,TRUE,0,-18,19.5,Bantoid,Niger-Congo,NA AO
+Q103,621,Igbo,igb,Igbo,FALSE,,6,7.33333333333,Igboid,Niger-Congo,NG
+Q103,623,Pidgin English,npi,Nigerian Pidgin,TRUE,0,6.5,3.33333333333,Creoles and Pidgins,other,NG
+Q103,660,Wolof,wlf,Wolof,TRUE,0,15.25,-16,Northern Atlantic,Niger-Congo,SN GM
+Q103,661,Pulaar/Toucouleur,fus,Fula (Senegal),FALSE,,15,-14,Northern Atlantic,Niger-Congo,SN
+Q103,665,Diola,dio,Diola-Fogny,TRUE,0,13,-16.25,Northern Atlantic,Niger-Congo,GM SN
+Q103,702,Xhosa,xho,Xhosa,TRUE,0,-32,27,Bantoid,Niger-Congo,ZA
+Q103,703,Pedi/Spedi/North Sotho,stn,Sotho (Northern),TRUE,0,-24,29,Bantoid,Niger-Congo,ZA
+Q103,704,Sesotho/Sotho/South Sotho,ses,Sesotho,FALSE,,-28,27,Bantoid,Niger-Congo,ZA LS
+Q103,704,Sesotho/Sotho/South Sotho,stn,Sotho (Northern),FALSE,,-24,29,Bantoid,Niger-Congo,ZA
+Q103,705,Setswana/Tswana,tsw,Tswana,TRUE,0,-24,26,Bantoid,Niger-Congo,BW ZA
+Q103,708,Venda,ven,Venda,TRUE,0,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q103,709,Zulu,zul,Zulu,FALSE,,-30,30,Bantoid,Niger-Congo,ZA
+Q103,710,,"",,FALSE,,,,,,
+Q103,780,Luganda,lda,Luganda,TRUE,0,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q103,781,Runyankore-Rukiga,nko,Nkore-Kiga,TRUE,0,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q103,782,Runyoro-Rutooro,rru,Runyoro-Rutooro,TRUE,0,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q103,783,Lusoga,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q103,783,Lusoga,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q103,783,Lusoga,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q103,783,Lusoga,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q103,783,Lusoga,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q103,783,Lusoga,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q103,783,Lusoga,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q103,783,Lusoga,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q103,783,Lusoga,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q103,783,Lusoga,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q103,783,Lusoga,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q103,783,Lusoga,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q103,783,Lusoga,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q103,784,Lumasaaba,buk,Bukusu,TRUE,2,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q103,787,Ateso,tes,Teso,TRUE,0,1.83333333333,33.8333333333,Nilotic,Eastern Sudanic,UG
+Q103,788,Acholi-Langi,acl,Acholi,TRUE,0,3,32.6666666667,Nilotic,Eastern Sudanic,UG SD
+Q103,789,Alur,acl,Acholi,TRUE,4,3,32.6666666667,Nilotic,Eastern Sudanic,UG SD
+Q103,789,Alur,lan,Lango,TRUE,4,2.16666666667,33,Nilotic,Eastern Sudanic,UG
+Q103,790,Lugbara,lug,Lugbara,TRUE,0,3.08333333333,30.9166666667,Moru-Ma'di,Central Sudanic,CD UG
+Q103,792,Japadhola,luo,Luo,TRUE,5,-0.5,34.75,Nilotic,Eastern Sudanic,TZ KE
+Q103,798,Kupsabinyi,seb,Sebei,TRUE,0,1.33333333333,34.5833333333,Nilotic,Eastern Sudanic,UG
+Q103,799,Ngakarimajong,kmj,Karimojong,TRUE,0,3,34.1666666667,Nilotic,Eastern Sudanic,UG
+Q103,820,Chewa/Nyanja,cic,Chichewa,TRUE,0,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q103,821,Bembia,bem,Bemba,TRUE,0,-10,28.25,Bantoid,Niger-Congo,CD
+Q103,822,Tonga,toz,Tonga (in Zambia),TRUE,0,-17,27,Bantoid,Niger-Congo,ZM
+Q103,823,Kaonde,blu,Bena-Lulua,TRUE,4,-6,21,Bantoid,Niger-Congo,CD
+Q103,823,Kaonde,cil,CiLuba,TRUE,4,-6,22,Bantoid,Niger-Congo,CD
+Q103,823,Kaonde,lbu,Lunda,TRUE,4,-10.6666666667,24,Bantoid,Niger-Congo,CD
+Q103,823,Kaonde,sge,Songe,TRUE,4,-6.83333333333,22,Bantoid,Niger-Congo,CD
+Q103,823,Kaonde,kte,Kete,TRUE,4,-7,22.8333333333,Bantoid,Niger-Congo,CD
+Q103,823,Kaonde,hem,Hemba,TRUE,4,-6.25,27.1666666667,Bantoid,Niger-Congo,CD
+Q103,823,Kaonde,kyo,Kanyok,TRUE,4,-7.33333333333,23.5833333333,Bantoid,Niger-Congo,CD
+Q103,823,Kaonde,kil,Kiluba,TRUE,4,-8,26,Bantoid,Niger-Congo,CD
+Q103,824,Lozi,loz,Lozi,TRUE,0,-17.8333333333,26,Bantoid,Niger-Congo,ZM
+Q103,860,Ndebele,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA
+Q103,860,Ndebele,tsw,Tswana,TRUE,4,-24,26,Bantoid,Niger-Congo,BW ZA
+Q103,860,Ndebele,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW
+Q103,860,Ndebele,shn,Shona,TRUE,4,-18,31,Bantoid,Niger-Congo,ZW
+Q103,860,Ndebele,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q103,860,Ndebele,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA
+Q103,860,Ndebele,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA
+Q103,860,Ndebele,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA
+Q103,860,Ndebele,rga,Ronga,TRUE,4,-26,32.5,Bantoid,Niger-Congo,MZ
+Q103,860,Ndebele,stn,Sotho (Northern),TRUE,4,-24,29,Bantoid,Niger-Congo,ZA
+Q103,860,Ndebele,ses,Sesotho,TRUE,4,-28,27,Bantoid,Niger-Congo,ZA LS
+Q103,860,Ndebele,swt,Swati,TRUE,4,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q103,860,Ndebele,ven,Venda,TRUE,4,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q103,860,Ndebele,tsn,Tsonga,TRUE,4,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q103,860,Ndebele,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA
+Q103,861,Shona,shn,Shona,FALSE,,-18,31,Bantoid,Niger-Congo,ZW
+Q103,900,Creole,mcr,Mauritian Creole,TRUE,0,-20.3333333333,57.5,Creoles and Pidgins,other,MU
+Q103,930,Krio,npi,Nigerian Pidgin,TRUE,2,6.5,3.33333333333,Creoles and Pidgins,other,NG
+Q103,931,Mende,mde,Mende,TRUE,0,7.83333333333,-11.5,Western Mande,Mande,SL
+Q103,932,Temne,tne,Temne,TRUE,0,8.66666666667,-13.0833333333,Mel,Niger-Congo,SL
+Q103,1100,Haoussa,hau,Hausa,TRUE,0,12,7,West Chadic,Afro-Asiatic,NG NE
+Q103,1101,Zarma/Songhaï,zar,Zarma,TRUE,0,13.8333333333,2.16666666667,Songhay,Songhay,NE
+Q103,1142,Kabye,kby,Kabiyé,TRUE,0,9.66666666667,1.16666666667,Gur,Niger-Congo,TG
+Q103,1143,Tem (Kotokoli),tem,Tem,TRUE,0,8.66666666667,0.5,Gur,Niger-Congo,BJ GH TG
+Q103,1144,Ben (Moba),bmb,Bimoba,TRUE,2,10.5,0,Gur,Niger-Congo,GH
+Q103,1145,Nawdem (Losso),tem,Tem,TRUE,2,8.66666666667,0.5,Gur,Niger-Congo,BJ GH TG
+Q103,1145,Nawdem (Losso),kby,Kabiyé,TRUE,2,9.66666666667,1.16666666667,Gur,Niger-Congo,TG
+Q103,1180,Kirundi,rnd,Rundi,TRUE,0,-3.5,30,Bantoid,Niger-Congo,BI
+Q103,1220,Foufouldé,fub,,FALSE,,,,,,
+Q103,1221,Pidgin,npi,Nigerian Pidgin,TRUE,2,6.5,3.33333333333,Creoles and Pidgins,other,NG
+Q103,1222,Ewondo,ewo,Ewondo,TRUE,0,4,12,Bantoid,Niger-Congo,CM
+Q103,1300,Soussou,sus,Susu,TRUE,0,10,-13,Western Mande,Mande,GN
+Q103,1302,Poular,fgu,Fula (Guinean),FALSE,,11.5,-12.5,Northern Atlantic,Niger-Congo,GN
+Q103,1305,Maninka,mnk,Maninka,FALSE,,10.5,-9.5,Western Mande,Mande,GN SL
+Q103,1307,Kpèlè,kpe,Kpelle,TRUE,2,7,-10,Western Mande,Mande,LR
+Q103,1312,Kissié,kis,Kisi,TRUE,2,8.83333333333,-10.1666666667,Mel,Niger-Congo,SL GN LR
+Q103,1312,Kissié,kss,Kisi (Southern),TRUE,2,8.5,-10.25,Mel,Niger-Congo,LR GN
+Q103,1620,siSwati,swt,Swati,TRUE,0,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q103,1660,Creolo,ago,Angolar,TRUE,0,0.25,6.5,Creoles and Pidgins,other,ST
+Q103,9995,Other,"",,FALSE,,,,,,
+Q103,9999,,"",,FALSE,,,,,,
+Q2,-1,Missing,,,FALSE,,,,,,
+Q2,1,English,eng,English,TRUE,0,52,0,Germanic,Indo-European,GB IE
+Q2,2,French,fre,French,TRUE,0,48,2,Romance,Indo-European,CH FR
+Q2,3,Portuguese,por,Portuguese,TRUE,0,39,-8,Romance,Indo-European,PT
+Q2,4,Swahili,swa,Swahili,TRUE,0,-6.5,39,Bantoid,Niger-Congo,TZ
+Q2,5,Arabic,ams,Arabic (Modern Standard),FALSE,,25,42,Semitic,Afro-Asiatic,KM KW SO SY OM QA EG TN MA LY JO LB ER YE SA IQ PS DZ AE BH SD IL
+Q2,6,Adja,ajg,Ajagbe,TRUE,0,7,1.75,Kwa,Niger-Congo,TG BJ
+Q2,7,Afrikaans,afr,Afrikaans,TRUE,0,-31,22,Germanic,Indo-European,ZA
+Q2,8,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0,20,-10,Semitic,Afro-Asiatic,MR
+Q2,9,Bambara,bam,Bambara,TRUE,0,12.5,-7.5,Western Mande,Mande,ML
+Q2,10,Bassa,bas,Basaá,TRUE,0,3.91666666667,10.5,Bantoid,Niger-Congo,CM
+Q2,11,Berber Language,bch,Berber (Chaouia),FALSE,,35,7,Berber,Afro-Asiatic,DZ
+Q2,11,Berber Language,bfg,Berber (Figuig),FALSE,,32.5,-1.5,Berber,Afro-Asiatic,MA
+Q2,11,Berber Language,bma,Berber (Middle Atlas),FALSE,,33,-5,Berber,Afro-Asiatic,MA
+Q2,11,Berber Language,bmz,Berber (Mzab),FALSE,,32.5,3.5,Berber,Afro-Asiatic,DZ
+Q2,11,Berber Language,bou,Berber (Wargla),FALSE,,31.9166666667,5.33333333333,Berber,Afro-Asiatic,DZ
+Q2,11,Berber Language,brf,Berber (Rif),FALSE,,34.5,-4,Berber,Afro-Asiatic,DZ MA
+Q2,11,Berber Language,bse,Berber (Ayt Seghrouchen Middle Atlas),FALSE,,33.3333333333,-4.66666666667,Berber,Afro-Asiatic,MA
+Q2,11,Berber Language,bsi,Berber (Siwa),FALSE,,29.1666666667,25.5,Berber,Afro-Asiatic,EG
+Q2,11,Berber Language,kbl,Kabyle,FALSE,,36.5,5,Berber,Afro-Asiatic,DZ
+Q2,11,Berber Language,tai,Tuareg (Air),FALSE,,19,9,Berber,Afro-Asiatic,NE
+Q2,11,Berber Language,tas,Tashlhiyt,FALSE,,31,-5,Berber,Afro-Asiatic,MA
+Q2,11,Berber Language,tgh,Tuareg (Ghat),FALSE,,25,10.1666666667,Berber,Afro-Asiatic,LY
+Q2,11,Berber Language,tsk,Tamashek,FALSE,,20,-2,Berber,Afro-Asiatic,ML
+Q2,11,Berber Language,tug,Tuareg (Ahaggar),FALSE,,23,6,Berber,Afro-Asiatic,NE LY DZ
+Q2,11,Berber Language,zen,Zenaga,FALSE,,17.3333333333,-16,Berber,Afro-Asiatic,MR
+Q2,12,Bissa,bis,Bisa,TRUE,0,11.5,-0.5,Eastern Mande,Mande,GH BF
+Q2,13,Bobo,bbf,Bobo Madaré (Northern),TRUE,0,12.4166666667,-4.33333333333,Western Mande,Mande,BF
+Q2,14,Chewa,cic,Chichewa,TRUE,0,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,15,Dioula,dyu,Dyula,TRUE,0,9.83333333333,-4.66666666667,Western Mande,Mande,ML BF CI
+Q2,16,Ewe,ewe,Ewe,FALSE,,6.33333333333,0.416666666667,Kwa,Niger-Congo,TG GH
+Q2,17,Fon,fon,Fongbe,TRUE,0,6.41666666667,2.16666666667,Kwa,Niger-Congo,BJ
+Q2,18,Fulfuldé,fbf,Fula (Burkina Faso),FALSE,,14,0,Northern Atlantic,Niger-Congo,BF
+Q2,18,Fulfuldé,fli,Ful (Liptako),FALSE,,13.5,0.5,Northern Atlantic,Niger-Congo,BF
+Q2,19,Haoussa,hau,Hausa,TRUE,0,12,7,West Chadic,Afro-Asiatic,NG NE
+Q2,20,Hausa,hau,Hausa,TRUE,0,12,7,West Chadic,Afro-Asiatic,NG NE
+Q2,21,Kanuri,knr,Kanuri,TRUE,0,12,13,Western Saharan,Saharan,NE TD NG SD
+Q2,22,Kissi,kis,Kisi,FALSE,,8.83333333333,-10.1666666667,Mel,Niger-Congo,SL GN LR
+Q2,22,Kissi,kss,Kisi (Southern),FALSE,,8.5,-10.25,Mel,Niger-Congo,LR GN
+Q2,23,Lobi,lob,Lobi,TRUE,0,10.5,-3.25,Gur,Niger-Congo,BF CI
+Q2,24,Mano,man,Mano,TRUE,0,7,-9,Eastern Mande,Mande,LR GN
+Q2,25,Mende,mde,Mende,TRUE,0,7.83333333333,-11.5,Western Mande,Mande,SL
+Q2,26,Ndau,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA
+Q2,26,Ndau,tsw,Tswana,TRUE,4,-24,26,Bantoid,Niger-Congo,BW ZA
+Q2,26,Ndau,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW
+Q2,26,Ndau,shn,Shona,TRUE,4,-18,31,Bantoid,Niger-Congo,ZW
+Q2,26,Ndau,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q2,26,Ndau,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA
+Q2,26,Ndau,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA
+Q2,26,Ndau,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA
+Q2,26,Ndau,rga,Ronga,TRUE,4,-26,32.5,Bantoid,Niger-Congo,MZ
+Q2,26,Ndau,stn,Sotho (Northern),TRUE,4,-24,29,Bantoid,Niger-Congo,ZA
+Q2,26,Ndau,ses,Sesotho,TRUE,4,-28,27,Bantoid,Niger-Congo,ZA LS
+Q2,26,Ndau,swt,Swati,TRUE,4,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q2,26,Ndau,ven,Venda,TRUE,4,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q2,26,Ndau,tsn,Tsonga,TRUE,4,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,26,Ndau,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA
+Q2,27,Ndebele,ndb,Ndebele (in South Africa),TRUE,0,-25.3333333333,29,Bantoid,Niger-Congo,ZA
+Q2,28,Nyanja,cic,Chichewa,TRUE,0,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,29,Peulh,fuf,,FALSE,,,,,,
+Q2,29,Peulh,fum,Fulfulde (Maasina),FALSE,,15,-5,Northern Atlantic,Niger-Congo,ML
+Q2,30,Sénoufo,dym,Dyimini,FALSE,,8.41666666667,-4.41666666667,Gur,Niger-Congo,CI
+Q2,30,Sénoufo,nrg,Nanerge,FALSE,,11.75,-5,Gur,Niger-Congo,BF
+Q2,30,Sénoufo,snd,Senadi,FALSE,,9.5,-6.25,Gur,Niger-Congo,CI
+Q2,31,Setswana,tsw,Tswana,TRUE,0,-24,26,Bantoid,Niger-Congo,BW ZA
+Q2,32,Tamasheq,tsk,Tamashek,FALSE,,20,-2,Berber,Afro-Asiatic,ML
+Q2,33,Tonga,toz,Tonga (in Zambia),FALSE,,-17,27,Bantoid,Niger-Congo,ZM
+Q2,34,Venda,ven,Venda,TRUE,0,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q2,35,Yoruba,yor,Yoruba,TRUE,0,8,4.33333333333,Defoid,Niger-Congo,NG BJ
+Q2,102,Bariba,brb,Bariba,TRUE,0,10,2.5,Gur,Niger-Congo,NG BJ
+Q2,103,Dendi,zar,Zarma,TRUE,2,13.8333333333,2.16666666667,Songhay,Songhay,NE
+Q2,103,Dendi,kse,Koyraboro Senni,TRUE,2,16,0,Songhay,Songhay,ML NE
+Q2,103,Dendi,kch,Koyra Chiini,TRUE,2,17,-3,Songhay,Songhay,ML
+Q2,105,Otamari,wwa,Waama,TRUE,2,10.5833333333,1.66666666667,Gur,Niger-Congo,BJ
+Q2,107,Lopka,tem,Tem,TRUE,2,8.66666666667,0.5,Gur,Niger-Congo,BJ GH TG
+Q2,107,Lopka,kby,Kabiyé,TRUE,2,9.66666666667,1.16666666667,Gur,Niger-Congo,TG
+Q2,141,Sesarwa,det,Deti,TRUE,4,-20.5,24.5,Khoe-Kwadi,Khoe-Kwadi,BW
+Q2,141,Sesarwa,kxo,Kxoe,TRUE,4,-17.5,22.5,Khoe-Kwadi,Khoe-Kwadi,NA AO
+Q2,141,Sesarwa,ani,//Ani,TRUE,4,-18.9166666667,21.9166666667,Khoe-Kwadi,Khoe-Kwadi,BW
+Q2,141,Sesarwa,nro,Nharo,TRUE,4,-22.3333333333,20.5,Khoe-Kwadi,Khoe-Kwadi,NA BW
+Q2,142,Sekgalagadi,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA
+Q2,142,Sekgalagadi,tsw,Tswana,TRUE,4,-24,26,Bantoid,Niger-Congo,BW ZA
+Q2,142,Sekgalagadi,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW
+Q2,142,Sekgalagadi,shn,Shona,TRUE,4,-18,31,Bantoid,Niger-Congo,ZW
+Q2,142,Sekgalagadi,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q2,142,Sekgalagadi,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA
+Q2,142,Sekgalagadi,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA
+Q2,142,Sekgalagadi,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA
+Q2,142,Sekgalagadi,rga,Ronga,TRUE,4,-26,32.5,Bantoid,Niger-Congo,MZ
+Q2,142,Sekgalagadi,stn,Sotho (Northern),TRUE,4,-24,29,Bantoid,Niger-Congo,ZA
+Q2,142,Sekgalagadi,ses,Sesotho,TRUE,4,-28,27,Bantoid,Niger-Congo,ZA LS
+Q2,142,Sekgalagadi,swt,Swati,TRUE,4,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q2,142,Sekgalagadi,ven,Venda,TRUE,4,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q2,142,Sekgalagadi,tsn,Tsonga,TRUE,4,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,142,Sekgalagadi,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA
+Q2,143,Sesubia,sub,Subiya,TRUE,0,-17.75,24.9166666667,Bantoid,Niger-Congo,
+Q2,144,Ikalanga/Sekalaka,klz,Kalanga,TRUE,0,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q2,145,Seherero,her,Herero,TRUE,0,-20.5833333333,19,Bantoid,Niger-Congo,BW NA
+Q2,146,Sembukushu,luv,Luvale,TRUE,4,-12,22,Bantoid,Niger-Congo,AO
+Q2,146,Sembukushu,loz,Lozi,TRUE,4,-17.8333333333,26,Bantoid,Niger-Congo,ZM
+Q2,146,Sembukushu,sub,Subiya,TRUE,4,-17.75,24.9166666667,Bantoid,Niger-Congo,
+Q2,146,Sembukushu,luc,Lucazi,TRUE,4,-14,20,Bantoid,Niger-Congo,AO
+Q2,146,Sembukushu,kwn,Kwangali,TRUE,4,-18,19.5,Bantoid,Niger-Congo,NA AO
+Q2,147,Sebirwa,stn,Sotho (Northern),TRUE,2,-24,29,Bantoid,Niger-Congo,ZA
+Q2,148,Sengologa,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA
+Q2,148,Sengologa,tsw,Tswana,TRUE,4,-24,26,Bantoid,Niger-Congo,BW ZA
+Q2,148,Sengologa,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW
+Q2,148,Sengologa,shn,Shona,TRUE,4,-18,31,Bantoid,Niger-Congo,ZW
+Q2,148,Sengologa,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q2,148,Sengologa,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA
+Q2,148,Sengologa,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA
+Q2,148,Sengologa,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA
+Q2,148,Sengologa,rga,Ronga,TRUE,4,-26,32.5,Bantoid,Niger-Congo,MZ
+Q2,148,Sengologa,stn,Sotho (Northern),TRUE,4,-24,29,Bantoid,Niger-Congo,ZA
+Q2,148,Sengologa,ses,Sesotho,TRUE,4,-28,27,Bantoid,Niger-Congo,ZA LS
+Q2,148,Sengologa,swt,Swati,TRUE,4,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q2,148,Sengologa,ven,Venda,TRUE,4,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q2,148,Sengologa,tsn,Tsonga,TRUE,4,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,148,Sengologa,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA
+Q2,149,Seyei,yey,Yeyi,TRUE,0,-20,23.5,Bantoid,Niger-Congo,BW NA
+Q2,180,Mooré,moo,Mooré,TRUE,0,12.8333333333,-1.25,Gur,Niger-Congo,BF
+Q2,183,Gulmacema,grm,Gurma,TRUE,0,12.25,1,Gur,Niger-Congo,BF
+Q2,183,Gulmacema,gut,Gurma (Togo),TRUE,0,10.75,0.666666666667,Gur,Niger-Congo,BF
+Q2,184,Gourounsi,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH
+Q2,186,Birifor,grn,Gurenne,TRUE,4,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH
+Q2,186,Birifor,moo,Mooré,TRUE,4,12.8333333333,-1.25,Gur,Niger-Congo,BF
+Q2,186,Birifor,dga,Dagaare,TRUE,4,10.5,-2.66666666667,Gur,Niger-Congo,GH BF
+Q2,187,Bwamu,kfe,Koromfe,TRUE,4,14.25,-0.916666666667,Gur,Niger-Congo,BF ML
+Q2,187,Bwamu,kfe,Koromfe,TRUE,4,14.25,-0.916666666667,Gur,Niger-Congo,BF ML
+Q2,187,Bwamu,kfe,Koromfe,TRUE,4,14.25,-0.916666666667,Gur,Niger-Congo,BF ML
+Q2,188,Dagari,dga,Dagaare,TRUE,2,10.5,-2.66666666667,Gur,Niger-Congo,GH BF
+Q2,189,Fulse,kfe,Koromfe,TRUE,0,14.25,-0.916666666667,Gur,Niger-Congo,BF ML
+Q2,190,Goin,kir,Kirma,TRUE,0,10.25,-4.83333333333,Gur,Niger-Congo,BF
+Q2,191,Karaboro,tny,Tenyer,TRUE,0,10.6666666667,-4.5,Gur,Niger-Congo,BF
+Q2,192,Kassena,ksm,Kasem,TRUE,0,11.25,-1.25,Gur,Niger-Congo,BF
+Q2,192,Kassena,xsm,Kàsim,TRUE,0,11,-1.33333333333,Gur,Niger-Congo,BF GH
+Q2,194,Marka,mnk,Maninka,TRUE,4,10.5,-9.5,Western Mande,Mande,GN SL
+Q2,195,Samo,lye,Lyele,TRUE,2,12.5,-2.66666666667,Gur,Niger-Congo,BF
+Q2,195,Samo,nnn,Nuni (Northern),TRUE,2,12.1666666667,-3,Gur,Niger-Congo,BF
+Q2,195,Samo,ksm,Kasem,TRUE,2,11.25,-1.25,Gur,Niger-Congo,BF
+Q2,195,Samo,xsm,Kàsim,TRUE,2,11,-1.33333333333,Gur,Niger-Congo,BF GH
+Q2,197,Sonrai,zar,Zarma,TRUE,2,13.8333333333,2.16666666667,Songhay,Songhay,NE
+Q2,197,Sonrai,kse,Koyraboro Senni,TRUE,2,16,0,Songhay,Songhay,ML NE
+Q2,197,Sonrai,kch,Koyra Chiini,TRUE,2,17,-3,Songhay,Songhay,ML
+Q2,220,Crioulo,mlc,Malacca Creole,TRUE,2,2.2,102.25,Creoles and Pidgins,other,MY
+Q2,220,Crioulo,ago,Angolar,TRUE,2,0.25,6.5,Creoles and Pidgins,other,ST
+Q2,220,Crioulo,pri,Príncipense,TRUE,2,1.61666666667,7.36666666667,Creoles and Pidgins,other,ST
+Q2,220,Crioulo,gbc,Guinea Bissau Crioulo,TRUE,2,12,-15,Creoles and Pidgins,other,GW
+Q2,221,Português,por,Portuguese,TRUE,0,39,-8,Romance,Indo-European,PT
+Q2,260,Akan,akn,Akan,TRUE,0,6.5,-1.25,Kwa,Niger-Congo,GH
+Q2,262,Ga/Dangbe,ga,Gã,TRUE,0,5.66666666667,-0.166666666667,Kwa,Niger-Congo,GH
+Q2,263,Dagbani,dgb,Dagbani,TRUE,0,9.58333333333,-0.5,Gur,Niger-Congo,GH
+Q2,265,Waala,grn,Gurenne,TRUE,2,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH
+Q2,265,Waala,moo,Mooré,TRUE,2,12.8333333333,-1.25,Gur,Niger-Congo,BF
+Q2,266,Moshie,moo,Mooré,TRUE,0,12.8333333333,-1.25,Gur,Niger-Congo,BF
+Q2,267,Mampruli,mmp,Mampruli,TRUE,0,10.3333333333,-0.666666666667,Gur,Niger-Congo,GH TG
+Q2,268,Likpakpaln,kkb,Konkomba,TRUE,0,10,0.0833333333333,Gur,Niger-Congo,TG GH
+Q2,269,Kusal,mmp,Mampruli,TRUE,2,10.3333333333,-0.666666666667,Gur,Niger-Congo,GH TG
+Q2,269,Kusal,dgb,Dagbani,TRUE,2,9.58333333333,-0.5,Gur,Niger-Congo,GH
+Q2,270,Konkomba,kkb,Konkomba,TRUE,0,10,0.0833333333333,Gur,Niger-Congo,TG GH
+Q2,271,Gonja,cum,Chumburung,TRUE,2,7.75,0.25,Kwa,Niger-Congo,GH
+Q2,271,Gonja,nkn,Nkonya,TRUE,2,7.16666666667,0.25,Kwa,Niger-Congo,GH
+Q2,272,Frafra,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH
+Q2,273,Dagaari,dga,Dagaare,TRUE,0,10.5,-2.66666666667,Gur,Niger-Congo,GH BF
+Q2,275,Kotokoli,tem,Tem,TRUE,0,8.66666666667,0.5,Gur,Niger-Congo,BJ GH TG
+Q2,276,Gruma,kni,Konni,TRUE,0,10.25,-1.58333333333,Gur,Niger-Congo,GH
+Q2,277,Buli,buy,Buli (in Ghana),TRUE,0,10.5,-1.25,Gur,Niger-Congo,GH
+Q2,278,Basari,ncm,Ncàm,TRUE,0,9.33333333333,0.666666666667,Gur,Niger-Congo,GH TG
+Q2,300,Kikuyu,kik,Kikuyu,TRUE,0,-0.75,36.75,Bantoid,Niger-Congo,KE
+Q2,301,Luo,luo,Luo,TRUE,0,-0.5,34.75,Nilotic,Eastern Sudanic,TZ KE
+Q2,302,Luhya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,302,Luhya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,302,Luhya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,302,Luhya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,302,Luhya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,302,Luhya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,302,Luhya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,302,Luhya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,302,Luhya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,302,Luhya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,302,Luhya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,302,Luhya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,302,Luhya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,302,Luhya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,302,Luhya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,302,Luhya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,302,Luhya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,302,Luhya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,302,Luhya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,302,Luhya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,302,Luhya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,302,Luhya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,302,Luhya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,302,Luhya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,302,Luhya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,302,Luhya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,302,Luhya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,302,Luhya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,302,Luhya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,302,Luhya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,302,Luhya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,302,Luhya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,302,Luhya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,302,Luhya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,302,Luhya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,302,Luhya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,302,Luhya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,302,Luhya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,302,Luhya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,302,Luhya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,302,Luhya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,302,Luhya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,302,Luhya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,302,Luhya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,302,Luhya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,302,Luhya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,302,Luhya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,303,Kamba,kba,Kamba,TRUE,0,-1.5,38,Bantoid,Niger-Congo,KE
+Q2,304,Kalenjin,nan,Nandi,FALSE,,0.25,35,Nilotic,Eastern Sudanic,KE
+Q2,305,Kisii,gus,Gusii,TRUE,0,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,306,Meru/Embu,cga,Chaga,TRUE,4,-3,37,Bantoid,Niger-Congo,TZ
+Q2,306,Meru/Embu,kba,Kamba,TRUE,4,-1.5,38,Bantoid,Niger-Congo,KE
+Q2,306,Meru/Embu,dbd,Dabida,TRUE,4,-4,38.6666666667,Bantoid,Niger-Congo,KE
+Q2,306,Meru/Embu,kik,Kikuyu,TRUE,4,-0.75,36.75,Bantoid,Niger-Congo,KE
+Q2,306,Meru/Embu,cga,Chaga,TRUE,4,-3,37,Bantoid,Niger-Congo,TZ
+Q2,306,Meru/Embu,kba,Kamba,TRUE,4,-1.5,38,Bantoid,Niger-Congo,KE
+Q2,306,Meru/Embu,dbd,Dabida,TRUE,4,-4,38.6666666667,Bantoid,Niger-Congo,KE
+Q2,306,Meru/Embu,kik,Kikuyu,TRUE,4,-0.75,36.75,Bantoid,Niger-Congo,KE
+Q2,307,Maasai/Samburu,maa,Maasai,TRUE,0,-3,36,Nilotic,Eastern Sudanic,KE TZ
+Q2,308,Mijikenda,cga,Chaga,TRUE,4,-3,37,Bantoid,Niger-Congo,TZ
+Q2,308,Mijikenda,kba,Kamba,TRUE,4,-1.5,38,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,dbd,Dabida,TRUE,4,-4,38.6666666667,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,kik,Kikuyu,TRUE,4,-0.75,36.75,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,cga,Chaga,TRUE,4,-3,37,Bantoid,Niger-Congo,TZ
+Q2,308,Mijikenda,kba,Kamba,TRUE,4,-1.5,38,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,dbd,Dabida,TRUE,4,-4,38.6666666667,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,kik,Kikuyu,TRUE,4,-0.75,36.75,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,cga,Chaga,TRUE,4,-3,37,Bantoid,Niger-Congo,TZ
+Q2,308,Mijikenda,kba,Kamba,TRUE,4,-1.5,38,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,dbd,Dabida,TRUE,4,-4,38.6666666667,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,kik,Kikuyu,TRUE,4,-0.75,36.75,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,cga,Chaga,TRUE,4,-3,37,Bantoid,Niger-Congo,TZ
+Q2,308,Mijikenda,kba,Kamba,TRUE,4,-1.5,38,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,dbd,Dabida,TRUE,4,-4,38.6666666667,Bantoid,Niger-Congo,KE
+Q2,308,Mijikenda,kik,Kikuyu,TRUE,4,-0.75,36.75,Bantoid,Niger-Congo,KE
+Q2,309,Taita,dbd,Dabida,TRUE,0,-4,38.6666666667,Bantoid,Niger-Congo,KE
+Q2,310,Somali,som,Somali,TRUE,0,3,45,Lowland East Cushitic,Afro-Asiatic,SO
+Q2,311,Pokot,pkt,Pokot,FALSE,,1.5,35.5,Nilotic,Eastern Sudanic,UG KE
+Q2,312,Turkana,tna,Turkana,TRUE,0,3,35.5,Nilotic,Eastern Sudanic,KE UG
+Q2,313,Kuria,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,313,Kuria,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,313,Kuria,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,313,Kuria,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,313,Kuria,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,313,Kuria,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,313,Kuria,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,313,Kuria,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,313,Kuria,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,313,Kuria,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,313,Kuria,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,313,Kuria,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,313,Kuria,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,314,Garre,som,Somali,TRUE,2,3,45,Lowland East Cushitic,Afro-Asiatic,SO
+Q2,315,Borana,orb,Oromo (Boraana),FALSE,,4.5,38.5,Lowland East Cushitic,Afro-Asiatic,ET KE
+Q2,340,Sesotho,ses,Sesotho,TRUE,0,-28,27,Bantoid,Niger-Congo,ZA LS
+Q2,341,Sephuthi,swt,Swati,TRUE,0,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q2,342,Sethepu,xho,Xhosa,TRUE,0,-32,27,Bantoid,Niger-Congo,ZA
+Q2,381,Belle,aiz,Aizi,TRUE,4,5.25,-4.5,Kru,Niger-Congo,CI
+Q2,381,Belle,sme,Seme,TRUE,4,11,-4.91666666667,Kru,Niger-Congo,BF
+Q2,382,Dei,kla,Klao,TRUE,4,4.75,-8.75,Kru,Niger-Congo,LR
+Q2,383,Gbandi,bnd,Bandi,TRUE,0,8.08333333333,-10.25,Western Mande,Mande,LR
+Q2,384,Gio,dan,Dan,FALSE,,7.5,-8,Eastern Mande,Mande,LR GN CI
+Q2,385,Gola,gol,Gola,TRUE,0,7.25,-10.8333333333,Mel,Niger-Congo,SL LR
+Q2,386,Grebo,grb,Grebo,TRUE,0,5,-8,Kru,Niger-Congo,LR
+Q2,388,Kpelle,kpe,Kpelle,TRUE,0,7,-10,Western Mande,Mande,LR
+Q2,389,Krahn,gue,Guere,TRUE,2,6.66666666667,-7.75,Kru,Niger-Congo,CI
+Q2,390,Kru,kla,Klao,TRUE,0,4.75,-8.75,Kru,Niger-Congo,LR
+Q2,391,Lorma,lma,Loma,TRUE,0,8,-9.5,Western Mande,Mande,LR GN
+Q2,392,Mandingo,mnk,Maninka,TRUE,2,10.5,-9.5,Western Mande,Mande,GN SL
+Q2,395,Vai,vai,Vai,TRUE,0,6.91666666667,-11.25,Western Mande,Mande,SL LR
+Q2,396,Liberian English,,,FALSE,,,,,,
+Q2,420,Malgache « officiel »,mal,Malagasy,TRUE,0,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,421,Malgache avec spécificité régionale,mal,Malagasy,TRUE,2,-20,47,Barito,Austronesian,MG
+Q2,460,Chitumbuka,ngo,Ngoni,TRUE,4,-11,36,Bantoid,Niger-Congo,MZ TZ
+Q2,460,Chitumbuka,sen,Sena,TRUE,4,-18,35.25,Bantoid,Niger-Congo,MZ
+Q2,460,Chitumbuka,nse,Nsenga,TRUE,4,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,460,Chitumbuka,cic,Chichewa,TRUE,4,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,461,Chinkhonde,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,461,Chinkhonde,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,461,Chinkhonde,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,461,Chinkhonde,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,461,Chinkhonde,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,461,Chinkhonde,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,461,Chinkhonde,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,462,Chilambya,lmb,Lamba,TRUE,0,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,463,Chichewa,cic,Chichewa,TRUE,0,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,464,Chiyao,yao,Yao (in Malawi),TRUE,0,-14.5,35.5,Bantoid,Niger-Congo,MW MZ
+Q2,465,Chingoni,cic,Chichewa,TRUE,0,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,466,Chilomwe,mkd,Makonde,TRUE,4,-11,40,Bantoid,Niger-Congo,MZ TZ
+Q2,466,Chilomwe,mua,Makua,TRUE,4,-15,38.6666666667,Bantoid,Niger-Congo,MZ
+Q2,466,Chilomwe,mtb,Matuumbi,TRUE,4,-8.5,39,Bantoid,Niger-Congo,TZ
+Q2,466,Chilomwe,yao,Yao (in Malawi),TRUE,4,-14.5,35.5,Bantoid,Niger-Congo,MW MZ
+Q2,466,Chilomwe,mwe,Mwera,TRUE,4,-9,39,Bantoid,Niger-Congo,TZ
+Q2,466,Chilomwe,eko,Ekoti,TRUE,4,-16.5,39.5,Bantoid,Niger-Congo,MZ
+Q2,467,Chimang'anja,ngo,Ngoni,TRUE,4,-11,36,Bantoid,Niger-Congo,MZ TZ
+Q2,467,Chimang'anja,sen,Sena,TRUE,4,-18,35.25,Bantoid,Niger-Congo,MZ
+Q2,467,Chimang'anja,nse,Nsenga,TRUE,4,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,467,Chimang'anja,cic,Chichewa,TRUE,4,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,468,Chisena,ngo,Ngoni,TRUE,4,-11,36,Bantoid,Niger-Congo,MZ TZ
+Q2,468,Chisena,sen,Sena,TRUE,4,-18,35.25,Bantoid,Niger-Congo,MZ
+Q2,468,Chisena,nse,Nsenga,TRUE,4,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,468,Chisena,cic,Chichewa,TRUE,4,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,469,Chisukwa,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,469,Chisukwa,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,469,Chisukwa,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,469,Chisukwa,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,469,Chisukwa,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,469,Chisukwa,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,469,Chisukwa,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,470,Chisenga,nyh,Nyiha,TRUE,2,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,470,Chisenga,diz,Dizi,TRUE,2,6.16666666667,36.5,Dizoid,Afro-Asiatic,ET
+Q2,471,Chitonga,ngo,Ngoni,TRUE,4,-11,36,Bantoid,Niger-Congo,MZ TZ
+Q2,471,Chitonga,sen,Sena,TRUE,4,-18,35.25,Bantoid,Niger-Congo,MZ
+Q2,471,Chitonga,nse,Nsenga,TRUE,4,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,471,Chitonga,cic,Chichewa,TRUE,4,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,502,Bella,kse,Koyraboro Senni,TRUE,0,16,0,Songhay,Songhay,ML NE
+Q2,504,Bozo,boz,Bozo (Tigemaxo),TRUE,0,15,-4,Western Mande,Mande,ML
+Q2,505,Dafing,mnk,Maninka,TRUE,4,10.5,-9.5,Western Mande,Mande,GN SL
+Q2,506,Dogon,dds,Donno So,FALSE,,14.3333333333,-3.58333333333,Dogon,Dogon,BF ML
+Q2,506,Dogon,dts,Toro So,FALSE,,14.4166666667,-3.25,Dogon,Dogon,BF ML
+Q2,506,Dogon,jms,Jamsay,FALSE,,14.4166666667,-2.5,Dogon,Dogon,ML
+Q2,506,Dogon,tms,Tommo So,FALSE,,15,-3,Dogon,Dogon,ML
+Q2,509,Kakolo,mdk,Mandinka,TRUE,2,13,-15.6666666667,Western Mande,Mande,ML SN GN
+Q2,509,Kakolo,mkg,Mandinka (Gambian),TRUE,2,13.4166666667,-16,Western Mande,Mande,GM
+Q2,509,Kakolo,maw,Maninka (Western),TRUE,2,13,-11,Western Mande,Mande,ML
+Q2,509,Kakolo,xas,Xasonga,TRUE,2,14.25,-10.5,Western Mande,Mande,ML SN
+Q2,510,Khassonké,xas,Xasonga,TRUE,0,14.25,-10.5,Western Mande,Mande,ML SN
+Q2,511,Malinké,mdk,Mandinka,FALSE,,13,-15.6666666667,Western Mande,Mande,ML SN GN
+Q2,511,Malinké,mlq,,FALSE,,,,,,
+Q2,512,Maure,ahs,Arabic (Bani-Hassan),TRUE,0,20,-10,Semitic,Afro-Asiatic,MR
+Q2,513,Mianka,sup,Supyire,TRUE,2,11.5,-5.58333333333,Gur,Niger-Congo,ML
+Q2,513,Mianka,nrg,Nanerge,TRUE,2,11.75,-5,Gur,Niger-Congo,BF
+Q2,514,Peulh/Fulfude,fum,Fulfulde (Maasina),FALSE,,15,-5,Northern Atlantic,Niger-Congo,ML
+Q2,515,Samogo,bbf,Bobo Madaré (Northern),TRUE,5,12.4166666667,-4.33333333333,Western Mande,Mande,BF
+Q2,516,Senufo,sup,Supyire,TRUE,0,11.5,-5.58333333333,Gur,Niger-Congo,ML
+Q2,517,Soninké/Sarakolé,snn,Soninke,TRUE,0,15,-10.5,Western Mande,Mande,CI SN BF ML
+Q2,518,Sonrhai,kch,Koyra Chiini,FALSE,,17,-3,Songhay,Songhay,ML
+Q2,518,Sonrhai,kse,Koyraboro Senni,FALSE,,16,0,Songhay,Songhay,ML NE
+Q2,540,Makua,mua,Makua,TRUE,2,-15,38.6666666667,Bantoid,Niger-Congo,MZ
+Q2,541,Sena,sen,Sena,TRUE,0,-18,35.25,Bantoid,Niger-Congo,MZ
+Q2,543,Changana,tsn,Tsonga,TRUE,0,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,545,Chope,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA
+Q2,545,Chope,tsw,Tswana,TRUE,4,-24,26,Bantoid,Niger-Congo,BW ZA
+Q2,545,Chope,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW
+Q2,545,Chope,shn,Shona,TRUE,4,-18,31,Bantoid,Niger-Congo,ZW
+Q2,545,Chope,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q2,545,Chope,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA
+Q2,545,Chope,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA
+Q2,545,Chope,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA
+Q2,545,Chope,rga,Ronga,TRUE,4,-26,32.5,Bantoid,Niger-Congo,MZ
+Q2,545,Chope,stn,Sotho (Northern),TRUE,4,-24,29,Bantoid,Niger-Congo,ZA
+Q2,545,Chope,ses,Sesotho,TRUE,4,-28,27,Bantoid,Niger-Congo,ZA LS
+Q2,545,Chope,swt,Swati,TRUE,4,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q2,545,Chope,ven,Venda,TRUE,4,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q2,545,Chope,tsn,Tsonga,TRUE,4,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,545,Chope,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA
+Q2,546,Bitonga,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA
+Q2,546,Bitonga,tsw,Tswana,TRUE,4,-24,26,Bantoid,Niger-Congo,BW ZA
+Q2,546,Bitonga,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW
+Q2,546,Bitonga,shn,Shona,TRUE,4,-18,31,Bantoid,Niger-Congo,ZW
+Q2,546,Bitonga,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q2,546,Bitonga,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA
+Q2,546,Bitonga,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA
+Q2,546,Bitonga,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA
+Q2,546,Bitonga,rga,Ronga,TRUE,4,-26,32.5,Bantoid,Niger-Congo,MZ
+Q2,546,Bitonga,stn,Sotho (Northern),TRUE,4,-24,29,Bantoid,Niger-Congo,ZA
+Q2,546,Bitonga,ses,Sesotho,TRUE,4,-28,27,Bantoid,Niger-Congo,ZA LS
+Q2,546,Bitonga,swt,Swati,TRUE,4,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q2,546,Bitonga,ven,Venda,TRUE,4,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q2,546,Bitonga,tsn,Tsonga,TRUE,4,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,546,Bitonga,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA
+Q2,547,Makonde,mkd,Makonde,TRUE,0,-11,40,Bantoid,Niger-Congo,MZ TZ
+Q2,548,Chuabo,mkd,Makonde,TRUE,4,-11,40,Bantoid,Niger-Congo,MZ TZ
+Q2,548,Chuabo,mua,Makua,TRUE,4,-15,38.6666666667,Bantoid,Niger-Congo,MZ
+Q2,548,Chuabo,mtb,Matuumbi,TRUE,4,-8.5,39,Bantoid,Niger-Congo,TZ
+Q2,548,Chuabo,yao,Yao (in Malawi),TRUE,4,-14.5,35.5,Bantoid,Niger-Congo,MW MZ
+Q2,548,Chuabo,mwe,Mwera,TRUE,4,-9,39,Bantoid,Niger-Congo,TZ
+Q2,548,Chuabo,eko,Ekoti,TRUE,4,-16.5,39.5,Bantoid,Niger-Congo,MZ
+Q2,549,Ajaua,yao,Yao (in Malawi),TRUE,0,-14.5,35.5,Bantoid,Niger-Congo,MW MZ
+Q2,550,Lomue,mkd,Makonde,TRUE,4,-11,40,Bantoid,Niger-Congo,MZ TZ
+Q2,550,Lomue,mua,Makua,TRUE,4,-15,38.6666666667,Bantoid,Niger-Congo,MZ
+Q2,550,Lomue,mtb,Matuumbi,TRUE,4,-8.5,39,Bantoid,Niger-Congo,TZ
+Q2,550,Lomue,yao,Yao (in Malawi),TRUE,4,-14.5,35.5,Bantoid,Niger-Congo,MW MZ
+Q2,550,Lomue,mwe,Mwera,TRUE,4,-9,39,Bantoid,Niger-Congo,TZ
+Q2,550,Lomue,eko,Ekoti,TRUE,4,-16.5,39.5,Bantoid,Niger-Congo,MZ
+Q2,552,Nyungwe,ngo,Ngoni,TRUE,4,-11,36,Bantoid,Niger-Congo,MZ TZ
+Q2,552,Nyungwe,sen,Sena,TRUE,4,-18,35.25,Bantoid,Niger-Congo,MZ
+Q2,552,Nyungwe,nse,Nsenga,TRUE,4,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,552,Nyungwe,cic,Chichewa,TRUE,4,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,553,Xitswa,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA
+Q2,553,Xitswa,tsw,Tswana,TRUE,4,-24,26,Bantoid,Niger-Congo,BW ZA
+Q2,553,Xitswa,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW
+Q2,553,Xitswa,shn,Shona,TRUE,4,-18,31,Bantoid,Niger-Congo,ZW
+Q2,553,Xitswa,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q2,553,Xitswa,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA
+Q2,553,Xitswa,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA
+Q2,553,Xitswa,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA
+Q2,553,Xitswa,rga,Ronga,TRUE,4,-26,32.5,Bantoid,Niger-Congo,MZ
+Q2,553,Xitswa,stn,Sotho (Northern),TRUE,4,-24,29,Bantoid,Niger-Congo,ZA
+Q2,553,Xitswa,ses,Sesotho,TRUE,4,-28,27,Bantoid,Niger-Congo,ZA LS
+Q2,553,Xitswa,swt,Swati,TRUE,4,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q2,553,Xitswa,ven,Venda,TRUE,4,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q2,553,Xitswa,tsn,Tsonga,TRUE,4,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,553,Xitswa,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA
+Q2,581,German,ger,German,FALSE,,52,10,Germanic,Indo-European,AT DE CH
+Q2,582,Nama/Damara,kho,Khoekhoe,TRUE,0,-25.5,18,Khoe-Kwadi,Khoe-Kwadi,
+Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,TRUE,0,-18,17,Bantoid,Niger-Congo,AO NA
+Q2,584,Otjiherero,her,Herero,TRUE,0,-20.5833333333,19,Bantoid,Niger-Congo,BW NA
+Q2,585,Rukwangali,kwn,Kwangali,TRUE,0,-18,19.5,Bantoid,Niger-Congo,NA AO
+Q2,586,Rugririku/Rumanyo,luv,Luvale,TRUE,4,-12,22,Bantoid,Niger-Congo,AO
+Q2,586,Rugririku/Rumanyo,loz,Lozi,TRUE,4,-17.8333333333,26,Bantoid,Niger-Congo,ZM
+Q2,586,Rugririku/Rumanyo,sub,Subiya,TRUE,4,-17.75,24.9166666667,Bantoid,Niger-Congo,
+Q2,586,Rugririku/Rumanyo,luc,Lucazi,TRUE,4,-14,20,Bantoid,Niger-Congo,AO
+Q2,586,Rugririku/Rumanyo,kwn,Kwangali,TRUE,4,-18,19.5,Bantoid,Niger-Congo,NA AO
+Q2,587,Thimbukushu,luv,Luvale,TRUE,4,-12,22,Bantoid,Niger-Congo,AO
+Q2,587,Thimbukushu,loz,Lozi,TRUE,4,-17.8333333333,26,Bantoid,Niger-Congo,ZM
+Q2,587,Thimbukushu,sub,Subiya,TRUE,4,-17.75,24.9166666667,Bantoid,Niger-Congo,
+Q2,587,Thimbukushu,luc,Lucazi,TRUE,4,-14,20,Bantoid,Niger-Congo,AO
+Q2,587,Thimbukushu,kwn,Kwangali,TRUE,4,-18,19.5,Bantoid,Niger-Congo,NA AO
+Q2,588,Silozi,loz,Lozi,TRUE,0,-17.8333333333,26,Bantoid,Niger-Congo,ZM
+Q2,590,Masubia,sub,Subiya,TRUE,0,-17.75,24.9166666667,Bantoid,Niger-Congo,
+Q2,591,San,juh,Ju|'hoan,FALSE,,-19,21,Ju-Kung,Kxa,BW AO NA
+Q2,591,San,kho,Khoekhoe,FALSE,,-25.5,18,Khoe-Kwadi,Khoe-Kwadi,
+Q2,591,San,kxo,Kxoe,FALSE,,-17.5,22.5,Khoe-Kwadi,Khoe-Kwadi,NA AO
+Q2,591,San,nro,Nharo,FALSE,,-22.3333333333,20.5,Khoe-Kwadi,Khoe-Kwadi,NA BW
+Q2,591,San,xun,!Xun (Ekoka),FALSE,,-19.6666666667,18,Ju-Kung,Kxa,NA AO
+Q2,621,Igbo,igb,Igbo,FALSE,,6,7.33333333333,Igboid,Niger-Congo,NG
+Q2,623,Pidgin English,npi,Nigerian Pidgin,TRUE,0,6.5,3.33333333333,Creoles and Pidgins,other,NG
+Q2,624,Efik,efi,Efik,TRUE,0,4.91666666667,8.5,Cross River,Niger-Congo,NG
+Q2,625,Ebira,ebi,Ebira,TRUE,0,8.16666666667,7,Nupoid,Niger-Congo,NG
+Q2,626,Fulani,fgo,Fulani (Gombe),FALSE,,10.25,11.25,Northern Atlantic,Niger-Congo,NG
+Q2,626,Fulani,fni,Fula (Nigerian),FALSE,,8.16666666667,10.5,Northern Atlantic,Niger-Congo,NG
+Q2,627,Isoko,iso,Isoko,TRUE,0,5.5,6.25,Edoid,Niger-Congo,NG
+Q2,628,Ibibio,ibi,Ibibio,TRUE,0,5.25,7.83333333333,Cross River,Niger-Congo,NG
+Q2,631,Nupe,nup,Nupe,TRUE,0,9.16666666667,5.41666666667,Nupoid,Niger-Congo,NG
+Q2,632,Ijaw,ijo,Ijo (Kolokuma),TRUE,0,4.91666666667,5.66666666667,Ijoid,Ijoid,NG
+Q2,633,Edo,bni,Bini,TRUE,0,6.41666666667,5.83333333333,Edoid,Niger-Congo,NG
+Q2,634,Igala,yor,Yoruba,TRUE,4,8,4.33333333333,Defoid,Niger-Congo,NG BJ
+Q2,634,Igala,ise,Isekiri,TRUE,4,5.66666666667,5.5,Defoid,Niger-Congo,NG
+Q2,635,Urhobo,urh,Urhobo,TRUE,0,5.58333333333,6,Edoid,Niger-Congo,NG
+Q2,636,Ogoni,kan,Kana,TRUE,0,4.75,7.41666666667,Cross River,Niger-Congo,NG
+Q2,637,Anang,ibi,Ibibio,TRUE,2,5.25,7.83333333333,Cross River,Niger-Congo,NG
+Q2,637,Anang,efi,Efik,TRUE,2,4.91666666667,8.5,Cross River,Niger-Congo,NG
+Q2,638,Ikwere,igb,Igbo,TRUE,2,6,7.33333333333,Igboid,Niger-Congo,NG
+Q2,638,Ikwere,izi,Izi,TRUE,2,6.33333333333,8,Igboid,Niger-Congo,NG
+Q2,639,Idoma,ido,Idoma,TRUE,0,6.91666666667,7.5,Idomoid,Niger-Congo,NG
+Q2,640,Esan,ora,Emai,TRUE,2,7.08333333333,5.91666666667,Edoid,Niger-Congo,NG
+Q2,640,Esan,bni,Bini,TRUE,2,6.41666666667,5.83333333333,Edoid,Niger-Congo,NG
+Q2,641,Nembe,ijo,Ijo (Kolokuma),TRUE,4,4.91666666667,5.66666666667,Ijoid,Ijoid,NG
+Q2,642,Alago,ido,Idoma,TRUE,2,6.91666666667,7.5,Idomoid,Niger-Congo,NG
+Q2,642,Alago,ige,Igede,TRUE,2,7,8.16666666667,Idomoid,Niger-Congo,NG
+Q2,643,Degema,deg,Degema,TRUE,0,4.75,6.75,Edoid,Niger-Congo,NG
+Q2,644,Eggon,mdz,Mada (in Nigeria),TRUE,4,8.75,8.25,Platoid,Niger-Congo,NG
+Q2,645,Jukun,juk,Jukun,TRUE,0,6.91666666667,10.4166666667,Platoid,Niger-Congo,NG
+Q2,646,Kagoma,kgm,Kagoma,TRUE,0,9.25,8.16666666667,Platoid,Niger-Congo,NG
+Q2,647,Laru,awk,Akwa,TRUE,4,10.0833333333,6.33333333333,Kainji,Niger-Congo,NG
+Q2,647,Laru,duk,Duka,TRUE,4,11.1666666667,5.08333333333,Kainji,Niger-Congo,NG
+Q2,648,Kalabari,ijo,Ijo (Kolokuma),TRUE,6,4.91666666667,5.66666666667,Ijoid,Ijoid,NG
+Q2,649,Nwangavul,mup,Mupun,TRUE,0,9.5,8.83333333333,West Chadic,Afro-Asiatic,NG
+Q2,650,Tangale,tan,Tangale,TRUE,0,9.75,11.3333333333,West Chadic,Afro-Asiatic,NG
+Q2,651,Tarok,tok,Tarok,TRUE,0,9,10.0833333333,Platoid,Niger-Congo,NG
+Q2,652,Waja,day,Day,TRUE,7,8.75,17.8333333333,Adamawa,Niger-Congo,TD
+Q2,652,Waja,lua,Lua,TRUE,7,9.75,17.75,Adamawa,Niger-Congo,TD
+Q2,652,Waja,gir,Gula Iro,TRUE,7,10.25,19.4166666667,Adamawa,Niger-Congo,TD
+Q2,652,Waja,ksp,Kosop,TRUE,7,9.91666666667,15.9166666667,Adamawa,Niger-Congo,TD
+Q2,652,Waja,sle,Samba Leko,TRUE,7,8.5,12.5,Adamawa,Niger-Congo,CM NG
+Q2,653,Yala,ido,Idoma,TRUE,2,6.91666666667,7.5,Idomoid,Niger-Congo,NG
+Q2,653,Yala,ige,Igede,TRUE,2,7,8.16666666667,Idomoid,Niger-Congo,NG
+Q2,660,Wolof,wlf,Wolof,TRUE,0,15.25,-16,Northern Atlantic,Niger-Congo,SN GM
+Q2,661,Pulaar/Toucouleur,fus,Fula (Senegal),FALSE,,15,-14,Northern Atlantic,Niger-Congo,SN
+Q2,662,Serer,noo,Noon,FALSE,,14.8333333333,-16.8333333333,Northern Atlantic,Niger-Congo,SN
+Q2,663,Mandinka/Bambara,bam,Bambara,FALSE,,12.5,-7.5,Western Mande,Mande,ML
+Q2,663,Mandinka/Bambara,mdk,Mandinka,FALSE,,13,-15.6666666667,Western Mande,Mande,ML SN GN
+Q2,664,Soninke,snn,Soninke,TRUE,0,15,-10.5,Western Mande,Mande,CI SN BF ML
+Q2,665,Diola,dio,Diola-Fogny,TRUE,0,13,-16.25,Northern Atlantic,Niger-Congo,GM SN
+Q2,666,Manjack,mjk,Manjaku,TRUE,0,12,-16.25,Northern Atlantic,Niger-Congo,GW
+Q2,668,Bassari,bsr,Basari,TRUE,0,12.6666666667,-13,Northern Atlantic,Niger-Congo,GN SN
+Q2,702,Xhosa,xho,Xhosa,TRUE,0,-32,27,Bantoid,Niger-Congo,ZA
+Q2,703,Pedi/North Sotho,stn,Sotho (Northern),TRUE,0,-24,29,Bantoid,Niger-Congo,ZA
+Q2,704,Sotho/South Sotho,ses,Sesotho,FALSE,,-28,27,Bantoid,Niger-Congo,ZA LS
+Q2,704,Sotho/South Sotho,stn,Sotho (Northern),FALSE,,-24,29,Bantoid,Niger-Congo,ZA
+Q2,705,Tswana,tsw,Tswana,TRUE,0,-24,26,Bantoid,Niger-Congo,BW ZA
+Q2,706,Shangaan/Tsonga,tsn,Tsonga,TRUE,0,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,707,Swazi,swt,Swati,TRUE,0,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q2,709,Zulu,zul,Zulu,FALSE,,-30,30,Bantoid,Niger-Congo,ZA
+Q2,710,Asian/Indian,"",,FALSE,,,,,,
+Q2,740,Kinyakyusa,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,740,Kinyakyusa,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,740,Kinyakyusa,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,740,Kinyakyusa,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,740,Kinyakyusa,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,740,Kinyakyusa,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,740,Kinyakyusa,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,741,Kichaga,cga,Chaga,TRUE,0,-3,37,Bantoid,Niger-Congo,TZ
+Q2,742,Kihaya,hya,Haya,TRUE,0,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,743,Kingoni,ngo,Ngoni,TRUE,0,-11,36,Bantoid,Niger-Congo,MZ TZ
+Q2,744,Kikwere,swa,Swahili,TRUE,4,-6.5,39,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,heh,Hehe,TRUE,4,-8,36,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,kmi,Kami,TRUE,4,-6.75,38,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,com,Comorian,TRUE,4,-12,44,Bantoid,Niger-Congo,KM YT
+Q2,744,Kikwere,kga,Kinga,TRUE,4,-9,34,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,png,Pangwa,TRUE,4,-10,34.75,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,shm,Shambala,TRUE,4,-4.25,38.25,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,pre,Pare,TRUE,4,-4,36.5,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,kgr,Kagulu,TRUE,4,-6.33333333333,37,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,pog,Pogoro,TRUE,4,-8.75,36.5,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,744,Kikwere,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,744,Kikwere,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,744,Kikwere,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,744,Kikwere,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,744,Kikwere,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,744,Kikwere,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,744,Kikwere,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,744,Kikwere,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,744,Kikwere,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,744,Kikwere,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,744,Kikwere,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,745,Kipare,pre,Pare,TRUE,0,-4,36.5,Bantoid,Niger-Congo,TZ
+Q2,746,Kihehe,heh,Hehe,TRUE,0,-8,36,Bantoid,Niger-Congo,TZ
+Q2,747,Kimakonde,mkd,Makonde,TRUE,0,-11,40,Bantoid,Niger-Congo,MZ TZ
+Q2,748,Kinyamwezi,nym,Nyamwezi,TRUE,0,-5,33,Bantoid,Niger-Congo,TZ
+Q2,749,Kisukuma,skm,Sukuma,TRUE,0,-2.83333333333,32,Bantoid,Niger-Congo,TZ
+Q2,750,Kimasai,maa,Maasai,TRUE,0,-3,36,Nilotic,Eastern Sudanic,KE TZ
+Q2,751,Kimeru,cga,Chaga,TRUE,4,-3,37,Bantoid,Niger-Congo,TZ
+Q2,751,Kimeru,kba,Kamba,TRUE,4,-1.5,38,Bantoid,Niger-Congo,KE
+Q2,751,Kimeru,dbd,Dabida,TRUE,4,-4,38.6666666667,Bantoid,Niger-Congo,KE
+Q2,751,Kimeru,kik,Kikuyu,TRUE,4,-0.75,36.75,Bantoid,Niger-Congo,KE
+Q2,752,Kikurya,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,752,Kikurya,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,752,Kikurya,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,752,Kikurya,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,752,Kikurya,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,752,Kikurya,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,752,Kikurya,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,752,Kikurya,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,752,Kikurya,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,752,Kikurya,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,752,Kikurya,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,752,Kikurya,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,752,Kikurya,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,753,Kigogo,swa,Swahili,TRUE,4,-6.5,39,Bantoid,Niger-Congo,TZ
+Q2,753,Kigogo,heh,Hehe,TRUE,4,-8,36,Bantoid,Niger-Congo,TZ
+Q2,753,Kigogo,kmi,Kami,TRUE,4,-6.75,38,Bantoid,Niger-Congo,TZ
+Q2,753,Kigogo,com,Comorian,TRUE,4,-12,44,Bantoid,Niger-Congo,KM YT
+Q2,753,Kigogo,kga,Kinga,TRUE,4,-9,34,Bantoid,Niger-Congo,TZ
+Q2,753,Kigogo,png,Pangwa,TRUE,4,-10,34.75,Bantoid,Niger-Congo,TZ
+Q2,753,Kigogo,shm,Shambala,TRUE,4,-4.25,38.25,Bantoid,Niger-Congo,TZ
+Q2,753,Kigogo,pre,Pare,TRUE,4,-4,36.5,Bantoid,Niger-Congo,TZ
+Q2,753,Kigogo,kgr,Kagulu,TRUE,4,-6.33333333333,37,Bantoid,Niger-Congo,TZ
+Q2,753,Kigogo,pog,Pogoro,TRUE,4,-8.75,36.5,Bantoid,Niger-Congo,TZ
+Q2,754,Kiluguru,swa,Swahili,TRUE,4,-6.5,39,Bantoid,Niger-Congo,TZ
+Q2,754,Kiluguru,heh,Hehe,TRUE,4,-8,36,Bantoid,Niger-Congo,TZ
+Q2,754,Kiluguru,kmi,Kami,TRUE,4,-6.75,38,Bantoid,Niger-Congo,TZ
+Q2,754,Kiluguru,com,Comorian,TRUE,4,-12,44,Bantoid,Niger-Congo,KM YT
+Q2,754,Kiluguru,kga,Kinga,TRUE,4,-9,34,Bantoid,Niger-Congo,TZ
+Q2,754,Kiluguru,png,Pangwa,TRUE,4,-10,34.75,Bantoid,Niger-Congo,TZ
+Q2,754,Kiluguru,shm,Shambala,TRUE,4,-4.25,38.25,Bantoid,Niger-Congo,TZ
+Q2,754,Kiluguru,pre,Pare,TRUE,4,-4,36.5,Bantoid,Niger-Congo,TZ
+Q2,754,Kiluguru,kgr,Kagulu,TRUE,4,-6.33333333333,37,Bantoid,Niger-Congo,TZ
+Q2,754,Kiluguru,pog,Pogoro,TRUE,4,-8.75,36.5,Bantoid,Niger-Congo,TZ
+Q2,755,Kifipa,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,755,Kifipa,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,755,Kifipa,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,755,Kifipa,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,755,Kifipa,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,755,Kifipa,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,755,Kifipa,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,756,Kimanyema,amu,Yanesha',TRUE,5,-10.5,-75.4166666667,Yanesha',Arawakan,PE
+Q2,756,Kimanyema,res,Resígaro,TRUE,5,-2.41666666667,-71.5,Inland Northern Arawakan,Arawakan,CO PE
+Q2,757,Kinyiramba,skm,Sukuma,TRUE,4,-2.83333333333,32,Bantoid,Niger-Congo,TZ
+Q2,757,Kinyiramba,nym,Nyamwezi,TRUE,4,-5,33,Bantoid,Niger-Congo,TZ
+Q2,757,Kinyiramba,rim,Rimi,TRUE,4,-5,34.6666666667,Bantoid,Niger-Congo,TZ
+Q2,757,Kinyiramba,lgi,Langi,TRUE,4,-4.5,36,Bantoid,Niger-Congo,TZ
+Q2,758,Kinyaturu,rim,Rimi,TRUE,0,-5,34.6666666667,Bantoid,Niger-Congo,TZ
+Q2,759,Kiarusha,maa,Maasai,TRUE,0,-3,36,Nilotic,Eastern Sudanic,KE TZ
+Q2,760,Kibena,swa,Swahili,TRUE,4,-6.5,39,Bantoid,Niger-Congo,TZ
+Q2,760,Kibena,heh,Hehe,TRUE,4,-8,36,Bantoid,Niger-Congo,TZ
+Q2,760,Kibena,kmi,Kami,TRUE,4,-6.75,38,Bantoid,Niger-Congo,TZ
+Q2,760,Kibena,com,Comorian,TRUE,4,-12,44,Bantoid,Niger-Congo,KM YT
+Q2,760,Kibena,kga,Kinga,TRUE,4,-9,34,Bantoid,Niger-Congo,TZ
+Q2,760,Kibena,png,Pangwa,TRUE,4,-10,34.75,Bantoid,Niger-Congo,TZ
+Q2,760,Kibena,shm,Shambala,TRUE,4,-4.25,38.25,Bantoid,Niger-Congo,TZ
+Q2,760,Kibena,pre,Pare,TRUE,4,-4,36.5,Bantoid,Niger-Congo,TZ
+Q2,760,Kibena,kgr,Kagulu,TRUE,4,-6.33333333333,37,Bantoid,Niger-Congo,TZ
+Q2,760,Kibena,pog,Pogoro,TRUE,4,-8.75,36.5,Bantoid,Niger-Congo,TZ
+Q2,761,Kiha,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,761,Kiha,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,761,Kiha,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,761,Kiha,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,761,Kiha,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,761,Kiha,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,761,Kiha,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,761,Kiha,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,761,Kiha,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,761,Kiha,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,761,Kiha,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,761,Kiha,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,761,Kiha,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,762,Kiiraq,irq,Iraqw,TRUE,0,-4,35.5,Southern Cushitic,Afro-Asiatic,TZ
+Q2,763,Kijaluo,luo,Luo,TRUE,0,-0.5,34.75,Nilotic,Eastern Sudanic,TZ KE
+Q2,764,Kijita,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,764,Kijita,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,764,Kijita,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,764,Kijita,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,764,Kijita,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,764,Kijita,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,764,Kijita,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,764,Kijita,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,764,Kijita,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,764,Kijita,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,764,Kijita,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,764,Kijita,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,764,Kijita,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,765,Kikaguru,kgr,Kagulu,TRUE,0,-6.33333333333,37,Bantoid,Niger-Congo,TZ
+Q2,766,Kimakuwa,mua,Makua,TRUE,2,-15,38.6666666667,Bantoid,Niger-Congo,MZ
+Q2,767,Kimatengo,ngo,Ngoni,TRUE,4,-11,36,Bantoid,Niger-Congo,MZ TZ
+Q2,767,Kimatengo,sen,Sena,TRUE,4,-18,35.25,Bantoid,Niger-Congo,MZ
+Q2,767,Kimatengo,nse,Nsenga,TRUE,4,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,767,Kimatengo,cic,Chichewa,TRUE,4,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,768,Kimbulu,irq,Iraqw,TRUE,0,-4,35.5,Southern Cushitic,Afro-Asiatic,TZ
+Q2,769,Kimwera,mwe,Mwera,TRUE,0,-9,39,Bantoid,Niger-Congo,TZ
+Q2,770,Kindali,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,770,Kindali,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,770,Kindali,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,770,Kindali,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,770,Kindali,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,770,Kindali,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,770,Kindali,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,771,Kindamba,swa,Swahili,TRUE,4,-6.5,39,Bantoid,Niger-Congo,TZ
+Q2,771,Kindamba,heh,Hehe,TRUE,4,-8,36,Bantoid,Niger-Congo,TZ
+Q2,771,Kindamba,kmi,Kami,TRUE,4,-6.75,38,Bantoid,Niger-Congo,TZ
+Q2,771,Kindamba,com,Comorian,TRUE,4,-12,44,Bantoid,Niger-Congo,KM YT
+Q2,771,Kindamba,kga,Kinga,TRUE,4,-9,34,Bantoid,Niger-Congo,TZ
+Q2,771,Kindamba,png,Pangwa,TRUE,4,-10,34.75,Bantoid,Niger-Congo,TZ
+Q2,771,Kindamba,shm,Shambala,TRUE,4,-4.25,38.25,Bantoid,Niger-Congo,TZ
+Q2,771,Kindamba,pre,Pare,TRUE,4,-4,36.5,Bantoid,Niger-Congo,TZ
+Q2,771,Kindamba,kgr,Kagulu,TRUE,4,-6.33333333333,37,Bantoid,Niger-Congo,TZ
+Q2,771,Kindamba,pog,Pogoro,TRUE,4,-8.75,36.5,Bantoid,Niger-Congo,TZ
+Q2,772,Kindendeule,ngo,Ngoni,TRUE,4,-11,36,Bantoid,Niger-Congo,MZ TZ
+Q2,772,Kindendeule,sen,Sena,TRUE,4,-18,35.25,Bantoid,Niger-Congo,MZ
+Q2,772,Kindendeule,nse,Nsenga,TRUE,4,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,772,Kindendeule,cic,Chichewa,TRUE,4,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,773,Kindengereko,mkd,Makonde,TRUE,4,-11,40,Bantoid,Niger-Congo,MZ TZ
+Q2,773,Kindengereko,mua,Makua,TRUE,4,-15,38.6666666667,Bantoid,Niger-Congo,MZ
+Q2,773,Kindengereko,mtb,Matuumbi,TRUE,4,-8.5,39,Bantoid,Niger-Congo,TZ
+Q2,773,Kindengereko,yao,Yao (in Malawi),TRUE,4,-14.5,35.5,Bantoid,Niger-Congo,MW MZ
+Q2,773,Kindengereko,mwe,Mwera,TRUE,4,-9,39,Bantoid,Niger-Congo,TZ
+Q2,773,Kindengereko,eko,Ekoti,TRUE,4,-16.5,39.5,Bantoid,Niger-Congo,MZ
+Q2,774,Kingindo,mkd,Makonde,TRUE,4,-11,40,Bantoid,Niger-Congo,MZ TZ
+Q2,774,Kingindo,mua,Makua,TRUE,4,-15,38.6666666667,Bantoid,Niger-Congo,MZ
+Q2,774,Kingindo,mtb,Matuumbi,TRUE,4,-8.5,39,Bantoid,Niger-Congo,TZ
+Q2,774,Kingindo,yao,Yao (in Malawi),TRUE,4,-14.5,35.5,Bantoid,Niger-Congo,MW MZ
+Q2,774,Kingindo,mwe,Mwera,TRUE,4,-9,39,Bantoid,Niger-Congo,TZ
+Q2,774,Kingindo,eko,Ekoti,TRUE,4,-16.5,39.5,Bantoid,Niger-Congo,MZ
+Q2,775,Kinguu,swa,Swahili,TRUE,4,-6.5,39,Bantoid,Niger-Congo,TZ
+Q2,775,Kinguu,heh,Hehe,TRUE,4,-8,36,Bantoid,Niger-Congo,TZ
+Q2,775,Kinguu,kmi,Kami,TRUE,4,-6.75,38,Bantoid,Niger-Congo,TZ
+Q2,775,Kinguu,com,Comorian,TRUE,4,-12,44,Bantoid,Niger-Congo,KM YT
+Q2,775,Kinguu,kga,Kinga,TRUE,4,-9,34,Bantoid,Niger-Congo,TZ
+Q2,775,Kinguu,png,Pangwa,TRUE,4,-10,34.75,Bantoid,Niger-Congo,TZ
+Q2,775,Kinguu,shm,Shambala,TRUE,4,-4.25,38.25,Bantoid,Niger-Congo,TZ
+Q2,775,Kinguu,pre,Pare,TRUE,4,-4,36.5,Bantoid,Niger-Congo,TZ
+Q2,775,Kinguu,kgr,Kagulu,TRUE,4,-6.33333333333,37,Bantoid,Niger-Congo,TZ
+Q2,775,Kinguu,pog,Pogoro,TRUE,4,-8.75,36.5,Bantoid,Niger-Congo,TZ
+Q2,776,Kinyambo,nbo,Nyambo,TRUE,0,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,777,Kinyiha,nyh,Nyiha,TRUE,0,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,778,Kipogoro,pog,Pogoro,TRUE,0,-8.75,36.5,Bantoid,Niger-Congo,TZ
+Q2,779,Kirangi,lgi,Langi,TRUE,0,-4.5,36,Bantoid,Niger-Congo,TZ
+Q2,780,Luganda,lda,Luganda,TRUE,0,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,781,Runyankole,rny,Runyankore,TRUE,0,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,782,Runyoro,rru,Runyoro-Rutooro,TRUE,0,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,783,Lusoga,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,783,Lusoga,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,783,Lusoga,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,783,Lusoga,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,783,Lusoga,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,783,Lusoga,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,783,Lusoga,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,783,Lusoga,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,783,Lusoga,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,783,Lusoga,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,783,Lusoga,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,783,Lusoga,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,783,Lusoga,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,784,Lumasaaba,buk,Bukusu,TRUE,2,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,785,Lukhonjo,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,785,Lukhonjo,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,785,Lukhonjo,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,785,Lukhonjo,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,785,Lukhonjo,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,785,Lukhonjo,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,785,Lukhonjo,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,785,Lukhonjo,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,785,Lukhonjo,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,785,Lukhonjo,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,785,Lukhonjo,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,785,Lukhonjo,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,785,Lukhonjo,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,786,Lunyole,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,786,Lunyole,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,786,Lunyole,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,786,Lunyole,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,786,Lunyole,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,786,Lunyole,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,786,Lunyole,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,786,Lunyole,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,786,Lunyole,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,786,Lunyole,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,786,Lunyole,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,786,Lunyole,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,786,Lunyole,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,787,Ateso,tes,Teso,TRUE,0,1.83333333333,33.8333333333,Nilotic,Eastern Sudanic,UG
+Q2,788,Acholi,acl,Acholi,TRUE,0,3,32.6666666667,Nilotic,Eastern Sudanic,UG SD
+Q2,789,Alur,acl,Acholi,TRUE,4,3,32.6666666667,Nilotic,Eastern Sudanic,UG SD
+Q2,789,Alur,lan,Lango,TRUE,4,2.16666666667,33,Nilotic,Eastern Sudanic,UG
+Q2,790,Lugbara,lug,Lugbara,TRUE,0,3.08333333333,30.9166666667,Moru-Ma'di,Central Sudanic,CD UG
+Q2,791,Madi,mad,Ma'di,TRUE,0,3.25,31.5,Moru-Ma'di,Central Sudanic,SD UG
+Q2,792,Japadhola,luo,Luo,TRUE,5,-0.5,34.75,Nilotic,Eastern Sudanic,TZ KE
+Q2,793,Lusamia,luy,Luyia,FALSE,,0.416666666667,34.5,Bantoid,Niger-Congo,KE
+Q2,794,Lugwere,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,794,Lugwere,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,794,Lugwere,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,794,Lugwere,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,794,Lugwere,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,794,Lugwere,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,794,Lugwere,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,794,Lugwere,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,794,Lugwere,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,794,Lugwere,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,794,Lugwere,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,794,Lugwere,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,794,Lugwere,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,795,Rukiga,nko,Nkore-Kiga,TRUE,0,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,796,Rutooro,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,796,Rutooro,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,796,Rutooro,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,796,Rutooro,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,796,Rutooro,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,796,Rutooro,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,796,Rutooro,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,796,Rutooro,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,796,Rutooro,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,796,Rutooro,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,796,Rutooro,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,796,Rutooro,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,796,Rutooro,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,797,Langi,lan,Lango,TRUE,0,2.16666666667,33,Nilotic,Eastern Sudanic,UG
+Q2,798,Kupsabinyi,seb,Sebei,TRUE,0,1.33333333333,34.5833333333,Nilotic,Eastern Sudanic,UG
+Q2,799,Ngakarimajong,kmj,Karimojong,TRUE,0,3,34.1666666667,Nilotic,Eastern Sudanic,UG
+Q2,800,Rufumbira,kin,Kinyarwanda,TRUE,0,-2,30,Bantoid,Niger-Congo,RW
+Q2,820,Bemba,bem,Bemba,TRUE,0,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,823,Lozi,loz,Lozi,TRUE,0,-17.8333333333,26,Bantoid,Niger-Congo,ZM
+Q2,825,Nsenga,nse,Nsenga,TRUE,0,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,826,Tumbuka,ngo,Ngoni,TRUE,4,-11,36,Bantoid,Niger-Congo,MZ TZ
+Q2,826,Tumbuka,sen,Sena,TRUE,4,-18,35.25,Bantoid,Niger-Congo,MZ
+Q2,826,Tumbuka,nse,Nsenga,TRUE,4,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,826,Tumbuka,cic,Chichewa,TRUE,4,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,827,Kaonde,blu,Bena-Lulua,TRUE,4,-6,21,Bantoid,Niger-Congo,CD
+Q2,827,Kaonde,cil,CiLuba,TRUE,4,-6,22,Bantoid,Niger-Congo,CD
+Q2,827,Kaonde,lbu,Lunda,TRUE,4,-10.6666666667,24,Bantoid,Niger-Congo,CD
+Q2,827,Kaonde,sge,Songe,TRUE,4,-6.83333333333,22,Bantoid,Niger-Congo,CD
+Q2,827,Kaonde,kte,Kete,TRUE,4,-7,22.8333333333,Bantoid,Niger-Congo,CD
+Q2,827,Kaonde,hem,Hemba,TRUE,4,-6.25,27.1666666667,Bantoid,Niger-Congo,CD
+Q2,827,Kaonde,kyo,Kanyok,TRUE,4,-7.33333333333,23.5833333333,Bantoid,Niger-Congo,CD
+Q2,827,Kaonde,kil,Kiluba,TRUE,4,-8,26,Bantoid,Niger-Congo,CD
+Q2,828,Luvale,luv,Luvale,TRUE,0,-12,22,Bantoid,Niger-Congo,AO
+Q2,829,Namwanga,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,829,Namwanga,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,829,Namwanga,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,829,Namwanga,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,829,Namwanga,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,829,Namwanga,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,829,Namwanga,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,830,Lunda,lbu,Lunda,FALSE,,-10.6666666667,24,Bantoid,Niger-Congo,CD
+Q2,831,Bisa,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,831,Bisa,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,831,Bisa,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,831,Bisa,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,831,Bisa,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,831,Bisa,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,831,Bisa,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,832,Nkoya,blu,Bena-Lulua,TRUE,4,-6,21,Bantoid,Niger-Congo,CD
+Q2,832,Nkoya,cil,CiLuba,TRUE,4,-6,22,Bantoid,Niger-Congo,CD
+Q2,832,Nkoya,lbu,Lunda,TRUE,4,-10.6666666667,24,Bantoid,Niger-Congo,CD
+Q2,832,Nkoya,sge,Songe,TRUE,4,-6.83333333333,22,Bantoid,Niger-Congo,CD
+Q2,832,Nkoya,kte,Kete,TRUE,4,-7,22.8333333333,Bantoid,Niger-Congo,CD
+Q2,832,Nkoya,hem,Hemba,TRUE,4,-6.25,27.1666666667,Bantoid,Niger-Congo,CD
+Q2,832,Nkoya,kyo,Kanyok,TRUE,4,-7.33333333333,23.5833333333,Bantoid,Niger-Congo,CD
+Q2,832,Nkoya,kil,Kiluba,TRUE,4,-8,26,Bantoid,Niger-Congo,CD
+Q2,833,Mambwe,mmw,Mambwe,TRUE,0,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,834,Lenje,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,834,Lenje,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,834,Lenje,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,834,Lenje,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,834,Lenje,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,834,Lenje,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,834,Lenje,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,835,Ngoni,nse,Nsenga,FALSE,,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,836,Soli,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,836,Soli,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,836,Soli,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,836,Soli,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,836,Soli,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,836,Soli,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,836,Soli,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,837,Ila,ila,Ila,TRUE,0,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,838,Ushi,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,838,Ushi,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,838,Ushi,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,838,Ushi,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,838,Ushi,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,838,Ushi,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,838,Ushi,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,839,Chokwe,luv,Luvale,TRUE,4,-12,22,Bantoid,Niger-Congo,AO
+Q2,839,Chokwe,loz,Lozi,TRUE,4,-17.8333333333,26,Bantoid,Niger-Congo,ZM
+Q2,839,Chokwe,sub,Subiya,TRUE,4,-17.75,24.9166666667,Bantoid,Niger-Congo,
+Q2,839,Chokwe,luc,Lucazi,TRUE,4,-14,20,Bantoid,Niger-Congo,AO
+Q2,839,Chokwe,kwn,Kwangali,TRUE,4,-18,19.5,Bantoid,Niger-Congo,NA AO
+Q2,840,Mbunda,luv,Luvale,TRUE,4,-12,22,Bantoid,Niger-Congo,AO
+Q2,840,Mbunda,loz,Lozi,TRUE,4,-17.8333333333,26,Bantoid,Niger-Congo,ZM
+Q2,840,Mbunda,sub,Subiya,TRUE,4,-17.75,24.9166666667,Bantoid,Niger-Congo,
+Q2,840,Mbunda,luc,Lucazi,TRUE,4,-14,20,Bantoid,Niger-Congo,AO
+Q2,840,Mbunda,kwn,Kwangali,TRUE,4,-18,19.5,Bantoid,Niger-Congo,NA AO
+Q2,841,Kunda,cic,Chichewa,TRUE,0,-14,34,Bantoid,Niger-Congo,ZW MW ZM MZ
+Q2,842,Lala,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,842,Lala,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,842,Lala,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,842,Lala,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,842,Lala,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,842,Lala,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,842,Lala,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,843,Lamba,lmb,Lamba,TRUE,0,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,844,Lungu,mmw,Mambwe,TRUE,0,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,845,Nyika,nyh,Nyiha,TRUE,0,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,846,Senga,nse,Nsenga,TRUE,0,-14.5,30.8333333333,Bantoid,Niger-Congo,ZM
+Q2,847,Tokaleya,toz,Tonga (in Zambia),TRUE,0,-17,27,Bantoid,Niger-Congo,ZM
+Q2,851,Tabwa,tbw,Tabwa,TRUE,0,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,861,Shona,shn,Shona,FALSE,,-18,31,Bantoid,Niger-Congo,ZW
+Q2,862,Zezuru,shn,Shona,FALSE,,-18,31,Bantoid,Niger-Congo,ZW
+Q2,863,Korekore,shn,Shona,FALSE,,-18,31,Bantoid,Niger-Congo,ZW
+Q2,864,Karanga,krg,Karanga,FALSE,,-20,31,Bantoid,Niger-Congo,ZW
+Q2,865,Manyika,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA
+Q2,865,Manyika,tsw,Tswana,TRUE,4,-24,26,Bantoid,Niger-Congo,BW ZA
+Q2,865,Manyika,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW
+Q2,865,Manyika,shn,Shona,TRUE,4,-18,31,Bantoid,Niger-Congo,ZW
+Q2,865,Manyika,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q2,865,Manyika,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA
+Q2,865,Manyika,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA
+Q2,865,Manyika,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA
+Q2,865,Manyika,rga,Ronga,TRUE,4,-26,32.5,Bantoid,Niger-Congo,MZ
+Q2,865,Manyika,stn,Sotho (Northern),TRUE,4,-24,29,Bantoid,Niger-Congo,ZA
+Q2,865,Manyika,ses,Sesotho,TRUE,4,-28,27,Bantoid,Niger-Congo,ZA LS
+Q2,865,Manyika,swt,Swati,TRUE,4,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q2,865,Manyika,ven,Venda,TRUE,4,-22,30,Bantoid,Niger-Congo,ZW ZA
+Q2,865,Manyika,tsn,Tsonga,TRUE,4,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,865,Manyika,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA
+Q2,868,Kalanga,klz,Kalanga,TRUE,0,-20.5,27.5,Bantoid,Niger-Congo,ZW BW
+Q2,870,Buja,lin,Lingala,TRUE,4,2,18.5,Bantoid,Niger-Congo,CD
+Q2,870,Buja,dok,Doko,TRUE,4,3,23.0833333333,Bantoid,Niger-Congo,CD
+Q2,870,Buja,nbe,Ngombe,TRUE,4,3,23,Bantoid,Niger-Congo,CD
+Q2,870,Buja,leb,Lebeo,TRUE,4,1.75,25,Bantoid,Niger-Congo,CD
+Q2,870,Buja,bsh,Bushoong,TRUE,4,-4.5,21.5,Bantoid,Niger-Congo,CD
+Q2,870,Buja,tet,Tetela,TRUE,4,-4,24,Bantoid,Niger-Congo,CD
+Q2,870,Buja,aka,Aka,TRUE,4,2.66666666667,16.25,Bantoid,Niger-Congo,CF CG
+Q2,870,Buja,bbl,Babole,TRUE,4,1.08333333333,17.25,Bantoid,Niger-Congo,CG
+Q2,870,Buja,mgo,Mongo,TRUE,4,0,21,Bantoid,Niger-Congo,CD
+Q2,870,Buja,bob,Bobangi,TRUE,4,-1.33333333333,17.3333333333,Bantoid,Niger-Congo,CD
+Q2,870,Buja,nto,Ntomba,TRUE,4,-2,18.3333333333,Bantoid,Niger-Congo,CD
+Q2,870,Buja,bol,Bolia,TRUE,4,-1.25,18.3333333333,Bantoid,Niger-Congo,CD
+Q2,870,Buja,mdw,Mbosi,TRUE,4,-1.25,15.5,Bantoid,Niger-Congo,CG
+Q2,870,Buja,sgl,Sengele,TRUE,4,-1.83333333333,17.3333333333,Bantoid,Niger-Congo,CD
+Q2,870,Buja,lin,Lingala,TRUE,4,2,18.5,Bantoid,Niger-Congo,CD
+Q2,870,Buja,dok,Doko,TRUE,4,3,23.0833333333,Bantoid,Niger-Congo,CD
+Q2,870,Buja,nbe,Ngombe,TRUE,4,3,23,Bantoid,Niger-Congo,CD
+Q2,870,Buja,leb,Lebeo,TRUE,4,1.75,25,Bantoid,Niger-Congo,CD
+Q2,870,Buja,bsh,Bushoong,TRUE,4,-4.5,21.5,Bantoid,Niger-Congo,CD
+Q2,870,Buja,tet,Tetela,TRUE,4,-4,24,Bantoid,Niger-Congo,CD
+Q2,870,Buja,aka,Aka,TRUE,4,2.66666666667,16.25,Bantoid,Niger-Congo,CF CG
+Q2,870,Buja,bbl,Babole,TRUE,4,1.08333333333,17.25,Bantoid,Niger-Congo,CG
+Q2,870,Buja,mgo,Mongo,TRUE,4,0,21,Bantoid,Niger-Congo,CD
+Q2,870,Buja,bob,Bobangi,TRUE,4,-1.33333333333,17.3333333333,Bantoid,Niger-Congo,CD
+Q2,870,Buja,nto,Ntomba,TRUE,4,-2,18.3333333333,Bantoid,Niger-Congo,CD
+Q2,870,Buja,bol,Bolia,TRUE,4,-1.25,18.3333333333,Bantoid,Niger-Congo,CD
+Q2,870,Buja,mdw,Mbosi,TRUE,4,-1.25,15.5,Bantoid,Niger-Congo,CG
+Q2,870,Buja,sgl,Sengele,TRUE,4,-1.83333333333,17.3333333333,Bantoid,Niger-Congo,CD
+Q2,871,Shangani,tsn,Tsonga,TRUE,0,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,872,Suthu,ses,Sesotho,TRUE,0,-28,27,Bantoid,Niger-Congo,ZA LS
+Q2,900,Creole,mcr,Mauritian Creole,TRUE,0,-20.3333333333,57.5,Creoles and Pidgins,other,MU
+Q2,930,Krio,npi,Nigerian Pidgin,TRUE,2,6.5,3.33333333333,Creoles and Pidgins,other,NG
+Q2,932,Temne,tne,Temne,TRUE,0,8.66666666667,-13.0833333333,Mel,Niger-Congo,SL
+Q2,933,Limba,gol,Gola,TRUE,5,7.25,-10.8333333333,Mel,Niger-Congo,SL LR
+Q2,933,Limba,gol,Gola,TRUE,5,7.25,-10.8333333333,Mel,Niger-Congo,SL LR
+Q2,934,Loko,lok,Loko,TRUE,0,9.33333333333,-12.0833333333,Western Mande,Mande,SL
+Q2,935,Sherbo,kis,Kisi,TRUE,5,8.83333333333,-10.1666666667,Mel,Niger-Congo,SL GN LR
+Q2,935,Sherbo,kss,Kisi (Southern),TRUE,5,8.5,-10.25,Mel,Niger-Congo,LR GN
+Q2,936,Fulla,fgu,Fula (Guinean),FALSE,,11.5,-12.5,Northern Atlantic,Niger-Congo,GN
+Q2,937,Kono,vai,Vai,TRUE,2,6.91666666667,-11.25,Western Mande,Mande,SL LR
+Q2,938,Kuranko,kko,Koranko,TRUE,0,9.33333333333,-11.25,Western Mande,Mande,SL GN
+Q2,939,Madingo,mnk,Maninka,FALSE,,10.5,-9.5,Western Mande,Mande,GN SL
+Q2,941,Susu,sus,Susu,TRUE,0,10,-13,Western Mande,Mande,GN
+Q2,943,Yalunka,sus,Susu,TRUE,2,10,-13,Western Mande,Mande,GN
+Q2,1101,Zarma/Songhaï,zar,Zarma,TRUE,0,13.8333333333,2.16666666667,Songhay,Songhay,NE
+Q2,1105,Goumantchéma,grm,Gurma,FALSE,,12.25,1,Gur,Niger-Congo,BF
+Q2,1141,Mina (Guen),ewa,Ewe (Anglo),TRUE,3,6,1,Kwa,Niger-Congo,GH
+Q2,1141,Mina (Guen),ewe,Ewe,TRUE,3,6.33333333333,0.416666666667,Kwa,Niger-Congo,TG GH
+Q2,1142,Kabye,kby,Kabiyé,TRUE,0,9.66666666667,1.16666666667,Gur,Niger-Congo,TG
+Q2,1143,Tem (Kotokoli),tem,Tem,TRUE,0,8.66666666667,0.5,Gur,Niger-Congo,BJ GH TG
+Q2,1144,Ben (Moba),bmb,Bimoba,TRUE,2,10.5,0,Gur,Niger-Congo,GH
+Q2,1145,Nawdem (Losso),tem,Tem,TRUE,2,8.66666666667,0.5,Gur,Niger-Congo,BJ GH TG
+Q2,1145,Nawdem (Losso),kby,Kabiyé,TRUE,2,9.66666666667,1.16666666667,Gur,Niger-Congo,TG
+Q2,1146,Lama (Lamba),tem,Tem,TRUE,2,8.66666666667,0.5,Gur,Niger-Congo,BJ GH TG
+Q2,1146,Lama (Lamba),kby,Kabiyé,TRUE,2,9.66666666667,1.16666666667,Gur,Niger-Congo,TG
+Q2,1147,Ife (Ana),yor,Yoruba,TRUE,2,8,4.33333333333,Defoid,Niger-Congo,NG BJ
+Q2,1147,Ife (Ana),ise,Isekiri,TRUE,2,5.66666666667,5.5,Defoid,Niger-Congo,NG
+Q2,1148,Ikposso (Akposso),kpo,Kposo,TRUE,0,7.5,0.833333333333,Kwa,Niger-Congo,TG
+Q2,1149,N'tcha (Bassar),ncm,Ncàm,TRUE,0,9.33333333333,0.666666666667,Gur,Niger-Congo,GH TG
+Q2,1151,Akebou,avt,Avatime,TRUE,4,6.83333333333,0.416666666667,Kwa,Niger-Congo,GH
+Q2,1151,Akebou,kpo,Kposo,TRUE,4,7.5,0.833333333333,Kwa,Niger-Congo,TG
+Q2,1151,Akebou,ewa,Ewe (Anglo),TRUE,4,6,1,Kwa,Niger-Congo,GH
+Q2,1151,Akebou,ewe,Ewe,TRUE,4,6.33333333333,0.416666666667,Kwa,Niger-Congo,TG GH
+Q2,1152,Gourma,gut,Gurma (Togo),FALSE,,10.75,0.666666666667,Gur,Niger-Congo,BF
+Q2,1153,Konkomba,kkb,Konkomba,TRUE,0,10,0.0833333333333,Gur,Niger-Congo,TG GH
+Q2,1154,Ngam-gam,grm,Gurma,TRUE,2,12.25,1,Gur,Niger-Congo,BF
+Q2,1154,Ngam-gam,gut,Gurma (Togo),TRUE,2,10.75,0.666666666667,Gur,Niger-Congo,BF
+Q2,1154,Ngam-gam,ntn,Nateni,TRUE,2,10.5,1.16666666667,Gur,Niger-Congo,BJ
+Q2,1154,Ngam-gam,kkb,Konkomba,TRUE,2,10,0.0833333333333,Gur,Niger-Congo,TG GH
+Q2,1155,Tchamba,ncm,Ncàm,TRUE,2,9.33333333333,0.666666666667,Gur,Niger-Congo,GH TG
+Q2,1157,Ouatchi,ewa,Ewe (Anglo),TRUE,2,6,1,Kwa,Niger-Congo,GH
+Q2,1157,Ouatchi,ewe,Ewe,TRUE,2,6.33333333333,0.416666666667,Kwa,Niger-Congo,TG GH
+Q2,1160,Tchpkossi (Anoufom),anu,Anufo,TRUE,0,10.0833333333,0.25,Kwa,Niger-Congo,GH TG BJ
+Q2,1180,Kirundi,rnd,Rundi,TRUE,0,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,1220,Foufouldé,fub,,FALSE,,,,,,
+Q2,1221,Pidgin,npi,Nigerian Pidgin,TRUE,2,6.5,3.33333333333,Creoles and Pidgins,other,NG
+Q2,1222,Ewondo,ewo,Ewondo,TRUE,0,4,12,Bantoid,Niger-Congo,CM
+Q2,1223,Bafang,fef,Fe'fe',TRUE,0,5.25,10.1666666667,Bantoid,Niger-Congo,CM
+Q2,1224,Douala,dua,Duala,TRUE,0,4,9.41666666667,Bantoid,Niger-Congo,CM
+Q2,1225,Bafia,bfi,Bafia,TRUE,0,5,11.1666666667,Bantoid,Niger-Congo,CM
+Q2,1226,Bafut,baf,Bafut,TRUE,0,6.25,9.91666666667,Bantoid,Niger-Congo,CM
+Q2,1227,Bangangté,mgk,Mungaka,TRUE,2,5.91666666667,10,Bantoid,Niger-Congo,CM
+Q2,1227,Bangangté,bmn,Bamun,TRUE,2,5.5,10.9166666667,Bantoid,Niger-Congo,CM
+Q2,1228,Bakundu,bkn,Bakundu,FALSE,,4.83333333333,9.33333333333,Bantoid,Niger-Congo,CM
+Q2,1228,Bakundu,ldo,Londo,FALSE,,5,9.16666666667,Bantoid,Niger-Congo,CM
+Q2,1229,Bamileke,fef,Fe'fe',FALSE,,5.25,10.1666666667,Bantoid,Niger-Congo,CM
+Q2,1229,Bamileke,new,Newari (Kathmandu),FALSE,,27.6666666667,85.5,Mahakiranti,Sino-Tibetan,NP
+Q2,1229,Bamileke,nwd,Newar (Dolakha),FALSE,,27.3333333333,86,Mahakiranti,Sino-Tibetan,NP
+Q2,1229,Bamileke,yem,Yemba,FALSE,,5.41666666667,10.0833333333,Bantoid,Niger-Congo,CM
+Q2,1230,Bamoun,bmn,Bamun,TRUE,0,5.5,10.9166666667,Bantoid,Niger-Congo,CM
+Q2,1231,Bandjoun,fef,Fe'fe',TRUE,2,5.25,10.1666666667,Bantoid,Niger-Congo,CM
+Q2,1231,Bandjoun,yem,Yemba,TRUE,2,5.41666666667,10.0833333333,Bantoid,Niger-Congo,CM
+Q2,1232,Bangwa,mkq,Mankon,TRUE,0,6,10.1666666667,Bantoid,Niger-Congo,CM
+Q2,1232,Bangwa,nge,Ngemba,TRUE,0,6.2,10,Bantoid,Niger-Congo,CM
+Q2,1233,Banso,lns,Lamnso',TRUE,0,6.16666666667,10.75,Bantoid,Niger-Congo,CM
+Q2,1235,Batanga,bkn,Bakundu,FALSE,,4.83333333333,9.33333333333,Bantoid,Niger-Congo,CM
+Q2,1235,Batanga,ldo,Londo,FALSE,,5,9.16666666667,Bantoid,Niger-Congo,CM
+Q2,1236,Bayangi,kyg,Kenyang,TRUE,0,5.66666666667,9.5,Bantoid,Niger-Congo,CM
+Q2,1237,Bulu,buw,Bulu,TRUE,0,3,11,Bantoid,Niger-Congo,CM
+Q2,1238,Dschang,yem,Yemba,TRUE,0,5.41666666667,10.0833333333,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,buw,Bulu,TRUE,4,3,11,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,dua,Duala,TRUE,4,4,9.41666666667,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,tnn,Tunen,TRUE,4,4.75,10.6666666667,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,bfi,Bafia,TRUE,4,5,11.1666666667,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,bkn,Bakundu,TRUE,4,4.83333333333,9.33333333333,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,ldo,Londo,TRUE,4,5,9.16666666667,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,ewo,Ewondo,TRUE,4,4,12,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,tki,Tuki,TRUE,4,4.58333333333,11.5,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,buj,Bujeba,TRUE,4,3,10.1666666667,Bantoid,Niger-Congo,GQ CM
+Q2,1239,Eton,bku,Bakueri,TRUE,4,4.25,9.25,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,bnk,Bankon,TRUE,4,4.41666666667,9.58333333333,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,bas,Basaá,TRUE,4,3.91666666667,10.5,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,bga,Benga,TRUE,4,1.16666666667,9.41666666667,Bantoid,Niger-Congo,GQ GA
+Q2,1239,Eton,gun,Gunu,TRUE,4,4.58333333333,11.25,Bantoid,Niger-Congo,CM
+Q2,1239,Eton,bub,Bubi,TRUE,4,3.5,8.66666666667,Bantoid,Niger-Congo,GQ
+Q2,1239,Eton,mkz,Makaa,TRUE,4,3.41666666667,12.25,Bantoid,Niger-Congo,CM
+Q2,1240,Fali,day,Day,TRUE,5,8.75,17.8333333333,Adamawa,Niger-Congo,TD
+Q2,1240,Fali,lua,Lua,TRUE,5,9.75,17.75,Adamawa,Niger-Congo,TD
+Q2,1240,Fali,gir,Gula Iro,TRUE,5,10.25,19.4166666667,Adamawa,Niger-Congo,TD
+Q2,1240,Fali,ksp,Kosop,TRUE,5,9.91666666667,15.9166666667,Adamawa,Niger-Congo,TD
+Q2,1240,Fali,sle,Samba Leko,TRUE,5,8.5,12.5,Adamawa,Niger-Congo,CM NG
+Q2,1240,Fali,day,Day,TRUE,5,8.75,17.8333333333,Adamawa,Niger-Congo,TD
+Q2,1240,Fali,lua,Lua,TRUE,5,9.75,17.75,Adamawa,Niger-Congo,TD
+Q2,1240,Fali,gir,Gula Iro,TRUE,5,10.25,19.4166666667,Adamawa,Niger-Congo,TD
+Q2,1240,Fali,ksp,Kosop,TRUE,5,9.91666666667,15.9166666667,Adamawa,Niger-Congo,TD
+Q2,1240,Fali,sle,Samba Leko,TRUE,5,8.5,12.5,Adamawa,Niger-Congo,CM NG
+Q2,1241,Fong,ewo,Ewondo,TRUE,0,4,12,Bantoid,Niger-Congo,CM
+Q2,1242,Gbaya,gbk,Gbaya Kara,FALSE,,6,15,Gbaya-Manza-Ngbaka,Niger-Congo,CM CF
+Q2,1243,Guider,gdr,Gidar,TRUE,0,10,14,Biu-Mandara,Afro-Asiatic,CM
+Q2,1244,Guiziga,giz,Giziga,TRUE,0,10.3333333333,14.1666666667,Biu-Mandara,Afro-Asiatic,CM
+Q2,1246,Kapsiki,ban,Bana,TRUE,2,10.4166666667,13.5833333333,Biu-Mandara,Afro-Asiatic,CM
+Q2,1247,Mafa,mof,Mofu-Gudur,TRUE,2,10.5,14,Biu-Mandara,Afro-Asiatic,CM
+Q2,1247,Mafa,mda,Mada (in Cameroon),TRUE,2,10.8333333333,14.1666666667,Biu-Mandara,Afro-Asiatic,CM
+Q2,1247,Mafa,uld,Uldeme,TRUE,2,10.95,14.1166666667,Biu-Mandara,Afro-Asiatic,CM
+Q2,1247,Mafa,giz,Giziga,TRUE,2,10.3333333333,14.1666666667,Biu-Mandara,Afro-Asiatic,CM
+Q2,1248,Maka,buw,Bulu,TRUE,4,3,11,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,dua,Duala,TRUE,4,4,9.41666666667,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,tnn,Tunen,TRUE,4,4.75,10.6666666667,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,bfi,Bafia,TRUE,4,5,11.1666666667,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,bkn,Bakundu,TRUE,4,4.83333333333,9.33333333333,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,ldo,Londo,TRUE,4,5,9.16666666667,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,ewo,Ewondo,TRUE,4,4,12,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,tki,Tuki,TRUE,4,4.58333333333,11.5,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,buj,Bujeba,TRUE,4,3,10.1666666667,Bantoid,Niger-Congo,GQ CM
+Q2,1248,Maka,bku,Bakueri,TRUE,4,4.25,9.25,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,bnk,Bankon,TRUE,4,4.41666666667,9.58333333333,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,bas,Basaá,TRUE,4,3.91666666667,10.5,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,bga,Benga,TRUE,4,1.16666666667,9.41666666667,Bantoid,Niger-Congo,GQ GA
+Q2,1248,Maka,gun,Gunu,TRUE,4,4.58333333333,11.25,Bantoid,Niger-Congo,CM
+Q2,1248,Maka,bub,Bubi,TRUE,4,3.5,8.66666666667,Bantoid,Niger-Congo,GQ
+Q2,1248,Maka,mkz,Makaa,TRUE,4,3.41666666667,12.25,Bantoid,Niger-Congo,CM
+Q2,1249,Mankon,mkq,Mankon,FALSE,,6,10.1666666667,Bantoid,Niger-Congo,CM
+Q2,1250,Massa,mas,Masa,TRUE,0,10.5,15.5,Masa,Afro-Asiatic,TD CM
+Q2,1251,Mbouda,fef,Fe'fe',TRUE,2,5.25,10.1666666667,Bantoid,Niger-Congo,CM
+Q2,1251,Mbouda,yem,Yemba,TRUE,2,5.41666666667,10.0833333333,Bantoid,Niger-Congo,CM
+Q2,1251,Mbouda,fef,Fe'fe',TRUE,2,5.25,10.1666666667,Bantoid,Niger-Congo,CM
+Q2,1251,Mbouda,yem,Yemba,TRUE,2,5.41666666667,10.0833333333,Bantoid,Niger-Congo,CM
+Q2,1251,Mbouda,fef,Fe'fe',TRUE,2,5.25,10.1666666667,Bantoid,Niger-Congo,CM
+Q2,1251,Mbouda,yem,Yemba,TRUE,2,5.41666666667,10.0833333333,Bantoid,Niger-Congo,CM
+Q2,1252,Mboum,mbm,Mbum,TRUE,0,7.75,13.1666666667,Adamawa,Niger-Congo,TD CF CM
+Q2,1254,Moudan,mud,Mundani,TRUE,0,5.66666666667,9.91666666667,Bantoid,Niger-Congo,CM
+Q2,1255,Ngueba,fef,Fe'fe',TRUE,2,5.25,10.1666666667,Bantoid,Niger-Congo,CM
+Q2,1255,Ngueba,yem,Yemba,TRUE,2,5.41666666667,10.0833333333,Bantoid,Niger-Congo,CM
+Q2,1257,Lamnso,lns,Lamnso',TRUE,0,6.16666666667,10.75,Bantoid,Niger-Congo,CM
+Q2,1258,Tikari,tik,Tikar,TRUE,0,5.83333333333,11.6666666667,Bantoid,Niger-Congo,CM
+Q2,1259,Toupouri,tpr,Tupuri,TRUE,0,10.1666666667,14.75,Adamawa,Niger-Congo,CM TD
+Q2,1260,Abbey,abd,Abidji,TRUE,2,5.66666666667,-4.58333333333,Kwa,Niger-Congo,CI
+Q2,1260,Abbey,adi,Adioukrou,TRUE,2,5.41666666667,-4.58333333333,Kwa,Niger-Congo,CI
+Q2,1261,Abron,akn,Akan,TRUE,2,6.5,-1.25,Kwa,Niger-Congo,GH
+Q2,1262,Adjoukrou,adi,Adioukrou,TRUE,0,5.41666666667,-4.58333333333,Kwa,Niger-Congo,CI
+Q2,1263,Agny,ayi,Anyi,TRUE,0,7,-3.5,Kwa,Niger-Congo,CI
+Q2,1264,Attié,ga,Gã,TRUE,4,5.66666666667,-0.166666666667,Kwa,Niger-Congo,GH
+Q2,1264,Attié,avk,Avikam,TRUE,4,5.16666666667,-5.5,Kwa,Niger-Congo,CI
+Q2,1264,Attié,ald,Alladian,TRUE,4,5.16666666667,-4.33333333333,Kwa,Niger-Congo,CI
+Q2,1264,Attié,abd,Abidji,TRUE,4,5.66666666667,-4.58333333333,Kwa,Niger-Congo,CI
+Q2,1264,Attié,adi,Adioukrou,TRUE,4,5.41666666667,-4.58333333333,Kwa,Niger-Congo,CI
+Q2,1265,Avikam,avk,Avikam,TRUE,0,5.16666666667,-5.5,Kwa,Niger-Congo,CI
+Q2,1267,Baoulé,ble,Baule,TRUE,0,7,-5,Kwa,Niger-Congo,CI
+Q2,1268,Bété,bet,Bété,TRUE,0,6.25,-6.25,Kru,Niger-Congo,CI
+Q2,1269,Dida,vat,Vata,TRUE,0,5.83333333333,-5.41666666667,Kru,Niger-Congo,CI
+Q2,1270,Godié,gdi,Godié,FALSE,,5.41666666667,-5.83333333333,Kru,Niger-Congo,CI
+Q2,1271,Gouro,gro,Guro,TRUE,0,7,-6,Eastern Mande,Mande,CI
+Q2,1272,Guéré,gue,Guere,TRUE,0,6.66666666667,-7.75,Kru,Niger-Congo,CI
+Q2,1273,Koulango,lob,Lobi,TRUE,4,10.5,-3.25,Gur,Niger-Congo,BF CI
+Q2,1273,Koulango,brb,Bariba,TRUE,4,10,2.5,Gur,Niger-Congo,NG BJ
+Q2,1273,Koulango,tou,Toussian,TRUE,4,11,-4.66666666667,Gur,Niger-Congo,BF
+Q2,1273,Koulango,tow,Toussian (Win),TRUE,4,10.8333333333,-4.66666666667,Gur,Niger-Congo,BF
+Q2,1274,Kroumen,grb,Grebo,TRUE,4,5,-8,Kru,Niger-Congo,LR
+Q2,1274,Kroumen,grb,Grebo,TRUE,4,5,-8,Kru,Niger-Congo,LR
+Q2,1278,Yacouba,dan,Dan,FALSE,,7.5,-8,Eastern Mande,Mande,LR GN CI
+Q2,1279,Djimini,dym,Dyimini,TRUE,0,8.41666666667,-4.41666666667,Gur,Niger-Congo,CI
+Q2,1280,Gnanboua,gue,Guere,TRUE,4,6.66666666667,-7.75,Kru,Niger-Congo,CI
+Q2,1280,Gnanboua,wob,Wobe,TRUE,4,7.41666666667,-7.33333333333,Kru,Niger-Congo,CI
+Q2,1281,Koyaka,mka,Mauka,TRUE,2,8.33333333333,-7.5,Western Mande,Mande,CI
+Q2,1282,Wobe,wob,Wobe,TRUE,0,7.41666666667,-7.33333333333,Kru,Niger-Congo,CI
+Q2,1300,Soussou,sus,Susu,TRUE,0,10,-13,Western Mande,Mande,GN
+Q2,1301,Poular,fgu,Fula (Guinean),FALSE,,11.5,-12.5,Northern Atlantic,Niger-Congo,GN
+Q2,1302,Maninka,mnk,Maninka,FALSE,,10.5,-9.5,Western Mande,Mande,GN SL
+Q2,1303,Kpèlè,kpe,Kpelle,TRUE,2,7,-10,Western Mande,Mande,LR
+Q2,1304,Loma,tno,Tondano,TRUE,2,1.25,125,Minahasan,Austronesian,ID
+Q2,1305,Kissié,kis,Kisi,TRUE,2,8.83333333333,-10.1666666667,Mel,Niger-Congo,SL GN LR
+Q2,1305,Kissié,kss,Kisi (Southern),TRUE,2,8.5,-10.25,Mel,Niger-Congo,LR GN
+Q2,1420,Algerian Arabic,amr,Arabic (Moroccan),FALSE,,34,-6,Semitic,Afro-Asiatic,MA
+Q2,1420,Algerian Arabic,atu,Arabic (Tunisian),FALSE,,36.75,10.25,Semitic,Afro-Asiatic,TN
+Q2,1460,Egyptian Arabic,aeg,Arabic (Egyptian),FALSE,,30,31,Semitic,Afro-Asiatic,EG
+Q2,1501,Alhassania,ahs,Arabic (Bani-Hassan),TRUE,0,20,-10,Semitic,Afro-Asiatic,MR
+Q2,1540,Sudanese Arabic,abb,Arabic (Abbéché Chad),FALSE,,13.8333333333,20.8333333333,Semitic,Afro-Asiatic,TD
+Q2,1541,Nubian Language,nob,Nobiin,TRUE,0,21,31,Nubian,Eastern Sudanic,EG SD
+Q2,1620,siSwati,swt,Swati,TRUE,0,-26.5,31,Bantoid,Niger-Congo,ZA SZ
+Q2,1621,Shangaan,tsn,Tsonga,TRUE,0,-24,32,Bantoid,Niger-Congo,MZ ZA
+Q2,1660,Creolo,ago,Angolar,TRUE,0,0.25,6.5,Creoles and Pidgins,other,ST
+Q2,1661,Forro,mlc,Malacca Creole,TRUE,2,2.2,102.25,Creoles and Pidgins,other,MY
+Q2,1661,Forro,ago,Angolar,TRUE,2,0.25,6.5,Creoles and Pidgins,other,ST
+Q2,1661,Forro,pri,Príncipense,TRUE,2,1.61666666667,7.36666666667,Creoles and Pidgins,other,ST
+Q2,1661,Forro,gbc,Guinea Bissau Crioulo,TRUE,2,12,-15,Creoles and Pidgins,other,GW
+Q2,1662,Angolar,ago,Angolar,TRUE,0,0.25,6.5,Creoles and Pidgins,other,ST
+Q2,1700,Fang,buw,Bulu,TRUE,4,3,11,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,dua,Duala,TRUE,4,4,9.41666666667,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,tnn,Tunen,TRUE,4,4.75,10.6666666667,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,bfi,Bafia,TRUE,4,5,11.1666666667,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,bkn,Bakundu,TRUE,4,4.83333333333,9.33333333333,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,ldo,Londo,TRUE,4,5,9.16666666667,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,ewo,Ewondo,TRUE,4,4,12,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,tki,Tuki,TRUE,4,4.58333333333,11.5,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,buj,Bujeba,TRUE,4,3,10.1666666667,Bantoid,Niger-Congo,GQ CM
+Q2,1700,Fang,bku,Bakueri,TRUE,4,4.25,9.25,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,bnk,Bankon,TRUE,4,4.41666666667,9.58333333333,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,bas,Basaá,TRUE,4,3.91666666667,10.5,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,bga,Benga,TRUE,4,1.16666666667,9.41666666667,Bantoid,Niger-Congo,GQ GA
+Q2,1700,Fang,gun,Gunu,TRUE,4,4.58333333333,11.25,Bantoid,Niger-Congo,CM
+Q2,1700,Fang,bub,Bubi,TRUE,4,3.5,8.66666666667,Bantoid,Niger-Congo,GQ
+Q2,1700,Fang,mkz,Makaa,TRUE,4,3.41666666667,12.25,Bantoid,Niger-Congo,CM
+Q2,1701,Punu/Mériè,cog,Cogui,TRUE,0,11,-73.8333333333,Arhuacic,Chibchan,CO
+Q2,1702,Kota,cog,Cogui,TRUE,0,11,-73.8333333333,Arhuacic,Chibchan,CO
+Q2,1703,Mbédè,kuz,Kulamanen,TRUE,0,7.75,125,Greater Central Philippine,Austronesian,PH
+Q2,1704,Nzébi/Métié,mpo,Mpongwe,TRUE,4,-1.25,9.5,Bantoid,Niger-Congo,GA
+Q2,1704,Nzébi/Métié,tks,Teke (Southern),TRUE,4,-2.33333333333,14.5,Bantoid,Niger-Congo,CG
+Q2,1704,Nzébi/Métié,ifm,Ifumu,TRUE,4,-3.66666666667,15.3333333333,Bantoid,Niger-Congo,CG
+Q2,1704,Nzébi/Métié,ndu,Ndumu,TRUE,4,-1.66666666667,13.5833333333,Bantoid,Niger-Congo,GA
+Q2,1704,Nzébi/Métié,mbe,Mbere,TRUE,4,-0.5,14,Bantoid,Niger-Congo,GA CG
+Q2,1704,Nzébi/Métié,dng,Ding,TRUE,4,-4.33333333333,19.5,Bantoid,Niger-Congo,CD
+Q2,1704,Nzébi/Métié,tgo,Tsogo,TRUE,4,-1.5,11.3333333333,Bantoid,Niger-Congo,GA
+Q2,1704,Nzébi/Métié,dma,Duma,TRUE,4,-0.95,13,Bantoid,Niger-Congo,GA
+Q2,1704,Nzébi/Métié,yns,Yansi,TRUE,4,-3.83333333333,18,Bantoid,Niger-Congo,CD
+Q2,1704,Nzébi/Métié,sgu,Sangu,TRUE,4,-1.5,11.8333333333,Bantoid,Niger-Congo,GA
+Q2,1705,Myénè,mpo,Mpongwe,TRUE,0,-1.25,9.5,Bantoid,Niger-Congo,GA
+Q2,1706,Tsogho,tgo,Tsogo,TRUE,0,-1.5,11.3333333333,Bantoid,Niger-Congo,GA
+Q2,1707,Kélè,mpo,Mpongwe,TRUE,4,-1.25,9.5,Bantoid,Niger-Congo,GA
+Q2,1707,Kélè,tks,Teke (Southern),TRUE,4,-2.33333333333,14.5,Bantoid,Niger-Congo,CG
+Q2,1707,Kélè,ifm,Ifumu,TRUE,4,-3.66666666667,15.3333333333,Bantoid,Niger-Congo,CG
+Q2,1707,Kélè,ndu,Ndumu,TRUE,4,-1.66666666667,13.5833333333,Bantoid,Niger-Congo,GA
+Q2,1707,Kélè,mbe,Mbere,TRUE,4,-0.5,14,Bantoid,Niger-Congo,GA CG
+Q2,1707,Kélè,dng,Ding,TRUE,4,-4.33333333333,19.5,Bantoid,Niger-Congo,CD
+Q2,1707,Kélè,tgo,Tsogo,TRUE,4,-1.5,11.3333333333,Bantoid,Niger-Congo,GA
+Q2,1707,Kélè,dma,Duma,TRUE,4,-0.95,13,Bantoid,Niger-Congo,GA
+Q2,1707,Kélè,yns,Yansi,TRUE,4,-3.83333333333,18,Bantoid,Niger-Congo,CD
+Q2,1707,Kélè,sgu,Sangu,TRUE,4,-1.5,11.8333333333,Bantoid,Niger-Congo,GA
+Q2,2220,Yamba,yba,Yamba,TRUE,0,6.41666666667,11.0833333333,Bantoid,Niger-Congo,CM
+Q2,2221,Yabassi,dua,Duala,TRUE,0,4,9.41666666667,Bantoid,Niger-Congo,CM
+Q2,2222,Bene,buw,Bulu,TRUE,0,3,11,Bantoid,Niger-Congo,CM
+Q2,2740,Kisafwa,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD
+Q2,2740,Kisafwa,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ
+Q2,2740,Kisafwa,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM
+Q2,2740,Kisafwa,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM
+Q2,2740,Kisafwa,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD
+Q2,2740,Kisafwa,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM
+Q2,2740,Kisafwa,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM
+Q2,2741,Kisambaa,shm,Shambala,TRUE,0,-4.25,38.25,Bantoid,Niger-Congo,TZ
+Q2,2742,Kishirazi,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,2742,Kishirazi,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,2742,Kishirazi,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,2742,Kishirazi,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,2742,Kishirazi,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,2742,Kishirazi,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,2742,Kishirazi,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,2742,Kishirazi,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,2742,Kishirazi,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,2742,Kishirazi,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,2742,Kishirazi,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,2742,Kishirazi,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,2742,Kishirazi,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,2743,Kisubi,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,2743,Kisubi,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,2743,Kisubi,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,2743,Kisubi,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,2743,Kisubi,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,2743,Kisubi,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,2743,Kisubi,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,2743,Kisubi,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,2743,Kisubi,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,2743,Kisubi,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,2743,Kisubi,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,2743,Kisubi,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,2743,Kisubi,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,2744,Kisumbwa,skm,Sukuma,TRUE,4,-2.83333333333,32,Bantoid,Niger-Congo,TZ
+Q2,2744,Kisumbwa,nym,Nyamwezi,TRUE,4,-5,33,Bantoid,Niger-Congo,TZ
+Q2,2744,Kisumbwa,rim,Rimi,TRUE,4,-5,34.6666666667,Bantoid,Niger-Congo,TZ
+Q2,2744,Kisumbwa,lgi,Langi,TRUE,4,-4.5,36,Bantoid,Niger-Congo,TZ
+Q2,2745,Kiyao,yao,Yao (in Malawi),TRUE,0,-14.5,35.5,Bantoid,Niger-Congo,MW MZ
+Q2,2746,Kizanaki,hnd,Hunde,TRUE,4,-1.16666666667,28.8333333333,Bantoid,Niger-Congo,CD
+Q2,2746,Kizanaki,nko,Nkore-Kiga,TRUE,4,-0.916666666667,29.8333333333,Bantoid,Niger-Congo,UG
+Q2,2746,Kizanaki,hya,Haya,TRUE,4,-2,31.5,Bantoid,Niger-Congo,TZ
+Q2,2746,Kizanaki,kin,Kinyarwanda,TRUE,4,-2,30,Bantoid,Niger-Congo,RW
+Q2,2746,Kizanaki,nde,Nande,TRUE,4,-0.0833333333333,29.1666666667,Bantoid,Niger-Congo,CD
+Q2,2746,Kizanaki,gus,Gusii,TRUE,4,-0.75,34.8333333333,Bantoid,Niger-Congo,KE
+Q2,2746,Kizanaki,rnd,Rundi,TRUE,4,-3.5,30,Bantoid,Niger-Congo,BI
+Q2,2746,Kizanaki,nbo,Nyambo,TRUE,4,-1,31.3333333333,Bantoid,Niger-Congo,TZ
+Q2,2746,Kizanaki,lda,Luganda,TRUE,4,0.5,32.1666666667,Bantoid,Niger-Congo,UG
+Q2,2746,Kizanaki,buk,Bukusu,TRUE,4,0.75,34.6666666667,Bantoid,Niger-Congo,KE
+Q2,2746,Kizanaki,rru,Runyoro-Rutooro,TRUE,4,1.5,31.3333333333,Bantoid,Niger-Congo,UG
+Q2,2746,Kizanaki,tal,Talinga,TRUE,4,0.416666666667,29.6666666667,Bantoid,Niger-Congo,UG CD
+Q2,2746,Kizanaki,rny,Runyankore,TRUE,4,-0.5,30.5,Bantoid,Niger-Congo,UG
+Q2,2747,Kizaramo,swa,Swahili,TRUE,4,-6.5,39,Bantoid,Niger-Congo,TZ
+Q2,2747,Kizaramo,heh,Hehe,TRUE,4,-8,36,Bantoid,Niger-Congo,TZ
+Q2,2747,Kizaramo,kmi,Kami,TRUE,4,-6.75,38,Bantoid,Niger-Congo,TZ
+Q2,2747,Kizaramo,com,Comorian,TRUE,4,-12,44,Bantoid,Niger-Congo,KM YT
+Q2,2747,Kizaramo,kga,Kinga,TRUE,4,-9,34,Bantoid,Niger-Congo,TZ
+Q2,2747,Kizaramo,png,Pangwa,TRUE,4,-10,34.75,Bantoid,Niger-Congo,TZ
+Q2,2747,Kizaramo,shm,Shambala,TRUE,4,-4.25,38.25,Bantoid,Niger-Congo,TZ
+Q2,2747,Kizaramo,pre,Pare,TRUE,4,-4,36.5,Bantoid,Niger-Congo,TZ
+Q2,2747,Kizaramo,kgr,Kagulu,TRUE,4,-6.33333333333,37,Bantoid,Niger-Congo,TZ
+Q2,2747,Kizaramo,pog,Pogoro,TRUE,4,-8.75,36.5,Bantoid,Niger-Congo,TZ
+Q2,2748,Kizigua,swa,Swahili,TRUE,4,-6.5,39,Bantoid,Niger-Congo,TZ
+Q2,2748,Kizigua,heh,Hehe,TRUE,4,-8,36,Bantoid,Niger-Congo,TZ
+Q2,2748,Kizigua,kmi,Kami,TRUE,4,-6.75,38,Bantoid,Niger-Congo,TZ
+Q2,2748,Kizigua,com,Comorian,TRUE,4,-12,44,Bantoid,Niger-Congo,KM YT
+Q2,2748,Kizigua,kga,Kinga,TRUE,4,-9,34,Bantoid,Niger-Congo,TZ
+Q2,2748,Kizigua,png,Pangwa,TRUE,4,-10,34.75,Bantoid,Niger-Congo,TZ
+Q2,2748,Kizigua,shm,Shambala,TRUE,4,-4.25,38.25,Bantoid,Niger-Congo,TZ
+Q2,2748,Kizigua,pre,Pare,TRUE,4,-4,36.5,Bantoid,Niger-Congo,TZ
+Q2,2748,Kizigua,kgr,Kagulu,TRUE,4,-6.33333333333,37,Bantoid,Niger-Congo,TZ
+Q2,2748,Kizigua,pog,Pogoro,TRUE,4,-8.75,36.5,Bantoid,Niger-Congo,TZ
+Q2,9995,Other,"",,FALSE,,,,,,
+Q2,9999,Don't know,"",,FALSE,,,,,,
+,1232,,nge,Ngemba,FALSE,,6.2,10,Bantoid,Niger-Congo,CM

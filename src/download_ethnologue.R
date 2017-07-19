@@ -6,6 +6,7 @@
 #'
 #' Documentation of these data are [here](https://www.ethnologue.com/codes/code-table-structure).
 library("httr")
+library("rprojroot")
 
 ETHNOLOGUE_VERSION <- "20160222"
 ETHNOLOGUE_URL <- paste0("https://www.ethnologue.com/codes/",
@@ -24,5 +25,7 @@ download_ethnologue <- function(dst) {
   } else {
     message(sprintf("Directory %s exists; Not downloading Ethnologue files\n", dst))
   }
-
 }
+
+OUTPUT <- find_rstudio_root_file("external", "ethnologue")
+download_ethnologue(OUTPUT)

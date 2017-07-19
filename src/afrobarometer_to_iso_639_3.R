@@ -25,9 +25,10 @@ suppressPackageStartupMessages({
   library("purrr")
   library("magrittr")
   library("UnidecodeR")
+  library("yaml")
 })
 
-ISO_DIR <- find_rstudio_root_file()
+OUTPUT <- find_rstudio_root_file("data", "afrobarometer_to_iso_639_3.csv")
 
 INPUTS <- list(
   afrobarometer_langs = list("data", "afrobarometer_langs.csv"),
@@ -40,7 +41,7 @@ INPUTS <- list(
                             "iso-639-3_Code_Tables_20160525",
                             "iso-639-3-macrolanguages_20160725.tab"),
   afrobarometer_countries = list("data-raw", "afrobarometer_countries.csv"),
-  afrobarometer_to_iso = list("data-raw", "afrobarometer_to_iso.csv"),
+  afrobarometer_to_iso = list("data-raw", "afrobarometer_to_iso.yml"),
   ethnologue_languages_index = list("external",
                                     "ethnologue",
                                     "LanguageIndex.tab")
@@ -257,14 +258,14 @@ iso_lang_patterns <-
 #' In this I match by countries. This is more conservative than taking any match. (With matching by country approx 450 langs, if expanded, then approx 1640 matches)
 #'
 read_afrobarometer_to_iso <- function() {
-  read_csv(INPUTS$afrobarometer_to_iso,
-           col_types = cols_only(
-           question = col_character(),
-           lang_id = col_integer(),
-           iso_639_3 = col_character()
-          )) %>%
-  mutate(iso_639_3 = str_split(iso_639_3, " +")) %>%
-  unnest(iso_639_3)
+  yaml.load_file(INPUTS$afrobarometer_to_iso) %>%
+    map(compact) %>%
+    map_df(function(.x) {
+      out <- crossing(question = .x[["question"]],
+                      iso_639_3 = .x[["iso_639_3"]])
+      out[["lang_id"]] <- .x$lang_id
+      out
+    })
 }
 afrobarometer_to_iso_manual <- read_afrobarometer_to_iso()
 
@@ -315,15 +316,25 @@ afrobarometer_to_iso %<>%
   left_join(select(afrobarometer_langs, question, lang_id, lang_name),
             by = c("question", "lang_id"))
 
-anti_join(afrobarometer_langs, afrobarometer_to_iso,
+# Check that there are no languages that are unaccounted for
+nonmatches <-
+  anti_join(afrobarometer_langs, afrobarometer_to_iso,
           by = c("question", "lang_id"))
+stopifnot(nrow(nonmatches) == 0)
 
-metadata <- list(
-  NULL = str_c("Mapping from Afrobarometer languages and ISO-639-3 ",
-               "language codes. These are for languages in Q2 and Q103 of ",
-               "Afrobarometer round 6"),
-  question = str_c("Question number in Afrobarometer r6"),
-  lang_id = str_c("Language number in that question"),
-  lang_name = str_c("Afrobarometer language name"),
-  iso_639_3 = str_c("ISO-639-3 language code")
-)
+# Write final output
+write_afroarometer_to_iso <- function(x, path) {
+  write_csv(x, path = path, na = "")
+}
+write_afroarometer_to_iso(afrobarometer_to_iso, OUTPUT)
+
+#
+# metadata <- list(
+#   NULL = str_c("Mapping from Afrobarometer languages and ISO-639-3 ",
+#                "language codes. These are for languages in Q2 and Q103 of ",
+#                "Afrobarometer round 6"),
+#   question = str_c("Question number in Afrobarometer r6"),
+#   lang_id = str_c("Language number in that question"),
+#   lang_name = str_c("Afrobarometer language name"),
+#   iso_639_3 = str_c("ISO-639-3 language code")
+# )
