@@ -261,7 +261,7 @@ read_afrobarometer_to_iso <- function() {
   yaml.load_file(INPUTS$afrobarometer_to_iso) %>%
     map(compact) %>%
     map_df(function(.x) {
-      out <- crossing(question = .x[["question"]],
+      out <- tidyr::crossing(question = .x[["question"]],
                       iso_639_3 = .x[["iso_639_3"]])
       out[["lang_id"]] <- .x$lang_id
       out
@@ -314,7 +314,10 @@ afrobarometer_to_iso %<>%
 #' Add
 afrobarometer_to_iso %<>%
   left_join(select(afrobarometer_langs, question, lang_id, lang_name),
-            by = c("question", "lang_id"))
+            by = c("question", "lang_id")) %>%
+  select(question, lang_id, lang_name, iso_639_3, iso_ref_name,
+         iso_scope) %>%
+  arrange(question, lang_id, iso_639_3)
 
 # Check that there are no languages that are unaccounted for
 nonmatches <-
@@ -328,13 +331,13 @@ write_afroarometer_to_iso <- function(x, path) {
 }
 write_afroarometer_to_iso(afrobarometer_to_iso, OUTPUT)
 
-#
-# metadata <- list(
-#   NULL = str_c("Mapping from Afrobarometer languages and ISO-639-3 ",
-#                "language codes. These are for languages in Q2 and Q103 of ",
-#                "Afrobarometer round 6"),
-#   question = str_c("Question number in Afrobarometer r6"),
-#   lang_id = str_c("Language number in that question"),
-#   lang_name = str_c("Afrobarometer language name"),
-#   iso_639_3 = str_c("ISO-639-3 language code")
-# )
+
+metadata <- list(
+  variables = list(
+    question = str_c("Afrobarometer question number"),
+    lang_id = str_c("Afrobarometer language id (variable value)"),
+    lang_name = str_c("Afrobarometer language name (variable label)"),
+    iso_639_3 = str_c("ISO-639-3 language code"),
+    iso_ref_name = "ISO 639-3 language reference name",
+    iso_scope = "I = individual language, M = macrolanguage"    )
+)

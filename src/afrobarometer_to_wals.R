@@ -33,6 +33,25 @@ INPUTS <- list(
 {setNames(map(., function(x) invoke(find_rstudio_root_file, x)),
           names(.))}
 
+metadata <-
+  list(
+    variables = list(
+      question = "Afrobarometer question nubmer",
+      lang_id = "Afrobarometer language value",
+      lang_name = "Afrobarometer language name (label)",
+      wals_code = "WALS language code",
+      wals_name = "WALS language name",
+      auto = "If false, manually matched. If true, the closest WALS language to ISO languages matched to the Afrobarometer language",
+      distance = "The Ethnologue tree distance of the ISO-WALS language used if an automatic match is used.",
+      latitude = "latitude of the WALS language",
+      longitude = "longitude of the WALS language",
+      genus = "WALS language genus",
+      family = "WALS language family",
+      countrycodes = "Countries in which the WALS language appears, as space separated ISO-3166 alpha-2 codes."
+    )
+  )
+
+
 read_afrobarometer_langs <- function() {
   read_csv(INPUTS$afrobarometer_langs, na = "",
            col_types = cols_only(
@@ -74,11 +93,11 @@ read_wals <- function() {
     select(wals_code, iso_code_new = iso_code)
 
   # update iso_codes
-  wals <- left_join(wals, wals_updates, by = "wals_code") %>%
+  left_join(wals, wals_updates, by = "wals_code") %>%
     mutate(iso_code = coalesce(iso_code_new, iso_code)) %>%
     select(-iso_code_new)
-
 }
+wals <- read_wals()
 
 read_iso_langs <- function() {
     read_tsv(INPUTS$iso_langs,

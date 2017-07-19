@@ -1,536 +1,536 @@
-qlang_id,lang_id,question,lang_name,countries,languages,is_language
-Q103_-1,-1,Q103,Missing,CAM CDI GHA LIB MLW SRL ZAM ZIM,Missing,FALSE
-Q2_-1,-1,Q2,Missing,LIB,Missing,FALSE
-Q103_1,1,Q103,English,BOT CAM CVE GHA KEN LES LIB MAU MLW NAM NIG SAF SRL SWZ UGA ZAM ZIM,English,TRUE
-Q2_1,1,Q2,English,BFO BOT CAM KEN LES LIB MAD MAU MLW NAM SAF SRL SUD SWZ UGA ZAM ZIM,English,TRUE
-Q103_2,2,Q103,French,BDI BEN BFO CAM CDI GAB GUI MAU MLI NGR SEN TOG TUN,French,TRUE
-Q2_2,2,Q2,French,ALG BEN BFO CAM CDI GAB GUI MAD MAU MLI NAM SEN TOG TUN,French,TRUE
-Q103_3,3,Q103,Portuguese,MOZ STP,Portuguese,TRUE
-Q2_3,3,Q2,Portuguese,MOZ NAM SAF STP,Portuguese,TRUE
-Q103_4,4,Q103,Swahili,KEN TAN,Swahili,TRUE
-Q2_4,4,Q2,Swahili,BDI KEN TAN UGA,Swahili,TRUE
-Q103_5,5,Q103,Arabic,ALG EGY MOR SUD TUN,Arabic,TRUE
-Q2_5,5,Q2,Arabic,MOR TUN,Arabic,TRUE
-Q2_6,6,Q2,Adja,BEN TOG,Adja,TRUE
-Q103_7,7,Q103,Afrikaans,NAM SAF,Afrikaans,TRUE
-Q2_7,7,Q2,Afrikaans,BOT NAM SAF,Afrikaans,TRUE
-Q2_8,8,Q2,Arabe,MLI NGR,Arabe,TRUE
-Q2_9,9,Q2,Bambara,CDI MLI,Bambara,TRUE
-Q2_10,10,Q2,Bassa,CAM LIB,Bassa,TRUE
-Q2_11,11,Q2,Berber Language,ALG MOR,Berber Language,TRUE
-Q2_12,12,Q2,Bissa,BFO GHA,Bissa,TRUE
-Q2_13,13,Q2,Bobo,BFO MLI,Bobo,TRUE
-Q2_14,14,Q2,Chewa,MOZ ZAM,Chewa,TRUE
-Q103_15,15,Q103,Dioula,BFO CDI,Dioula,TRUE
-Q2_15,15,Q2,Dioula,BFO CDI,Dioula,TRUE
-Q103_16,16,Q103,Ewe,GHA TOG,Ewe,TRUE
-Q2_16,16,Q2,Ewe,GHA TOG,Ewe,TRUE
-Q2_17,17,Q2,Fon,BEN TOG,Fon,TRUE
-Q103_18,18,Q103,Fulfuldé,BFO NGR,Fulfuldé,TRUE
-Q2_18,18,Q2,Fulfuldé,BFO NGR,Fulfuldé,TRUE
-Q2_19,19,Q2,Haoussa,CAM NGR TOG,Haoussa,TRUE
-Q103_20,20,Q103,Hausa,GHA NIG,Hausa,TRUE
-Q2_20,20,Q2,Hausa,GHA NIG,Hausa,TRUE
-Q2_21,21,Q2,Kanuri,NGR NIG,Kanuri,TRUE
-Q2_22,22,Q2,Kissi,LIB SRL,Kissi,TRUE
-Q2_23,23,Q2,Lobi,BFO CDI,Lobi,TRUE
-Q2_24,24,Q2,Mano,GUI LIB,Mano,TRUE
-Q2_25,25,Q2,Mende,LIB SRL,Mende,TRUE
-Q2_26,26,Q2,Ndau,MOZ ZIM,Ndau,TRUE
-Q2_27,27,Q2,Ndebele,SAF ZIM,Ndebele,TRUE
-Q2_28,28,Q2,Nyanja,MOZ ZAM,Nyanja,TRUE
-Q2_29,29,Q2,Peulh,BEN TOG,Peulh,TRUE
-Q2_30,30,Q2,Sénoufo,BFO CDI,Sénoufo,TRUE
-Q2_31,31,Q2,Setswana,BOT NAM,Setswana,TRUE
-Q103_32,32,Q103,Tamasheq,MLI NGR,Tamasheq,TRUE
-Q2_32,32,Q2,Tamasheq,MLI NGR,Tamasheq,TRUE
-Q2_33,33,Q2,Tonga,ZAM ZIM,Tonga,TRUE
-Q2_34,34,Q2,Venda,SAF ZIM,Venda,TRUE
-Q103_35,35,Q103,Yoruba,BEN NIG,Yoruba,TRUE
-Q2_35,35,Q2,Yoruba,BEN NIG,Yoruba,TRUE
-Q103_100,100,Q103,Fon,BEN,Fon,TRUE
-Q103_101,101,Q103,Adja,BEN,Adja,TRUE
-Q103_102,102,Q103,Bariba,BEN,Bariba,TRUE
-Q2_102,102,Q2,Bariba,BEN,Bariba,TRUE
-Q2_103,103,Q2,Dendi,BEN,Dendi,TRUE
-Q103_104,104,Q103,Outamari,BEN,Outamari,TRUE
-Q103_105,105,Q103,Peulh,BEN,Peulh,TRUE
-Q2_105,105,Q2,Otamari,BEN,Otamari,TRUE
-Q103_106,106,Q103,Lopka,BEN,Lopka,TRUE
-Q2_107,107,Q2,Lopka,BEN,Lopka,TRUE
-Q103_140,140,Q103,Setswana,BOT,Setswana,TRUE
-Q2_141,141,Q2,Sesarwa,BOT,Sesarwa,TRUE
-Q2_142,142,Q2,Sekgalagadi,BOT,Sekgalagadi,TRUE
-Q2_143,143,Q2,Sesubia,BOT,Sesubia,TRUE
-Q2_144,144,Q2,Ikalanga/Sekalaka,BOT,Ikalanga;Sekalaka,TRUE
-Q2_145,145,Q2,Seherero,BOT,Seherero,TRUE
-Q2_146,146,Q2,Sembukushu,BOT,Sembukushu,TRUE
-Q2_147,147,Q2,Sebirwa,BOT,Sebirwa,TRUE
-Q2_148,148,Q2,Sengologa,BOT,Sengologa,TRUE
-Q2_149,149,Q2,Seyei,BOT,Seyei,TRUE
-Q103_180,180,Q103,Mooré,BFO,Mooré,TRUE
-Q2_180,180,Q2,Mooré,BFO,Mooré,TRUE
-Q103_183,183,Q103,Gulmacema,BFO,Gulmacema,TRUE
-Q2_183,183,Q2,Gulmacema,BFO,Gulmacema,TRUE
-Q103_184,184,Q103,Gourounsi,BFO,Gourounsi,TRUE
-Q2_184,184,Q2,Gourounsi,BFO,Gourounsi,TRUE
-Q2_186,186,Q2,Birifor,BFO,Birifor,TRUE
-Q2_187,187,Q2,Bwamu,BFO,Bwamu,TRUE
-Q2_188,188,Q2,Dagari,BFO,Dagari,TRUE
-Q2_189,189,Q2,Fulse,BFO,Fulse,TRUE
-Q2_190,190,Q2,Goin,BFO,Goin,TRUE
-Q2_191,191,Q2,Karaboro,BFO,Karaboro,TRUE
-Q2_192,192,Q2,Kassena,BFO,Kassena,TRUE
-Q2_194,194,Q2,Marka,BFO,Marka,TRUE
-Q2_195,195,Q2,Samo,BFO,Samo,TRUE
-Q2_197,197,Q2,Sonrai,BFO,Sonrai,TRUE
-Q103_220,220,Q103,Crioulo,CVE,Crioulo,TRUE
-Q2_220,220,Q2,Crioulo,CVE,Crioulo,TRUE
-Q103_221,221,Q103,Português,CVE,Português,TRUE
-Q2_221,221,Q2,Português,CVE,Português,TRUE
-Q103_260,260,Q103,Akan,GHA,Akan,TRUE
-Q2_260,260,Q2,Akan,GHA,Akan,TRUE
-Q103_262,262,Q103,Ga/Dangbe,GHA,Ga;Dangbe,TRUE
-Q2_262,262,Q2,Ga/Dangbe,GHA,Ga;Dangbe,TRUE
-Q103_263,263,Q103,Dagbani,GHA,Dagbani,TRUE
-Q2_263,263,Q2,Dagbani,GHA,Dagbani,TRUE
-Q103_265,265,Q103,Waala,GHA,Waala,TRUE
-Q2_265,265,Q2,Waala,GHA,Waala,TRUE
-Q2_266,266,Q2,Moshie,GHA,Moshie,TRUE
-Q2_267,267,Q2,Mampruli,GHA,Mampruli,TRUE
-Q2_268,268,Q2,Likpakpaln,GHA,Likpakpaln,TRUE
-Q2_269,269,Q2,Kusal,GHA,Kusal,TRUE
-Q2_270,270,Q2,Konkomba,GHA,Konkomba,TRUE
-Q2_271,271,Q2,Gonja,GHA,Gonja,TRUE
-Q2_272,272,Q2,Frafra,GHA,Frafra,TRUE
-Q103_273,273,Q103,Dagaree,GHA,Dagaree,TRUE
-Q2_273,273,Q2,Dagaari,GHA,Dagaari,TRUE
-Q2_275,275,Q2,Kotokoli,GHA,Kotokoli,TRUE
-Q2_276,276,Q2,Gruma,GHA,Gruma,TRUE
-Q2_277,277,Q2,Buli,GHA,Buli,TRUE
-Q2_278,278,Q2,Basari,GHA,Basari,TRUE
-Q103_300,300,Q103,Kikuyu,KEN,Kikuyu,TRUE
-Q2_300,300,Q2,Kikuyu,KEN,Kikuyu,TRUE
-Q103_301,301,Q103,Luo,KEN,Luo,TRUE
-Q2_301,301,Q2,Luo,KEN,Luo,TRUE
-Q103_302,302,Q103,Luhya,KEN,Luhya,TRUE
-Q2_302,302,Q2,Luhya,KEN,Luhya,TRUE
-Q103_303,303,Q103,Kamba,KEN,Kamba,TRUE
-Q2_303,303,Q2,Kamba,KEN,Kamba,TRUE
-Q103_304,304,Q103,Kalenjin,KEN,Kalenjin,TRUE
-Q2_304,304,Q2,Kalenjin,KEN,Kalenjin,TRUE
-Q103_305,305,Q103,Kisii,KEN,Kisii,TRUE
-Q2_305,305,Q2,Kisii,KEN,Kisii,TRUE
-Q103_306,306,Q103,Meru/Samburu,KEN,Meru;Samburu,TRUE
-Q2_306,306,Q2,Meru/Embu,KEN,Meru;Embu,TRUE
-Q103_307,307,Q103,Maasai / Samburu,KEN,Maasai;Samburu,TRUE
-Q2_307,307,Q2,Maasai/Samburu,KEN,Maasai;Samburu,TRUE
-Q2_308,308,Q2,Mijikenda,KEN,Mijikenda,TRUE
-Q2_309,309,Q2,Taita,KEN,Taita,TRUE
-Q103_310,310,Q103,Somali,KEN,Somali,TRUE
-Q2_310,310,Q2,Somali,KEN,Somali,TRUE
-Q2_311,311,Q2,Pokot,KEN,Pokot,TRUE
-Q2_312,312,Q2,Turkana,KEN,Turkana,TRUE
-Q2_313,313,Q2,Kuria,KEN,Kuria,TRUE
-Q2_314,314,Q2,Garre,KEN,Garre,TRUE
-Q2_315,315,Q2,Borana,KEN,Borana,TRUE
-Q103_340,340,Q103,Sesotho,LES,Sesotho,TRUE
-Q2_340,340,Q2,Sesotho,LES,Sesotho,TRUE
-Q2_341,341,Q2,Sephuthi,LES,Sephuthi,TRUE
-Q2_342,342,Q2,Sethepu,LES,Sethepu,TRUE
-Q103_380,380,Q103,Liberian English,LIB,Liberian English,TRUE
-Q2_381,381,Q2,Belle,LIB,Belle,TRUE
-Q2_382,382,Q2,Dei,LIB,Dei,TRUE
-Q2_383,383,Q2,Gbandi,LIB,Gbandi,TRUE
-Q2_384,384,Q2,Gio,LIB,Gio,TRUE
-Q2_385,385,Q2,Gola,LIB,Gola,TRUE
-Q2_386,386,Q2,Grebo,LIB,Grebo,TRUE
-Q2_388,388,Q2,Kpelle,LIB,Kpelle,TRUE
-Q2_389,389,Q2,Krahn,LIB,Krahn,TRUE
-Q2_390,390,Q2,Kru,LIB,Kru,TRUE
-Q2_391,391,Q2,Lorma,LIB,Lorma,TRUE
-Q2_392,392,Q2,Mandingo,LIB,Mandingo,TRUE
-Q2_395,395,Q2,Vai,LIB,Vai,TRUE
-Q2_396,396,Q2,Liberian English,LIB,Liberian English,TRUE
-Q103_420,420,Q103,Malgache « officiel »,MAD,Malgache « officiel »,TRUE
-Q2_420,420,Q2,Malgache « officiel »,MAD,Malgache « officiel »,TRUE
-Q103_421,421,Q103,Malgache avec spécificité régionale,MAD,Malgache avec spécificité régionale,TRUE
-Q2_421,421,Q2,Malgache avec spécificité régionale,MAD,Malgache avec spécificité régionale,TRUE
-Q103_460,460,Q103,Chitumbuka,MLW,Chitumbuka,TRUE
-Q2_460,460,Q2,Chitumbuka,MLW,Chitumbuka,TRUE
-Q2_461,461,Q2,Chinkhonde,MLW,Chinkhonde,TRUE
-Q2_462,462,Q2,Chilambya,MLW,Chilambya,TRUE
-Q103_463,463,Q103,Chichewa,MLW,Chichewa,TRUE
-Q2_463,463,Q2,Chichewa,MLW,Chichewa,TRUE
-Q2_464,464,Q2,Chiyao,MLW,Chiyao,TRUE
-Q2_465,465,Q2,Chingoni,MLW,Chingoni,TRUE
-Q2_466,466,Q2,Chilomwe,MLW,Chilomwe,TRUE
-Q2_467,467,Q2,Chimang'anja,MLW,Chimang'anja,TRUE
-Q2_468,468,Q2,Chisena,MLW,Chisena,TRUE
-Q2_469,469,Q2,Chisukwa,MLW,Chisukwa,TRUE
-Q2_470,470,Q2,Chisenga,MLW,Chisenga,TRUE
-Q2_471,471,Q2,Chitonga,MLW,Chitonga,TRUE
-Q103_501,501,Q103,Bambara,MLI,Bambara,TRUE
-Q2_502,502,Q2,Bella,MLI,Bella,TRUE
-Q2_504,504,Q2,Bozo,MLI,Bozo,TRUE
-Q2_505,505,Q2,Dafing,MLI,Dafing,TRUE
-Q2_506,506,Q2,Dogon,MLI,Dogon,TRUE
-Q2_509,509,Q2,Kakolo,MLI,Kakolo,TRUE
-Q2_510,510,Q2,Khassonké,MLI,Khassonké,TRUE
-Q2_511,511,Q2,Malinké,MLI,Malinké,TRUE
-Q2_512,512,Q2,Maure,MLI,Maure,TRUE
-Q2_513,513,Q2,Mianka,MLI,Mianka,TRUE
-Q103_514,514,Q103,Peulh/Fulfude,MLI,Peulh;Fulfude,TRUE
-Q2_514,514,Q2,Peulh/Fulfude,MLI,Peulh;Fulfude,TRUE
-Q2_515,515,Q2,Samogo,MLI,Samogo,TRUE
-Q2_516,516,Q2,Senufo,MLI,Senufo,TRUE
-Q103_517,517,Q103,Soninké,MLI,Soninké,TRUE
-Q2_517,517,Q2,Soninké/Sarakolé,MLI,Soninké;Sarakolé,TRUE
-Q103_518,518,Q103,Sonrhai,MLI,Sonrhai,TRUE
-Q2_518,518,Q2,Sonrhai,MLI,Sonrhai,TRUE
-Q103_540,540,Q103,Makua,MOZ,Makua,TRUE
-Q2_540,540,Q2,Makua,MOZ,Makua,TRUE
-Q103_541,541,Q103,Sena,MOZ,Sena,TRUE
-Q2_541,541,Q2,Sena,MOZ,Sena,TRUE
-Q103_542,542,Q103,Ndau,MOZ,Ndau,TRUE
-Q103_543,543,Q103,Changana,MOZ,Changana,TRUE
-Q2_543,543,Q2,Changana,MOZ,Changana,TRUE
-Q2_545,545,Q2,Chope,MOZ,Chope,TRUE
-Q2_546,546,Q2,Bitonga,MOZ,Bitonga,TRUE
-Q2_547,547,Q2,Makonde,MOZ,Makonde,TRUE
-Q2_548,548,Q2,Chuabo,MOZ,Chuabo,TRUE
-Q2_549,549,Q2,Ajaua,MOZ,Ajaua,TRUE
-Q2_550,550,Q2,Lomue,MOZ,Lomue,TRUE
-Q2_552,552,Q2,Nyungwe,MOZ,Nyungwe,TRUE
-Q2_553,553,Q2,Xitswa,MOZ,Xitswa,TRUE
-Q103_581,581,Q103,Oshiwambo (Oshindonga/Oshikwanyama),NAM,Oshiwambo;Oshindonga;Oshikwanyama,TRUE
-Q2_581,581,Q2,German,NAM,German,TRUE
-Q103_582,582,Q103,Otjiherero,NAM,Otjiherero,TRUE
-Q2_582,582,Q2,Nama/Damara,NAM,Nama;Damara,TRUE
-Q103_583,583,Q103,Rukwangali,NAM,Rukwangali,TRUE
-Q2_583,583,Q2,Oshiwambo (Oshindonga/Oshikwanyama),NAM,Oshiwambo;Oshindonga;Oshikwanyama,TRUE
-Q2_584,584,Q2,Otjiherero,NAM,Otjiherero,TRUE
-Q2_585,585,Q2,Rukwangali,NAM,Rukwangali,TRUE
-Q2_586,586,Q2,Rugririku/Rumanyo,NAM,Rugririku;Rumanyo,TRUE
-Q2_587,587,Q2,Thimbukushu,NAM,Thimbukushu,TRUE
-Q2_588,588,Q2,Silozi,NAM,Silozi,TRUE
-Q2_590,590,Q2,Masubia,NAM,Masubia,TRUE
-Q2_591,591,Q2,San,NAM,San,TRUE
-Q103_621,621,Q103,Igbo,NIG,Igbo,TRUE
-Q2_621,621,Q2,Igbo,NIG,Igbo,TRUE
-Q103_623,623,Q103,Pidgin English,NIG,Pidgin English,TRUE
-Q2_623,623,Q2,Pidgin English,NIG,Pidgin English,TRUE
-Q2_624,624,Q2,Efik,NIG,Efik,TRUE
-Q2_625,625,Q2,Ebira,NIG,Ebira,TRUE
-Q2_626,626,Q2,Fulani,NIG,Fulani,TRUE
-Q2_627,627,Q2,Isoko,NIG,Isoko,TRUE
-Q2_628,628,Q2,Ibibio,NIG,Ibibio,TRUE
-Q2_631,631,Q2,Nupe,NIG,Nupe,TRUE
-Q2_632,632,Q2,Ijaw,NIG,Ijaw,TRUE
-Q2_633,633,Q2,Edo,NIG,Edo,TRUE
-Q2_634,634,Q2,Igala,NIG,Igala,TRUE
-Q2_635,635,Q2,Urhobo,NIG,Urhobo,TRUE
-Q2_636,636,Q2,Ogoni,NIG,Ogoni,TRUE
-Q2_637,637,Q2,Anang,NIG,Anang,TRUE
-Q2_638,638,Q2,Ikwere,NIG,Ikwere,TRUE
-Q2_639,639,Q2,Idoma,NIG,Idoma,TRUE
-Q2_640,640,Q2,Esan,NIG,Esan,TRUE
-Q2_641,641,Q2,Nembe,NIG,Nembe,TRUE
-Q2_642,642,Q2,Alago,NIG,Alago,TRUE
-Q2_643,643,Q2,Degema,NIG,Degema,TRUE
-Q2_644,644,Q2,Eggon,NIG,Eggon,TRUE
-Q2_645,645,Q2,Jukun,NIG,Jukun,TRUE
-Q2_646,646,Q2,Kagoma,NIG,Kagoma,TRUE
-Q2_647,647,Q2,Laru,NIG,Laru,TRUE
-Q2_648,648,Q2,Kalabari,NIG,Kalabari,TRUE
-Q2_649,649,Q2,Nwangavul,NIG,Nwangavul,TRUE
-Q2_650,650,Q2,Tangale,NIG,Tangale,TRUE
-Q2_651,651,Q2,Tarok,NIG,Tarok,TRUE
-Q2_652,652,Q2,Waja,NIG,Waja,TRUE
-Q2_653,653,Q2,Yala,NIG,Yala,TRUE
-Q103_660,660,Q103,Wolof,SEN,Wolof,TRUE
-Q2_660,660,Q2,Wolof,SEN,Wolof,TRUE
-Q103_661,661,Q103,Pulaar/Toucouleur,SEN,Pulaar;Toucouleur,TRUE
-Q2_661,661,Q2,Pulaar/Toucouleur,SEN,Pulaar;Toucouleur,TRUE
-Q2_662,662,Q2,Serer,SEN,Serer,TRUE
-Q2_663,663,Q2,Mandinka/Bambara,SEN,Mandinka;Bambara,TRUE
-Q2_664,664,Q2,Soninke,SEN,Soninke,TRUE
-Q103_665,665,Q103,Diola,SEN,Diola,TRUE
-Q2_665,665,Q2,Diola,SEN,Diola,TRUE
-Q2_666,666,Q2,Manjack,SEN,Manjack,TRUE
-Q2_668,668,Q2,Bassari,SEN,Bassari,TRUE
-Q103_702,702,Q103,Xhosa,SAF,Xhosa,TRUE
-Q2_702,702,Q2,Xhosa,SAF,Xhosa,TRUE
-Q103_703,703,Q103,Pedi/Spedi/North Sotho,SAF,Pedi;Spedi;North Sotho,TRUE
-Q2_703,703,Q2,Pedi/North Sotho,SAF,Pedi;North Sotho,TRUE
-Q103_704,704,Q103,Sesotho/Sotho/South Sotho,SAF,Sesotho;Sotho;South Sotho,TRUE
-Q2_704,704,Q2,Sotho/South Sotho,SAF,Sotho;South Sotho,TRUE
-Q103_705,705,Q103,Setswana/Tswana,SAF,Setswana;Tswana,TRUE
-Q2_705,705,Q2,Tswana,SAF,Tswana,TRUE
-Q2_706,706,Q2,Shangaan/Tsonga,SAF,Shangaan;Tsonga,TRUE
-Q2_707,707,Q2,Swazi,SAF,Swazi,TRUE
-Q103_708,708,Q103,Venda,SAF,Venda,TRUE
-Q103_709,709,Q103,Zulu,SAF,Zulu,TRUE
-Q2_709,709,Q2,Zulu,SAF,Zulu,TRUE
-Q2_710,710,Q2,Asian/Indian,SAF,Asian;Indian,TRUE
-Q2_740,740,Q2,Kinyakyusa,TAN,Kinyakyusa,TRUE
-Q2_741,741,Q2,Kichaga,TAN,Kichaga,TRUE
-Q2_742,742,Q2,Kihaya,TAN,Kihaya,TRUE
-Q2_743,743,Q2,Kingoni,TAN,Kingoni,TRUE
-Q2_744,744,Q2,Kikwere,TAN,Kikwere,TRUE
-Q2_745,745,Q2,Kipare,TAN,Kipare,TRUE
-Q2_746,746,Q2,Kihehe,TAN,Kihehe,TRUE
-Q2_747,747,Q2,Kimakonde,TAN,Kimakonde,TRUE
-Q2_748,748,Q2,Kinyamwezi,TAN,Kinyamwezi,TRUE
-Q2_749,749,Q2,Kisukuma,TAN,Kisukuma,TRUE
-Q2_750,750,Q2,Kimasai,TAN,Kimasai,TRUE
-Q2_751,751,Q2,Kimeru,TAN,Kimeru,TRUE
-Q2_752,752,Q2,Kikurya,TAN,Kikurya,TRUE
-Q2_753,753,Q2,Kigogo,TAN,Kigogo,TRUE
-Q2_754,754,Q2,Kiluguru,TAN,Kiluguru,TRUE
-Q2_755,755,Q2,Kifipa,TAN,Kifipa,TRUE
-Q2_756,756,Q2,Kimanyema,TAN,Kimanyema,TRUE
-Q2_757,757,Q2,Kinyiramba,TAN,Kinyiramba,TRUE
-Q2_758,758,Q2,Kinyaturu,TAN,Kinyaturu,TRUE
-Q2_759,759,Q2,Kiarusha,TAN,Kiarusha,TRUE
-Q2_760,760,Q2,Kibena,TAN,Kibena,TRUE
-Q2_761,761,Q2,Kiha,TAN,Kiha,TRUE
-Q2_762,762,Q2,Kiiraq,TAN,Kiiraq,TRUE
-Q2_763,763,Q2,Kijaluo,TAN,Kijaluo,TRUE
-Q2_764,764,Q2,Kijita,TAN,Kijita,TRUE
-Q2_765,765,Q2,Kikaguru,TAN,Kikaguru,TRUE
-Q2_766,766,Q2,Kimakuwa,TAN,Kimakuwa,TRUE
-Q2_767,767,Q2,Kimatengo,TAN,Kimatengo,TRUE
-Q2_768,768,Q2,Kimbulu,TAN,Kimbulu,TRUE
-Q2_769,769,Q2,Kimwera,TAN,Kimwera,TRUE
-Q2_770,770,Q2,Kindali,TAN,Kindali,TRUE
-Q2_771,771,Q2,Kindamba,TAN,Kindamba,TRUE
-Q2_772,772,Q2,Kindendeule,TAN,Kindendeule,TRUE
-Q2_773,773,Q2,Kindengereko,TAN,Kindengereko,TRUE
-Q2_774,774,Q2,Kingindo,TAN,Kingindo,TRUE
-Q2_775,775,Q2,Kinguu,TAN,Kinguu,TRUE
-Q2_776,776,Q2,Kinyambo,TAN,Kinyambo,TRUE
-Q2_777,777,Q2,Kinyiha,TAN,Kinyiha,TRUE
-Q2_778,778,Q2,Kipogoro,TAN,Kipogoro,TRUE
-Q2_779,779,Q2,Kirangi,TAN,Kirangi,TRUE
-Q103_780,780,Q103,Luganda,UGA,Luganda,TRUE
-Q2_780,780,Q2,Luganda,UGA,Luganda,TRUE
-Q103_781,781,Q103,Runyankore-Rukiga,UGA,Runyankore-Rukiga,TRUE
-Q2_781,781,Q2,Runyankole,UGA,Runyankole,TRUE
-Q103_782,782,Q103,Runyoro-Rutooro,UGA,Runyoro-Rutooro,TRUE
-Q2_782,782,Q2,Runyoro,UGA,Runyoro,TRUE
-Q103_783,783,Q103,Lusoga,UGA,Lusoga,TRUE
-Q2_783,783,Q2,Lusoga,UGA,Lusoga,TRUE
-Q103_784,784,Q103,Lumasaaba,UGA,Lumasaaba,TRUE
-Q2_784,784,Q2,Lumasaaba,UGA,Lumasaaba,TRUE
-Q2_785,785,Q2,Lukhonjo,UGA,Lukhonjo,TRUE
-Q2_786,786,Q2,Lunyole,UGA,Lunyole,TRUE
-Q103_787,787,Q103,Ateso,UGA,Ateso,TRUE
-Q2_787,787,Q2,Ateso,UGA,Ateso,TRUE
-Q103_788,788,Q103,Acholi-Langi,UGA,Acholi-Langi,TRUE
-Q2_788,788,Q2,Acholi,UGA,Acholi,TRUE
-Q103_789,789,Q103,Alur,UGA,Alur,TRUE
-Q2_789,789,Q2,Alur,UGA,Alur,TRUE
-Q103_790,790,Q103,Lugbara,UGA,Lugbara,TRUE
-Q2_790,790,Q2,Lugbara,UGA,Lugbara,TRUE
-Q2_791,791,Q2,Madi,UGA,Madi,TRUE
-Q103_792,792,Q103,Japadhola,UGA,Japadhola,TRUE
-Q2_792,792,Q2,Japadhola,UGA,Japadhola,TRUE
-Q2_793,793,Q2,Lusamia,UGA,Lusamia,TRUE
-Q2_794,794,Q2,Lugwere,UGA,Lugwere,TRUE
-Q2_795,795,Q2,Rukiga,UGA,Rukiga,TRUE
-Q2_796,796,Q2,Rutooro,UGA,Rutooro,TRUE
-Q2_797,797,Q2,Langi,UGA,Langi,TRUE
-Q103_798,798,Q103,Kupsabinyi,UGA,Kupsabinyi,TRUE
-Q2_798,798,Q2,Kupsabinyi,UGA,Kupsabinyi,TRUE
-Q103_799,799,Q103,Ngakarimajong,UGA,Ngakarimajong,TRUE
-Q2_799,799,Q2,Ngakarimajong,UGA,Ngakarimajong,TRUE
-Q2_800,800,Q2,Rufumbira,UGA,Rufumbira,TRUE
-Q103_820,820,Q103,Chewa/Nyanja,ZAM,Chewa;Nyanja,TRUE
-Q2_820,820,Q2,Bemba,ZAM,Bemba,TRUE
-Q103_821,821,Q103,Bembia,ZAM,Bembia,TRUE
-Q103_822,822,Q103,Tonga,ZAM,Tonga,TRUE
-Q103_823,823,Q103,Kaonde,ZAM,Kaonde,TRUE
-Q2_823,823,Q2,Lozi,ZAM,Lozi,TRUE
-Q103_824,824,Q103,Lozi,ZAM,Lozi,TRUE
-Q2_825,825,Q2,Nsenga,ZAM,Nsenga,TRUE
-Q2_826,826,Q2,Tumbuka,ZAM,Tumbuka,TRUE
-Q2_827,827,Q2,Kaonde,ZAM,Kaonde,TRUE
-Q2_828,828,Q2,Luvale,ZAM,Luvale,TRUE
-Q2_829,829,Q2,Namwanga,ZAM,Namwanga,TRUE
-Q2_830,830,Q2,Lunda,ZAM,Lunda,TRUE
-Q2_831,831,Q2,Bisa,ZAM,Bisa,TRUE
-Q2_832,832,Q2,Nkoya,ZAM,Nkoya,TRUE
-Q2_833,833,Q2,Mambwe,ZAM,Mambwe,TRUE
-Q2_834,834,Q2,Lenje,ZAM,Lenje,TRUE
-Q2_835,835,Q2,Ngoni,ZAM,Ngoni,TRUE
-Q2_836,836,Q2,Soli,ZAM,Soli,TRUE
-Q2_837,837,Q2,Ila,ZAM,Ila,TRUE
-Q2_838,838,Q2,Ushi,ZAM,Ushi,TRUE
-Q2_839,839,Q2,Chokwe,ZAM,Chokwe,TRUE
-Q2_840,840,Q2,Mbunda,ZAM,Mbunda,TRUE
-Q2_841,841,Q2,Kunda,ZAM,Kunda,TRUE
-Q2_842,842,Q2,Lala,ZAM,Lala,TRUE
-Q2_843,843,Q2,Lamba,ZAM,Lamba,TRUE
-Q2_844,844,Q2,Lungu,ZAM,Lungu,TRUE
-Q2_845,845,Q2,Nyika,ZAM,Nyika,TRUE
-Q2_846,846,Q2,Senga,ZAM,Senga,TRUE
-Q2_847,847,Q2,Tokaleya,ZAM,Tokaleya,TRUE
-Q2_851,851,Q2,Tabwa,ZAM,Tabwa,TRUE
-Q103_860,860,Q103,Ndebele,ZIM,Ndebele,TRUE
-Q103_861,861,Q103,Shona,ZIM,Shona,TRUE
-Q2_861,861,Q2,Shona,ZIM,Shona,TRUE
-Q2_862,862,Q2,Zezuru,ZIM,Zezuru,TRUE
-Q2_863,863,Q2,Korekore,ZIM,Korekore,TRUE
-Q2_864,864,Q2,Karanga,ZIM,Karanga,TRUE
-Q2_865,865,Q2,Manyika,ZIM,Manyika,TRUE
-Q2_868,868,Q2,Kalanga,ZIM,Kalanga,TRUE
-Q2_870,870,Q2,Buja,ZIM,Buja,TRUE
-Q2_871,871,Q2,Shangani,ZIM,Shangani,TRUE
-Q2_872,872,Q2,Suthu,ZIM,Suthu,TRUE
-Q103_900,900,Q103,Creole,MAU,Creole,TRUE
-Q2_900,900,Q2,Creole,MAU,Creole,TRUE
-Q103_930,930,Q103,Krio,SRL,Krio,TRUE
-Q2_930,930,Q2,Krio,SRL,Krio,TRUE
-Q103_931,931,Q103,Mende,SRL,Mende,TRUE
-Q103_932,932,Q103,Temne,SRL,Temne,TRUE
-Q2_932,932,Q2,Temne,SRL,Temne,TRUE
-Q2_933,933,Q2,Limba,SRL,Limba,TRUE
-Q2_934,934,Q2,Loko,SRL,Loko,TRUE
-Q2_935,935,Q2,Sherbo,SRL,Sherbo,TRUE
-Q2_936,936,Q2,Fulla,SRL,Fulla,TRUE
-Q2_937,937,Q2,Kono,SRL,Kono,TRUE
-Q2_938,938,Q2,Kuranko,SRL,Kuranko,TRUE
-Q2_939,939,Q2,Madingo,SRL,Madingo,TRUE
-Q2_941,941,Q2,Susu,SRL,Susu,TRUE
-Q2_943,943,Q2,Yalunka,SRL,Yalunka,TRUE
-Q103_1100,1100,Q103,Haoussa,NGR,Haoussa,TRUE
-Q103_1101,1101,Q103,Zarma/Songhaï,NGR,Zarma;Songhaï,TRUE
-Q2_1101,1101,Q2,Zarma/Songhaï,NGR,Zarma;Songhaï,TRUE
-Q2_1105,1105,Q2,Goumantchéma,NGR,Goumantchéma,TRUE
-Q2_1141,1141,Q2,Mina (Guen),TOG,Mina;Guen,TRUE
-Q103_1142,1142,Q103,Kabye,TOG,Kabye,TRUE
-Q2_1142,1142,Q2,Kabye,TOG,Kabye,TRUE
-Q103_1143,1143,Q103,Tem (Kotokoli),TOG,Tem;Kotokoli,TRUE
-Q2_1143,1143,Q2,Tem (Kotokoli),TOG,Tem;Kotokoli,TRUE
-Q103_1144,1144,Q103,Ben (Moba),TOG,Ben;Moba,TRUE
-Q2_1144,1144,Q2,Ben (Moba),TOG,Ben;Moba,TRUE
-Q103_1145,1145,Q103,Nawdem (Losso),TOG,Nawdem;Losso,TRUE
-Q2_1145,1145,Q2,Nawdem (Losso),TOG,Nawdem;Losso,TRUE
-Q2_1146,1146,Q2,Lama (Lamba),TOG,Lama;Lamba,TRUE
-Q2_1147,1147,Q2,Ife (Ana),TOG,Ife;Ana,TRUE
-Q2_1148,1148,Q2,Ikposso (Akposso),TOG,Ikposso;Akposso,TRUE
-Q2_1149,1149,Q2,N'tcha (Bassar),TOG,N'tcha;Bassar,TRUE
-Q2_1151,1151,Q2,Akebou,TOG,Akebou,TRUE
-Q2_1152,1152,Q2,Gourma,TOG,Gourma,TRUE
-Q2_1153,1153,Q2,Konkomba,TOG,Konkomba,TRUE
-Q2_1154,1154,Q2,Ngam-gam,TOG,Ngam-gam,TRUE
-Q2_1155,1155,Q2,Tchamba,TOG,Tchamba,TRUE
-Q2_1157,1157,Q2,Ouatchi,TOG,Ouatchi,TRUE
-Q2_1160,1160,Q2,Tchpkossi (Anoufom),TOG,Tchpkossi;Anoufom,TRUE
-Q103_1180,1180,Q103,Kirundi,BDI,Kirundi,TRUE
-Q2_1180,1180,Q2,Kirundi,BDI,Kirundi,TRUE
-Q103_1220,1220,Q103,Foufouldé,CAM,Foufouldé,TRUE
-Q2_1220,1220,Q2,Foufouldé,CAM,Foufouldé,TRUE
-Q103_1221,1221,Q103,Pidgin,CAM,Pidgin,TRUE
-Q2_1221,1221,Q2,Pidgin,CAM,Pidgin,TRUE
-Q103_1222,1222,Q103,Ewondo,CAM,Ewondo,TRUE
-Q2_1222,1222,Q2,Ewondo,CAM,Ewondo,TRUE
-Q2_1223,1223,Q2,Bafang,CAM,Bafang,TRUE
-Q2_1224,1224,Q2,Douala,CAM,Douala,TRUE
-Q2_1225,1225,Q2,Bafia,CAM,Bafia,TRUE
-Q2_1226,1226,Q2,Bafut,CAM,Bafut,TRUE
-Q2_1227,1227,Q2,Bangangté,CAM,Bangangté,TRUE
-Q2_1228,1228,Q2,Bakundu,CAM,Bakundu,TRUE
-Q2_1229,1229,Q2,Bamileke,CAM,Bamileke,TRUE
-Q2_1230,1230,Q2,Bamoun,CAM,Bamoun,TRUE
-Q2_1231,1231,Q2,Bandjoun,CAM,Bandjoun,TRUE
-Q2_1232,1232,Q2,Bangwa,CAM,Bangwa,TRUE
-Q2_1233,1233,Q2,Banso,CAM,Banso,TRUE
-Q2_1235,1235,Q2,Batanga,CAM,Batanga,TRUE
-Q2_1236,1236,Q2,Bayangi,CAM,Bayangi,TRUE
-Q2_1237,1237,Q2,Bulu,CAM,Bulu,TRUE
-Q2_1238,1238,Q2,Dschang,CAM,Dschang,TRUE
-Q2_1239,1239,Q2,Eton,CAM,Eton,TRUE
-Q2_1240,1240,Q2,Fali,CAM,Fali,TRUE
-Q2_1241,1241,Q2,Fong,CAM,Fong,TRUE
-Q2_1242,1242,Q2,Gbaya,CAM,Gbaya,TRUE
-Q2_1243,1243,Q2,Guider,CAM,Guider,TRUE
-Q2_1244,1244,Q2,Guiziga,CAM,Guiziga,TRUE
-Q2_1246,1246,Q2,Kapsiki,CAM,Kapsiki,TRUE
-Q2_1247,1247,Q2,Mafa,CAM,Mafa,TRUE
-Q2_1248,1248,Q2,Maka,CAM,Maka,TRUE
-Q2_1249,1249,Q2,Mankon,CAM,Mankon,TRUE
-Q2_1250,1250,Q2,Massa,CAM,Massa,TRUE
-Q2_1251,1251,Q2,Mbouda,CAM,Mbouda,TRUE
-Q2_1252,1252,Q2,Mboum,CAM,Mboum,TRUE
-Q2_1254,1254,Q2,Moudan,CAM,Moudan,TRUE
-Q2_1255,1255,Q2,Ngueba,CAM,Ngueba,TRUE
-Q2_1257,1257,Q2,Lamnso,CAM,Lamnso,TRUE
-Q2_1258,1258,Q2,Tikari,CAM,Tikari,TRUE
-Q2_1259,1259,Q2,Toupouri,CAM,Toupouri,TRUE
-Q2_1260,1260,Q2,Abbey,CDI,Abbey,TRUE
-Q2_1261,1261,Q2,Abron,CDI,Abron,TRUE
-Q2_1262,1262,Q2,Adjoukrou,CDI,Adjoukrou,TRUE
-Q2_1263,1263,Q2,Agny,CDI,Agny,TRUE
-Q2_1264,1264,Q2,Attié,CDI,Attié,TRUE
-Q2_1265,1265,Q2,Avikam,CDI,Avikam,TRUE
-Q2_1267,1267,Q2,Baoulé,CDI,Baoulé,TRUE
-Q2_1268,1268,Q2,Bété,CDI,Bété,TRUE
-Q2_1269,1269,Q2,Dida,CDI,Dida,TRUE
-Q2_1270,1270,Q2,Godié,CDI,Godié,TRUE
-Q2_1271,1271,Q2,Gouro,CDI,Gouro,TRUE
-Q2_1272,1272,Q2,Guéré,CDI,Guéré,TRUE
-Q2_1273,1273,Q2,Koulango,CDI,Koulango,TRUE
-Q2_1274,1274,Q2,Kroumen,CDI,Kroumen,TRUE
-Q2_1278,1278,Q2,Yacouba,CDI,Yacouba,TRUE
-Q2_1279,1279,Q2,Djimini,CDI,Djimini,TRUE
-Q2_1280,1280,Q2,Gnanboua,CDI,Gnanboua,TRUE
-Q2_1281,1281,Q2,Koyaka,CDI,Koyaka,TRUE
-Q2_1282,1282,Q2,Wobe,CDI,Wobe,TRUE
-Q103_1300,1300,Q103,Soussou,GUI,Soussou,TRUE
-Q2_1300,1300,Q2,Soussou,GUI,Soussou,TRUE
-Q2_1301,1301,Q2,Poular,GUI,Poular,TRUE
-Q103_1302,1302,Q103,Poular,GUI,Poular,TRUE
-Q2_1302,1302,Q2,Maninka,GUI,Maninka,TRUE
-Q2_1303,1303,Q2,Kpèlè,GUI,Kpèlè,TRUE
-Q2_1304,1304,Q2,Loma,GUI,Loma,TRUE
-Q103_1305,1305,Q103,Maninka,GUI,Maninka,TRUE
-Q2_1305,1305,Q2,Kissié,GUI,Kissié,TRUE
-Q103_1307,1307,Q103,Kpèlè,GUI,Kpèlè,TRUE
-Q103_1312,1312,Q103,Kissié,GUI,Kissié,TRUE
-Q2_1420,1420,Q2,Algerian Arabic,ALG,Algerian Arabic,TRUE
-Q2_1460,1460,Q2,Egyptian Arabic,EGY,Egyptian Arabic,TRUE
-Q2_1501,1501,Q2,Alhassania,MOR,Alhassania,TRUE
-Q2_1540,1540,Q2,Sudanese Arabic,SUD,Sudanese Arabic,TRUE
-Q2_1541,1541,Q2,Nubian Language,SUD,Nubian Language,TRUE
-Q103_1620,1620,Q103,siSwati,SWZ,siSwati,TRUE
-Q2_1620,1620,Q2,siSwati,SWZ,siSwati,TRUE
-Q2_1621,1621,Q2,Shangaan,SWZ,Shangaan,TRUE
-Q103_1660,1660,Q103,Creolo,STP,Creolo,TRUE
-Q2_1660,1660,Q2,Creolo,STP,Creolo,TRUE
-Q2_1661,1661,Q2,Forro,STP,Forro,TRUE
-Q2_1662,1662,Q2,Angolar,STP,Angolar,TRUE
-Q2_1700,1700,Q2,Fang,GAB,Fang,TRUE
-Q2_1701,1701,Q2,Punu/Mériè,GAB,Punu;Mériè,TRUE
-Q2_1702,1702,Q2,Kota,GAB,Kota,TRUE
-Q2_1703,1703,Q2,Mbédè,GAB,Mbédè,TRUE
-Q2_1704,1704,Q2,Nzébi/Métié,GAB,Nzébi;Métié,TRUE
-Q2_1705,1705,Q2,Myénè,GAB,Myénè,TRUE
-Q2_1706,1706,Q2,Tsogho,GAB,Tsogho,TRUE
-Q2_1707,1707,Q2,Kélè,GAB,Kélè,TRUE
-Q2_2220,2220,Q2,Yamba,CAM,Yamba,TRUE
-Q2_2221,2221,Q2,Yabassi,CAM,Yabassi,TRUE
-Q2_2222,2222,Q2,Bene,CAM,Bene,TRUE
-Q2_2740,2740,Q2,Kisafwa,TAN,Kisafwa,TRUE
-Q2_2741,2741,Q2,Kisambaa,TAN,Kisambaa,TRUE
-Q2_2742,2742,Q2,Kishirazi,TAN,Kishirazi,TRUE
-Q2_2743,2743,Q2,Kisubi,TAN,Kisubi,TRUE
-Q2_2744,2744,Q2,Kisumbwa,TAN,Kisumbwa,TRUE
-Q2_2745,2745,Q2,Kiyao,TAN,Kiyao,TRUE
-Q2_2746,2746,Q2,Kizanaki,TAN,Kizanaki,TRUE
-Q2_2747,2747,Q2,Kizaramo,TAN,Kizaramo,TRUE
-Q2_2748,2748,Q2,Kizigua,TAN,Kizigua,TRUE
-Q103_9995,9995,Q103,Other,CAM GHA GUI MLW MOR MOZ SAF SEN SRL STP SWZ UGA ZAM,Other,FALSE
-Q2_9995,9995,Q2,Other,BEN BFO BOT CAM CDI GAB GHA GUI KEN MAU MLI MLW MOZ NAM NGR NIG SAF SEN SUD SWZ TAN TOG UGA ZAM ZIM,Other,FALSE
-Q2_9999,9999,Q2,Don't know,CAM LIB MLW MOZ STP SUD TAN ZAM,Don't know,FALSE
+lang_id,question,lang_name,countries,languages,is_language
+-1,Q103,Missing,CAM CDI GHA LIB MLW SRL ZAM ZIM,Missing,FALSE
+-1,Q2,Missing,LIB,Missing,FALSE
+1,Q103,English,BOT CAM CVE GHA KEN LES LIB MAU MLW NAM NIG SAF SRL SWZ UGA ZAM ZIM,English,TRUE
+1,Q2,English,BFO BOT CAM KEN LES LIB MAD MAU MLW NAM SAF SRL SUD SWZ UGA ZAM ZIM,English,TRUE
+2,Q103,French,BDI BEN BFO CAM CDI GAB GUI MAU MLI NGR SEN TOG TUN,French,TRUE
+2,Q2,French,ALG BEN BFO CAM CDI GAB GUI MAD MAU MLI NAM SEN TOG TUN,French,TRUE
+3,Q103,Portuguese,MOZ STP,Portuguese,TRUE
+3,Q2,Portuguese,MOZ NAM SAF STP,Portuguese,TRUE
+4,Q103,Swahili,KEN TAN,Swahili,TRUE
+4,Q2,Swahili,BDI KEN TAN UGA,Swahili,TRUE
+5,Q103,Arabic,ALG EGY MOR SUD TUN,Arabic,TRUE
+5,Q2,Arabic,MOR TUN,Arabic,TRUE
+6,Q2,Adja,BEN TOG,Adja,TRUE
+7,Q103,Afrikaans,NAM SAF,Afrikaans,TRUE
+7,Q2,Afrikaans,BOT NAM SAF,Afrikaans,TRUE
+8,Q2,Arabe,MLI NGR,Arabe,TRUE
+9,Q2,Bambara,CDI MLI,Bambara,TRUE
+10,Q2,Bassa,CAM LIB,Bassa,TRUE
+11,Q2,Berber Language,ALG MOR,Berber Language,TRUE
+12,Q2,Bissa,BFO GHA,Bissa,TRUE
+13,Q2,Bobo,BFO MLI,Bobo,TRUE
+14,Q2,Chewa,MOZ ZAM,Chewa,TRUE
+15,Q103,Dioula,BFO CDI,Dioula,TRUE
+15,Q2,Dioula,BFO CDI,Dioula,TRUE
+16,Q103,Ewe,GHA TOG,Ewe,TRUE
+16,Q2,Ewe,GHA TOG,Ewe,TRUE
+17,Q2,Fon,BEN TOG,Fon,TRUE
+18,Q103,Fulfuldé,BFO NGR,Fulfuldé,TRUE
+18,Q2,Fulfuldé,BFO NGR,Fulfuldé,TRUE
+19,Q2,Haoussa,CAM NGR TOG,Haoussa,TRUE
+20,Q103,Hausa,GHA NIG,Hausa,TRUE
+20,Q2,Hausa,GHA NIG,Hausa,TRUE
+21,Q2,Kanuri,NGR NIG,Kanuri,TRUE
+22,Q2,Kissi,LIB SRL,Kissi,TRUE
+23,Q2,Lobi,BFO CDI,Lobi,TRUE
+24,Q2,Mano,GUI LIB,Mano,TRUE
+25,Q2,Mende,LIB SRL,Mende,TRUE
+26,Q2,Ndau,MOZ ZIM,Ndau,TRUE
+27,Q2,Ndebele,SAF ZIM,Ndebele,TRUE
+28,Q2,Nyanja,MOZ ZAM,Nyanja,TRUE
+29,Q2,Peulh,BEN TOG,Peulh,TRUE
+30,Q2,Sénoufo,BFO CDI,Sénoufo,TRUE
+31,Q2,Setswana,BOT NAM,Setswana,TRUE
+32,Q103,Tamasheq,MLI NGR,Tamasheq,TRUE
+32,Q2,Tamasheq,MLI NGR,Tamasheq,TRUE
+33,Q2,Tonga,ZAM ZIM,Tonga,TRUE
+34,Q2,Venda,SAF ZIM,Venda,TRUE
+35,Q103,Yoruba,BEN NIG,Yoruba,TRUE
+35,Q2,Yoruba,BEN NIG,Yoruba,TRUE
+100,Q103,Fon,BEN,Fon,TRUE
+101,Q103,Adja,BEN,Adja,TRUE
+102,Q103,Bariba,BEN,Bariba,TRUE
+102,Q2,Bariba,BEN,Bariba,TRUE
+103,Q2,Dendi,BEN,Dendi,TRUE
+104,Q103,Outamari,BEN,Outamari,TRUE
+105,Q103,Peulh,BEN,Peulh,TRUE
+105,Q2,Otamari,BEN,Otamari,TRUE
+106,Q103,Lopka,BEN,Lopka,TRUE
+107,Q2,Lopka,BEN,Lopka,TRUE
+140,Q103,Setswana,BOT,Setswana,TRUE
+141,Q2,Sesarwa,BOT,Sesarwa,TRUE
+142,Q2,Sekgalagadi,BOT,Sekgalagadi,TRUE
+143,Q2,Sesubia,BOT,Sesubia,TRUE
+144,Q2,Ikalanga/Sekalaka,BOT,Ikalanga;Sekalaka,TRUE
+145,Q2,Seherero,BOT,Seherero,TRUE
+146,Q2,Sembukushu,BOT,Sembukushu,TRUE
+147,Q2,Sebirwa,BOT,Sebirwa,TRUE
+148,Q2,Sengologa,BOT,Sengologa,TRUE
+149,Q2,Seyei,BOT,Seyei,TRUE
+180,Q103,Mooré,BFO,Mooré,TRUE
+180,Q2,Mooré,BFO,Mooré,TRUE
+183,Q103,Gulmacema,BFO,Gulmacema,TRUE
+183,Q2,Gulmacema,BFO,Gulmacema,TRUE
+184,Q103,Gourounsi,BFO,Gourounsi,TRUE
+184,Q2,Gourounsi,BFO,Gourounsi,TRUE
+186,Q2,Birifor,BFO,Birifor,TRUE
+187,Q2,Bwamu,BFO,Bwamu,TRUE
+188,Q2,Dagari,BFO,Dagari,TRUE
+189,Q2,Fulse,BFO,Fulse,TRUE
+190,Q2,Goin,BFO,Goin,TRUE
+191,Q2,Karaboro,BFO,Karaboro,TRUE
+192,Q2,Kassena,BFO,Kassena,TRUE
+194,Q2,Marka,BFO,Marka,TRUE
+195,Q2,Samo,BFO,Samo,TRUE
+197,Q2,Sonrai,BFO,Sonrai,TRUE
+220,Q103,Crioulo,CVE,Crioulo,TRUE
+220,Q2,Crioulo,CVE,Crioulo,TRUE
+221,Q103,Português,CVE,Português,TRUE
+221,Q2,Português,CVE,Português,TRUE
+260,Q103,Akan,GHA,Akan,TRUE
+260,Q2,Akan,GHA,Akan,TRUE
+262,Q103,Ga/Dangbe,GHA,Ga;Dangbe,TRUE
+262,Q2,Ga/Dangbe,GHA,Ga;Dangbe,TRUE
+263,Q103,Dagbani,GHA,Dagbani,TRUE
+263,Q2,Dagbani,GHA,Dagbani,TRUE
+265,Q103,Waala,GHA,Waala,TRUE
+265,Q2,Waala,GHA,Waala,TRUE
+266,Q2,Moshie,GHA,Moshie,TRUE
+267,Q2,Mampruli,GHA,Mampruli,TRUE
+268,Q2,Likpakpaln,GHA,Likpakpaln,TRUE
+269,Q2,Kusal,GHA,Kusal,TRUE
+270,Q2,Konkomba,GHA,Konkomba,TRUE
+271,Q2,Gonja,GHA,Gonja,TRUE
+272,Q2,Frafra,GHA,Frafra,TRUE
+273,Q103,Dagaree,GHA,Dagaree,TRUE
+273,Q2,Dagaari,GHA,Dagaari,TRUE
+275,Q2,Kotokoli,GHA,Kotokoli,TRUE
+276,Q2,Gruma,GHA,Gruma,TRUE
+277,Q2,Buli,GHA,Buli,TRUE
+278,Q2,Basari,GHA,Basari,TRUE
+300,Q103,Kikuyu,KEN,Kikuyu,TRUE
+300,Q2,Kikuyu,KEN,Kikuyu,TRUE
+301,Q103,Luo,KEN,Luo,TRUE
+301,Q2,Luo,KEN,Luo,TRUE
+302,Q103,Luhya,KEN,Luhya,TRUE
+302,Q2,Luhya,KEN,Luhya,TRUE
+303,Q103,Kamba,KEN,Kamba,TRUE
+303,Q2,Kamba,KEN,Kamba,TRUE
+304,Q103,Kalenjin,KEN,Kalenjin,TRUE
+304,Q2,Kalenjin,KEN,Kalenjin,TRUE
+305,Q103,Kisii,KEN,Kisii,TRUE
+305,Q2,Kisii,KEN,Kisii,TRUE
+306,Q103,Meru/Samburu,KEN,Meru;Samburu,TRUE
+306,Q2,Meru/Embu,KEN,Meru;Embu,TRUE
+307,Q103,Maasai / Samburu,KEN,Maasai;Samburu,TRUE
+307,Q2,Maasai/Samburu,KEN,Maasai;Samburu,TRUE
+308,Q2,Mijikenda,KEN,Mijikenda,TRUE
+309,Q2,Taita,KEN,Taita,TRUE
+310,Q103,Somali,KEN,Somali,TRUE
+310,Q2,Somali,KEN,Somali,TRUE
+311,Q2,Pokot,KEN,Pokot,TRUE
+312,Q2,Turkana,KEN,Turkana,TRUE
+313,Q2,Kuria,KEN,Kuria,TRUE
+314,Q2,Garre,KEN,Garre,TRUE
+315,Q2,Borana,KEN,Borana,TRUE
+340,Q103,Sesotho,LES,Sesotho,TRUE
+340,Q2,Sesotho,LES,Sesotho,TRUE
+341,Q2,Sephuthi,LES,Sephuthi,TRUE
+342,Q2,Sethepu,LES,Sethepu,TRUE
+380,Q103,Liberian English,LIB,Liberian English,TRUE
+381,Q2,Belle,LIB,Belle,TRUE
+382,Q2,Dei,LIB,Dei,TRUE
+383,Q2,Gbandi,LIB,Gbandi,TRUE
+384,Q2,Gio,LIB,Gio,TRUE
+385,Q2,Gola,LIB,Gola,TRUE
+386,Q2,Grebo,LIB,Grebo,TRUE
+388,Q2,Kpelle,LIB,Kpelle,TRUE
+389,Q2,Krahn,LIB,Krahn,TRUE
+390,Q2,Kru,LIB,Kru,TRUE
+391,Q2,Lorma,LIB,Lorma,TRUE
+392,Q2,Mandingo,LIB,Mandingo,TRUE
+395,Q2,Vai,LIB,Vai,TRUE
+396,Q2,Liberian English,LIB,Liberian English,TRUE
+420,Q103,Malgache « officiel »,MAD,Malgache « officiel »,TRUE
+420,Q2,Malgache « officiel »,MAD,Malgache « officiel »,TRUE
+421,Q103,Malgache avec spécificité régionale,MAD,Malgache avec spécificité régionale,TRUE
+421,Q2,Malgache avec spécificité régionale,MAD,Malgache avec spécificité régionale,TRUE
+460,Q103,Chitumbuka,MLW,Chitumbuka,TRUE
+460,Q2,Chitumbuka,MLW,Chitumbuka,TRUE
+461,Q2,Chinkhonde,MLW,Chinkhonde,TRUE
+462,Q2,Chilambya,MLW,Chilambya,TRUE
+463,Q103,Chichewa,MLW,Chichewa,TRUE
+463,Q2,Chichewa,MLW,Chichewa,TRUE
+464,Q2,Chiyao,MLW,Chiyao,TRUE
+465,Q2,Chingoni,MLW,Chingoni,TRUE
+466,Q2,Chilomwe,MLW,Chilomwe,TRUE
+467,Q2,Chimang'anja,MLW,Chimang'anja,TRUE
+468,Q2,Chisena,MLW,Chisena,TRUE
+469,Q2,Chisukwa,MLW,Chisukwa,TRUE
+470,Q2,Chisenga,MLW,Chisenga,TRUE
+471,Q2,Chitonga,MLW,Chitonga,TRUE
+501,Q103,Bambara,MLI,Bambara,TRUE
+502,Q2,Bella,MLI,Bella,TRUE
+504,Q2,Bozo,MLI,Bozo,TRUE
+505,Q2,Dafing,MLI,Dafing,TRUE
+506,Q2,Dogon,MLI,Dogon,TRUE
+509,Q2,Kakolo,MLI,Kakolo,TRUE
+510,Q2,Khassonké,MLI,Khassonké,TRUE
+511,Q2,Malinké,MLI,Malinké,TRUE
+512,Q2,Maure,MLI,Maure,TRUE
+513,Q2,Mianka,MLI,Mianka,TRUE
+514,Q103,Peulh/Fulfude,MLI,Peulh;Fulfude,TRUE
+514,Q2,Peulh/Fulfude,MLI,Peulh;Fulfude,TRUE
+515,Q2,Samogo,MLI,Samogo,TRUE
+516,Q2,Senufo,MLI,Senufo,TRUE
+517,Q103,Soninké,MLI,Soninké,TRUE
+517,Q2,Soninké/Sarakolé,MLI,Soninké;Sarakolé,TRUE
+518,Q103,Sonrhai,MLI,Sonrhai,TRUE
+518,Q2,Sonrhai,MLI,Sonrhai,TRUE
+540,Q103,Makua,MOZ,Makua,TRUE
+540,Q2,Makua,MOZ,Makua,TRUE
+541,Q103,Sena,MOZ,Sena,TRUE
+541,Q2,Sena,MOZ,Sena,TRUE
+542,Q103,Ndau,MOZ,Ndau,TRUE
+543,Q103,Changana,MOZ,Changana,TRUE
+543,Q2,Changana,MOZ,Changana,TRUE
+545,Q2,Chope,MOZ,Chope,TRUE
+546,Q2,Bitonga,MOZ,Bitonga,TRUE
+547,Q2,Makonde,MOZ,Makonde,TRUE
+548,Q2,Chuabo,MOZ,Chuabo,TRUE
+549,Q2,Ajaua,MOZ,Ajaua,TRUE
+550,Q2,Lomue,MOZ,Lomue,TRUE
+552,Q2,Nyungwe,MOZ,Nyungwe,TRUE
+553,Q2,Xitswa,MOZ,Xitswa,TRUE
+581,Q103,Oshiwambo (Oshindonga/Oshikwanyama),NAM,Oshiwambo;Oshindonga;Oshikwanyama,TRUE
+581,Q2,German,NAM,German,TRUE
+582,Q103,Otjiherero,NAM,Otjiherero,TRUE
+582,Q2,Nama/Damara,NAM,Nama;Damara,TRUE
+583,Q103,Rukwangali,NAM,Rukwangali,TRUE
+583,Q2,Oshiwambo (Oshindonga/Oshikwanyama),NAM,Oshiwambo;Oshindonga;Oshikwanyama,TRUE
+584,Q2,Otjiherero,NAM,Otjiherero,TRUE
+585,Q2,Rukwangali,NAM,Rukwangali,TRUE
+586,Q2,Rugririku/Rumanyo,NAM,Rugririku;Rumanyo,TRUE
+587,Q2,Thimbukushu,NAM,Thimbukushu,TRUE
+588,Q2,Silozi,NAM,Silozi,TRUE
+590,Q2,Masubia,NAM,Masubia,TRUE
+591,Q2,San,NAM,San,TRUE
+621,Q103,Igbo,NIG,Igbo,TRUE
+621,Q2,Igbo,NIG,Igbo,TRUE
+623,Q103,Pidgin English,NIG,Pidgin English,TRUE
+623,Q2,Pidgin English,NIG,Pidgin English,TRUE
+624,Q2,Efik,NIG,Efik,TRUE
+625,Q2,Ebira,NIG,Ebira,TRUE
+626,Q2,Fulani,NIG,Fulani,TRUE
+627,Q2,Isoko,NIG,Isoko,TRUE
+628,Q2,Ibibio,NIG,Ibibio,TRUE
+631,Q2,Nupe,NIG,Nupe,TRUE
+632,Q2,Ijaw,NIG,Ijaw,TRUE
+633,Q2,Edo,NIG,Edo,TRUE
+634,Q2,Igala,NIG,Igala,TRUE
+635,Q2,Urhobo,NIG,Urhobo,TRUE
+636,Q2,Ogoni,NIG,Ogoni,TRUE
+637,Q2,Anang,NIG,Anang,TRUE
+638,Q2,Ikwere,NIG,Ikwere,TRUE
+639,Q2,Idoma,NIG,Idoma,TRUE
+640,Q2,Esan,NIG,Esan,TRUE
+641,Q2,Nembe,NIG,Nembe,TRUE
+642,Q2,Alago,NIG,Alago,TRUE
+643,Q2,Degema,NIG,Degema,TRUE
+644,Q2,Eggon,NIG,Eggon,TRUE
+645,Q2,Jukun,NIG,Jukun,TRUE
+646,Q2,Kagoma,NIG,Kagoma,TRUE
+647,Q2,Laru,NIG,Laru,TRUE
+648,Q2,Kalabari,NIG,Kalabari,TRUE
+649,Q2,Nwangavul,NIG,Nwangavul,TRUE
+650,Q2,Tangale,NIG,Tangale,TRUE
+651,Q2,Tarok,NIG,Tarok,TRUE
+652,Q2,Waja,NIG,Waja,TRUE
+653,Q2,Yala,NIG,Yala,TRUE
+660,Q103,Wolof,SEN,Wolof,TRUE
+660,Q2,Wolof,SEN,Wolof,TRUE
+661,Q103,Pulaar/Toucouleur,SEN,Pulaar;Toucouleur,TRUE
+661,Q2,Pulaar/Toucouleur,SEN,Pulaar;Toucouleur,TRUE
+662,Q2,Serer,SEN,Serer,TRUE
+663,Q2,Mandinka/Bambara,SEN,Mandinka;Bambara,TRUE
+664,Q2,Soninke,SEN,Soninke,TRUE
+665,Q103,Diola,SEN,Diola,TRUE
+665,Q2,Diola,SEN,Diola,TRUE
+666,Q2,Manjack,SEN,Manjack,TRUE
+668,Q2,Bassari,SEN,Bassari,TRUE
+702,Q103,Xhosa,SAF,Xhosa,TRUE
+702,Q2,Xhosa,SAF,Xhosa,TRUE
+703,Q103,Pedi/Spedi/North Sotho,SAF,Pedi;Spedi;North Sotho,TRUE
+703,Q2,Pedi/North Sotho,SAF,Pedi;North Sotho,TRUE
+704,Q103,Sesotho/Sotho/South Sotho,SAF,Sesotho;Sotho;South Sotho,TRUE
+704,Q2,Sotho/South Sotho,SAF,Sotho;South Sotho,TRUE
+705,Q103,Setswana/Tswana,SAF,Setswana;Tswana,TRUE
+705,Q2,Tswana,SAF,Tswana,TRUE
+706,Q2,Shangaan/Tsonga,SAF,Shangaan;Tsonga,TRUE
+707,Q2,Swazi,SAF,Swazi,TRUE
+708,Q103,Venda,SAF,Venda,TRUE
+709,Q103,Zulu,SAF,Zulu,TRUE
+709,Q2,Zulu,SAF,Zulu,TRUE
+710,Q2,Asian/Indian,SAF,Asian;Indian,TRUE
+740,Q2,Kinyakyusa,TAN,Kinyakyusa,TRUE
+741,Q2,Kichaga,TAN,Kichaga,TRUE
+742,Q2,Kihaya,TAN,Kihaya,TRUE
+743,Q2,Kingoni,TAN,Kingoni,TRUE
+744,Q2,Kikwere,TAN,Kikwere,TRUE
+745,Q2,Kipare,TAN,Kipare,TRUE
+746,Q2,Kihehe,TAN,Kihehe,TRUE
+747,Q2,Kimakonde,TAN,Kimakonde,TRUE
+748,Q2,Kinyamwezi,TAN,Kinyamwezi,TRUE
+749,Q2,Kisukuma,TAN,Kisukuma,TRUE
+750,Q2,Kimasai,TAN,Kimasai,TRUE
+751,Q2,Kimeru,TAN,Kimeru,TRUE
+752,Q2,Kikurya,TAN,Kikurya,TRUE
+753,Q2,Kigogo,TAN,Kigogo,TRUE
+754,Q2,Kiluguru,TAN,Kiluguru,TRUE
+755,Q2,Kifipa,TAN,Kifipa,TRUE
+756,Q2,Kimanyema,TAN,Kimanyema,TRUE
+757,Q2,Kinyiramba,TAN,Kinyiramba,TRUE
+758,Q2,Kinyaturu,TAN,Kinyaturu,TRUE
+759,Q2,Kiarusha,TAN,Kiarusha,TRUE
+760,Q2,Kibena,TAN,Kibena,TRUE
+761,Q2,Kiha,TAN,Kiha,TRUE
+762,Q2,Kiiraq,TAN,Kiiraq,TRUE
+763,Q2,Kijaluo,TAN,Kijaluo,TRUE
+764,Q2,Kijita,TAN,Kijita,TRUE
+765,Q2,Kikaguru,TAN,Kikaguru,TRUE
+766,Q2,Kimakuwa,TAN,Kimakuwa,TRUE
+767,Q2,Kimatengo,TAN,Kimatengo,TRUE
+768,Q2,Kimbulu,TAN,Kimbulu,TRUE
+769,Q2,Kimwera,TAN,Kimwera,TRUE
+770,Q2,Kindali,TAN,Kindali,TRUE
+771,Q2,Kindamba,TAN,Kindamba,TRUE
+772,Q2,Kindendeule,TAN,Kindendeule,TRUE
+773,Q2,Kindengereko,TAN,Kindengereko,TRUE
+774,Q2,Kingindo,TAN,Kingindo,TRUE
+775,Q2,Kinguu,TAN,Kinguu,TRUE
+776,Q2,Kinyambo,TAN,Kinyambo,TRUE
+777,Q2,Kinyiha,TAN,Kinyiha,TRUE
+778,Q2,Kipogoro,TAN,Kipogoro,TRUE
+779,Q2,Kirangi,TAN,Kirangi,TRUE
+780,Q103,Luganda,UGA,Luganda,TRUE
+780,Q2,Luganda,UGA,Luganda,TRUE
+781,Q103,Runyankore-Rukiga,UGA,Runyankore-Rukiga,TRUE
+781,Q2,Runyankole,UGA,Runyankole,TRUE
+782,Q103,Runyoro-Rutooro,UGA,Runyoro-Rutooro,TRUE
+782,Q2,Runyoro,UGA,Runyoro,TRUE
+783,Q103,Lusoga,UGA,Lusoga,TRUE
+783,Q2,Lusoga,UGA,Lusoga,TRUE
+784,Q103,Lumasaaba,UGA,Lumasaaba,TRUE
+784,Q2,Lumasaaba,UGA,Lumasaaba,TRUE
+785,Q2,Lukhonjo,UGA,Lukhonjo,TRUE
+786,Q2,Lunyole,UGA,Lunyole,TRUE
+787,Q103,Ateso,UGA,Ateso,TRUE
+787,Q2,Ateso,UGA,Ateso,TRUE
+788,Q103,Acholi-Langi,UGA,Acholi-Langi,TRUE
+788,Q2,Acholi,UGA,Acholi,TRUE
+789,Q103,Alur,UGA,Alur,TRUE
+789,Q2,Alur,UGA,Alur,TRUE
+790,Q103,Lugbara,UGA,Lugbara,TRUE
+790,Q2,Lugbara,UGA,Lugbara,TRUE
+791,Q2,Madi,UGA,Madi,TRUE
+792,Q103,Japadhola,UGA,Japadhola,TRUE
+792,Q2,Japadhola,UGA,Japadhola,TRUE
+793,Q2,Lusamia,UGA,Lusamia,TRUE
+794,Q2,Lugwere,UGA,Lugwere,TRUE
+795,Q2,Rukiga,UGA,Rukiga,TRUE
+796,Q2,Rutooro,UGA,Rutooro,TRUE
+797,Q2,Langi,UGA,Langi,TRUE
+798,Q103,Kupsabinyi,UGA,Kupsabinyi,TRUE
+798,Q2,Kupsabinyi,UGA,Kupsabinyi,TRUE
+799,Q103,Ngakarimajong,UGA,Ngakarimajong,TRUE
+799,Q2,Ngakarimajong,UGA,Ngakarimajong,TRUE
+800,Q2,Rufumbira,UGA,Rufumbira,TRUE
+820,Q103,Chewa/Nyanja,ZAM,Chewa;Nyanja,TRUE
+820,Q2,Bemba,ZAM,Bemba,TRUE
+821,Q103,Bembia,ZAM,Bembia,TRUE
+822,Q103,Tonga,ZAM,Tonga,TRUE
+823,Q103,Kaonde,ZAM,Kaonde,TRUE
+823,Q2,Lozi,ZAM,Lozi,TRUE
+824,Q103,Lozi,ZAM,Lozi,TRUE
+825,Q2,Nsenga,ZAM,Nsenga,TRUE
+826,Q2,Tumbuka,ZAM,Tumbuka,TRUE
+827,Q2,Kaonde,ZAM,Kaonde,TRUE
+828,Q2,Luvale,ZAM,Luvale,TRUE
+829,Q2,Namwanga,ZAM,Namwanga,TRUE
+830,Q2,Lunda,ZAM,Lunda,TRUE
+831,Q2,Bisa,ZAM,Bisa,TRUE
+832,Q2,Nkoya,ZAM,Nkoya,TRUE
+833,Q2,Mambwe,ZAM,Mambwe,TRUE
+834,Q2,Lenje,ZAM,Lenje,TRUE
+835,Q2,Ngoni,ZAM,Ngoni,TRUE
+836,Q2,Soli,ZAM,Soli,TRUE
+837,Q2,Ila,ZAM,Ila,TRUE
+838,Q2,Ushi,ZAM,Ushi,TRUE
+839,Q2,Chokwe,ZAM,Chokwe,TRUE
+840,Q2,Mbunda,ZAM,Mbunda,TRUE
+841,Q2,Kunda,ZAM,Kunda,TRUE
+842,Q2,Lala,ZAM,Lala,TRUE
+843,Q2,Lamba,ZAM,Lamba,TRUE
+844,Q2,Lungu,ZAM,Lungu,TRUE
+845,Q2,Nyika,ZAM,Nyika,TRUE
+846,Q2,Senga,ZAM,Senga,TRUE
+847,Q2,Tokaleya,ZAM,Tokaleya,TRUE
+851,Q2,Tabwa,ZAM,Tabwa,TRUE
+860,Q103,Ndebele,ZIM,Ndebele,TRUE
+861,Q103,Shona,ZIM,Shona,TRUE
+861,Q2,Shona,ZIM,Shona,TRUE
+862,Q2,Zezuru,ZIM,Zezuru,TRUE
+863,Q2,Korekore,ZIM,Korekore,TRUE
+864,Q2,Karanga,ZIM,Karanga,TRUE
+865,Q2,Manyika,ZIM,Manyika,TRUE
+868,Q2,Kalanga,ZIM,Kalanga,TRUE
+870,Q2,Buja,ZIM,Buja,TRUE
+871,Q2,Shangani,ZIM,Shangani,TRUE
+872,Q2,Suthu,ZIM,Suthu,TRUE
+900,Q103,Creole,MAU,Creole,TRUE
+900,Q2,Creole,MAU,Creole,TRUE
+930,Q103,Krio,SRL,Krio,TRUE
+930,Q2,Krio,SRL,Krio,TRUE
+931,Q103,Mende,SRL,Mende,TRUE
+932,Q103,Temne,SRL,Temne,TRUE
+932,Q2,Temne,SRL,Temne,TRUE
+933,Q2,Limba,SRL,Limba,TRUE
+934,Q2,Loko,SRL,Loko,TRUE
+935,Q2,Sherbo,SRL,Sherbo,TRUE
+936,Q2,Fulla,SRL,Fulla,TRUE
+937,Q2,Kono,SRL,Kono,TRUE
+938,Q2,Kuranko,SRL,Kuranko,TRUE
+939,Q2,Madingo,SRL,Madingo,TRUE
+941,Q2,Susu,SRL,Susu,TRUE
+943,Q2,Yalunka,SRL,Yalunka,TRUE
+1100,Q103,Haoussa,NGR,Haoussa,TRUE
+1101,Q103,Zarma/Songhaï,NGR,Zarma;Songhaï,TRUE
+1101,Q2,Zarma/Songhaï,NGR,Zarma;Songhaï,TRUE
+1105,Q2,Goumantchéma,NGR,Goumantchéma,TRUE
+1141,Q2,Mina (Guen),TOG,Mina;Guen,TRUE
+1142,Q103,Kabye,TOG,Kabye,TRUE
+1142,Q2,Kabye,TOG,Kabye,TRUE
+1143,Q103,Tem (Kotokoli),TOG,Tem;Kotokoli,TRUE
+1143,Q2,Tem (Kotokoli),TOG,Tem;Kotokoli,TRUE
+1144,Q103,Ben (Moba),TOG,Ben;Moba,TRUE
+1144,Q2,Ben (Moba),TOG,Ben;Moba,TRUE
+1145,Q103,Nawdem (Losso),TOG,Nawdem;Losso,TRUE
+1145,Q2,Nawdem (Losso),TOG,Nawdem;Losso,TRUE
+1146,Q2,Lama (Lamba),TOG,Lama;Lamba,TRUE
+1147,Q2,Ife (Ana),TOG,Ife;Ana,TRUE
+1148,Q2,Ikposso (Akposso),TOG,Ikposso;Akposso,TRUE
+1149,Q2,N'tcha (Bassar),TOG,N'tcha;Bassar,TRUE
+1151,Q2,Akebou,TOG,Akebou,TRUE
+1152,Q2,Gourma,TOG,Gourma,TRUE
+1153,Q2,Konkomba,TOG,Konkomba,TRUE
+1154,Q2,Ngam-gam,TOG,Ngam-gam,TRUE
+1155,Q2,Tchamba,TOG,Tchamba,TRUE
+1157,Q2,Ouatchi,TOG,Ouatchi,TRUE
+1160,Q2,Tchpkossi (Anoufom),TOG,Tchpkossi;Anoufom,TRUE
+1180,Q103,Kirundi,BDI,Kirundi,TRUE
+1180,Q2,Kirundi,BDI,Kirundi,TRUE
+1220,Q103,Foufouldé,CAM,Foufouldé,TRUE
+1220,Q2,Foufouldé,CAM,Foufouldé,TRUE
+1221,Q103,Pidgin,CAM,Pidgin,TRUE
+1221,Q2,Pidgin,CAM,Pidgin,TRUE
+1222,Q103,Ewondo,CAM,Ewondo,TRUE
+1222,Q2,Ewondo,CAM,Ewondo,TRUE
+1223,Q2,Bafang,CAM,Bafang,TRUE
+1224,Q2,Douala,CAM,Douala,TRUE
+1225,Q2,Bafia,CAM,Bafia,TRUE
+1226,Q2,Bafut,CAM,Bafut,TRUE
+1227,Q2,Bangangté,CAM,Bangangté,TRUE
+1228,Q2,Bakundu,CAM,Bakundu,TRUE
+1229,Q2,Bamileke,CAM,Bamileke,TRUE
+1230,Q2,Bamoun,CAM,Bamoun,TRUE
+1231,Q2,Bandjoun,CAM,Bandjoun,TRUE
+1232,Q2,Bangwa,CAM,Bangwa,TRUE
+1233,Q2,Banso,CAM,Banso,TRUE
+1235,Q2,Batanga,CAM,Batanga,TRUE
+1236,Q2,Bayangi,CAM,Bayangi,TRUE
+1237,Q2,Bulu,CAM,Bulu,TRUE
+1238,Q2,Dschang,CAM,Dschang,TRUE
+1239,Q2,Eton,CAM,Eton,TRUE
+1240,Q2,Fali,CAM,Fali,TRUE
+1241,Q2,Fong,CAM,Fong,TRUE
+1242,Q2,Gbaya,CAM,Gbaya,TRUE
+1243,Q2,Guider,CAM,Guider,TRUE
+1244,Q2,Guiziga,CAM,Guiziga,TRUE
+1246,Q2,Kapsiki,CAM,Kapsiki,TRUE
+1247,Q2,Mafa,CAM,Mafa,TRUE
+1248,Q2,Maka,CAM,Maka,TRUE
+1249,Q2,Mankon,CAM,Mankon,TRUE
+1250,Q2,Massa,CAM,Massa,TRUE
+1251,Q2,Mbouda,CAM,Mbouda,TRUE
+1252,Q2,Mboum,CAM,Mboum,TRUE
+1254,Q2,Moudan,CAM,Moudan,TRUE
+1255,Q2,Ngueba,CAM,Ngueba,TRUE
+1257,Q2,Lamnso,CAM,Lamnso,TRUE
+1258,Q2,Tikari,CAM,Tikari,TRUE
+1259,Q2,Toupouri,CAM,Toupouri,TRUE
+1260,Q2,Abbey,CDI,Abbey,TRUE
+1261,Q2,Abron,CDI,Abron,TRUE
+1262,Q2,Adjoukrou,CDI,Adjoukrou,TRUE
+1263,Q2,Agny,CDI,Agny,TRUE
+1264,Q2,Attié,CDI,Attié,TRUE
+1265,Q2,Avikam,CDI,Avikam,TRUE
+1267,Q2,Baoulé,CDI,Baoulé,TRUE
+1268,Q2,Bété,CDI,Bété,TRUE
+1269,Q2,Dida,CDI,Dida,TRUE
+1270,Q2,Godié,CDI,Godié,TRUE
+1271,Q2,Gouro,CDI,Gouro,TRUE
+1272,Q2,Guéré,CDI,Guéré,TRUE
+1273,Q2,Koulango,CDI,Koulango,TRUE
+1274,Q2,Kroumen,CDI,Kroumen,TRUE
+1278,Q2,Yacouba,CDI,Yacouba,TRUE
+1279,Q2,Djimini,CDI,Djimini,TRUE
+1280,Q2,Gnanboua,CDI,Gnanboua,TRUE
+1281,Q2,Koyaka,CDI,Koyaka,TRUE
+1282,Q2,Wobe,CDI,Wobe,TRUE
+1300,Q103,Soussou,GUI,Soussou,TRUE
+1300,Q2,Soussou,GUI,Soussou,TRUE
+1301,Q2,Poular,GUI,Poular,TRUE
+1302,Q103,Poular,GUI,Poular,TRUE
+1302,Q2,Maninka,GUI,Maninka,TRUE
+1303,Q2,Kpèlè,GUI,Kpèlè,TRUE
+1304,Q2,Loma,GUI,Loma,TRUE
+1305,Q103,Maninka,GUI,Maninka,TRUE
+1305,Q2,Kissié,GUI,Kissié,TRUE
+1307,Q103,Kpèlè,GUI,Kpèlè,TRUE
+1312,Q103,Kissié,GUI,Kissié,TRUE
+1420,Q2,Algerian Arabic,ALG,Algerian Arabic,TRUE
+1460,Q2,Egyptian Arabic,EGY,Egyptian Arabic,TRUE
+1501,Q2,Alhassania,MOR,Alhassania,TRUE
+1540,Q2,Sudanese Arabic,SUD,Sudanese Arabic,TRUE
+1541,Q2,Nubian Language,SUD,Nubian Language,TRUE
+1620,Q103,siSwati,SWZ,siSwati,TRUE
+1620,Q2,siSwati,SWZ,siSwati,TRUE
+1621,Q2,Shangaan,SWZ,Shangaan,TRUE
+1660,Q103,Creolo,STP,Creolo,TRUE
+1660,Q2,Creolo,STP,Creolo,TRUE
+1661,Q2,Forro,STP,Forro,TRUE
+1662,Q2,Angolar,STP,Angolar,TRUE
+1700,Q2,Fang,GAB,Fang,TRUE
+1701,Q2,Punu/Mériè,GAB,Punu;Mériè,TRUE
+1702,Q2,Kota,GAB,Kota,TRUE
+1703,Q2,Mbédè,GAB,Mbédè,TRUE
+1704,Q2,Nzébi/Métié,GAB,Nzébi;Métié,TRUE
+1705,Q2,Myénè,GAB,Myénè,TRUE
+1706,Q2,Tsogho,GAB,Tsogho,TRUE
+1707,Q2,Kélè,GAB,Kélè,TRUE
+2220,Q2,Yamba,CAM,Yamba,TRUE
+2221,Q2,Yabassi,CAM,Yabassi,TRUE
+2222,Q2,Bene,CAM,Bene,TRUE
+2740,Q2,Kisafwa,TAN,Kisafwa,TRUE
+2741,Q2,Kisambaa,TAN,Kisambaa,TRUE
+2742,Q2,Kishirazi,TAN,Kishirazi,TRUE
+2743,Q2,Kisubi,TAN,Kisubi,TRUE
+2744,Q2,Kisumbwa,TAN,Kisumbwa,TRUE
+2745,Q2,Kiyao,TAN,Kiyao,TRUE
+2746,Q2,Kizanaki,TAN,Kizanaki,TRUE
+2747,Q2,Kizaramo,TAN,Kizaramo,TRUE
+2748,Q2,Kizigua,TAN,Kizigua,TRUE
+9995,Q103,Other,CAM GHA GUI MLW MOR MOZ SAF SEN SRL STP SWZ UGA ZAM,Other,FALSE
+9995,Q2,Other,BEN BFO BOT CAM CDI GAB GHA GUI KEN MAU MLI MLW MOZ NAM NGR NIG SAF SEN SUD SWZ TAN TOG UGA ZAM ZIM,Other,FALSE
+9999,Q2,Don't know,CAM LIB MLW MOZ STP SUD TAN ZAM,Don't know,FALSE

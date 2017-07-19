@@ -24,8 +24,6 @@ split_lang_names <- function(x) {
 
 metadata <-
   list(
-    qlang_id = str_c("Unique language identifier combining Afrobarometer ",
-                     "question number and the language number. "),
     lang_id = str_c("Language number, as in the Afrobarometer documentation"),
     question = str_c("Question number in Afrobarometer"),
     lang_name = str_c("Language name, as in the Afrobarometer documentation"),
@@ -70,8 +68,6 @@ afrobarometer_langs <- function(input, output) {
     group_by(lang_id, question, lang_name) %>%
     summarise(countries = list(country)) %>%
     ungroup() %>%
-    # remove missing languages
-    unite(qlang_id, question, lang_id, remove = FALSE) %>%
     #split languages
     mutate(languages = split_lang_names(lang_name),
            is_language = lang_id > 0 & lang_id < 9000)
