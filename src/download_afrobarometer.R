@@ -46,20 +46,20 @@ download_afrobarometer <- function(dst) {
 
 download_afrobarometer(OUTPUT)
 
-bind_rows(
-  mutate(
-    afrob,
-    question = "Q3",
-    country = str_sub(RESPNO, 1, 3),
-    label = as.character(as_factor(afrob$Q3)),
-    value = as.integer(afrob$Q3)
-  ) %>% select(question, country, label, value),
-  mutate(
-    afrob,
-    question = "Q103",
-    country = str_sub(RESPNO, 1, 3),
-    label = as.character(as_factor(afrob$Q103)),
-    value = as.integer(afrob$Q103)
-  ) %>% select(question, country, label, value)
-) %>% count(question, label, value, country)
+# bind_rows(
+#   mutate(
+#     afrob,
+#     question = "Q3",
+#     country = str_sub(RESPNO, 1, 3),
+#     label = as.character(as_factor(afrob$Q3)),
+#     value = as.integer(afrob$Q3)
+#   ) %>% select(question, country, label, value),
+#   mutate(
+#     afrob,
+#     question = "Q103",
+#     country = str_sub(RESPNO, 1, 3),
+#     label = as.character(as_factor(afrob$Q103)),
+#     value = as.integer(afrob$Q103)
+#   ) %>% select(question, country, label, value)
+# ) %>% count(question, label, value, country)
 
