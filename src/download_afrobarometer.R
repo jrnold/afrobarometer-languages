@@ -49,43 +49,21 @@ download_afrobarometer(OUTPUT)
 "http://afrobarometer.org/sites/default/files/data/round-3/merged_r3_data.sav" %>%
 url() %>%
 haven::read_sav() %>%
-bind_rows(
-  mutate(
-    afrob,
-    question = "Q3",
-    country = str_sub(as.character(as_factor(RESPNO)), 1, 3),
-    label = as.character(haven::as_factor(afrob$Q3)),
-    value = as.integer(unclass(afrob$Q3))
+{bind_rows(
+  mutate(.,
+    question = "q3",
+    country = str_sub(as.character(as_factor(respno)), 1, 3),
+    label = as.character(haven::as_factor(afrob$q3)),
+    value = as.integer(unclass(afrob$q3))
   ) %>% select(question, country, label, value),
-  mutate(
-    afrob,
-    question = "Q103",
-    country = str_sub(as.character(as_factor(RESPNO)), 1, 3),
-    label = as.character(haven::as_factor(afrob$Q103)),
-    value = as.integer(unclass(afrob$Q103))
+  mutate(.,
+    question = "q103",
+    country = str_sub(as.character(as_factor(respno)), 1, 3),
+    label = as.character(haven::as_factor(afrob$q103)),
+    value = as.integer(unclass(afrob$q103))
   ) %>% select(question, country, label, value)
-) %>% count(question, label, value, country) ->
+)} %>% count(question, label, value, country) ->
   afrob_langs()
 
-afrob <- "http://afrobarometer.org/sites/default/files/data/round-3/merged_r3_data.sav" %>%
-  url() %>%
-  haven::read_sav()
-
-afrob %>% {
-    bind_rows(
-      tibble(question = "q103",
-             lang_id = as.integer(attr(.$q103, "labels")),
-             lang_name = names(attr(.$q103, "labels"))),
-      tibble(question = "q3",
-             lang_id = as.integer(attr(.$q3, "labels")),
-             lang_name = names(attr(.$q3, "labels")))
-    )
-  } %>% group_by(lang_id, lang_name) %>%
-  summarise(question = list(question)) %>%
-  mutate(iso_code = NA) %>%
-  {split(., seq_len(nrow(.)))} %>%
-  unname() %>%
-  as.yaml() %>%
-  cat(file = "data-raw/afrobarometer_r3_to_iso.yml")
 
 

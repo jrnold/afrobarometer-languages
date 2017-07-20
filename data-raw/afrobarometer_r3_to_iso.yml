@@ -1,1707 +1,2038 @@
-- lang_id: -1
+- iso_639_3:
+  - und
+  lang_id: -1
   lang_name: Missing
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 1
+  - q103
+  - q3
+- iso_639_3:
+  - eng
+  lang_id: 1
   lang_name: English
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 2
+  - q103
+  - q3
+- iso_639_3:
+  - fra
+  lang_id: 2
   lang_name: French
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 3
+  - q103
+  - q3
+- iso_639_3:
+  - por
+  lang_id: 3
   lang_name: Portuguese
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 4
+  - q103
+  - q3
+- iso_639_3:
+  - swc
+  - swh
+  lang_id: 4
   lang_name: Kiswahili
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 100
+  - q103
+  - q3
+- iso_639_3:
+  - afr
+  lang_id: 100
   lang_name: Afrikaans
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 101
+  - q103
+  - q3
+- iso_639_3:
+  - nde
+  lang_id: 101
   lang_name: Ndebele
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 102
+  - q103
+  - q3
+- iso_639_3:
+  - xho
+  lang_id: 102
   lang_name: Xhosa
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 103
+  - q103
+  - q3
+- iso_639_3:
+  - nso
+  lang_id: 103
   lang_name: Pedi/Spedi/ North Sotho
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 104
+  - q103
+  - q3
+- iso_639_3:
+  - sot
+  lang_id: 104
   lang_name: Sesotho/Sotho/ South Sotho
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 105
+  - q103
+  - q3
+- iso_639_3:
+  - tsn
+  lang_id: 105
   lang_name: Setswana/ Tswana
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 106
+  - q103
+  - q3
+- iso_639_3:
+  - tso
+  lang_id: 106
   lang_name: Shangaan
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 107
+  - q103
+  - q3
+- iso_639_3:
+  - ssw
+  lang_id: 107
   lang_name: Swazi
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 108
+  - q103
+  - q3
+- iso_639_3:
+  - ven
+  lang_id: 108
   lang_name: Venda
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 109
+  - q103
+  - q3
+- iso_639_3:
+  - zul
+  lang_id: 109
   lang_name: Zulu
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 110
+  - q103
+  - q3
+- iso_639_3:
+  - mul
+  lang_id: 110
   lang_name: English + Afrikaans
   question:
   - q103
-  iso_code: null
-- lang_id: 111
+- iso_639_3:
+  - mul
+  lang_id: 111
   lang_name: English + Ndebele
   question:
   - q103
-  iso_code: null
-- lang_id: 112
+- iso_639_3:
+  - mul
+  lang_id: 112
   lang_name: English + Xhosa
   question:
   - q103
-  iso_code: null
-- lang_id: 113
+- iso_639_3:
+  - mul
+  lang_id: 113
   lang_name: English + Pedi/N. Sotho
   question:
   - q103
-  iso_code: null
-- lang_id: 114
+- iso_639_3:
+  - mul
+  lang_id: 114
   lang_name: English + Sesotho/S. Sotho
   question:
   - q103
-  iso_code: null
-- lang_id: 115
+- iso_639_3:
+  - mul
+  lang_id: 115
   lang_name: English + Setswana
   question:
   - q103
-  iso_code: null
-- lang_id: 116
+- iso_639_3:
+  - mul
+  lang_id: 116
   lang_name: English + Shangaan
   question:
   - q103
-  iso_code: null
-- lang_id: 117
+- iso_639_3:
+  - mul
+  lang_id: 117
   lang_name: English + Venda
   question:
   - q103
-  iso_code: null
-- lang_id: 118
+- iso_639_3:
+  - mul
+  lang_id: 118
   lang_name: English + Zulu
   question:
   - q103
-  iso_code: null
-- lang_id: 120
+- iso_639_3:
+  - fon
+  lang_id: 120
   lang_name: Fon
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 121
+  - q103
+  - q3
+- iso_639_3:
+  - ajg
+  lang_id: 121
   lang_name: Adja
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 122
+  - q103
+  - q3
+- iso_639_3:
+  - bba
+  lang_id: 122
   lang_name: Bariba
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 123
+  - q103
+  - q3
+- iso_639_3:
+  - ddn
+  lang_id: 123
   lang_name: Dendi
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 124
+  - q103
+  - q3
+- iso_639_3:
+  - yor
+  lang_id: 124
   lang_name: Yoruba
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 125
+  - q103
+  - q3
+- iso_639_3:
+  - tbz
+  lang_id: 125
   lang_name: Ditamari
   question:
   - q3
-  iso_code: null
-- lang_id: 125
+- iso_639_3:
+  - tbz
+  lang_id: 125
   lang_name: Otamari
   question:
   - q103
-  iso_code: null
-- lang_id: 126
+- iso_639_3:
+  - fue
+  - fuh
+  lang_id: 126
   lang_name: Peulh
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 127
+  - q103
+  - q3
+- iso_639_3:
+  - pil
+  lang_id: 127
   lang_name: Yoa
   question:
   - q103
-  iso_code: null
-- lang_id: 127
+- iso_639_3:
+  - pil
+  lang_id: 127
   lang_name: Yom
   question:
   - q3
-  iso_code: null
-- lang_id: 128
+- iso_639_3:
+  - hau
+  lang_id: 128
   lang_name: Haoussa
   question:
   - q3
-  iso_code: null
-- lang_id: 129
+- iso_639_3:
+  - ijj
+  lang_id: 129
   lang_name: Ide
   question:
   - q3
-  iso_code: null
-- lang_id: 130
+  note: >
+    Ede Ije language? https://www.ethnologue.com/country/BJ/languages
+- iso_639_3:
+  - lam
+  lang_id: 130
   lang_name: Lamba
   question:
   - q3
-  iso_code: null
-- lang_id: 140
+- iso_639_3:
+  - tsn
+  lang_id: 140
   lang_name: Setswana
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 141
+  - q103
+  - q3
+- iso_639_3:
+  - hio
+  lang_id: 141
   lang_name: Sesarwa
   question:
   - q3
-  iso_code: null
-- lang_id: 142
+- iso_639_3:
+  - xkv
+  lang_id: 142
   lang_name: Sekgaladi
   question:
   - q3
-  iso_code: null
-- lang_id: 143
+  note: >
+    Alt name for Kgalagadi. https://www.ethnologue.com/country/BW/languages
+- iso_639_3: null
+  lang_id: 143
   lang_name: Sesobea
   question:
   - q3
-  iso_code: null
-- lang_id: 144
+- iso_639_3:
+  - kck
+  note: >
+    Alt name for Kalanga
+  lang_id: 144
   lang_name: Sekalanga
   question:
   - q3
-  iso_code: null
-- lang_id: 145
+- iso_639_3:
+  - her
+  lang_id: 145
   lang_name: Seherero
   question:
   - q3
-  iso_code: null
-- lang_id: 146
+- iso_639_3:
+  - mhw
+  lang_id: 146
   lang_name: Sembukushu
   question:
   - q3
-  iso_code: null
-- lang_id: 147
+- iso_639_3:
+  - brl
+  lang_id: 147
   lang_name: Sebirwa
   question:
   - q3
-  iso_code: null
-- lang_id: 148
+- iso_639_3:
+  - xkv
+  lang_id: 148
   lang_name: Sengologa
   question:
   - q3
-  iso_code: null
-- lang_id: 149
+- iso_639_3:
+  - yey
+  lang_id: 149
   lang_name: Seyei
   question:
   - q3
-  iso_code: null
-- lang_id: 165
+- iso_639_3:
+  - mfe
+  lang_id: 165
   lang_name: Creole
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 180
+  - q103
+  - q3
+- iso_639_3:
+  - aka
+  lang_id: 180
   lang_name: AKAN
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 181
+  - q103
+  - q3
+- iso_639_3:
+  - ewe
+  lang_id: 181
   lang_name: EWE
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 182
+  - q103
+  - q3
+- iso_639_3:
+  - gaa
+  lang_id: 182
   lang_name: GA
   question:
   - q103
-  iso_code: null
-- lang_id: 182
+- iso_639_3:
+  - gaa
+  - ada
+  lang_id: 182
   lang_name: GA/DANGBE
   question:
   - q3
-  iso_code: null
-- lang_id: 183
+  note: >
+    Both Ga and Dangme languages.
+- iso_639_3:
+  - dag
+  lang_id: 183
   lang_name: DAGBANI
   question:
   - q103
-  iso_code: null
-- lang_id: 183
+- iso_639_3:
+  - und
+  lang_id: 183
   lang_name: Other Northern Languages
   question:
   - q3
-  iso_code: null
-- lang_id: 184
+- iso_639_3:
+  - dag
+  lang_id: 184
   lang_name: DAGBANI
   question:
   - q3
-  iso_code: null
-- lang_id: 184
+- iso_639_3:
+  - hau
+  lang_id: 184
   lang_name: HUSA
   question:
   - q103
-  iso_code: null
-- lang_id: 185
+- iso_639_3:
+  - dga
+  lang_id: 185
   lang_name: DAGAARE
   question:
   - q3
-  iso_code: null
-- lang_id: 185
+- iso_639_3:
+  - und
+  lang_id: 185
   lang_name: OTHER
   question:
   - q103
-  iso_code: null
-- lang_id: 200
+- iso_639_3:
+  - kik
+  lang_id: 200
   lang_name: Kikuyu
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 201
+  - q103
+  - q3
+- iso_639_3:
+  - luo
+  lang_id: 201
   lang_name: Luo
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 202
+  - q103
+  - q3
+- iso_639_3:
+  - lkb
+  - lks
+  - lto
+  - lwg
+  - nle
+  lang_id: 202
   lang_name: Luhya
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 203
+  - q103
+  - q3
+- iso_639_3:
+  - kam
+  lang_id: 203
   lang_name: Kamba
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 204
+  - q103
+  - q3
+- iso_639_3:
+  - ebu
+  - mer
+  lang_id: 204
   lang_name: Meru/Embu
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 205
+  - q103
+  - q3
+- iso_639_3:
+  - guz
+  lang_id: 205
   lang_name: Kisii
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 206
+  - q103
+  - q3
+- iso_639_3:
+  - enb
+  - eyo
+  - niq
+  - oki
+  - sgc
+  - spy
+  - tec
+  - tuy
+  lang_id: 206
   lang_name: Kalenjin
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 207
+  - q103
+  - q3
+- iso_639_3:
+  - mas
+  - saq
+  lang_id: 207
   lang_name: Masai/Samburu
   question:
   - q3
-  iso_code: null
-- lang_id: 208
+- iso_639_3:
+  - dig
+  - dug
+  - nyf
+  - seg
+  lang_id: 208
   lang_name: Mijikenda
   question:
   - q3
-  iso_code: null
-- lang_id: 209
+- iso_639_3:
+  - dav
+  lang_id: 209
   lang_name: Taita
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 210
+  - q103
+  - q3
+- iso_639_3:
+  - som
+  lang_id: 210
   lang_name: Somali
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 211
+  - q103
+  - q3
+- iso_639_3:
+  - dig
+  - dug
+  - nyf
+  - seg
+  lang_id: 211
   lang_name: Mijikenda
   question:
   - q103
-  iso_code: null
-- lang_id: 211
+- iso_639_3:
+  - pko
+  lang_id: 211
   lang_name: Pokot
   question:
   - q3
-  iso_code: null
-- lang_id: 212
+- iso_639_3:
+  - swh
+  lang_id: 212
   lang_name: Gunya
   question:
   - q103
-  iso_code: null
-- lang_id: 212
+  note: >
+    Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
+- iso_639_3:
+  - tuv
+  lang_id: 212
   lang_name: Turkana
   question:
   - q3
-  iso_code: null
-- lang_id: 213
+- iso_639_3:
+  - dig
+  lang_id: 213
   lang_name: Digo
   question:
   - q3
-  iso_code: null
-- lang_id: 213
+- iso_639_3:
+  - nyf
+  lang_id: 213
   lang_name: Giriama
   question:
   - q103
-  iso_code: null
-- lang_id: 214
+- iso_639_3:
+  - nyf
+  lang_id: 214
   lang_name: Giriama
   question:
   - q3
-  iso_code: null
-- lang_id: 214
+- iso_639_3:
+  - mul
+  lang_id: 214
   lang_name: Kiswahili/Luhya
   question:
   - q103
-  iso_code: null
-- lang_id: 215
+- iso_639_3:
+  - dug
+  lang_id: 215
   lang_name: Duruma
   question:
   - q3
-  iso_code: null
-- lang_id: 215
+- iso_639_3:
+  - mul
+  lang_id: 215
   lang_name: English/Swahili
   question:
   - q103
-  iso_code: null
-- lang_id: 216
+- iso_639_3:
+  - coh
+  lang_id: 216
   lang_name: Chonyi
   question:
   - q3
-  iso_code: null
-- lang_id: 216
+- iso_639_3:
+  - spy
+  lang_id: 216
   lang_name: Sabaot
   question:
   - q103
-  iso_code: null
-- lang_id: 217
+- iso_639_3:
+  - bji
+  lang_id: 217
   lang_name: Burji
   question:
   - q103
-  iso_code: null
-- lang_id: 217
+- iso_639_3:
+  - swh
+  lang_id: 217
   lang_name: Gunya
   question:
   - q3
-  iso_code: null
-- lang_id: 218
+  note: |
+    Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
+- iso_639_3:
+  - arb
+  lang_id: 218
   lang_name: Arabic
   question:
   - q3
-  iso_code: null
-- lang_id: 218
+- iso_639_3:
+  - kuj
+  lang_id: 218
   lang_name: Kuria
   question:
   - q103
-  iso_code: null
-- lang_id: 219
+- iso_639_3:
+  - rag
+  lang_id: 219
   lang_name: Maragoli
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 220
+  - q103
+  - q3
+  note: |
+    Alt name for Lulogooli. https://www.ethnologue.com/country/KE/languages
+- iso_639_3:
+  - sot
+  lang_id: 220
   lang_name: Sesotho
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 221
+  - q103
+  - q3
+- iso_639_3:
+  - nso
+  lang_id: 221
   lang_name: Sephuti
   question:
   - q3
-  iso_code: null
-- lang_id: 221
+- iso_639_3:
+  - nso
+  lang_id: 221
   lang_name: Seputi
   question:
   - q103
-  iso_code: null
-- lang_id: 240
+- iso_639_3:
+  - plt
+  lang_id: 240
   lang_name: malg officiel
   question:
   - q103
-  iso_code: null
-- lang_id: 240
+- iso_639_3:
+  - plt
+  lang_id: 240
   lang_name: malgache officielle
   question:
   - q3
-  iso_code: null
-- lang_id: 241
+- iso_639_3:
+  - bhr
+  - bmm
+  - buc
+  - bzc
+  - msh
+  - skg
+  - tdx
+  - tkg
+  - txy
+  - xmv
+  - xmw
+  lang_id: 241
   lang_name: dialect malg
   question:
   - q103
-  iso_code: null
-- lang_id: 241
+- iso_639_3:
+  - bhr
+  - bmm
+  - buc
+  - bzc
+  - msh
+  - skg
+  - tdx
+  - tkg
+  - txy
+  - xmv
+  - xmw
+  lang_id: 241
   lang_name: langue régionale
   question:
   - q3
-  iso_code: null
-- lang_id: 242
+- iso_639_3:
+  - cmn
+  - yue
+  lang_id: 242
   lang_name: chinois
   question:
   - q3
-  iso_code: null
-- lang_id: 243
+  note: |
+    Chinese language.
+- iso_639_3: null
+  lang_id: 243
   lang_name: comorien
   question:
   - q3
-  iso_code: null
-- lang_id: 244
+- iso_639_3:
+  - und
+  lang_id: 244
   lang_name: pakistanais
   question:
   - q3
-  iso_code: null
-- lang_id: 260
+- iso_639_3:
+  - tum
+  lang_id: 260
   lang_name: Tumbuka
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 261
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 261
   lang_name: Nkhonde
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 262
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 262
   lang_name: Lambya
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 263
+  - q103
+  - q3
+- iso_639_3:
+  - nya
+  lang_id: 263
   lang_name: Chewa
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 264
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 264
   lang_name: Yao
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 265
+  - q103
+  - q3
+- iso_639_3:
+  - nse
+  - nya
+  - tum
+  lang_id: 265
   lang_name: Ngoni
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 266
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 266
   lang_name: Lomwe
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 267
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 267
   lang_name: Manga'nja
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 268
+  - q103
+  - q3
+- iso_639_3:
+  - seh
+  lang_id: 268
   lang_name: Sena
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 269
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 269
   lang_name: Sukwa
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 270
+  - q103
+  - q3
+- iso_639_3:
+  - nse
+  - tum
+  lang_id: 270
   lang_name: Senga
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 271
+  - q103
+  - q3
+- iso_639_3:
+  - toi
+  lang_id: 271
   lang_name: Tonga
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 280
+  - q103
+  - q3
+- iso_639_3:
+  - bam
+  lang_id: 280
   lang_name: Bambara
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 281
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 281
   lang_name: Peugl/Fulfulde
   question:
   - q3
-  iso_code: null
-- lang_id: 281
+- iso_639_3: null
+  lang_id: 281
   lang_name: Peuhl/Fulfulde
   question:
   - q103
-  iso_code: null
-- lang_id: 282
+- iso_639_3:
+  - spp
+  lang_id: 282
   lang_name: Senufo
   question:
   - q3
-  iso_code: null
-- lang_id: 283
+- iso_639_3:
+  - myk
+  lang_id: 283
   lang_name: Mianka
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 284
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 284
   lang_name: Mossi
   question:
   - q3
-  iso_code: null
-- lang_id: 285
+- iso_639_3: null
+  lang_id: 285
   lang_name: Sonink
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 286
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 286
   lang_name: Malink
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 287
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 287
   lang_name: Khasonk
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 288
+  - q103
+  - q3
+- iso_639_3:
+  - aqd
+  - dbg
+  - dbt
+  - dbu
+  - dbw
+  - dds
+  - dgb
+  - djm
+  - dmb
+  - dti
+  - dtk
+  - dtm
+  - dto
+  - dts
+  - dtt
+  - dtu
+  - dym
+  - nzz
+  - tde
+  lang_id: 288
   lang_name: Dogon
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 289
+  - q103
+  - q3
+- iso_639_3:
+  - bbo
+  - bmq
+  - box
+  - bwq
+  lang_id: 289
   lang_name: Bobo
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 290
+  - q103
+  - q3
+- iso_639_3:
+  - boo
+  - boz
+  - bze
+  - bzx
+  lang_id: 290
   lang_name: Bozo
   question:
   - q3
-  iso_code: null
-- lang_id: 291
+- iso_639_3:
+  - mey
+  lang_id: 291
   lang_name: Arabe
   question:
   - q3
-  iso_code: null
-- lang_id: 292
+- iso_639_3:
+  - mey
+  lang_id: 292
   lang_name: Maure
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 293
+  - q103
+  - q3
+- iso_639_3:
+  - xkg
+  lang_id: 293
   lang_name: Kakolo
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 294
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 294
   lang_name: Samoko
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 295
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 295
   lang_name: Sonrha
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 296
+  - q103
+  - q3
+- iso_639_3:
+  - ses
+  lang_id: 296
   lang_name: Bella
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 297
+  - q103
+  - q3
+- iso_639_3:
+  - taq
+  - thv
+  - ttq
+  lang_id: 297
   lang_name: Tamasheq
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 298
+  - q103
+  - q3
+- iso_639_3:
+  - rkm
+  lang_id: 298
   lang_name: Dafing
   question:
   - q3
-  iso_code: null
-- lang_id: 300
+- iso_639_3:
+  - vmw
+  lang_id: 300
   lang_name: Makua
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 301
+  - q103
+  - q3
+- iso_639_3:
+  - seh
+  lang_id: 301
   lang_name: Sena
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 302
+  - q103
+  - q3
+- iso_639_3:
+  - ndc
+  lang_id: 302
   lang_name: Ndau
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 303
+  - q103
+  - q3
+- iso_639_3:
+  - nya
+  lang_id: 303
   lang_name: Nyanja
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 304
+  - q103
+  - q3
+- iso_639_3:
+  - tso
+  lang_id: 304
   lang_name: Changana
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 305
+  - q103
+  - q3
+- iso_639_3:
+  - cce
+  lang_id: 305
   lang_name: Chope
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 306
+  - q103
+  - q3
+- iso_639_3:
+  - toh
+  lang_id: 306
   lang_name: Bitonga
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 307
+  - q103
+  - q3
+- iso_639_3:
+  - kde
+  lang_id: 307
   lang_name: Makonde
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 308
+  - q103
+  - q3
+- iso_639_3:
+  - chw
+  lang_id: 308
   lang_name: Chuabo
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 309
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 309
   lang_name: Ajua
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 310
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 310
   lang_name: Quimuane
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 311
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 311
   lang_name: Muaui
   question:
   - q3
-  iso_code: null
-- lang_id: 312
+- iso_639_3: null
+  lang_id: 312
   lang_name: Nhungue
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 320
+  - q103
+  - q3
+- iso_639_3:
+  - naq
+  lang_id: 320
   lang_name: Nama/Damara
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 321
+  - q103
+  - q3
+- iso_639_3:
+  - afr
+  lang_id: 321
   lang_name: Afrikaans
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 322
+  - q103
+  - q3
+- iso_639_3:
+  - kwn
+  lang_id: 322
   lang_name: Rukwangali
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 323
+  - q103
+  - q3
+- iso_639_3:
+  - loz
+  lang_id: 323
   lang_name: Silozi
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 324
+  - q103
+  - q3
+- iso_639_3:
+  - sbs
+  lang_id: 324
   lang_name: Masubia
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 325
+  - q103
+  - q3
+- iso_639_3:
+  - deu
+  lang_id: 325
   lang_name: German
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 326
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 326
   lang_name: Oshiwambo
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 327
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 327
   lang_name: Okjiherero
   question:
   - q3
-  iso_code: null
-- lang_id: 327
+- iso_639_3:
+  - her
+  lang_id: 327
   lang_name: Otjiherero
   question:
   - q103
-  iso_code: null
-- lang_id: 328
+- iso_639_3:
+  - tsn
+  lang_id: 328
   lang_name: Setswana
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 329
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 329
   lang_name: Angolan:Portuguese
   question:
   - q3
-  iso_code: null
-- lang_id: 330
+- iso_639_3: null
+  lang_id: 330
   lang_name: Angolan:Rumbundu
   question:
   - q3
-  iso_code: null
-- lang_id: 331
+- iso_639_3: null
+  lang_id: 331
   lang_name: Mbukushu/Thimbukushu
   question:
   - q103
-  iso_code: null
-- lang_id: 331
+- iso_639_3: null
+  lang_id: 331
   lang_name: Other Kavango:Thimbukushu
   question:
   - q3
-  iso_code: null
-- lang_id: 332
+- iso_639_3: null
+  lang_id: 332
   lang_name: English and Oshiwambo
   question:
   - q103
-  iso_code: null
-- lang_id: 332
+- iso_639_3: null
+  lang_id: 332
   lang_name: Other Kavango:Rugririku
   question:
   - q3
-  iso_code: null
-- lang_id: 333
+- iso_639_3:
+  - mul
+  lang_id: 333
   lang_name: English and Afrikaans
   question:
   - q103
-  iso_code: null
-- lang_id: 334
+- iso_639_3:
+  - mul
+  lang_id: 334
   lang_name: Afrikaans and Oshiwambo
   question:
   - q103
-  iso_code: null
-- lang_id: 335
+- iso_639_3:
+  - eng
+  lang_id: 335
   lang_name: English and local languages
   question:
   - q103
-  iso_code: null
-- lang_id: 336
+- iso_639_3:
+  - afr
+  lang_id: 336
   lang_name: Afrikaans and local languages
   question:
   - q103
-  iso_code: null
-- lang_id: 337
+- iso_639_3:
+  - mul
+  lang_id: 337
   lang_name: English, Afrikaans and local languages
   question:
   - q103
-  iso_code: null
-- lang_id: 338
+- iso_639_3:
+  - mul
+  lang_id: 338
   lang_name: More than one local language
   question:
   - q103
-  iso_code: null
-- lang_id: 338
+- iso_639_3:
+  - nde
+  lang_id: 338
   lang_name: Ndebele
   question:
   - q3
-  iso_code: null
-- lang_id: 340
+- iso_639_3:
+  - hau
+  lang_id: 340
   lang_name: Hausa
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 341
+  - q103
+  - q3
+- iso_639_3:
+  - agb
+  - ibo
+  lang_id: 341
   lang_name: Igbo
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 342
+  - q103
+  - q3
+- iso_639_3:
+  - yor
+  lang_id: 342
   lang_name: Yoruba
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 343
+  - q103
+  - q3
+- iso_639_3:
+  - pcm
+  lang_id: 343
   lang_name: Pidgin English
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 344
+  - q103
+  - q3
+- iso_639_3:
+  - efi
+  lang_id: 344
   lang_name: Efik
   question:
   - q3
-  iso_code: null
-- lang_id: 345
+- iso_639_3:
+  - igb
+  lang_id: 345
   lang_name: Ebira
   question:
   - q3
-  iso_code: null
-- lang_id: 346
+- iso_639_3:
+  - fub
+  lang_id: 346
   lang_name: Fulani
   question:
   - q3
-  iso_code: null
-- lang_id: 347
+- iso_639_3:
+  - iso
+  lang_id: 347
   lang_name: Isoko
   question:
   - q3
-  iso_code: null
-- lang_id: 348
+- iso_639_3:
+  - ibb
+  lang_id: 348
   lang_name: Ibibio
   question:
   - q3
-  iso_code: null
-- lang_id: 349
+- iso_639_3:
+  - bms
+  - kby
+  - knc
+  - krt
+  lang_id: 349
   lang_name: Kanuri
   question:
   - q3
-  iso_code: null
-- lang_id: 350
+- iso_639_3: null
+  lang_id: 350
   lang_name: Tiv
   question:
   - q3
-  iso_code: null
-- lang_id: 351
+- iso_639_3:
+  - nup
+  lang_id: 351
   lang_name: Nupe
   question:
   - q3
-  iso_code: null
-- lang_id: 352
+- iso_639_3:
+  - ijc
+  - ijs
+  lang_id: 352
   lang_name: Ijaw
   question:
   - q3
-  iso_code: null
-- lang_id: 353
+- iso_639_3:
+  - bin
+  lang_id: 353
   lang_name: Edo
   question:
   - q3
-  iso_code: null
-- lang_id: 354
+- iso_639_3:
+  - igl
+  lang_id: 354
   lang_name: Igala
   question:
   - q3
-  iso_code: null
-- lang_id: 355
+- iso_639_3:
+  - urh
+  lang_id: 355
   lang_name: Urhobo
   question:
   - q3
-  iso_code: null
-- lang_id: 356
+- iso_639_3:
+  - idu
+  lang_id: 356
   lang_name: Idoma
   question:
   - q3
-  iso_code: null
-- lang_id: 357
+- iso_639_3:
+  - bas
+  - bsq
+  - ngn
+  lang_id: 357
   lang_name: Bassa
   question:
   - q3
-  iso_code: null
-- lang_id: 358
+- iso_639_3:
+  - ikw
+  lang_id: 358
   lang_name: Ikwere
   question:
   - q3
-  iso_code: null
-- lang_id: 359
+- iso_639_3: null
+  lang_id: 359
   lang_name: Ukwani
   question:
   - q3
-  iso_code: null
-- lang_id: 360
+- iso_639_3:
+  - wol
+  lang_id: 360
   lang_name: Wolof
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 361
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 361
   lang_name: Pular
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 362
+  - q103
+  - q3
+- iso_639_3:
+  - cae
+  - fap
+  - snf
+  - srr
+  lang_id: 362
   lang_name: Serer
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 363
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 363
   lang_name: Mandinka
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 364
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 364
   lang_name: Sonike
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 365
+  - q103
+  - q3
+- iso_639_3:
+  - dyo
+  lang_id: 365
   lang_name: Diola
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 366
+  - q103
+  - q3
+- iso_639_3:
+  - mfv
+  lang_id: 366
   lang_name: Manjack
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 367
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 367
   lang_name: Bamabara
   question:
   - q103
-  iso_code: null
-- lang_id: 367
+- iso_639_3:
+  - bam
+  lang_id: 367
   lang_name: Bambara
   question:
   - q3
-  iso_code: null
-- lang_id: 368
+- iso_639_3: null
+  lang_id: 368
   lang_name: Bainouk
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 369
+  - q103
+  - q3
+- iso_639_3:
+  - bsc
+  lang_id: 369
   lang_name: Bassari
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 380
+  - q103
+  - q3
+- iso_639_3:
+  - nyy
+  lang_id: 380
   lang_name: Kinyakyusa
   question:
   - q3
-  iso_code: null
-- lang_id: 381
+- iso_639_3:
+  - old
+  lang_id: 381
   lang_name: Kichaga
   question:
   - q3
-  iso_code: null
-- lang_id: 382
+- iso_639_3:
+  - hay
+  lang_id: 382
   lang_name: Kihaya
   question:
   - q3
-  iso_code: null
-- lang_id: 383
+- iso_639_3:
+  - ngo
+  lang_id: 383
   lang_name: Kingoni
   question:
   - q3
-  iso_code: null
-- lang_id: 384
+- iso_639_3:
+  - cwe
+  - ked
+  lang_id: 384
   lang_name: Kikwere
   question:
   - q3
-  iso_code: null
-- lang_id: 385
+- iso_639_3:
+  - asa
+  lang_id: 385
   lang_name: Kipare
   question:
   - q3
-  iso_code: null
-- lang_id: 386
+- iso_639_3:
+  - heh
+  lang_id: 386
   lang_name: Kihehe
   question:
   - q3
-  iso_code: null
-- lang_id: 387
+- iso_639_3:
+  - kde
+  lang_id: 387
   lang_name: Kimakonde
   question:
   - q3
-  iso_code: null
-- lang_id: 388
+- iso_639_3:
+  - nym
+  lang_id: 388
   lang_name: Kinyamwezi
   question:
   - q3
-  iso_code: null
-- lang_id: 389
+- iso_639_3:
+  - suk
+  lang_id: 389
   lang_name: Kisukuma
   question:
   - q3
-  iso_code: null
-- lang_id: 390
+- iso_639_3:
+  - mas
+  lang_id: 390
   lang_name: Kimasai
   question:
   - q3
-  iso_code: null
-- lang_id: 391
+- iso_639_3:
+  - rwk
+  lang_id: 391
   lang_name: Kimeru
   question:
   - q3
-  iso_code: null
-- lang_id: 392
+- iso_639_3:
+  - kuj
+  lang_id: 392
   lang_name: Kikurya
   question:
   - q3
-  iso_code: null
-- lang_id: 393
+- iso_639_3:
+  - gog
+  lang_id: 393
   lang_name: Kigogo
   question:
   - q3
-  iso_code: null
-- lang_id: 394
+- iso_639_3:
+  - ruf
+  lang_id: 394
   lang_name: Kiluguru
   question:
   - q3
-  iso_code: null
-- lang_id: 395
+- iso_639_3:
+  - fip
+  lang_id: 395
   lang_name: Kifipa
   question:
   - q3
-  iso_code: null
-- lang_id: 396
+- iso_639_3:
+  - unk
+  lang_id: 396
   lang_name: Kimanyema
   question:
   - q3
-  iso_code: null
-- lang_id: 397
+- iso_639_3:
+  - nim
+  lang_id: 397
   lang_name: Kinyiramba
   question:
   - q3
-  iso_code: null
-- lang_id: 398
+- iso_639_3:
+  - rim
+  lang_id: 398
   lang_name: Kinyaturu
   question:
   - q3
-  iso_code: null
-- lang_id: 405
+- iso_639_3: null
+  lang_id: 405
   lang_name: Akaramojonj
   question:
   - q3
-  iso_code: null
-- lang_id: 406
+- iso_639_3: null
+  lang_id: 406
   lang_name: Akur
   question:
   - q3
-  iso_code: null
-- lang_id: 406
+- iso_639_3:
+  - alz
+  lang_id: 406
   lang_name: Alur
   question:
   - q103
-  iso_code: null
-- lang_id: 407
+- iso_639_3:
+  - teo
+  lang_id: 407
   lang_name: Ateso
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 408
+  - q103
+  - q3
+- iso_639_3:
+  - adh
+  lang_id: 408
   lang_name: Japadhola
   question:
   - q3
-  iso_code: null
-- lang_id: 409
+- iso_639_3: null
+  lang_id: 409
   lang_name: Jonam
   question:
   - q3
-  iso_code: null
-- lang_id: 410
+- iso_639_3: null
+  lang_id: 410
   lang_name: Kakwa
   question:
   - q3
-  iso_code: null
-- lang_id: 411
+- iso_639_3: null
+  lang_id: 411
   lang_name: Kumam
   question:
   - q3
-  iso_code: null
-- lang_id: 412
+- iso_639_3: null
+  lang_id: 412
   lang_name: Kuksabin
   question:
   - q3
-  iso_code: null
-- lang_id: 413
+- iso_639_3:
+  - luo
+  lang_id: 413
   lang_name: Luo
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 414
+  - q103
+  - q3
+- iso_639_3:
+  - lgg
+  lang_id: 414
   lang_name: Lugbara
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 415
+  - q103
+  - q3
+- iso_639_3:
+  - gwr
+  lang_id: 415
   lang_name: Lugwere
   question:
   - q3
-  iso_code: null
-- lang_id: 416
+- iso_639_3:
+  - mhi
+  - snm
+  lang_id: 416
   lang_name: Madi
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 417
+  - q103
+  - q3
+- iso_639_3:
+  - lug
+  lang_id: 417
   lang_name: Luganda
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 418
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 418
   lang_name: Lugishu/Lumasaba
   question:
   - q3
-  iso_code: null
-- lang_id: 418
+- iso_639_3: null
+  lang_id: 418
   lang_name: Lumasaba
   question:
   - q103
-  iso_code: null
-- lang_id: 419
+- iso_639_3:
+  - xog
+  lang_id: 419
   lang_name: Lusoga
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 420
+  - q103
+  - q3
+- iso_639_3:
+  - bem
+  lang_id: 420
   lang_name: Bemba
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 421
+  - q103
+  - q3
+- iso_639_3:
+  - nya
+  lang_id: 421
   lang_name: Nyanja
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 422
+  - q103
+  - q3
+- iso_639_3:
+  - toi
+  lang_id: 422
   lang_name: Tonga
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 423
+  - q103
+  - q3
+- iso_639_3:
+  - loz
+  lang_id: 423
   lang_name: Lozi
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 424
+  - q103
+  - q3
+- iso_639_3:
+  - nya
+  lang_id: 424
   lang_name: Chewa
   question:
   - q3
-  iso_code: null
-- lang_id: 425
+- iso_639_3:
+  - nse
+  lang_id: 425
   lang_name: Nsenga
   question:
   - q3
-  iso_code: null
-- lang_id: 426
+- iso_639_3:
+  - tum
+  lang_id: 426
   lang_name: Tumbuka
   question:
   - q3
-  iso_code: null
-- lang_id: 427
+- iso_639_3:
+  - kqn
+  lang_id: 427
   lang_name: Kaonde
   question:
   - q3
-  iso_code: null
-- lang_id: 428
+- iso_639_3:
+  - lue
+  lang_id: 428
   lang_name: Luvale
   question:
   - q3
-  iso_code: null
-- lang_id: 429
+- iso_639_3:
+  - mwn
+  lang_id: 429
   lang_name: Namwanga
   question:
   - q3
-  iso_code: null
-- lang_id: 431
+- iso_639_3:
+  - leb
+  lang_id: 431
   lang_name: Bisa
   question:
   - q3
-  iso_code: null
-- lang_id: 432
+- iso_639_3: null
+  lang_id: 432
   lang_name: lla
   question:
   - q3
-  iso_code: null
-- lang_id: 433
+- iso_639_3: null
+  lang_id: 433
   lang_name: Nkaya
   question:
   - q3
-  iso_code: null
-- lang_id: 434
+- iso_639_3:
+  - mgr
+  lang_id: 434
   lang_name: Mambwe
   question:
   - q3
-  iso_code: null
-- lang_id: 435
+- iso_639_3:
+  - bem
+  - lun
+  lang_id: 435
   lang_name: Lunda
   question:
   - q3
-  iso_code: null
-- lang_id: 436
+- iso_639_3:
+  - leh
+  lang_id: 436
   lang_name: Lenje
   question:
   - q3
-  iso_code: null
-- lang_id: 437
+- iso_639_3:
+  - lam
+  lang_id: 437
   lang_name: Lamba
   question:
   - q3
-  iso_code: null
-- lang_id: 438
+- iso_639_3:
+  - mck
+  lang_id: 438
   lang_name: Mbunda
   question:
   - q3
-  iso_code: null
-- lang_id: 439
+- iso_639_3:
+  - nse
+  - nya
+  - tum
+  lang_id: 439
   lang_name: Ngoni
   question:
   - q3
-  iso_code: null
-- lang_id: 440
+- iso_639_3:
+  - nde
+  lang_id: 440
   lang_name: Ndebele
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 441
+  - q103
+  - q3
+- iso_639_3:
+  - sna
+  lang_id: 441
   lang_name: Shona
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 442
+  - q103
+  - q3
+- iso_639_3:
+  - ven
+  lang_id: 442
   lang_name: Venda
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 443
+  - q103
+  - q3
+- iso_639_3:
+  - kck
+  lang_id: 443
   lang_name: Kalanga
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 444
+  - q103
+  - q3
+- iso_639_3:
+  - toi
+  lang_id: 444
   lang_name: Tonga
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 500
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 500
   lang_name: Lunyoli
   question:
   - q3
-  iso_code: null
-- lang_id: 501
+- iso_639_3: null
+  lang_id: 501
   lang_name: Rufumbia
   question:
   - q103
-  iso_code: null
-- lang_id: 501
+- iso_639_3:
+  - kin
+  lang_id: 501
   lang_name: Rufumbira
   question:
   - q3
-  iso_code: null
-- lang_id: 502
+- iso_639_3: null
+  lang_id: 502
   lang_name: Ruhororo
   question:
   - q3
-  iso_code: null
-- lang_id: 503
+- iso_639_3:
+  - cgg
+  lang_id: 503
   lang_name: Rukiga
   question:
   - q3
-  iso_code: null
-- lang_id: 504
+- iso_639_3: null
+  lang_id: 504
   lang_name: Rukonzo
   question:
   - q3
-  iso_code: null
-- lang_id: 505
+- iso_639_3: null
+  lang_id: 505
   lang_name: Runyarwanda
   question:
   - q3
-  iso_code: null
-- lang_id: 506
+- iso_639_3:
+  - nyo
+  lang_id: 506
   lang_name: Runyoro
   question:
   - q3
-  iso_code: null
-- lang_id: 506
+- iso_639_3: null
+  lang_id: 506
   lang_name: Runyoro - Rutooro
   question:
   - q103
-  iso_code: null
-- lang_id: 507
+- iso_639_3: null
+  lang_id: 507
   lang_name: Rutagwenda
   question:
   - q3
-  iso_code: null
-- lang_id: 508
+- iso_639_3:
+  - ttj
+  lang_id: 508
   lang_name: Rutooro
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 509
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 509
   lang_name: Rwamba
   question:
   - q3
-  iso_code: null
-- lang_id: 510
+- iso_639_3:
+  - nyn
+  lang_id: 510
   lang_name: Runyankole
   question:
   - q3
-  iso_code: null
-- lang_id: 510
+- iso_639_3: null
+  lang_id: 510
   lang_name: Runyankole - Rukiga
   question:
   - q103
-  iso_code: null
-- lang_id: 511
+- iso_639_3: null
+  lang_id: 511
   lang_name: Samia
   question:
   - q3
-  iso_code: null
-- lang_id: 550
+- iso_639_3:
+  - anw
+  lang_id: 550
   lang_name: Anang
   question:
   - q3
-  iso_code: null
-- lang_id: 551
+- iso_639_3: null
+  lang_id: 551
   lang_name: Ron
   question:
   - q3
-  iso_code: null
-- lang_id: 552
+- iso_639_3: null
+  lang_id: 552
   lang_name: Geomai
   question:
   - q3
-  iso_code: null
-- lang_id: 553
+- iso_639_3: null
+  lang_id: 553
   lang_name: Kadara
   question:
   - q3
-  iso_code: null
-- lang_id: 554
+- iso_639_3: null
+  lang_id: 554
   lang_name: Pyam
   question:
   - q3
-  iso_code: null
-- lang_id: 555
+- iso_639_3: null
+  lang_id: 555
   lang_name: Bahumono
   question:
   - q3
-  iso_code: null
-- lang_id: 556
+- iso_639_3: null
+  lang_id: 556
   lang_name: Boki
   question:
   - q3
-  iso_code: null
-- lang_id: 557
+- iso_639_3: null
+  lang_id: 557
   lang_name: Yakurr
   question:
   - q3
-  iso_code: null
-- lang_id: 558
+- iso_639_3:
+  - ish
+  lang_id: 558
   lang_name: Esan
   question:
   - q3
-  iso_code: null
-- lang_id: 559
+- iso_639_3: null
+  lang_id: 559
   lang_name: Bijim
   question:
   - q3
-  iso_code: null
-- lang_id: 560
+- iso_639_3: null
+  lang_id: 560
   lang_name: Ekpeye
   question:
   - q3
-  iso_code: null
-- lang_id: 561
+- iso_639_3: null
+  lang_id: 561
   lang_name: Jaba
   question:
   - q3
-  iso_code: null
-- lang_id: 562
+- iso_639_3: null
+  lang_id: 562
   lang_name: Birom
   question:
   - q3
-  iso_code: null
-- lang_id: 563
+- iso_639_3: null
+  lang_id: 563
   lang_name: Igede
   question:
   - q3
-  iso_code: null
-- lang_id: 564
+- iso_639_3: null
+  lang_id: 564
   lang_name: Pyem
   question:
   - q3
-  iso_code: null
-- lang_id: 565
+- iso_639_3: null
+  lang_id: 565
   lang_name: Taroh
   question:
   - q3
-  iso_code: null
-- lang_id: 566
+- iso_639_3: null
+  lang_id: 566
   lang_name: Korro
   question:
   - q3
-  iso_code: null
-- lang_id: 567
+- iso_639_3:
+  - ogo
+  lang_id: 567
   lang_name: Ogoni
   question:
   - q3
-  iso_code: null
-- lang_id: 568
+- iso_639_3: null
+  lang_id: 568
   lang_name: Mbembe
   question:
   - q3
-  iso_code: null
-- lang_id: 569
+- iso_639_3: null
+  lang_id: 569
   lang_name: Sayawa
   question:
   - q3
-  iso_code: null
-- lang_id: 580
+- iso_639_3: null
+  lang_id: 580
   lang_name: Itsekiri
   question:
   - q3
-  iso_code: null
-- lang_id: 803
+- iso_639_3: null
+  lang_id: 803
   lang_name: Tanchoni
   question:
   - q3
-  iso_code: null
-- lang_id: 804
+- iso_639_3: null
+  lang_id: 804
   lang_name: Bukusu
   question:
   - q3
-  iso_code: null
-- lang_id: 805
+- iso_639_3: null
+  lang_id: 805
   lang_name: Nyore
   question:
   - q3
-  iso_code: null
-- lang_id: 806
+- iso_639_3: null
+  lang_id: 806
   lang_name: Marama
   question:
   - q3
-  iso_code: null
-- lang_id: 807
+- iso_639_3: null
+  lang_id: 807
   lang_name: Sabaot
   question:
   - q3
-  iso_code: null
-- lang_id: 808
+- iso_639_3: null
+  lang_id: 808
   lang_name: Wanga
   question:
   - q3
-  iso_code: null
-- lang_id: 809
+- iso_639_3: null
+  lang_id: 809
   lang_name: Kabarasi
   question:
   - q3
-  iso_code: null
-- lang_id: 810
+- iso_639_3: null
+  lang_id: 810
   lang_name: Nyala
   question:
   - q3
-  iso_code: null
-- lang_id: 811
+- iso_639_3: null
+  lang_id: 811
   lang_name: Vatsotso
   question:
   - q3
-  iso_code: null
-- lang_id: 812
+- iso_639_3: null
+  lang_id: 812
   lang_name: Keiyo
   question:
   - q3
-  iso_code: null
-- lang_id: 813
+- iso_639_3: null
+  lang_id: 813
   lang_name: Kipsigis
   question:
   - q3
-  iso_code: null
-- lang_id: 814
+- iso_639_3: null
+  lang_id: 814
   lang_name: Tugen
   question:
   - q3
-  iso_code: null
-- lang_id: 815
+- iso_639_3: null
+  lang_id: 815
   lang_name: Boran
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 816
+  - q103
+  - q3
+- iso_639_3: null
+  lang_id: 816
   lang_name: Ethopian/Kenyan
   question:
   - q3
-  iso_code: null
-- lang_id: 817
+- iso_639_3: null
+  lang_id: 817
   lang_name: Indian
   question:
   - q3
-  iso_code: null
-- lang_id: 818
+- iso_639_3: null
+  lang_id: 818
   lang_name: Burji
   question:
   - q3
-  iso_code: null
-- lang_id: 819
+- iso_639_3:
+  - kuj
+  lang_id: 819
   lang_name: Kuria
   question:
   - q3
-  iso_code: null
-- lang_id: 820
+- iso_639_3: null
+  lang_id: 820
   lang_name: Gare
   question:
   - q3
-  iso_code: null
-- lang_id: 860
+- iso_639_3:
+  - sby
+  lang_id: 860
   lang_name: Soli
   question:
   - q3
-  iso_code: null
-- lang_id: 861
+- iso_639_3:
+  - nse
+  - tum
+  lang_id: 861
   lang_name: Senga
   question:
   - q3
-  iso_code: null
-- lang_id: 862
+- iso_639_3:
+  - cjk
+  lang_id: 862
   lang_name: Chokwe
   question:
   - q3
-  iso_code: null
-- lang_id: 863
+- iso_639_3: null
+  lang_id: 863
   lang_name: Luchazi
   question:
   - q3
-  iso_code: null
-- lang_id: 864
+- iso_639_3: null
+  lang_id: 864
   lang_name: Kwamashi
   question:
   - q3
-  iso_code: null
-- lang_id: 865
+- iso_639_3:
+  - toi
+  lang_id: 865
   lang_name: Tokaleya
   question:
   - q3
-  iso_code: null
-- lang_id: 866
+- iso_639_3:
+  - leb
+  lang_id: 866
   lang_name: Lala
   question:
   - q3
-  iso_code: null
-- lang_id: 995
+- iso_639_3:
+  - und
+  lang_id: 995
   lang_name: Other
   question:
-  - - q103
-    - q3
-  iso_code: null
-- lang_id: 998
+  - q103
+  - q3
+- iso_639_3:
+  - und
+  lang_id: 998
   lang_name: Refused
   question:
   - q3
-  iso_code: null
-- lang_id: 999
+- iso_639_3:
+  - und
+  lang_id: 999
   lang_name: Don't know
   question:
   - q3
-  iso_code: null
