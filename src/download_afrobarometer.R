@@ -46,24 +46,56 @@ download_afrobarometer <- function(dst) {
 
 download_afrobarometer(OUTPUT)
 
-"http://afrobarometer.org/sites/default/files/data/round-3/merged_r3_data.sav" %>%
-url() %>%
-haven::read_sav() %>%
-{bind_rows(
-  mutate(.,
-    question = "q3",
-    country = str_sub(as.character(as_factor(respno)), 1, 3),
-    label = as.character(haven::as_factor(afrob$q3)),
-    value = as.integer(unclass(afrob$q3))
-  ) %>% select(question, country, label, value),
-  mutate(.,
-    question = "q103",
-    country = str_sub(as.character(as_factor(respno)), 1, 3),
-    label = as.character(haven::as_factor(afrob$q103)),
-    value = as.integer(unclass(afrob$q103))
-  ) %>% select(question, country, label, value)
-)} %>% count(question, label, value, country) ->
-  afrob_langs()
-
-
-
+# afrobarometer_langs_r3 <- function() {
+#   "http://afrobarometer.org/sites/default/files/data/round-3/merged_r3_data.sav" %>%
+#   url() %>%
+#   haven::read_sav() %>%
+#   {bind_rows(
+#     mutate(.,
+#       question = "q3",
+#       country = str_sub(as.character(as_factor(respno)), 1, 3),
+#       label = as.character(haven::as_factor(afrob$q3)),
+#       value = as.integer(unclass(afrob$q3))
+#     ) %>% select(question, country, label, value),
+#     mutate(.,
+#       question = "q103",
+#       country = str_sub(as.character(as_factor(respno)), 1, 3),
+#       label = as.character(haven::as_factor(afrob$q103)),
+#       value = as.integer(unclass(afrob$q103))
+#     ) %>% select(question, country, label, value)
+#   )} %>% count(question, label, value, country)
+# }
+#
+# afrobarometer_langs_r2 <- function() {
+#   "http://afrobarometer.org/sites/default/files/data/round-2/merged_r2_data.sav" %>%
+#     url() %>%
+#     haven::read_sav() %>%
+#     {bind_rows(
+#       mutate(.,
+#              question = "q83",
+#              country = str_sub(as.character(as_factor(respno)), 1, 3),
+#              label = as.character(haven::as_factor(afrob$q83)),
+#              value = as.integer(unclass(afrob$q83))
+#       ) %>% select(question, country, label, value),
+#       mutate(.,
+#              question = "q97",
+#              country = str_sub(as.character(as_factor(respno)), 1, 3),
+#              label = as.character(haven::as_factor(afrob$q97)),
+#              value = as.integer(unclass(afrob$q97))
+#       ) %>% select(question, country, label, value)
+#     )} %>% count(question, label, value, country)
+# }
+#
+# afrobarometer_langs_r1 <- function() {
+#   "http://afrobarometer.org/sites/default/files/data/round-1/merged_r1_data.sav" %>%
+#     url() %>%
+#     haven::read_sav() %>%
+#     { mutate(.,
+#              question = "language",
+#              country = str_sub(as.character(as_factor(respno)), 1, 3),
+#              label = as.character(haven::as_factor(afrob$language)),
+#              value = as.integer(unclass(afrob$language))
+#       ) %>% select(question, country, label, value),
+#     } %>% count(question, label, value, country)
+# }
+#
