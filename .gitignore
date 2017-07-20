@@ -4,3 +4,4 @@
 .Ruserdata
 external/*
 !.keep
+.ipynb_checkpoints

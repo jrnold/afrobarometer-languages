@@ -1,729 +1,753 @@
-- lang_id: -1
+- iso_code:
+  - und
+  lang_id: -1
   lang_name: Missing
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - und
-- lang_id: 1
+  - Q103
+  - Q2
+- iso_code:
+  - eng
+  lang_id: 1
   lang_name: English
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - eng
-- lang_id: 2
+  - Q103
+  - Q2
+- iso_code:
+  - fra
+  lang_id: 2
   lang_name: French
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - fra
-- lang_id: 3
+  - Q103
+  - Q2
+- iso_code:
+  - por
+  lang_id: 3
   lang_name: Portuguese
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - por
-- lang_id: 4
+  - Q103
+  - Q2
+- iso_code:
+  - swh
+  lang_id: 4
   lang_name: Kiswahili
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - swh
-- lang_id: 5
+  - Q103
+  - Q2
+- iso_code:
+  - ara
+  - arb
+  lang_id: 5
   lang_name: Arabic
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - ara
-    - arb
-- lang_id: 6
+  - Q103
+  - Q2
+- iso_code:
+  - ajg
+  lang_id: 6
   lang_name: Adja
   question:
   - Q2
-  iso_code:
-  - ajg
-- lang_id: 7
+- iso_code:
+  - afr
+  lang_id: 7
   lang_name: Afrikaans
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - afr
-- lang_id: 8
-  lang_name: Amazigh
-  question:
+  - Q103
   - Q2
-  iso_code:
+- iso_code:
   - tzm
   - zgh
-  note: >
-    This is another name for Berber lanugages.
-    - tzm: Central Atlas Tamazigh
+  lang_id: 8
+  lang_name: Amazigh
+  note: 'This is another name for Berber lanugages. - tzm: Central Atlas Tamazigh
     - zgh: Tamazight, Standard Moroccan
-- lang_id: 9
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - bam
+  lang_id: 9
   lang_name: Bambara
   question:
   - Q2
-  iso_code:
-  - bam
-- lang_id: 10
+- iso_code:
+  - bas
+  - bsq
+  - ngn
+  lang_id: 10
   lang_name: Bassa
   question:
   - Q2
-  iso_code:
-  - - bas
-    - bsq
-    - ngn
-- lang_id: 11
+- iso_code:
+  - bbo
+  - bmq
+  - box
+  - bwq
+  lang_id: 11
   lang_name: Bobo
   question:
   - Q2
-  iso_code:
-  - - bbo
-    - bmq
-    - box
-    - bwq
-- lang_id: 12
+- iso_code:
+  - nya
+  lang_id: 12
   lang_name: Chichewa
   question:
   - Q2
-  iso_code:
-  - nya
-- lang_id: 13
+- iso_code:
+  - dyu
+  lang_id: 13
   lang_name: Dioula
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - dyu
-- lang_id: 14
+  - Q103
+  - Q2
+- iso_code:
+  - fon
+  lang_id: 14
   lang_name: Fon
   question:
   - Q2
-  iso_code:
-  - fon
-- lang_id: 15
+- iso_code:
+  - fuh
+  - ful
+  - fuq
+  lang_id: 15
   lang_name: Fulfuldé
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - fuh
-    - ful
-    - fuq
-- lang_id: 16
+  - Q103
+  - Q2
+- iso_code:
+  - hau
+  lang_id: 16
   lang_name: Haoussa
   question:
   - Q2
-  iso_code:
+- iso_code:
   - hau
-- lang_id: 17
+  lang_id: 17
   lang_name: Hausa
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - hau
-- lang_id: 18
+  - Q103
+  - Q2
+- iso_code:
+  - haq
+  lang_id: 18
   lang_name: Kiha
   question:
   - Q2
-  iso_code:
-  - haq
-- lang_id: 19
+- iso_code:
+  - han
+  lang_id: 19
   lang_name: Kihangaza
+  note: 'Alternative name of Hangaza. https://www.ethnologue.com/language/han
+
+    '
   question:
   - Q2
-  iso_code:
-  - han
-  note: >
-    Alternative name of Hangaza. https://www.ethnologue.com/language/han
-- lang_id: 20
+- iso_code:
+  - kqs
+  - kss
+  lang_id: 20
   lang_name: Kissi
   question:
   - Q2
-  iso_code:
-  - - kqs
-    - kss
-- lang_id: 21
+- iso_code:
+  - xon
+  lang_id: 21
   lang_name: Konkomba
   question:
   - Q2
-  iso_code:
-  - xon
-- lang_id: 22
+- iso_code:
+  - kno
+  lang_id: 22
   lang_name: Kono
   question:
   - Q2
-  iso_code:
-  - kno
-- lang_id: 23
+- iso_code:
+  - klu
+  - ted
+  lang_id: 23
   lang_name: Kru
   question:
   - Q2
-  iso_code:
-  - - klu
-    - ted
-- lang_id: 24
+- iso_code:
+  - lam
+  lang_id: 24
   lang_name: Lamba
   question:
   - Q2
-  iso_code:
-  - lam
-- lang_id: 25
+- iso_code:
+  - lob
+  lang_id: 25
   lang_name: Lobi
   question:
   - Q2
-  iso_code:
-  - lob
-- lang_id: 26
+- iso_code:
+  - luo
+  lang_id: 26
   lang_name: Luo
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - luo
-- lang_id: 27
+  - Q103
+  - Q2
+- iso_code:
+  - mev
+  lang_id: 27
   lang_name: Mano
   question:
   - Q2
-  iso_code:
-  - mev
-- lang_id: 28
+- iso_code:
+  - men
+  lang_id: 28
   lang_name: Mende
   question:
   - Q2
-  iso_code:
-  - men
-- lang_id: 29
+- iso_code:
+  - ndc
+  lang_id: 29
   lang_name: Ndau
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - ndc
-- lang_id: 30
+  - Q103
+  - Q2
+- iso_code:
+  - nde
+  - nbl
+  lang_id: 30
   lang_name: Ndebele
   question:
   - Q2
-  iso_code:
-  - - nde
-    - nbl
-- lang_id: 31
+- iso_code:
+  - nya
+  lang_id: 31
   lang_name: Nyanja
   question:
   - Q2
-  iso_code:
-  - nya
-- lang_id: 32
+- iso_code:
+  - dyi
+  - plr
+  - seb
+  - sef
+  - sen
+  - sep
+  - seq
+  - sev
+  - tgw
+  lang_id: 32
   lang_name: Sénoufo
   question:
   - Q2
-  iso_code:
-  - - dyi
-    - plr - seb - sef - sen - sep - seq - sev - tgw
-- lang_id: 33
+- iso_code:
+  - tsn
+  lang_id: 33
   lang_name: Setswana
   question:
   - Q2
-  iso_code:
-  - tsn
-- lang_id: 34
+- iso_code:
+  - tso
+  lang_id: 34
   lang_name: Shangaan
   question:
   - Q2
-  iso_code:
-  - tso
-- lang_id: 35
+- iso_code:
+  - ssw
+  lang_id: 35
   lang_name: siSwati
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - ssw
-- lang_id: 36
+  - Q103
+  - Q2
+- iso_code:
+  - toi
+  - ndc
+  - tso
+  lang_id: 36
   lang_name: Tonga
   question:
   - Q2
-  iso_code:
-  - - toi
-    - ndc
-    - tso
-- lang_id: 37
+- iso_code:
+  - vai
+  lang_id: 37
   lang_name: Vai
   question:
   - Q2
-  iso_code:
-  - vai
-- lang_id: 38
+- iso_code:
+  - ven
+  lang_id: 38
   lang_name: Venda
   question:
   - Q2
-  iso_code:
-  - ven
-- lang_id: 39
+- iso_code:
+  - yor
+  lang_id: 39
   lang_name: Yoruba
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - yor
-- lang_id: 100
+  - Q103
+  - Q2
+- iso_code:
+  - fon
+  lang_id: 100
   lang_name: Fon
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - fon
-- lang_id: 101
+  - Q103
+  - Q2
+- iso_code:
+  - ajg
+  lang_id: 101
   lang_name: Adja
   question:
   - Q103
-  iso_code:
-  - ajg
-- lang_id: 102
+- iso_code:
+  - bba
+  lang_id: 102
   lang_name: Bariba
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - bba
-- lang_id: 103
+  - Q103
+  - Q2
+- iso_code:
+  - ddn
+  lang_id: 103
   lang_name: Dendi
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - ddn
-- lang_id: 104
+  - Q103
+  - Q2
+- iso_code:
+  - yor
+  lang_id: 104
   lang_name: Yoruba
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - yor
-- lang_id: 105
+  - Q103
+  - Q2
+- iso_code:
+  - tbz
+  lang_id: 105
   lang_name: Otamari
   question:
   - Q2
-  iso_code:
-  - tbz
-- lang_id: 106
+- iso_code:
+  - fue
+  - fuh
+  - ful
+  lang_id: 106
   lang_name: Peulh
   question:
   - Q2
-  iso_code:
-  - - fue
-    - fuh
-    - ful
-- lang_id: 107
-  lang_name: Yoa
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - pil
-  note: >
-    Maybe Yom, spoken by Yowa people. https://www.ethnologue.com/language/pil
-- lang_id: 108
-  lang_name: Boo
+  lang_id: 107
+  lang_name: Yoa
+  note: 'Maybe Yom, spoken by Yowa people. https://www.ethnologue.com/language/pil
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - bkq
-  note: >
-    Boko language https://en.wikipedia.org/wiki/Boko_language
-- lang_id: 140
+  lang_id: 108
+  lang_name: Boo
+  note: 'Boko language https://en.wikipedia.org/wiki/Boko_language
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - tsn
+  lang_id: 140
   lang_name: Setswana
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - tsn
-- lang_id: 141
+  - Q103
+  - Q2
+- iso_code:
+  - hio
+  lang_id: 141
   lang_name: Sesarwa
   question:
   - Q2
-  iso_code:
-  - hio
-- lang_id: 142
+- iso_code:
+  - xkv
+  lang_id: 142
   lang_name: Sekgalagadi
   question:
   - Q2
-  iso_code:
-  - xkv
-- lang_id: 143
+- iso_code:
+  - sbs
+  lang_id: 143
   lang_name: Sesubia
   question:
   - Q2
-  iso_code:
-  - sbs
-- lang_id: 144
+- iso_code:
+  - kck
+  lang_id: 144
   lang_name: Ikalanga/Sekala
+  notes: 'Alt name for Kalanga https://www.ethnologue.com/language/kck
+
+    '
   question:
   - Q2
-  iso_code:
-  - kck
-  notes: >
-    Alt name for Kalanga https://www.ethnologue.com/language/kck
-- lang_id: 145
+- iso_code:
+  - her
+  lang_id: 145
   lang_name: Seherero
   question:
   - Q2
-  iso_code:
-  - her
-- lang_id: 146
+- iso_code:
+  - mhw
+  lang_id: 146
   lang_name: Sembukushu
   question:
   - Q2
-  iso_code:
-  - mhw
-- lang_id: 147
+- iso_code:
+  - brl
+  lang_id: 147
   lang_name: Sebirwa
   question:
   - Q2
-  iso_code:
-  - brl
-- lang_id: 148
+- iso_code:
+  - xkv
+  lang_id: 148
   lang_name: Sengologa
   question:
   - Q2
-  iso_code:
-  - xkv
-- lang_id: 149
-  lang_name: Seyeyi
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - yey
-  note: >
-    Alt name for Yeyi. https://www.ethnologue.com/country/BW/languages
-- lang_id: 150
-  lang_name: Afrikaans/Seburu
+  lang_id: 149
+  lang_name: Seyeyi
+  note: 'Alt name for Yeyi. https://www.ethnologue.com/country/BW/languages
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - afr
-  note: >
-    Seburu is a name for Afrikaans
-- lang_id: 151
-  lang_name: Sekgothu
+  lang_id: 150
+  lang_name: Afrikaans/Seburu
+  note: 'Seburu is a name for Afrikaans
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - naq
-  note: >
-    Some sources suggest that Nama and Sekgothu are the same language.
-- lang_id: 152
-  lang_name: Setswapong
+  lang_id: 151
+  lang_name: Sekgothu
+  note: 'Some sources suggest that Nama and Sekgothu are the same language.
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - two
-  note: >
-    Alt name for Tswapong
-- lang_id: 180
+  lang_id: 152
+  lang_name: Setswapong
+  note: 'Alt name for Tswapong
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - mos
+  lang_id: 180
   lang_name: Mooré
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - mos
-- lang_id: 181
+  - Q103
+  - Q2
+- iso_code:
+  - dyu
+  lang_id: 181
   lang_name: Dioula
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - dyu
-- lang_id: 182
+  - Q103
+  - Q2
+- iso_code:
+  - fuh
+  - ful
+  - fuq
+  lang_id: 182
   lang_name: Fulfuldé
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - fuh
-    - ful
-    - fuq
-- lang_id: 183
+  - Q103
+  - Q2
+- iso_code:
+  - gux
+  lang_id: 183
   lang_name: Gulmacema
   question:
   - Q2
-  iso_code:
-  - gux
-- lang_id: 184
+- iso_code:
+  - gur
+  lang_id: 184
   lang_name: Gourounsi
   question:
   - Q2
-  iso_code:
-  - gur
-- lang_id: 185
+- iso_code:
+  - bib
+  lang_id: 185
   lang_name: Bissa
   question:
   - Q2
-  iso_code:
-  - bib
-- lang_id: 186
+- iso_code:
+  - bfo
+  lang_id: 186
   lang_name: Birifor
   question:
   - Q2
-  iso_code:
-  - bfo
-- lang_id: 187
+- iso_code:
+  - box
+  - bwj
+  - bwy
+  lang_id: 187
   lang_name: Bwamu
   question:
   - Q2
-  iso_code:
-  - - box
-    - bwj
-    - bwy
-- lang_id: 188
+- iso_code:
+  - dgi
+  lang_id: 188
   lang_name: Dagari
   question:
   - Q2
-  iso_code:
-  - dgi
-- lang_id: 189
+- iso_code:
+  - kfz
+  lang_id: 189
   lang_name: Fulse
   question:
   - Q2
-  iso_code:
-  - kfz
-- lang_id: 190
+- iso_code:
+  - cme
+  lang_id: 190
   lang_name: Goin
   question:
   - Q2
-  iso_code:
-  - cme
-- lang_id: 191
+- iso_code:
+  - kza
+  - xrb
+  lang_id: 191
   lang_name: Karaboro
   question:
   - Q2
-  iso_code:
-  - - kza
-    - xrb
-- lang_id: 192
+- iso_code:
+  - xsm
+  lang_id: 192
   lang_name: Kassena
   question:
   - Q2
-  iso_code:
-  - xsm
-- lang_id: 193
+- iso_code:
+  - lob
+  lang_id: 193
   lang_name: Lobi
   question:
   - Q2
-  iso_code:
-  - lob
-- lang_id: 194
+- iso_code:
+  - rkm
+  lang_id: 194
   lang_name: Marka
   question:
   - Q2
-  iso_code:
-  - rkm
-- lang_id: 195
+- iso_code:
+  - knz
+  - sbd
+  - stj
+  - sym
+  lang_id: 195
   lang_name: Samo
   question:
   - Q2
-  iso_code:
-  - - knz
-    - sbd
-    - stj
-    - sym
-- lang_id: 196
+- iso_code:
+  - dyi
+  - plr
+  - seb
+  - sef
+  - sen
+  - sep
+  - seq
+  - sev
+  - tgw
+  lang_id: 196
   lang_name: Sénoufo
   question:
   - Q2
-  iso_code:
-  - - dyi
-    - plr - seb - sef - sen - sep - seq - sev - tgw
-- lang_id: 197
+- iso_code:
+  - hmb
+  lang_id: 197
   lang_name: Sonrai
   question:
   - Q2
-  iso_code:
-  - hmb
-- lang_id: 198
-  lang_name: Toussian
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - tsp
   - wib
-  note: >
-    Include both Northern and Southern Toussian
-- lang_id: 199
+  lang_id: 198
+  lang_name: Toussian
+  note: 'Include both Northern and Southern Toussian
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - rkm
+  lang_id: 199
   lang_name: Dafing
   question:
   - Q2
-  iso_code:
-  - rkm
-- lang_id: 200
+- iso_code:
+  - bbo
+  - bmq
+  - box
+  - bwq
+  lang_id: 200
   lang_name: Bobo
   question:
   - Q2
-  iso_code:
-  - - bbo
-    - bmq
-    - box
-    - bwq
-- lang_id: 220
+- iso_code:
+  - kea
+  lang_id: 220
   lang_name: Crioulo
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - kea
-- lang_id: 260
+  - Q103
+  - Q2
+- iso_code:
+  - aka
+  - fat
+  - twi
+  lang_id: 260
   lang_name: Akan
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - aka
-    - fat
-    - twi
-- lang_id: 261
+  - Q103
+  - Q2
+- iso_code:
+  - ewe
+  lang_id: 261
   lang_name: Ewe
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - ewe
-- lang_id: 262
+  - Q103
+  - Q2
+- iso_code:
+  - adq
+  - gaa
+  lang_id: 262
   lang_name: Ga/Dangbe
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - adq
-    - gaa
-- lang_id: 263
+  - Q103
+  - Q2
+- iso_code:
+  - dag
+  lang_id: 263
   lang_name: Dagbani
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - dag
-- lang_id: 264
+  - Q103
+  - Q2
+- iso_code:
+  - hau
+  lang_id: 264
   lang_name: Hausa
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - hau
-- lang_id: 265
+  - Q103
+  - Q2
+- iso_code:
+  - dga
+  lang_id: 265
   lang_name: Dagaree
   question:
   - Q2
-  iso_code:
-  - dga
-- lang_id: 266
+- iso_code:
+  - wlx
+  lang_id: 266
   lang_name: Waala
   question:
   - Q2
-  iso_code:
-  - wlx
-- lang_id: 267
+- iso_code:
+  - mos
+  lang_id: 267
   lang_name: Moshie
   question:
   - Q2
-  iso_code:
-  - mos
-- lang_id: 268
-  lang_name: Sissala
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - sil
   - ssl
-  note: >
-    Include both Sisaala, Tumulung (sil) and
-    Sisaala, Western (ssl).
-- lang_id: 269
-  lang_name: Kotonkoli
+  lang_id: 268
+  lang_name: Sissala
+  note: 'Include both Sisaala, Tumulung (sil) and Sisaala, Western (ssl).
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - kdh
-  note: >
-    Alternative name for Tem
-- lang_id: 270
-  lang_name: Talensi
+  lang_id: 269
+  lang_name: Kotonkoli
+  note: 'Alternative name for Tem
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - gur
-  note: >
-    Alternative name for Farefare
-- lang_id: 271
-  lang_name: Kasina
+  lang_id: 270
+  lang_name: Talensi
+  note: 'Alternative name for Farefare
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - xsm
-  note: >
-    Name is close to Kasem (Kassena).
-- lang_id: 272
+  lang_id: 271
+  lang_name: Kasina
+  note: 'Name is close to Kasem (Kassena).
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - gur
+  lang_id: 272
   lang_name: Frafra
   question:
   - Q2
-  iso_code:
-  - gur
-- lang_id: 273
+- iso_code:
+  - mis
+  lang_id: 273
   lang_name: Gruni
   question:
   - Q2
-  iso_code:
-  - mis
-- lang_id: 274
+- iso_code:
+  - bim
+  lang_id: 274
   lang_name: Bimoba
   question:
   - Q2
-  iso_code:
-  - bim
-- lang_id: 275
+- iso_code:
+  - bwu
+  lang_id: 275
   lang_name: Bulsa
   question:
   - Q2
-  iso_code:
-  - bwu
-- lang_id: 276
-  lang_name: Nabdam
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - gur
-  note: >
-    Alt name for Farefare dialect
-- lang_id: 277
-  lang_name: Kusasi
+  lang_id: 276
+  lang_name: Nabdam
+  note: 'Alt name for Farefare dialect
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - kus
-  note: >
-    Alt name for Kusaal
-- lang_id: 278
+  lang_id: 277
+  lang_name: Kusasi
+  note: 'Alt name for Kusaal
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - maw
+  lang_id: 278
   lang_name: Mampruli
   question:
   - Q2
-  iso_code:
-  - maw
-- lang_id: 279
+- iso_code:
+  - xon
+  lang_id: 279
   lang_name: Konkomba
   question:
   - Q2
-  iso_code:
-  - xon
-- lang_id: 280
-  lang_name: Guan
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - afu
   - cpn
   - ncu
@@ -739,362 +763,368 @@
   - nlu
   - nkq
   - nko
-  note: >
-    Include all languages that are in the "Guang" languages
-- lang_id: 281
+  lang_id: 280
+  lang_name: Guan
+  note: 'Include all languages that are in the "Guang" languages
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - gjn
+  lang_id: 281
   lang_name: Gonja
   question:
   - Q2
-  iso_code:
-  - gjn
-- lang_id: 282
+- iso_code:
+  - nzi
+  lang_id: 282
   lang_name: Nzema
   question:
   - Q2
-  iso_code:
-  - nzi
-- lang_id: 283
+- iso_code:
+  - unk
+  lang_id: 283
   lang_name: Other Northern Languages
+  note: 'Unknown
+
+    '
   question:
   - Q2
-  iso_code:
-  - unk
-  note: >
-    Unknown
-- lang_id: 300
+- iso_code:
+  - kik
+  lang_id: 300
   lang_name: Kikuyu
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - kik
-- lang_id: 301
+  - Q103
+  - Q2
+- iso_code:
+  - luo
+  lang_id: 301
   lang_name: Luo
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - luo
-- lang_id: 302
+  - Q103
+  - Q2
+- iso_code:
+  - lkb
+  - lks
+  - lto
+  - luy
+  - lwg
+  - nle
+  lang_id: 302
   lang_name: Luhya
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - lkb
-    - lks
-    - lto
-    - luy
-    - lwg
-    - nle
-- lang_id: 303
+  - Q103
+  - Q2
+- iso_code:
+  - kam
+  lang_id: 303
   lang_name: Kamba
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - kam
-- lang_id: 304
+  - Q103
+  - Q2
+- iso_code:
+  - enb
+  - eyo
+  - kln
+  - niq
+  - oki
+  - sgc
+  - spy
+  - tec
+  - tuy
+  lang_id: 304
   lang_name: Kalenjin
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - enb
-    - eyo
-    - kln
-    - niq
-    - oki
-    - sgc
-    - spy
-    - tec
-    - tuy
-- lang_id: 305
+  - Q103
+  - Q2
+- iso_code:
+  - guz
+  lang_id: 305
   lang_name: Kisii
   question:
   - Q2
-  iso_code:
-  - guz
-- lang_id: 306
+- iso_code:
+  - mer
+  - ebu
+  lang_id: 306
   lang_name: Meru / Embu
   question:
   - Q2
-  iso_code:
-  - mer
-  - ebu
-- lang_id: 307
+- iso_code:
+  - mas
+  - saq
+  lang_id: 307
   lang_name: Maasai / Samburu
   question:
   - Q2
-  iso_code:
-  - mas
-  - saq
-- lang_id: 308
-  lang_name: Mijikenda
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - dig
   - dug
   - nyf
   - seg
-- lang_id: 309
+  lang_id: 308
+  lang_name: Mijikenda
+  question:
+  - Q2
+- iso_code:
+  - dav
+  lang_id: 309
   lang_name: Taita
   question:
   - Q2
-  iso_code:
-  - dav
-- lang_id: 310
+- iso_code:
+  - som
+  lang_id: 310
   lang_name: Somali
   question:
   - Q2
-  iso_code:
-  - som
-- lang_id: 311
+- iso_code:
+  - kln
+  - pko
+  lang_id: 311
   lang_name: Pokot
   question:
   - Q2
-  iso_code:
-  - - kln
-    - pko
-- lang_id: 312
+- iso_code:
+  - tuv
+  lang_id: 312
   lang_name: Turkana
   question:
   - Q2
-  iso_code:
-  - tuv
-- lang_id: 313
+- iso_code:
+  - thk
+  lang_id: 313
   lang_name: Tharaka
+  note: 'Alt name for Kitharaka
+
+    '
   question:
   - Q2
-  iso_code:
-  - thk
-  note: >
-    Alt name for Kitharaka
-- lang_id: 314
+- iso_code:
+  - teo
+  lang_id: 314
   lang_name: Teso
   question:
   - Q2
-  iso_code:
-  - teo
-- lang_id: 315
+- iso_code:
+  - spy
+  lang_id: 315
   lang_name: Sabaot
   question:
   - Q2
-  iso_code:
-  - spy
-- lang_id: 316
+- iso_code:
+  - rel
+  lang_id: 316
   lang_name: Rendile
   question:
   - Q2
-  iso_code:
-  - rel
-- lang_id: 317
-  lang_name: Pokomo
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - pkb
-  note: >
-    Alt name for Kipfokomo
-- lang_id: 318
-  lang_name: Mbeere
+  lang_id: 317
+  lang_name: Pokomo
+  note: 'Alt name for Kipfokomo
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - ebu
-  note: >
-    Dialect of Kiembu. https://www.ethnologue.com/country/KE/languages
-- lang_id: 319
+  lang_id: 318
+  lang_name: Mbeere
+  note: 'Dialect of Kiembu. https://www.ethnologue.com/country/KE/languages
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - kuj
+  lang_id: 319
   lang_name: Kuria
   question:
   - Q2
-  iso_code:
-  - kuj
-- lang_id: 320
+- iso_code:
+  - gax
+  - orm
+  lang_id: 320
   lang_name: Borana
   question:
   - Q2
-  iso_code:
-  - gax
-  - orm
-- lang_id: 322
-  lang_name: Oroma
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - gax
   - hae
   - orc
   - gaz
-  note: >
-    Include languages in the Oromo macrolanguage
-- lang_id: 340
+  lang_id: 322
+  lang_name: Oroma
+  note: 'Include languages in the Oromo macrolanguage
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - sot
+  lang_id: 340
   lang_name: Sesotho
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - sot
-- lang_id: 341
+  - Q103
+  - Q2
+- iso_code:
+  - ssw
+  lang_id: 341
   lang_name: Sephuthi
   question:
   - Q2
-  iso_code:
-  - ssw
-- lang_id: 342
+- iso_code:
+  - xho
+  lang_id: 342
   lang_name: Sethepu
   question:
   - Q2
-  iso_code:
-  - xho
-- lang_id: 380
+- iso_code:
+  - bas
+  - bsq
+  - ngn
+  lang_id: 380
   lang_name: Bassa
   question:
   - Q2
-  iso_code:
-  - - bas
-    - bsq
-    - ngn
-- lang_id: 381
+- iso_code:
+  - blh
+  lang_id: 381
   lang_name: Belle
   question:
   - Q2
-  iso_code:
-  - blh
-- lang_id: 382
+- iso_code:
+  - dee
+  lang_id: 382
   lang_name: Dei
   question:
   - Q2
-  iso_code:
-  - dee
-- lang_id: 383
+- iso_code:
+  - bza
+  lang_id: 383
   lang_name: Gbandi
   question:
   - Q2
-  iso_code:
-  - bza
-- lang_id: 384
+- iso_code:
+  - dnj
+  lang_id: 384
   lang_name: Gio
   question:
   - Q2
-  iso_code:
-  - dnj
-- lang_id: 385
+- iso_code:
+  - gol
+  lang_id: 385
   lang_name: Gola
   question:
   - Q2
-  iso_code:
-  - gol
-- lang_id: 386
+- iso_code:
+  - gbo
+  - gec
+  - grb
+  - grj
+  - grv
+  - gry
+  lang_id: 386
   lang_name: Grebo
   question:
   - Q2
-  iso_code:
-  - - gbo
-    - gec
-    - grb
-    - grj
-    - grv
-    - gry
-- lang_id: 387
+- iso_code:
+  - kqs
+  - kss
+  lang_id: 387
   lang_name: Kissi
   question:
   - Q2
-  iso_code:
-  - - kqs
-    - kss
-- lang_id: 388
+- iso_code:
+  - kpe
+  - xpe
+  lang_id: 388
   lang_name: Kpelle
   question:
   - Q2
-  iso_code:
-  - - kpe
-    - xpe
-- lang_id: 389
+- iso_code:
+  - kqo
+  - krw
+  lang_id: 389
   lang_name: Krahn
   question:
   - Q2
-  iso_code:
-  - - kqo
-    - krw
-- lang_id: 390
+- iso_code:
+  - klu
+  - ted
+  lang_id: 390
   lang_name: Kru
   question:
   - Q2
-  iso_code:
-  - - klu
-    - ted
-- lang_id: 391
+- iso_code:
+  - lom
+  lang_id: 391
   lang_name: Lorma
   question:
   - Q2
-  iso_code:
-  - lom
-- lang_id: 392
+- iso_code:
+  - mzj
+  lang_id: 392
   lang_name: Mandingo
   question:
   - Q2
-  iso_code:
-  - mzj
-- lang_id: 393
+- iso_code:
+  - mev
+  lang_id: 393
   lang_name: Mano
   question:
   - Q2
-  iso_code:
-  - mev
-- lang_id: 394
+- iso_code:
+  - men
+  lang_id: 394
   lang_name: Mende
   question:
   - Q2
-  iso_code:
-  - men
-- lang_id: 395
+- iso_code:
+  - vai
+  lang_id: 395
   lang_name: Vai
   question:
   - Q2
-  iso_code:
-  - vai
-- lang_id: 396
+- iso_code:
+  - lir
+  lang_id: 396
   lang_name: Liberian Simple English
   question:
   - Q103
-  iso_code:
+- iso_code:
   - lir
-- lang_id: 396
+  lang_id: 396
   lang_name: Simple Liberian English
+  note: 'Assume this is the Liberian pidgin English since Standard English is included
+    as a separate entry.
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - lir
-  note: >
-    Assume this is the Liberian pidgin English since
-    Standard English is included as a separate entry.
-- lang_id: 397
+  lang_id: 397
   lang_name: Sapo
   question:
   - Q2
-  iso_code:
-  - lir
-- lang_id: 397
+- iso_code:
+  - eng
+  lang_id: 397
   lang_name: Standard English
   question:
   - Q103
-  iso_code:
-  - eng
-- lang_id: 420
-  lang_name: '"Official" Malagasy'
-  question:
-  - - Q103
-    - Q2
-  iso_code:
+- iso_code:
   - plt
-- lang_id: 421
-  lang_name: Malagasy dialect
+  lang_id: 420
+  lang_name: '"Official" Malagasy'
   question:
   - Q103
   - Q2
-  iso_code:
+- iso_code:
   - bhr
   - bmm
   - buc
@@ -1106,3082 +1136,3163 @@
   - txy
   - xmv
   - xmw
-- lang_id: 422
-  lang_name: Chinois
+  lang_id: 421
+  lang_name: Malagasy dialect
   question:
+  - Q103
   - Q2
-  iso_code:
+- iso_code:
   - cmn
   - yue
-  note: >
-    French for Chinese. Use Cantonese and Mandarin.
-    https://en.wikipedia.org/wiki/Chinese_people_in_Madagascar
-- lang_id: 423
-  lang_name: Comorien
+  lang_id: 422
+  lang_name: Chinois
+  note: 'French for Chinese. Use Cantonese and Mandarin. https://en.wikipedia.org/wiki/Chinese_people_in_Madagascar
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - zdj
   - wni
   - swb
   - wlc
-- lang_id: 424
-  lang_name: Indo-pakistanais
+  lang_id: 423
+  lang_name: Comorien
   question:
   - Q2
-  iso_code:
+- iso_code:
   - mul
-  note: >
-    Multiple and unknown languages
-- lang_id: 460
+  lang_id: 424
+  lang_name: Indo-pakistanais
+  note: 'Multiple and unknown languages
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - tum
+  lang_id: 460
   lang_name: Chitumbuka
   question:
   - Q103
   - Q2
-  iso_code:
-  - tum
-- lang_id: 461
+- iso_code:
+  - nya
+  lang_id: 461
   lang_name: Chichewa
   question:
   - Q103
-  iso_code:
-  - nya
-- lang_id: 461
+- iso_code:
+  - nyy
+  lang_id: 461
   lang_name: Chinkhonde
   question:
   - Q2
-  iso_code:
-  - nyy
-- lang_id: 462
+- iso_code:
+  - lam
+  lang_id: 462
   lang_name: Chilambya
   question:
   - Q2
-  iso_code:
-  - lam
-- lang_id: 463
+- iso_code:
+  - nya
+  lang_id: 463
   lang_name: Chichewa
   question:
   - Q2
-  iso_code:
-  - nya
-- lang_id: 464
+- iso_code:
+  - yao
+  lang_id: 464
   lang_name: Chiyao
   question:
   - Q2
-  iso_code:
-  - yao
-- lang_id: 465
+- iso_code:
+  - nya
+  lang_id: 465
   lang_name: Chingoni
   question:
   - Q2
-  iso_code:
-  - nya
-- lang_id: 466
+- iso_code:
+  - lon
+  lang_id: 466
   lang_name: Chilomwe
   question:
   - Q2
-  iso_code:
-  - lon
-- lang_id: 467
+- iso_code:
+  - swk
+  lang_id: 467
   lang_name: Chimang’anja
+  note: 'Dialect of Malawi Sena. https://www.ethnologue.com/language/swk
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - swk
-  note: >
-    Dialect of Malawi Sena. https://www.ethnologue.com/language/swk
-- lang_id: 468
+  lang_id: 468
   lang_name: Chisena
   question:
   - Q2
-  iso_code:
-  - swk
-- lang_id: 469
+- iso_code:
+  - ndh
+  lang_id: 469
   lang_name: Chisukwa
   question:
   - Q2
-  iso_code:
-  - ndh
-- lang_id: 470
+- iso_code:
+  - nkv
+  - she
+  lang_id: 470
   lang_name: Chisenga
   question:
   - Q2
-  iso_code:
-  - - nkv
-    - she
-- lang_id: 471
+- iso_code:
+  - tog
+  lang_id: 471
   lang_name: Chitonga
   question:
   - Q2
-  iso_code:
-  - tog
-- lang_id: 472
-  lang_name: Chindali
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - ndh
-  note: >
-    Alt name for Ndali
-- lang_id: 473
-  lang_name: Chinyakyusa
+  lang_id: 472
+  lang_name: Chindali
+  note: 'Alt name for Ndali
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - nyy
-  note: >
-    Name similar to Nyakyusa-Ngonde
-- lang_id: 500
+  lang_id: 473
+  lang_name: Chinyakyusa
+  note: 'Name similar to Nyakyusa-Ngonde
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - mey
+  lang_id: 500
   lang_name: Arabe
   question:
   - Q2
-  iso_code:
-  - mey
-- lang_id: 501
+- iso_code:
+  - bam
+  lang_id: 501
   lang_name: Bambara
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - bam
-- lang_id: 502
+  - Q103
+  - Q2
+- iso_code:
+  - ses
+  lang_id: 502
   lang_name: Bella
   question:
   - Q2
-  iso_code:
-  - ses
-- lang_id: 503
+- iso_code:
+  - bbo
+  - bmq
+  - box
+  - bwq
+  lang_id: 503
   lang_name: Bobo
   question:
   - Q2
-  iso_code:
-  - - bbo
-    - bmq
-    - box
-    - bwq
-- lang_id: 504
+- iso_code:
+  - boo
+  - boz
+  - bze
+  - bzx
+  lang_id: 504
   lang_name: Bozo
   question:
   - Q2
-  iso_code:
-  - - boo
-    - boz
-    - bze
-    - bzx
-- lang_id: 505
+- iso_code:
+  - aqd
+  - dbg
+  - dbt
+  - dbu
+  - dbw
+  - dds
+  - dgb
+  - djm
+  - dmb
+  - dti
+  - dtk
+  - dtm
+  - dto
+  - dts
+  - dtt
+  - dtu
+  - dym
+  - nzz
+  - tde
+  lang_id: 505
   lang_name: Dogon
   question:
   - Q2
-  iso_code:
-  - - aqd
-    - dbg
-    - dbt
-    - dbu
-    - dbw
-    - dds
-    - dgb
-    - djm
-    - dmb
-    - dti
-    - dtk
-    - dtm
-    - dto
-    - dts
-    - dtt
-    - dtu
-    - dym
-    - nzz
-    - tde
-- lang_id: 506
+- iso_code:
+  - hau
+  lang_id: 506
   lang_name: Haoussa
   question:
   - Q2
-  iso_code:
-  - hau
-- lang_id: 507
+- iso_code:
+  - xkg
+  lang_id: 507
   lang_name: Kakolo
   question:
   - Q2
-  iso_code:
-  - xkg
-- lang_id: 508
+- iso_code:
+  - kao
+  lang_id: 508
   lang_name: Khassonké
   question:
   - Q2
-  iso_code:
+- iso_code:
   - kao
-- lang_id: 509
+  - man
+  - mlq
+  - mwk
+  lang_id: 509
   lang_name: Malinké
   question:
   - Q2
-  iso_code:
-  - - kao
-    - man
-    - mlq
-    - mwk
-- lang_id: 510
+- iso_code:
+  - mey
+  lang_id: 510
   lang_name: Maure
   question:
   - Q2
-  iso_code:
-  - mey
-- lang_id: 511
+- iso_code:
+  - myk
+  lang_id: 511
   lang_name: Mianka
   question:
   - Q2
-  iso_code:
-  - myk
-- lang_id: 512
+- iso_code:
+  - mos
+  lang_id: 512
   lang_name: Mossi
   question:
   - Q2
-  iso_code:
-  - mos
-- lang_id: 513
-  lang_name: Peulh / Fulfude
-  question:
-  - - Q103
-    - Q2
-  iso_code:
+- iso_code:
   - ffm
-  note: >
-    Maasina Fulfulde is the Fula lang spoken in Mali
-- lang_id: 514
+  lang_id: 513
+  lang_name: Peulh / Fulfude
+  note: 'Maasina Fulfulde is the Fula lang spoken in Mali
+
+    '
+  question:
+  - Q103
+  - Q2
+- iso_code:
+  - dux
+  lang_id: 514
   lang_name: Samogo
   question:
   - Q2
-  iso_code:
-  - dux
-- lang_id: 515
+- iso_code:
+  - spp
+  lang_id: 515
   lang_name: Senufo
   question:
   - Q2
-  iso_code:
-  - spp
-- lang_id: 516
+- iso_code:
+  - snk
+  lang_id: 516
   lang_name: Soninke
   question:
   - Q103
-  iso_code:
+- iso_code:
   - snk
-- lang_id: 516
+  lang_id: 516
   lang_name: Soninké / Sarakollé
   question:
   - Q2
-  iso_code:
-  - snk
-- lang_id: 517
-  lang_name: Sonrhaï
-  question:
-  - Q2
+- Note: 'Alt name for Songhay languages. https://www.ethnologue.com/country/ML/languages
+
+    '
   iso_code:
   - hmb
   - khq
   - ses
-  Note: >
-    Alt name for Songhay languages. https://www.ethnologue.com/country/ML/languages
-- lang_id: 518
-  lang_name: Tamasheq
-  question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - taq
-    - thv
-    - tmh
-    - ttq
-- lang_id: 519
-  lang_name: Zerma
+  lang_id: 517
+  lang_name: Sonrhaï
   question:
   - Q2
-  iso_code:
+- iso_code:
+  - taq
+  - thv
+  - tmh
+  - ttq
+  lang_id: 518
+  lang_name: Tamasheq
+  question:
+  - Q103
+  - Q2
+- iso_code:
   - dje
-  note: >
-    Similar to alt name Adzerma for Zarmaci. https://www.ethnologue.com/country/ML/languages
-- lang_id: 540
+  lang_id: 519
+  lang_name: Zerma
+  note: 'Similar to alt name Adzerma for Zarmaci. https://www.ethnologue.com/country/ML/languages
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - vmw
+  lang_id: 540
   lang_name: Makua
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - vmw
-- lang_id: 541
+  - Q103
+  - Q2
+- iso_code:
+  - seh
+  lang_id: 541
   lang_name: Sena
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - seh
-- lang_id: 542
+  - Q103
+  - Q2
+- iso_code:
+  - ndc
+  lang_id: 542
   lang_name: Ndau
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - ndc
-- lang_id: 543
+  - Q103
+  - Q2
+- iso_code:
+  - tso
+  lang_id: 543
   lang_name: Changana
   question:
   - Q103
-  iso_code:
-  - tso
-- lang_id: 543
+- iso_code:
+  - nya
+  lang_id: 543
   lang_name: Nyanja
   question:
   - Q2
-  iso_code:
-  - nya
-- lang_id: 544
+- iso_code:
+  - tso
+  lang_id: 544
   lang_name: Changana
   question:
   - Q2
-  iso_code:
-  - tso
-- lang_id: 545
+- iso_code:
+  - cce
+  lang_id: 545
   lang_name: Chope
   question:
   - Q2
-  iso_code:
-  - cce
-- lang_id: 546
+- iso_code:
+  - toh
+  lang_id: 546
   lang_name: Bitonga
   question:
   - Q2
-  iso_code:
-  - toh
-- lang_id: 547
+- iso_code:
+  - kde
+  lang_id: 547
   lang_name: Makonde
   question:
   - Q2
-  iso_code:
-  - kde
-- lang_id: 548
+- iso_code:
+  - chw
+  lang_id: 548
   lang_name: Chuabo
   question:
   - Q2
-  iso_code:
-  - chw
-- lang_id: 549
+- iso_code:
+  - yao
+  lang_id: 549
   lang_name: Ajaua
   question:
   - Q2
-  iso_code:
-  - yao
-- lang_id: 550
+- iso_code:
+  - nya
+  lang_id: 550
   lang_name: Chichewa
   question:
   - Q2
-  iso_code:
-  - nya
-- lang_id: 551
+- iso_code:
+  - mis
+  lang_id: 551
   lang_name: Chibarue
   question:
   - Q2
-  iso_code:
-  - mis
-- lang_id: 552
-  lang_name: Chimarenge
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - vmr
-  note: >
-    Name similar to Marenje
-- lang_id: 553
-  lang_name: Chinhungue
+  lang_id: 552
+  lang_name: Chimarenge
+  note: 'Name similar to Marenje
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - mxc
-  note: >
-    Name similar to Hungwe, and alt name of Manyika
-- lang_id: 554
-  lang_name: Chitewe
+  lang_id: 553
+  lang_name: Chinhungue
+  note: 'Name similar to Hungwe, and alt name of Manyika
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - twx
-  note: >
-    Tewe language
-- lang_id: 555
-  lang_name: Chitswa
+  lang_id: 554
+  lang_name: Chitewe
+  note: 'Tewe language
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - tsc
-  note: >
-    Tswa language
-- lang_id: 556
-  lang_name: Chitawala
+  lang_id: 555
+  lang_name: Chitswa
+  note: 'Tswa language
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - twl
-  note: >
-    Chi + Tawala
-- lang_id: 557
-  lang_name: Kimuani
+  lang_id: 556
+  lang_name: Chitawala
+  note: 'Chi + Tawala
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - wmw
-  note: >
-    Mwani
-- lang_id: 558
+  lang_id: 557
+  lang_name: Kimuani
+  note: 'Mwani
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - ngl
+  lang_id: 558
   lang_name: Lomwe
   question:
   - Q2
-  iso_code:
-  - ngl
-- lang_id: 559
+- iso_code:
+  - mny
+  lang_id: 559
   lang_name: Manhawa
+  note: 'Manyawa
+
+    '
   question:
   - Q2
-  iso_code:
-  - mny
-  note: >
-    Manyawa
-- lang_id: 560
+- iso_code:
+  - rng
+  lang_id: 560
   lang_name: Ronga
   question:
   - Q2
-  iso_code:
-  - rng
-- lang_id: 561
+- iso_code:
+  - mis
+  lang_id: 561
   lang_name: Tacuane
   question:
   - Q2
-  iso_code:
-  - mis
-- lang_id: 562
+- iso_code:
+  - mxc
+  lang_id: 562
   lang_name: Chimanica
+  note: 'Name similar to Chimanyika, alt name of Manyika
+
+    '
   question:
   - Q2
-  iso_code:
-  - mxc
-  note: >
-    Name similar to Chimanyika, alt name of Manyika
-- lang_id: 580
+- iso_code:
+  - afr
+  lang_id: 580
   lang_name: Afrikaans
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - afr
-- lang_id: 581
+  - Q103
+  - Q2
+- iso_code:
+  - deu
+  lang_id: 581
   lang_name: German
   question:
   - Q2
-  iso_code:
-  - deu
-- lang_id: 582
+- iso_code:
+  - naq
+  lang_id: 582
   lang_name: Nama/Damara
   question:
   - Q2
-  iso_code:
-  - naq
-- lang_id: 583
+- iso_code:
+  - kua
+  lang_id: 583
   lang_name: Oshiwambo
   question:
   - Q103
-  iso_code:
-  - kua
-- lang_id: 583
+- iso_code:
+  - ndo
+  lang_id: 583
   lang_name: Oshiwambo (Oshindonga/Oshikwanyama)
   question:
   - Q2
-  iso_code:
-  - ndo
-- lang_id: 584
+- iso_code:
+  - her
+  lang_id: 584
   lang_name: Otjiherero
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - her
-- lang_id: 585
+  - Q103
+  - Q2
+- iso_code:
+  - kwn
+  lang_id: 585
   lang_name: Rukwangali
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - kwn
-- lang_id: 586
+  - Q103
+  - Q2
+- iso_code:
+  - diu
+  lang_id: 586
   lang_name: Rugririku/Rumanyo
   question:
   - Q2
-  iso_code:
-  - diu
-- lang_id: 587
+- iso_code:
+  - mhw
+  lang_id: 587
   lang_name: Thimbukushu
   question:
   - Q2
-  iso_code:
-  - mhw
-- lang_id: 588
+- iso_code:
+  - loz
+  lang_id: 588
   lang_name: Silozi
   question:
   - Q2
-  iso_code:
-  - loz
-- lang_id: 589
+- iso_code:
+  - tsn
+  lang_id: 589
   lang_name: Setswana
   question:
   - Q2
-  iso_code:
-  - tsn
-- lang_id: 590
+- iso_code:
+  - sbs
+  lang_id: 590
   lang_name: Masubia
   question:
   - Q2
-  iso_code:
-  - sbs
-- lang_id: 620
+- iso_code:
+  - hau
+  lang_id: 620
   lang_name: Hausa
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - hau
-- lang_id: 621
+  - Q103
+  - Q2
+- iso_code:
+  - agb
+  - ibo
+  lang_id: 621
   lang_name: Igbo
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - agb
-    - ibo
-- lang_id: 622
+  - Q103
+  - Q2
+- iso_code:
+  - yor
+  lang_id: 622
   lang_name: Yoruba
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - yor
-- lang_id: 623
+  - Q103
+  - Q2
+- iso_code:
+  - pcm
+  lang_id: 623
   lang_name: Pidgin English
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - pcm
-- lang_id: 624
+  - Q103
+  - Q2
+- iso_code:
+  - efi
+  lang_id: 624
   lang_name: Efik
   question:
   - Q2
-  iso_code:
-  - efi
-- lang_id: 625
+- iso_code:
+  - igb
+  lang_id: 625
   lang_name: Ebira
   question:
   - Q2
-  iso_code:
-  - igb
-- lang_id: 626
+- iso_code:
+  - fub
+  - ful
+  lang_id: 626
   lang_name: Fulani
   question:
   - Q2
-  iso_code:
-  - - fub
-    - ful
-- lang_id: 627
+- iso_code:
+  - iso
+  lang_id: 627
   lang_name: Isoko
   question:
   - Q2
-  iso_code:
-  - iso
-- lang_id: 628
+- iso_code:
+  - ibb
+  lang_id: 628
   lang_name: Ibibio
   question:
   - Q2
-  iso_code:
-  - ibb
-- lang_id: 629
+- iso_code:
+  - bms
+  - kau
+  - kby
+  - knc
+  - krt
+  lang_id: 629
   lang_name: Kanuri
   question:
   - Q2
-  iso_code:
-  - - bms
-    - kau
-    - kby
-    - knc
-    - krt
-- lang_id: 630
+- iso_code:
+  - tiv
+  lang_id: 630
   lang_name: Tiv
   question:
   - Q2
-  iso_code:
-  - tiv
-- lang_id: 631
+- iso_code:
+  - nup
+  lang_id: 631
   lang_name: Nupe
   question:
   - Q2
-  iso_code:
-  - nup
-- lang_id: 632
+- iso_code:
+  - ijc
+  - ijs
+  lang_id: 632
   lang_name: Ijaw
   question:
   - Q2
-  iso_code:
-  - - ijc
-    - ijs
-- lang_id: 633
+- iso_code:
+  - bin
+  lang_id: 633
   lang_name: Edo
   question:
   - Q2
-  iso_code:
-  - bin
-- lang_id: 634
+- iso_code:
+  - igl
+  lang_id: 634
   lang_name: Igala
   question:
   - Q2
-  iso_code:
-  - igl
-- lang_id: 635
+- iso_code:
+  - urh
+  lang_id: 635
   lang_name: Urhobo
   question:
   - Q2
-  iso_code:
-  - urh
-- lang_id: 636
+- iso_code:
+  - ogo
+  lang_id: 636
   lang_name: Ogoni
   question:
   - Q2
-  iso_code:
-  - ogo
-- lang_id: 637
+- iso_code:
+  - anw
+  lang_id: 637
   lang_name: Anang
   question:
   - Q2
-  iso_code:
-  - anw
-- lang_id: 638
+- iso_code:
+  - ikw
+  lang_id: 638
   lang_name: Ikwere
   question:
   - Q2
-  iso_code:
-  - ikw
-- lang_id: 639
+- iso_code:
+  - idu
+  lang_id: 639
   lang_name: Idoma
   question:
   - Q2
-  iso_code:
-  - idu
-- lang_id: 640
+- iso_code:
+  - ish
+  lang_id: 640
   lang_name: Esan
   question:
   - Q2
-  iso_code:
-  - ish
-- lang_id: 641
+- iso_code:
+  - ijs
+  lang_id: 641
   lang_name: Nembe
   question:
   - Q2
-  iso_code:
-  - ijs
-- lang_id: 642
+- iso_code:
+  - jbu
+  lang_id: 642
   lang_name: Jukun
   question:
   - Q2
-  iso_code:
-  - jbu
-- lang_id: 643
+- iso_code:
+  - okr
+  lang_id: 643
   lang_name: Okrika
   question:
   - Q2
-  iso_code:
-  - okr
-- lang_id: 644
+- iso_code:
+  - ihi
+  lang_id: 644
   lang_name: Yakhor
+  note: 'Ihievbe is the spoken in Iyakhora villages. https://www.ethnologue.com/country/ng/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - ihi
-  note: >
-    Ihievbe is the spoken in Iyakhora villages. https://www.ethnologue.com/country/ng/languages
-- lang_id: 645
+- iso_code:
+  - ikk
+  lang_id: 645
   lang_name: Ika
   question:
   - Q2
-  iso_code:
-  - ikk
-- lang_id: 646
+- iso_code:
+  - oke
+  lang_id: 646
   lang_name: Okpe
   question:
   - Q2
-  iso_code:
-  - oke
-- lang_id: 647
+- iso_code:
+  - yer
+  lang_id: 647
   lang_name: Tarok
   question:
   - Q2
-  iso_code:
-  - yer
-- lang_id: 648
-  lang_name: Ibaji
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - ibl
-  note: >
-    Alt name for Igala. https://www.ethnologue.com/country/NG/languages
-- lang_id: 649
-  lang_name: Migili
+  lang_id: 648
+  lang_name: Ibaji
+  note: 'Alt name for Igala. https://www.ethnologue.com/country/NG/languages
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - mgi
-  note: >
-    Alt name for Lijili. https://www.ethnologue.com/country/NG/languages
-- lang_id: 650
-  lang_name: Gbagyi
+  lang_id: 649
+  lang_name: Migili
+  note: 'Alt name for Lijili. https://www.ethnologue.com/country/NG/languages
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - gya
-  note: >
-    Name close to Gbaya.
-- lang_id: 651
-  lang_name: Gwoza
+  lang_id: 650
+  lang_name: Gbagyi
+  note: 'Name close to Gbaya.
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - mis
-  note: >
-    Gwoza is an LGA.
-- lang_id: 652
-  lang_name: Bajju
+  lang_id: 651
+  lang_name: Gwoza
+  note: 'Gwoza is an LGA.
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - kaj
-  note: >
-    Bajju refer to Jju speaking people. https://en.wikipedia.org/wiki/Bajju_people
-- lang_id: 653
+  lang_id: 652
+  lang_name: Bajju
+  note: 'Bajju refer to Jju speaking people. https://en.wikipedia.org/wiki/Bajju_people
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - ekp
+  lang_id: 653
   lang_name: Ekpeye
   question:
   - Q2
-  iso_code:
-  - ekp
-- lang_id: 654
+- iso_code:
+  - kcg
+  lang_id: 654
   lang_name: Kataf
+  note: 'Alt name for Tyap. https://www.ethnologue.com/country/NG/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - kcg
-  note: >
-    Alt name for Tyap. https://www.ethnologue.com/country/NG/languages
-- lang_id: 655
+- iso_code:
+  - mda
+  lang_id: 655
   lang_name: Mada
   question:
   - Q2
-  iso_code:
-  - mda
-- lang_id: 656
+- iso_code:
+  - ijn
+  lang_id: 656
   lang_name: Kalabari
   question:
   - Q2
-  iso_code:
-  - ijn
-- lang_id: 657
-  lang_name: Sayawa
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - say
-  note: >
-    Alt name for Saya. https://www.ethnologue.com/country/NG/languages
-- lang_id: 658
-  lang_name: Ohafia
+  lang_id: 657
+  lang_name: Sayawa
+  note: 'Alt name for Saya. https://www.ethnologue.com/country/NG/languages
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - ibo
-  note: >
-    Dialect of Igbo. https://www.ethnologue.com/country/NG/languages
-- lang_id: 660
+  lang_id: 658
+  lang_name: Ohafia
+  note: 'Dialect of Igbo. https://www.ethnologue.com/country/NG/languages
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - wol
+  lang_id: 660
   lang_name: Wolof
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - wol
-- lang_id: 661
+  - Q103
+  - Q2
+- iso_code:
+  - fuc
+  - ful
+  lang_id: 661
   lang_name: Pulaar/Toucouleur
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - fuc
-    - ful
-- lang_id: 662
+  - Q103
+  - Q2
+- iso_code:
+  - cae
+  - fap
+  - snf
+  - srr
+  lang_id: 662
   lang_name: Serer
   question:
   - Q2
-  iso_code:
-  - - cae
-    - fap
-    - snf
-    - srr
-- lang_id: 663
+- iso_code:
+  - man
+  - mnk
+  lang_id: 663
   lang_name: Mandinka/Bambara
   question:
   - Q2
-  iso_code:
-  - - man
-    - mnk
-- lang_id: 664
+- iso_code:
+  - snk
+  lang_id: 664
   lang_name: Soninke
   question:
   - Q2
-  iso_code:
-  - snk
-- lang_id: 665
+- iso_code:
+  - dyo
+  lang_id: 665
   lang_name: Diola
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - dyo
-- lang_id: 666
+  - Q103
+  - Q2
+- iso_code:
+  - mfv
+  lang_id: 666
   lang_name: Manjack
   question:
   - Q2
-  iso_code:
-  - mfv
-- lang_id: 667
-  lang_name: Bainouk
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - bcz
   - bab
   - bcb
-  note: >
-    https://en.wikipedia.org/wiki/Banyum_language
-- lang_id: 668
+  lang_id: 667
+  lang_name: Bainouk
+  note: 'https://en.wikipedia.org/wiki/Banyum_language
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - bsc
+  lang_id: 668
   lang_name: Bassari
   question:
   - Q2
-  iso_code:
-  - bsc
-- lang_id: 700
+- iso_code:
+  - afr
+  lang_id: 700
   lang_name: Afrikaans
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - afr
-- lang_id: 701
+  - Q103
+  - Q2
+- iso_code:
+  - nde
+  - nbl
+  lang_id: 701
   lang_name: Ndebele
   question:
   - Q2
-  iso_code:
-  - - nde
-    - nbl
-- lang_id: 702
+- iso_code:
+  - xho
+  lang_id: 702
   lang_name: Xhosa
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - xho
-- lang_id: 703
+  - Q103
+  - Q2
+- iso_code:
+  - nso
+  lang_id: 703
   lang_name: Pedi/Spedi/North Sotho
   question:
-  - - Q103
-    - Q2
-  iso_code:
+  - Q103
+  - Q2
+- iso_code:
   - nso
-- lang_id: 704
+  - sot
+  lang_id: 704
   lang_name: Sesotho/Sotho/South Sotho
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - nso
-    - sot
-- lang_id: 705
+  - Q103
+  - Q2
+- iso_code:
+  - tsn
+  lang_id: 705
   lang_name: Setswana/Tswana
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - tsn
-- lang_id: 706
+  - Q103
+  - Q2
+- iso_code:
+  - tso
+  lang_id: 706
   lang_name: Shangaan
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - tso
-- lang_id: 707
+  - Q103
+  - Q2
+- iso_code:
+  - ssw
+  lang_id: 707
   lang_name: Swazi
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - ssw
-- lang_id: 708
+  - Q103
+  - Q2
+- iso_code:
+  - ven
+  lang_id: 708
   lang_name: Venda
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - ven
-- lang_id: 709
+  - Q103
+  - Q2
+- iso_code:
+  - zul
+  lang_id: 709
   lang_name: Zulu
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - zul
-- lang_id: 710
+  - Q103
+  - Q2
+- iso_code:
+  - mul
+  lang_id: 710
   lang_name: Asian/Other
+  note: 'Multiple languages.
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - mul
-  note: >
-    Multiple languages.
-- lang_id: 711
+  lang_id: 711
   lang_name: Mixed - English/Afrikaans
+  note: 'Multiple languages
+
+    '
   question:
   - Q103
-  iso_code:
-  - mul
-  note: >
-    Multiple languages
-- lang_id: 712
+- iso_code:
+  - tso
+  lang_id: 712
   lang_name: Tsonga
   question:
   - Q103
-  iso_code:
-  - tso
-- lang_id: 713
+- iso_code:
+  - ssw
+  lang_id: 713
   lang_name: Siswati
   question:
   - Q103
-  iso_code:
-  - ssw
-- lang_id: 740
+- iso_code:
+  - nyy
+  lang_id: 740
   lang_name: Kinyakyusa
   question:
   - Q2
-  iso_code:
-  - nyy
-- lang_id: 741
+- iso_code:
+  - old
+  lang_id: 741
   lang_name: Kichaga
   question:
   - Q2
-  iso_code:
-  - old
-- lang_id: 742
+- iso_code:
+  - hay
+  lang_id: 742
   lang_name: Kihaya
   question:
   - Q2
-  iso_code:
-  - hay
-- lang_id: 743
+- iso_code:
+  - ngo
+  lang_id: 743
   lang_name: Kingoni
   question:
   - Q2
-  iso_code:
-  - ngo
-- lang_id: 744
+- iso_code:
+  - cwe
+  - ked
+  lang_id: 744
   lang_name: Kikwere
   question:
   - Q2
-  iso_code:
-  - - cwe
-    - ked
-- lang_id: 745
+- iso_code:
+  - asa
+  lang_id: 745
   lang_name: Kipare
   question:
   - Q2
-  iso_code:
-  - asa
-- lang_id: 746
+- iso_code:
+  - heh
+  lang_id: 746
   lang_name: Kihehe
   question:
   - Q2
-  iso_code:
-  - heh
-- lang_id: 747
+- iso_code:
+  - kde
+  lang_id: 747
   lang_name: Kimakonde
   question:
   - Q2
-  iso_code:
-  - kde
-- lang_id: 748
+- iso_code:
+  - nym
+  lang_id: 748
   lang_name: Kinyamwezi
   question:
   - Q2
-  iso_code:
-  - nym
-- lang_id: 749
+- iso_code:
+  - suk
+  lang_id: 749
   lang_name: Kisukuma
   question:
   - Q2
-  iso_code:
-  - suk
-- lang_id: 750
+- iso_code:
+  - mas
+  lang_id: 750
   lang_name: Kimasai
   question:
   - Q2
-  iso_code:
-  - mas
-- lang_id: 751
+- iso_code:
+  - rwk
+  lang_id: 751
   lang_name: Kimeru
   question:
   - Q2
-  iso_code:
-  - rwk
-- lang_id: 752
+- iso_code:
+  - kuj
+  lang_id: 752
   lang_name: Kikurya
   question:
   - Q2
-  iso_code:
-  - kuj
-- lang_id: 753
+- iso_code:
+  - gog
+  lang_id: 753
   lang_name: Kigogo
   question:
   - Q2
-  iso_code:
-  - gog
-- lang_id: 754
+- iso_code:
+  - ruf
+  lang_id: 754
   lang_name: Kiluguru
   question:
   - Q2
-  iso_code:
-  - ruf
-- lang_id: 755
+- iso_code:
+  - fip
+  lang_id: 755
   lang_name: Kifipa
   question:
   - Q2
-  iso_code:
-  - fip
-- lang_id: 756
+- iso_code:
+  - unk
+  lang_id: 756
   lang_name: Kimanyema
   question:
   - Q2
-  iso_code:
-  - unk
-- lang_id: 757
+- iso_code:
+  - nim
+  lang_id: 757
   lang_name: Kinyiramba
   question:
   - Q2
-  iso_code:
-  - nim
-- lang_id: 758
+- iso_code:
+  - rim
+  lang_id: 758
   lang_name: Kinyaturu
   question:
   - Q2
-  iso_code:
-  - rim
-- lang_id: 759
+- iso_code:
+  - bez
+  lang_id: 759
   lang_name: Kibena
   question:
   - Q2
-  iso_code:
-  - bez
-- lang_id: 760
+- iso_code:
+  - haq
+  lang_id: 760
   lang_name: Kiha
   question:
   - Q2
-  iso_code:
-  - haq
-- lang_id: 761
-  lang_name: Kihangaza
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - han
-  note: >
-    Alt name for Hangaza. https://www.ethnologue.com/country/TZ/languages
-- lang_id: 762
-  lang_name: Kiiraqi
+  lang_id: 761
+  lang_name: Kihangaza
+  note: 'Alt name for Hangaza. https://www.ethnologue.com/country/TZ/languages
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - irk
-  note: >
-    Kiiraqw is alt name of Iraqw
-- lang_id: 763
+  lang_id: 762
+  lang_name: Kiiraqi
+  note: 'Kiiraqw is alt name of Iraqw
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - luo
+  lang_id: 763
   lang_name: Kijaluo
   question:
   - Q2
-  iso_code:
-  - luo
-- lang_id: 764
+- iso_code:
+  - jit
+  lang_id: 764
   lang_name: Kijita
   question:
   - Q2
-  iso_code:
-  - jit
-- lang_id: 765
-  lang_name: Kikinga
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - zga
-  note: >
-    Alt name for Kinga
-- lang_id: 766
-  lang_name: Kitongwe
+  lang_id: 765
+  lang_name: Kikinga
+  note: 'Alt name for Kinga
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - tny
-  note: >
-    Alt name for Tongwe
-- lang_id: 767
+  lang_id: 766
+  lang_name: Kitongwe
+  note: 'Alt name for Tongwe
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - mjh
+  - mwe
+  lang_id: 767
   lang_name: Kimwera
   question:
   - Q2
-  iso_code:
-  - - mjh
-    - mwe
-- lang_id: 768
+- iso_code:
+  - ndh
+  lang_id: 768
   lang_name: Kindali
   question:
   - Q2
-  iso_code:
-  - ndh
-- lang_id: 769
+- iso_code:
+  - dne
+  lang_id: 769
   lang_name: Kindendeule
   question:
   - Q2
-  iso_code:
-  - dne
-- lang_id: 770
+- iso_code:
+  - now
+  lang_id: 770
   lang_name: Kinyambo
   question:
   - Q2
-  iso_code:
-  - now
-- lang_id: 771
+- iso_code:
+  - poy
+  lang_id: 771
   lang_name: Kipogoro
   question:
   - Q2
-  iso_code:
-  - poy
-- lang_id: 772
+- iso_code:
+  - ksb
+  lang_id: 772
   lang_name: Kisambaa
   question:
   - Q2
-  iso_code:
-  - ksb
-- lang_id: 773
+- iso_code:
+  - yao
+  lang_id: 773
   lang_name: Kiyao
   question:
   - Q2
-  iso_code:
-  - yao
-- lang_id: 774
+- iso_code:
+  - zaj
+  lang_id: 774
   lang_name: Kizaramo
   question:
   - Q2
-  iso_code:
-  - zaj
-- lang_id: 775
+- iso_code:
+  - ziw
+  lang_id: 775
   lang_name: Kizigua
   question:
   - Q2
-  iso_code:
-  - ziw
-- lang_id: 776
+- iso_code:
+  - zin
+  lang_id: 776
   lang_name: Kizinza
+  note: 'Alt name for Zinza
+
+    '
   question:
   - Q2
-  iso_code:
-  - zin
-  note: >
-    Alt name for Zinza
-- lang_id: 777
+- iso_code:
+  - haq
+  lang_id: 777
   lang_name: Kiha
   question:
   - Q2
-  iso_code:
-  - haq
-- lang_id: 778
+- iso_code:
+  - han
+  lang_id: 778
   lang_name: Kihangaza
+  note: 'Alt name for Hangaza
+
+    '
   question:
   - Q2
-  iso_code:
-  - han
-  note: >
-    Alt name for Hangaza
-- lang_id: 779
+- iso_code:
+  - irk
+  lang_id: 779
   lang_name: Kiiraq
   question:
   - Q2
-  iso_code:
-  - irk
-- lang_id: 780
+- iso_code:
+  - lug
+  lang_id: 780
   lang_name: Luganda
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - lug
-- lang_id: 781
+  - Q103
+  - Q2
+- iso_code:
+  - nyn
+  lang_id: 781
   lang_name: Runyankole
   question:
   - Q2
-  iso_code:
+- iso_code:
   - nyn
-- lang_id: 781
+  lang_id: 781
   lang_name: Runyankole-Rukiga
   question:
   - Q103
-  iso_code:
-  - nyn
-- lang_id: 782
+- iso_code:
+  - nyo
+  lang_id: 782
   lang_name: Runyoro
   question:
   - Q2
-  iso_code:
+- iso_code:
   - nyo
-- lang_id: 782
+  lang_id: 782
   lang_name: Runyoro-Rutooro
   question:
   - Q103
-  iso_code:
-  - nyo
-- lang_id: 783
+- iso_code:
+  - xog
+  lang_id: 783
   lang_name: Lusoga
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - xog
-- lang_id: 784
-  lang_name: Lumasaba
-  question:
-  - - Q103
-    - Q2
-  iso_code:
+  - Q103
+  - Q2
+- iso_code:
   - myx
-  note: >
-    Lumasaaba is alt name for Masaaba.https://www.ethnologue.com/country/UG/languages
-- lang_id: 785
+  lang_id: 784
+  lang_name: Lumasaba
+  note: 'Lumasaaba is alt name for Masaaba.https://www.ethnologue.com/country/UG/languages
+
+    '
+  question:
+  - Q103
+  - Q2
+- iso_code:
+  - koo
+  lang_id: 785
   lang_name: Lukhonjo
   question:
   - Q2
-  iso_code:
-  - koo
-- lang_id: 786
+- iso_code:
+  - nyo
+  lang_id: 786
   lang_name: Lunyoro
+  note: 'Alt name for Nyoro
+
+    '
   question:
   - Q2
-  iso_code:
-  - nyo
-  note: >
-    Alt name for Nyoro
-- lang_id: 787
+- iso_code:
+  - teo
+  lang_id: 787
   lang_name: Ateso
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - teo
-- lang_id: 788
+  - Q103
+  - Q2
+- iso_code:
+  - ach
+  lang_id: 788
   lang_name: Acholi
   question:
   - Q2
-  iso_code:
-  - ach
-- lang_id: 788
+- iso_code:
+  - luo
+  lang_id: 788
   lang_name: Luo
   question:
   - Q103
-  iso_code:
-  - luo
-- lang_id: 789
+- iso_code:
+  - alz
+  lang_id: 789
   lang_name: Alur
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - alz
-- lang_id: 790
+  - Q103
+  - Q2
+- iso_code:
+  - lgg
+  lang_id: 790
   lang_name: Lugbara
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - lgg
-- lang_id: 791
+  - Q103
+  - Q2
+- iso_code:
+  - mhi
+  - snm
+  lang_id: 791
   lang_name: Madi
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - mhi
-    - snm
-- lang_id: 792
+  - Q103
+  - Q2
+- iso_code:
+  - adh
+  lang_id: 792
   lang_name: Japadhola
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - adh
-- lang_id: 793
+  - Q103
+  - Q2
+- iso_code:
+  - lsm
+  - luy
+  lang_id: 793
   lang_name: Lusamia
   question:
   - Q2
-  iso_code:
-  - - lsm
-    - luy
-- lang_id: 794
+- iso_code:
+  - gwr
+  lang_id: 794
   lang_name: Lugwere
   question:
   - Q2
-  iso_code:
-  - gwr
-- lang_id: 795
+- iso_code:
+  - cgg
+  lang_id: 795
   lang_name: Rukiga
   question:
   - Q2
-  iso_code:
-  - cgg
-- lang_id: 796
+- iso_code:
+  - ttj
+  lang_id: 796
   lang_name: Rutooro
   question:
   - Q2
-  iso_code:
-  - ttj
-- lang_id: 797
+- iso_code:
+  - laj
+  lang_id: 797
   lang_name: Langi
   question:
   - Q2
-  iso_code:
-  - laj
-- lang_id: 798
+- iso_code:
+  - kpz
+  lang_id: 798
   lang_name: Kupsabinyi
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - kpz
-- lang_id: 799
+  - Q103
+  - Q2
+- iso_code:
+  - kdj
+  lang_id: 799
   lang_name: Ngakarimajong
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - kdj
-- lang_id: 800
+  - Q103
+  - Q2
+- iso_code:
+  - nyo
+  lang_id: 800
   lang_name: Rutagwenda
+  note: 'Dialect of Nyoro. https://www.ethnologue.com/country/UG/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - nyo
-  note: >
-    Dialect of Nyoro. https://www.ethnologue.com/country/UG/languages
-- lang_id: 801
+- iso_code:
+  - kin
+  lang_id: 801
   lang_name: Rufumbira
   question:
   - Q2
-  iso_code:
+- iso_code:
   - kin
-- lang_id: 802
+  lang_id: 802
   lang_name: Runyarwanda
+  note: 'Alt name for Fumbira. https://www.ethnologue.com/country/UG/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - kin
-  note: >
-    Alt name for Fumbira. https://www.ethnologue.com/country/UG/languages
-- lang_id: 803
-  lang_name: Rululi
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - ruc
-  note: >
-    Alt name for Ruuli
-- lang_id: 804
+  lang_id: 803
+  lang_name: Rululi
+  note: 'Alt name for Ruuli
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - luc
+  lang_id: 804
   lang_name: Aringa
   question:
   - Q2
-  iso_code:
-  - luc
-- lang_id: 805
+- iso_code:
+  - kdi
+  lang_id: 805
   lang_name: Kumam
   question:
   - Q2
-  iso_code:
-  - kdi
-- lang_id: 806
+- iso_code:
+  - keo
+  lang_id: 806
   lang_name: Kakwa
   question:
   - Q2
-  iso_code:
-  - keo
-- lang_id: 809
+- iso_code:
+  - gwr
+  lang_id: 809
   lang_name: Lugwere
   question:
   - Q103
-  iso_code:
-  - gwr
-- lang_id: 820
+- iso_code:
+  - bem
+  lang_id: 820
   lang_name: Bemba
   question:
   - Q2
-  iso_code:
-  - bem
-- lang_id: 820
-  lang_name: Chewa/nyanja
-  question:
-  - Q103
-  iso_code:
+- iso_code:
   - nya
-  note: >
-    Name for Chichewa
-- lang_id: 821
-  lang_name: Ichibemba
+  lang_id: 820
+  lang_name: Chewa/nyanja
+  note: 'Name for Chichewa
+
+    '
   question:
   - Q103
-  iso_code:
+- iso_code:
   - bem
-  note: >
-    Alt name for Ichibemba. https://www.ethnologue.com/country/ZM/languages
-- lang_id: 821
+  lang_id: 821
+  lang_name: Ichibemba
+  note: 'Alt name for Ichibemba. https://www.ethnologue.com/country/ZM/languages
+
+    '
+  question:
+  - Q103
+- iso_code:
+  - nya
+  lang_id: 821
   lang_name: Nyanja
   question:
   - Q2
-  iso_code:
-  - nya
-- lang_id: 822
+- iso_code:
+  - toi
+  - ndc
+  - tso
+  lang_id: 822
   lang_name: Tonga
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - toi
-    - ndc
-    - tso
-- lang_id: 823
+  - Q103
+  - Q2
+- iso_code:
+  - kqn
+  lang_id: 823
   lang_name: Kikaonde
+  note: 'Kaonde.
+
+    '
   question:
   - Q103
-  iso_code:
-  - kqn
-  note: >
-    Kaonde.
-- lang_id: 823
+- iso_code:
+  - loz
+  lang_id: 823
   lang_name: Lozi
   question:
   - Q2
-  iso_code:
-  - loz
-- lang_id: 824
+- iso_code:
+  - nya
+  lang_id: 824
   lang_name: Chewa
   question:
   - Q2
-  iso_code:
-  - nya
-- lang_id: 824
+- iso_code:
+  - loz
+  lang_id: 824
   lang_name: Silozi
   question:
   - Q103
-  iso_code:
-  - loz
-- lang_id: 825
+- iso_code:
+  - nse
+  lang_id: 825
   lang_name: Nsenga
   question:
   - Q2
-  iso_code:
-  - nse
-- lang_id: 826
+- iso_code:
+  - tum
+  lang_id: 826
   lang_name: Tumbuka
   question:
   - Q2
-  iso_code:
-  - tum
-- lang_id: 827
+- iso_code:
+  - kqn
+  lang_id: 827
   lang_name: Kaonde
   question:
   - Q2
-  iso_code:
-  - kqn
-- lang_id: 828
+- iso_code:
+  - lue
+  lang_id: 828
   lang_name: Luvale
   question:
   - Q2
-  iso_code:
-  - lue
-- lang_id: 829
+- iso_code:
+  - mwn
+  lang_id: 829
   lang_name: Namwanga
   question:
   - Q2
-  iso_code:
-  - mwn
-- lang_id: 830
+- iso_code:
+  - bem
+  - lun
+  lang_id: 830
   lang_name: Lunda
   question:
   - Q2
-  iso_code:
-  - - bem
-    - lun
-- lang_id: 831
+- iso_code:
+  - leb
+  lang_id: 831
   lang_name: Bisa
   question:
   - Q2
-  iso_code:
-  - leb
-- lang_id: 832
+- iso_code:
+  - nka
+  lang_id: 832
   lang_name: Nkoya
   question:
   - Q2
-  iso_code:
-  - nka
-- lang_id: 833
+- iso_code:
+  - mgr
+  lang_id: 833
   lang_name: Mambwe
   question:
   - Q2
-  iso_code:
-  - mgr
-- lang_id: 834
+- iso_code:
+  - leh
+  lang_id: 834
   lang_name: Lenje
   question:
   - Q2
-  iso_code:
-  - leh
-- lang_id: 835
+- iso_code:
+  - nse
+  - nya
+  - tum
+  lang_id: 835
   lang_name: Ngoni
   question:
   - Q2
-  iso_code:
-  - - nse
-    - nya
-    - tum
-- lang_id: 836
+- iso_code:
+  - sby
+  lang_id: 836
   lang_name: Soli
   question:
   - Q2
-  iso_code:
-  - sby
-- lang_id: 837
+- iso_code:
+  - ilb
+  lang_id: 837
   lang_name: Ila
   question:
   - Q2
-  iso_code:
-  - ilb
-- lang_id: 838
+- iso_code:
+  - auh
+  lang_id: 838
   lang_name: Ushi
   question:
   - Q2
-  iso_code:
-  - auh
-- lang_id: 839
+- iso_code:
+  - cjk
+  lang_id: 839
   lang_name: Chokwe
   question:
   - Q2
-  iso_code:
-  - cjk
-- lang_id: 840
+- iso_code:
+  - mck
+  lang_id: 840
   lang_name: Mbunda
   question:
   - Q2
-  iso_code:
-  - mck
-- lang_id: 841
+- iso_code:
+  - kdn
+  - nya
+  lang_id: 841
   lang_name: Kunda
   question:
   - Q2
-  iso_code:
-  - - kdn
-    - nya
-- lang_id: 842
+- iso_code:
+  - leb
+  lang_id: 842
   lang_name: Lala
   question:
   - Q2
-  iso_code:
-  - leb
-- lang_id: 843
+- iso_code:
+  - lam
+  lang_id: 843
   lang_name: Lamba
   question:
   - Q2
-  iso_code:
-  - lam
-- lang_id: 844
+- iso_code:
+  - mgr
+  lang_id: 844
   lang_name: Lungu
   question:
   - Q2
-  iso_code:
-  - mgr
-- lang_id: 845
+- iso_code:
+  - nih
+  - nkv
+  lang_id: 845
   lang_name: Nyika
   question:
   - Q2
-  iso_code:
-  - - nih
-    - nkv
-- lang_id: 846
+- iso_code:
+  - nse
+  - tum
+  lang_id: 846
   lang_name: Senga
   question:
   - Q2
-  iso_code:
-  - - nse
-    - tum
-- lang_id: 847
+- iso_code:
+  - toi
+  lang_id: 847
   lang_name: Tokaleya
   question:
   - Q2
-  iso_code:
-  - toi
-- lang_id: 848
+- iso_code:
+  - bwc
+  lang_id: 848
   lang_name: Bwile
   question:
   - Q2
-  iso_code:
-  - bwc
-- lang_id: 849
+- iso_code:
+  - bem
+  lang_id: 849
   lang_name: Ngumbo
+  note: 'Dialect of Bemba. https://www.ethnologue.com/country/ZM/languages
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - bem
-  note: >
-    Dialect of Bemba. https://www.ethnologue.com/country/ZM/languages
-- lang_id: 850
+  lang_id: 850
   lang_name: Chishinga
+  note: 'Dialect of Bemba. https://www.ethnologue.com/country/ZM/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - bem
-  note: >
-    Dialect of Bemba. https://www.ethnologue.com/country/ZM/languages
-- lang_id: 851
+- iso_code:
+  - tap
+  lang_id: 851
   lang_name: Tabwa
   question:
   - Q2
-  iso_code:
-  - tap
-- lang_id: 852
+- iso_code:
+  - sna
+  lang_id: 852
   lang_name: Goba
+  note: 'Dialect of Shona. https://www.ethnologue.com/country/ZM/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - sna
-  note: >
-    Dialect of Shona. https://www.ethnologue.com/country/ZM/languages
-- lang_id: 860
+- iso_code:
+  - nde
+  - nbl
+  lang_id: 860
   lang_name: Ndebele
   question:
   - Q103
-  iso_code:
-  - - nde
-    - nbl
-- lang_id: 860
+- iso_code:
+  - nde
+  lang_id: 860
   lang_name: SiNdebele
   question:
   - Q2
-  iso_code:
-  - nde
-- lang_id: 861
+- iso_code:
+  - sna
+  lang_id: 861
   lang_name: Shona
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - sna
-- lang_id: 862
+  - Q103
+  - Q2
+- iso_code:
+  - ndc
+  lang_id: 862
   lang_name: Ndau
   question:
   - Q103
-  iso_code:
-  - ndc
-- lang_id: 862
+- iso_code:
+  - sna
+  lang_id: 862
   lang_name: Zezuru
   question:
   - Q2
-  iso_code:
+- iso_code:
   - sna
-- lang_id: 863
+  lang_id: 863
   lang_name: Korekore
   question:
   - Q2
-  iso_code:
+- iso_code:
   - sna
-- lang_id: 864
+  lang_id: 864
   lang_name: Karanga
   question:
   - Q2
-  iso_code:
-  - sna
-- lang_id: 865
+- iso_code:
+  - mxc
+  lang_id: 865
   lang_name: Manyika
   question:
   - Q2
-  iso_code:
-  - mxc
-- lang_id: 866
+- iso_code:
+  - ndc
+  lang_id: 866
   lang_name: Ndau
   question:
   - Q2
-  iso_code:
-  - ndc
-- lang_id: 867
+- iso_code:
+  - ven
+  lang_id: 867
   lang_name: Venda
   question:
   - Q2
-  iso_code:
-  - ven
-- lang_id: 868
+- iso_code:
+  - kck
+  lang_id: 868
   lang_name: Kalanga
   question:
   - Q2
-  iso_code:
-  - kck
-- lang_id: 869
+- iso_code:
+  - toi
+  - ndc
+  - tso
+  lang_id: 869
   lang_name: Tonga
   question:
   - Q2
-  iso_code:
-  - - toi
-    - ndc
-    - tso
-- lang_id: 870
+- iso_code:
+  - sna
+  lang_id: 870
   lang_name: Vhitori
+  note: 'Is it a Karange dialect of Shona?
+
+    '
   question:
   - Q2
-  iso_code:
-  - sna
-  note: >
-    Is it a Karange dialect of Shona?
-- lang_id: 871
+- iso_code:
+  - tso
+  lang_id: 871
   lang_name: Shangani
   question:
   - Q2
-  iso_code:
-  - tso
-- lang_id: 872
+- iso_code:
+  - nmq
+  lang_id: 872
   lang_name: Nambya
   question:
   - Q2
-  iso_code:
-  - nmq
-- lang_id: 873
+- iso_code:
+  - mxc
+  lang_id: 873
   lang_name: Maungwe
+  note: 'Name for Manyika language
+
+    '
   question:
   - Q2
-  iso_code:
-  - mxc
-  note: >
-    Name for Manyika language
-- lang_id: 874
+- iso_code:
+  - bja
+  - tmv
+  lang_id: 874
   lang_name: Buja
   question:
   - Q2
-  iso_code:
-  - - bja
-    - tmv
-- lang_id: 875
+- iso_code:
+  - mxc
+  lang_id: 875
   lang_name: Bocha
+  note: 'dialect of Manyika. https://www.ethnologue.com/language/mxc
+
+    '
   question:
   - Q2
-  iso_code:
-  - mxc
-  note: >
-    dialect of Manyika. https://www.ethnologue.com/language/mxc
-- lang_id: 900
+- iso_code:
+  - mfe
+  lang_id: 900
   lang_name: Creole
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - mfe
-- lang_id: 901
+  - Q103
+  - Q2
+- iso_code:
+  - bho
+  lang_id: 901
   lang_name: Bhojpuri
   question:
   - Q2
-  iso_code:
-  - bho
-- lang_id: 930
+- iso_code:
+  - kri
+  lang_id: 930
   lang_name: Krio
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - kri
-- lang_id: 931
+  - Q103
+  - Q2
+- iso_code:
+  - men
+  lang_id: 931
   lang_name: Mende
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - men
-- lang_id: 932
+  - Q103
+  - Q2
+- iso_code:
+  - tem
+  lang_id: 932
   lang_name: Temne
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - tem
-- lang_id: 933
+  - Q103
+  - Q2
+- iso_code:
+  - lia
+  - lma
+  lang_id: 933
   lang_name: Limba
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - lia
-    - lma
-- lang_id: 934
+  - Q103
+  - Q2
+- iso_code:
+  - lok
+  lang_id: 934
   lang_name: Loko
   question:
   - Q2
-  iso_code:
-  - lok
-- lang_id: 935
+- iso_code:
+  - bun
+  lang_id: 935
   lang_name: Sherbro
   question:
   - Q2
-  iso_code:
-  - bun
-- lang_id: 936
+- iso_code:
+  - fuf
+  - ful
+  lang_id: 936
   lang_name: Fulla
   question:
   - Q2
-  iso_code:
-  - - fuf
-    - ful
-- lang_id: 937
+- iso_code:
+  - kno
+  lang_id: 937
   lang_name: Kono
   question:
   - Q2
-  iso_code:
-  - kno
-- lang_id: 938
+- iso_code:
+  - knk
+  lang_id: 938
   lang_name: Kuranko
   question:
   - Q2
-  iso_code:
-  - knk
-- lang_id: 939
+- iso_code:
+  - emk
+  - man
+  lang_id: 939
   lang_name: Madingo
   question:
   - Q2
-  iso_code:
-  - - emk
-    - man
-- lang_id: 940
+- iso_code:
+  - vai
+  lang_id: 940
   lang_name: Vai
   question:
   - Q2
-  iso_code:
-  - vai
-- lang_id: 941
+- iso_code:
+  - sus
+  lang_id: 941
   lang_name: Susu
   question:
   - Q2
-  iso_code:
-  - sus
-- lang_id: 942
+- iso_code:
+  - klu
+  - ted
+  lang_id: 942
   lang_name: Kru
   question:
   - Q2
-  iso_code:
-  - - klu
-    - ted
-- lang_id: 943
+- iso_code:
+  - yal
+  lang_id: 943
   lang_name: Yalunka
   question:
   - Q2
-  iso_code:
-  - yal
-- lang_id: 944
+- iso_code:
+  - kqs
+  - kss
+  lang_id: 944
   lang_name: Kissi
   question:
   - Q2
-  iso_code:
-  - - kqs
-    - kss
-- lang_id: 1100
+- iso_code:
+  - hau
+  lang_id: 1100
   lang_name: Haoussa
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - hau
-- lang_id: 1101
+  - Q103
+  - Q2
+- iso_code:
+  - dje
+  lang_id: 1101
   lang_name: Zarrma/Songhaï
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - dje
-- lang_id: 1102
+  - Q103
+  - Q2
+- iso_code:
+  - fuh
+  - ful
+  - fuq
+  lang_id: 1102
   lang_name: Fulfuldé
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - fuh
-    - ful
-    - fuq
-- lang_id: 1103
-  lang_name: Touareg
-  question:
-  - - Q103
-    - Q2
-  iso_code:
+  - Q103
+  - Q2
+- iso_code:
   - thv
   - ttq
-- lang_id: 1104
+  lang_id: 1103
+  lang_name: Touareg
+  question:
+  - Q103
+  - Q2
+- iso_code:
+  - knc
+  lang_id: 1104
   lang_name: Béri béri
+  note: 'Name for Kanuri, Central. https://www.ethnologue.com/country/NE/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - knc
-  note: >
-    Name for Kanuri, Central. https://www.ethnologue.com/country/NE/languages
-- lang_id: 1105
+- iso_code:
+  - gux
+  lang_id: 1105
   lang_name: Gourmantchéma
   question:
   - Q2
-  iso_code:
-  - gux
-- lang_id: 1106
+- iso_code:
+  - mey
+  lang_id: 1106
   lang_name: Arabe
   question:
   - Q2
-  iso_code:
-  - mey
-- lang_id: 1107
+- iso_code:
+  - tug
+  - dzg
+  lang_id: 1107
   lang_name: Toubou
   question:
   - Q2
-  iso_code:
-  - tug
-  - dzg
-- lang_id: 1140
+- iso_code:
+  - ewe
+  lang_id: 1140
   lang_name: Ewé
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - ewe
-- lang_id: 1141
+  - Q103
+  - Q2
+- iso_code:
+  - gej
+  lang_id: 1141
   lang_name: Mina (Guen)
   question:
   - Q2
-  iso_code:
-  - gej
-- lang_id: 1142
+- iso_code:
+  - kbp
+  lang_id: 1142
   lang_name: Kabyè
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - kbp
-- lang_id: 1143
+  - Q103
+  - Q2
+- iso_code:
+  - kdh
+  lang_id: 1143
   lang_name: Tem (Kotokoli)
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - kdh
-- lang_id: 1144
+  - Q103
+  - Q2
+- iso_code:
+  - mfq
+  lang_id: 1144
   lang_name: Ben (Moba)
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - mfq
-- lang_id: 1145
+  - Q103
+  - Q2
+- iso_code:
+  - las
+  - nmz
+  lang_id: 1145
   lang_name: Nawdem (Losso)
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - - las
-    - nmz
-- lang_id: 1146
+  - Q103
+  - Q2
+- iso_code:
+  - lam
+  lang_id: 1146
   lang_name: Lamba
   question:
   - Q2
-  iso_code:
-  - lam
-- lang_id: 1147
-  lang_name: Ana
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - ife
-  note: >
-    Alt name for Ife
-- lang_id: 1148
-  lang_name: Akposso
+  lang_id: 1147
+  lang_name: Ana
+  note: 'Alt name for Ife
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - kpo
-  note: >
-    Alt name for Ikposo
-- lang_id: 1149
-  lang_name: Bassar
+  lang_id: 1148
+  lang_name: Akposso
+  note: 'Alt name for Ikposo
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - bud
-  note: >
-    Alt name for Ntcham
-- lang_id: 1151
+  lang_id: 1149
+  lang_name: Bassar
+  note: 'Alt name for Ntcham
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - fon
+  lang_id: 1151
   lang_name: Fon
   question:
   - Q2
-  iso_code:
-  - fon
-- lang_id: 1152
+- iso_code:
+  - wci
+  lang_id: 1152
   lang_name: Ouatchi
   question:
   - Q2
-  iso_code:
-  - wci
-- lang_id: 1153
+- iso_code:
+  - keu
+  lang_id: 1153
   lang_name: Akébou
   question:
   - Q2
-  iso_code:
-  - keu
-- lang_id: 1154
+- iso_code:
+  - gux
+  lang_id: 1154
   lang_name: Gourma
   question:
   - Q2
-  iso_code:
-  - gux
-- lang_id: 1155
+- iso_code:
+  - xon
+  lang_id: 1155
   lang_name: Konkomba
   question:
   - Q2
-  iso_code:
-  - xon
-- lang_id: 1156
+- iso_code:
+  - gng
+  lang_id: 1156
   lang_name: Ngam-Gam
   question:
   - Q2
-  iso_code:
-  - gng
-- lang_id: 1157
+- iso_code:
+  - aks
+  lang_id: 1157
   lang_name: Tchamba
   question:
   - Q2
-  iso_code:
-  - aks
-- lang_id: 1158
+- iso_code:
+  - hau
+  lang_id: 1158
   lang_name: Haoussa
   question:
   - Q2
-  iso_code:
-  - hau
-- lang_id: 1159
+- iso_code:
+  - mis
+  lang_id: 1159
   lang_name: Aklobo
   question:
   - Q2
-  iso_code:
-  - mis
-- lang_id: 1180
+- iso_code:
+  - run
+  lang_id: 1180
   lang_name: Kirundi
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - run
-- lang_id: 1220
+  - Q103
+  - Q2
+- iso_code:
+  - fub
+  lang_id: 1220
   lang_name: Foufoulde
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - fub
-- lang_id: 1221
+  - Q103
+  - Q2
+- iso_code:
+  - wes
+  lang_id: 1221
   lang_name: Pidgin
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - wes
-- lang_id: 1222
+  - Q103
+  - Q2
+- iso_code:
+  - ewo
+  lang_id: 1222
   lang_name: Ewondo
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - ewo
-- lang_id: 1223
+  - Q103
+  - Q2
+- iso_code:
+  - fmp
+  lang_id: 1223
   lang_name: Bafang
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - fmp
-- lang_id: 1224
+  - Q103
+  - Q2
+- iso_code:
+  - dua
+  lang_id: 1224
   lang_name: Douala
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - dua
-- lang_id: 1225
+  - Q103
+  - Q2
+- iso_code:
+  - ksf
+  lang_id: 1225
   lang_name: Bafia
   question:
   - Q2
-  iso_code:
-  - ksf
-- lang_id: 1226
+- iso_code:
+  - bfd
+  lang_id: 1226
   lang_name: Bafut
   question:
   - Q2
-  iso_code:
-  - bfd
-- lang_id: 1227
+- iso_code:
+  - byv
+  lang_id: 1227
   lang_name: Bagangte
+  note: 'https://en.wikipedia.org/wiki/Medumba_language
+
+    '
   question:
   - Q2
-  iso_code:
-  - byv
-  note: >
-    https://en.wikipedia.org/wiki/Medumba_language
-- lang_id: 1228
+- iso_code:
+  - bdu
+  lang_id: 1228
   lang_name: Bakundu
   question:
   - Q2
-  iso_code:
-  - bdu
-- lang_id: 1229
+- iso_code:
+  - bbj
+  - bko
+  - byv
+  - fmp
+  - jgo
+  - new
+  - nla
+  - nnh
+  - nnz
+  - xmg
+  - ybb
+  lang_id: 1229
   lang_name: Bamileke
   question:
   - Q2
-  iso_code:
-  - - bbj
-    - bko
-    - byv
-    - fmp
-    - jgo
-    - new
-    - nla
-    - nnh
-    - nnz
-    - xmg
-    - ybb
-- lang_id: 1230
+- iso_code:
+  - bax
+  lang_id: 1230
   lang_name: Bamoun
   question:
   - Q2
-  iso_code:
-  - bax
-- lang_id: 1231
+- iso_code:
+  - bbj
+  lang_id: 1231
   lang_name: Bandjoun
   question:
   - Q2
-  iso_code:
-  - bbj
-- lang_id: 1232
+- iso_code:
+  - nge
+  - nnz
+  lang_id: 1232
   lang_name: Bangwa
   question:
   - Q2
-  iso_code:
-  - - nge
-    - nnz
-- lang_id: 1233
+- iso_code:
+  - lns
+  lang_id: 1233
   lang_name: Banso
   question:
   - Q2
-  iso_code:
-  - lns
-- lang_id: 1234
+- iso_code:
+  - bas
+  - bsq
+  - ngn
+  lang_id: 1234
   lang_name: Bassa
   question:
   - Q2
-  iso_code:
-  - - bas
-    - bsq
-    - ngn
-- lang_id: 1235
+- iso_code:
+  - bdu
+  - bnm
+  - ckx
+  lang_id: 1235
   lang_name: Batanga
   question:
   - Q2
-  iso_code:
-  - - bdu
-    - bnm
-    - ckx
-- lang_id: 1236
+- iso_code:
+  - ken
+  lang_id: 1236
   lang_name: Bayangi
   question:
   - Q2
-  iso_code:
-  - ken
-- lang_id: 1237
+- iso_code:
+  - bum
+  lang_id: 1237
   lang_name: Bulu
   question:
   - Q2
-  iso_code:
-  - bum
-- lang_id: 1238
+- iso_code:
+  - ybb
+  lang_id: 1238
   lang_name: Dschang
   question:
   - Q2
-  iso_code:
-  - ybb
-- lang_id: 1239
+- iso_code:
+  - eto
+  lang_id: 1239
   lang_name: Eton
   question:
   - Q2
-  iso_code:
-  - eto
-- lang_id: 1240
+- iso_code:
+  - fal
+  - fll
+  lang_id: 1240
   lang_name: Fali
   question:
   - Q2
-  iso_code:
-  - - fal
-    - fll
-- lang_id: 1241
+- iso_code:
+  - ewo
+  lang_id: 1241
   lang_name: Fong
   question:
   - Q2
-  iso_code:
-  - ewo
-- lang_id: 1242
+- iso_code:
+  - gba
+  - gya
+  lang_id: 1242
   lang_name: Gbaya
   question:
   - Q2
-  iso_code:
-  - - gba
-    - gya
-- lang_id: 1243
+- iso_code:
+  - gid
+  lang_id: 1243
   lang_name: Guidar
   question:
   - Q2
-  iso_code:
-  - gid
-- lang_id: 1244
+- iso_code:
+  - gis
+  - giz
+  lang_id: 1244
   lang_name: Guiziga
   question:
   - Q2
-  iso_code:
-  - - gis
-    - giz
-- lang_id: 1245
+- iso_code:
+  - hau
+  lang_id: 1245
   lang_name: Haoussa
   question:
   - Q2
-  iso_code:
-  - hau
-- lang_id: 1246
+- iso_code:
+  - kvj
+  lang_id: 1246
   lang_name: Kapsiki
   question:
   - Q2
-  iso_code:
-  - kvj
-- lang_id: 1247
+- iso_code:
+  - kot
+  lang_id: 1247
   lang_name: Kotoko
+  note: 'Alt name of Lagwan
+
+    '
   question:
   - Q2
-  iso_code:
-  - kot
-  note: >
-    Alt name of Lagwan
-- lang_id: 1249
+- iso_code:
+  - maf
+  lang_id: 1249
   lang_name: Mafa
   question:
   - Q2
-  iso_code:
-  - maf
-- lang_id: 1250
+- iso_code:
+  - mkk
+  lang_id: 1250
   lang_name: Maka
   question:
   - Q2
-  iso_code:
-  - mkk
-- lang_id: 1251
+- iso_code:
+  - nge
+  lang_id: 1251
   lang_name: Mankon
   question:
   - Q2
-  iso_code:
-  - nge
-- lang_id: 1252
+- iso_code:
+  - mcn
+  lang_id: 1252
   lang_name: Massa
   question:
   - Q2
-  iso_code:
-  - mcn
-- lang_id: 1253
+- iso_code:
+  - jgo
+  - nla
+  - nnh
+  lang_id: 1253
   lang_name: Mbouda
   question:
   - Q2
-  iso_code:
-  - - jgo
-    - nla
-    - nnh
-- lang_id: 1254
+- iso_code:
+  - mdd
+  lang_id: 1254
   lang_name: Mboum
   question:
   - Q2
-  iso_code:
-  - mdd
-- lang_id: 1255
-  lang_name: Mobakoh
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - mqb
-  note: >
-    Name close to Mboku/Mbokou/Mbuku.
-- lang_id: 1256
-  lang_name: Moudang
+  lang_id: 1255
+  lang_name: Mobakoh
+  note: 'Name close to Mboku/Mbokou/Mbuku.
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - mua
-  note: >
-    Name like Mundang
-- lang_id: 1257
+  lang_id: 1256
+  lang_name: Moudang
+  note: 'Name like Mundang
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - nnh
+  lang_id: 1257
   lang_name: Ngueba
   question:
   - Q2
-  iso_code:
-  - nnh
-- lang_id: 1258
+- iso_code:
+  - nqn
+  lang_id: 1258
   lang_name: Njikwa
+  note: 'Ngwo is a language spoken in Njikwa subdivision. https://www.ethnologue.com/country/CM/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - nqn
-  note: >
-    Ngwo is a language spoken in Njikwa subdivision.
-    https://www.ethnologue.com/country/CM/languages
-- lang_id: 1259
+- iso_code:
+  - lns
+  lang_id: 1259
   lang_name: Lamnso
   question:
   - Q2
-  iso_code:
-  - lns
-- lang_id: 1260
+- iso_code:
+  - aba
+  lang_id: 1260
   lang_name: Abbey
   question:
   - Q2
-  iso_code:
-  - aba
-- lang_id: 1260
+- iso_code:
+  - dyu
+  lang_id: 1260
   lang_name: Dioula
   question:
   - Q103
-  iso_code:
-  - dyu
-- lang_id: 1261
+- iso_code:
+  - abr
+  lang_id: 1261
   lang_name: Abron
   question:
   - Q2
-  iso_code:
-  - abr
-- lang_id: 1262
+- iso_code:
+  - adj
+  lang_id: 1262
   lang_name: Adjoukrou
   question:
   - Q2
-  iso_code:
-  - adj
-- lang_id: 1263
+- iso_code:
+  - anyin
+  lang_id: 1263
   lang_name: Agni
+  note: 'Alt name of Anyin
+
+    '
   question:
   - Q2
-  iso_code:
-  - anyin
-  note: >
-    Alt name of Anyin
-- lang_id: 1264
+- iso_code:
+  - ati
+  lang_id: 1264
   lang_name: Attié
   question:
   - Q2
-  iso_code:
-  - ati
-- lang_id: 1265
+- iso_code:
+  - avi
+  lang_id: 1265
   lang_name: Avikam
   question:
   - Q2
-  iso_code:
-  - avi
-- lang_id: 1266
+- iso_code:
+  - bam
+  lang_id: 1266
   lang_name: Bambara
   question:
   - Q2
-  iso_code:
-  - bam
-- lang_id: 1267
+- iso_code:
+  - bci
+  lang_id: 1267
   lang_name: Baoulé
   question:
   - Q2
-  iso_code:
-  - bci
-- lang_id: 1268
+- iso_code:
+  - bet
+  - bev
+  - btg
+  - nwb
+  lang_id: 1268
   lang_name: Bété
   question:
   - Q2
-  iso_code:
-  - - bet
-    - bev
-    - btg
-    - nwb
-- lang_id: 1269
+- iso_code:
+  - dic
+  - gud
+  lang_id: 1269
   lang_name: Dida
   question:
   - Q2
-  iso_code:
-  - - dic
-    - gud
-- lang_id: 1270
+- iso_code:
+  - god
+  lang_id: 1270
   lang_name: Godié
   question:
   - Q2
-  iso_code:
-  - god
-- lang_id: 1271
+- iso_code:
+  - goa
+  lang_id: 1271
   lang_name: Gouro
   question:
   - Q2
-  iso_code:
-  - goa
-- lang_id: 1273
+- iso_code:
+  - gxx
+  - wec
+  lang_id: 1273
   lang_name: Guéré
   question:
   - Q2
-  iso_code:
-  - - gxx
-    - wec
-- lang_id: 1274
+- iso_code:
+  - nku
+  lang_id: 1274
   lang_name: Koulango
   question:
   - Q2
-  iso_code:
-  - nku
-- lang_id: 1275
+- iso_code:
+  - pye
+  - ted
+  lang_id: 1275
   lang_name: Kroumen
   question:
   - Q2
-  iso_code:
-  - - pye
-    - ted
-- lang_id: 1276
+- iso_code:
+  - lob
+  lang_id: 1276
   lang_name: Lobi
   question:
   - Q2
-  iso_code:
-  - lob
-- lang_id: 1277
-  lang_name: Malinké/ Dioula
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - jod
   - dyu
-  note: >
-    Alt name of Loma and Woejenaka. Dioula is the alt name of
-    Jula. https://www.ethnologue.com/country/CI/languages
-- lang_id: 1278
+  lang_id: 1277
+  lang_name: Malinké/ Dioula
+  note: 'Alt name of Loma and Woejenaka. Dioula is the alt name of Jula. https://www.ethnologue.com/country/CI/languages
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - dyi
+  - plr - seb - sef - sen - sep - seq - sev - tgw
+  lang_id: 1278
   lang_name: Sénoufo
   question:
   - Q2
-  iso_code:
-  - - dyi
-    - plr - seb - sef - sen - sep - seq - sev - tgw
-- lang_id: 1279
+- iso_code:
+  - dnj
+  lang_id: 1279
   lang_name: Yacouba
   question:
   - Q2
-  iso_code:
-  - dnj
-- lang_id: 1280
+- iso_code:
+  - wob
+  lang_id: 1280
   lang_name: Wobe
   question:
   - Q2
-  iso_code:
-  - wob
-- lang_id: 1281
+- iso_code:
+  - ebr
+  lang_id: 1281
   lang_name: Ebrie
   question:
   - Q2
-  iso_code:
-  - ebr
-- lang_id: 1282
+- iso_code:
+  - dyi
+  lang_id: 1282
   lang_name: Djimini
   question:
   - Q2
-  iso_code:
-  - dyi
-- lang_id: 1283
+- iso_code:
+  - bjw
+  lang_id: 1283
   lang_name: Bakwe
   question:
   - Q2
-  iso_code:
-  - bjw
-- lang_id: 1284
-  lang_name: Ahizi
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - ahp
   - ahm
   - ahi
-  note: >
-    Alt name for Aizi languages. https://www.ethnologue.com/country/CI/languages
-- lang_id: 1285
+  lang_id: 1284
+  lang_name: Ahizi
+  note: 'Alt name for Aizi languages. https://www.ethnologue.com/country/CI/languages
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - nwb
+  lang_id: 1285
   lang_name: Gniaboua
+  note: 'Name similar to Nyabwa (Niaboua). https://www.ethnologue.com/country/CI/languages
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - nwb
-  note: >
-    Name similar to Nyabwa (Niaboua). https://www.ethnologue.com/country/CI/languages
-- lang_id: 1286
+  lang_id: 1286
   lang_name: Kouzie
+  note: 'Dialect of Nyabwa. https://www.ethnologue.com/country/CI/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - nwb
-  note: >
-    Dialect of Nyabwa. https://www.ethnologue.com/country/CI/languages
-- lang_id: 1287
+- iso_code:
+  - kga
+  lang_id: 1287
   lang_name: Koyaka
   question:
   - Q2
-  iso_code:
-  - kga
-- lang_id: 1288
-  lang_name: Mbatto
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - gwa
-  note: >
-    Alt name for Mbato
-- lang_id: 1289
-  lang_name: Mahouka
+  lang_id: 1288
+  lang_name: Mbatto
+  note: 'Alt name for Mbato
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - mxx
-  note: >
-    Dialect of Mahou. https://www.ethnologue.com/country/CI/languages
-- lang_id: 1300
+  lang_id: 1289
+  lang_name: Mahouka
+  note: 'Dialect of Mahou. https://www.ethnologue.com/country/CI/languages
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - sus
+  lang_id: 1300
   lang_name: Soussou
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - sus
-- lang_id: 1301
-  lang_name: Baga
-  question:
+  - Q103
   - Q2
-  iso_code:
+- iso_code:
   - bmd
   - bcg
   - bsp
-  note: >
-    Baga languages that aren't extinct. https://www.ethnologue.com/country/GN/languages
-- lang_id: 1301
+  lang_id: 1301
+  lang_name: Baga
+  note: 'Baga languages that aren''t extinct. https://www.ethnologue.com/country/GN/languages
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - fuf
+  - ful
+  lang_id: 1301
   lang_name: Poular
   question:
   - Q103
-  iso_code:
-  - - fuf
-    - ful
-- lang_id: 1302
+- iso_code:
+  - emk
+  - man
+  lang_id: 1302
   lang_name: Maninka
   question:
   - Q103
-  iso_code:
-  - - emk
-    - man
-- lang_id: 1302
+- iso_code:
+  - fuf
+  - ful
+  lang_id: 1302
   lang_name: Poular
   question:
   - Q2
-  iso_code:
-  - - fuf
-    - ful
-- lang_id: 1303
+- iso_code:
+  - yal
+  lang_id: 1303
   lang_name: Djalounké
+  note: 'Djallonke is an alt name for Yalunka. https://www.ethnologue.com/country/GN/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - yal
-  note: >
-    Djallonke is an alt name for Yalunka. https://www.ethnologue.com/country/GN/languages
-- lang_id: 1303
+- iso_code:
+  - gkp
+  lang_id: 1303
   lang_name: Kpélé
   question:
   - Q103
-  iso_code:
-  - gkp
-- lang_id: 1304
+- iso_code:
+  - jad
+  lang_id: 1304
   lang_name: Diakanké
+  note: 'Diakkanke is an alt name of Jahanka. https://www.ethnologue.com/country/GN/languages
+
+    '
   question:
   - Q2
-  iso_code:
-  - jad
-  note: >
-    Diakkanke is an alt name of Jahanka. https://www.ethnologue.com/country/GN/languages
-- lang_id: 1304
+- iso_code:
+  - tod
+  lang_id: 1304
   lang_name: Toma
   question:
   - Q103
-  iso_code:
-  - tod
-- lang_id: 1305
+- iso_code:
+  - kqs
+  lang_id: 1305
   lang_name: Kissié
   question:
   - Q103
-  iso_code:
-  - kqs
-- lang_id: 1305
+- iso_code:
+  - emk
+  - man
+  lang_id: 1305
   lang_name: Maninka
   question:
   - Q2
-  iso_code:
-  - - emk
-    - man
-- lang_id: 1306
+- iso_code:
+  - mku
+  lang_id: 1306
   lang_name: konianké
+  note: 'Konyakakan is an alt name of Maninka, Konyanka.
+
+    '
   question:
   - Q2
-  iso_code:
-  - mku
-  note: >
-    Konyakakan is an alt name of Maninka, Konyanka.
-- lang_id: 1307
+- iso_code:
+  - gkp
+  lang_id: 1307
   lang_name: Kpelé
   question:
   - Q2
-  iso_code:
-  - gkp
-- lang_id: 1308
+- iso_code:
+  - mev
+  lang_id: 1308
   lang_name: Mano
   question:
   - Q2
-  iso_code:
-  - mev
-- lang_id: 1309
+- iso_code:
+  - kno
+  lang_id: 1309
   lang_name: Kono
   question:
   - Q2
-  iso_code:
-  - kno
-- lang_id: 1310
+- iso_code:
+  - tom
+  lang_id: 1310
   lang_name: Loma
   question:
   - Q2
-  iso_code:
-  - tom
-- lang_id: 1311
+- iso_code:
+  - mis
+  lang_id: 1311
   lang_name: Manian
   question:
   - Q2
-  iso_code:
-  - mis
-- lang_id: 1312
+- iso_code:
+  - kqs
+  lang_id: 1312
   lang_name: Kissié
   question:
   - Q2
-  iso_code:
-  - kqs
-- lang_id: 1313
-  lang_name: Landouma
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - ldm
-  note: >
-    Alt name for Landoma
-- lang_id: 1314
-  lang_name: Kouranko
+  lang_id: 1313
+  lang_name: Landouma
+  note: 'Alt name for Landoma
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - knk
-  note: >
-    Alt name similar to Koranko
-- lang_id: 1315
-  lang_name: Kakabhe
+  lang_id: 1314
+  lang_name: Kouranko
+  note: 'Alt name similar to Koranko
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - kke
-  note: >
-    Alt name for Kakabe.
-- lang_id: 1340
+  lang_id: 1315
+  lang_name: Kakabhe
+  note: 'Alt name for Kakabe.
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - gax
+  lang_id: 1340
   lang_name: Afan Oromo (Oromifa)
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - gax
-- lang_id: 1341
+  - Q103
+  - Q2
+- iso_code:
+  - amh
+  lang_id: 1341
   lang_name: Amharic
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - amh
-- lang_id: 1342
+  - Q103
+  - Q2
+- iso_code:
+  - som
+  lang_id: 1342
   lang_name: Somaligna
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - som
-- lang_id: 1343
+  - Q103
+  - Q2
+- iso_code:
+  - tir
+  lang_id: 1343
   lang_name: Tigrigna
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - tir
-- lang_id: 1344
+  - Q103
+  - Q2
+- iso_code:
+  - sid
+  lang_id: 1344
   lang_name: Sidamingna
   question:
   - Q2
-  iso_code:
-  - sid
-- lang_id: 1345
+- iso_code:
+  - sgw
+  lang_id: 1345
   lang_name: Guragigna
   question:
   - Q2
-  iso_code:
-  - sgw
-- lang_id: 1346
+- iso_code:
+  - wal
+  lang_id: 1346
   lang_name: Welaitigna
   question:
   - Q2
-  iso_code:
-  - wal
-- lang_id: 1347
+- iso_code:
+  - hdy
+  lang_id: 1347
   lang_name: Hadiyagna
   question:
   - Q2
-  iso_code:
-  - hdy
-- lang_id: 1348
+- iso_code:
+  - aar
+  lang_id: 1348
   lang_name: Afarigna
   question:
   - Q2
-  iso_code:
-  - aar
-- lang_id: 1349
+- iso_code:
+  - gmv
+  lang_id: 1349
   lang_name: Gamogna
   question:
   - Q2
-  iso_code:
-  - gmv
-- lang_id: 1350
+- iso_code:
+  - awn
+  lang_id: 1350
   lang_name: Agew
   question:
   - Q2
-  iso_code:
-  - awn
-- lang_id: 1351
+- iso_code:
+  - anu
+  lang_id: 1351
   lang_name: Agnwak
   question:
   - Q2
-  iso_code:
-  - anu
-- lang_id: 1352
+- iso_code:
+  - alw
+  lang_id: 1352
   lang_name: Alaba
   question:
   - Q2
-  iso_code:
-  - alw
-- lang_id: 1353
+- iso_code:
+  - agj
+  lang_id: 1353
   lang_name: Argoba
   question:
   - Q2
-  iso_code:
-  - agj
-- lang_id: 1354
+- iso_code:
+  - awn
+  lang_id: 1354
   lang_name: Awi
   question:
   - Q2
-  iso_code:
-  - awn
-- lang_id: 1355
+- iso_code:
+  - bcq
+  lang_id: 1355
   lang_name: Bench
   question:
   - Q2
-  iso_code:
-  - bcq
-- lang_id: 1356
+- iso_code:
+  - wti
+  lang_id: 1356
   lang_name: Berta
   question:
   - Q2
-  iso_code:
-  - wti
-- lang_id: 1357
+- iso_code:
+  - drs
+  lang_id: 1357
   lang_name: Gedeo
   question:
   - Q2
-  iso_code:
-  - drs
-- lang_id: 1358
+- iso_code:
+  - stv
+  lang_id: 1358
   lang_name: Silte
   question:
   - Q2
-  iso_code:
-  - stv
-- lang_id: 1359
+- iso_code:
+  - gof
+  lang_id: 1359
   lang_name: Gofa
   question:
   - Q2
-  iso_code:
-  - gof
-- lang_id: 1360
+- iso_code:
+  - guk
+  lang_id: 1360
   lang_name: Gumz
   question:
   - Q2
-  iso_code:
-  - guk
-- lang_id: 1361
+- iso_code:
+  - har
+  lang_id: 1361
   lang_name: Harari
   question:
   - Q2
-  iso_code:
-  - har
-- lang_id: 1362
+- iso_code:
+  - kbr
+  lang_id: 1362
   lang_name: Kaffa
   question:
   - Q2
-  iso_code:
-  - kbr
-- lang_id: 1363
+- iso_code:
+  - ktb
+  lang_id: 1363
   lang_name: Kembata
   question:
   - Q2
-  iso_code:
-  - ktb
-- lang_id: 1364
+- iso_code:
+  - und
+  lang_id: 1364
   lang_name: Kore
   question:
   - Q2
-  iso_code:
-  - und
-- lang_id: 1365
+- iso_code:
+  - mpe
+  lang_id: 1365
   lang_name: Mejenger
   question:
   - Q2
-  iso_code:
-  - mpe
-- lang_id: 1366
+- iso_code:
+  - muz
+  lang_id: 1366
   lang_name: Mursi
   question:
   - Q2
-  iso_code:
-  - muz
-- lang_id: 1367
+- iso_code:
+  - nus
+  lang_id: 1367
   lang_name: Nuwer
   question:
   - Q2
-  iso_code:
-  - nus
-- lang_id: 1368
+- iso_code:
+  - wle
+  lang_id: 1368
   lang_name: Welene
   question:
   - Q2
-  iso_code:
-  - wle
-- lang_id: 1420
+- iso_code:
+  - tzm
+  - zgh
+  lang_id: 1420
   lang_name: Amazigh
   question:
   - Q2
-  iso_code:
+- iso_code:
   - tzm
   - zgh
-- lang_id: 1500
+  lang_id: 1500
   lang_name: Amazigh
-  iso_code:
-  - tzm
-  - zgh
   question:
-  - - Q103
-    - Q2
-- lang_id: 1501
+  - Q103
+  - Q2
+- iso_code:
+  - mey
+  lang_id: 1501
   lang_name: Hassaniya
   question:
   - Q2
-  iso_code:
-  - mey
-- lang_id: 1580
-  iso_code:
+- iso_code:
   - tzm
   - zgh
+  lang_id: 1580
+  lang_name: Amazigh
   question:
-  - - Q103
-    - Q2
-- lang_id: 1620
+  - Q103
+  - Q2
+- iso_code:
+  - ssw
+  lang_id: 1620
   lang_name: siSwati
   question:
-  - - Q103
-    - Q2
-  iso_code:
-  - ssw
-- lang_id: 1621
+  - Q103
+  - Q2
+- iso_code:
+  - tso
+  lang_id: 1621
   lang_name: Shangaan
   question:
   - Q2
-  iso_code:
-  - tso
-- lang_id: 1622
+- iso_code:
+  - zul
+  lang_id: 1622
   lang_name: Isizulu
   question:
   - Q2
-  iso_code:
-  - zul
-- lang_id: 2220
+- iso_code:
+  - tik
+  lang_id: 2220
   lang_name: Tikari
   question:
   - Q2
-  iso_code:
-  - tik
-- lang_id: 2221
+- iso_code:
+  - tui
+  lang_id: 2221
   lang_name: Toupouri
   question:
   - Q2
-  iso_code:
-  - tui
-- lang_id: 2222
+- iso_code:
+  - yam
+  lang_id: 2222
   lang_name: Yamba
   question:
   - Q2
-  iso_code:
-  - yam
-- lang_id: 2740
+- iso_code:
+  - suj
+  lang_id: 2740
   lang_name: Kisubi
   question:
   - Q2
-  iso_code:
-  - suj
-- lang_id: 2741
-  lang_name: Kisimbiti
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - ssc
-  note: >
-    Alt name for Suba-Simbiti
-- lang_id: 2742
-  lang_name: Kikerewe
+  lang_id: 2741
+  lang_name: Kisimbiti
+  note: 'Alt name for Suba-Simbiti
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - ked
-  note: >
-    Alt name for Kerewe
-- lang_id: 2743
+  lang_id: 2742
+  lang_name: Kikerewe
+  note: 'Alt name for Kerewe
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - irk
+  lang_id: 2743
   lang_name: Kimbulu
   question:
   - Q2
-  iso_code:
-  - irk
-- lang_id: 2744
-  lang_name: Kisangu
-  question:
-  - Q2
-  iso_code:
+- iso_code:
   - sbp
-  note: >
-    Alt name for Sangu
-- lang_id: 2745
-  lang_name: Kimakua
+  lang_id: 2744
+  lang_name: Kisangu
+  note: 'Alt name for Sangu
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - mgh
-  note: >
-    Alt name for Makhuwa-Meetto
-- lang_id: 2746
-  lang_name: Kikwaya
+  lang_id: 2745
+  lang_name: Kimakua
+  note: 'Alt name for Makhuwa-Meetto
+
+    '
   question:
   - Q2
-  iso_code:
+- iso_code:
   - kya
-  note: >
-    Alt name for Kwaya
-- lang_id: 2747
+  lang_id: 2746
+  lang_name: Kikwaya
+  note: 'Alt name for Kwaya
+
+    '
+  question:
+  - Q2
+- iso_code:
+  - sbk
+  lang_id: 2747
   lang_name: Kisafwa
   question:
   - Q2
-  iso_code:
-  - sbk
-- lang_id: 2748
+- iso_code:
+  - lag
+  lang_id: 2748
   lang_name: Kirangi
   question:
   - Q2
-  iso_code:
-  - lag
-- lang_id: 2749
+- iso_code:
+  - pbr
+  lang_id: 2749
   lang_name: Kipangwa
+  note: 'Alt name for Pangwa.
+
+    '
   question:
   - Q2
-  iso_code:
-  - pbr
-  note: >
-    Alt name for Pangwa.
-- lang_id: 2750
+- iso_code:
+  - ndg
+  lang_id: 2750
   lang_name: Kindengereko
   question:
   - Q2
-  iso_code:
-  - ndg
-- lang_id: 2751
+- iso_code:
+  - nnq
+  lang_id: 2751
   lang_name: Kingindo
   question:
   - Q2
-  iso_code:
-  - nnq
-- lang_id: 2752
+- iso_code:
+  - ziw
+  lang_id: 2752
   lang_name: Kinguu
   question:
   - Q2
-  iso_code:
-  - ziw
-- lang_id: 2753
+- iso_code:
+  - nih
+  - nkt
+  lang_id: 2753
   lang_name: Kinyiha
   question:
   - Q2
-  iso_code:
-  - - nih
-    - nkt
-- lang_id: 2754
+- iso_code:
+  - mwn
+  lang_id: 2754
   lang_name: Kinyamwanga
+  note: 'Alt name for Nyamwanga
+
+    '
   question:
   - Q2
-  iso_code:
-  - mwn
-  note: >
-    Alt name for Nyamwanga
-- lang_id: 9995
+- iso_code:
+  - und
+  lang_id: 9995
   lang_name: Other
   question:
   - Q103
-  iso_code:
+- iso_code:
   - und
-- lang_id: 9995
+  lang_id: 9995
   lang_name: Others
   question:
   - Q2
-  iso_code:
+- iso_code:
   - und
-- lang_id: 9998
+  lang_id: 9998
   lang_name: Refused
   question:
   - Q2
-  iso_code:
+- iso_code:
   - und
-- lang_id: 9999
+  lang_id: 9999
   lang_name: Don't know
   question:
   - Q2
-  iso_code:
-  - und
