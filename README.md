@@ -75,3 +75,10 @@ As with the ISO 639-3 mappings, the relationship between Afrobarometer and WALS 
 |genus        |WALS language genus                                                                                                   |
 |family       |WALS language family                                                                                                  |
 |countrycodes |Countries in which the WALS language appears, as space separated ISO-3166 alpha-2 codes.
+
+
+# Note
+
+Full disclosure. I generated these for a research project. I am neither a linguistic or Africanist. I did the best I could to match languages.
+
+I only worked at the Afrobarometer language
