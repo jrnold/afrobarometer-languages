@@ -99,3 +99,23 @@ download_afrobarometer(OUTPUT)
 #     } %>% count(question, label, value, country)
 # }
 #
+
+afrobarometer_langs_r4 <- function() {
+  "http://afrobarometer.org/sites/default/files/data/round-4/merged_r4_data.sav" %>%
+  url() %>%
+  haven::read_sav() %>%
+  {bind_rows(
+    mutate(.,
+      question = "Q3",
+      country = str_sub(as.character(as_factor(RESPNO)), 1, 3),
+      label = as.character(haven::as_factor(.$Q3)),
+      value = as.integer(unclass(.$Q3))
+    ) %>% select(question, country, label, value),
+    mutate(.,
+      question = "Q103",
+      country = str_sub(as.character(as_factor(RESPNO)), 1, 3),
+      label = as.character(haven::as_factor(.$Q103)),
+      value = as.integer(unclass(.$Q103))
+    ) %>% select(question, country, label, value)
+  )} %>% count(question, label, value, country)
+}

@@ -235,10 +235,11 @@
   - ijj
   lang_id: 129
   lang_name: Ide
+  note: 'Ede Ije language? https://www.ethnologue.com/country/BJ/languages
+
+    '
   question:
   - q3
-  note: >
-    Ede Ije language? https://www.ethnologue.com/country/BJ/languages
 - iso_639_3:
   - lam
   lang_id: 130
@@ -262,21 +263,24 @@
   - xkv
   lang_id: 142
   lang_name: Sekgaladi
+  note: 'Alt name for Kgalagadi. https://www.ethnologue.com/country/BW/languages
+
+    '
   question:
   - q3
-  note: >
-    Alt name for Kgalagadi. https://www.ethnologue.com/country/BW/languages
-- iso_639_3: null
+- iso_639_3:
+  - sbs
   lang_id: 143
   lang_name: Sesobea
   question:
   - q3
 - iso_639_3:
   - kck
-  note: >
-    Alt name for Kalanga
   lang_id: 144
   lang_name: Sekalanga
+  note: 'Alt name for Kalanga
+
+    '
   question:
   - q3
 - iso_639_3:
@@ -341,10 +345,11 @@
   - ada
   lang_id: 182
   lang_name: GA/DANGBE
+  note: 'Both Ga and Dangme languages.
+
+    '
   question:
   - q3
-  note: >
-    Both Ga and Dangme languages.
 - iso_639_3:
   - dag
   lang_id: 183
@@ -491,10 +496,11 @@
   - swh
   lang_id: 212
   lang_name: Gunya
+  note: 'Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
+
+    '
   question:
   - q103
-  note: >
-    Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
 - iso_639_3:
   - tuv
   lang_id: 212
@@ -559,10 +565,11 @@
   - swh
   lang_id: 217
   lang_name: Gunya
+  note: 'Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
+
+    '
   question:
   - q3
-  note: |
-    Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
 - iso_639_3:
   - arb
   lang_id: 218
@@ -579,11 +586,12 @@
   - rag
   lang_id: 219
   lang_name: Maragoli
+  note: 'Alt name for Lulogooli. https://www.ethnologue.com/country/KE/languages
+
+    '
   question:
   - q103
   - q3
-  note: |
-    Alt name for Lulogooli. https://www.ethnologue.com/country/KE/languages
 - iso_639_3:
   - sot
   lang_id: 220
@@ -652,11 +660,16 @@
   - yue
   lang_id: 242
   lang_name: chinois
+  note: 'Chinese language.
+
+    '
   question:
   - q3
-  note: |
-    Chinese language.
-- iso_639_3: null
+- iso_639_3:
+  - swb
+  - wlc
+  - wni
+  - zdj
   lang_id: 243
   lang_name: comorien
   question:
@@ -674,13 +687,15 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - nyy
   lang_id: 261
   lang_name: Nkhonde
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - lai
   lang_id: 262
   lang_name: Lambya
   question:
@@ -693,7 +708,8 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - yao
   lang_id: 264
   lang_name: Yao
   question:
@@ -708,7 +724,8 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - ngl
   lang_id: 266
   lang_name: Lomwe
   question:
@@ -727,7 +744,8 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - ndh
   lang_id: 269
   lang_name: Sukwa
   question:
@@ -778,7 +796,8 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - mos
   lang_id: 284
   lang_name: Mossi
   question:
@@ -979,7 +998,8 @@
   lang_name: Muaui
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - mxc
   lang_id: 312
   lang_name: Nhungue
   question:
@@ -1027,7 +1047,8 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - kua
   lang_id: 326
   lang_name: Oshiwambo
   question:
@@ -1051,32 +1072,38 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - por
   lang_id: 329
   lang_name: Angolan:Portuguese
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - umb
   lang_id: 330
   lang_name: Angolan:Rumbundu
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - mhw
   lang_id: 331
   lang_name: Mbukushu/Thimbukushu
   question:
   - q103
-- iso_639_3: null
+- iso_639_3:
+  - mhw
   lang_id: 331
   lang_name: Other Kavango:Thimbukushu
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - mul
   lang_id: 332
   lang_name: English and Oshiwambo
   question:
   - q103
-- iso_639_3: null
+- iso_639_3:
+  - diu
   lang_id: 332
   lang_name: Other Kavango:Rugririku
   question:
@@ -1191,7 +1218,8 @@
   lang_name: Kanuri
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - tiv
   lang_id: 350
   lang_name: Tiv
   question:
@@ -1312,7 +1340,10 @@
   lang_name: Bambara
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - bcz
+  - bab
+  - bcb
   lang_id: 368
   lang_name: Bainouk
   question:
@@ -1474,12 +1505,14 @@
   lang_name: Jonam
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - keo
   lang_id: 410
   lang_name: Kakwa
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - kdi
   lang_id: 411
   lang_name: Kumam
   question:
@@ -1529,7 +1562,8 @@
   lang_name: Lugishu/Lumasaba
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - myx
   lang_id: 418
   lang_name: Lumasaba
   question:
@@ -1727,7 +1761,8 @@
   lang_name: Rukonzo
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - kin
   lang_id: 505
   lang_name: Runyarwanda
   question:
@@ -1743,7 +1778,8 @@
   lang_name: Runyoro - Rutooro
   question:
   - q103
-- iso_639_3: null
+- iso_639_3:
+  - nyo
   lang_id: 507
   lang_name: Rutagwenda
   question:
@@ -1828,7 +1864,8 @@
   lang_name: Bijim
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - ekp
   lang_id: 560
   lang_name: Ekpeye
   question:
@@ -1843,7 +1880,8 @@
   lang_name: Birom
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - ige
   lang_id: 563
   lang_name: Igede
   question:
@@ -1874,7 +1912,8 @@
   lang_name: Mbembe
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - say
   lang_id: 569
   lang_name: Sayawa
   question:
@@ -1904,7 +1943,8 @@
   lang_name: Marama
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - spy
   lang_id: 807
   lang_name: Sabaot
   question:

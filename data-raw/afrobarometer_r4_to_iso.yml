@@ -91,19 +91,24 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - guw
   lang_id: 108
   lang_name: Goun
   question:
   - Q103
   - Q3
-- iso_639_3: null
+  note: |
+    https://www.ethnologue.com/language/guw
+- iso_639_3:
+  - gej
   lang_id: 109
   lang_name: Mina
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - idd
   lang_id: 110
   lang_name: Idacha
   question:
@@ -115,6 +120,7 @@
   question:
   - Q103
   - Q3
+  note: ""
 - iso_639_3: null
   lang_id: 112
   lang_name: Warma
@@ -142,13 +148,15 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - sbs
   lang_id: 143
   lang_name: Sesobea
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - kck
   lang_id: 144
   lang_name: Sekalanga
   question:
@@ -189,12 +197,15 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - afr
   lang_id: 150
   lang_name: Seburu
   question:
   - Q103
   - Q3
+  note: |
+    Name for Afrikaans
 - iso_639_3:
   - naq
   lang_id: 151
@@ -209,7 +220,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mos
   lang_id: 182
   lang_name: Moore
   question:
@@ -222,7 +234,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - fuh
   lang_id: 184
   lang_name: Fulfude
   question:
@@ -290,13 +303,17 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - sen
+  - seq
+  - sep
   lang_id: 193
   lang_name: Senoufo
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - dje
   lang_id: 194
   lang_name: Djerma
   question:
@@ -309,18 +326,22 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - tuz
   lang_id: 196
   lang_name: Turka
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mos
   lang_id: 197
   lang_name: Yanan
   question:
   - Q103
   - Q3
+  note: |
+    Yana is a dialect of Moore. https://www.ethnologue.com/country/BF/languages
 - iso_639_3:
   - rkm
   lang_id: 198
@@ -345,13 +366,15 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - kfz
   lang_id: 201
   lang_name: Fuls
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - hmb
   lang_id: 202
   lang_name: Sonra
   question:
@@ -364,7 +387,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - por
   lang_id: 221
   lang_name: Portugues
   question:
@@ -415,19 +439,24 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - wss
   lang_id: 266
   lang_name: Wassa
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - any
   lang_id: 267
   lang_name: Brosa
   question:
   - Q103
   - Q3
-- iso_639_3: null
+  note: |
+    Dialect of Anyin. https://www.ethnologue.com/country/GH/languages
+- iso_639_3:
+  - sfw
   lang_id: 268
   lang_name: Sefwi
   question:
@@ -454,31 +483,51 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - xon
   lang_id: 272
   lang_name: Kokonba
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - dga
   lang_id: 273
   lang_name: Dagate
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - kus
   lang_id: 274
   lang_name: Kusasi/Kusaase
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - las
+  - sig
+  - sil
+  - ssl
+  - tpm
+  - kdh
+  - vag
+  - cli
+  - cll
+  - mzw
+  - ntr
+  - kbp
+  - xsm
   lang_id: 275
   lang_name: Grussi
   question:
   - Q103
   - Q3
-- iso_639_3: null
+  note: |
+    All Grusi languages in https://www.ethnologue.com/country/GH/languages
+- iso_639_3:
+  - sil
+  - ssl
   lang_id: 276
   lang_name: Sisila
   question:
@@ -491,7 +540,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - maw
   lang_id: 278
   lang_name: Mamprusi
   question:
@@ -518,30 +568,36 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - bwi
   lang_id: 282
   lang_name: Bule
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - xsm
   lang_id: 283
   lang_name: Kasem
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - biv
   lang_id: 284
   lang_name: Brefo/Birfuo
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - bud
   lang_id: 285
   lang_name: Basare
   question:
   - Q103
   - Q3
+  note: |
+    Alt name for Ntcham. https://www.ethnologue.com/country/GH/languages
 - iso_639_3:
   - kik
   lang_id: 300
@@ -605,18 +661,25 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mas
+  - saq
   lang_id: 307
   lang_name: Masai/Samburu
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - nyf
+  - coh
+  - dug
   lang_id: 308
   lang_name: MijiKenda
   question:
   - Q103
   - Q3
+  note: |
+    Languages mentioning Mijikenda community. https://www.ethnologue.com/country/KE/languages
 - iso_639_3:
   - dav
   lang_id: 309
@@ -653,7 +716,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - gax
   lang_id: 314
   lang_name: Gabra
   question:
@@ -828,7 +892,7 @@
   - tkg
   - txy
   - xmv
-  - xmw  
+  - xmw
   lang_id: 421
   lang_name: Malagasy with regional variation
   question:
@@ -928,11 +992,12 @@
   - ndh
   lang_id: 469
   lang_name: Sukwa
+  note: 'Sukwa is a dialect of Ndali. https://www.ethnologue.com/country/MW/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Sukwa is a dialect of Ndali. https://www.ethnologue.com/country/MW/languages
 - iso_639_3:
   - nse
   - tum
@@ -976,10 +1041,10 @@
   - kdn
   lang_id: 475
   lang_name: Chikunda
+  note: Alt name for Kunda.
   question:
   - Q103
   - Q3
-  note: Alt name for Kunda.
 - iso_639_3:
   - mwn
   lang_id: 476
@@ -987,7 +1052,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mis
   lang_id: 477
   lang_name: Wiza
   question:
@@ -1059,21 +1125,25 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - bam
   lang_id: 507
   lang_name: Gana
   question:
   - Q103
   - Q3
+  note: |
+    Gana people speak Bambara. https://www.ethnologue.com/language/bam
 - iso_639_3:
   - kao
   lang_id: 508
   lang_name: Khassonke
+  note: 'Alt name for Xaasongaxango
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name for Xaasongaxango
 - iso_639_3:
   - mwk
   - mlg
@@ -1231,11 +1301,12 @@
   - yao
   lang_id: 550
   lang_name: Ajua
+  note: 'Alt name of Yao is Ajawa. https://www.ethnologue.com/country/MZ/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name of Yao is Ajawa. https://www.ethnologue.com/country/MZ/languages
 - iso_639_3:
   - nya
   lang_id: 551
@@ -1275,17 +1346,21 @@
   - mxc
   lang_id: 556
   lang_name: Nhungue
+  note: 'Alt name of Manyika is Hungwe. https://www.ethnologue.com/country/MZ/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name of Manyika is Hungwe. https://www.ethnologue.com/country/MZ/languages
-- iso_639_3: null
+- iso_639_3:
+  - tsc
   lang_id: 557
   lang_name: Matsua
   question:
   - Q103
   - Q3
+  note: |
+    Assume its a dialect or altname of Tswa since Tsua = Tswa.
 - iso_639_3:
   - rng
   lang_id: 558
@@ -1373,11 +1448,12 @@
   - diu
   lang_id: 586
   lang_name: Rugririku
+  note: 'Alt name of Diriku is Rugciriku. https://www.ethnologue.com/country/NA/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name of Diriku is Rugciriku. https://www.ethnologue.com/country/NA/languages
 - iso_639_3:
   - mhw
   lang_id: 587
@@ -1432,11 +1508,12 @@
   - kua
   lang_id: 593
   lang_name: Nyemba
+  note: 'Alt name of Kwanyama? https://www.ethnologue.com/country/NA/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name of Kwanyama? https://www.ethnologue.com/country/NA/languages
 - iso_639_3:
   - umb
   lang_id: 594
@@ -1635,20 +1712,22 @@
   - yaz
   lang_id: 647
   lang_name: Ugep
+  note: 'Dialect of Lokaa. https://www.ethnologue.com/country/NG/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Dialect of Lokaa. https://www.ethnologue.com/country/NG/languages
 - iso_639_3:
   - yaz
   lang_id: 648
   lang_name: Kambari
+  note: 'Dialect of Lokaa
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Dialect of Lokaa
 - iso_639_3:
   - ego
   lang_id: 649
@@ -1660,11 +1739,12 @@
   - kcg
   lang_id: 650
   lang_name: Kataf (Atyap)
+  note: 'Dialect of Tyap. https://www.ethnologue.com/country/NG/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Dialect of Tyap. https://www.ethnologue.com/country/NG/languages
 - iso_639_3:
   - abn
   lang_id: 651
@@ -1672,7 +1752,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mis
   lang_id: 652
   lang_name: Mbebe
   question:
@@ -2162,11 +2243,12 @@
   - nyo
   lang_id: 782
   lang_name: Runyolo
+  note: 'https://en.wikipedia.org/wiki/Nyoro_language
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    https://en.wikipedia.org/wiki/Nyoro_language
 - iso_639_3:
   - xog
   lang_id: 783
@@ -2235,11 +2317,12 @@
   - adh
   lang_id: 792
   lang_name: Japhadhola
+  note: 'Alt name of Adhola. https://en.wikipedia.org/wiki/Adhola_dialect
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name of Adhola. https://en.wikipedia.org/wiki/Adhola_dialect
 - iso_639_3:
   - lsm
   - luy
@@ -2294,29 +2377,32 @@
   - ruc
   lang_id: 800
   lang_name: Lululi
+  note: 'Ruuli. https://www.ethnologue.com/country/UG/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Ruuli. https://www.ethnologue.com/country/UG/languages
 - iso_639_3:
   - rwm
   lang_id: 801
   lang_name: Lwamba
+  note: 'Alt name for Amba. https://www.ethnologue.com/country/UG/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name for Amba. https://www.ethnologue.com/country/UG/languages
 - iso_639_3:
   - kcn
   lang_id: 802
   lang_name: Nubian
+  note: 'In Uganda, probably Nubi. https://www.ethnologue.com/country/UG/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    In Uganda, probably Nubi. https://www.ethnologue.com/country/UG/languages
 - iso_639_3:
   - kin
   lang_id: 803
@@ -2335,11 +2421,12 @@
   - kpz
   lang_id: 805
   lang_name: Sabiny
+  note: 'Alt name for Kupsapiiny. https://www.ethnologue.com/country/UG/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name for Kupsapiiny. https://www.ethnologue.com/country/UG/languages
 - iso_639_3:
   - bem
   lang_id: 820
@@ -2700,29 +2787,32 @@
   - gun
   lang_id: 108
   lang_name: Goun
+  note: 'Alt name for Gun. https://www.ethnologue.com/country/BJ/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name for Gun. https://www.ethnologue.com/country/BJ/languages
 - iso_639_3:
   - gej
   lang_id: 109
   lang_name: Mina
+  note: 'Alt name for Gen. https://www.ethnologue.com/country/BJ/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name for Gen. https://www.ethnologue.com/country/BJ/languages
 - iso_639_3:
   - idd
   lang_id: 110
   lang_name: Idacha
+  note: 'Alt name for Ede Idaca. https://www.ethnologue.com/country/BJ/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name for Ede Idaca. https://www.ethnologue.com/country/BJ/languages
 - iso_639_3:
   - mis
   lang_id: 111
@@ -2734,10 +2824,10 @@
   - wwa
   lang_id: 112
   lang_name: Warma
+  name: Waama
   question:
   - Q103
   - Q3
-  name: Waama
 - iso_639_3:
   - tsn
   lang_id: 140
@@ -2763,20 +2853,22 @@
   - sbs
   lang_id: 143
   lang_name: Sesobea
+  note: 'Alt name of Kuhane. https://www.ethnologue.com/country/BW/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name of Kuhane. https://www.ethnologue.com/country/BW/languages
 - iso_639_3:
   - kck
   lang_id: 144
   lang_name: Sekalanga
+  note: 'Alt name of Kalanga. https://www.ethnologue.com/country/BW/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name of Kalanga. https://www.ethnologue.com/country/BW/languages
 - iso_639_3:
   - her
   lang_id: 145
@@ -2922,20 +3014,22 @@
   - sep
   lang_id: 193
   lang_name: Senoufo
+  note: 'Senoufo languages. https://www.ethnologue.com/country/BF/languages
+
+    '
   question:
   - Q103
   - Q3
-  note:  |
-    Senoufo languages. https://www.ethnologue.com/country/BF/languages
 - iso_639_3:
   - dje
   lang_id: 194
   lang_name: Djerma
+  note: 'Alt name for Zarma. https://www.ethnologue.com/country/BF/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name for Zarma. https://www.ethnologue.com/country/BF/languages
 - iso_639_3:
   - cme
   lang_id: 195
@@ -2954,11 +3048,12 @@
   - mos
   lang_id: 197
   lang_name: Yanan
+  note: 'Yana is a dialect of Moore. https://www.ethnologue.com/country/BF/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Yana is a dialect of Moore. https://www.ethnologue.com/country/BF/languages
 - iso_639_3:
   - rkm
   lang_id: 198
@@ -2987,20 +3082,22 @@
   - kfz
   lang_id: 201
   lang_name: Fuls
+  note: 'Alt name for Koromfe. https://www.ethnologue.com/country/BF/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name for Koromfe. https://www.ethnologue.com/country/BF/languages
 - iso_639_3:
   - hmb
   lang_id: 202
   lang_name: Sonra
+  note: 'Sonrai is alt name for Songhay. https://www.ethnologue.com/country/BF/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Sonrai is alt name for Songhay. https://www.ethnologue.com/country/BF/languages
 - iso_639_3:
   - kea
   lang_id: 220
@@ -3064,19 +3161,20 @@
   - wss
   lang_id: 266
   lang_name: Wassa
+  note: Wasa
   question:
   - Q103
   - Q3
-  note: Wasa
 - iso_639_3:
   - any
   lang_id: 267
   lang_name: Brosa
+  note: 'Dialect of Anyin. https://www.ethnologue.com/country/GH/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Dialect of Anyin. https://www.ethnologue.com/country/GH/languages
 - iso_639_3:
   - sfw
   lang_id: 268
@@ -3109,11 +3207,12 @@
   - xon
   lang_id: 272
   lang_name: Kokonba
+  note: 'Konkomba.  https://en.wikipedia.org/wiki/Konkomba_language
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Konkomba.  https://en.wikipedia.org/wiki/Konkomba_language
 - iso_639_3:
   - dga
   lang_id: 273
@@ -3125,10 +3224,10 @@
   - kus
   lang_id: 274
   lang_name: Kusasi/Kusaase
+  name: Kusaal
   question:
   - Q103
   - Q3
-  name: Kusaal
 - iso_639_3:
   - sil
   - ssl
@@ -3145,20 +3244,21 @@
   - kdh
   lang_id: 275
   lang_name: Grussi
+  note: 'Use all Grusi languages mentioned in https://www.ethnologue.com/country/GH/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Use all Grusi languages mentioned in https://www.ethnologue.com/country/GH/languages
 - iso_639_3:
   - sil
   - ssl
   lang_id: 276
   lang_name: Sisila
+  name: Sisaala
   question:
   - Q103
   - Q3
-  name: Sisaala
 - iso_639_3:
   - wlx
   lang_id: 277
@@ -3170,11 +3270,12 @@
   - maw
   lang_id: 278
   lang_name: Mamprusi
+  note: 'Alt name for Mampruli. https://www.ethnologue.com/country/GH/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name for Mampruli. https://www.ethnologue.com/country/GH/languages
 - iso_639_3:
   - mis
   lang_id: 279
@@ -3200,11 +3301,12 @@
   - bwu
   lang_id: 282
   lang_name: Bule
+  note: 'Buli. https://www.ethnologue.com/country/GH/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Buli. https://www.ethnologue.com/country/GH/languages
 - iso_639_3:
   - xsm
   lang_id: 283
@@ -3223,11 +3325,12 @@
   - bud
   lang_id: 285
   lang_name: Basare
+  note: 'Alt name for Ntcham. https://www.ethnologue.com/country/GH/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    Alt name for Ntcham. https://www.ethnologue.com/country/GH/languages
 - iso_639_3:
   - kik
   lang_id: 300
@@ -3303,11 +3406,12 @@
   - nyf
   lang_id: 308
   lang_name: MijiKenda
+  note: 'https://www.ethnologue.com/country/KE/languages
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    https://www.ethnologue.com/country/KE/languages
 - iso_639_3:
   - dav
   lang_id: 309
@@ -3348,11 +3452,12 @@
   - gax
   lang_id: 314
   lang_name: Gabra
+  note: 'https://en.wikipedia.org/wiki/Gabra_people
+
+    '
   question:
   - Q103
   - Q3
-  note: |
-    https://en.wikipedia.org/wiki/Gabra_people
 - iso_639_3:
   - sot
   lang_id: 340
@@ -3604,12 +3709,15 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - nya
   lang_id: 467
   lang_name: Mang'anja
   question:
   - Q103
   - Q3
+  note: |
+    Dialect/alt-name of Chichewa. https://www.ethnologue.com/country/MW/languages
 - iso_639_3:
   - seh
   lang_id: 468
@@ -3617,12 +3725,15 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - ndh
   lang_id: 469
   lang_name: Sukwa
   question:
   - Q103
   - Q3
+  note: |
+    Dialect of Ndali. https://www.ethnologue.com/country/MW/languages
 - iso_639_3:
   - nse
   - tum
@@ -3640,13 +3751,15 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - kzn
   lang_id: 472
   lang_name: Khokhola
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - ndh
   lang_id: 473
   lang_name: Ndali
   question:
@@ -3660,7 +3773,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - kdn
   lang_id: 475
   lang_name: Chikunda
   question:
@@ -3673,7 +3787,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mis
   lang_id: 477
   lang_name: Wiza
   question:
@@ -3745,19 +3860,23 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mis
   lang_id: 507
   lang_name: Gana
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - kao
   lang_id: 508
   lang_name: Khassonke
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mwk
+  - mlq
   lang_id: 509
   lang_name: Malinke
   question:
@@ -3777,19 +3896,22 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - ffm
   lang_id: 512
   lang_name: Peulh/ Fulfulde
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - myk
   lang_id: 513
   lang_name: Senufo/ Mianka
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - snk
   lang_id: 514
   lang_name: Soninke/ Sarakoll
   question:
@@ -3918,19 +4040,22 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - twx
   lang_id: 552
   lang_name: Chiute
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - eko
   lang_id: 553
   lang_name: Coti
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - llb
   lang_id: 554
   lang_name: Lolo
   question:
@@ -3943,12 +4068,15 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mxc
   lang_id: 556
   lang_name: Nhungue
   question:
   - Q103
   - Q3
+  note: |
+    Hungwe is a dialect of Manyika
 - iso_639_3: null
   lang_id: 557
   lang_name: Matsua
@@ -3976,19 +4104,22 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - twx
   lang_id: 561
   lang_name: Tewe
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - tsc
   lang_id: 562
   lang_name: Xitsau
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - wmw
   lang_id: 563
   lang_name: Muani
   question:
@@ -4035,7 +4166,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - diu
   lang_id: 586
   lang_name: Rugririku
   question:
@@ -4084,19 +4216,23 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - fwe
   lang_id: 592
   lang_name: Mufwe
   question:
   - Q103
   - Q3
-- iso_639_3: null
+  note: Fwe language
+- iso_639_3:
+  - nba
   lang_id: 593
   lang_name: Nyemba
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - umb
   lang_id: 594
   lang_name: Uumbundu
   question:
@@ -4192,7 +4328,11 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - ijs
+  - ijn
+  - ann
+  - ogo
   lang_id: 632
   lang_name: Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe
   question:
@@ -4254,19 +4394,23 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - ige
   lang_id: 643
   lang_name: Igede
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - bwr
   lang_id: 644
   lang_name: Babur
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mrt
+  - mfm
   lang_id: 645
   lang_name: Marghi
   question:
@@ -4279,13 +4423,18 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - yaz
   lang_id: 647
   lang_name: Ugep
   question:
   - Q103
   - Q3
-- iso_639_3: null
+  note: |
+    Dialect of Lokaa. https://www.ethnologue.com/country/NG/languages
+- iso_639_3:
+  - kdl
+  - tsw
   lang_id: 648
   lang_name: Kambari
   question:
@@ -4298,37 +4447,46 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - kcg
   lang_id: 650
   lang_name: Kataf (Atyap)
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - abn
   lang_id: 651
   lang_name: Abua
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mfn
+  - oda
   lang_id: 652
   lang_name: Mbebe
   question:
   - Q103
   - Q3
-- iso_639_3: null
+  note: |
+    Mbembe https://www.ethnologue.com/language/mfn
+- iso_639_3:
+  - elm
   lang_id: 653
   lang_name: Eleme
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - mzm
   lang_id: 654
   lang_name: Mumuye
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - etu
   lang_id: 655
   lang_name: Ejagam
   question:
@@ -4341,13 +4499,15 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - ogb
   lang_id: 657
   lang_name: Ogbia
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - ogo
   lang_id: 658
   lang_name: Khana
   question:
@@ -4791,7 +4951,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - nyo
   lang_id: 782
   lang_name: Runyolo
   question:
@@ -4861,7 +5022,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - adh
   lang_id: 792
   lang_name: Japhadhola
   question:
@@ -4917,19 +5079,22 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - ruc
   lang_id: 800
   lang_name: Lululi
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - rwm
   lang_id: 801
   lang_name: Lwamba
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - kcn
   lang_id: 802
   lang_name: Nubian
   question:
@@ -4949,7 +5114,8 @@
   question:
   - Q103
   - Q3
-- iso_639_3: null
+- iso_639_3:
+  - kpz
   lang_id: 805
   lang_name: Sabiny
   question:
