@@ -1,840 +1,840 @@
-question,lang_id,lang_name,iso_639_3,iso_ref_name,iso_scope,note
-Q103,-1,Missing,und,,,Custom ISO code for “missing”
-Q103,1,English,eng,English,I,
-Q103,2,French,fra,French,I,
-Q103,3,Portuguese,por,Portuguese,I,
-Q103,4,Swahili,swa,Swahili (macrolanguage),M,
-Q103,4,Swahili,swh,Swahili (individual language),I,
-Q103,5,Arabic,ara,Arabic,M,"Since this applies to all surveys, standard arabic is all I can use."
-Q103,5,Arabic,arb,Standard Arabic,I,"Since this applies to all surveys, standard arabic is all I can use."
-Q103,7,Afrikaans,afr,Afrikaans,I,
-Q103,15,Dioula,dyu,Dyula,I,
-Q103,16,Ewe,ewe,Ewe,I,
-Q103,18,Fulfuldé,fuh,Western Niger Fulfulde,I,
-Q103,18,Fulfuldé,ful,Fulah,M,
-Q103,18,Fulfuldé,fuq,Central-Eastern Niger Fulfulde,I,
-Q103,20,Hausa,hau,Hausa,I,
-Q103,32,Tamasheq,taq,Tamasheq,I,
-Q103,32,Tamasheq,thv,Tahaggart Tamahaq,I,
-Q103,32,Tamasheq,tmh,Tamashek,M,
-Q103,32,Tamasheq,ttq,Tawallammat Tamajaq,I,
-Q103,35,Yoruba,yor,Yoruba,I,
-Q103,100,Fon,fon,Fon,I,
-Q103,101,Adja,ajg,Aja (Benin),I,
-Q103,102,Bariba,bba,Baatonum,I,
-Q103,104,Outamari,tbz,Ditammari,I,
-Q103,105,Peulh,fue,Borgu Fulfulde,I,
-Q103,105,Peulh,fuh,Western Niger Fulfulde,I,
-Q103,105,Peulh,ful,Fulah,M,
-Q103,106,Lopka,dop,Lukpa,I,Lokpa
-Q103,140,Setswana,tsn,Tswana,I,
-Q103,180,Mooré,mos,Mossi,I,
-Q103,183,Gulmacema,gux,Gourmanchéma,I,Gourmanchema language also goes by https://en.wikipedia.org/wiki/Gourmanch%C3%A9_language
-Q103,184,Gourounsi,gur,Farefare,I,Farfene or Gurenne
-Q103,220,Crioulo,kea,Kabuverdianu,I,
-Q103,221,Português,por,Portuguese,I,
-Q103,260,Akan,aka,Akan,M,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
-"
-Q103,260,Akan,fat,Fanti,I,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
-"
-Q103,260,Akan,twi,Twi,I,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
-"
-Q103,262,Ga/Dangbe,adq,Adangbe,I,
-Q103,262,Ga/Dangbe,gaa,Ga,I,
-Q103,263,Dagbani,dag,Dagbani,I,
-Q103,265,Waala,wlx,Wali (Ghana),I,Wali
-Q103,273,Dagaree,dga,Southern Dagaare,I,Dagaare
-Q103,300,Kikuyu,kik,Kikuyu,I,
-Q103,301,Luo,luo,Luo (Kenya and Tanzania),I,
-Q103,302,Luhya,lkb,Kabras,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q103,302,Luhya,lks,Kisa,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q103,302,Luhya,lto,Tsotso,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q103,302,Luhya,luy,Luyia,M,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q103,302,Luhya,lwg,Wanga,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q103,302,Luhya,nle,East Nyala,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q103,303,Kamba,kam,Kamba (Kenya),I,
-Q103,304,Kalenjin,enb,Markweeta,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q103,304,Kalenjin,eyo,Keiyo,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q103,304,Kalenjin,kln,Kalenjin,M,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q103,304,Kalenjin,niq,Nandi,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q103,304,Kalenjin,oki,Okiek,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q103,304,Kalenjin,sgc,Kipsigis,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q103,304,Kalenjin,spy,Sabaot,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q103,304,Kalenjin,tec,Terik,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q103,304,Kalenjin,tuy,Tugen,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q103,305,Kisii,guz,Gusii,I,
-Q103,306,Meru/Samburu,mer,Meru,I,
-Q103,306,Meru/Samburu,saq,Samburu,I,
-Q103,307,Maasai / Samburu,mas,Masai,I,
-Q103,307,Maasai / Samburu,saq,Samburu,I,
-Q103,310,Somali,som,Somali,I,
-Q103,340,Sesotho,sot,Southern Sotho,I,
-Q103,380,Liberian English,lir,Liberian English,I,
-Q103,420,Malgache « officiel »,mlg,Malagasy,M,Plateau Malagasay is considered the official language: https://www.ethnologue.com/language/plt
-Q103,420,Malgache « officiel »,plt,Plateau Malagasy,I,Plateau Malagasay is considered the official language: https://www.ethnologue.com/language/plt
-Q103,421,Malgache avec spécificité régionale,bhr,Bara Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,bmm,Northern Betsimisaraka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,buc,Bushi,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,bzc,Southern Betsimisaraka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,mlg,Malagasy,M,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,msh,Masikoro Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,skg,Sakalava Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,tdx,Tandroy-Mahafaly Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,tkg,Tesaka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,txy,Tanosy Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,xmv,Antankarana Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,421,Malgache avec spécificité régionale,xmw,Tsimihety Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q103,460,Chitumbuka,tum,Tumbuka,I,
-Q103,463,Chichewa,nya,Nyanja,I,
-Q103,501,Bambara,bam,Bambara,I,
-Q103,514,Peulh/Fulfude,ffm,Maasina Fulfulde,I,"Fulfulde. This is the Fula langauge spoken in Mali. The Mali code is ‘ffm’ but should we just keep it as ‘ful?
-"
-Q103,514,Peulh/Fulfude,ful,Fulah,M,"Fulfulde. This is the Fula langauge spoken in Mali. The Mali code is ‘ffm’ but should we just keep it as ‘ful?
-"
-Q103,517,Soninké,snk,Soninke,I,
-Q103,518,Sonrhai,hmb,Humburi Senni Songhay,I,
-Q103,518,Sonrhai,khq,Koyra Chiini Songhay,I,
-Q103,518,Sonrhai,ses,Koyraboro Senni Songhai,I,
-Q103,540,Makua,vmw,Makhuwa,I,
-Q103,541,Sena,seh,Sena,I,
-Q103,542,Ndau,ndc,Ndau,I,
-Q103,543,Changana,tso,Tsonga,I,
-Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,I,
-Q103,582,Otjiherero,her,Herero,I,
-Q103,583,Rukwangali,kwn,Kwangali,I,
-Q103,621,Igbo,agb,Legbo,I,
-Q103,621,Igbo,ibo,Igbo,I,
-Q103,623,Pidgin English,pcm,Nigerian Pidgin,I,
-Q103,660,Wolof,wol,Wolof,I,
-Q103,661,Pulaar/Toucouleur,fuc,Pulaar,I,
-Q103,661,Pulaar/Toucouleur,ful,Fulah,M,
-Q103,665,Diola,dyo,Jola-Fonyi,I,Acholi
-Q103,702,Xhosa,xho,Xhosa,I,
-Q103,703,Pedi/Spedi/North Sotho,nso,Pedi,I,
-Q103,704,Sesotho/Sotho/South Sotho,nso,Pedi,I,
-Q103,704,Sesotho/Sotho/South Sotho,sot,Southern Sotho,I,
-Q103,705,Setswana/Tswana,tsn,Tswana,I,
-Q103,708,Venda,ven,Venda,I,
-Q103,709,Zulu,zul,Zulu,I,
-Q103,780,Luganda,lug,Ganda,I,
-Q103,781,Runyankore-Rukiga,cgg,Chiga,I,
-Q103,782,Runyoro-Rutooro,nyo,Nyoro,I,Runyoro-Rutooro (according to WALS)
-Q103,783,Lusoga,xog,Soga,I,
-Q103,784,Lumasaaba,myx,Masaaba,I,
-Q103,787,Ateso,teo,Teso,I,
-Q103,788,Acholi-Langi,ach,Acoli,I,Acholi
-Q103,789,Alur,alz,Alur,I,
-Q103,790,Lugbara,lgg,Lugbara,I,
-Q103,792,Japadhola,adh,Adhola,I,Adhola
-Q103,798,Kupsabinyi,kpz,Kupsabiny,I,Kupsabiny or Sabiny https://en.wikipedia.org/wiki/Sabiny_language
-Q103,799,Ngakarimajong,kdj,Karamojong,I,Ngakarimojong
-Q103,820,Chewa/Nyanja,nya,Nyanja,I,
-Q103,821,Bembia,bem,Bemba (Zambia),I,Bemba is only off by one letter and one of bhe more widely spoken languages. It looks like an Afrobarometer typo.
-Q103,822,Tonga,toi,Tonga (Zambia),I,
-Q103,823,Kaonde,kqn,Kaonde,I,
-Q103,824,Lozi,loz,Lozi,I,
-Q103,860,Ndebele,nde,North Ndebele,I,
-Q103,861,Shona,sna,Shona,I,
-Q103,900,Creole,mfe,Morisyen,I,Mauritian Creole
-Q103,930,Krio,kri,Krio,I,
-Q103,931,Mende,men,Mende (Sierra Leone),I,
-Q103,932,Temne,tem,Timne,I,
-Q103,1100,Haoussa,hau,Hausa,I,
-Q103,1101,Zarma/Songhaï,dje,Zarma,I,
-Q103,1142,Kabye,kbp,Kabiyè,I,
-Q103,1143,Tem (Kotokoli),kdh,Tem,I,
-Q103,1144,Ben (Moba),mfq,Moba,I,
-Q103,1145,Nawdem (Losso),las,Lama (Togo),I,
-Q103,1145,Nawdem (Losso),nmz,Nawdm,I,
-Q103,1180,Kirundi,run,Rundi,I,
-Q103,1220,Foufouldé,fub,Adamawa Fulfulde,I,https://www.ethnologue.com/country/cm/languages
-Q103,1220,Foufouldé,ful,Fulah,M,https://www.ethnologue.com/country/cm/languages
-Q103,1220,Foufouldé,fuv,Nigerian Fulfulde,I,https://www.ethnologue.com/country/cm/languages
-Q103,1221,Pidgin,wes,Cameroon Pidgin,I,
-Q103,1222,Ewondo,ewo,Ewondo,I,
-Q103,1300,Soussou,sus,Susu,I,Susu
-Q103,1302,Poular,fuf,Pular,I,Pular is the Fula language generally spoken in Guinea
-Q103,1302,Poular,ful,Fulah,M,Pular is the Fula language generally spoken in Guinea
-Q103,1305,Maninka,emk,Eastern Maninkakan,I,Maninka are a lot of closely related languages. Eastern Manika seems to be the most widely used.
-Q103,1305,Maninka,man,Mandingo,M,Maninka are a lot of closely related languages. Eastern Manika seems to be the most widely used.
-Q103,1307,Kpèlè,gkp,Guinea Kpelle,I,https://en.wikipedia.org/wiki/Kpelle_language
-Q103,1307,Kpèlè,kpe,Kpelle,M,https://en.wikipedia.org/wiki/Kpelle_language
-Q103,1312,Kissié,kqs,Northern Kissi,I,https://en.wikipedia.org/wiki/Kissi_language
-Q103,1620,siSwati,ssw,Swati,I,
-Q103,1660,Creolo,aoa,Angolar,I,https://en.wikipedia.org/wiki/Angolar_Creole
-Q103,9995,Other,und,,,"Custom ISO code for “other”
-"
-Q103,9998,,und,,,"Custom ISO code for “refused to answer”
-"
-Q103,9999,,und,,,"Custom ISO code for ""don't know"""
-Q2,-1,Missing,und,,,Custom ISO code for “missing”
-Q2,1,English,eng,English,I,
-Q2,2,French,fra,French,I,
-Q2,3,Portuguese,por,Portuguese,I,
-Q2,4,Swahili,swa,Swahili (macrolanguage),M,
-Q2,4,Swahili,swh,Swahili (individual language),I,
-Q2,5,Arabic,ara,Arabic,M,"Since this applies to all surveys, standard arabic is all I can use."
-Q2,5,Arabic,arb,Standard Arabic,I,"Since this applies to all surveys, standard arabic is all I can use."
-Q2,6,Adja,ajg,Aja (Benin),I,
-Q2,7,Afrikaans,afr,Afrikaans,I,
-Q2,8,Arabe,mey,Hassaniyya,I,"Hassanyi Arabic, the form of Maghrebi Arabic spoken in Mali"
-Q2,9,Bambara,bam,Bambara,I,
-Q2,10,Bassa,bas,Basa (Cameroon),I,
-Q2,10,Bassa,bsq,Bassa,I,
-Q2,10,Bassa,ngn,Ngwo,I,
-Q2,11,Berber Language,cnu,Chenoua,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
-Q2,11,Berber Language,kab,Kabyle,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
-Q2,11,Berber Language,rif,Tarifit,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
-Q2,11,Berber Language,shi,Tachelhit,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
-Q2,11,Berber Language,shy,Tachawit,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
-Q2,11,Berber Language,thv,Tahaggart Tamahaq,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
-Q2,11,Berber Language,tmh,Tamashek,M,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
-Q2,11,Berber Language,tzm,Central Atlas Tamazight,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
-Q2,12,Bissa,bib,Bissa,I,
-Q2,13,Bobo,bbo,Northern Bobo Madaré,I,
-Q2,13,Bobo,bmq,Bomu,I,
-Q2,13,Bobo,box,Buamu,I,
-Q2,13,Bobo,bwq,Southern Bobo Madaré,I,
-Q2,14,Chewa,nya,Nyanja,I,
-Q2,15,Dioula,dyu,Dyula,I,
-Q2,16,Ewe,ewe,Ewe,I,
-Q2,17,Fon,fon,Fon,I,
-Q2,18,Fulfuldé,fuh,Western Niger Fulfulde,I,
-Q2,18,Fulfuldé,ful,Fulah,M,
-Q2,18,Fulfuldé,fuq,Central-Eastern Niger Fulfulde,I,
-Q2,19,Haoussa,hau,Hausa,I,
-Q2,20,Hausa,hau,Hausa,I,
-Q2,21,Kanuri,bms,Bilma Kanuri,I,
-Q2,21,Kanuri,kau,Kanuri,M,
-Q2,21,Kanuri,kby,Manga Kanuri,I,
-Q2,21,Kanuri,knc,Central Kanuri,I,
-Q2,21,Kanuri,krt,Tumari Kanuri,I,
-Q2,22,Kissi,kqs,Northern Kissi,I,
-Q2,22,Kissi,kss,Southern Kisi,I,
-Q2,23,Lobi,lob,Lobi,I,
-Q2,24,Mano,mev,Mano,I,
-Q2,25,Mende,men,Mende (Sierra Leone),I,
-Q2,26,Ndau,ndc,Ndau,I,
-Q2,27,Ndebele,nbl,South Ndebele,I,
-Q2,27,Ndebele,nde,North Ndebele,I,
-Q2,28,Nyanja,nya,Nyanja,I,
-Q2,29,Peulh,fue,Borgu Fulfulde,I,
-Q2,29,Peulh,fuh,Western Niger Fulfulde,I,
-Q2,29,Peulh,ful,Fulah,M,
-Q2,30,Sénoufo,dyi,Djimini Senoufo,I,
-Q2,30,Sénoufo,plr - seb - sef - sen - sep - seq - sev - tgw,,,
-Q2,31,Setswana,tsn,Tswana,I,
-Q2,32,Tamasheq,taq,Tamasheq,I,
-Q2,32,Tamasheq,thv,Tahaggart Tamahaq,I,
-Q2,32,Tamasheq,tmh,Tamashek,M,
-Q2,32,Tamasheq,ttq,Tawallammat Tamajaq,I,
-Q2,33,Tonga,ndc,Ndau,I,
-Q2,33,Tonga,toi,Tonga (Zambia),I,
-Q2,33,Tonga,tso,Tsonga,I,
-Q2,34,Venda,ven,Venda,I,
-Q2,35,Yoruba,yor,Yoruba,I,
-Q2,102,Bariba,bba,Baatonum,I,
-Q2,103,Dendi,ddn,Dendi (Benin),I,
-Q2,105,Otamari,tbz,Ditammari,I,"Ditammari. Has a similar name, and the only major language not coded."
-Q2,107,Lopka,dop,Lukpa,I,Lokpa
-Q2,141,Sesarwa,hio,Tsoa,I,
-Q2,142,Sekgalagadi,xkv,Kgalagadi,I,
-Q2,143,Sesubia,sbs,Subiya,I,Sesubea or Kuhane
-Q2,144,Ikalanga/Sekalaka,kck,Kalanga,I,
-Q2,145,Seherero,her,Herero,I,Herero
-Q2,146,Sembukushu,mhw,Mbukushu,I,Mbukushu
-Q2,147,Sebirwa,brl,Birwa,I,Birwa
-Q2,148,Sengologa,xkv,Kgalagadi,I,Kgalagadi or Ngologa
-Q2,149,Seyei,yey,Yeyi,I,Yeyi
-Q2,180,Mooré,mos,Mossi,I,
-Q2,183,Gulmacema,gux,Gourmanchéma,I,Gourmanchema language also goes by https://en.wikipedia.org/wiki/Gourmanch%C3%A9_language
-Q2,184,Gourounsi,gur,Farefare,I,Farfene or Gurenne
-Q2,186,Birifor,bfo,Malba Birifor,I,
-Q2,187,Bwamu,box,Buamu,I,
-Q2,187,Bwamu,bwj,Láá Láá Bwamu,I,
-Q2,187,Bwamu,bwy,Cwi Bwamu,I,
-Q2,188,Dagari,dgi,Northern Dagara,I,
-Q2,189,Fulse,kfz,Koromfé,I,
-Q2,190,Goin,cme,Cerma,I,
-Q2,191,Karaboro,kza,Western Karaboro,I,
-Q2,191,Karaboro,xrb,Eastern Karaboro,I,
-Q2,192,Kassena,xsm,Kasem,I,
-Q2,194,Marka,rkm,Marka,I,
-Q2,195,Samo,knz,Kalamsé,I,
-Q2,195,Samo,sbd,Southern Samo,I,
-Q2,195,Samo,stj,Matya Samo,I,
-Q2,195,Samo,sym,Maya Samo,I,
-Q2,197,Sonrai,hmb,Humburi Senni Songhay,I,
-Q2,220,Crioulo,kea,Kabuverdianu,I,
-Q2,221,Português,por,Portuguese,I,
-Q2,260,Akan,aka,Akan,M,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
-"
-Q2,260,Akan,fat,Fanti,I,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
-"
-Q2,260,Akan,twi,Twi,I,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
-"
-Q2,262,Ga/Dangbe,adq,Adangbe,I,
-Q2,262,Ga/Dangbe,gaa,Ga,I,
-Q2,263,Dagbani,dag,Dagbani,I,
-Q2,265,Waala,wlx,Wali (Ghana),I,Wali
-Q2,266,Moshie,mos,Mossi,I,"Moshi, Mossi, or Moore."
-Q2,267,Mampruli,maw,Mampruli,I,
-Q2,268,Likpakpaln,xon,Konkomba,I,Konkomba
-Q2,269,Kusal,kus,Kusaal,I,Kusaal
-Q2,270,Konkomba,xon,Konkomba,I,
-Q2,271,Gonja,gjn,Gonja,I,
-Q2,272,Frafra,gur,Farefare,I,
-Q2,273,Dagaari,dga,Southern Dagaare,I,Dagaare
-Q2,275,Kotokoli,kdh,Tem,I,
-Q2,276,Gruma,kma,Konni,I,Konni is spoken in Nangruma: http://www.ethnologue.com/18/language/kma/
-Q2,277,Buli,bwu,Buli (Ghana),I,
-Q2,278,Basari,bud,Ntcham,I,
-Q2,300,Kikuyu,kik,Kikuyu,I,
-Q2,301,Luo,luo,Luo (Kenya and Tanzania),I,
-Q2,302,Luhya,lkb,Kabras,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q2,302,Luhya,lks,Kisa,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q2,302,Luhya,lto,Tsotso,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q2,302,Luhya,luy,Luyia,M,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q2,302,Luhya,lwg,Wanga,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q2,302,Luhya,nle,East Nyala,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
-Q2,303,Kamba,kam,Kamba (Kenya),I,
-Q2,304,Kalenjin,enb,Markweeta,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q2,304,Kalenjin,eyo,Keiyo,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q2,304,Kalenjin,kln,Kalenjin,M,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q2,304,Kalenjin,niq,Nandi,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q2,304,Kalenjin,oki,Okiek,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q2,304,Kalenjin,sgc,Kipsigis,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q2,304,Kalenjin,spy,Sabaot,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q2,304,Kalenjin,tec,Terik,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q2,304,Kalenjin,tuy,Tugen,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
-"
-Q2,305,Kisii,guz,Gusii,I,
-Q2,306,Meru/Embu,ebu,Embu,I,
-Q2,306,Meru/Embu,mer,Meru,I,
-Q2,307,Maasai/Samburu,mas,Masai,I,
-Q2,307,Maasai/Samburu,saq,Samburu,I,
-Q2,308,Mijikenda,dig,Digo,I,"Mijikenda language maps to ISO 639-3 languages Chonyi (coh), Digo (dig), Duruma (dug), Giryama (nyf), and Segeju (Seg) https://en.wikipedia.org/wiki/Mijikenda_language
-"
-Q2,308,Mijikenda,dug,Duruma,I,"Mijikenda language maps to ISO 639-3 languages Chonyi (coh), Digo (dig), Duruma (dug), Giryama (nyf), and Segeju (Seg) https://en.wikipedia.org/wiki/Mijikenda_language
-"
-Q2,308,Mijikenda,nyf,Giryama,I,"Mijikenda language maps to ISO 639-3 languages Chonyi (coh), Digo (dig), Duruma (dug), Giryama (nyf), and Segeju (Seg) https://en.wikipedia.org/wiki/Mijikenda_language
-"
-Q2,308,Mijikenda,seg,Segeju,I,"Mijikenda language maps to ISO 639-3 languages Chonyi (coh), Digo (dig), Duruma (dug), Giryama (nyf), and Segeju (Seg) https://en.wikipedia.org/wiki/Mijikenda_language
-"
-Q2,309,Taita,dav,Taita,I,
-Q2,310,Somali,som,Somali,I,
-Q2,311,Pokot,kln,Kalenjin,M,
-Q2,311,Pokot,pko,Pökoot,I,
-Q2,312,Turkana,tuv,Turkana,I,
-Q2,313,Kuria,kuj,Kuria,I,
-Q2,314,Garre,gex,Garre,I,Garree
-Q2,315,Borana,gax,Borana-Arsi-Guji Oromo,I,
-Q2,315,Borana,orm,Oromo,M,
-Q2,340,Sesotho,sot,Southern Sotho,I,
-Q2,341,Sephuthi,ssw,Swati,I,
-Q2,342,Sethepu,xho,Xhosa,I,"Sethepu is a name for Thembu, which is a dialect of Xhosa: https://en.wikipedia.org/wiki/Thembu_people"
-Q2,381,Belle,blh,Kuwaa,I,
-Q2,382,Dei,dee,Dewoin,I,
-Q2,383,Gbandi,bza,Bandi,I,
-Q2,384,Gio,dnj,Dan,I,
-Q2,385,Gola,gol,Gola,I,
-Q2,386,Grebo,gbo,Northern Grebo,I,
-Q2,386,Grebo,gec,Gboloo Grebo,I,
-Q2,386,Grebo,grb,Grebo,M,
-Q2,386,Grebo,grj,Southern Grebo,I,
-Q2,386,Grebo,grv,Central Grebo,I,
-Q2,386,Grebo,gry,Barclayville Grebo,I,
-Q2,388,Kpelle,kpe,Kpelle,M,
-Q2,388,Kpelle,xpe,Liberia Kpelle,I,
-Q2,389,Krahn,kqo,Eastern Krahn,I,
-Q2,389,Krahn,krw,Western Krahn,I,
-Q2,390,Kru,klu,Klao,I,
-Q2,390,Kru,ted,Tepo Krumen,I,
-Q2,391,Lorma,lom,Loma (Liberia),I,
-Q2,392,Mandingo,mzj,Manya,I,
-Q2,395,Vai,vai,Vai,I,
-Q2,396,Liberian English,lir,Liberian English,I,
-Q2,420,Malgache « officiel »,mlg,Malagasy,M,Plateau Malagasay is considered the official language: https://www.ethnologue.com/language/plt
-Q2,420,Malgache « officiel »,plt,Plateau Malagasy,I,Plateau Malagasay is considered the official language: https://www.ethnologue.com/language/plt
-Q2,421,Malgache avec spécificité régionale,bhr,Bara Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,bmm,Northern Betsimisaraka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,buc,Bushi,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,bzc,Southern Betsimisaraka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,mlg,Malagasy,M,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,msh,Masikoro Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,skg,Sakalava Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,tdx,Tandroy-Mahafaly Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,tkg,Tesaka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,txy,Tanosy Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,xmv,Antankarana Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,421,Malgache avec spécificité régionale,xmw,Tsimihety Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
-"
-Q2,460,Chitumbuka,tum,Tumbuka,I,
-Q2,461,Chinkhonde,nyy,Nyakyusa-Ngonde,I,https://en.wikipedia.org/wiki/Nyakyusa_language
-Q2,462,Chilambya,lam,Lamba,I,Chilamba is one of the offical Zambian languages
-Q2,463,Chichewa,nya,Nyanja,I,
-Q2,464,Chiyao,yao,Yao,I,
-Q2,465,Chingoni,nya,Nyanja,I,Chichewa/Ngoni
-Q2,466,Chilomwe,lon,Malawi Lomwe,I,Lomwe (some reports that this rolls into ‘nya’)
-Q2,467,Chimang'anja,swk,Malawi Sena,I,
-Q2,468,Chisena,swk,Malawi Sena,I,
-Q2,469,Chisukwa,ndh,Ndali,I,Ndali
-Q2,470,Chisenga,nkv,Nyika (Malawi and Zambia),I,"http://www.ethnologue.com/18/country/MW/languages/ Chisenga area villages mention Nyika. Also named Chisena. Spoken in neighboring Mozambique. https://www.ethnologue.com/language/seh
-"
-Q2,470,Chisenga,she,Sheko,I,"http://www.ethnologue.com/18/country/MW/languages/ Chisenga area villages mention Nyika. Also named Chisena. Spoken in neighboring Mozambique. https://www.ethnologue.com/language/seh
-"
-Q2,471,Chitonga,tog,Tonga (Nyasa),I,
-Q2,502,Bella,ses,Koyraboro Senni Songhai,I,"Bella is the Songhai name for Ikelan (a caste of Tuareg). They speak a Nilo-Saharan language. Since it isn't covered by other values, this must be a Songhay language. Koyraboro Sennai (ses) is spoken by 300-430,000 and not matched by any of the other entries. Soninke is spoken by 2.1 million, but matched by another entry."
-Q2,504,Bozo,boo,Tiemacèwè Bozo,I,
-Q2,504,Bozo,boz,Tiéyaxo Bozo,I,
-Q2,504,Bozo,bze,Jenaama Bozo,I,
-Q2,504,Bozo,bzx,Kɛlɛngaxo Bozo,I,
-Q2,505,Dafing,rkm,Marka,I,
-Q2,506,Dogon,aqd,Ampari Dogon,I,
-Q2,506,Dogon,dbg,Dogul Dom Dogon,I,
-Q2,506,Dogon,dbt,Ben Tey Dogon,I,
-Q2,506,Dogon,dbu,Bondum Dom Dogon,I,
-Q2,506,Dogon,dbw,Bankan Tey Dogon,I,
-Q2,506,Dogon,dds,Donno So Dogon,I,
-Q2,506,Dogon,dgb,Bunoge Dogon,I,
-Q2,506,Dogon,djm,Jamsay Dogon,I,
-Q2,506,Dogon,dmb,Mombo Dogon,I,
-Q2,506,Dogon,dti,Ana Tinga Dogon,I,
-Q2,506,Dogon,dtk,Tene Kan Dogon,I,
-Q2,506,Dogon,dtm,Tomo Kan Dogon,I,
-Q2,506,Dogon,dto,Tommo So Dogon,I,
-Q2,506,Dogon,dts,Toro So Dogon,I,
-Q2,506,Dogon,dtt,Toro Tegu Dogon,I,
-Q2,506,Dogon,dtu,Tebul Ure Dogon,I,
-Q2,506,Dogon,dym,Yanda Dom Dogon,I,
-Q2,506,Dogon,nzz,Nanga Dama Dogon,I,
-Q2,506,Dogon,tde,Tiranige Diga Dogon,I,
-Q2,509,Kakolo,xkg,Kagoro,I,
-Q2,510,Khassonké,kao,Xaasongaxango,I,
-Q2,511,Malinké,kao,Xaasongaxango,I,
-Q2,511,Malinké,man,Mandingo,M,
-Q2,511,Malinké,mlq,Western Maninkakan,I,
-Q2,511,Malinké,mwk,Kita Maninkakan,I,
-Q2,512,Maure,mey,Hassaniyya,I,
-Q2,513,Mianka,myk,Mamara Senoufo,I,
-Q2,514,Peulh/Fulfude,ffm,Maasina Fulfulde,I,"Fulfulde. This is the Fula langauge spoken in Mali. The Mali code is ‘ffm’ but should we just keep it as ‘ful?
-"
-Q2,514,Peulh/Fulfude,ful,Fulah,M,"Fulfulde. This is the Fula langauge spoken in Mali. The Mali code is ‘ffm’ but should we just keep it as ‘ful?
-"
-Q2,515,Samogo,dux,Duungooma,I,
-Q2,516,Senufo,spp,Supyire Senoufo,I,Senoufo or Supyire.
-Q2,517,Soninké/Sarakolé,snk,Soninke,I,
-Q2,518,Sonrhai,hmb,Humburi Senni Songhay,I,
-Q2,518,Sonrhai,khq,Koyra Chiini Songhay,I,
-Q2,518,Sonrhai,ses,Koyraboro Senni Songhai,I,
-Q2,540,Makua,vmw,Makhuwa,I,
-Q2,541,Sena,seh,Sena,I,
-Q2,543,Changana,tso,Tsonga,I,
-Q2,545,Chope,cce,Chopi,I,https://en.wikipedia.org/wiki/Chopi_language
-Q2,546,Bitonga,toh,Gitonga,I,
-Q2,547,Makonde,kde,Makonde,I,
-Q2,548,Chuabo,chw,Chuwabu,I,
-Q2,549,Ajaua,yao,Yao,I,https://fr.wikipedia.org/wiki/Yao_(peuple_d%27Afrique)
-Q2,550,Lomue,ngl,Lomwe,I,
-Q2,552,Nyungwe,nyu,Nyungwe,I,
-Q2,553,Xitswa,tsc,Tswa,I,
-Q2,581,German,deu,German,I,
-Q2,582,Nama/Damara,naq,Khoekhoe,I,
-Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,I,
-Q2,584,Otjiherero,her,Herero,I,
-Q2,585,Rukwangali,kwn,Kwangali,I,
-Q2,586,Rugririku/Rumanyo,diu,Diriku,I,
-Q2,587,Thimbukushu,mhw,Mbukushu,I,
-Q2,588,Silozi,loz,Lozi,I,
-Q2,590,Masubia,sbs,Subiya,I,Subiya
-Q2,591,San,hgm,Hai//om,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
-Q2,591,San,hnh,//Ani,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
-Q2,591,San,knw,Kung-Ekoka,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
-Q2,591,San,ktz,Ju/'hoan,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
-Q2,591,San,naq,Khoekhoe,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
-Q2,591,San,nhr,Naro,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
-Q2,591,San,nmn,!Xóõ,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
-Q2,591,San,vaj,Sekele,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
-Q2,591,San,xuu,Kxoe,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
-Q2,621,Igbo,agb,Legbo,I,
-Q2,621,Igbo,ibo,Igbo,I,
-Q2,623,Pidgin English,pcm,Nigerian Pidgin,I,
-Q2,624,Efik,efi,Efik,I,
-Q2,625,Ebira,igb,Ebira,I,
-Q2,626,Fulani,fub,Adamawa Fulfulde,I,
-Q2,626,Fulani,ful,Fulah,M,
-Q2,627,Isoko,iso,Isoko,I,
-Q2,628,Ibibio,ibb,Ibibio,I,
-Q2,631,Nupe,nup,Nupe-Nupe-Tako,I,
-Q2,632,Ijaw,ijc,Izon,I,
-Q2,632,Ijaw,ijs,Southeast Ijo,I,
-Q2,633,Edo,bin,Bini,I,
-Q2,634,Igala,igl,Igala,I,
-Q2,635,Urhobo,urh,Urhobo,I,
-Q2,636,Ogoni,ogo,Khana,I,
-Q2,637,Anang,anw,Anaang,I,
-Q2,638,Ikwere,ikw,Ikwere,I,
-Q2,639,Idoma,idu,Idoma,I,
-Q2,640,Esan,ish,Esan,I,
-Q2,641,Nembe,ijs,Southeast Ijo,I,
-Q2,642,Alago,ala,Alago,I,
-Q2,643,Degema,deg,Degema,I,
-Q2,644,Eggon,ego,Eggon,I,
-Q2,645,Jukun,jbu,Jukun Takum,I,
-Q2,646,Kagoma,kdm,Kagoma,I,
-Q2,647,Laru,lan,Laru,I,
-Q2,648,Kalabari,ijn,Kalabari,I,
-Q2,649,Nwangavul,sur,Mwaghavul,I,
-Q2,650,Tangale,tan,Tangale,I,
-Q2,651,Tarok,yer,Tarok,I,
-Q2,652,Waja,wja,Waja,I,
-Q2,653,Yala,yba,Yala,I,
-Q2,660,Wolof,wol,Wolof,I,
-Q2,661,Pulaar/Toucouleur,fuc,Pulaar,I,
-Q2,661,Pulaar/Toucouleur,ful,Fulah,M,
-Q2,662,Serer,cae,Lehar,I,
-Q2,662,Serer,fap,Palor,I,
-Q2,662,Serer,snf,Noon,I,
-Q2,662,Serer,srr,Serer,I,
-Q2,663,Mandinka/Bambara,man,Mandingo,M,
-Q2,663,Mandinka/Bambara,mnk,Mandinka,I,
-Q2,664,Soninke,snk,Soninke,I,
-Q2,665,Diola,dyo,Jola-Fonyi,I,Acholi
-Q2,666,Manjack,mfv,Mandjak,I,
-Q2,668,Bassari,bsc,Bassari,I,
-Q2,702,Xhosa,xho,Xhosa,I,
-Q2,703,Pedi/North Sotho,nso,Pedi,I,
-Q2,704,Sotho/South Sotho,nso,Pedi,I,
-Q2,704,Sotho/South Sotho,sot,Southern Sotho,I,
-Q2,705,Tswana,tsn,Tswana,I,
-Q2,706,Shangaan/Tsonga,tso,Tsonga,I,
-Q2,707,Swazi,ssw,Swati,I,
-Q2,709,Zulu,zul,Zulu,I,
-Q2,710,Asian/Indian,mul,,,Multilple languages
-Q2,740,Kinyakyusa,nyy,Nyakyusa-Ngonde,I,
-Q2,741,Kichaga,old,Mochi,I,There are many Chaga dialects. Mochi is the most widely spoken.
-Q2,742,Kihaya,hay,Haya,I,
-Q2,743,Kingoni,ngo,Ngoni,I,
-Q2,744,Kikwere,cwe,Kwere,I,
-Q2,744,Kikwere,ked,Kerewe,I,
-Q2,745,Kipare,asa,Asu (Tanzania),I,
-Q2,746,Kihehe,heh,Hehe,I,
-Q2,747,Kimakonde,kde,Makonde,I,
-Q2,748,Kinyamwezi,nym,Nyamwezi,I,
-Q2,749,Kisukuma,suk,Sukuma,I,
-Q2,750,Kimasai,mas,Masai,I,Maasai
-Q2,751,Kimeru,rwk,Rwa,I,
-Q2,752,Kikurya,kuj,Kuria,I,Kuria
-Q2,753,Kigogo,gog,Gogo,I,
-Q2,754,Kiluguru,ruf,Luguru,I,
-Q2,755,Kifipa,fip,Fipa,I,
-Q2,756,Kimanyema,unk,Enawené-Nawé,I,Could not find a match
-Q2,757,Kinyiramba,nim,Nilamba,I,Nilamba
-Q2,758,Kinyaturu,rim,Nyaturu,I,
-Q2,759,Kiarusha,mas,Masai,I,Arusha speak Maasi (https://en.wikipedia.org/wiki/Arusha_people)
-Q2,760,Kibena,bez,Bena (Tanzania),I,
-Q2,761,Kiha,haq,Ha,I,
-Q2,762,Kiiraq,irk,Iraqw,I,Iraqw
-Q2,763,Kijaluo,luo,Luo (Kenya and Tanzania),I,Kidjaluo is a dialect of Luo: https://www.ethnologue.com/country/tz/languages
-Q2,764,Kijita,jit,Jita,I,
-Q2,765,Kikaguru,kki,Kagulu,I,kagulu
-Q2,766,Kimakuwa,mgh,Makhuwa-Meetto,I,Makhuwa-Meeto
-Q2,767,Kimatengo,mgv,Matengo,I,
-Q2,768,Kimbulu,irk,Iraqw,I,Iraqw
-Q2,769,Kimwera,mjh,Mwera (Nyasa),I,
-Q2,769,Kimwera,mwe,Mwera (Chimwera),I,
-Q2,770,Kindali,ndh,Ndali,I,
-Q2,771,Kindamba,ndj,Ndamba,I,
-Q2,772,Kindendeule,dne,Ndendeule,I,
-Q2,773,Kindengereko,ndg,Ndengereko,I,
-Q2,774,Kingindo,nnq,Ngindo,I,
-Q2,775,Kinguu,ziw,Zigula,I,https://en.wikipedia.org/wiki/Zigula_language
-Q2,776,Kinyambo,now,Nyambo,I,
-Q2,777,Kinyiha,nih,Nyiha (Tanzania),I,
-Q2,777,Kinyiha,nkt,Nyika (Tanzania),I,
-Q2,778,Kipogoro,poy,Pogolo,I,pogolo
-Q2,779,Kirangi,lag,Langi,I,
-Q2,780,Luganda,lug,Ganda,I,
-Q2,781,Runyankole,nyn,Nyankole,I,
-Q2,782,Runyoro,nyo,Nyoro,I,
-Q2,783,Lusoga,xog,Soga,I,
-Q2,784,Lumasaaba,myx,Masaaba,I,
-Q2,785,Lukhonjo,koo,Konzo,I,Konzo is also named Lukonzo https://www.ethnologue.com/language/koo
-Q2,786,Lunyole,nuj,Nyole,I,
-Q2,787,Ateso,teo,Teso,I,
-Q2,788,Acholi,ach,Acoli,I,
-Q2,789,Alur,alz,Alur,I,
-Q2,790,Lugbara,lgg,Lugbara,I,
-Q2,791,Madi,mhi,Ma'di,I,
-Q2,791,Madi,snm,Southern Ma'di,I,
-Q2,792,Japadhola,adh,Adhola,I,Adhola
-Q2,793,Lusamia,lsm,Saamia,I,Samia
-Q2,793,Lusamia,luy,Luyia,M,Samia
-Q2,794,Lugwere,gwr,Gwere,I,
-Q2,795,Rukiga,cgg,Chiga,I,
-Q2,796,Rutooro,ttj,Tooro,I,
-Q2,797,Langi,laj,Lango (Uganda),I,
-Q2,798,Kupsabinyi,kpz,Kupsabiny,I,Kupsabiny or Sabiny https://en.wikipedia.org/wiki/Sabiny_language
-Q2,799,Ngakarimajong,kdj,Karamojong,I,Ngakarimojong
-Q2,800,Rufumbira,kin,Kinyarwanda,I,
-Q2,820,Bemba,bem,Bemba (Zambia),I,
-Q2,823,Lozi,loz,Lozi,I,
-Q2,825,Nsenga,nse,Nsenga,I,
-Q2,826,Tumbuka,tum,Tumbuka,I,
-Q2,827,Kaonde,kqn,Kaonde,I,
-Q2,828,Luvale,lue,Luvale,I,
-Q2,829,Namwanga,mwn,Nyamwanga,I,
-Q2,830,Lunda,bem,Bemba (Zambia),I,
-Q2,830,Lunda,lun,Lunda,I,
-Q2,831,Bisa,leb,Lala-Bisa,I,
-Q2,832,Nkoya,nka,Nkoya,I,
-Q2,833,Mambwe,mgr,Mambwe-Lungu,I,
-Q2,834,Lenje,leh,Lenje,I,
-Q2,835,Ngoni,nse,Nsenga,I,
-Q2,835,Ngoni,nya,Nyanja,I,
-Q2,835,Ngoni,tum,Tumbuka,I,
-Q2,836,Soli,sby,Soli,I,
-Q2,837,Ila,ilb,Ila,I,
-Q2,838,Ushi,auh,Aushi,I,
-Q2,839,Chokwe,cjk,Chokwe,I,
-Q2,840,Mbunda,mck,Mbunda,I,
-Q2,841,Kunda,kdn,Kunda,I,
-Q2,841,Kunda,nya,Nyanja,I,
-Q2,842,Lala,leb,Lala-Bisa,I,
-Q2,843,Lamba,lam,Lamba,I,
-Q2,844,Lungu,mgr,Mambwe-Lungu,I,
-Q2,845,Nyika,nih,Nyiha (Tanzania),I,
-Q2,845,Nyika,nkv,Nyika (Malawi and Zambia),I,
-Q2,846,Senga,nse,Nsenga,I,
-Q2,846,Senga,tum,Tumbuka,I,
-Q2,847,Tokaleya,toi,Tonga (Zambia),I,https://www.ethnologue.com/country/zm/languages
-Q2,851,Tabwa,tap,Taabwa,I,
-Q2,861,Shona,sna,Shona,I,
-Q2,862,Zezuru,sna,Shona,I,
-Q2,863,Korekore,sna,Shona,I,
-Q2,864,Karanga,sna,Shona,I,
-Q2,865,Manyika,mxc,Manyika,I,
-Q2,868,Kalanga,kck,Kalanga,I,
-Q2,870,Buja,bja,Budza,I,https://en.wikipedia.org/wiki/Budza_language
-Q2,870,Buja,tmv,Tembo (Motembo),I,https://en.wikipedia.org/wiki/Budza_language
-Q2,871,Shangani,tso,Tsonga,I,
-Q2,872,Suthu,sot,Southern Sotho,I,https://en.wikipedia.org/wiki/Sotho_language
-Q2,900,Creole,mfe,Morisyen,I,Mauritian Creole
-Q2,930,Krio,kri,Krio,I,
-Q2,932,Temne,tem,Timne,I,
-Q2,933,Limba,lia,West-Central Limba,I,
-Q2,933,Limba,lma,East Limba,I,
-Q2,934,Loko,lok,Loko,I,
-Q2,935,Sherbo,bun,Sherbro,I,https://en.wikipedia.org/wiki/Sherbro_language
-Q2,936,Fulla,fuf,Pular,I,Fula languag spoken in Guinea and Sierra Leonee
-Q2,936,Fulla,ful,Fulah,M,Fula languag spoken in Guinea and Sierra Leonee
-Q2,937,Kono,kno,Kono (Sierra Leone),I,
-Q2,938,Kuranko,knk,Kuranko,I,
-Q2,939,Madingo,emk,Eastern Maninkakan,I,
-Q2,939,Madingo,man,Mandingo,M,
-Q2,941,Susu,sus,Susu,I,
-Q2,943,Yalunka,yal,Yalunka,I,
-Q2,1101,Zarma/Songhaï,dje,Zarma,I,
-Q2,1105,Goumantchéma,gux,Gourmanchéma,I,Gourmanchema
-Q2,1141,Mina (Guen),gej,Gen,I,
-Q2,1142,Kabye,kbp,Kabiyè,I,
-Q2,1143,Tem (Kotokoli),kdh,Tem,I,
-Q2,1144,Ben (Moba),mfq,Moba,I,
-Q2,1145,Nawdem (Losso),las,Lama (Togo),I,
-Q2,1145,Nawdem (Losso),nmz,Nawdm,I,
-Q2,1146,Lama (Lamba),las,Lama (Togo),I,
-Q2,1147,Ife (Ana),ife,Ifè,I,
-Q2,1148,Ikposso (Akposso),kpo,Ikposo,I,
-Q2,1149,N'tcha (Bassar),bud,Ntcham,I,
-Q2,1151,Akebou,keu,Akebu,I,
-Q2,1152,Gourma,gux,Gourmanchéma,I,
-Q2,1153,Konkomba,xon,Konkomba,I,
-Q2,1154,Ngam-gam,gng,Ngangam,I,https://www.ethnologue.com/country/tg/languages
-Q2,1155,Tchamba,aks,Akaselem,I,
-Q2,1157,Ouatchi,wci,Waci Gbe,I,
-Q2,1160,Tchpkossi (Anoufom),cko,Anufo,I,Tchokossi is an alternative name. https://www.ethnologue.com/country/tg/languages
-Q2,1180,Kirundi,run,Rundi,I,
-Q2,1220,Foufouldé,fub,Adamawa Fulfulde,I,https://www.ethnologue.com/country/cm/languages
-Q2,1220,Foufouldé,ful,Fulah,M,https://www.ethnologue.com/country/cm/languages
-Q2,1220,Foufouldé,fuv,Nigerian Fulfulde,I,https://www.ethnologue.com/country/cm/languages
-Q2,1221,Pidgin,wes,Cameroon Pidgin,I,
-Q2,1222,Ewondo,ewo,Ewondo,I,
-Q2,1223,Bafang,fmp,Fe'fe',I,
-Q2,1224,Douala,dua,Duala,I,
-Q2,1225,Bafia,ksf,Bafia,I,
-Q2,1226,Bafut,bfd,Bafut,I,
-Q2,1227,Bangangté,byv,Medumba,I,
-Q2,1228,Bakundu,bdu,Oroko,I,
-Q2,1229,Bamileke,bbj,Ghomálá',I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1229,Bamileke,bko,Kwa',I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1229,Bamileke,byv,Medumba,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1229,Bamileke,fmp,Fe'fe',I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1229,Bamileke,jgo,Ngomba,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1229,Bamileke,new,Newari,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1229,Bamileke,nla,Ngombale,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1229,Bamileke,nnh,Ngiemboon,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1229,Bamileke,nnz,Nda'nda',I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1229,Bamileke,xmg,Mengaka,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1229,Bamileke,ybb,Yemba,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
-"
-Q2,1230,Bamoun,bax,Bamun,I,
-Q2,1231,Bandjoun,bbj,Ghomálá',I,
-Q2,1232,Bangwa,nge,Ngemba,I,
-Q2,1232,Bangwa,nnz,Nda'nda',I,
-Q2,1233,Banso,lns,Lamnso',I,
-Q2,1235,Batanga,bdu,Oroko,I,
-Q2,1235,Batanga,bnm,Batanga,I,
-Q2,1235,Batanga,ckx,Caka,I,
-Q2,1236,Bayangi,ken,Kenyang,I,
-Q2,1237,Bulu,bum,Bulu (Cameroon),I,
-Q2,1238,Dschang,ybb,Yemba,I,
-Q2,1239,Eton,eto,Eton (Cameroon),I,
-Q2,1240,Fali,fal,South Fali,I,
-Q2,1240,Fali,fll,North Fali,I,
-Q2,1241,Fong,ewo,Ewondo,I,
-Q2,1242,Gbaya,gba,Gbaya (Central African Republic),M,
-Q2,1242,Gbaya,gya,Northwest Gbaya,I,
-Q2,1243,Guider,gid,Gidar,I,
-Q2,1244,Guiziga,gis,North Giziga,I,
-Q2,1244,Guiziga,giz,South Giziga,I,
-Q2,1246,Kapsiki,kvj,Psikye,I,
-Q2,1247,Mafa,maf,Mafa,I,
-Q2,1248,Maka,mkk,Byep,I,
-Q2,1249,Mankon,nge,Ngemba,I,
-Q2,1250,Massa,mcn,Masana,I,
-Q2,1251,Mbouda,jgo,Ngomba,I,"'Ngiemboon, Ngomba, and Ngombale are listed by the Ethnologue as being spoken in Mbouda. All three languages are closely related: Bemileke languages.'
-"
-Q2,1251,Mbouda,nla,Ngombale,I,"'Ngiemboon, Ngomba, and Ngombale are listed by the Ethnologue as being spoken in Mbouda. All three languages are closely related: Bemileke languages.'
-"
-Q2,1251,Mbouda,nnh,Ngiemboon,I,"'Ngiemboon, Ngomba, and Ngombale are listed by the Ethnologue as being spoken in Mbouda. All three languages are closely related: Bemileke languages.'
-"
-Q2,1252,Mboum,mdd,Mbum,I,
-Q2,1254,Moudan,mnf,Mundani,I,https://www.ethnologue.com/country/cm/languages
-Q2,1255,Ngueba,nnh,Ngiemboon,I,Alternate name is Nguemba. https://www.ethnologue.com/language/nnh
-Q2,1257,Lamnso,lns,Lamnso',I,
-Q2,1258,Tikari,tik,Tikar,I,
-Q2,1259,Toupouri,tui,Tupuri,I,
-Q2,1260,Abbey,aba,Abé,I,
-Q2,1261,Abron,abr,Abron,I,
-Q2,1262,Adjoukrou,adj,Adioukrou,I,Adioukrou
-Q2,1263,Agny,any,Anyin,I,Anyin
-Q2,1264,Attié,ati,Attié,I,
-Q2,1265,Avikam,avi,Avikam,I,
-Q2,1267,Baoulé,bci,Baoulé,I,
-Q2,1268,Bété,bet,Guiberoua Béte,I,
-Q2,1268,Bété,bev,Daloa Bété,I,
-Q2,1268,Bété,btg,Gagnoa Bété,I,
-Q2,1268,Bété,nwb,Nyabwa,I,
-Q2,1269,Dida,dic,Lakota Dida,I,
-Q2,1269,Dida,gud,Yocoboué Dida,I,
-Q2,1270,Godié,god,Godié,I,
-Q2,1271,Gouro,goa,Guro,I,
-Q2,1272,Guéré,gxx,Wè Southern,I,
-Q2,1272,Guéré,wec,Wè Western,I,
-Q2,1273,Koulango,nku,Bouna Kulango,I,
-Q2,1274,Kroumen,pye,Pye Krumen,I,
-Q2,1274,Kroumen,ted,Tepo Krumen,I,
-Q2,1278,Yacouba,dnj,Dan,I,
-Q2,1279,Djimini,dyi,Djimini Senoufo,I,
-Q2,1280,Gnanboua,nwb,Nyabwa,I,"Gnanboua are an ethnicity in Zoukougbeu. The primary language is Nyabwa. https://www.ethnologue.com/language/nwb, http://www.rezoivoire.net/cotedivoire/ville/17/la-sous-prefecture-de-zoukougbeu.html#.V_cUR5MrLOY"
-Q2,1281,Koyaka,kga,Koyaga,I,
-Q2,1282,Wobe,wob,Wè Northern,I,
-Q2,1300,Soussou,sus,Susu,I,Susu
-Q2,1301,Poular,fuf,Pular,I,"This seems to be a typo of some kind, and should be the same as 1301: Poular"
-Q2,1301,Poular,ful,Fulah,M,"This seems to be a typo of some kind, and should be the same as 1301: Poular"
-Q2,1302,Maninka,emk,Eastern Maninkakan,I,Maninka are a lot of closely related languages. Eastern Manika seems to be the most widely used.
-Q2,1302,Maninka,man,Mandingo,M,Maninka are a lot of closely related languages. Eastern Manika seems to be the most widely used.
-Q2,1303,Kpèlè,gkp,Guinea Kpelle,I,https://en.wikipedia.org/wiki/Kpelle_language
-Q2,1303,Kpèlè,kpe,Kpelle,M,https://en.wikipedia.org/wiki/Kpelle_language
-Q2,1304,Loma,tom,Tombulu,I,Toma is the dialect of Loma spoken in Guinea
-Q2,1305,Kissié,kqs,Northern Kissi,I,https://en.wikipedia.org/wiki/Kissi_language
-Q2,1420,Algerian Arabic,ara,Arabic,M,
-Q2,1420,Algerian Arabic,arq,Algerian Arabic,I,
-Q2,1460,Egyptian Arabic,ara,Arabic,M,
-Q2,1460,Egyptian Arabic,arz,Egyptian Arabic,I,
-Q2,1501,Alhassania,mey,Hassaniyya,I,https://www.ethnologue.com/country/ma/languages
-Q2,1540,Sudanese Arabic,apd,Sudanese Arabic,I,
-Q2,1540,Sudanese Arabic,ara,Arabic,M,
-Q2,1541,Nubian Language,fia,Nobiin,I,Nobiin. This is the most widely spoken Nubian language. kzh (Dongoloese) is used to match with WALS Nuban (Dongolese)
-Q2,1541,Nubian Language,kzh,,,Nobiin. This is the most widely spoken Nubian language. kzh (Dongoloese) is used to match with WALS Nuban (Dongolese)
-Q2,1620,siSwati,ssw,Swati,I,
-Q2,1621,Shangaan,tso,Tsonga,I,Tsonga (Shangaan or Changana is a dialect)
-Q2,1660,Creolo,aoa,Angolar,I,https://en.wikipedia.org/wiki/Angolar_Creole
-Q2,1661,Forro,cri,Sãotomense,I,
-Q2,1662,Angolar,aoa,Angolar,I,
-Q2,1700,Fang,fan,Fang (Equatorial Guinea),I,https://www.ethnologue.com/country/ga/languages
-Q2,1701,Punu/Mériè,kog,Cogui,I,https://www.ethnologue.com/country/ga/languages
-Q2,1702,Kota,kog,Cogui,I,https://www.ethnologue.com/country/ga/languages
-Q2,1703,Mbédè,mbt,Matigsalug Manobo,I,Alternate name is Mbede. https://www.ethnologue.com/country/ga/languages
-Q2,1704,Nzébi/Métié,nzb,Njebi,I,Alternate name is Nzebi. https://www.ethnologue.com/country/ga/languages
-Q2,1705,Myénè,mye,Myene,I,https://www.ethnologue.com/country/ga/languages
-Q2,1706,Tsogho,tsv,Tsogo,I,https://www.ethnologue.com/country/ga/languages
-Q2,1707,Kélè,keb,Kélé,I,https://www.ethnologue.com/country/ga/languages
-Q2,2220,Yamba,yam,Yamba,I,
-Q2,2221,Yabassi,dua,Duala,I,Yabassi only mentioned in Duala entry: https://www.ethnologue.com/country/CM/languages
-Q2,2222,Bene,bum,Bulu (Cameroon),I,
-Q2,2740,Kisafwa,sbk,Safwa,I,
-Q2,2741,Kisambaa,ksb,Shambala,I,
-Q2,2742,Kishirazi,ikz,Ikizu,I,Kishashi is a dialect of Ikizu: https://www.ethnologue.com/country/tz/languages
-Q2,2743,Kisubi,suj,Shubi,I,
-Q2,2744,Kisumbwa,suw,Sumbwa,I,
-Q2,2745,Kiyao,yao,Yao,I,
-Q2,2746,Kizanaki,zak,Zanaki,I,
-Q2,2747,Kizaramo,zaj,Zaramo,I,
-Q2,2748,Kizigua,ziw,Zigula,I,
-Q2,9995,Other,und,,,"Custom ISO code for “other”
-"
-Q2,9998,,und,,,"Custom ISO code for “refused to answer”
-"
-Q2,9999,Don't know,und,,,"Custom ISO code for ""don't know""
+round,question,lang_id,lang_name,iso_639_3,iso_ref_name,iso_scope,note
+r6,Q103,-1,Missing,und,,,Custom ISO code for “missing”
+r6,Q103,1,English,eng,English,I,
+r6,Q103,2,French,fra,French,I,
+r6,Q103,3,Portuguese,por,Portuguese,I,
+r6,Q103,4,Swahili,swa,Swahili (macrolanguage),M,
+r6,Q103,4,Swahili,swh,Swahili (individual language),I,
+r6,Q103,5,Arabic,ara,Arabic,M,"Since this applies to all surveys, standard arabic is all I can use."
+r6,Q103,5,Arabic,arb,Standard Arabic,I,"Since this applies to all surveys, standard arabic is all I can use."
+r6,Q103,7,Afrikaans,afr,Afrikaans,I,
+r6,Q103,15,Dioula,dyu,Dyula,I,
+r6,Q103,16,Ewe,ewe,Ewe,I,
+r6,Q103,18,Fulfuldé,fuh,Western Niger Fulfulde,I,
+r6,Q103,18,Fulfuldé,ful,Fulah,M,
+r6,Q103,18,Fulfuldé,fuq,Central-Eastern Niger Fulfulde,I,
+r6,Q103,20,Hausa,hau,Hausa,I,
+r6,Q103,32,Tamasheq,taq,Tamasheq,I,
+r6,Q103,32,Tamasheq,thv,Tahaggart Tamahaq,I,
+r6,Q103,32,Tamasheq,tmh,Tamashek,M,
+r6,Q103,32,Tamasheq,ttq,Tawallammat Tamajaq,I,
+r6,Q103,35,Yoruba,yor,Yoruba,I,
+r6,Q103,100,Fon,fon,Fon,I,
+r6,Q103,101,Adja,ajg,Aja (Benin),I,
+r6,Q103,102,Bariba,bba,Baatonum,I,
+r6,Q103,104,Outamari,tbz,Ditammari,I,
+r6,Q103,105,Peulh,fue,Borgu Fulfulde,I,
+r6,Q103,105,Peulh,fuh,Western Niger Fulfulde,I,
+r6,Q103,105,Peulh,ful,Fulah,M,
+r6,Q103,106,Lopka,dop,Lukpa,I,Lokpa
+r6,Q103,140,Setswana,tsn,Tswana,I,
+r6,Q103,180,Mooré,mos,Mossi,I,
+r6,Q103,183,Gulmacema,gux,Gourmanchéma,I,Gourmanchema language also goes by https://en.wikipedia.org/wiki/Gourmanch%C3%A9_language
+r6,Q103,184,Gourounsi,gur,Farefare,I,Farfene or Gurenne
+r6,Q103,220,Crioulo,kea,Kabuverdianu,I,
+r6,Q103,221,Português,por,Portuguese,I,
+r6,Q103,260,Akan,aka,Akan,M,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
+"
+r6,Q103,260,Akan,fat,Fanti,I,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
+"
+r6,Q103,260,Akan,twi,Twi,I,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
+"
+r6,Q103,262,Ga/Dangbe,adq,Adangbe,I,
+r6,Q103,262,Ga/Dangbe,gaa,Ga,I,
+r6,Q103,263,Dagbani,dag,Dagbani,I,
+r6,Q103,265,Waala,wlx,Wali (Ghana),I,Wali
+r6,Q103,273,Dagaree,dga,Southern Dagaare,I,Dagaare
+r6,Q103,300,Kikuyu,kik,Kikuyu,I,
+r6,Q103,301,Luo,luo,Luo (Kenya and Tanzania),I,
+r6,Q103,302,Luhya,lkb,Kabras,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q103,302,Luhya,lks,Kisa,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q103,302,Luhya,lto,Tsotso,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q103,302,Luhya,luy,Luyia,M,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q103,302,Luhya,lwg,Wanga,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q103,302,Luhya,nle,East Nyala,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q103,303,Kamba,kam,Kamba (Kenya),I,
+r6,Q103,304,Kalenjin,enb,Markweeta,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q103,304,Kalenjin,eyo,Keiyo,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q103,304,Kalenjin,kln,Kalenjin,M,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q103,304,Kalenjin,niq,Nandi,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q103,304,Kalenjin,oki,Okiek,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q103,304,Kalenjin,sgc,Kipsigis,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q103,304,Kalenjin,spy,Sabaot,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q103,304,Kalenjin,tec,Terik,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q103,304,Kalenjin,tuy,Tugen,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q103,305,Kisii,guz,Gusii,I,
+r6,Q103,306,Meru/Samburu,mer,Meru,I,
+r6,Q103,306,Meru/Samburu,saq,Samburu,I,
+r6,Q103,307,Maasai / Samburu,mas,Masai,I,
+r6,Q103,307,Maasai / Samburu,saq,Samburu,I,
+r6,Q103,310,Somali,som,Somali,I,
+r6,Q103,340,Sesotho,sot,Southern Sotho,I,
+r6,Q103,380,Liberian English,lir,Liberian English,I,
+r6,Q103,420,Malgache « officiel »,mlg,Malagasy,M,Plateau Malagasay is considered the official language: https://www.ethnologue.com/language/plt
+r6,Q103,420,Malgache « officiel »,plt,Plateau Malagasy,I,Plateau Malagasay is considered the official language: https://www.ethnologue.com/language/plt
+r6,Q103,421,Malgache avec spécificité régionale,bhr,Bara Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,bmm,Northern Betsimisaraka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,buc,Bushi,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,bzc,Southern Betsimisaraka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,mlg,Malagasy,M,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,msh,Masikoro Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,skg,Sakalava Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,tdx,Tandroy-Mahafaly Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,tkg,Tesaka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,txy,Tanosy Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,xmv,Antankarana Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,421,Malgache avec spécificité régionale,xmw,Tsimihety Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q103,460,Chitumbuka,tum,Tumbuka,I,
+r6,Q103,463,Chichewa,nya,Nyanja,I,
+r6,Q103,501,Bambara,bam,Bambara,I,
+r6,Q103,514,Peulh/Fulfude,ffm,Maasina Fulfulde,I,"Fulfulde. This is the Fula langauge spoken in Mali. The Mali code is ‘ffm’ but should we just keep it as ‘ful?
+"
+r6,Q103,514,Peulh/Fulfude,ful,Fulah,M,"Fulfulde. This is the Fula langauge spoken in Mali. The Mali code is ‘ffm’ but should we just keep it as ‘ful?
+"
+r6,Q103,517,Soninké,snk,Soninke,I,
+r6,Q103,518,Sonrhai,hmb,Humburi Senni Songhay,I,
+r6,Q103,518,Sonrhai,khq,Koyra Chiini Songhay,I,
+r6,Q103,518,Sonrhai,ses,Koyraboro Senni Songhai,I,
+r6,Q103,540,Makua,vmw,Makhuwa,I,
+r6,Q103,541,Sena,seh,Sena,I,
+r6,Q103,542,Ndau,ndc,Ndau,I,
+r6,Q103,543,Changana,tso,Tsonga,I,
+r6,Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,I,
+r6,Q103,582,Otjiherero,her,Herero,I,
+r6,Q103,583,Rukwangali,kwn,Kwangali,I,
+r6,Q103,621,Igbo,agb,Legbo,I,
+r6,Q103,621,Igbo,ibo,Igbo,I,
+r6,Q103,623,Pidgin English,pcm,Nigerian Pidgin,I,
+r6,Q103,660,Wolof,wol,Wolof,I,
+r6,Q103,661,Pulaar/Toucouleur,fuc,Pulaar,I,
+r6,Q103,661,Pulaar/Toucouleur,ful,Fulah,M,
+r6,Q103,665,Diola,dyo,Jola-Fonyi,I,Acholi
+r6,Q103,702,Xhosa,xho,Xhosa,I,
+r6,Q103,703,Pedi/Spedi/North Sotho,nso,Pedi,I,
+r6,Q103,704,Sesotho/Sotho/South Sotho,nso,Pedi,I,
+r6,Q103,704,Sesotho/Sotho/South Sotho,sot,Southern Sotho,I,
+r6,Q103,705,Setswana/Tswana,tsn,Tswana,I,
+r6,Q103,708,Venda,ven,Venda,I,
+r6,Q103,709,Zulu,zul,Zulu,I,
+r6,Q103,780,Luganda,lug,Ganda,I,
+r6,Q103,781,Runyankore-Rukiga,cgg,Chiga,I,
+r6,Q103,782,Runyoro-Rutooro,nyo,Nyoro,I,Runyoro-Rutooro (according to WALS)
+r6,Q103,783,Lusoga,xog,Soga,I,
+r6,Q103,784,Lumasaaba,myx,Masaaba,I,
+r6,Q103,787,Ateso,teo,Teso,I,
+r6,Q103,788,Acholi-Langi,ach,Acoli,I,Acholi
+r6,Q103,789,Alur,alz,Alur,I,
+r6,Q103,790,Lugbara,lgg,Lugbara,I,
+r6,Q103,792,Japadhola,adh,Adhola,I,Adhola
+r6,Q103,798,Kupsabinyi,kpz,Kupsabiny,I,Kupsabiny or Sabiny https://en.wikipedia.org/wiki/Sabiny_language
+r6,Q103,799,Ngakarimajong,kdj,Karamojong,I,Ngakarimojong
+r6,Q103,820,Chewa/Nyanja,nya,Nyanja,I,
+r6,Q103,821,Bembia,bem,Bemba (Zambia),I,Bemba is only off by one letter and one of bhe more widely spoken languages. It looks like an Afrobarometer typo.
+r6,Q103,822,Tonga,toi,Tonga (Zambia),I,
+r6,Q103,823,Kaonde,kqn,Kaonde,I,
+r6,Q103,824,Lozi,loz,Lozi,I,
+r6,Q103,860,Ndebele,nde,North Ndebele,I,
+r6,Q103,861,Shona,sna,Shona,I,
+r6,Q103,900,Creole,mfe,Morisyen,I,Mauritian Creole
+r6,Q103,930,Krio,kri,Krio,I,
+r6,Q103,931,Mende,men,Mende (Sierra Leone),I,
+r6,Q103,932,Temne,tem,Timne,I,
+r6,Q103,1100,Haoussa,hau,Hausa,I,
+r6,Q103,1101,Zarma/Songhaï,dje,Zarma,I,
+r6,Q103,1142,Kabye,kbp,Kabiyè,I,
+r6,Q103,1143,Tem (Kotokoli),kdh,Tem,I,
+r6,Q103,1144,Ben (Moba),mfq,Moba,I,
+r6,Q103,1145,Nawdem (Losso),las,Lama (Togo),I,
+r6,Q103,1145,Nawdem (Losso),nmz,Nawdm,I,
+r6,Q103,1180,Kirundi,run,Rundi,I,
+r6,Q103,1220,Foufouldé,fub,Adamawa Fulfulde,I,https://www.ethnologue.com/country/cm/languages
+r6,Q103,1220,Foufouldé,ful,Fulah,M,https://www.ethnologue.com/country/cm/languages
+r6,Q103,1220,Foufouldé,fuv,Nigerian Fulfulde,I,https://www.ethnologue.com/country/cm/languages
+r6,Q103,1221,Pidgin,wes,Cameroon Pidgin,I,
+r6,Q103,1222,Ewondo,ewo,Ewondo,I,
+r6,Q103,1300,Soussou,sus,Susu,I,Susu
+r6,Q103,1302,Poular,fuf,Pular,I,Pular is the Fula language generally spoken in Guinea
+r6,Q103,1302,Poular,ful,Fulah,M,Pular is the Fula language generally spoken in Guinea
+r6,Q103,1305,Maninka,emk,Eastern Maninkakan,I,Maninka are a lot of closely related languages. Eastern Manika seems to be the most widely used.
+r6,Q103,1305,Maninka,man,Mandingo,M,Maninka are a lot of closely related languages. Eastern Manika seems to be the most widely used.
+r6,Q103,1307,Kpèlè,gkp,Guinea Kpelle,I,https://en.wikipedia.org/wiki/Kpelle_language
+r6,Q103,1307,Kpèlè,kpe,Kpelle,M,https://en.wikipedia.org/wiki/Kpelle_language
+r6,Q103,1312,Kissié,kqs,Northern Kissi,I,https://en.wikipedia.org/wiki/Kissi_language
+r6,Q103,1620,siSwati,ssw,Swati,I,
+r6,Q103,1660,Creolo,aoa,Angolar,I,https://en.wikipedia.org/wiki/Angolar_Creole
+r6,Q103,9995,Other,und,,,"Custom ISO code for “other”
+"
+r6,Q103,9998,,und,,,"Custom ISO code for “refused to answer”
+"
+r6,Q103,9999,,und,,,"Custom ISO code for ""don't know"""
+r6,Q2,-1,Missing,und,,,Custom ISO code for “missing”
+r6,Q2,1,English,eng,English,I,
+r6,Q2,2,French,fra,French,I,
+r6,Q2,3,Portuguese,por,Portuguese,I,
+r6,Q2,4,Swahili,swa,Swahili (macrolanguage),M,
+r6,Q2,4,Swahili,swh,Swahili (individual language),I,
+r6,Q2,5,Arabic,ara,Arabic,M,"Since this applies to all surveys, standard arabic is all I can use."
+r6,Q2,5,Arabic,arb,Standard Arabic,I,"Since this applies to all surveys, standard arabic is all I can use."
+r6,Q2,6,Adja,ajg,Aja (Benin),I,
+r6,Q2,7,Afrikaans,afr,Afrikaans,I,
+r6,Q2,8,Arabe,mey,Hassaniyya,I,"Hassanyi Arabic, the form of Maghrebi Arabic spoken in Mali"
+r6,Q2,9,Bambara,bam,Bambara,I,
+r6,Q2,10,Bassa,bas,Basa (Cameroon),I,
+r6,Q2,10,Bassa,bsq,Bassa,I,
+r6,Q2,10,Bassa,ngn,Ngwo,I,
+r6,Q2,11,Berber Language,cnu,Chenoua,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
+r6,Q2,11,Berber Language,kab,Kabyle,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
+r6,Q2,11,Berber Language,rif,Tarifit,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
+r6,Q2,11,Berber Language,shi,Tachelhit,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
+r6,Q2,11,Berber Language,shy,Tachawit,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
+r6,Q2,11,Berber Language,thv,Tahaggart Tamahaq,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
+r6,Q2,11,Berber Language,tmh,Tamashek,M,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
+r6,Q2,11,Berber Language,tzm,Central Atlas Tamazight,I,"Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya, Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight spoken in Morocco"
+r6,Q2,12,Bissa,bib,Bissa,I,
+r6,Q2,13,Bobo,bbo,Northern Bobo Madaré,I,
+r6,Q2,13,Bobo,bmq,Bomu,I,
+r6,Q2,13,Bobo,box,Buamu,I,
+r6,Q2,13,Bobo,bwq,Southern Bobo Madaré,I,
+r6,Q2,14,Chewa,nya,Nyanja,I,
+r6,Q2,15,Dioula,dyu,Dyula,I,
+r6,Q2,16,Ewe,ewe,Ewe,I,
+r6,Q2,17,Fon,fon,Fon,I,
+r6,Q2,18,Fulfuldé,fuh,Western Niger Fulfulde,I,
+r6,Q2,18,Fulfuldé,ful,Fulah,M,
+r6,Q2,18,Fulfuldé,fuq,Central-Eastern Niger Fulfulde,I,
+r6,Q2,19,Haoussa,hau,Hausa,I,
+r6,Q2,20,Hausa,hau,Hausa,I,
+r6,Q2,21,Kanuri,bms,Bilma Kanuri,I,
+r6,Q2,21,Kanuri,kau,Kanuri,M,
+r6,Q2,21,Kanuri,kby,Manga Kanuri,I,
+r6,Q2,21,Kanuri,knc,Central Kanuri,I,
+r6,Q2,21,Kanuri,krt,Tumari Kanuri,I,
+r6,Q2,22,Kissi,kqs,Northern Kissi,I,
+r6,Q2,22,Kissi,kss,Southern Kisi,I,
+r6,Q2,23,Lobi,lob,Lobi,I,
+r6,Q2,24,Mano,mev,Mano,I,
+r6,Q2,25,Mende,men,Mende (Sierra Leone),I,
+r6,Q2,26,Ndau,ndc,Ndau,I,
+r6,Q2,27,Ndebele,nbl,South Ndebele,I,
+r6,Q2,27,Ndebele,nde,North Ndebele,I,
+r6,Q2,28,Nyanja,nya,Nyanja,I,
+r6,Q2,29,Peulh,fue,Borgu Fulfulde,I,
+r6,Q2,29,Peulh,fuh,Western Niger Fulfulde,I,
+r6,Q2,29,Peulh,ful,Fulah,M,
+r6,Q2,30,Sénoufo,dyi,Djimini Senoufo,I,
+r6,Q2,30,Sénoufo,plr - seb - sef - sen - sep - seq - sev - tgw,,,
+r6,Q2,31,Setswana,tsn,Tswana,I,
+r6,Q2,32,Tamasheq,taq,Tamasheq,I,
+r6,Q2,32,Tamasheq,thv,Tahaggart Tamahaq,I,
+r6,Q2,32,Tamasheq,tmh,Tamashek,M,
+r6,Q2,32,Tamasheq,ttq,Tawallammat Tamajaq,I,
+r6,Q2,33,Tonga,ndc,Ndau,I,
+r6,Q2,33,Tonga,toi,Tonga (Zambia),I,
+r6,Q2,33,Tonga,tso,Tsonga,I,
+r6,Q2,34,Venda,ven,Venda,I,
+r6,Q2,35,Yoruba,yor,Yoruba,I,
+r6,Q2,102,Bariba,bba,Baatonum,I,
+r6,Q2,103,Dendi,ddn,Dendi (Benin),I,
+r6,Q2,105,Otamari,tbz,Ditammari,I,"Ditammari. Has a similar name, and the only major language not coded."
+r6,Q2,107,Lopka,dop,Lukpa,I,Lokpa
+r6,Q2,141,Sesarwa,hio,Tsoa,I,
+r6,Q2,142,Sekgalagadi,xkv,Kgalagadi,I,
+r6,Q2,143,Sesubia,sbs,Subiya,I,Sesubea or Kuhane
+r6,Q2,144,Ikalanga/Sekalaka,kck,Kalanga,I,
+r6,Q2,145,Seherero,her,Herero,I,Herero
+r6,Q2,146,Sembukushu,mhw,Mbukushu,I,Mbukushu
+r6,Q2,147,Sebirwa,brl,Birwa,I,Birwa
+r6,Q2,148,Sengologa,xkv,Kgalagadi,I,Kgalagadi or Ngologa
+r6,Q2,149,Seyei,yey,Yeyi,I,Yeyi
+r6,Q2,180,Mooré,mos,Mossi,I,
+r6,Q2,183,Gulmacema,gux,Gourmanchéma,I,Gourmanchema language also goes by https://en.wikipedia.org/wiki/Gourmanch%C3%A9_language
+r6,Q2,184,Gourounsi,gur,Farefare,I,Farfene or Gurenne
+r6,Q2,186,Birifor,bfo,Malba Birifor,I,
+r6,Q2,187,Bwamu,box,Buamu,I,
+r6,Q2,187,Bwamu,bwj,Láá Láá Bwamu,I,
+r6,Q2,187,Bwamu,bwy,Cwi Bwamu,I,
+r6,Q2,188,Dagari,dgi,Northern Dagara,I,
+r6,Q2,189,Fulse,kfz,Koromfé,I,
+r6,Q2,190,Goin,cme,Cerma,I,
+r6,Q2,191,Karaboro,kza,Western Karaboro,I,
+r6,Q2,191,Karaboro,xrb,Eastern Karaboro,I,
+r6,Q2,192,Kassena,xsm,Kasem,I,
+r6,Q2,194,Marka,rkm,Marka,I,
+r6,Q2,195,Samo,knz,Kalamsé,I,
+r6,Q2,195,Samo,sbd,Southern Samo,I,
+r6,Q2,195,Samo,stj,Matya Samo,I,
+r6,Q2,195,Samo,sym,Maya Samo,I,
+r6,Q2,197,Sonrai,hmb,Humburi Senni Songhay,I,
+r6,Q2,220,Crioulo,kea,Kabuverdianu,I,
+r6,Q2,221,Português,por,Portuguese,I,
+r6,Q2,260,Akan,aka,Akan,M,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
+"
+r6,Q2,260,Akan,fat,Fanti,I,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
+"
+r6,Q2,260,Akan,twi,Twi,I,"Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
+"
+r6,Q2,262,Ga/Dangbe,adq,Adangbe,I,
+r6,Q2,262,Ga/Dangbe,gaa,Ga,I,
+r6,Q2,263,Dagbani,dag,Dagbani,I,
+r6,Q2,265,Waala,wlx,Wali (Ghana),I,Wali
+r6,Q2,266,Moshie,mos,Mossi,I,"Moshi, Mossi, or Moore."
+r6,Q2,267,Mampruli,maw,Mampruli,I,
+r6,Q2,268,Likpakpaln,xon,Konkomba,I,Konkomba
+r6,Q2,269,Kusal,kus,Kusaal,I,Kusaal
+r6,Q2,270,Konkomba,xon,Konkomba,I,
+r6,Q2,271,Gonja,gjn,Gonja,I,
+r6,Q2,272,Frafra,gur,Farefare,I,
+r6,Q2,273,Dagaari,dga,Southern Dagaare,I,Dagaare
+r6,Q2,275,Kotokoli,kdh,Tem,I,
+r6,Q2,276,Gruma,kma,Konni,I,Konni is spoken in Nangruma: http://www.ethnologue.com/18/language/kma/
+r6,Q2,277,Buli,bwu,Buli (Ghana),I,
+r6,Q2,278,Basari,bud,Ntcham,I,
+r6,Q2,300,Kikuyu,kik,Kikuyu,I,
+r6,Q2,301,Luo,luo,Luo (Kenya and Tanzania),I,
+r6,Q2,302,Luhya,lkb,Kabras,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q2,302,Luhya,lks,Kisa,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q2,302,Luhya,lto,Tsotso,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q2,302,Luhya,luy,Luyia,M,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q2,302,Luhya,lwg,Wanga,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q2,302,Luhya,nle,East Nyala,I,This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
+r6,Q2,303,Kamba,kam,Kamba (Kenya),I,
+r6,Q2,304,Kalenjin,enb,Markweeta,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q2,304,Kalenjin,eyo,Keiyo,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q2,304,Kalenjin,kln,Kalenjin,M,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q2,304,Kalenjin,niq,Nandi,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q2,304,Kalenjin,oki,Okiek,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q2,304,Kalenjin,sgc,Kipsigis,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q2,304,Kalenjin,spy,Sabaot,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q2,304,Kalenjin,tec,Terik,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q2,304,Kalenjin,tuy,Tugen,I,"Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken in Kenya within that group. Did not include (Endo/Marakuet) The most likely language are Nandi (niq) or Kipsigis (sgc)
+"
+r6,Q2,305,Kisii,guz,Gusii,I,
+r6,Q2,306,Meru/Embu,ebu,Embu,I,
+r6,Q2,306,Meru/Embu,mer,Meru,I,
+r6,Q2,307,Maasai/Samburu,mas,Masai,I,
+r6,Q2,307,Maasai/Samburu,saq,Samburu,I,
+r6,Q2,308,Mijikenda,dig,Digo,I,"Mijikenda language maps to ISO 639-3 languages Chonyi (coh), Digo (dig), Duruma (dug), Giryama (nyf), and Segeju (Seg) https://en.wikipedia.org/wiki/Mijikenda_language
+"
+r6,Q2,308,Mijikenda,dug,Duruma,I,"Mijikenda language maps to ISO 639-3 languages Chonyi (coh), Digo (dig), Duruma (dug), Giryama (nyf), and Segeju (Seg) https://en.wikipedia.org/wiki/Mijikenda_language
+"
+r6,Q2,308,Mijikenda,nyf,Giryama,I,"Mijikenda language maps to ISO 639-3 languages Chonyi (coh), Digo (dig), Duruma (dug), Giryama (nyf), and Segeju (Seg) https://en.wikipedia.org/wiki/Mijikenda_language
+"
+r6,Q2,308,Mijikenda,seg,Segeju,I,"Mijikenda language maps to ISO 639-3 languages Chonyi (coh), Digo (dig), Duruma (dug), Giryama (nyf), and Segeju (Seg) https://en.wikipedia.org/wiki/Mijikenda_language
+"
+r6,Q2,309,Taita,dav,Taita,I,
+r6,Q2,310,Somali,som,Somali,I,
+r6,Q2,311,Pokot,kln,Kalenjin,M,
+r6,Q2,311,Pokot,pko,Pökoot,I,
+r6,Q2,312,Turkana,tuv,Turkana,I,
+r6,Q2,313,Kuria,kuj,Kuria,I,
+r6,Q2,314,Garre,gex,Garre,I,Garree
+r6,Q2,315,Borana,gax,Borana-Arsi-Guji Oromo,I,
+r6,Q2,315,Borana,orm,Oromo,M,
+r6,Q2,340,Sesotho,sot,Southern Sotho,I,
+r6,Q2,341,Sephuthi,ssw,Swati,I,
+r6,Q2,342,Sethepu,xho,Xhosa,I,"Sethepu is a name for Thembu, which is a dialect of Xhosa: https://en.wikipedia.org/wiki/Thembu_people"
+r6,Q2,381,Belle,blh,Kuwaa,I,
+r6,Q2,382,Dei,dee,Dewoin,I,
+r6,Q2,383,Gbandi,bza,Bandi,I,
+r6,Q2,384,Gio,dnj,Dan,I,
+r6,Q2,385,Gola,gol,Gola,I,
+r6,Q2,386,Grebo,gbo,Northern Grebo,I,
+r6,Q2,386,Grebo,gec,Gboloo Grebo,I,
+r6,Q2,386,Grebo,grb,Grebo,M,
+r6,Q2,386,Grebo,grj,Southern Grebo,I,
+r6,Q2,386,Grebo,grv,Central Grebo,I,
+r6,Q2,386,Grebo,gry,Barclayville Grebo,I,
+r6,Q2,388,Kpelle,kpe,Kpelle,M,
+r6,Q2,388,Kpelle,xpe,Liberia Kpelle,I,
+r6,Q2,389,Krahn,kqo,Eastern Krahn,I,
+r6,Q2,389,Krahn,krw,Western Krahn,I,
+r6,Q2,390,Kru,klu,Klao,I,
+r6,Q2,390,Kru,ted,Tepo Krumen,I,
+r6,Q2,391,Lorma,lom,Loma (Liberia),I,
+r6,Q2,392,Mandingo,mzj,Manya,I,
+r6,Q2,395,Vai,vai,Vai,I,
+r6,Q2,396,Liberian English,lir,Liberian English,I,
+r6,Q2,420,Malgache « officiel »,mlg,Malagasy,M,Plateau Malagasay is considered the official language: https://www.ethnologue.com/language/plt
+r6,Q2,420,Malgache « officiel »,plt,Plateau Malagasy,I,Plateau Malagasay is considered the official language: https://www.ethnologue.com/language/plt
+r6,Q2,421,Malgache avec spécificité régionale,bhr,Bara Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,bmm,Northern Betsimisaraka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,buc,Bushi,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,bzc,Southern Betsimisaraka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,mlg,Malagasy,M,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,msh,Masikoro Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,skg,Sakalava Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,tdx,Tandroy-Mahafaly Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,tkg,Tesaka Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,txy,Tanosy Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,xmv,Antankarana Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,421,Malgache avec spécificité régionale,xmw,Tsimihety Malagasy,I,"Include macrolanguage code for Malagasay, and all languages that are not Plateau Malagasay
+"
+r6,Q2,460,Chitumbuka,tum,Tumbuka,I,
+r6,Q2,461,Chinkhonde,nyy,Nyakyusa-Ngonde,I,https://en.wikipedia.org/wiki/Nyakyusa_language
+r6,Q2,462,Chilambya,lam,Lamba,I,Chilamba is one of the offical Zambian languages
+r6,Q2,463,Chichewa,nya,Nyanja,I,
+r6,Q2,464,Chiyao,yao,Yao,I,
+r6,Q2,465,Chingoni,nya,Nyanja,I,Chichewa/Ngoni
+r6,Q2,466,Chilomwe,lon,Malawi Lomwe,I,Lomwe (some reports that this rolls into ‘nya’)
+r6,Q2,467,Chimang'anja,swk,Malawi Sena,I,
+r6,Q2,468,Chisena,swk,Malawi Sena,I,
+r6,Q2,469,Chisukwa,ndh,Ndali,I,Ndali
+r6,Q2,470,Chisenga,nkv,Nyika (Malawi and Zambia),I,"http://www.ethnologue.com/18/country/MW/languages/ Chisenga area villages mention Nyika. Also named Chisena. Spoken in neighboring Mozambique. https://www.ethnologue.com/language/seh
+"
+r6,Q2,470,Chisenga,she,Sheko,I,"http://www.ethnologue.com/18/country/MW/languages/ Chisenga area villages mention Nyika. Also named Chisena. Spoken in neighboring Mozambique. https://www.ethnologue.com/language/seh
+"
+r6,Q2,471,Chitonga,tog,Tonga (Nyasa),I,
+r6,Q2,502,Bella,ses,Koyraboro Senni Songhai,I,"Bella is the Songhai name for Ikelan (a caste of Tuareg). They speak a Nilo-Saharan language. Since it isn't covered by other values, this must be a Songhay language. Koyraboro Sennai (ses) is spoken by 300-430,000 and not matched by any of the other entries. Soninke is spoken by 2.1 million, but matched by another entry."
+r6,Q2,504,Bozo,boo,Tiemacèwè Bozo,I,
+r6,Q2,504,Bozo,boz,Tiéyaxo Bozo,I,
+r6,Q2,504,Bozo,bze,Jenaama Bozo,I,
+r6,Q2,504,Bozo,bzx,Kɛlɛngaxo Bozo,I,
+r6,Q2,505,Dafing,rkm,Marka,I,
+r6,Q2,506,Dogon,aqd,Ampari Dogon,I,
+r6,Q2,506,Dogon,dbg,Dogul Dom Dogon,I,
+r6,Q2,506,Dogon,dbt,Ben Tey Dogon,I,
+r6,Q2,506,Dogon,dbu,Bondum Dom Dogon,I,
+r6,Q2,506,Dogon,dbw,Bankan Tey Dogon,I,
+r6,Q2,506,Dogon,dds,Donno So Dogon,I,
+r6,Q2,506,Dogon,dgb,Bunoge Dogon,I,
+r6,Q2,506,Dogon,djm,Jamsay Dogon,I,
+r6,Q2,506,Dogon,dmb,Mombo Dogon,I,
+r6,Q2,506,Dogon,dti,Ana Tinga Dogon,I,
+r6,Q2,506,Dogon,dtk,Tene Kan Dogon,I,
+r6,Q2,506,Dogon,dtm,Tomo Kan Dogon,I,
+r6,Q2,506,Dogon,dto,Tommo So Dogon,I,
+r6,Q2,506,Dogon,dts,Toro So Dogon,I,
+r6,Q2,506,Dogon,dtt,Toro Tegu Dogon,I,
+r6,Q2,506,Dogon,dtu,Tebul Ure Dogon,I,
+r6,Q2,506,Dogon,dym,Yanda Dom Dogon,I,
+r6,Q2,506,Dogon,nzz,Nanga Dama Dogon,I,
+r6,Q2,506,Dogon,tde,Tiranige Diga Dogon,I,
+r6,Q2,509,Kakolo,xkg,Kagoro,I,
+r6,Q2,510,Khassonké,kao,Xaasongaxango,I,
+r6,Q2,511,Malinké,kao,Xaasongaxango,I,
+r6,Q2,511,Malinké,man,Mandingo,M,
+r6,Q2,511,Malinké,mlq,Western Maninkakan,I,
+r6,Q2,511,Malinké,mwk,Kita Maninkakan,I,
+r6,Q2,512,Maure,mey,Hassaniyya,I,
+r6,Q2,513,Mianka,myk,Mamara Senoufo,I,
+r6,Q2,514,Peulh/Fulfude,ffm,Maasina Fulfulde,I,"Fulfulde. This is the Fula langauge spoken in Mali. The Mali code is ‘ffm’ but should we just keep it as ‘ful?
+"
+r6,Q2,514,Peulh/Fulfude,ful,Fulah,M,"Fulfulde. This is the Fula langauge spoken in Mali. The Mali code is ‘ffm’ but should we just keep it as ‘ful?
+"
+r6,Q2,515,Samogo,dux,Duungooma,I,
+r6,Q2,516,Senufo,spp,Supyire Senoufo,I,Senoufo or Supyire.
+r6,Q2,517,Soninké/Sarakolé,snk,Soninke,I,
+r6,Q2,518,Sonrhai,hmb,Humburi Senni Songhay,I,
+r6,Q2,518,Sonrhai,khq,Koyra Chiini Songhay,I,
+r6,Q2,518,Sonrhai,ses,Koyraboro Senni Songhai,I,
+r6,Q2,540,Makua,vmw,Makhuwa,I,
+r6,Q2,541,Sena,seh,Sena,I,
+r6,Q2,543,Changana,tso,Tsonga,I,
+r6,Q2,545,Chope,cce,Chopi,I,https://en.wikipedia.org/wiki/Chopi_language
+r6,Q2,546,Bitonga,toh,Gitonga,I,
+r6,Q2,547,Makonde,kde,Makonde,I,
+r6,Q2,548,Chuabo,chw,Chuwabu,I,
+r6,Q2,549,Ajaua,yao,Yao,I,https://fr.wikipedia.org/wiki/Yao_(peuple_d%27Afrique)
+r6,Q2,550,Lomue,ngl,Lomwe,I,
+r6,Q2,552,Nyungwe,nyu,Nyungwe,I,
+r6,Q2,553,Xitswa,tsc,Tswa,I,
+r6,Q2,581,German,deu,German,I,
+r6,Q2,582,Nama/Damara,naq,Khoekhoe,I,
+r6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,I,
+r6,Q2,584,Otjiherero,her,Herero,I,
+r6,Q2,585,Rukwangali,kwn,Kwangali,I,
+r6,Q2,586,Rugririku/Rumanyo,diu,Diriku,I,
+r6,Q2,587,Thimbukushu,mhw,Mbukushu,I,
+r6,Q2,588,Silozi,loz,Lozi,I,
+r6,Q2,590,Masubia,sbs,Subiya,I,Subiya
+r6,Q2,591,San,hgm,Hai//om,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
+r6,Q2,591,San,hnh,//Ani,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
+r6,Q2,591,San,knw,Kung-Ekoka,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
+r6,Q2,591,San,ktz,Ju/'hoan,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
+r6,Q2,591,San,naq,Khoekhoe,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
+r6,Q2,591,San,nhr,Naro,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
+r6,Q2,591,San,nmn,!Xóõ,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
+r6,Q2,591,San,vaj,Sekele,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
+r6,Q2,591,San,xuu,Kxoe,I,"San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx'aull'ein and Kxoe"
+r6,Q2,621,Igbo,agb,Legbo,I,
+r6,Q2,621,Igbo,ibo,Igbo,I,
+r6,Q2,623,Pidgin English,pcm,Nigerian Pidgin,I,
+r6,Q2,624,Efik,efi,Efik,I,
+r6,Q2,625,Ebira,igb,Ebira,I,
+r6,Q2,626,Fulani,fub,Adamawa Fulfulde,I,
+r6,Q2,626,Fulani,ful,Fulah,M,
+r6,Q2,627,Isoko,iso,Isoko,I,
+r6,Q2,628,Ibibio,ibb,Ibibio,I,
+r6,Q2,631,Nupe,nup,Nupe-Nupe-Tako,I,
+r6,Q2,632,Ijaw,ijc,Izon,I,
+r6,Q2,632,Ijaw,ijs,Southeast Ijo,I,
+r6,Q2,633,Edo,bin,Bini,I,
+r6,Q2,634,Igala,igl,Igala,I,
+r6,Q2,635,Urhobo,urh,Urhobo,I,
+r6,Q2,636,Ogoni,ogo,Khana,I,
+r6,Q2,637,Anang,anw,Anaang,I,
+r6,Q2,638,Ikwere,ikw,Ikwere,I,
+r6,Q2,639,Idoma,idu,Idoma,I,
+r6,Q2,640,Esan,ish,Esan,I,
+r6,Q2,641,Nembe,ijs,Southeast Ijo,I,
+r6,Q2,642,Alago,ala,Alago,I,
+r6,Q2,643,Degema,deg,Degema,I,
+r6,Q2,644,Eggon,ego,Eggon,I,
+r6,Q2,645,Jukun,jbu,Jukun Takum,I,
+r6,Q2,646,Kagoma,kdm,Kagoma,I,
+r6,Q2,647,Laru,lan,Laru,I,
+r6,Q2,648,Kalabari,ijn,Kalabari,I,
+r6,Q2,649,Nwangavul,sur,Mwaghavul,I,
+r6,Q2,650,Tangale,tan,Tangale,I,
+r6,Q2,651,Tarok,yer,Tarok,I,
+r6,Q2,652,Waja,wja,Waja,I,
+r6,Q2,653,Yala,yba,Yala,I,
+r6,Q2,660,Wolof,wol,Wolof,I,
+r6,Q2,661,Pulaar/Toucouleur,fuc,Pulaar,I,
+r6,Q2,661,Pulaar/Toucouleur,ful,Fulah,M,
+r6,Q2,662,Serer,cae,Lehar,I,
+r6,Q2,662,Serer,fap,Palor,I,
+r6,Q2,662,Serer,snf,Noon,I,
+r6,Q2,662,Serer,srr,Serer,I,
+r6,Q2,663,Mandinka/Bambara,man,Mandingo,M,
+r6,Q2,663,Mandinka/Bambara,mnk,Mandinka,I,
+r6,Q2,664,Soninke,snk,Soninke,I,
+r6,Q2,665,Diola,dyo,Jola-Fonyi,I,Acholi
+r6,Q2,666,Manjack,mfv,Mandjak,I,
+r6,Q2,668,Bassari,bsc,Bassari,I,
+r6,Q2,702,Xhosa,xho,Xhosa,I,
+r6,Q2,703,Pedi/North Sotho,nso,Pedi,I,
+r6,Q2,704,Sotho/South Sotho,nso,Pedi,I,
+r6,Q2,704,Sotho/South Sotho,sot,Southern Sotho,I,
+r6,Q2,705,Tswana,tsn,Tswana,I,
+r6,Q2,706,Shangaan/Tsonga,tso,Tsonga,I,
+r6,Q2,707,Swazi,ssw,Swati,I,
+r6,Q2,709,Zulu,zul,Zulu,I,
+r6,Q2,710,Asian/Indian,mul,,,Multilple languages
+r6,Q2,740,Kinyakyusa,nyy,Nyakyusa-Ngonde,I,
+r6,Q2,741,Kichaga,old,Mochi,I,There are many Chaga dialects. Mochi is the most widely spoken.
+r6,Q2,742,Kihaya,hay,Haya,I,
+r6,Q2,743,Kingoni,ngo,Ngoni,I,
+r6,Q2,744,Kikwere,cwe,Kwere,I,
+r6,Q2,744,Kikwere,ked,Kerewe,I,
+r6,Q2,745,Kipare,asa,Asu (Tanzania),I,
+r6,Q2,746,Kihehe,heh,Hehe,I,
+r6,Q2,747,Kimakonde,kde,Makonde,I,
+r6,Q2,748,Kinyamwezi,nym,Nyamwezi,I,
+r6,Q2,749,Kisukuma,suk,Sukuma,I,
+r6,Q2,750,Kimasai,mas,Masai,I,Maasai
+r6,Q2,751,Kimeru,rwk,Rwa,I,
+r6,Q2,752,Kikurya,kuj,Kuria,I,Kuria
+r6,Q2,753,Kigogo,gog,Gogo,I,
+r6,Q2,754,Kiluguru,ruf,Luguru,I,
+r6,Q2,755,Kifipa,fip,Fipa,I,
+r6,Q2,756,Kimanyema,unk,Enawené-Nawé,I,Could not find a match
+r6,Q2,757,Kinyiramba,nim,Nilamba,I,Nilamba
+r6,Q2,758,Kinyaturu,rim,Nyaturu,I,
+r6,Q2,759,Kiarusha,mas,Masai,I,Arusha speak Maasi (https://en.wikipedia.org/wiki/Arusha_people)
+r6,Q2,760,Kibena,bez,Bena (Tanzania),I,
+r6,Q2,761,Kiha,haq,Ha,I,
+r6,Q2,762,Kiiraq,irk,Iraqw,I,Iraqw
+r6,Q2,763,Kijaluo,luo,Luo (Kenya and Tanzania),I,Kidjaluo is a dialect of Luo: https://www.ethnologue.com/country/tz/languages
+r6,Q2,764,Kijita,jit,Jita,I,
+r6,Q2,765,Kikaguru,kki,Kagulu,I,kagulu
+r6,Q2,766,Kimakuwa,mgh,Makhuwa-Meetto,I,Makhuwa-Meeto
+r6,Q2,767,Kimatengo,mgv,Matengo,I,
+r6,Q2,768,Kimbulu,irk,Iraqw,I,Iraqw
+r6,Q2,769,Kimwera,mjh,Mwera (Nyasa),I,
+r6,Q2,769,Kimwera,mwe,Mwera (Chimwera),I,
+r6,Q2,770,Kindali,ndh,Ndali,I,
+r6,Q2,771,Kindamba,ndj,Ndamba,I,
+r6,Q2,772,Kindendeule,dne,Ndendeule,I,
+r6,Q2,773,Kindengereko,ndg,Ndengereko,I,
+r6,Q2,774,Kingindo,nnq,Ngindo,I,
+r6,Q2,775,Kinguu,ziw,Zigula,I,https://en.wikipedia.org/wiki/Zigula_language
+r6,Q2,776,Kinyambo,now,Nyambo,I,
+r6,Q2,777,Kinyiha,nih,Nyiha (Tanzania),I,
+r6,Q2,777,Kinyiha,nkt,Nyika (Tanzania),I,
+r6,Q2,778,Kipogoro,poy,Pogolo,I,pogolo
+r6,Q2,779,Kirangi,lag,Langi,I,
+r6,Q2,780,Luganda,lug,Ganda,I,
+r6,Q2,781,Runyankole,nyn,Nyankole,I,
+r6,Q2,782,Runyoro,nyo,Nyoro,I,
+r6,Q2,783,Lusoga,xog,Soga,I,
+r6,Q2,784,Lumasaaba,myx,Masaaba,I,
+r6,Q2,785,Lukhonjo,koo,Konzo,I,Konzo is also named Lukonzo https://www.ethnologue.com/language/koo
+r6,Q2,786,Lunyole,nuj,Nyole,I,
+r6,Q2,787,Ateso,teo,Teso,I,
+r6,Q2,788,Acholi,ach,Acoli,I,
+r6,Q2,789,Alur,alz,Alur,I,
+r6,Q2,790,Lugbara,lgg,Lugbara,I,
+r6,Q2,791,Madi,mhi,Ma'di,I,
+r6,Q2,791,Madi,snm,Southern Ma'di,I,
+r6,Q2,792,Japadhola,adh,Adhola,I,Adhola
+r6,Q2,793,Lusamia,lsm,Saamia,I,Samia
+r6,Q2,793,Lusamia,luy,Luyia,M,Samia
+r6,Q2,794,Lugwere,gwr,Gwere,I,
+r6,Q2,795,Rukiga,cgg,Chiga,I,
+r6,Q2,796,Rutooro,ttj,Tooro,I,
+r6,Q2,797,Langi,laj,Lango (Uganda),I,
+r6,Q2,798,Kupsabinyi,kpz,Kupsabiny,I,Kupsabiny or Sabiny https://en.wikipedia.org/wiki/Sabiny_language
+r6,Q2,799,Ngakarimajong,kdj,Karamojong,I,Ngakarimojong
+r6,Q2,800,Rufumbira,kin,Kinyarwanda,I,
+r6,Q2,820,Bemba,bem,Bemba (Zambia),I,
+r6,Q2,823,Lozi,loz,Lozi,I,
+r6,Q2,825,Nsenga,nse,Nsenga,I,
+r6,Q2,826,Tumbuka,tum,Tumbuka,I,
+r6,Q2,827,Kaonde,kqn,Kaonde,I,
+r6,Q2,828,Luvale,lue,Luvale,I,
+r6,Q2,829,Namwanga,mwn,Nyamwanga,I,
+r6,Q2,830,Lunda,bem,Bemba (Zambia),I,
+r6,Q2,830,Lunda,lun,Lunda,I,
+r6,Q2,831,Bisa,leb,Lala-Bisa,I,
+r6,Q2,832,Nkoya,nka,Nkoya,I,
+r6,Q2,833,Mambwe,mgr,Mambwe-Lungu,I,
+r6,Q2,834,Lenje,leh,Lenje,I,
+r6,Q2,835,Ngoni,nse,Nsenga,I,
+r6,Q2,835,Ngoni,nya,Nyanja,I,
+r6,Q2,835,Ngoni,tum,Tumbuka,I,
+r6,Q2,836,Soli,sby,Soli,I,
+r6,Q2,837,Ila,ilb,Ila,I,
+r6,Q2,838,Ushi,auh,Aushi,I,
+r6,Q2,839,Chokwe,cjk,Chokwe,I,
+r6,Q2,840,Mbunda,mck,Mbunda,I,
+r6,Q2,841,Kunda,kdn,Kunda,I,
+r6,Q2,841,Kunda,nya,Nyanja,I,
+r6,Q2,842,Lala,leb,Lala-Bisa,I,
+r6,Q2,843,Lamba,lam,Lamba,I,
+r6,Q2,844,Lungu,mgr,Mambwe-Lungu,I,
+r6,Q2,845,Nyika,nih,Nyiha (Tanzania),I,
+r6,Q2,845,Nyika,nkv,Nyika (Malawi and Zambia),I,
+r6,Q2,846,Senga,nse,Nsenga,I,
+r6,Q2,846,Senga,tum,Tumbuka,I,
+r6,Q2,847,Tokaleya,toi,Tonga (Zambia),I,https://www.ethnologue.com/country/zm/languages
+r6,Q2,851,Tabwa,tap,Taabwa,I,
+r6,Q2,861,Shona,sna,Shona,I,
+r6,Q2,862,Zezuru,sna,Shona,I,
+r6,Q2,863,Korekore,sna,Shona,I,
+r6,Q2,864,Karanga,sna,Shona,I,
+r6,Q2,865,Manyika,mxc,Manyika,I,
+r6,Q2,868,Kalanga,kck,Kalanga,I,
+r6,Q2,870,Buja,bja,Budza,I,https://en.wikipedia.org/wiki/Budza_language
+r6,Q2,870,Buja,tmv,Tembo (Motembo),I,https://en.wikipedia.org/wiki/Budza_language
+r6,Q2,871,Shangani,tso,Tsonga,I,
+r6,Q2,872,Suthu,sot,Southern Sotho,I,https://en.wikipedia.org/wiki/Sotho_language
+r6,Q2,900,Creole,mfe,Morisyen,I,Mauritian Creole
+r6,Q2,930,Krio,kri,Krio,I,
+r6,Q2,932,Temne,tem,Timne,I,
+r6,Q2,933,Limba,lia,West-Central Limba,I,
+r6,Q2,933,Limba,lma,East Limba,I,
+r6,Q2,934,Loko,lok,Loko,I,
+r6,Q2,935,Sherbo,bun,Sherbro,I,https://en.wikipedia.org/wiki/Sherbro_language
+r6,Q2,936,Fulla,fuf,Pular,I,Fula languag spoken in Guinea and Sierra Leonee
+r6,Q2,936,Fulla,ful,Fulah,M,Fula languag spoken in Guinea and Sierra Leonee
+r6,Q2,937,Kono,kno,Kono (Sierra Leone),I,
+r6,Q2,938,Kuranko,knk,Kuranko,I,
+r6,Q2,939,Madingo,emk,Eastern Maninkakan,I,
+r6,Q2,939,Madingo,man,Mandingo,M,
+r6,Q2,941,Susu,sus,Susu,I,
+r6,Q2,943,Yalunka,yal,Yalunka,I,
+r6,Q2,1101,Zarma/Songhaï,dje,Zarma,I,
+r6,Q2,1105,Goumantchéma,gux,Gourmanchéma,I,Gourmanchema
+r6,Q2,1141,Mina (Guen),gej,Gen,I,
+r6,Q2,1142,Kabye,kbp,Kabiyè,I,
+r6,Q2,1143,Tem (Kotokoli),kdh,Tem,I,
+r6,Q2,1144,Ben (Moba),mfq,Moba,I,
+r6,Q2,1145,Nawdem (Losso),las,Lama (Togo),I,
+r6,Q2,1145,Nawdem (Losso),nmz,Nawdm,I,
+r6,Q2,1146,Lama (Lamba),las,Lama (Togo),I,
+r6,Q2,1147,Ife (Ana),ife,Ifè,I,
+r6,Q2,1148,Ikposso (Akposso),kpo,Ikposo,I,
+r6,Q2,1149,N'tcha (Bassar),bud,Ntcham,I,
+r6,Q2,1151,Akebou,keu,Akebu,I,
+r6,Q2,1152,Gourma,gux,Gourmanchéma,I,
+r6,Q2,1153,Konkomba,xon,Konkomba,I,
+r6,Q2,1154,Ngam-gam,gng,Ngangam,I,https://www.ethnologue.com/country/tg/languages
+r6,Q2,1155,Tchamba,aks,Akaselem,I,
+r6,Q2,1157,Ouatchi,wci,Waci Gbe,I,
+r6,Q2,1160,Tchpkossi (Anoufom),cko,Anufo,I,Tchokossi is an alternative name. https://www.ethnologue.com/country/tg/languages
+r6,Q2,1180,Kirundi,run,Rundi,I,
+r6,Q2,1220,Foufouldé,fub,Adamawa Fulfulde,I,https://www.ethnologue.com/country/cm/languages
+r6,Q2,1220,Foufouldé,ful,Fulah,M,https://www.ethnologue.com/country/cm/languages
+r6,Q2,1220,Foufouldé,fuv,Nigerian Fulfulde,I,https://www.ethnologue.com/country/cm/languages
+r6,Q2,1221,Pidgin,wes,Cameroon Pidgin,I,
+r6,Q2,1222,Ewondo,ewo,Ewondo,I,
+r6,Q2,1223,Bafang,fmp,Fe'fe',I,
+r6,Q2,1224,Douala,dua,Duala,I,
+r6,Q2,1225,Bafia,ksf,Bafia,I,
+r6,Q2,1226,Bafut,bfd,Bafut,I,
+r6,Q2,1227,Bangangté,byv,Medumba,I,
+r6,Q2,1228,Bakundu,bdu,Oroko,I,
+r6,Q2,1229,Bamileke,bbj,Ghomálá',I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1229,Bamileke,bko,Kwa',I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1229,Bamileke,byv,Medumba,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1229,Bamileke,fmp,Fe'fe',I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1229,Bamileke,jgo,Ngomba,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1229,Bamileke,new,Newari,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1229,Bamileke,nla,Ngombale,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1229,Bamileke,nnh,Ngiemboon,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1229,Bamileke,nnz,Nda'nda',I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1229,Bamileke,xmg,Mengaka,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1229,Bamileke,ybb,Yemba,I,"Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale, Ngwe, Yemba. This is listed as an alternative name for multiple other languages. We should see if there is any discrepancy in gender features among these, if so, we should delete.
+"
+r6,Q2,1230,Bamoun,bax,Bamun,I,
+r6,Q2,1231,Bandjoun,bbj,Ghomálá',I,
+r6,Q2,1232,Bangwa,nge,Ngemba,I,
+r6,Q2,1232,Bangwa,nnz,Nda'nda',I,
+r6,Q2,1233,Banso,lns,Lamnso',I,
+r6,Q2,1235,Batanga,bdu,Oroko,I,
+r6,Q2,1235,Batanga,bnm,Batanga,I,
+r6,Q2,1235,Batanga,ckx,Caka,I,
+r6,Q2,1236,Bayangi,ken,Kenyang,I,
+r6,Q2,1237,Bulu,bum,Bulu (Cameroon),I,
+r6,Q2,1238,Dschang,ybb,Yemba,I,
+r6,Q2,1239,Eton,eto,Eton (Cameroon),I,
+r6,Q2,1240,Fali,fal,South Fali,I,
+r6,Q2,1240,Fali,fll,North Fali,I,
+r6,Q2,1241,Fong,ewo,Ewondo,I,
+r6,Q2,1242,Gbaya,gba,Gbaya (Central African Republic),M,
+r6,Q2,1242,Gbaya,gya,Northwest Gbaya,I,
+r6,Q2,1243,Guider,gid,Gidar,I,
+r6,Q2,1244,Guiziga,gis,North Giziga,I,
+r6,Q2,1244,Guiziga,giz,South Giziga,I,
+r6,Q2,1246,Kapsiki,kvj,Psikye,I,
+r6,Q2,1247,Mafa,maf,Mafa,I,
+r6,Q2,1248,Maka,mkk,Byep,I,
+r6,Q2,1249,Mankon,nge,Ngemba,I,
+r6,Q2,1250,Massa,mcn,Masana,I,
+r6,Q2,1251,Mbouda,jgo,Ngomba,I,"'Ngiemboon, Ngomba, and Ngombale are listed by the Ethnologue as being spoken in Mbouda. All three languages are closely related: Bemileke languages.'
+"
+r6,Q2,1251,Mbouda,nla,Ngombale,I,"'Ngiemboon, Ngomba, and Ngombale are listed by the Ethnologue as being spoken in Mbouda. All three languages are closely related: Bemileke languages.'
+"
+r6,Q2,1251,Mbouda,nnh,Ngiemboon,I,"'Ngiemboon, Ngomba, and Ngombale are listed by the Ethnologue as being spoken in Mbouda. All three languages are closely related: Bemileke languages.'
+"
+r6,Q2,1252,Mboum,mdd,Mbum,I,
+r6,Q2,1254,Moudan,mnf,Mundani,I,https://www.ethnologue.com/country/cm/languages
+r6,Q2,1255,Ngueba,nnh,Ngiemboon,I,Alternate name is Nguemba. https://www.ethnologue.com/language/nnh
+r6,Q2,1257,Lamnso,lns,Lamnso',I,
+r6,Q2,1258,Tikari,tik,Tikar,I,
+r6,Q2,1259,Toupouri,tui,Tupuri,I,
+r6,Q2,1260,Abbey,aba,Abé,I,
+r6,Q2,1261,Abron,abr,Abron,I,
+r6,Q2,1262,Adjoukrou,adj,Adioukrou,I,Adioukrou
+r6,Q2,1263,Agny,any,Anyin,I,Anyin
+r6,Q2,1264,Attié,ati,Attié,I,
+r6,Q2,1265,Avikam,avi,Avikam,I,
+r6,Q2,1267,Baoulé,bci,Baoulé,I,
+r6,Q2,1268,Bété,bet,Guiberoua Béte,I,
+r6,Q2,1268,Bété,bev,Daloa Bété,I,
+r6,Q2,1268,Bété,btg,Gagnoa Bété,I,
+r6,Q2,1268,Bété,nwb,Nyabwa,I,
+r6,Q2,1269,Dida,dic,Lakota Dida,I,
+r6,Q2,1269,Dida,gud,Yocoboué Dida,I,
+r6,Q2,1270,Godié,god,Godié,I,
+r6,Q2,1271,Gouro,goa,Guro,I,
+r6,Q2,1272,Guéré,gxx,Wè Southern,I,
+r6,Q2,1272,Guéré,wec,Wè Western,I,
+r6,Q2,1273,Koulango,nku,Bouna Kulango,I,
+r6,Q2,1274,Kroumen,pye,Pye Krumen,I,
+r6,Q2,1274,Kroumen,ted,Tepo Krumen,I,
+r6,Q2,1278,Yacouba,dnj,Dan,I,
+r6,Q2,1279,Djimini,dyi,Djimini Senoufo,I,
+r6,Q2,1280,Gnanboua,nwb,Nyabwa,I,"Gnanboua are an ethnicity in Zoukougbeu. The primary language is Nyabwa. https://www.ethnologue.com/language/nwb, http://www.rezoivoire.net/cotedivoire/ville/17/la-sous-prefecture-de-zoukougbeu.html#.V_cUR5MrLOY"
+r6,Q2,1281,Koyaka,kga,Koyaga,I,
+r6,Q2,1282,Wobe,wob,Wè Northern,I,
+r6,Q2,1300,Soussou,sus,Susu,I,Susu
+r6,Q2,1301,Poular,fuf,Pular,I,"This seems to be a typo of some kind, and should be the same as 1301: Poular"
+r6,Q2,1301,Poular,ful,Fulah,M,"This seems to be a typo of some kind, and should be the same as 1301: Poular"
+r6,Q2,1302,Maninka,emk,Eastern Maninkakan,I,Maninka are a lot of closely related languages. Eastern Manika seems to be the most widely used.
+r6,Q2,1302,Maninka,man,Mandingo,M,Maninka are a lot of closely related languages. Eastern Manika seems to be the most widely used.
+r6,Q2,1303,Kpèlè,gkp,Guinea Kpelle,I,https://en.wikipedia.org/wiki/Kpelle_language
+r6,Q2,1303,Kpèlè,kpe,Kpelle,M,https://en.wikipedia.org/wiki/Kpelle_language
+r6,Q2,1304,Loma,tom,Tombulu,I,Toma is the dialect of Loma spoken in Guinea
+r6,Q2,1305,Kissié,kqs,Northern Kissi,I,https://en.wikipedia.org/wiki/Kissi_language
+r6,Q2,1420,Algerian Arabic,ara,Arabic,M,
+r6,Q2,1420,Algerian Arabic,arq,Algerian Arabic,I,
+r6,Q2,1460,Egyptian Arabic,ara,Arabic,M,
+r6,Q2,1460,Egyptian Arabic,arz,Egyptian Arabic,I,
+r6,Q2,1501,Alhassania,mey,Hassaniyya,I,https://www.ethnologue.com/country/ma/languages
+r6,Q2,1540,Sudanese Arabic,apd,Sudanese Arabic,I,
+r6,Q2,1540,Sudanese Arabic,ara,Arabic,M,
+r6,Q2,1541,Nubian Language,fia,Nobiin,I,Nobiin. This is the most widely spoken Nubian language. kzh (Dongoloese) is used to match with WALS Nuban (Dongolese)
+r6,Q2,1541,Nubian Language,kzh,,,Nobiin. This is the most widely spoken Nubian language. kzh (Dongoloese) is used to match with WALS Nuban (Dongolese)
+r6,Q2,1620,siSwati,ssw,Swati,I,
+r6,Q2,1621,Shangaan,tso,Tsonga,I,Tsonga (Shangaan or Changana is a dialect)
+r6,Q2,1660,Creolo,aoa,Angolar,I,https://en.wikipedia.org/wiki/Angolar_Creole
+r6,Q2,1661,Forro,cri,Sãotomense,I,
+r6,Q2,1662,Angolar,aoa,Angolar,I,
+r6,Q2,1700,Fang,fan,Fang (Equatorial Guinea),I,https://www.ethnologue.com/country/ga/languages
+r6,Q2,1701,Punu/Mériè,kog,Cogui,I,https://www.ethnologue.com/country/ga/languages
+r6,Q2,1702,Kota,kog,Cogui,I,https://www.ethnologue.com/country/ga/languages
+r6,Q2,1703,Mbédè,mbt,Matigsalug Manobo,I,Alternate name is Mbede. https://www.ethnologue.com/country/ga/languages
+r6,Q2,1704,Nzébi/Métié,nzb,Njebi,I,Alternate name is Nzebi. https://www.ethnologue.com/country/ga/languages
+r6,Q2,1705,Myénè,mye,Myene,I,https://www.ethnologue.com/country/ga/languages
+r6,Q2,1706,Tsogho,tsv,Tsogo,I,https://www.ethnologue.com/country/ga/languages
+r6,Q2,1707,Kélè,keb,Kélé,I,https://www.ethnologue.com/country/ga/languages
+r6,Q2,2220,Yamba,yam,Yamba,I,
+r6,Q2,2221,Yabassi,dua,Duala,I,Yabassi only mentioned in Duala entry: https://www.ethnologue.com/country/CM/languages
+r6,Q2,2222,Bene,bum,Bulu (Cameroon),I,
+r6,Q2,2740,Kisafwa,sbk,Safwa,I,
+r6,Q2,2741,Kisambaa,ksb,Shambala,I,
+r6,Q2,2742,Kishirazi,ikz,Ikizu,I,Kishashi is a dialect of Ikizu: https://www.ethnologue.com/country/tz/languages
+r6,Q2,2743,Kisubi,suj,Shubi,I,
+r6,Q2,2744,Kisumbwa,suw,Sumbwa,I,
+r6,Q2,2745,Kiyao,yao,Yao,I,
+r6,Q2,2746,Kizanaki,zak,Zanaki,I,
+r6,Q2,2747,Kizaramo,zaj,Zaramo,I,
+r6,Q2,2748,Kizigua,ziw,Zigula,I,
+r6,Q2,9995,Other,und,,,"Custom ISO code for “other”
+"
+r6,Q2,9998,,und,,,"Custom ISO code for “refused to answer”
+"
+r6,Q2,9999,Don't know,und,,,"Custom ISO code for ""don't know""
 "

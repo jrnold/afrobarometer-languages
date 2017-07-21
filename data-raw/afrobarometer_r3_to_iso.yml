@@ -731,12 +731,15 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - nya
   lang_id: 267
   lang_name: Manga'nja
   question:
   - q103
   - q3
+  note: |
+    Alt name of Chichewa. https://www.ethnologue.com/country/MW/languages
 - iso_639_3:
   - seh
   lang_id: 268
@@ -773,12 +776,14 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - ffm
   lang_id: 281
   lang_name: Peugl/Fulfulde
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - ffm
   lang_id: 281
   lang_name: Peuhl/Fulfulde
   question:
@@ -802,19 +807,23 @@
   lang_name: Mossi
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - snk
   lang_id: 285
   lang_name: Sonink
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - mwk
+  - mlq
   lang_id: 286
   lang_name: Malink
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - kao
   lang_id: 287
   lang_name: Khasonk
   question:
@@ -884,13 +893,19 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - dux
   lang_id: 294
   lang_name: Samoko
   question:
   - q103
   - q3
-- iso_639_3: null
+  note: |
+    Alt name for Duungooma. https://www.ethnologue.com/country/ML/languages
+- iso_639_3:
+  - hmb
+  - khq
+  - ses
   lang_id: 295
   lang_name: Sonrha
   question:
@@ -981,19 +996,26 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - yao
   lang_id: 309
   lang_name: Ajua
   question:
   - q103
   - q3
-- iso_639_3: null
+  note: |
+    Ajawa is alt name for Yao. https://www.ethnologue.com/country/MZ/languages
+- iso_639_3:
+  - wmw
   lang_id: 310
   lang_name: Quimuane
   question:
   - q103
   - q3
-- iso_639_3: null
+  note: |
+    Quimuane is alt name for Mwani. https://www.ethnologue.com/country/MZ/languages
+- iso_639_3:
+  - wmw
   lang_id: 311
   lang_name: Muaui
   question:
@@ -1054,7 +1076,8 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - her
   lang_id: 327
   lang_name: Okjiherero
   question:
@@ -1275,7 +1298,8 @@
   lang_name: Ikwere
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - ukw
   lang_id: 359
   lang_name: Ukwani
   question:
@@ -1287,7 +1311,8 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - fuf
   lang_id: 361
   lang_name: Pular
   question:
@@ -1303,13 +1328,15 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - mnk
   lang_id: 363
   lang_name: Mandinka
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - snk
   lang_id: 364
   lang_name: Sonike
   question:
@@ -1329,7 +1356,8 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - bam
   lang_id: 367
   lang_name: Bamabara
   question:
@@ -1471,16 +1499,20 @@
   lang_name: Kinyaturu
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - kdj
   lang_id: 405
   lang_name: Akaramojonj
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - alz
   lang_id: 406
   lang_name: Akur
   question:
   - q3
+  note: |
+    Should be "Alur"
 - iso_639_3:
   - alz
   lang_id: 406
@@ -1500,11 +1532,14 @@
   lang_name: Japadhola
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - alz
   lang_id: 409
   lang_name: Jonam
   question:
   - q3
+  note: |
+    Dialect of Alur. https://www.ethnologue.com/country/UG/languages
 - iso_639_3:
   - keo
   lang_id: 410
@@ -1517,7 +1552,8 @@
   lang_name: Kumam
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - kpz
   lang_id: 412
   lang_name: Kuksabin
   question:
@@ -1557,11 +1593,14 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - myx
   lang_id: 418
   lang_name: Lugishu/Lumasaba
   question:
   - q3
+  note: |
+    Alt names for Masaaba. https://www.ethnologue.com/country/UG/languages
 - iso_639_3:
   - myx
   lang_id: 418
@@ -1645,12 +1684,16 @@
   lang_name: Bisa
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - ilb
   lang_id: 432
   lang_name: lla
   question:
   - q3
-- iso_639_3: null
+  note: |
+    Typo. This should be "Ila".
+- iso_639_3:
+  - nya
   lang_id: 433
   lang_name: Nkaya
   question:
@@ -1729,34 +1772,44 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - nuj
   lang_id: 500
   lang_name: Lunyoli
   question:
   - q3
-- iso_639_3: null
+  note: |
+    Alt name for Nyole. https://www.ethnologue.com/country/UG/languages
+- iso_639_3:
+  - kin
   lang_id: 501
   lang_name: Rufumbia
   question:
   - q103
+  note: |
+    Alt name for Fumbira. https://www.ethnologue.com/country/UG/languages
 - iso_639_3:
   - kin
   lang_id: 501
   lang_name: Rufumbira
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - nyn
   lang_id: 502
   lang_name: Ruhororo
   question:
   - q3
+  note: |
+    Hororo is a dialect of Nyankore. https://www.ethnologue.com/country/UG/languages
 - iso_639_3:
   - cgg
   lang_id: 503
   lang_name: Rukiga
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - koo
   lang_id: 504
   lang_name: Rukonzo
   question:
@@ -1773,41 +1826,55 @@
   lang_name: Runyoro
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - nyo
+  - ttj
   lang_id: 506
   lang_name: Runyoro - Rutooro
   question:
   - q103
+  note: |
+    Both Tooro and Nyoro, which are very similar. https://www.ethnologue.com/country/UG/languages
 - iso_639_3:
   - nyo
   lang_id: 507
   lang_name: Rutagwenda
   question:
   - q3
+  note: |
+    Dialect of Nyoro. https://www.ethnologue.com/country/UG/languages
 - iso_639_3:
   - ttj
-  lang_id: 508
+  lang_id:
+  - ttj
   lang_name: Rutooro
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - rwm
   lang_id: 509
   lang_name: Rwamba
   question:
   - q3
+  note: |
+    Alt name for Amba. https://www.ethnologue.com/country/UG/languages
+
 - iso_639_3:
   - nyn
   lang_id: 510
   lang_name: Runyankole
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - nyn
+  - cgg
   lang_id: 510
   lang_name: Runyankole - Rukiga
   question:
   - q103
-- iso_639_3: null
+- iso_639_3:
+  - lsm
   lang_id: 511
   lang_name: Samia
   question:
@@ -1818,48 +1885,60 @@
   lang_name: Anang
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - cla
   lang_id: 551
   lang_name: Ron
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - ank
   lang_id: 552
   lang_name: Geomai
   question:
   - q3
-- iso_639_3: null
+  note: "Goemai"
+- iso_639_3:
+  - kad
   lang_id: 553
   lang_name: Kadara
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - pym
   lang_id: 554
   lang_name: Pyam
   question:
   - q3
-- iso_639_3: null
+  note: "Fyam"
+- iso_639_3:
+  - bcs
   lang_id: 555
   lang_name: Bahumono
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - bky
   lang_id: 556
   lang_name: Boki
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - yaz
   lang_id: 557
   lang_name: Yakurr
   question:
   - q3
+  note: |
+    A dialect of Lokaa. https://www.ethnologue.com/country/NG/languages
 - iso_639_3:
   - ish
   lang_id: 558
   lang_name: Esan
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - bij
   lang_id: 559
   lang_name: Bijim
   question:
@@ -1870,12 +1949,16 @@
   lang_name: Ekpeye
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - ldb
   lang_id: 561
   lang_name: Jaba
   question:
   - q3
-- iso_639_3: null
+  note: |
+    Alt name for Duya
+- iso_639_3:
+  - bom
   lang_id: 562
   lang_name: Birom
   question:
@@ -1886,28 +1969,40 @@
   lang_name: Igede
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - pym
   lang_id: 564
   lang_name: Pyem
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - yer
   lang_id: 565
   lang_name: Taroh
   question:
   - q3
-- iso_639_3: null
+  note: Tarok
+- iso_639_3:
+  - mgi
+  - uji
+  - ahs
+  - bqv
   lang_id: 566
   lang_name: Korro
   question:
   - q3
+  note: |
+    Koro dialects https://en.wikipedia.org/wiki/South_Plateau_languages or
+    https://en.wikipedia.org/wiki/Koro_Wachi_language
 - iso_639_3:
   - ogo
   lang_id: 567
   lang_name: Ogoni
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - mfn
+  - nza
   lang_id: 568
   lang_name: Mbembe
   question:
@@ -1918,27 +2013,32 @@
   lang_name: Sayawa
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - its
   lang_id: 580
   lang_name: Itsekiri
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - lts
   lang_id: 803
   lang_name: Tanchoni
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - bxk
   lang_id: 804
   lang_name: Bukusu
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - nyd
   lang_id: 805
   lang_name: Nyore
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - lrm
   lang_id: 806
   lang_name: Marama
   question:
@@ -1949,58 +2049,73 @@
   lang_name: Sabaot
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - lwg
   lang_id: 808
   lang_name: Wanga
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - lkb
   lang_id: 809
   lang_name: Kabarasi
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - nle
   lang_id: 810
   lang_name: Nyala
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - lto
   lang_id: 811
   lang_name: Vatsotso
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - eyo
   lang_id: 812
   lang_name: Keiyo
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - sgc
   lang_id: 813
   lang_name: Kipsigis
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - tuy
   lang_id: 814
   lang_name: Tugen
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - gax
   lang_id: 815
   lang_name: Boran
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - und
   lang_id: 816
   lang_name: Ethopian/Kenyan
   question:
   - q3
-- iso_639_3: null
+  note: |
+    Unclear which language(s) this is referring to
+- iso_639_3:
+  - und
   lang_id: 817
   lang_name: Indian
   question:
   - q3
-- iso_639_3: null
+  note: |
+    Probably mostly Hindi?
+- iso_639_3:
+  - bji
   lang_id: 818
   lang_name: Burji
   question:
@@ -2011,11 +2126,14 @@
   lang_name: Kuria
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - gex
   lang_id: 820
   lang_name: Gare
   question:
   - q3
+  note: |
+    Garre language
 - iso_639_3:
   - sby
   lang_id: 860
@@ -2035,16 +2153,20 @@
   lang_name: Chokwe
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - lch
   lang_id: 863
   lang_name: Luchazi
   question:
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - mho
   lang_id: 864
   lang_name: Kwamashi
   question:
   - q3
+  note: |
+    Mashi
 - iso_639_3:
   - toi
   lang_id: 865

@@ -24,7 +24,7 @@ INPUTS <- list(
                    "iso-639-3_Code_Tables_20160525",
                    "iso-639-3_20160525.tab"),
   afrobarometer_countries = list("data-raw", "afrobarometer_countries.csv"),
-  afrobarometer_to_wals = list("data-raw", "afrobarometer_to_wals.yml"),
+  afrobarometer_to_wals = list("data-raw", "afrobarometer_r6_to_wals.yml"),
   afrobarometer_to_iso = list("data", "afrobarometer_to_iso_639_3.csv"),
   wals = list("external", "wals", "language.csv"),
   wals_update = list("data-raw", "wals-updates.csv"),
@@ -55,11 +55,14 @@ metadata <-
 read_afrobarometer_langs <- function() {
   read_csv(INPUTS$afrobarometer_langs, na = "",
            col_types = cols_only(
-             lang_id = col_integer(),
+             round = col_character(),
              question = col_character(),
+             lang_id = col_integer(),
              lang_name = col_character(),
-             is_language = col_logical()
-           ))
+             countries = col_character()
+           )) %>%
+    filter(round == "r6") %>%
+    select(-round)
 }
 afrobarometer_langs <- read_afrobarometer_langs()
 
@@ -208,8 +211,9 @@ afrobarometer_to_wals %<>%
             by = "wals_code") %>%
   left_join(select(afrobarometer_langs, question, lang_id, lang_name),
             by = c("question", "lang_id")) %>%
-  select(question, lang_id, lang_name, wals_code, wals_name, everything()) %>%
-  arrange(question, lang_id)
+  mutate(round = "r6") %>%
+  select(round, question, lang_id, lang_name, wals_code, wals_name, everything()) %>%
+  arrange(round, question, lang_id)
 
 #' Check that everything matches or is accounted for
 nonmatches <- anti_join(afrobarometer_langs, afrobarometer_to_wals,
@@ -221,4 +225,3 @@ write_afrobarometer_to_wals <- function(x, path) {
   write_csv(x, path = path, na = "")
 }
 write_afrobarometer_to_wals(afrobarometer_to_wals, OUTPUT)
-

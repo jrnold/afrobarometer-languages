@@ -26,7 +26,7 @@ INPUTS <- list(
                             "iso-639-3",
                             "iso-639-3_Code_Tables_20170217",
                             "iso-639-3-macrolanguages_20170131.tab"),
-  afrobarometer_to_iso = list("data-raw", "afrobarometer_to_iso.yml")
+  afrobarometer_to_iso = list("data-raw", "afrobarometer_r6_to_iso.yml")
   ) %>%
   {setNames(map(., function(x) invoke(find_rstudio_root_file, x)),
             names(.))}
@@ -35,13 +35,14 @@ INPUTS <- list(
 read_afrobarometer_langs <- function() {
   read_csv(INPUTS$afrobarometer_langs,
            col_types = cols(
-             lang_id = col_integer(),
+             round = col_character(),
              question = col_character(),
+             lang_id = col_integer(),
              lang_name = col_character(),
-             countries = col_character(),
-             languages = col_character(),
-             is_language = col_logical()
-           ))
+             countries = col_character()
+           )) %>%
+    filter(round == "r6") %>%
+    select(-round)
 }
 afrobarometer_langs <- read_afrobarometer_langs()
 
@@ -159,9 +160,10 @@ afrobarometer_to_iso %<>%
 afrobarometer_to_iso %<>%
   left_join(select(afrobarometer_langs, question, lang_id, lang_name),
             by = c("question", "lang_id")) %>%
-  select(question, lang_id, lang_name, iso_639_3, iso_ref_name,
-         iso_scope, note) %>%
-  arrange(question, lang_id, iso_639_3)
+  mutate(round = "r6") %>%
+  arrange(round, question, lang_id, iso_639_3) %>%
+  select(round, question, lang_id, lang_name,
+         iso_639_3, iso_ref_name, iso_scope, note)
 
 # Check that there are no languages that are unaccounted for
 nonmatches <-

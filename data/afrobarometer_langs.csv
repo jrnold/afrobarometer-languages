@@ -1,536 +1,2494 @@
-question,lang_id,lang_name,countries,languages,is_language
-Q103,-1,Missing,CAM CDI GHA LIB MLW SRL ZAM ZIM,Missing,FALSE
-Q103,1,English,BOT CAM CVE GHA KEN LES LIB MAU MLW NAM NIG SAF SRL SWZ UGA ZAM ZIM,English,TRUE
-Q103,2,French,BDI BEN BFO CAM CDI GAB GUI MAU MLI NGR SEN TOG TUN,French,TRUE
-Q103,3,Portuguese,MOZ STP,Portuguese,TRUE
-Q103,4,Swahili,KEN TAN,Swahili,TRUE
-Q103,5,Arabic,ALG EGY MOR SUD TUN,Arabic,TRUE
-Q103,7,Afrikaans,NAM SAF,Afrikaans,TRUE
-Q103,15,Dioula,BFO CDI,Dioula,TRUE
-Q103,16,Ewe,GHA TOG,Ewe,TRUE
-Q103,18,Fulfuldé,BFO NGR,Fulfuldé,TRUE
-Q103,20,Hausa,GHA NIG,Hausa,TRUE
-Q103,32,Tamasheq,MLI NGR,Tamasheq,TRUE
-Q103,35,Yoruba,BEN NIG,Yoruba,TRUE
-Q103,100,Fon,BEN,Fon,TRUE
-Q103,101,Adja,BEN,Adja,TRUE
-Q103,102,Bariba,BEN,Bariba,TRUE
-Q103,104,Outamari,BEN,Outamari,TRUE
-Q103,105,Peulh,BEN,Peulh,TRUE
-Q103,106,Lopka,BEN,Lopka,TRUE
-Q103,140,Setswana,BOT,Setswana,TRUE
-Q103,180,Mooré,BFO,Mooré,TRUE
-Q103,183,Gulmacema,BFO,Gulmacema,TRUE
-Q103,184,Gourounsi,BFO,Gourounsi,TRUE
-Q103,220,Crioulo,CVE,Crioulo,TRUE
-Q103,221,Português,CVE,Português,TRUE
-Q103,260,Akan,GHA,Akan,TRUE
-Q103,262,Ga/Dangbe,GHA,Ga;Dangbe,TRUE
-Q103,263,Dagbani,GHA,Dagbani,TRUE
-Q103,265,Waala,GHA,Waala,TRUE
-Q103,273,Dagaree,GHA,Dagaree,TRUE
-Q103,300,Kikuyu,KEN,Kikuyu,TRUE
-Q103,301,Luo,KEN,Luo,TRUE
-Q103,302,Luhya,KEN,Luhya,TRUE
-Q103,303,Kamba,KEN,Kamba,TRUE
-Q103,304,Kalenjin,KEN,Kalenjin,TRUE
-Q103,305,Kisii,KEN,Kisii,TRUE
-Q103,306,Meru/Samburu,KEN,Meru;Samburu,TRUE
-Q103,307,Maasai / Samburu,KEN,Maasai;Samburu,TRUE
-Q103,310,Somali,KEN,Somali,TRUE
-Q103,340,Sesotho,LES,Sesotho,TRUE
-Q103,380,Liberian English,LIB,Liberian English,TRUE
-Q103,420,Malgache « officiel »,MAD,Malgache « officiel »,TRUE
-Q103,421,Malgache avec spécificité régionale,MAD,Malgache avec spécificité régionale,TRUE
-Q103,460,Chitumbuka,MLW,Chitumbuka,TRUE
-Q103,463,Chichewa,MLW,Chichewa,TRUE
-Q103,501,Bambara,MLI,Bambara,TRUE
-Q103,514,Peulh/Fulfude,MLI,Peulh;Fulfude,TRUE
-Q103,517,Soninké,MLI,Soninké,TRUE
-Q103,518,Sonrhai,MLI,Sonrhai,TRUE
-Q103,540,Makua,MOZ,Makua,TRUE
-Q103,541,Sena,MOZ,Sena,TRUE
-Q103,542,Ndau,MOZ,Ndau,TRUE
-Q103,543,Changana,MOZ,Changana,TRUE
-Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),NAM,Oshiwambo;Oshindonga;Oshikwanyama,TRUE
-Q103,582,Otjiherero,NAM,Otjiherero,TRUE
-Q103,583,Rukwangali,NAM,Rukwangali,TRUE
-Q103,621,Igbo,NIG,Igbo,TRUE
-Q103,623,Pidgin English,NIG,Pidgin English,TRUE
-Q103,660,Wolof,SEN,Wolof,TRUE
-Q103,661,Pulaar/Toucouleur,SEN,Pulaar;Toucouleur,TRUE
-Q103,665,Diola,SEN,Diola,TRUE
-Q103,702,Xhosa,SAF,Xhosa,TRUE
-Q103,703,Pedi/Spedi/North Sotho,SAF,Pedi;Spedi;North Sotho,TRUE
-Q103,704,Sesotho/Sotho/South Sotho,SAF,Sesotho;Sotho;South Sotho,TRUE
-Q103,705,Setswana/Tswana,SAF,Setswana;Tswana,TRUE
-Q103,708,Venda,SAF,Venda,TRUE
-Q103,709,Zulu,SAF,Zulu,TRUE
-Q103,780,Luganda,UGA,Luganda,TRUE
-Q103,781,Runyankore-Rukiga,UGA,Runyankore-Rukiga,TRUE
-Q103,782,Runyoro-Rutooro,UGA,Runyoro-Rutooro,TRUE
-Q103,783,Lusoga,UGA,Lusoga,TRUE
-Q103,784,Lumasaaba,UGA,Lumasaaba,TRUE
-Q103,787,Ateso,UGA,Ateso,TRUE
-Q103,788,Acholi-Langi,UGA,Acholi-Langi,TRUE
-Q103,789,Alur,UGA,Alur,TRUE
-Q103,790,Lugbara,UGA,Lugbara,TRUE
-Q103,792,Japadhola,UGA,Japadhola,TRUE
-Q103,798,Kupsabinyi,UGA,Kupsabinyi,TRUE
-Q103,799,Ngakarimajong,UGA,Ngakarimajong,TRUE
-Q103,820,Chewa/Nyanja,ZAM,Chewa;Nyanja,TRUE
-Q103,821,Bembia,ZAM,Bembia,TRUE
-Q103,822,Tonga,ZAM,Tonga,TRUE
-Q103,823,Kaonde,ZAM,Kaonde,TRUE
-Q103,824,Lozi,ZAM,Lozi,TRUE
-Q103,860,Ndebele,ZIM,Ndebele,TRUE
-Q103,861,Shona,ZIM,Shona,TRUE
-Q103,900,Creole,MAU,Creole,TRUE
-Q103,930,Krio,SRL,Krio,TRUE
-Q103,931,Mende,SRL,Mende,TRUE
-Q103,932,Temne,SRL,Temne,TRUE
-Q103,1100,Haoussa,NGR,Haoussa,TRUE
-Q103,1101,Zarma/Songhaï,NGR,Zarma;Songhaï,TRUE
-Q103,1142,Kabye,TOG,Kabye,TRUE
-Q103,1143,Tem (Kotokoli),TOG,Tem;Kotokoli,TRUE
-Q103,1144,Ben (Moba),TOG,Ben;Moba,TRUE
-Q103,1145,Nawdem (Losso),TOG,Nawdem;Losso,TRUE
-Q103,1180,Kirundi,BDI,Kirundi,TRUE
-Q103,1220,Foufouldé,CAM,Foufouldé,TRUE
-Q103,1221,Pidgin,CAM,Pidgin,TRUE
-Q103,1222,Ewondo,CAM,Ewondo,TRUE
-Q103,1300,Soussou,GUI,Soussou,TRUE
-Q103,1302,Poular,GUI,Poular,TRUE
-Q103,1305,Maninka,GUI,Maninka,TRUE
-Q103,1307,Kpèlè,GUI,Kpèlè,TRUE
-Q103,1312,Kissié,GUI,Kissié,TRUE
-Q103,1620,siSwati,SWZ,siSwati,TRUE
-Q103,1660,Creolo,STP,Creolo,TRUE
-Q103,9995,Other,CAM GHA GUI MLW MOR MOZ SAF SEN SRL STP SWZ UGA ZAM,Other,FALSE
-Q2,-1,Missing,LIB,Missing,FALSE
-Q2,1,English,BFO BOT CAM KEN LES LIB MAD MAU MLW NAM SAF SRL SUD SWZ UGA ZAM ZIM,English,TRUE
-Q2,2,French,ALG BEN BFO CAM CDI GAB GUI MAD MAU MLI NAM SEN TOG TUN,French,TRUE
-Q2,3,Portuguese,MOZ NAM SAF STP,Portuguese,TRUE
-Q2,4,Swahili,BDI KEN TAN UGA,Swahili,TRUE
-Q2,5,Arabic,MOR TUN,Arabic,TRUE
-Q2,6,Adja,BEN TOG,Adja,TRUE
-Q2,7,Afrikaans,BOT NAM SAF,Afrikaans,TRUE
-Q2,8,Arabe,MLI NGR,Arabe,TRUE
-Q2,9,Bambara,CDI MLI,Bambara,TRUE
-Q2,10,Bassa,CAM LIB,Bassa,TRUE
-Q2,11,Berber Language,ALG MOR,Berber Language,TRUE
-Q2,12,Bissa,BFO GHA,Bissa,TRUE
-Q2,13,Bobo,BFO MLI,Bobo,TRUE
-Q2,14,Chewa,MOZ ZAM,Chewa,TRUE
-Q2,15,Dioula,BFO CDI,Dioula,TRUE
-Q2,16,Ewe,GHA TOG,Ewe,TRUE
-Q2,17,Fon,BEN TOG,Fon,TRUE
-Q2,18,Fulfuldé,BFO NGR,Fulfuldé,TRUE
-Q2,19,Haoussa,CAM NGR TOG,Haoussa,TRUE
-Q2,20,Hausa,GHA NIG,Hausa,TRUE
-Q2,21,Kanuri,NGR NIG,Kanuri,TRUE
-Q2,22,Kissi,LIB SRL,Kissi,TRUE
-Q2,23,Lobi,BFO CDI,Lobi,TRUE
-Q2,24,Mano,GUI LIB,Mano,TRUE
-Q2,25,Mende,LIB SRL,Mende,TRUE
-Q2,26,Ndau,MOZ ZIM,Ndau,TRUE
-Q2,27,Ndebele,SAF ZIM,Ndebele,TRUE
-Q2,28,Nyanja,MOZ ZAM,Nyanja,TRUE
-Q2,29,Peulh,BEN TOG,Peulh,TRUE
-Q2,30,Sénoufo,BFO CDI,Sénoufo,TRUE
-Q2,31,Setswana,BOT NAM,Setswana,TRUE
-Q2,32,Tamasheq,MLI NGR,Tamasheq,TRUE
-Q2,33,Tonga,ZAM ZIM,Tonga,TRUE
-Q2,34,Venda,SAF ZIM,Venda,TRUE
-Q2,35,Yoruba,BEN NIG,Yoruba,TRUE
-Q2,102,Bariba,BEN,Bariba,TRUE
-Q2,103,Dendi,BEN,Dendi,TRUE
-Q2,105,Otamari,BEN,Otamari,TRUE
-Q2,107,Lopka,BEN,Lopka,TRUE
-Q2,141,Sesarwa,BOT,Sesarwa,TRUE
-Q2,142,Sekgalagadi,BOT,Sekgalagadi,TRUE
-Q2,143,Sesubia,BOT,Sesubia,TRUE
-Q2,144,Ikalanga/Sekalaka,BOT,Ikalanga;Sekalaka,TRUE
-Q2,145,Seherero,BOT,Seherero,TRUE
-Q2,146,Sembukushu,BOT,Sembukushu,TRUE
-Q2,147,Sebirwa,BOT,Sebirwa,TRUE
-Q2,148,Sengologa,BOT,Sengologa,TRUE
-Q2,149,Seyei,BOT,Seyei,TRUE
-Q2,180,Mooré,BFO,Mooré,TRUE
-Q2,183,Gulmacema,BFO,Gulmacema,TRUE
-Q2,184,Gourounsi,BFO,Gourounsi,TRUE
-Q2,186,Birifor,BFO,Birifor,TRUE
-Q2,187,Bwamu,BFO,Bwamu,TRUE
-Q2,188,Dagari,BFO,Dagari,TRUE
-Q2,189,Fulse,BFO,Fulse,TRUE
-Q2,190,Goin,BFO,Goin,TRUE
-Q2,191,Karaboro,BFO,Karaboro,TRUE
-Q2,192,Kassena,BFO,Kassena,TRUE
-Q2,194,Marka,BFO,Marka,TRUE
-Q2,195,Samo,BFO,Samo,TRUE
-Q2,197,Sonrai,BFO,Sonrai,TRUE
-Q2,220,Crioulo,CVE,Crioulo,TRUE
-Q2,221,Português,CVE,Português,TRUE
-Q2,260,Akan,GHA,Akan,TRUE
-Q2,262,Ga/Dangbe,GHA,Ga;Dangbe,TRUE
-Q2,263,Dagbani,GHA,Dagbani,TRUE
-Q2,265,Waala,GHA,Waala,TRUE
-Q2,266,Moshie,GHA,Moshie,TRUE
-Q2,267,Mampruli,GHA,Mampruli,TRUE
-Q2,268,Likpakpaln,GHA,Likpakpaln,TRUE
-Q2,269,Kusal,GHA,Kusal,TRUE
-Q2,270,Konkomba,GHA,Konkomba,TRUE
-Q2,271,Gonja,GHA,Gonja,TRUE
-Q2,272,Frafra,GHA,Frafra,TRUE
-Q2,273,Dagaari,GHA,Dagaari,TRUE
-Q2,275,Kotokoli,GHA,Kotokoli,TRUE
-Q2,276,Gruma,GHA,Gruma,TRUE
-Q2,277,Buli,GHA,Buli,TRUE
-Q2,278,Basari,GHA,Basari,TRUE
-Q2,300,Kikuyu,KEN,Kikuyu,TRUE
-Q2,301,Luo,KEN,Luo,TRUE
-Q2,302,Luhya,KEN,Luhya,TRUE
-Q2,303,Kamba,KEN,Kamba,TRUE
-Q2,304,Kalenjin,KEN,Kalenjin,TRUE
-Q2,305,Kisii,KEN,Kisii,TRUE
-Q2,306,Meru/Embu,KEN,Meru;Embu,TRUE
-Q2,307,Maasai/Samburu,KEN,Maasai;Samburu,TRUE
-Q2,308,Mijikenda,KEN,Mijikenda,TRUE
-Q2,309,Taita,KEN,Taita,TRUE
-Q2,310,Somali,KEN,Somali,TRUE
-Q2,311,Pokot,KEN,Pokot,TRUE
-Q2,312,Turkana,KEN,Turkana,TRUE
-Q2,313,Kuria,KEN,Kuria,TRUE
-Q2,314,Garre,KEN,Garre,TRUE
-Q2,315,Borana,KEN,Borana,TRUE
-Q2,340,Sesotho,LES,Sesotho,TRUE
-Q2,341,Sephuthi,LES,Sephuthi,TRUE
-Q2,342,Sethepu,LES,Sethepu,TRUE
-Q2,381,Belle,LIB,Belle,TRUE
-Q2,382,Dei,LIB,Dei,TRUE
-Q2,383,Gbandi,LIB,Gbandi,TRUE
-Q2,384,Gio,LIB,Gio,TRUE
-Q2,385,Gola,LIB,Gola,TRUE
-Q2,386,Grebo,LIB,Grebo,TRUE
-Q2,388,Kpelle,LIB,Kpelle,TRUE
-Q2,389,Krahn,LIB,Krahn,TRUE
-Q2,390,Kru,LIB,Kru,TRUE
-Q2,391,Lorma,LIB,Lorma,TRUE
-Q2,392,Mandingo,LIB,Mandingo,TRUE
-Q2,395,Vai,LIB,Vai,TRUE
-Q2,396,Liberian English,LIB,Liberian English,TRUE
-Q2,420,Malgache « officiel »,MAD,Malgache « officiel »,TRUE
-Q2,421,Malgache avec spécificité régionale,MAD,Malgache avec spécificité régionale,TRUE
-Q2,460,Chitumbuka,MLW,Chitumbuka,TRUE
-Q2,461,Chinkhonde,MLW,Chinkhonde,TRUE
-Q2,462,Chilambya,MLW,Chilambya,TRUE
-Q2,463,Chichewa,MLW,Chichewa,TRUE
-Q2,464,Chiyao,MLW,Chiyao,TRUE
-Q2,465,Chingoni,MLW,Chingoni,TRUE
-Q2,466,Chilomwe,MLW,Chilomwe,TRUE
-Q2,467,Chimang'anja,MLW,Chimang'anja,TRUE
-Q2,468,Chisena,MLW,Chisena,TRUE
-Q2,469,Chisukwa,MLW,Chisukwa,TRUE
-Q2,470,Chisenga,MLW,Chisenga,TRUE
-Q2,471,Chitonga,MLW,Chitonga,TRUE
-Q2,502,Bella,MLI,Bella,TRUE
-Q2,504,Bozo,MLI,Bozo,TRUE
-Q2,505,Dafing,MLI,Dafing,TRUE
-Q2,506,Dogon,MLI,Dogon,TRUE
-Q2,509,Kakolo,MLI,Kakolo,TRUE
-Q2,510,Khassonké,MLI,Khassonké,TRUE
-Q2,511,Malinké,MLI,Malinké,TRUE
-Q2,512,Maure,MLI,Maure,TRUE
-Q2,513,Mianka,MLI,Mianka,TRUE
-Q2,514,Peulh/Fulfude,MLI,Peulh;Fulfude,TRUE
-Q2,515,Samogo,MLI,Samogo,TRUE
-Q2,516,Senufo,MLI,Senufo,TRUE
-Q2,517,Soninké/Sarakolé,MLI,Soninké;Sarakolé,TRUE
-Q2,518,Sonrhai,MLI,Sonrhai,TRUE
-Q2,540,Makua,MOZ,Makua,TRUE
-Q2,541,Sena,MOZ,Sena,TRUE
-Q2,543,Changana,MOZ,Changana,TRUE
-Q2,545,Chope,MOZ,Chope,TRUE
-Q2,546,Bitonga,MOZ,Bitonga,TRUE
-Q2,547,Makonde,MOZ,Makonde,TRUE
-Q2,548,Chuabo,MOZ,Chuabo,TRUE
-Q2,549,Ajaua,MOZ,Ajaua,TRUE
-Q2,550,Lomue,MOZ,Lomue,TRUE
-Q2,552,Nyungwe,MOZ,Nyungwe,TRUE
-Q2,553,Xitswa,MOZ,Xitswa,TRUE
-Q2,581,German,NAM,German,TRUE
-Q2,582,Nama/Damara,NAM,Nama;Damara,TRUE
-Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),NAM,Oshiwambo;Oshindonga;Oshikwanyama,TRUE
-Q2,584,Otjiherero,NAM,Otjiherero,TRUE
-Q2,585,Rukwangali,NAM,Rukwangali,TRUE
-Q2,586,Rugririku/Rumanyo,NAM,Rugririku;Rumanyo,TRUE
-Q2,587,Thimbukushu,NAM,Thimbukushu,TRUE
-Q2,588,Silozi,NAM,Silozi,TRUE
-Q2,590,Masubia,NAM,Masubia,TRUE
-Q2,591,San,NAM,San,TRUE
-Q2,621,Igbo,NIG,Igbo,TRUE
-Q2,623,Pidgin English,NIG,Pidgin English,TRUE
-Q2,624,Efik,NIG,Efik,TRUE
-Q2,625,Ebira,NIG,Ebira,TRUE
-Q2,626,Fulani,NIG,Fulani,TRUE
-Q2,627,Isoko,NIG,Isoko,TRUE
-Q2,628,Ibibio,NIG,Ibibio,TRUE
-Q2,631,Nupe,NIG,Nupe,TRUE
-Q2,632,Ijaw,NIG,Ijaw,TRUE
-Q2,633,Edo,NIG,Edo,TRUE
-Q2,634,Igala,NIG,Igala,TRUE
-Q2,635,Urhobo,NIG,Urhobo,TRUE
-Q2,636,Ogoni,NIG,Ogoni,TRUE
-Q2,637,Anang,NIG,Anang,TRUE
-Q2,638,Ikwere,NIG,Ikwere,TRUE
-Q2,639,Idoma,NIG,Idoma,TRUE
-Q2,640,Esan,NIG,Esan,TRUE
-Q2,641,Nembe,NIG,Nembe,TRUE
-Q2,642,Alago,NIG,Alago,TRUE
-Q2,643,Degema,NIG,Degema,TRUE
-Q2,644,Eggon,NIG,Eggon,TRUE
-Q2,645,Jukun,NIG,Jukun,TRUE
-Q2,646,Kagoma,NIG,Kagoma,TRUE
-Q2,647,Laru,NIG,Laru,TRUE
-Q2,648,Kalabari,NIG,Kalabari,TRUE
-Q2,649,Nwangavul,NIG,Nwangavul,TRUE
-Q2,650,Tangale,NIG,Tangale,TRUE
-Q2,651,Tarok,NIG,Tarok,TRUE
-Q2,652,Waja,NIG,Waja,TRUE
-Q2,653,Yala,NIG,Yala,TRUE
-Q2,660,Wolof,SEN,Wolof,TRUE
-Q2,661,Pulaar/Toucouleur,SEN,Pulaar;Toucouleur,TRUE
-Q2,662,Serer,SEN,Serer,TRUE
-Q2,663,Mandinka/Bambara,SEN,Mandinka;Bambara,TRUE
-Q2,664,Soninke,SEN,Soninke,TRUE
-Q2,665,Diola,SEN,Diola,TRUE
-Q2,666,Manjack,SEN,Manjack,TRUE
-Q2,668,Bassari,SEN,Bassari,TRUE
-Q2,702,Xhosa,SAF,Xhosa,TRUE
-Q2,703,Pedi/North Sotho,SAF,Pedi;North Sotho,TRUE
-Q2,704,Sotho/South Sotho,SAF,Sotho;South Sotho,TRUE
-Q2,705,Tswana,SAF,Tswana,TRUE
-Q2,706,Shangaan/Tsonga,SAF,Shangaan;Tsonga,TRUE
-Q2,707,Swazi,SAF,Swazi,TRUE
-Q2,709,Zulu,SAF,Zulu,TRUE
-Q2,710,Asian/Indian,SAF,Asian;Indian,TRUE
-Q2,740,Kinyakyusa,TAN,Kinyakyusa,TRUE
-Q2,741,Kichaga,TAN,Kichaga,TRUE
-Q2,742,Kihaya,TAN,Kihaya,TRUE
-Q2,743,Kingoni,TAN,Kingoni,TRUE
-Q2,744,Kikwere,TAN,Kikwere,TRUE
-Q2,745,Kipare,TAN,Kipare,TRUE
-Q2,746,Kihehe,TAN,Kihehe,TRUE
-Q2,747,Kimakonde,TAN,Kimakonde,TRUE
-Q2,748,Kinyamwezi,TAN,Kinyamwezi,TRUE
-Q2,749,Kisukuma,TAN,Kisukuma,TRUE
-Q2,750,Kimasai,TAN,Kimasai,TRUE
-Q2,751,Kimeru,TAN,Kimeru,TRUE
-Q2,752,Kikurya,TAN,Kikurya,TRUE
-Q2,753,Kigogo,TAN,Kigogo,TRUE
-Q2,754,Kiluguru,TAN,Kiluguru,TRUE
-Q2,755,Kifipa,TAN,Kifipa,TRUE
-Q2,756,Kimanyema,TAN,Kimanyema,TRUE
-Q2,757,Kinyiramba,TAN,Kinyiramba,TRUE
-Q2,758,Kinyaturu,TAN,Kinyaturu,TRUE
-Q2,759,Kiarusha,TAN,Kiarusha,TRUE
-Q2,760,Kibena,TAN,Kibena,TRUE
-Q2,761,Kiha,TAN,Kiha,TRUE
-Q2,762,Kiiraq,TAN,Kiiraq,TRUE
-Q2,763,Kijaluo,TAN,Kijaluo,TRUE
-Q2,764,Kijita,TAN,Kijita,TRUE
-Q2,765,Kikaguru,TAN,Kikaguru,TRUE
-Q2,766,Kimakuwa,TAN,Kimakuwa,TRUE
-Q2,767,Kimatengo,TAN,Kimatengo,TRUE
-Q2,768,Kimbulu,TAN,Kimbulu,TRUE
-Q2,769,Kimwera,TAN,Kimwera,TRUE
-Q2,770,Kindali,TAN,Kindali,TRUE
-Q2,771,Kindamba,TAN,Kindamba,TRUE
-Q2,772,Kindendeule,TAN,Kindendeule,TRUE
-Q2,773,Kindengereko,TAN,Kindengereko,TRUE
-Q2,774,Kingindo,TAN,Kingindo,TRUE
-Q2,775,Kinguu,TAN,Kinguu,TRUE
-Q2,776,Kinyambo,TAN,Kinyambo,TRUE
-Q2,777,Kinyiha,TAN,Kinyiha,TRUE
-Q2,778,Kipogoro,TAN,Kipogoro,TRUE
-Q2,779,Kirangi,TAN,Kirangi,TRUE
-Q2,780,Luganda,UGA,Luganda,TRUE
-Q2,781,Runyankole,UGA,Runyankole,TRUE
-Q2,782,Runyoro,UGA,Runyoro,TRUE
-Q2,783,Lusoga,UGA,Lusoga,TRUE
-Q2,784,Lumasaaba,UGA,Lumasaaba,TRUE
-Q2,785,Lukhonjo,UGA,Lukhonjo,TRUE
-Q2,786,Lunyole,UGA,Lunyole,TRUE
-Q2,787,Ateso,UGA,Ateso,TRUE
-Q2,788,Acholi,UGA,Acholi,TRUE
-Q2,789,Alur,UGA,Alur,TRUE
-Q2,790,Lugbara,UGA,Lugbara,TRUE
-Q2,791,Madi,UGA,Madi,TRUE
-Q2,792,Japadhola,UGA,Japadhola,TRUE
-Q2,793,Lusamia,UGA,Lusamia,TRUE
-Q2,794,Lugwere,UGA,Lugwere,TRUE
-Q2,795,Rukiga,UGA,Rukiga,TRUE
-Q2,796,Rutooro,UGA,Rutooro,TRUE
-Q2,797,Langi,UGA,Langi,TRUE
-Q2,798,Kupsabinyi,UGA,Kupsabinyi,TRUE
-Q2,799,Ngakarimajong,UGA,Ngakarimajong,TRUE
-Q2,800,Rufumbira,UGA,Rufumbira,TRUE
-Q2,820,Bemba,ZAM,Bemba,TRUE
-Q2,823,Lozi,ZAM,Lozi,TRUE
-Q2,825,Nsenga,ZAM,Nsenga,TRUE
-Q2,826,Tumbuka,ZAM,Tumbuka,TRUE
-Q2,827,Kaonde,ZAM,Kaonde,TRUE
-Q2,828,Luvale,ZAM,Luvale,TRUE
-Q2,829,Namwanga,ZAM,Namwanga,TRUE
-Q2,830,Lunda,ZAM,Lunda,TRUE
-Q2,831,Bisa,ZAM,Bisa,TRUE
-Q2,832,Nkoya,ZAM,Nkoya,TRUE
-Q2,833,Mambwe,ZAM,Mambwe,TRUE
-Q2,834,Lenje,ZAM,Lenje,TRUE
-Q2,835,Ngoni,ZAM,Ngoni,TRUE
-Q2,836,Soli,ZAM,Soli,TRUE
-Q2,837,Ila,ZAM,Ila,TRUE
-Q2,838,Ushi,ZAM,Ushi,TRUE
-Q2,839,Chokwe,ZAM,Chokwe,TRUE
-Q2,840,Mbunda,ZAM,Mbunda,TRUE
-Q2,841,Kunda,ZAM,Kunda,TRUE
-Q2,842,Lala,ZAM,Lala,TRUE
-Q2,843,Lamba,ZAM,Lamba,TRUE
-Q2,844,Lungu,ZAM,Lungu,TRUE
-Q2,845,Nyika,ZAM,Nyika,TRUE
-Q2,846,Senga,ZAM,Senga,TRUE
-Q2,847,Tokaleya,ZAM,Tokaleya,TRUE
-Q2,851,Tabwa,ZAM,Tabwa,TRUE
-Q2,861,Shona,ZIM,Shona,TRUE
-Q2,862,Zezuru,ZIM,Zezuru,TRUE
-Q2,863,Korekore,ZIM,Korekore,TRUE
-Q2,864,Karanga,ZIM,Karanga,TRUE
-Q2,865,Manyika,ZIM,Manyika,TRUE
-Q2,868,Kalanga,ZIM,Kalanga,TRUE
-Q2,870,Buja,ZIM,Buja,TRUE
-Q2,871,Shangani,ZIM,Shangani,TRUE
-Q2,872,Suthu,ZIM,Suthu,TRUE
-Q2,900,Creole,MAU,Creole,TRUE
-Q2,930,Krio,SRL,Krio,TRUE
-Q2,932,Temne,SRL,Temne,TRUE
-Q2,933,Limba,SRL,Limba,TRUE
-Q2,934,Loko,SRL,Loko,TRUE
-Q2,935,Sherbo,SRL,Sherbo,TRUE
-Q2,936,Fulla,SRL,Fulla,TRUE
-Q2,937,Kono,SRL,Kono,TRUE
-Q2,938,Kuranko,SRL,Kuranko,TRUE
-Q2,939,Madingo,SRL,Madingo,TRUE
-Q2,941,Susu,SRL,Susu,TRUE
-Q2,943,Yalunka,SRL,Yalunka,TRUE
-Q2,1101,Zarma/Songhaï,NGR,Zarma;Songhaï,TRUE
-Q2,1105,Goumantchéma,NGR,Goumantchéma,TRUE
-Q2,1141,Mina (Guen),TOG,Mina;Guen,TRUE
-Q2,1142,Kabye,TOG,Kabye,TRUE
-Q2,1143,Tem (Kotokoli),TOG,Tem;Kotokoli,TRUE
-Q2,1144,Ben (Moba),TOG,Ben;Moba,TRUE
-Q2,1145,Nawdem (Losso),TOG,Nawdem;Losso,TRUE
-Q2,1146,Lama (Lamba),TOG,Lama;Lamba,TRUE
-Q2,1147,Ife (Ana),TOG,Ife;Ana,TRUE
-Q2,1148,Ikposso (Akposso),TOG,Ikposso;Akposso,TRUE
-Q2,1149,N'tcha (Bassar),TOG,N'tcha;Bassar,TRUE
-Q2,1151,Akebou,TOG,Akebou,TRUE
-Q2,1152,Gourma,TOG,Gourma,TRUE
-Q2,1153,Konkomba,TOG,Konkomba,TRUE
-Q2,1154,Ngam-gam,TOG,Ngam-gam,TRUE
-Q2,1155,Tchamba,TOG,Tchamba,TRUE
-Q2,1157,Ouatchi,TOG,Ouatchi,TRUE
-Q2,1160,Tchpkossi (Anoufom),TOG,Tchpkossi;Anoufom,TRUE
-Q2,1180,Kirundi,BDI,Kirundi,TRUE
-Q2,1220,Foufouldé,CAM,Foufouldé,TRUE
-Q2,1221,Pidgin,CAM,Pidgin,TRUE
-Q2,1222,Ewondo,CAM,Ewondo,TRUE
-Q2,1223,Bafang,CAM,Bafang,TRUE
-Q2,1224,Douala,CAM,Douala,TRUE
-Q2,1225,Bafia,CAM,Bafia,TRUE
-Q2,1226,Bafut,CAM,Bafut,TRUE
-Q2,1227,Bangangté,CAM,Bangangté,TRUE
-Q2,1228,Bakundu,CAM,Bakundu,TRUE
-Q2,1229,Bamileke,CAM,Bamileke,TRUE
-Q2,1230,Bamoun,CAM,Bamoun,TRUE
-Q2,1231,Bandjoun,CAM,Bandjoun,TRUE
-Q2,1232,Bangwa,CAM,Bangwa,TRUE
-Q2,1233,Banso,CAM,Banso,TRUE
-Q2,1235,Batanga,CAM,Batanga,TRUE
-Q2,1236,Bayangi,CAM,Bayangi,TRUE
-Q2,1237,Bulu,CAM,Bulu,TRUE
-Q2,1238,Dschang,CAM,Dschang,TRUE
-Q2,1239,Eton,CAM,Eton,TRUE
-Q2,1240,Fali,CAM,Fali,TRUE
-Q2,1241,Fong,CAM,Fong,TRUE
-Q2,1242,Gbaya,CAM,Gbaya,TRUE
-Q2,1243,Guider,CAM,Guider,TRUE
-Q2,1244,Guiziga,CAM,Guiziga,TRUE
-Q2,1246,Kapsiki,CAM,Kapsiki,TRUE
-Q2,1247,Mafa,CAM,Mafa,TRUE
-Q2,1248,Maka,CAM,Maka,TRUE
-Q2,1249,Mankon,CAM,Mankon,TRUE
-Q2,1250,Massa,CAM,Massa,TRUE
-Q2,1251,Mbouda,CAM,Mbouda,TRUE
-Q2,1252,Mboum,CAM,Mboum,TRUE
-Q2,1254,Moudan,CAM,Moudan,TRUE
-Q2,1255,Ngueba,CAM,Ngueba,TRUE
-Q2,1257,Lamnso,CAM,Lamnso,TRUE
-Q2,1258,Tikari,CAM,Tikari,TRUE
-Q2,1259,Toupouri,CAM,Toupouri,TRUE
-Q2,1260,Abbey,CDI,Abbey,TRUE
-Q2,1261,Abron,CDI,Abron,TRUE
-Q2,1262,Adjoukrou,CDI,Adjoukrou,TRUE
-Q2,1263,Agny,CDI,Agny,TRUE
-Q2,1264,Attié,CDI,Attié,TRUE
-Q2,1265,Avikam,CDI,Avikam,TRUE
-Q2,1267,Baoulé,CDI,Baoulé,TRUE
-Q2,1268,Bété,CDI,Bété,TRUE
-Q2,1269,Dida,CDI,Dida,TRUE
-Q2,1270,Godié,CDI,Godié,TRUE
-Q2,1271,Gouro,CDI,Gouro,TRUE
-Q2,1272,Guéré,CDI,Guéré,TRUE
-Q2,1273,Koulango,CDI,Koulango,TRUE
-Q2,1274,Kroumen,CDI,Kroumen,TRUE
-Q2,1278,Yacouba,CDI,Yacouba,TRUE
-Q2,1279,Djimini,CDI,Djimini,TRUE
-Q2,1280,Gnanboua,CDI,Gnanboua,TRUE
-Q2,1281,Koyaka,CDI,Koyaka,TRUE
-Q2,1282,Wobe,CDI,Wobe,TRUE
-Q2,1300,Soussou,GUI,Soussou,TRUE
-Q2,1301,Poular,GUI,Poular,TRUE
-Q2,1302,Maninka,GUI,Maninka,TRUE
-Q2,1303,Kpèlè,GUI,Kpèlè,TRUE
-Q2,1304,Loma,GUI,Loma,TRUE
-Q2,1305,Kissié,GUI,Kissié,TRUE
-Q2,1420,Algerian Arabic,ALG,Algerian Arabic,TRUE
-Q2,1460,Egyptian Arabic,EGY,Egyptian Arabic,TRUE
-Q2,1501,Alhassania,MOR,Alhassania,TRUE
-Q2,1540,Sudanese Arabic,SUD,Sudanese Arabic,TRUE
-Q2,1541,Nubian Language,SUD,Nubian Language,TRUE
-Q2,1620,siSwati,SWZ,siSwati,TRUE
-Q2,1621,Shangaan,SWZ,Shangaan,TRUE
-Q2,1660,Creolo,STP,Creolo,TRUE
-Q2,1661,Forro,STP,Forro,TRUE
-Q2,1662,Angolar,STP,Angolar,TRUE
-Q2,1700,Fang,GAB,Fang,TRUE
-Q2,1701,Punu/Mériè,GAB,Punu;Mériè,TRUE
-Q2,1702,Kota,GAB,Kota,TRUE
-Q2,1703,Mbédè,GAB,Mbédè,TRUE
-Q2,1704,Nzébi/Métié,GAB,Nzébi;Métié,TRUE
-Q2,1705,Myénè,GAB,Myénè,TRUE
-Q2,1706,Tsogho,GAB,Tsogho,TRUE
-Q2,1707,Kélè,GAB,Kélè,TRUE
-Q2,2220,Yamba,CAM,Yamba,TRUE
-Q2,2221,Yabassi,CAM,Yabassi,TRUE
-Q2,2222,Bene,CAM,Bene,TRUE
-Q2,2740,Kisafwa,TAN,Kisafwa,TRUE
-Q2,2741,Kisambaa,TAN,Kisambaa,TRUE
-Q2,2742,Kishirazi,TAN,Kishirazi,TRUE
-Q2,2743,Kisubi,TAN,Kisubi,TRUE
-Q2,2744,Kisumbwa,TAN,Kisumbwa,TRUE
-Q2,2745,Kiyao,TAN,Kiyao,TRUE
-Q2,2746,Kizanaki,TAN,Kizanaki,TRUE
-Q2,2747,Kizaramo,TAN,Kizaramo,TRUE
-Q2,2748,Kizigua,TAN,Kizigua,TRUE
-Q2,9995,Other,BEN BFO BOT CAM CDI GAB GHA GUI KEN MAU MLI MLW MOZ NAM NGR NIG SAF SEN SUD SWZ TAN TOG UGA ZAM ZIM,Other,FALSE
-Q2,9999,Don't know,CAM LIB MLW MOZ STP SUD TAN ZAM,Don't know,FALSE
+round,question,lang_id,lang_name,countries
+r1,language,1,Afrikaans,  N  NA  12  13  15  16  18  19  20  23  24  25  26  27  28  29  30  32  60  61  63  64  65  66  75  76  78  79  81  91  95 102 103 104 105 106 107 108 109 110 111 112 120 BOT    
+r1,language,2,Chewa,238 442 443 444 467 527 535 539 552 650 774 MAL BOT
+r1,language,3,Chinyungwe, 99 MAL
+r1,language,4,Chisena,MAL 51 428
+r1,language,5,Damara,646       N  18  21  22  23  24  25  26  27  28  30  31  32  33  34  35  61  62  63  64  65  93  94 102 106 107 108 109 110 111 112 BOT 694
+r1,language,6,English,LES 78Z 80Z 122 154 218 325 387 589 591 651 687 807 918 942 949 960 107 108 114   N  12  20  24  61  66  67  69  71  74  78  80  81  82  84  85  90  91  93 100 101 102 103 109 111 113 117 118 MAL BOT 35 185 567 615 993 950 933 954 153 161 182 622 632 633 643 645 659 97 660 134 277 301 408 446 447 51 52 539 769 802 811 894 908 920    
+r1,language,7,German, 22  23  29  30  31  62 109 112 BOT
+r1,language,8,Nama,841 842       N  11  12  13  14  15  16  21  22  23  24  26  27  30  31  34  62  63  65 120
+r1,language,9,Ndebele,LES  LE 21Z 22Z 23Z 24Z 34Z 46Z 48Z 49Z 50Z 51Z 52Z 53Z 178 289 290 338 340 342 348 349 359 361 404 418 435 478 532 554 592 593 594 596 600 601 602 603 604 605 606 607 608 609 611 612 613 615 616 618 619 620 621 623 625 626 627 628 629 630 631 633 634 636 637 638 668 669 670 671 672 673 685 686 688 690 691 693 694 697 698 699 700 701 702 703 704 705 707 708 712 713 714 715 716 718 721 722 723 724 725 726 729 753 755 838 839 840 843 902 926 932 937 943 944 951 952 954 959 985 994 997 107 108 109 110 111 112 113 114 115 116 118 101 BOT 344    
+r1,language,10,Oshiwambo,      N  NA  11  12  15  16  17  18  19  20  21  22  23  24  25  27  28  30  32  36  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  57  66  67  68  69  70  71  72  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87  88  89  90  91  92  93  94  95  96  97  98  99 100 101 102 103 104 105 106 107 108 109 110 111 112
+r1,language,11,Otjiherero,      N  11  15  17  18  19  20  21  26  28  30  32  33  34  61  62  63  64  65  66  94  99 104 105 106 107 108 109 111 112 BOT
+r1,language,12,Portueguese, 21
+r1,language,13,Rukwangali,  N  24  51  52  53  54  55  57  58  59  60  61 106 107
+r1,language,14,"Sesotho,Sotho, S.Sotho",LES  LE BOT    
+r1,language,15,Setswana/Tswana, 20  61  66 116 BOT    
+r1,language,16,Silozi, 19  29 103 108 110 112 113 114 115 116 117 118 119 120 BOT 15 27 50 71 543 548 568 569 995 101 102 104 156 623 624 646 648 649 650 651 657 664 667 681 683 688 276 349 388 409 420 427 436 443 452 453 455 457 458 459 460 461 462 464 466 468 469 470 471 472 473 474 476 478 479 480 481 482 485 486 487 488 489 490 491 492 494 495 496 497 499 500 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 520 521 522 523 524 525 526 527 529 530 531 532 533 534 535 537 538 540 822 83
+r1,language,17,Shangaan/Tsonga/Ronga/Tswa,101 104 134 135 136 138 283 306 350 112    
+r1,language,18,Shona,1ZI 2ZI 3ZI 4ZI 5ZI 6ZI 7ZI 8ZI 9ZI 10Z 11Z 12Z 13Z 14Z 15Z 16Z 17Z 18Z 19Z 20Z 25Z 26Z 27Z 28Z 31Z 33Z 35Z 36Z 37Z 38Z 39Z 40Z 41Z 42Z 43Z 44Z 45Z 47Z 54Z 55Z 56Z 57Z 58Z 59Z 60Z 61Z 62Z 63Z 64Z 65Z 66Z 67Z 68Z 69Z 70Z 71Z 72Z 74Z 75Z 76Z 77Z 79Z 81Z 82Z 83Z 84Z 85Z 86Z 88Z 89Z 90Z 91Z 92Z 93Z 94Z 95Z 96Z 97Z 98Z 99Z 100 102 103 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 123 125 126 127 128 129 130 131 132 133 137 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 155 156 157 158 159 160 161 162 163 165 166 167 168 169 170 172 173 174 175 176 177 179 180 181 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 210 211 212 213 214 215 216 217 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 285 286 287 288 291 292 293 295 296 297 298 299 300 301 303 304 305 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 326 327 328 330 331 332 333 334 335 336 339 341 343 344 345 346 347 351 352 353 354 355 356 357 358 360 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 405 406 407 408 409 410 411 412 413 414 415 416 417 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 436 437 438 439 440 441 445 446 447 448 449 450 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 469 470 471 472 473 474 475 476 477 479  48 481 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 528 529 530 531 533 534 536 537 538 540 541 542 543 544 545 546 547 549 550 551 553 555 556 557 558 559 560 561 562 563 564 565 566 567 568 569 570 571 572 574 575 576 577 578 579 580 581 582 583 584 585 586 587 588 595 597 598 599 610 614 617 624 632 635 640 641 642 643 644 645 647 648 649 653 654 655 656 657 658 659 660 662 663 664 665 666 667 677 678 679 680 681 682 683 684 689 692 695 696 706 709 711 717 719 720 727 728 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 754 756 757 758 759 760 761 762 763 764 765 766 767 768 769 770 771 772 775 776 777 778 780 781 782 783 784 785 786 787 788 789 790 791 792 793 794 795 796 797 798 799 800 801 802 803 804 805 806 808 809 810 811 812 813 814 815 816 817 818 819 820 821 822 823 824 825 826 827 828 829 830 831 832 833 834 835 836 837 844 845 846 847 848 849 850 851 852 853 854 855 856 857 858 859 860 861 862 863 864 865 866 867 868 869 870 871 872 873 874 875 876 877 878 879 880 881 882 883 884 885 886 887 888 889 890 891 892 893 894 895 896 897 898 899 900 901 903 904 905 906 907 908 909 910 911 913 914 915 916 917 919 920 921 922 923 924 925 927 928 929 930 931 933 934 935 936 938 939 940 941 945 946 947 948 950 955 956 957 958 961 962 963 964 968 969 970 971 972 973 975 976 977 978 980 981 982 983 984 986 987 988 989 990 991 992 993 995 996 998 999 101 104  29 BOT 9 60 675
+r1,language,20,Swazi,573 661 102    
+r1,language,21,Venda,171 329 337 451  20    
+r1,language,22,Xhosa,LES 32Z    
+r1,language,23,Zulu,BOT    
+r1,language,24,Sepedi/N.Sotho, 29  52  53  54  55  56  57  58  60  63  64 113 114 115 116 117 119    
+r1,language,26,Bemba,ZAM 14 17 20 21 23 24 26 28 31 36 37 38 39 40 41 42 43 44 45 46 47 48 53 56 58 62 63 65 76 79 82 83 84 85 88 92 95 97 98 99 101 102 103 104 105 106 108 115 116 118 188 190 192 218 225 244 261 262 541 544 559 580 980 981 991 992 100 971 972 973 946 970 978 756 956 752 751 750 749 748 747 968 932 953 952 949 947 931 961 959 957 925 928 755 754 846 847 844 845 833 835 839 842 853 849 852 848 830 837 885 886 884 707 706 709 698 699 700 875 876 877 878 880 831 832 865 870 871 872 840 841 850 856 857 858 859 866 829 888 889 148 149 843 158 159 163 164 165 168 176 173 183 184 639 642 658 661 671 672 673 680 682 690 692 693 695 8 9 10 11 15 16 19 25 27 32 33 34 35 0 107 111 113 122 123 124 125 126 127 130 131 132 133 135 136 137 138 139 140 141 142 143 144 145 146 147 150 151 152 153 154 274 282 304 327 340 342 371 385 387 397 398 399 407 412 414 415 416 418 419 431 433 437 438 440 441 442 449 450 483 50 501 54 547 55 57 60 64 70 701 710 711 713 715 716 717 719 725 727 728 729 740 743 744 745 746 761 764 767 768 770 773 774 775 778 779 783 788 789 790 791 792 793 794 796 798 800 801 803 805 808 814 815 820 821 86 87 89 891 893 895 896 90 900 901 902 903 904 906 909 91 910 911 921 922 923 924 117 119 120
+r1,language,27,Kaonde,73 979 985 989 990 998 999 100 103 104 965 976 951 948 421 445 448 702 726 766 781 804 905 917 918 919
+r1,language,29,Luvale,563 982 986 988 996 997 102 104 105 977 963 964 955 937 936 962 927 941 940 938 166 180 625 635 396 403 417 454 456 467 519 528 536 772 797 823 916
+r1,language,30,Nyanja,MAL ZAM 6 10 11 13 16 49 69 70 74 78 80 90 107 109 114 186 189 193 195 196 197 198 199 200 201 202 203 205 206 211 213 214 215 216 217 222 223 224 227 231 232 234 237 238 239 240 241 248 249 250 251 252 253 254 256 257 260 267 270 271 554 561 562 565 566 598 607 101 102 967 944 960 827 879 834 861  150 151 152 154 155 157 160 162 167 169 170 171 172 175 621 626 634 640 641 654 656 663 669 670 2 3 4 5 12 24 1 275 280 283 287 288 289 290 291 292 293 295 298 303 305 306 307 308 309 310 311 313 315 316 317 319 321 322 323 324 325 326 328 329 330 331 332 333 335 336 343 346 347 348 350 351 352 353 354 358 359 360 361 363 364 366 367 368 369 370 372 373 374 375 376 377 378 379 380 382 383 384 390 391 394 395 400 401 402 404 405 406 410 413 422 423 424 425 429 432 439 444 484 493 714 75 76 762 77 776 782 785 786 79 809 81 82 897 119
+r1,language,31,Tonga,MAL ZAM 8 12 19 25 52 57 59 64 66 67 68 75 81 96 110 112 117 120 121 207 266 273 542 545 546 549 550 553 555 556 560 564 570 571 572 573 574 575 576 577 578 579 581 582 583 584 585 586 587 588 589 590 591 592 593 594 595 596 597 599 600 603 604 605 606 608 610 611 612 613 614 616 617 618 619 620 994 100 102 552 945 757 627 628 629 630 631 636 637 638 644 647 652 653 655 662 665 666 668 674 676 677 678 679 684 685 686 687 691 339 392 411 426 430 451 765 784 806 807 810 813 818 119
+r1,language,32,Ngoni,MAL
+r1,language,33,Lomwe,MAL
+r1,language,34,Tumbuka,MAL
+r1,language,35,Yao,MAL
+r1,language,37,Nkhonde,MAL
+r1,language,38,Lambya,MAL
+r1,language,41,Akan,GHA
+r1,language,42,Dangaare,GHA
+r1,language,43,Dagbane,GHA
+r1,language,44,Ewe,GHA
+r1,language,45,Ga,GHA
+r1,language,46,Hausa,GHA
+r1,language,47,Frafra,GHA
+r1,language,48,Nzema,GHA
+r1,language,50,Dangbe,GHA
+r1,language,51,Wassa,GHA
+r1,language,52,Ahanta,GHA
+r1,language,53,Guan,GHA
+r1,language,54,Kasem,GHA
+r1,language,55,Kusasi,GHA
+r1,language,56,Moar,GHA
+r1,language,57,Bimoba,GHA
+r1,language,58,Konkomba,GHA
+r1,language,59,Chekosi,GHA
+r1,language,60,Chumburu,GHA
+r1,language,61,Noingo,GHA
+r1,language,62,Krobo,GHA
+r1,language,63,Ada,GHA
+r1,language,64,Waale,GHA
+r1,language,65,Nabi,GHA
+r1,language,66,Mamprulni,GHA
+r1,language,67,Zabagle,GHA
+r1,language,68,Gonja,GHA
+r1,language,69,Efutu,GHA
+r1,language,70,Senya,GHA
+r1,language,71,Grusi,GHA
+r1,language,72,Wangara,GHA
+r1,language,73,Dagomba,GHA
+r1,language,74,Buam/Lelemi,GHA
+r1,language,75,Nsahas,GHA
+r1,language,76,Brong,GHA
+r1,language,77,Basari,GHA
+r1,language,78,Kanjaga,GHA
+r1,language,80,Sefwi/Sehwi,GHA
+r1,language,81,Nchunmuru,GHA
+r1,language,82,Nafaana,GHA
+r1,language,83,Nkona,GHA
+r1,language,84,Bambara,MAL
+r1,language,85,Fulfulde/Peul,MAL
+r1,language,86,Senufo,MAL
+r1,language,87,Soninke,MAL
+r1,language,88,Malinke,MAL
+r1,language,89,Sonrhai,MAL
+r1,language,90,Dogon,MAL
+r1,language,91,Tamasheq,MAL
+r1,language,92,Bobo,MAL
+r1,language,93,Bozo,MAL
+r1,language,94,Khasonke,MAL
+r1,language,95,Arabe,MAL
+r1,language,96,Maure,MAL
+r1,language,98,Samoko,MAL
+r1,language,99,Bella,MAL
+r1,language,100,Mianka,MAL
+r1,language,101,Dafing,MAL
+r1,language,102,Mossi,MAL
+r1,language,103,Hausa,NIG
+r1,language,104,Yoruba,NIG
+r1,language,105,Ibo,NIG
+r1,language,106,Tiv,NIG
+r1,language,107,Ijaw,NIG
+r1,language,108,Nupe,NIG
+r1,language,109,Kanuri,NIG
+r1,language,110,Ibibio-Efik,NIG
+r1,language,111,Edo,NIG
+r1,language,113,Irobo/Urhobo,NIG
+r1,language,114,Idoma,NIG
+r1,language,115,Calabar,NIG
+r1,language,116,Ogoja,NIG
+r1,language,117,Knale,NIG
+r1,language,118,Igala,NIG
+r1,language,119,Boki,NIG
+r1,language,120,Igbira,NIG
+r1,language,121,Ikpon,NIG
+r1,language,122,Isoko,NIG
+r1,language,123,Ikan,NIG
+r1,language,124,Ishan/Esan,NIG
+r1,language,125,Anam,NIG
+r1,language,126,Annag,NIG
+r1,language,127,Itsekiri,NIG
+r1,language,128,Ika,NIG
+r1,language,129,Ukwale,NIG
+r1,language,130,Epie,NIG
+r1,language,131,Tangoa,NIG
+r1,language,132,Omoku,NIG
+r1,language,133,Ora,NIG
+r1,language,134,Auche,NIG
+r1,language,135,Okirika,NIG
+r1,language,136,Esako,NIG
+r1,language,137,Okpe,NIG
+r1,language,138,Owan,NIG
+r1,language,139,Ikwerre,NIG
+r1,language,140,Ibani,NIG
+r1,language,141,Kalabari,NIG
+r1,language,142,Ogoni,NIG
+r1,language,143,Akassa,NIG
+r1,language,145,Berieberi,NIG
+r1,language,146,Fulani,NIG
+r1,language,147,Kagoro,NIG
+r1,language,148,Bekwarr,NIG
+r1,language,149,Nkwana,NIG
+r1,language,150,Babur,NIG
+r1,language,151,Kiiba,NIG
+r1,language,152,Nungu,NIG
+r1,language,153,Kabba/Koro,NIG
+r1,language,154,Eggon,NIG
+r1,language,155,Kuba,NIG
+r1,language,156,Madara,NIG
+r1,language,157,Bura,NIG
+r1,language,158,Margi,NIG
+r1,language,159,Cabarmawa,NIG
+r1,language,160,Kibaku,NIG
+r1,language,161,Mafa,NIG
+r1,language,162,Beron/Birom,NIG
+r1,language,163,Angas,NIG
+r1,language,164,Iregwe,NIG
+r1,language,165,Afizere,NIG
+r1,language,166,Koro,NIG
+r1,language,167,Normana,NIG
+r1,language,168,Miango,NIG
+r1,language,169,Gyerawa,NIG
+r1,language,170,Eterco,NIG
+r1,language,171,Zar,NIG
+r1,language,172,Lantan,NIG
+r1,language,173,Mwaghauw,NIG
+r1,language,174,Pyem,NIG
+r1,language,175,Chawai,NIG
+r1,language,176,Gbaji,NIG
+r1,language,177,Nanba/Wanba,NIG
+r1,language,178,Jarawa,NIG
+r1,language,179,Katap,NIG
+r1,language,180,Tangale,NIG
+r1,language,181,Waja,NIG
+r1,language,182,Jukun,NIG
+r1,language,183,Bayam,NIG
+r1,language,184,Shuwa Arab,NIG
+r1,language,185,Ndochi,NIG
+r1,language,186,Kare Kare,NIG
+r1,language,187,Gwari,NIG
+r1,language,188,Rukuba,NIG
+r1,language,189,Alur,UGA
+r1,language,190,Ateso,UGA
+r1,language,191,Kakwa,UGA
+r1,language,192,Kinyarwanda,UGA
+r1,language,193,Kiswahili,UGA
+r1,language,194,Luganda,UGA
+r1,language,195,Lugbara,UGA
+r1,language,196,Lumasaba,UGA
+r1,language,197,Luo,UGA
+r1,language,198,Lusoga,UGA
+r1,language,199,Madi,UGA
+r1,language,200,Ruhororo,UGA
+r1,language,201,Rukiga,UGA
+r1,language,202,Runyoro,UGA
+r1,language,203,Rutooro,UGA
+r1,language,204,Ruyankole,UGA
+r1,language,205,Samia-Lugwe,UGA
+r1,language,206,Swahili,ZAN 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143    
+r1,language,207,Chagga,   
+r1,language,208,Kurya,   
+r1,language,209,Nyakyusa,   
+r1,language,210,Pare,   
+r1,language,211,Haya,   
+r1,language,212,Sukuma,   
+r1,language,213,Luguru,   
+r1,language,214,Hehe,   
+r1,language,215,Masai,   
+r1,language,216,Mbulu,   
+r1,language,217,Makonde,   
+r1,language,218,Ngoni,   
+r1,language,219,Fipa,   
+r1,language,220,Nyamwezi,   
+r1,language,221,Jaluo,   
+r1,language,222,Zaramo,   
+r1,language,995,Other,LES 590 622 639 652 674 675 676 710 779 953 965 966 967 105 107 112 113 114 MAL BOT ZAM 29 32 33 34 54 55 61 77 86 87 98 91 93 94 100 111 119 187 191 194 204 208 209 210 212 219 220 221 226 228 229 230 233 235 236 242 243 245 246 247 255 258 259 263 264 265 268 269 272 551 557 558 601 602 609 983 984 987 101 102 103 104 974 975 969 760 759 934 935 930 926 929 753 942 943 939 860 838 851 828 836 705 704 708 697 873 874 881 882 883 863 864 867 868 869 854 855 890 887 177 178 179 174 181 95 96 99 689 696 18 20 22 23 30 108 109 110 115 116 117 118 120 121 128 129 17 278 279 281 284 285 286 294 296 297 299 300 302 312 314 318 320 334 337 338 341 345 355 356 357 362 365 381 386 389 393 434 435 463 465 475 477 498 58 59 62 65 66 68 69 71 712 72 720 721 722 723 724 73 730 731 732 733 735 736 737 738 739 741 742 763 771 777 780 787 795 799 812 816 817 819 824 825 826 892 898 899 907 912 913 914 915     GHA NIG UGA
+r1,language,998,Refused to answer,MAL
+r1,language,999,Missing data, LE 29Z 30Z 73Z 87Z 182 284 468 548 912  19  51  52  53  54  55  56  57  59  60  63  80 102 104 106 114 118 MAL BOT 7 18 22 30 72 758 862 67 718 GHA UGA
+r2,q83,-1,Missing,MWI NAM UGA KEN MOZ SEN ZIM
+r2,q83,1,English,BOT GHA NAM SAF UGA ZAM KEN ZIM
+r2,q83,2,French,BOT MLI NAM
+r2,q83,3,Portuguese,BOT NAM SAF TNZ ZAM cve MOZ ZIM
+r2,q83,4,Kiswahili,BOT TNZ UGA ZAM KEN MOZ
+r2,q83,50,Crioulo,cve CVE
+r2,q83,60,Luganda,UGA
+r2,q83,61,Lusoga,UGA
+r2,q83,62,Ateso,UGA
+r2,q83,63,Rutoro,UGA
+r2,q83,64,Rukiga,UGA
+r2,q83,65,Lumasaba,UGA
+r2,q83,66,Luo,UGA
+r2,q83,67,Lugbara,UGA
+r2,q83,68,Alur,UGA
+r2,q83,69,Madi,UGA
+r2,q83,70,Runyankole,UGA
+r2,q83,71,Runyoro,UGA
+r2,q83,72,Rukonjo,UGA
+r2,q83,73,Samia-Lugwe,UGA
+r2,q83,74,Kinyarwanda,UGA
+r2,q83,75,Rufumbira,UGA
+r2,q83,76,Kakwa,UGA
+r2,q83,77,Other Western languages,UGA
+r2,q83,78,Other Eastern languages,UGA
+r2,q83,79,Other Northern languages,UGA
+r2,q83,81,Emakhuwa,MOZ
+r2,q83,82,Cisena,MOZ
+r2,q83,83,Cindau,MOZ
+r2,q83,84,Cinyanja,MOZ
+r2,q83,85,Xichangana,MOZ
+r2,q83,86,Cicopi,MOZ
+r2,q83,87,Gitonga,MOZ
+r2,q83,88,Shimakonde,MOZ
+r2,q83,89,Echuwabu,MOZ
+r2,q83,90,Ajaua,MOZ
+r2,q83,91,Cinyungwe,MOZ
+r2,q83,92,Citshwa,MOZ
+r2,q83,93,Chitewe,MOZ
+r2,q83,94,Xirhonga,MOZ
+r2,q83,95,Xibarue,MOZ
+r2,q83,96,Cimanyika,MOZ
+r2,q83,97,Chichewa,MOZ
+r2,q83,98,Shona,MOZ
+r2,q83,99,Swazi,MOZ
+r2,q83,100,Afrikaans,SAF
+r2,q83,101,Ndebele,SAF
+r2,q83,102,Xhosa,SAF
+r2,q83,103,Pedi/Spedi/North Sotho,SAF
+r2,q83,104,Sesotho/Sotho/South sotho,SAF
+r2,q83,105,Setswana/Tswana,SAF
+r2,q83,106,Shangaan,SAF
+r2,q83,107,Swazi,SAF
+r2,q83,108,Venda,SAF
+r2,q83,109,Zulu,SAF
+r2,q83,120,Akan,GHA
+r2,q83,121,Dagbani,GHA
+r2,q83,122,Ewe,GHA
+r2,q83,123,Ga,GHA
+r2,q83,124,Hausa,GHA
+r2,q83,140,Tumbuka,MWI
+r2,q83,141,Nkhonde,MWI
+r2,q83,143,Chewa,MWI
+r2,q83,144,Yao,MWI
+r2,q83,145,Ngoni,MWI
+r2,q83,146,Lomwe,MWI
+r2,q83,147,Mang'anja,MWI
+r2,q83,148,Sena,MWI
+r2,q83,149,Chindali,MWI
+r2,q83,150,Senga,MWI
+r2,q83,151,Tonga,MWI
+r2,q83,160,Arabic,MLI
+r2,q83,161,Haoussa,MLI
+r2,q83,162,Wolof,MLI
+r2,q83,163,Trouka,MLI
+r2,q83,164,Bambara,MLI
+r2,q83,165,Peuhl,MLI
+r2,q83,166,Soninke,MLI
+r2,q83,167,Sonrhai,MLI
+r2,q83,168,Malinke,MLI
+r2,q83,169,Khassonke,MLI
+r2,q83,170,Maure,MLI
+r2,q83,171,Senufo,MLI
+r2,q83,172,Mianka,MLI
+r2,q83,173,Samoko,MLI
+r2,q83,174,Bobo,MLI
+r2,q83,175,Bozo,MLI
+r2,q83,176,Dogon,MLI
+r2,q83,177,Tamasheq,MLI
+r2,q83,178,Mossi,MLI
+r2,q83,180,Sesotho,LES
+r2,q83,182,Seputhi,LES
+r2,q83,183,Sephotsa,LES
+r2,q83,201,Kurya,TNZ
+r2,q83,202,Nyakyusa,TNZ
+r2,q83,203,Pare,TNZ
+r2,q83,204,Haya,TNZ
+r2,q83,205,Sukuma,TNZ
+r2,q83,207,Hehe,TNZ
+r2,q83,210,Makonde,TNZ
+r2,q83,211,Ngoni,TNZ
+r2,q83,213,Nyamwezi,TNZ
+r2,q83,215,Zaramo,TNZ
+r2,q83,220,Wolof,SEN
+r2,q83,221,Serer,SEN
+r2,q83,222,Mandinka,SEN
+r2,q83,223,Pulaar,SEN
+r2,q83,224,Diola,SEN
+r2,q83,225,Soninke,SEN
+r2,q83,240,Setswana,BOT
+r2,q83,241,Sekalanga,BOT
+r2,q83,242,Sesarwa,BOT
+r2,q83,243,Sesobeya,BOT
+r2,q83,244,Sekgalagadi,BOT
+r2,q83,245,Seherero,BOT
+r2,q83,246,Sembukushu,BOT
+r2,q83,247,Seyei,BOT
+r2,q83,260,Hausa,NIG
+r2,q83,261,Yoruba,NIG
+r2,q83,262,Igbo,NIG
+r2,q83,263,Tiv,NIG
+r2,q83,264,Ijaw,NIG
+r2,q83,265,Kanuri,NIG
+r2,q83,266,Nupe,NIG
+r2,q83,267,Ibibio,NIG
+r2,q83,268,Efik,NIG
+r2,q83,269,Edo,NIG
+r2,q83,270,Igala/Idoma,NIG
+r2,q83,271,Urhobo,NIG
+r2,q83,272,Ebira,NIG
+r2,q83,273,Fulani,NIG
+r2,q83,274,Isoko,NIG
+r2,q83,275,kalabari,NIG
+r2,q83,276,Ikewere,NIG
+r2,q83,277,Gwari,NIG
+r2,q83,278,Sidawa,NIG
+r2,q83,279,Pidgin English,NIG
+r2,q83,280,Shona,ZIM
+r2,q83,281,Ndebele,ZIM
+r2,q83,282,Venda,ZIM
+r2,q83,283,Tonga,ZIM
+r2,q83,284,Sena,ZIM
+r2,q83,300,Bemba,ZAM
+r2,q83,301,Chewa,ZAM
+r2,q83,302,kaonde,ZAM
+r2,q83,303,Lozi,ZAM
+r2,q83,304,Lunda,ZAM
+r2,q83,305,Luvale,ZAM
+r2,q83,306,Nyanja,ZAM
+r2,q83,307,Tonga,ZAM
+r2,q83,308,Tumbuka,ZAM
+r2,q83,309,Senga,ZAM
+r2,q83,310,Nyika,ZAM
+r2,q83,311,Lamba,ZAM
+r2,q83,312,Bisa,ZAM
+r2,q83,313,Lala,ZAM
+r2,q83,314,Nsenga,ZAM
+r2,q83,315,Lenje,ZAM
+r2,q83,316,Ngoni,ZAM
+r2,q83,317,Namwanga,ZAM
+r2,q83,318,Lambya,ZAM
+r2,q83,319,Soli,ZAM
+r2,q83,320,Afrikaans,NAM
+r2,q83,321,Ovambo languages,NAM
+r2,q83,323,kavango languages,NAM
+r2,q83,324,Herero languages,NAM
+r2,q83,325,Caprivi languages,NAM
+r2,q83,326,Nama / Damara,NAM
+r2,q83,327,Tswana,NAM
+r2,q83,328,German,NAM
+r2,q83,380,Kalejin,KEN
+r2,q83,381,Kamba,KEN
+r2,q83,382,Kikuyu,KEN
+r2,q83,383,Kisii,KEN
+r2,q83,384,Luhya,KEN
+r2,q83,385,Luo,KEN
+r2,q83,386,Maasai/Samburu,KEN
+r2,q83,387,Mijikenda,KEN
+r2,q83,388,Somali,KEN
+r2,q83,389,Taita,KEN
+r2,q83,390,Turkana,KEN
+r2,q83,391,Meru,KEN
+r2,q83,392,Embu,KEN
+r2,q83,393,Borana,KEN
+r2,q83,394,Kuria,KEN
+r2,q83,395,Teso,KEN
+r2,q83,396,Pokot,KEN
+r2,q83,397,Bajuni,KEN
+r2,q83,399,Gujarati,KEN
+r2,q83,440,Mambwe,ZAM
+r2,q83,441,Chikunda,ZAM
+r2,q83,442,Swaka,ZAM
+r2,q83,443,Luchazi,ZAM
+r2,q83,444,Aushi,ZAM
+r2,q83,445,Chishinga,ZAM
+r2,q83,446,Goba,ZAM
+r2,q83,447,Nkoya,ZAM
+r2,q83,800,Berom,NIG
+r2,q83,801,Chip,NIG
+r2,q83,802,Jarawa,NIG
+r2,q83,805,Gbagyi,NIG
+r2,q83,806,Jaba,NIG
+r2,q83,807,Esan,NIG
+r2,q83,809,Mgas,NIG
+r2,q83,995,Other,BOT GHA NIG SAF TNZ UGA ZAM KEN MOZ SEN
+r2,q97,-1,Missing,MWI NAM KEN MOZ SEN
+r2,q97,1,English,BOT GHA MWI NAM NIG SAF UGA ZAM KEN SEN ZIM
+r2,q97,2,French,MLI KEN SEN
+r2,q97,3,Portuguese,SAF ZAM cve KEN MOZ SEN
+r2,q97,4,Kiswahili,TNZ KEN
+r2,q97,50,Crioulo,cve CVE
+r2,q97,60,Luganda,UGA
+r2,q97,61,Lusoga,UGA
+r2,q97,62,Ateso,UGA
+r2,q97,63,Rutoro,UGA
+r2,q97,64,Rukiga,UGA
+r2,q97,65,Lumasaba,UGA
+r2,q97,66,Luo,UGA
+r2,q97,67,Lugbara,UGA
+r2,q97,68,Alur,UGA
+r2,q97,69,Madi,UGA
+r2,q97,70,Runyankole,UGA
+r2,q97,71,Runyoro,UGA
+r2,q97,72,Rukonjo,UGA
+r2,q97,73,Samia-Lugwe,UGA
+r2,q97,76,Kakwa,UGA
+r2,q97,80,National language,MOZ
+r2,q97,81,Emakhuwa,MOZ
+r2,q97,82,Cisena,MOZ
+r2,q97,83,Cindau,MOZ
+r2,q97,84,Cinyanja,MOZ
+r2,q97,85,Xichangana,MOZ
+r2,q97,86,Cicopi,MOZ
+r2,q97,87,Gitonga,MOZ
+r2,q97,88,Shimakonde,MOZ
+r2,q97,89,Echuwabu,MOZ
+r2,q97,90,Ajaua,MOZ
+r2,q97,91,Cinyungwe,MOZ
+r2,q97,92,Citshwa,MOZ
+r2,q97,93,Chitewe,MOZ
+r2,q97,94,Xirhonga,MOZ
+r2,q97,95,Xibarue,MOZ
+r2,q97,96,Cimanyika,MOZ
+r2,q97,97,Chichewa,MOZ
+r2,q97,98,Shona,MOZ
+r2,q97,100,Afrikaans,SAF
+r2,q97,101,Ndebele,SAF
+r2,q97,102,Xhosa,SAF
+r2,q97,103,Pedi/Spedi/North Sotho,SAF
+r2,q97,104,Sesotho/Sotho/South sotho,SAF
+r2,q97,105,Setswana/Tswana,SAF
+r2,q97,106,Shangaan,SAF
+r2,q97,107,Swazi,SAF
+r2,q97,108,Venda,SAF
+r2,q97,109,Zulu,SAF
+r2,q97,120,Akan,GHA
+r2,q97,121,Dagbani,GHA
+r2,q97,122,Ewe,GHA
+r2,q97,123,Ga,GHA
+r2,q97,124,Hausa,GHA
+r2,q97,140,Tumbuka,MWI
+r2,q97,143,Chewa,MWI
+r2,q97,144,Yao,MWI
+r2,q97,146,Lomwe,MWI
+r2,q97,164,Bambara,MLI
+r2,q97,165,Peuhl,MLI
+r2,q97,166,Soninke,MLI
+r2,q97,167,Sonrhai,MLI
+r2,q97,168,Malinke,MLI
+r2,q97,169,Khassonke,MLI
+r2,q97,171,Senufo,MLI
+r2,q97,172,Mianka,MLI
+r2,q97,176,Dogon,MLI
+r2,q97,177,Tamasheq,MLI
+r2,q97,180,Sesotho,LES
+r2,q97,220,Wolof,SEN
+r2,q97,221,Serer,SEN
+r2,q97,222,Mandinka,SEN
+r2,q97,223,Pulaar,SEN
+r2,q97,224,Diola,SEN
+r2,q97,225,Soninke,SEN
+r2,q97,240,Setswana,BOT
+r2,q97,260,Hausa,NIG
+r2,q97,261,Yoruba,NIG
+r2,q97,262,Igbo,NIG
+r2,q97,263,Tiv,NIG
+r2,q97,264,Ijaw,NIG
+r2,q97,265,Kanuri,NIG
+r2,q97,266,Nupe,NIG
+r2,q97,267,Ibibio,NIG
+r2,q97,268,Efik,NIG
+r2,q97,269,Edo,NIG
+r2,q97,270,Igala/Idoma,NIG
+r2,q97,271,Urhobo,NIG
+r2,q97,272,Ebira,NIG
+r2,q97,273,Fulani,NIG
+r2,q97,277,Gwari,NIG
+r2,q97,279,Pidgin English,NIG
+r2,q97,280,Shona,ZIM
+r2,q97,281,Ndebele,ZIM
+r2,q97,300,Bemba,ZAM
+r2,q97,301,Chewa,ZAM
+r2,q97,302,kaonda,ZAM
+r2,q97,303,Lozi,ZAM
+r2,q97,304,Lunda,ZAM
+r2,q97,305,Luvale,ZAM
+r2,q97,306,Nyanja,ZAM
+r2,q97,307,Tonga,ZAM
+r2,q97,308,Tumbuka,ZAM
+r2,q97,309,Senga,ZAM
+r2,q97,320,Afrikaans,NAM
+r2,q97,321,Oshiwambo,NAM
+r2,q97,380,kalenjin,KEN
+r2,q97,381,Kamba,KEN
+r2,q97,382,Kikuyu,KEN
+r2,q97,383,Kisii,KEN
+r2,q97,384,Luhya,KEN
+r2,q97,385,Luo,KEN
+r2,q97,386,Maasai/Samburu,KEN
+r2,q97,388,Somali,KEN
+r2,q97,389,Taita,KEN
+r2,q97,390,Turkana,KEN
+r2,q97,391,Meru/Kimeru,KEN
+r2,q97,392,Embu,KEN
+r2,q97,393,English and Kikuyu,KEN
+r2,q97,394,English and Kamba,KEN
+r2,q97,395,English and Kiswahili,KEN
+r2,q97,396,Kiswahili and Kamba,KEN
+r2,q97,397,"English, Kiswahili, and Kamba",KEN
+r2,q97,398,"English, Kiswahili and Kikuyu",KEN
+r2,q97,399,"English, Kiswahili and Meru",KEN
+r2,q97,480,Kiswahili and Luhya,KEN
+r2,q97,481,"English, Kiswahili and Kalenjin",KEN
+r2,q97,482,Kiswahili and kalenjin,KEN
+r2,q97,483,English and Luo,KEN
+r2,q97,484,Kiswahili and Kikuyu,KEN
+r2,q97,806,Taba,NIG
+r2,q97,807,Esan,NIG
+r2,q97,995,Other,GHA NIG ZAM KEN MOZ SEN
+r3,q103,-1,Missing,BEN KEN LES MOZ SEN
+r3,q103,1,English,BEN BOT GHA KEN LES MWI NAM NIG SEN SAF UGA ZAM ZIM
+r3,q103,2,French,BEN MLI SEN
+r3,q103,3,Portuguese,CVE MOZ
+r3,q103,4,Kiswahili,KEN MOZ TAN
+r3,q103,100,Afrikaans,SAF
+r3,q103,101,Ndebele,SAF
+r3,q103,102,Xhosa,SAF
+r3,q103,103,Pedi/Spedi/ North Sotho,SAF
+r3,q103,104,Sesotho/Sotho/ South Sotho,SAF
+r3,q103,105,Setswana/ Tswana,SAF
+r3,q103,106,Shangaan,SAF
+r3,q103,107,Swazi,SAF
+r3,q103,108,Venda,SAF
+r3,q103,109,Zulu,SAF
+r3,q103,110,English + Afrikaans,SAF
+r3,q103,111,English + Ndebele,SAF
+r3,q103,112,English + Xhosa,SAF
+r3,q103,113,English + Pedi/N. Sotho,SAF
+r3,q103,114,English + Sesotho/S. Sotho,SAF
+r3,q103,115,English + Setswana,SAF
+r3,q103,117,English + Venda,SAF
+r3,q103,118,English + Zulu,SAF
+r3,q103,120,Fon,BEN
+r3,q103,121,Adja,BEN
+r3,q103,122,Bariba,BEN
+r3,q103,123,Dendi,BEN
+r3,q103,124,Yoruba,BEN
+r3,q103,125,Otamari,BEN
+r3,q103,126,Peulh,BEN
+r3,q103,127,Yoa,BEN
+r3,q103,140,Setswana,BOT
+r3,q103,165,Creole,CVE
+r3,q103,180,AKAN,GHA
+r3,q103,181,EWE,GHA
+r3,q103,182,GA,GHA
+r3,q103,183,DAGBANI,GHA
+r3,q103,184,HUSA,GHA
+r3,q103,185,OTHER,GHA
+r3,q103,200,Kikuyu,KEN
+r3,q103,201,Luo,KEN
+r3,q103,202,Luhya,KEN
+r3,q103,203,Kamba,KEN
+r3,q103,204,Meru/Embu,KEN
+r3,q103,205,Kisii,KEN
+r3,q103,206,Kalenjin,KEN
+r3,q103,210,Somali,KEN
+r3,q103,211,Mijikenda,KEN
+r3,q103,212,Gunya,KEN
+r3,q103,213,Giriama,KEN
+r3,q103,214,Kiswahili/Luhya,KEN
+r3,q103,215,English/Swahili,KEN
+r3,q103,216,Sabaot,KEN
+r3,q103,217,Burji,KEN
+r3,q103,218,Kuria,KEN
+r3,q103,219,Maragoli,KEN
+r3,q103,220,Sesotho,LES
+r3,q103,221,Seputi,LES
+r3,q103,240,malg officiel,MAD
+r3,q103,241,dialect malg,MAD
+r3,q103,260,Tumbuka,MWI
+r3,q103,263,Chewa,MWI
+r3,q103,264,Yao,MWI
+r3,q103,280,Bambara,MLI
+r3,q103,281,Peuhl/Fulfulde,MLI
+r3,q103,283,Mianka,MLI
+r3,q103,285,Sonink,MLI
+r3,q103,286,Malink,MLI
+r3,q103,287,Khasonk,MLI
+r3,q103,288,Dogon,MLI
+r3,q103,289,Bobo,MLI
+r3,q103,292,Maure,MLI
+r3,q103,293,Kakolo,MLI
+r3,q103,294,Samoko,MLI
+r3,q103,295,Sonrha,MLI
+r3,q103,296,Bella,MLI
+r3,q103,297,Tamasheq,MLI
+r3,q103,300,Makua,MOZ
+r3,q103,301,Sena,MOZ
+r3,q103,302,Ndau,MOZ
+r3,q103,303,Nyanja,MOZ
+r3,q103,304,Changana,MOZ
+r3,q103,305,Chope,MOZ
+r3,q103,306,Bitonga,MOZ
+r3,q103,307,Makonde,MOZ
+r3,q103,308,Chuabo,MOZ
+r3,q103,309,Ajua,MOZ
+r3,q103,310,Quimuane,MOZ
+r3,q103,312,Nhungue,MOZ
+r3,q103,320,Nama/Damara,NAM
+r3,q103,321,Afrikaans,NAM
+r3,q103,322,Rukwangali,NAM
+r3,q103,323,Silozi,NAM
+r3,q103,324,Masubia,NAM
+r3,q103,326,Oshiwambo,NAM
+r3,q103,327,Otjiherero,NAM
+r3,q103,328,Setswana,NAM
+r3,q103,331,Mbukushu/Thimbukushu,NAM
+r3,q103,332,English and Oshiwambo,NAM
+r3,q103,333,English and Afrikaans,NAM
+r3,q103,334,Afrikaans and Oshiwambo,NAM
+r3,q103,335,English and local languages,NAM
+r3,q103,336,Afrikaans and local languages,NAM
+r3,q103,337,"English, Afrikaans and local languages",NAM
+r3,q103,338,More than one local language,NAM
+r3,q103,340,Hausa,NIG
+r3,q103,341,Igbo,NIG
+r3,q103,342,Yoruba,NIG
+r3,q103,343,Pidgin English,NIG
+r3,q103,360,Wolof,SEN
+r3,q103,361,Pular,SEN
+r3,q103,362,Serer,SEN
+r3,q103,363,Mandinka,SEN
+r3,q103,364,Sonike,SEN
+r3,q103,365,Diola,SEN
+r3,q103,366,Manjack,SEN
+r3,q103,367,Bamabara,SEN
+r3,q103,406,Alur,UGA
+r3,q103,407,Ateso,UGA
+r3,q103,413,Luo,UGA
+r3,q103,414,Lugbara,UGA
+r3,q103,416,Madi,UGA
+r3,q103,417,Luganda,UGA
+r3,q103,418,Lumasaba,UGA
+r3,q103,419,Lusoga,UGA
+r3,q103,420,Bemba,ZAM
+r3,q103,421,Nyanja,ZAM
+r3,q103,422,Tonga,ZAM
+r3,q103,423,Lozi,ZAM
+r3,q103,440,Ndebele,ZIM
+r3,q103,441,Shona,ZIM
+r3,q103,501,Rufumbia,UGA
+r3,q103,506,Runyoro - Rutooro,UGA
+r3,q103,508,Rutooro,UGA
+r3,q103,510,Runyankole - Rukiga,UGA
+r3,q103,815,Boran,KEN
+r3,q103,995,Other,MAD SAF UGA ZIM
+r3,q3,-1,Missing,KEN LES MOZ SEN
+r3,q3,1,English,BOT KEN MWI MOZ NAM NIG SEN SAF UGA ZAM ZIM
+r3,q3,2,French,MAD SEN UGA
+r3,q3,3,Portuguese,CVE MOZ SAF UGA
+r3,q3,4,Kiswahili,KEN MWI TAN UGA
+r3,q3,100,Afrikaans,SAF
+r3,q3,101,Ndebele,SAF
+r3,q3,102,Xhosa,SAF
+r3,q3,103,Pedi/Spedi/ North Sotho,SAF
+r3,q3,104,Sesotho/Sotho/ South Sotho,SAF
+r3,q3,105,Setswana/ Tswana,SAF
+r3,q3,106,Shangaan,SAF
+r3,q3,107,Swazi,SAF
+r3,q3,108,Venda,SAF
+r3,q3,109,Zulu,SAF
+r3,q3,120,Fon,BEN
+r3,q3,121,Adja,BEN
+r3,q3,122,Bariba,BEN
+r3,q3,123,Dendi,BEN
+r3,q3,124,Yoruba,BEN
+r3,q3,125,Ditamari,BEN
+r3,q3,126,Peulh,BEN
+r3,q3,127,Yom,BEN
+r3,q3,128,Haoussa,BEN
+r3,q3,129,Ide,BEN
+r3,q3,130,Lamba,BEN
+r3,q3,140,Setswana,BOT
+r3,q3,141,Sesarwa,BOT
+r3,q3,142,Sekgaladi,BOT
+r3,q3,143,Sesobea,BOT
+r3,q3,144,Sekalanga,BOT
+r3,q3,145,Seherero,BOT
+r3,q3,146,Sembukushu,BOT
+r3,q3,147,Sebirwa,BOT
+r3,q3,148,Sengologa,BOT
+r3,q3,149,Seyei,BOT
+r3,q3,165,Creole,CVE
+r3,q3,180,AKAN,GHA
+r3,q3,181,EWE,GHA
+r3,q3,182,GA/DANGBE,GHA
+r3,q3,183,Other Northern Languages,GHA
+r3,q3,184,DAGBANI,GHA
+r3,q3,185,DAGAARE,GHA
+r3,q3,200,Kikuyu,KEN
+r3,q3,201,Luo,KEN
+r3,q3,202,Luhya,KEN
+r3,q3,203,Kamba,KEN
+r3,q3,204,Meru/Embu,KEN
+r3,q3,205,Kisii,KEN
+r3,q3,206,Kalenjin,KEN
+r3,q3,207,Masai/Samburu,KEN
+r3,q3,208,Mijikenda,KEN
+r3,q3,209,Taita,KEN
+r3,q3,210,Somali,KEN
+r3,q3,211,Pokot,KEN
+r3,q3,212,Turkana,KEN
+r3,q3,213,Digo,KEN
+r3,q3,214,Giriama,KEN
+r3,q3,215,Duruma,KEN
+r3,q3,216,Chonyi,KEN
+r3,q3,217,Gunya,KEN
+r3,q3,218,Arabic,KEN
+r3,q3,219,Maragoli,KEN
+r3,q3,220,Sesotho,LES
+r3,q3,221,Sephuti,LES
+r3,q3,240,malgache officielle,MAD
+r3,q3,241,langue régionale,MAD
+r3,q3,243,comorien,MAD
+r3,q3,244,pakistanais,MAD
+r3,q3,260,Tumbuka,MWI
+r3,q3,261,Nkhonde,MWI
+r3,q3,262,Lambya,MWI
+r3,q3,263,Chewa,MWI
+r3,q3,264,Yao,MWI
+r3,q3,265,Ngoni,MWI
+r3,q3,266,Lomwe,MWI
+r3,q3,267,Manga'nja,MWI
+r3,q3,268,Sena,MWI
+r3,q3,269,Sukwa,MWI
+r3,q3,271,Tonga,MWI
+r3,q3,280,Bambara,MLI
+r3,q3,281,Peugl/Fulfulde,MLI
+r3,q3,282,Senufo,MLI
+r3,q3,283,Mianka,MLI
+r3,q3,284,Mossi,MLI
+r3,q3,285,Sonink,MLI
+r3,q3,286,Malink,MLI
+r3,q3,287,Khasonk,MLI
+r3,q3,288,Dogon,MLI
+r3,q3,289,Bobo,MLI
+r3,q3,290,Bozo,MLI
+r3,q3,291,Arabe,MLI
+r3,q3,292,Maure,MLI
+r3,q3,293,Kakolo,MLI
+r3,q3,294,Samoko,MLI
+r3,q3,295,Sonrha,MLI
+r3,q3,296,Bella,MLI
+r3,q3,297,Tamasheq,MLI
+r3,q3,298,Dafing,MLI
+r3,q3,300,Makua,MOZ
+r3,q3,301,Sena,MOZ
+r3,q3,302,Ndau,MOZ
+r3,q3,303,Nyanja,MOZ
+r3,q3,304,Changana,MOZ
+r3,q3,305,Chope,MOZ
+r3,q3,306,Bitonga,MOZ
+r3,q3,307,Makonde,MOZ
+r3,q3,308,Chuabo,MOZ
+r3,q3,309,Ajua,MOZ
+r3,q3,310,Quimuane,MOZ
+r3,q3,311,Muaui,MOZ
+r3,q3,312,Nhungue,MOZ
+r3,q3,320,Nama/Damara,NAM
+r3,q3,321,Afrikaans,NAM
+r3,q3,322,Rukwangali,NAM
+r3,q3,323,Silozi,NAM
+r3,q3,324,Masubia,NAM
+r3,q3,325,German,NAM
+r3,q3,326,Oshiwambo,NAM
+r3,q3,327,Okjiherero,NAM
+r3,q3,328,Setswana,NAM
+r3,q3,329,Angolan:Portuguese,NAM
+r3,q3,330,Angolan:Rumbundu,NAM
+r3,q3,331,Other Kavango:Thimbukushu,NAM
+r3,q3,332,Other Kavango:Rugririku,NAM
+r3,q3,338,Ndebele,NAM
+r3,q3,340,Hausa,NIG
+r3,q3,341,Igbo,NIG
+r3,q3,342,Yoruba,NIG
+r3,q3,343,Pidgin English,NIG
+r3,q3,344,Efik,NIG
+r3,q3,345,Ebira,NIG
+r3,q3,346,Fulani,NIG
+r3,q3,347,Isoko,NIG
+r3,q3,348,Ibibio,NIG
+r3,q3,349,Kanuri,NIG
+r3,q3,350,Tiv,NIG
+r3,q3,351,Nupe,NIG
+r3,q3,352,Ijaw,NIG
+r3,q3,353,Edo,NIG
+r3,q3,354,Igala,NIG
+r3,q3,355,Urhobo,NIG
+r3,q3,356,Idoma,NIG
+r3,q3,357,Bassa,NIG
+r3,q3,358,Ikwere,NIG
+r3,q3,359,Ukwani,NIG
+r3,q3,360,Wolof,SEN
+r3,q3,361,Pular,SEN
+r3,q3,362,Serer,SEN
+r3,q3,363,Mandinka,SEN
+r3,q3,364,Sonike,SEN
+r3,q3,365,Diola,SEN
+r3,q3,366,Manjack,SEN
+r3,q3,367,Bambara,SEN
+r3,q3,368,Bainouk,SEN
+r3,q3,380,Kinyakyusa,TAN
+r3,q3,381,Kichaga,TAN
+r3,q3,382,Kihaya,TAN
+r3,q3,383,Kingoni,TAN
+r3,q3,384,Kikwere,TAN
+r3,q3,385,Kipare,TAN
+r3,q3,386,Kihehe,TAN
+r3,q3,387,Kimakonde,TAN
+r3,q3,388,Kinyamwezi,TAN
+r3,q3,389,Kisukuma,TAN
+r3,q3,390,Kimasai,TAN
+r3,q3,391,Kimeru,TAN
+r3,q3,392,Kikurya,TAN
+r3,q3,393,Kigogo,TAN
+r3,q3,394,Kiluguru,TAN
+r3,q3,395,Kifipa,TAN
+r3,q3,396,Kimanyema,TAN
+r3,q3,397,Kinyiramba,TAN
+r3,q3,398,Kinyaturu,TAN
+r3,q3,405,Akaramojonj,UGA
+r3,q3,406,Akur,UGA
+r3,q3,407,Ateso,UGA
+r3,q3,408,Japadhola,UGA
+r3,q3,409,Jonam,UGA
+r3,q3,410,Kakwa,UGA
+r3,q3,411,Kumam,UGA
+r3,q3,412,Kuksabin,UGA
+r3,q3,413,Luo,UGA
+r3,q3,414,Lugbara,UGA
+r3,q3,415,Lugwere,UGA
+r3,q3,416,Madi,UGA
+r3,q3,417,Luganda,UGA
+r3,q3,418,Lugishu/Lumasaba,UGA
+r3,q3,419,Lusoga,UGA
+r3,q3,420,Bemba,ZAM
+r3,q3,421,Nyanja,ZAM
+r3,q3,422,Tonga,ZAM
+r3,q3,423,Lozi,ZAM
+r3,q3,424,Chewa,ZAM
+r3,q3,425,Nsenga,ZAM
+r3,q3,426,Tumbuka,ZAM
+r3,q3,427,Kaonde,ZAM
+r3,q3,428,Luvale,ZAM
+r3,q3,429,Namwanga,ZAM
+r3,q3,431,Bisa,ZAM
+r3,q3,432,lla,ZAM
+r3,q3,433,Nkaya,ZAM
+r3,q3,434,Mambwe,ZAM
+r3,q3,435,Lunda,ZAM
+r3,q3,436,Lenje,ZAM
+r3,q3,437,Lamba,ZAM
+r3,q3,438,Mbunda,ZAM
+r3,q3,439,Ngoni,ZAM
+r3,q3,440,Ndebele,ZIM
+r3,q3,441,Shona,ZIM
+r3,q3,443,Kalanga,ZIM
+r3,q3,444,Tonga,ZIM
+r3,q3,500,Lunyoli,UGA
+r3,q3,501,Rufumbira,UGA
+r3,q3,502,Ruhororo,UGA
+r3,q3,503,Rukiga,UGA
+r3,q3,504,Rukonzo,UGA
+r3,q3,505,Runyarwanda,UGA
+r3,q3,506,Runyoro,UGA
+r3,q3,507,Rutagwenda,UGA
+r3,q3,508,Rutooro,UGA
+r3,q3,509,Rwamba,UGA
+r3,q3,510,Runyankole,UGA
+r3,q3,511,Samia,UGA
+r3,q3,550,Anang,NIG
+r3,q3,553,Kadara,NIG
+r3,q3,555,Bahumono,NIG
+r3,q3,556,Boki,NIG
+r3,q3,557,Yakurr,NIG
+r3,q3,558,Esan,NIG
+r3,q3,560,Ekpeye,NIG
+r3,q3,563,Igede,NIG
+r3,q3,565,Taroh,NIG
+r3,q3,566,Korro,NIG
+r3,q3,567,Ogoni,NIG
+r3,q3,568,Mbembe,NIG
+r3,q3,569,Sayawa,NIG
+r3,q3,580,Itsekiri,NIG
+r3,q3,803,Tanchoni,KEN
+r3,q3,804,Bukusu,KEN
+r3,q3,805,Nyore,KEN
+r3,q3,806,Marama,KEN
+r3,q3,807,Sabaot,KEN
+r3,q3,808,Wanga,KEN
+r3,q3,809,Kabarasi,KEN
+r3,q3,810,Nyala,KEN
+r3,q3,811,Vatsotso,KEN
+r3,q3,813,Kipsigis,KEN
+r3,q3,814,Tugen,KEN
+r3,q3,815,Boran,KEN
+r3,q3,817,Indian,KEN
+r3,q3,818,Burji,KEN
+r3,q3,819,Kuria,KEN
+r3,q3,820,Gare,KEN
+r3,q3,860,Soli,ZAM
+r3,q3,861,Senga,ZAM
+r3,q3,862,Chokwe,ZAM
+r3,q3,863,Luchazi,ZAM
+r3,q3,864,Kwamashi,ZAM
+r3,q3,865,Tokaleya,ZAM
+r3,q3,866,Lala,ZAM
+r3,q3,995,Other,KEN MAD MWI MLI MOZ NIG SAF TAN UGA ZIM
+r4,Q103,-1,Missing,BEN BFO KEN MOZ SEN ZAM
+r4,Q103,1,English,BOT GHA KEN LES LIB MLW MOZ NAM NIG SAF UGA ZAM ZIM
+r4,Q103,2,French,BEN BFO MLI SEN UGA
+r4,Q103,3,Portuguese,MOZ UGA
+r4,Q103,4,Kiswahili,KEN TAN UGA
+r4,Q103,100,Fon,BEN
+r4,Q103,101,Adja,BEN
+r4,Q103,102,Bariba,BEN
+r4,Q103,103,Dendi,BEN
+r4,Q103,104,Yoruba,BEN
+r4,Q103,105,Otamari,BEN
+r4,Q103,140,Setswana,BOT
+r4,Q103,182,Moore,BFO
+r4,Q103,183,Dioula,BFO
+r4,Q103,184,Fulfude,BFO
+r4,Q103,220,Crioulo,CVE
+r4,Q103,221,Portugues,CVE
+r4,Q103,260,Akan,GHA
+r4,Q103,261,Ewe,GHA
+r4,Q103,262,Ga/Dangbe,GHA
+r4,Q103,263,Dagbani,GHA
+r4,Q103,264,Hausa,GHA
+r4,Q103,272,Kokonba,GHA
+r4,Q103,278,Mamprusi,GHA
+r4,Q103,300,Kikuyu,KEN
+r4,Q103,301,Luo,KEN
+r4,Q103,302,Luhya,KEN
+r4,Q103,303,Kamba,KEN
+r4,Q103,304,Kalenjin,KEN
+r4,Q103,310,Somali,KEN
+r4,Q103,340,Sesotho,LES
+r4,Q103,396,Simple Liberian English,LIB LIb
+r4,Q103,420,Official malagasy,MAD
+r4,Q103,421,Malagasy with regional variation,MAD
+r4,Q103,460,Tumbuka,MLW
+r4,Q103,463,Chewa,MLW
+r4,Q103,464,Yao,MLW
+r4,Q103,500,Arabe,MLI
+r4,Q103,512,Peulh/ Fulfulde,MLI
+r4,Q103,514,Soninke/ Sarakoll,MLI
+r4,Q103,515,Sonrhai,MLI
+r4,Q103,516,Tamasheq,MLI
+r4,Q103,541,Makua,MOZ
+r4,Q103,542,Sena,MOZ
+r4,Q103,543,Ndau,MOZ
+r4,Q103,545,Changana,MOZ
+r4,Q103,547,Bitonga,MOZ
+r4,Q103,548,Makonde,MOZ
+r4,Q103,549,Chuabo,MOZ
+r4,Q103,553,Coti,MOZ
+r4,Q103,555,Lomwe,MOZ
+r4,Q103,559,Shona,MOZ
+r4,Q103,561,Tewe,MOZ
+r4,Q103,580,Afrikaans,NAM
+r4,Q103,583,Oshiwambo,NAM
+r4,Q103,584,Otjiherero,NAM
+r4,Q103,585,Rukwangali,NAM
+r4,Q103,620,Hausa,NIG
+r4,Q103,621,Igbo,NIG
+r4,Q103,622,Yoruba,NIG
+r4,Q103,623,Pidgin English,NIG
+r4,Q103,660,Wolof,SEN
+r4,Q103,661,Pulaar/Toucouleur,SEN
+r4,Q103,662,Serer,SEN
+r4,Q103,663,Mandinka/Bambara,SEN
+r4,Q103,665,Diola,SEN
+r4,Q103,700,Afrikaans,SAF
+r4,Q103,701,Ndebele,SAF
+r4,Q103,702,Xhosa,SAF
+r4,Q103,703,Pedi/Spedi/North Sotho,SAF
+r4,Q103,704,Sesotho/Sotho/South Sotho,SAF
+r4,Q103,705,Setswana/Tswana,SAF
+r4,Q103,706,Shangaan,SAF
+r4,Q103,707,Swazi,SAF
+r4,Q103,708,Venda,SAF
+r4,Q103,709,Zulu,SAF
+r4,Q103,780,Luganda,UGA
+r4,Q103,781,Runyankole,UGA
+r4,Q103,782,Runyolo,UGA
+r4,Q103,784,Lumasaba,UGA
+r4,Q103,787,Ateso,UGA
+r4,Q103,788,Acholi,UGA
+r4,Q103,789,Alur,UGA
+r4,Q103,790,Lugbara,UGA
+r4,Q103,820,Bemba,ZAM
+r4,Q103,821,Nyanja,ZAM
+r4,Q103,822,Tonga,ZAM
+r4,Q103,823,Lozi,ZAM
+r4,Q103,827,Kaonde,ZAM
+r4,Q103,860,Ndebele,ZIM
+r4,Q103,861,Shona,ZIM
+r4,Q103,995,Others,GHA
+r4,Q3,-1,Missing,BFO KEN MOZ SEN
+r4,Q3,1,English,BFO GHA KEN LES LIB MLW NAM SAF ZAM ZIM
+r4,Q3,2,French,BEN BFO MAD MLI SEN
+r4,Q3,3,Portuguese,MOZ NAM SAF
+r4,Q3,4,Kiswahili,KEN TAN UGA
+r4,Q3,100,Fon,BEN
+r4,Q3,101,Adja,BEN
+r4,Q3,102,Bariba,BEN
+r4,Q3,103,Dendi,BEN
+r4,Q3,104,Yoruba,BEN
+r4,Q3,105,Otamari,BEN
+r4,Q3,106,Peulh,BEN
+r4,Q3,107,Yoa,BEN
+r4,Q3,108,Goun,BEN
+r4,Q3,109,Mina,BEN
+r4,Q3,110,Idacha,BEN
+r4,Q3,111,Shabe,BEN
+r4,Q3,112,Warma,BEN
+r4,Q3,140,Setswana,BOT
+r4,Q3,141,Sesarwa,BOT
+r4,Q3,142,Sekgalagadi,BOT
+r4,Q3,143,Sesobea,BOT
+r4,Q3,144,Sekalanga,BOT
+r4,Q3,145,Seherero,BOT
+r4,Q3,146,Sembukushu,BOT
+r4,Q3,147,Sebirwa,BOT
+r4,Q3,148,Sengologa,BOT
+r4,Q3,149,Seyei,BOT
+r4,Q3,152,Setswapong,BOT
+r4,Q3,182,Moore,BFO
+r4,Q3,183,Dioula,BFO
+r4,Q3,184,Fulfude,BFO
+r4,Q3,185,Gulmacema,BFO
+r4,Q3,186,Gourounsi,BFO
+r4,Q3,187,Bobo,BFO
+r4,Q3,188,Bissa,BFO
+r4,Q3,189,Dagari,BFO
+r4,Q3,190,Birifor,BFO
+r4,Q3,191,Lobi,BFO
+r4,Q3,192,Samo,BFO
+r4,Q3,193,Senoufo,BFO
+r4,Q3,194,Djerma,BFO
+r4,Q3,195,Goin,BFO
+r4,Q3,196,Turka,BFO
+r4,Q3,197,Yanan,BFO
+r4,Q3,198,Marka,BFO
+r4,Q3,199,Bwamu,BFO
+r4,Q3,200,Karaboro,BFO
+r4,Q3,201,Fuls,BFO
+r4,Q3,202,Sonra,BFO
+r4,Q3,220,Crioulo,CVE
+r4,Q3,221,Portugues,CVE
+r4,Q3,260,Akan,GHA
+r4,Q3,261,Ewe,GHA
+r4,Q3,262,Ga/Dangbe,GHA
+r4,Q3,263,Dagbani,GHA
+r4,Q3,264,Hausa,GHA
+r4,Q3,265,Nzema,GHA
+r4,Q3,266,Wassa,GHA
+r4,Q3,267,Brosa,GHA
+r4,Q3,268,Sefwi,GHA
+r4,Q3,269,Dagaari,GHA
+r4,Q3,270,Gruma,GHA
+r4,Q3,271,Frafra,GHA
+r4,Q3,272,Kokonba,GHA
+r4,Q3,273,Dagate,GHA
+r4,Q3,274,Kusasi/Kusaase,GHA
+r4,Q3,275,Grussi,GHA
+r4,Q3,276,Sisila,GHA
+r4,Q3,277,Waala,GHA
+r4,Q3,278,Mamprusi,GHA
+r4,Q3,279,Gruni,GHA
+r4,Q3,280,Mampruli,GHA
+r4,Q3,281,Talensi,GHA
+r4,Q3,282,Bule,GHA
+r4,Q3,283,Kasem,GHA
+r4,Q3,284,Brefo/Birfuo,GHA
+r4,Q3,285,Basare,GHA
+r4,Q3,300,Kikuyu,KEN
+r4,Q3,301,Luo,KEN
+r4,Q3,302,Luhya,KEN
+r4,Q3,303,Kamba,KEN
+r4,Q3,304,Kalenjin,KEN
+r4,Q3,305,Kisii,KEN
+r4,Q3,306,Meru/Embu,KEN
+r4,Q3,307,Masai/Samburu,KEN
+r4,Q3,308,MijiKenda,KEN
+r4,Q3,309,Taita,KEN
+r4,Q3,310,Somali,KEN
+r4,Q3,311,Pokot,KEN
+r4,Q3,312,Turkana,KEN
+r4,Q3,313,Teso,KEN
+r4,Q3,314,Gabra,KEN
+r4,Q3,340,Sesotho,LES
+r4,Q3,342,Sethepu,LES
+r4,Q3,380,Bassa,LIB LIb
+r4,Q3,381,Belle,LIB
+r4,Q3,383,Gbandi,LIB
+r4,Q3,384,Gio,LIB
+r4,Q3,385,Gola,LIB
+r4,Q3,386,Grebo,LIB
+r4,Q3,387,Kissi,LIB
+r4,Q3,388,Kpelle,LIB
+r4,Q3,389,Krahn,LIB
+r4,Q3,390,Kru,LIB
+r4,Q3,391,Lorma,LIB
+r4,Q3,392,Mandingo,LIB
+r4,Q3,393,Mano,LIB
+r4,Q3,394,Mende,LIB
+r4,Q3,395,Vai,LIB
+r4,Q3,396,Simple Liberian English,LIB
+r4,Q3,397,Sarpo,LIB
+r4,Q3,420,Official malagasy,MAD
+r4,Q3,421,Malagasy with regional variation,MAD
+r4,Q3,460,Tumbuka,MLW
+r4,Q3,461,Nkhonde,MLW
+r4,Q3,462,Lambya,MLW
+r4,Q3,463,Chewa,MLW
+r4,Q3,464,Yao,MLW
+r4,Q3,465,Ngoni,MLW
+r4,Q3,466,Lomwe,MLW
+r4,Q3,467,Mang'anja,MLW
+r4,Q3,468,Sena,MLW
+r4,Q3,469,Sukwa,MLW
+r4,Q3,470,Senga,MLW
+r4,Q3,471,Tonga,MLW
+r4,Q3,472,Khokhola,MLW
+r4,Q3,473,Ndali,MLW
+r4,Q3,474,Nyika,MLW
+r4,Q3,476,Namwanga,MLW
+r4,Q3,477,Wiza,MLW
+r4,Q3,500,Arabe,MLI
+r4,Q3,501,Bambara,MLI
+r4,Q3,502,Bella,MLI
+r4,Q3,503,Bobo,MLI
+r4,Q3,504,Bozo,MLI
+r4,Q3,506,Dogon,MLI
+r4,Q3,508,Khassonke,MLI
+r4,Q3,509,Malinke,MLI
+r4,Q3,510,Maure,MLI
+r4,Q3,511,Mossi,MLI
+r4,Q3,512,Peulh/ Fulfulde,MLI
+r4,Q3,513,Senufo/ Mianka,MLI
+r4,Q3,514,Soninke/ Sarakoll,MLI
+r4,Q3,515,Sonrhai,MLI
+r4,Q3,516,Tamasheq,MLI
+r4,Q3,518,Haoussa,MLI
+r4,Q3,520,Kakolo,MLI
+r4,Q3,522,Samogo,MLI
+r4,Q3,525,Zerma,MLI
+r4,Q3,541,Makua,MOZ
+r4,Q3,542,Sena,MOZ
+r4,Q3,543,Ndau,MOZ
+r4,Q3,544,Nyanja,MOZ
+r4,Q3,545,Changana,MOZ
+r4,Q3,546,Chope,MOZ
+r4,Q3,547,Bitonga,MOZ
+r4,Q3,548,Makonde,MOZ
+r4,Q3,549,Chuabo,MOZ
+r4,Q3,550,Ajua,MOZ
+r4,Q3,551,Chewa,MOZ
+r4,Q3,552,Chiute,MOZ
+r4,Q3,553,Coti,MOZ
+r4,Q3,555,Lomwe,MOZ
+r4,Q3,556,Nhungue,MOZ
+r4,Q3,557,Matsua,MOZ
+r4,Q3,558,Ronga,MOZ
+r4,Q3,559,Shona,MOZ
+r4,Q3,561,Tewe,MOZ
+r4,Q3,562,Xitsau,MOZ
+r4,Q3,563,Muani,MOZ
+r4,Q3,580,Afrikaans,NAM
+r4,Q3,581,German,NAM
+r4,Q3,582,Nama/Damara,NAM
+r4,Q3,583,Oshiwambo,NAM
+r4,Q3,584,Otjiherero,NAM
+r4,Q3,585,Rukwangali,NAM
+r4,Q3,586,Rugririku,NAM
+r4,Q3,587,Thimbukushu,NAM
+r4,Q3,588,Silozi,NAM
+r4,Q3,589,Setswana,NAM
+r4,Q3,590,Masubia,NAM
+r4,Q3,591,San,NAM
+r4,Q3,592,Mufwe,NAM
+r4,Q3,593,Nyemba,NAM
+r4,Q3,594,Uumbundu,NAM
+r4,Q3,620,Hausa,NIG
+r4,Q3,621,Igbo,NIG
+r4,Q3,622,Yoruba,NIG
+r4,Q3,623,Pidgin English,NIG
+r4,Q3,624,Efik,NIG
+r4,Q3,625,Ebira,NIG
+r4,Q3,626,Fulani,NIG
+r4,Q3,627,Isoko,NIG
+r4,Q3,628,Ibibio,NIG
+r4,Q3,629,Kanuri,NIG
+r4,Q3,630,Tiv,NIG
+r4,Q3,631,Nupe,NIG
+r4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,NIG
+r4,Q3,633,Edo,NIG
+r4,Q3,634,Igala,NIG
+r4,Q3,635,Urhobo,NIG
+r4,Q3,637,Anang,NIG
+r4,Q3,638,Ikwere,NIG
+r4,Q3,639,Idoma,NIG
+r4,Q3,640,Esan,NIG
+r4,Q3,643,Igede,NIG
+r4,Q3,644,Babur,NIG
+r4,Q3,645,Marghi,NIG
+r4,Q3,646,Gbagyi,NIG
+r4,Q3,647,Ugep,NIG
+r4,Q3,648,Kambari,NIG
+r4,Q3,649,Eggon,NIG
+r4,Q3,650,Kataf (Atyap),NIG
+r4,Q3,651,Abua,NIG
+r4,Q3,653,Eleme,NIG
+r4,Q3,654,Mumuye,NIG
+r4,Q3,655,Ejagam,NIG
+r4,Q3,656,Tangale,NIG
+r4,Q3,657,Ogbia,NIG
+r4,Q3,658,Khana,NIG
+r4,Q3,659,Jukun,NIG
+r4,Q3,660,Wolof,SEN
+r4,Q3,661,Pulaar/Toucouleur,SEN
+r4,Q3,662,Serer,SEN
+r4,Q3,663,Mandinka/Bambara,SEN
+r4,Q3,664,Soninke,SEN
+r4,Q3,665,Diola,SEN
+r4,Q3,666,Manjack,SEN
+r4,Q3,667,Bainouk,SEN
+r4,Q3,668,Bassari,SEN
+r4,Q3,669,Maure,SEN
+r4,Q3,700,Afrikaans,SAF
+r4,Q3,701,Ndebele,SAF
+r4,Q3,702,Xhosa,SAF
+r4,Q3,703,Pedi/Spedi/North Sotho,SAF
+r4,Q3,704,Sesotho/Sotho/South Sotho,SAF
+r4,Q3,705,Setswana/Tswana,SAF
+r4,Q3,706,Shangaan,SAF
+r4,Q3,707,Swazi,SAF
+r4,Q3,708,Venda,SAF
+r4,Q3,709,Zulu,SAF
+r4,Q3,710,Asian/Indian,SAF
+r4,Q3,740,Kinyakyusa,TAN
+r4,Q3,741,Kichaga,TAN
+r4,Q3,742,Kihaya,TAN
+r4,Q3,743,Kingoni,TAN
+r4,Q3,744,Kikwere,TAN
+r4,Q3,745,Kipare,TAN
+r4,Q3,746,Kihehe,TAN
+r4,Q3,747,Kimakonde,TAN
+r4,Q3,748,Kinyamwezi,TAN
+r4,Q3,749,Kisukuma,TAN
+r4,Q3,750,Kimasai,TAN
+r4,Q3,752,Kikurya,TAN
+r4,Q3,753,Kigogo,TAN
+r4,Q3,754,Kiluguru,TAN
+r4,Q3,755,Kifipa,TAN
+r4,Q3,756,Kimanyema,TAN
+r4,Q3,757,Kinyiramba,TAN
+r4,Q3,758,Kinyaturu,TAN
+r4,Q3,759,Kibena,TAN
+r4,Q3,760,Kiha,TAN
+r4,Q3,761,Kihangaza,TAN
+r4,Q3,762,Kiiraqi,TAN
+r4,Q3,763,Kijaluo,TAN
+r4,Q3,764,Kijita,TAN
+r4,Q3,765,Kikinga,TAN
+r4,Q3,766,Kimatengo,TAN
+r4,Q3,767,Kimwera,TAN
+r4,Q3,768,Kindali,TAN
+r4,Q3,769,Kindendeule,TAN
+r4,Q3,770,Kinyambo,TAN
+r4,Q3,771,Kipogoro,TAN
+r4,Q3,772,Kisambaa,TAN
+r4,Q3,773,Kiyao,TAN
+r4,Q3,774,Kizaramo,TAN
+r4,Q3,775,Kizigua,TAN
+r4,Q3,776,Kizinza,TAN
+r4,Q3,777,Kirangi,TAN
+r4,Q3,780,Luganda,UGA
+r4,Q3,781,Runyankole,UGA
+r4,Q3,782,Runyolo,UGA
+r4,Q3,783,Lusoga,UGA
+r4,Q3,784,Lumasaba,UGA
+r4,Q3,785,Lukhonjo,UGA
+r4,Q3,786,Lunyole,UGA
+r4,Q3,787,Ateso,UGA
+r4,Q3,788,Acholi,UGA
+r4,Q3,789,Alur,UGA
+r4,Q3,790,Lugbara,UGA
+r4,Q3,791,Madi,UGA
+r4,Q3,792,Japhadhola,UGA
+r4,Q3,793,Lusamia,UGA
+r4,Q3,794,Lugwere,UGA
+r4,Q3,795,Rukiga,UGA
+r4,Q3,796,Rutooro,UGA
+r4,Q3,797,Langi,UGA
+r4,Q3,798,Kakwa,UGA
+r4,Q3,799,Kumam,UGA
+r4,Q3,800,Lululi,UGA
+r4,Q3,801,Lwamba,UGA
+r4,Q3,802,Nubian,UGA
+r4,Q3,803,Rufumbira,UGA
+r4,Q3,804,Runyarwanda,UGA
+r4,Q3,805,Sabiny,UGA
+r4,Q3,820,Bemba,ZAM
+r4,Q3,821,Nyanja,ZAM
+r4,Q3,822,Tonga,ZAM
+r4,Q3,823,Lozi,ZAM
+r4,Q3,824,Chewa,ZAM
+r4,Q3,825,Nsenga,ZAM
+r4,Q3,826,Tumbuka,ZAM
+r4,Q3,827,Kaonde,ZAM
+r4,Q3,828,Luvale,ZAM
+r4,Q3,829,Namwanga,ZAM
+r4,Q3,830,Lunda,ZAM
+r4,Q3,831,Bisa,ZAM
+r4,Q3,832,Nkoya,ZAM
+r4,Q3,833,Mambwe,ZAM
+r4,Q3,834,Lenje,ZAM
+r4,Q3,835,Ngoni,ZAM
+r4,Q3,836,Soli,ZAM
+r4,Q3,837,Ila,ZAM
+r4,Q3,838,Kunda,ZAM
+r4,Q3,839,Lala,ZAM
+r4,Q3,840,Lamba,ZAM
+r4,Q3,841,Lungu,ZAM
+r4,Q3,842,Nyika,ZAM
+r4,Q3,843,Senga,ZAM
+r4,Q3,844,Tokaleya,ZAM
+r4,Q3,845,Ushi,ZAM
+r4,Q3,860,Ndebele,ZIM
+r4,Q3,861,Shona,ZIM
+r4,Q3,862,Venda,ZIM
+r4,Q3,863,Kalanga,ZIM
+r4,Q3,864,Tonga,ZIM
+r4,Q3,865,Nambya,ZIM
+r4,Q3,866,Nyanja,ZIM
+r4,Q3,995,Others,BEN BOT BFO GHA KEN LES MOZ NIG SEN SAF TAN UGA ZAM ZIM
+r5,Q103,-1,Missing,KEN LIB MOZ NAM SAF ZIM
+r5,Q103,1,English,BEN BOT CAM GHA KEN LES LIB MAU MLW NAM NIG SAF SRL SWZ UGA ZAM ZIM
+r5,Q103,2,French,BDI BEN BFO CAM CDI GUI MAD MAU MLI NGR SEN TOG
+r5,Q103,3,Portuguese,CVE MAD MOZ
+r5,Q103,4,Kiswahili,KEN TAN
+r5,Q103,5,Arabic,ALG EGY MRC SUD TUN
+r5,Q103,7,Afrikaans,NAM SAF
+r5,Q103,13,Dioula,BFO CDI
+r5,Q103,15,Fulfuldé,BFO NGR
+r5,Q103,17,Hausa,GHA NIG
+r5,Q103,26,Luo,KEN UGA
+r5,Q103,29,Ndau,MOZ ZIM
+r5,Q103,35,siSwati,SAF SWZ
+r5,Q103,39,Yoruba,BEN NIG
+r5,Q103,100,Fon,BEN
+r5,Q103,101,Adja,BEN
+r5,Q103,102,Bariba,BEN
+r5,Q103,103,Dendi,BEN
+r5,Q103,140,Setswana,BOT
+r5,Q103,180,Mooré,BFO
+r5,Q103,220,Crioulo,CVE
+r5,Q103,260,Akan,GHA
+r5,Q103,261,Ewe,GHA
+r5,Q103,262,Ga/Dangbe,GHA
+r5,Q103,263,Dagbani,GHA
+r5,Q103,300,Kikuyu,KEN
+r5,Q103,302,Luhya,KEN
+r5,Q103,303,Kamba,KEN
+r5,Q103,304,Kalenjin,KEN
+r5,Q103,340,Sesotho,LES
+r5,Q103,396,Liberian Simple English,LIB
+r5,Q103,420,"""Official"" Malagasy",MAD
+r5,Q103,421,Malagasy dialect,MAD
+r5,Q103,460,Chitumbuka,MLW
+r5,Q103,461,Chichewa,MLW
+r5,Q103,501,Bambara,MLI
+r5,Q103,513,Peulh / Fulfude,MLI
+r5,Q103,516,Soninke,MLI
+r5,Q103,518,Tamasheq,MLI
+r5,Q103,540,Makua,MOZ
+r5,Q103,541,Sena,MOZ
+r5,Q103,543,Changana,MOZ
+r5,Q103,583,Oshiwambo,NAM
+r5,Q103,584,Otjiherero,NAM
+r5,Q103,585,Rukwangali,NAM
+r5,Q103,621,Igbo,NIG
+r5,Q103,623,Pidgin English,NIG
+r5,Q103,660,Wolof,SEN
+r5,Q103,661,Pulaar/Toucouleur,SEN
+r5,Q103,665,Diola,SEN
+r5,Q103,702,Xhosa,SAF
+r5,Q103,703,Pedi/Spedi/North Sotho,SAF
+r5,Q103,704,Sesotho/Sotho/South Sotho,SAF
+r5,Q103,705,Setswana/Tswana,SAF
+r5,Q103,706,Shangaan,SAF
+r5,Q103,707,Swazi,SAF
+r5,Q103,708,Venda,SAF
+r5,Q103,709,Zulu,SAF
+r5,Q103,711,Mixed - English/Afrikaans,SAF
+r5,Q103,712,Tsonga,SAF
+r5,Q103,780,Luganda,UGA
+r5,Q103,781,Runyankole-Rukiga,UGA
+r5,Q103,782,Runyoro-Rutooro,UGA
+r5,Q103,783,Lusoga,UGA
+r5,Q103,784,Lumasaba,UGA
+r5,Q103,787,Ateso,UGA
+r5,Q103,789,Alur,UGA
+r5,Q103,790,Lugbara,UGA
+r5,Q103,791,Madi,UGA
+r5,Q103,792,Japadhola,UGA
+r5,Q103,798,Kupsabinyi,UGA
+r5,Q103,799,Ngakarimajong,UGA
+r5,Q103,809,Lugwere,UGA
+r5,Q103,820,Chewa/nyanja,ZAM
+r5,Q103,821,Ichibemba,ZAM
+r5,Q103,822,Tonga,ZAM
+r5,Q103,823,Kikaonde,ZAM
+r5,Q103,824,Silozi,ZAM
+r5,Q103,860,Ndebele,ZIM
+r5,Q103,861,Shona,ZIM
+r5,Q103,900,Creole,MAU
+r5,Q103,930,Krio,SRL
+r5,Q103,931,Mende,SRL
+r5,Q103,932,Temne,SRL
+r5,Q103,933,Limba,SRL
+r5,Q103,1100,Haoussa,NGR
+r5,Q103,1101,Zarrma/Songhaï,NGR
+r5,Q103,1103,Touareg,NGR
+r5,Q103,1140,Ewé,TOG
+r5,Q103,1142,Kabyè,TOG
+r5,Q103,1143,Tem (Kotokoli),TOG
+r5,Q103,1144,Ben (Moba),TOG
+r5,Q103,1145,Nawdem (Losso),TOG
+r5,Q103,1180,Kirundi,BDI
+r5,Q103,1220,Foufoulde,CAM
+r5,Q103,1221,Pidgin,CAM
+r5,Q103,1222,Ewondo,CAM
+r5,Q103,1223,Bafang,CAM
+r5,Q103,1300,Soussou,GUI
+r5,Q103,1301,Poular,GUI
+r5,Q103,1302,Maninka,GUI
+r5,Q103,1303,Kpélé,GUI
+r5,Q103,1304,Toma,GUI
+r5,Q103,1305,Kissié,GUI
+r5,Q103,9995,Other,BEN CAM GUI KEN LES MAU MOZ SEN SRL SWZ TOG ZAM ZIM
+r5,Q2,-1,Missing,BOT KEN LIB MLW MOZ NAM ZIM
+r5,Q2,1,English,BEN BOT CAM GHA KEN LES LIB MAU NAM NIG SAF SUD SWZ ZAM ZIM
+r5,Q2,2,French,ALG BDI BEN BFO CAM CDI GUI MAU MLI MRC NGR SEN SUD TOG
+r5,Q2,3,Portuguese,CVE MLW MOZ NAM SAF SWZ
+r5,Q2,4,Kiswahili,BDI KEN MLW TAN UGA
+r5,Q2,5,Arabic,ALG EGY KEN MRC SUD TUN
+r5,Q2,6,Adja,BEN TOG
+r5,Q2,7,Afrikaans,BOT NAM SAF
+r5,Q2,8,Amazigh,ALG MRC
+r5,Q2,9,Bambara,CDI MLI SEN
+r5,Q2,10,Bassa,CAM LIB
+r5,Q2,11,Bobo,BFO MLI
+r5,Q2,12,Chichewa,MLW MOZ
+r5,Q2,13,Dioula,BFO CDI
+r5,Q2,14,Fon,BEN TOG
+r5,Q2,15,Fulfuldé,BFO NGR
+r5,Q2,16,Haoussa,BFO CAM NGR TOG
+r5,Q2,17,Hausa,GHA NIG
+r5,Q2,18,Kiha,TAN
+r5,Q2,19,Kihangaza,TAN
+r5,Q2,20,Kissi,LIB SRL
+r5,Q2,21,Konkomba,GHA TOG
+r5,Q2,22,Kono,GUI SRL
+r5,Q2,23,Kru,LIB SRL
+r5,Q2,24,Lamba,TOG ZAM
+r5,Q2,25,Lobi,BFO CDI
+r5,Q2,26,Luo,KEN UGA
+r5,Q2,27,Mano,GUI LIB
+r5,Q2,28,Mende,LIB SRL
+r5,Q2,29,Ndau,MOZ ZIM
+r5,Q2,30,Ndebele,SAF ZAM ZIM
+r5,Q2,31,Nyanja,MOZ ZAM
+r5,Q2,32,Sénoufo,BFO CDI
+r5,Q2,33,Setswana,BOT NAM SAF
+r5,Q2,34,Shangaan,SAF SWZ ZIM
+r5,Q2,35,siSwati,SAF SWZ
+r5,Q2,36,Tonga,MLW SAF SWZ ZAM ZIM
+r5,Q2,37,Vai,LIB SRL
+r5,Q2,38,Venda,SAF ZIM
+r5,Q2,39,Yoruba,BEN NIG TOG
+r5,Q2,102,Bariba,BEN
+r5,Q2,103,Dendi,BEN
+r5,Q2,105,Otamari,BEN
+r5,Q2,106,Peulh,BEN
+r5,Q2,107,Yoa,BEN
+r5,Q2,108,Boo,BEN
+r5,Q2,141,Sesarwa,BOT
+r5,Q2,142,Sekgalagadi,BOT
+r5,Q2,143,Sesubia,BOT
+r5,Q2,144,Ikalanga/Sekala,BOT
+r5,Q2,145,Seherero,BOT
+r5,Q2,146,Sembukushu,BOT
+r5,Q2,147,Sebirwa,BOT
+r5,Q2,148,Sengologa,BOT
+r5,Q2,149,Seyeyi,BOT
+r5,Q2,151,Sekgothu,BOT
+r5,Q2,152,Setswapong,BOT
+r5,Q2,180,Mooré,BFO
+r5,Q2,183,Gulmacema,BFO
+r5,Q2,184,Gourounsi,BFO
+r5,Q2,185,Bissa,BFO
+r5,Q2,186,Birifor,BFO
+r5,Q2,187,Bwamu,BFO
+r5,Q2,188,Dagari,BFO
+r5,Q2,189,Fulse,BFO
+r5,Q2,190,Goin,BFO
+r5,Q2,191,Karaboro,BFO
+r5,Q2,192,Kassena,BFO
+r5,Q2,194,Marka,BFO
+r5,Q2,195,Samo,BFO
+r5,Q2,197,Sonrai,BFO
+r5,Q2,198,Toussian,BFO
+r5,Q2,199,Dafing,BFO
+r5,Q2,220,Crioulo,CVE
+r5,Q2,260,Akan,GHA
+r5,Q2,261,Ewe,GHA
+r5,Q2,262,Ga/Dangbe,GHA
+r5,Q2,263,Dagbani,GHA
+r5,Q2,265,Dagaree,GHA
+r5,Q2,266,Waala,GHA
+r5,Q2,267,Moshie,GHA
+r5,Q2,268,Sissala,GHA
+r5,Q2,269,Kotonkoli,GHA
+r5,Q2,270,Talensi,GHA
+r5,Q2,271,Kasina,GHA
+r5,Q2,272,Frafra,GHA
+r5,Q2,273,Gruni,GHA
+r5,Q2,274,Bimoba,GHA
+r5,Q2,275,Bulsa,GHA
+r5,Q2,276,Nabdam,GHA
+r5,Q2,277,Kusasi,GHA
+r5,Q2,278,Mampruli,GHA
+r5,Q2,280,Guan,GHA
+r5,Q2,281,Gonja,GHA
+r5,Q2,282,Nzema,GHA
+r5,Q2,283,Other Northern Languages,GHA
+r5,Q2,300,Kikuyu,KEN
+r5,Q2,302,Luhya,KEN
+r5,Q2,303,Kamba,KEN
+r5,Q2,304,Kalenjin,KEN
+r5,Q2,305,Kisii,KEN
+r5,Q2,306,Meru / Embu,KEN
+r5,Q2,307,Maasai / Samburu,KEN
+r5,Q2,308,Mijikenda,KEN
+r5,Q2,309,Taita,KEN
+r5,Q2,310,Somali,KEN
+r5,Q2,311,Pokot,KEN
+r5,Q2,312,Turkana,KEN
+r5,Q2,313,Tharaka,KEN
+r5,Q2,314,Teso,KEN
+r5,Q2,315,Sabaot,KEN
+r5,Q2,316,Rendile,KEN
+r5,Q2,317,Pokomo,KEN
+r5,Q2,318,Mbeere,KEN
+r5,Q2,319,Kuria,KEN
+r5,Q2,320,Borana,KEN
+r5,Q2,322,Oroma,KEN
+r5,Q2,340,Sesotho,LES
+r5,Q2,341,Sephuthi,LES
+r5,Q2,342,Sethepu,LES
+r5,Q2,381,Belle,LIB
+r5,Q2,382,Dei,LIB
+r5,Q2,383,Gbandi,LIB
+r5,Q2,384,Gio,LIB
+r5,Q2,385,Gola,LIB
+r5,Q2,386,Grebo,LIB
+r5,Q2,388,Kpelle,LIB
+r5,Q2,389,Krahn,LIB
+r5,Q2,391,Lorma,LIB
+r5,Q2,392,Mandingo,LIB
+r5,Q2,396,Simple Liberian English,LIB
+r5,Q2,420,"""Official"" Malagasy",MAD
+r5,Q2,421,Malagasy dialect,MAD
+r5,Q2,460,Chitumbuka,MLW
+r5,Q2,461,Chinkhonde,MLW
+r5,Q2,462,Chilambya,MLW
+r5,Q2,464,Chiyao,MLW
+r5,Q2,465,Chingoni,MLW
+r5,Q2,466,Chilomwe,MLW
+r5,Q2,467,Chimang’anja,MLW
+r5,Q2,468,Chisena,MLW
+r5,Q2,469,Chisukwa,MLW
+r5,Q2,470,Chisenga,MLW
+r5,Q2,472,Chindali,MLW
+r5,Q2,473,Chinyakyusa,MLW
+r5,Q2,502,Bella,MLI
+r5,Q2,504,Bozo,MLI
+r5,Q2,505,Dogon,MLI
+r5,Q2,507,Kakolo,MLI
+r5,Q2,508,Khassonké,MLI
+r5,Q2,509,Malinké,MLI
+r5,Q2,510,Maure,MLI
+r5,Q2,511,Mianka,MLI
+r5,Q2,513,Peulh / Fulfude,MLI
+r5,Q2,514,Samogo,MLI
+r5,Q2,515,Senufo,MLI
+r5,Q2,516,Soninké / Sarakollé,MLI
+r5,Q2,517,Sonrhaï,MLI
+r5,Q2,518,Tamasheq,MLI
+r5,Q2,540,Makua,MOZ
+r5,Q2,541,Sena,MOZ
+r5,Q2,544,Changana,MOZ
+r5,Q2,545,Chope,MOZ
+r5,Q2,546,Bitonga,MOZ
+r5,Q2,547,Makonde,MOZ
+r5,Q2,548,Chuabo,MOZ
+r5,Q2,549,Ajaua,MOZ
+r5,Q2,551,Chibarue,MOZ
+r5,Q2,552,Chimarenge,MOZ
+r5,Q2,553,Chinhungue,MOZ
+r5,Q2,554,Chitewe,MOZ
+r5,Q2,555,Chitswa,MOZ
+r5,Q2,556,Chitawala,MOZ
+r5,Q2,557,Kimuani,MOZ
+r5,Q2,558,Lomwe,MOZ
+r5,Q2,559,Manhawa,MOZ
+r5,Q2,560,Ronga,MOZ
+r5,Q2,561,Tacuane,MOZ
+r5,Q2,562,Chimanica,MOZ
+r5,Q2,581,German,NAM
+r5,Q2,582,Nama/Damara,NAM
+r5,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),NAM
+r5,Q2,584,Otjiherero,NAM
+r5,Q2,585,Rukwangali,NAM
+r5,Q2,586,Rugririku/Rumanyo,NAM
+r5,Q2,587,Thimbukushu,NAM
+r5,Q2,588,Silozi,NAM
+r5,Q2,590,Masubia,NAM
+r5,Q2,621,Igbo,NIG
+r5,Q2,623,Pidgin English,NIG
+r5,Q2,624,Efik,NIG
+r5,Q2,625,Ebira,NIG
+r5,Q2,626,Fulani,NIG
+r5,Q2,627,Isoko,NIG
+r5,Q2,628,Ibibio,NIG
+r5,Q2,629,Kanuri,NIG
+r5,Q2,630,Tiv,NIG
+r5,Q2,631,Nupe,NIG
+r5,Q2,632,Ijaw,NIG
+r5,Q2,633,Edo,NIG
+r5,Q2,634,Igala,NIG
+r5,Q2,635,Urhobo,NIG
+r5,Q2,636,Ogoni,NIG
+r5,Q2,637,Anang,NIG
+r5,Q2,638,Ikwere,NIG
+r5,Q2,639,Idoma,NIG
+r5,Q2,640,Esan,NIG
+r5,Q2,641,Nembe,NIG
+r5,Q2,642,Jukun,NIG
+r5,Q2,643,Okrika,NIG
+r5,Q2,644,Yakhor,NIG
+r5,Q2,645,Ika,NIG
+r5,Q2,646,Okpe,NIG
+r5,Q2,647,Tarok,NIG
+r5,Q2,648,Ibaji,NIG
+r5,Q2,649,Migili,NIG
+r5,Q2,650,Gbagyi,NIG
+r5,Q2,651,Gwoza,NIG
+r5,Q2,652,Bajju,NIG
+r5,Q2,653,Ekpeye,NIG
+r5,Q2,654,Kataf,NIG
+r5,Q2,655,Mada,NIG
+r5,Q2,656,Kalabari,NIG
+r5,Q2,657,Sayawa,NIG
+r5,Q2,658,Ohafia,NIG
+r5,Q2,660,Wolof,SEN
+r5,Q2,661,Pulaar/Toucouleur,SEN
+r5,Q2,662,Serer,SEN
+r5,Q2,664,Soninke,SEN
+r5,Q2,665,Diola,SEN
+r5,Q2,666,Manjack,SEN
+r5,Q2,667,Bainouk,SEN
+r5,Q2,668,Bassari,SEN
+r5,Q2,702,Xhosa,SAF
+r5,Q2,703,Pedi/Spedi/North Sotho,SAF
+r5,Q2,704,Sesotho/Sotho/South Sotho,SAF
+r5,Q2,709,Zulu,SAF
+r5,Q2,710,Asian/Other,SAF
+r5,Q2,740,Kinyakyusa,TAN
+r5,Q2,741,Kichaga,TAN
+r5,Q2,742,Kihaya,TAN
+r5,Q2,743,Kingoni,TAN
+r5,Q2,744,Kikwere,TAN
+r5,Q2,745,Kipare,TAN
+r5,Q2,746,Kihehe,TAN
+r5,Q2,747,Kimakonde,TAN
+r5,Q2,748,Kinyamwezi,TAN
+r5,Q2,749,Kisukuma,TAN
+r5,Q2,750,Kimasai,TAN
+r5,Q2,751,Kimeru,TAN
+r5,Q2,752,Kikurya,TAN
+r5,Q2,753,Kigogo,TAN
+r5,Q2,754,Kiluguru,TAN
+r5,Q2,755,Kifipa,TAN
+r5,Q2,756,Kimanyema,TAN
+r5,Q2,757,Kinyiramba,TAN
+r5,Q2,758,Kinyaturu,TAN
+r5,Q2,759,Kibena,TAN
+r5,Q2,762,Kiiraqi,TAN
+r5,Q2,763,Kijaluo,TAN
+r5,Q2,764,Kijita,TAN
+r5,Q2,765,Kikinga,TAN
+r5,Q2,766,Kitongwe,TAN
+r5,Q2,767,Kimwera,TAN
+r5,Q2,768,Kindali,TAN
+r5,Q2,769,Kindendeule,TAN
+r5,Q2,770,Kinyambo,TAN
+r5,Q2,771,Kipogoro,TAN
+r5,Q2,772,Kisambaa,TAN
+r5,Q2,773,Kiyao,TAN
+r5,Q2,774,Kizaramo,TAN
+r5,Q2,775,Kizigua,TAN
+r5,Q2,776,Kizinza,TAN
+r5,Q2,779,Kiiraq,TAN
+r5,Q2,780,Luganda,UGA
+r5,Q2,781,Runyankole,UGA
+r5,Q2,782,Runyoro,UGA
+r5,Q2,783,Lusoga,UGA
+r5,Q2,784,Lumasaba,UGA
+r5,Q2,785,Lukhonjo,UGA
+r5,Q2,786,Lunyoro,UGA
+r5,Q2,787,Ateso,UGA
+r5,Q2,789,Alur,UGA
+r5,Q2,790,Lugbara,UGA
+r5,Q2,791,Madi,UGA
+r5,Q2,792,Japadhola,UGA
+r5,Q2,793,Lusamia,UGA
+r5,Q2,794,Lugwere,UGA
+r5,Q2,795,Rukiga,UGA
+r5,Q2,796,Rutooro,UGA
+r5,Q2,797,Langi,UGA
+r5,Q2,798,Kupsabinyi,UGA
+r5,Q2,799,Ngakarimajong,UGA
+r5,Q2,800,Rutagwenda,UGA
+r5,Q2,801,Rufumbira,UGA
+r5,Q2,802,Runyarwanda,UGA
+r5,Q2,803,Rululi,UGA
+r5,Q2,804,Aringa,UGA
+r5,Q2,805,Kumam,UGA
+r5,Q2,806,Kakwa,UGA
+r5,Q2,820,Bemba,ZAM
+r5,Q2,823,Lozi,ZAM
+r5,Q2,824,Chewa,ZAM
+r5,Q2,825,Nsenga,ZAM
+r5,Q2,826,Tumbuka,ZAM
+r5,Q2,827,Kaonde,ZAM
+r5,Q2,828,Luvale,ZAM
+r5,Q2,829,Namwanga,ZAM
+r5,Q2,830,Lunda,ZAM
+r5,Q2,831,Bisa,ZAM
+r5,Q2,832,Nkoya,ZAM
+r5,Q2,833,Mambwe,ZAM
+r5,Q2,834,Lenje,ZAM
+r5,Q2,835,Ngoni,ZAM
+r5,Q2,836,Soli,ZAM
+r5,Q2,837,Ila,ZAM
+r5,Q2,838,Ushi,ZAM
+r5,Q2,840,Mbunda,ZAM
+r5,Q2,841,Kunda,ZAM
+r5,Q2,842,Lala,ZAM
+r5,Q2,844,Lungu,ZAM
+r5,Q2,846,Senga,ZAM
+r5,Q2,847,Tokaleya,ZAM
+r5,Q2,848,Bwile,ZAM
+r5,Q2,849,Ngumbo,ZAM
+r5,Q2,851,Tabwa,ZAM
+r5,Q2,852,Goba,ZAM
+r5,Q2,861,Shona,ZIM
+r5,Q2,862,Zezuru,ZIM
+r5,Q2,863,Korekore,ZIM
+r5,Q2,864,Karanga,ZIM
+r5,Q2,865,Manyika,ZIM
+r5,Q2,868,Kalanga,ZIM
+r5,Q2,870,Vhitori,ZIM
+r5,Q2,872,Nambya,ZIM
+r5,Q2,873,Maungwe,ZIM
+r5,Q2,874,Buja,ZIM
+r5,Q2,875,Bocha,ZIM
+r5,Q2,900,Creole,MAU
+r5,Q2,901,Bhojpuri,MAU
+r5,Q2,930,Krio,SRL
+r5,Q2,932,Temne,SRL
+r5,Q2,933,Limba,SRL
+r5,Q2,934,Loko,SRL
+r5,Q2,935,Sherbro,SRL
+r5,Q2,936,Fulla,SRL
+r5,Q2,938,Kuranko,SRL
+r5,Q2,939,Madingo,SRL
+r5,Q2,941,Susu,SRL
+r5,Q2,943,Yalunka,SRL
+r5,Q2,1101,Zarrma/Songhaï,NGR
+r5,Q2,1103,Touareg,NGR
+r5,Q2,1104,Béri béri,NGR
+r5,Q2,1106,Arabe,NGR
+r5,Q2,1107,Toubou,NGR
+r5,Q2,1140,Ewé,TOG
+r5,Q2,1141,Mina (Guen),TOG
+r5,Q2,1142,Kabyè,TOG
+r5,Q2,1143,Tem (Kotokoli),TOG
+r5,Q2,1144,Ben (Moba),TOG
+r5,Q2,1145,Nawdem (Losso),TOG
+r5,Q2,1147,Ana,TOG
+r5,Q2,1148,Akposso,TOG
+r5,Q2,1149,Bassar,TOG
+r5,Q2,1152,Ouatchi,TOG
+r5,Q2,1153,Akébou,TOG
+r5,Q2,1154,Gourma,TOG
+r5,Q2,1156,Ngam-Gam,TOG
+r5,Q2,1157,Tchamba,TOG
+r5,Q2,1159,Aklobo,TOG
+r5,Q2,1180,Kirundi,BDI
+r5,Q2,1220,Foufoulde,CAM
+r5,Q2,1221,Pidgin,CAM
+r5,Q2,1222,Ewondo,CAM
+r5,Q2,1223,Bafang,CAM
+r5,Q2,1224,Douala,CAM
+r5,Q2,1225,Bafia,CAM
+r5,Q2,1226,Bafut,CAM
+r5,Q2,1227,Bagangte,CAM
+r5,Q2,1228,Bakundu,CAM
+r5,Q2,1229,Bamileke,CAM
+r5,Q2,1230,Bamoun,CAM
+r5,Q2,1231,Bandjoun,CAM
+r5,Q2,1232,Bangwa,CAM
+r5,Q2,1233,Banso,CAM
+r5,Q2,1235,Batanga,CAM
+r5,Q2,1236,Bayangi,CAM
+r5,Q2,1237,Bulu,CAM
+r5,Q2,1238,Dschang,CAM
+r5,Q2,1239,Eton,CAM
+r5,Q2,1240,Fali,CAM
+r5,Q2,1241,Fong,CAM
+r5,Q2,1242,Gbaya,CAM
+r5,Q2,1243,Guidar,CAM
+r5,Q2,1244,Guiziga,CAM
+r5,Q2,1246,Kapsiki,CAM
+r5,Q2,1247,Kotoko,CAM
+r5,Q2,1249,Mafa,CAM
+r5,Q2,1250,Maka,CAM
+r5,Q2,1251,Mankon,CAM
+r5,Q2,1252,Massa,CAM
+r5,Q2,1253,Mbouda,CAM
+r5,Q2,1254,Mboum,CAM
+r5,Q2,1255,Mobakoh,CAM
+r5,Q2,1256,Moudang,CAM
+r5,Q2,1257,Ngueba,CAM
+r5,Q2,1258,Njikwa,CAM
+r5,Q2,1259,Lamnso,CAM
+r5,Q2,1260,Abbey,CDI
+r5,Q2,1261,Abron,CDI
+r5,Q2,1262,Adjoukrou,CDI
+r5,Q2,1263,Agni,CDI
+r5,Q2,1264,Attié,CDI
+r5,Q2,1265,Avikam,CDI
+r5,Q2,1267,Baoulé,CDI
+r5,Q2,1268,Bété,CDI
+r5,Q2,1269,Dida,CDI
+r5,Q2,1270,Godié,CDI
+r5,Q2,1271,Gouro,CDI
+r5,Q2,1273,Guéré,CDI
+r5,Q2,1274,Koulango,CDI
+r5,Q2,1275,Kroumen,CDI
+r5,Q2,1279,Yacouba,CDI
+r5,Q2,1280,Wobe,CDI
+r5,Q2,1281,Ebrie,CDI
+r5,Q2,1282,Djimini,CDI
+r5,Q2,1283,Bakwe,CDI
+r5,Q2,1284,Ahizi,CDI
+r5,Q2,1285,Gniaboua,CDI
+r5,Q2,1286,Kouzie,CDI
+r5,Q2,1287,Koyaka,CDI
+r5,Q2,1288,Mbatto,CDI
+r5,Q2,1289,Mahouka,CDI
+r5,Q2,1300,Soussou,GUI
+r5,Q2,1301,Baga,GUI
+r5,Q2,1302,Poular,GUI
+r5,Q2,1303,Djalounké,GUI
+r5,Q2,1304,Diakanké,GUI
+r5,Q2,1305,Maninka,GUI
+r5,Q2,1306,konianké,GUI
+r5,Q2,1307,Kpelé,GUI
+r5,Q2,1310,Loma,GUI
+r5,Q2,1311,Manian,GUI
+r5,Q2,1312,Kissié,GUI
+r5,Q2,1313,Landouma,GUI
+r5,Q2,1314,Kouranko,GUI
+r5,Q2,1315,Kakabhe,GUI
+r5,Q2,1501,Hassaniya,MRC
+r5,Q2,1622,Isizulu,SWZ
+r5,Q2,2220,Tikari,CAM
+r5,Q2,2221,Toupouri,CAM
+r5,Q2,2222,Yamba,CAM
+r5,Q2,2740,Kisubi,TAN
+r5,Q2,2741,Kisimbiti,TAN
+r5,Q2,2742,Kikerewe,TAN
+r5,Q2,2743,Kimbulu,TAN
+r5,Q2,2744,Kisangu,TAN
+r5,Q2,2745,Kimakua,TAN
+r5,Q2,2746,Kikwaya,TAN
+r5,Q2,2747,Kisafwa,TAN
+r5,Q2,2748,Kirangi,TAN
+r5,Q2,2749,Kipangwa,TAN
+r5,Q2,2750,Kindengereko,TAN
+r5,Q2,2751,Kingindo,TAN
+r5,Q2,2752,Kinguu,TAN
+r5,Q2,2753,Kinyiha,TAN
+r5,Q2,2754,Kinyamwanga,TAN
+r5,Q2,9995,Others,BEN BFO BOT CAM CDI GUI KEN LES LIB MLI MLW MOZ NAM NIG SAF SEN TAN TOG UGA ZAM ZIM
+r5,Q2,9999,Don't know,CAM LIB MOZ NIG SRL TUN ZAM
+r6,Q103,-1,Missing,CAM CDI GHA LIB MLW SRL ZAM ZIM
+r6,Q103,1,English,BOT CAM CVE GHA KEN LES LIB MAU MLW NAM NIG SAF SRL SWZ UGA ZAM ZIM
+r6,Q103,2,French,BDI BEN BFO CAM CDI GAB GUI MAU MLI NGR SEN TOG TUN
+r6,Q103,3,Portuguese,MOZ STP
+r6,Q103,4,Swahili,KEN TAN
+r6,Q103,5,Arabic,ALG EGY MOR SUD TUN
+r6,Q103,7,Afrikaans,NAM SAF
+r6,Q103,15,Dioula,BFO CDI
+r6,Q103,16,Ewe,GHA TOG
+r6,Q103,18,Fulfuldé,BFO NGR
+r6,Q103,20,Hausa,GHA NIG
+r6,Q103,32,Tamasheq,MLI NGR
+r6,Q103,35,Yoruba,BEN NIG
+r6,Q103,100,Fon,BEN
+r6,Q103,101,Adja,BEN
+r6,Q103,102,Bariba,BEN
+r6,Q103,104,Outamari,BEN
+r6,Q103,105,Peulh,BEN
+r6,Q103,106,Lopka,BEN
+r6,Q103,140,Setswana,BOT
+r6,Q103,180,Mooré,BFO
+r6,Q103,183,Gulmacema,BFO
+r6,Q103,184,Gourounsi,BFO
+r6,Q103,220,Crioulo,CVE
+r6,Q103,221,Português,CVE
+r6,Q103,260,Akan,GHA
+r6,Q103,262,Ga/Dangbe,GHA
+r6,Q103,263,Dagbani,GHA
+r6,Q103,265,Waala,GHA
+r6,Q103,273,Dagaree,GHA
+r6,Q103,300,Kikuyu,KEN
+r6,Q103,301,Luo,KEN
+r6,Q103,302,Luhya,KEN
+r6,Q103,303,Kamba,KEN
+r6,Q103,304,Kalenjin,KEN
+r6,Q103,305,Kisii,KEN
+r6,Q103,306,Meru/Samburu,KEN
+r6,Q103,307,Maasai / Samburu,KEN
+r6,Q103,310,Somali,KEN
+r6,Q103,340,Sesotho,LES
+r6,Q103,380,Liberian English,LIB
+r6,Q103,420,Malgache « officiel »,MAD
+r6,Q103,421,Malgache avec spécificité régionale,MAD
+r6,Q103,460,Chitumbuka,MLW
+r6,Q103,463,Chichewa,MLW
+r6,Q103,501,Bambara,MLI
+r6,Q103,514,Peulh/Fulfude,MLI
+r6,Q103,517,Soninké,MLI
+r6,Q103,518,Sonrhai,MLI
+r6,Q103,540,Makua,MOZ
+r6,Q103,541,Sena,MOZ
+r6,Q103,542,Ndau,MOZ
+r6,Q103,543,Changana,MOZ
+r6,Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),NAM
+r6,Q103,582,Otjiherero,NAM
+r6,Q103,583,Rukwangali,NAM
+r6,Q103,621,Igbo,NIG
+r6,Q103,623,Pidgin English,NIG
+r6,Q103,660,Wolof,SEN
+r6,Q103,661,Pulaar/Toucouleur,SEN
+r6,Q103,665,Diola,SEN
+r6,Q103,702,Xhosa,SAF
+r6,Q103,703,Pedi/Spedi/North Sotho,SAF
+r6,Q103,704,Sesotho/Sotho/South Sotho,SAF
+r6,Q103,705,Setswana/Tswana,SAF
+r6,Q103,708,Venda,SAF
+r6,Q103,709,Zulu,SAF
+r6,Q103,780,Luganda,UGA
+r6,Q103,781,Runyankore-Rukiga,UGA
+r6,Q103,782,Runyoro-Rutooro,UGA
+r6,Q103,783,Lusoga,UGA
+r6,Q103,784,Lumasaaba,UGA
+r6,Q103,787,Ateso,UGA
+r6,Q103,788,Acholi-Langi,UGA
+r6,Q103,789,Alur,UGA
+r6,Q103,790,Lugbara,UGA
+r6,Q103,792,Japadhola,UGA
+r6,Q103,798,Kupsabinyi,UGA
+r6,Q103,799,Ngakarimajong,UGA
+r6,Q103,820,Chewa/Nyanja,ZAM
+r6,Q103,821,Bembia,ZAM
+r6,Q103,822,Tonga,ZAM
+r6,Q103,823,Kaonde,ZAM
+r6,Q103,824,Lozi,ZAM
+r6,Q103,860,Ndebele,ZIM
+r6,Q103,861,Shona,ZIM
+r6,Q103,900,Creole,MAU
+r6,Q103,930,Krio,SRL
+r6,Q103,931,Mende,SRL
+r6,Q103,932,Temne,SRL
+r6,Q103,1100,Haoussa,NGR
+r6,Q103,1101,Zarma/Songhaï,NGR
+r6,Q103,1142,Kabye,TOG
+r6,Q103,1143,Tem (Kotokoli),TOG
+r6,Q103,1144,Ben (Moba),TOG
+r6,Q103,1145,Nawdem (Losso),TOG
+r6,Q103,1180,Kirundi,BDI
+r6,Q103,1220,Foufouldé,CAM
+r6,Q103,1221,Pidgin,CAM
+r6,Q103,1222,Ewondo,CAM
+r6,Q103,1300,Soussou,GUI
+r6,Q103,1302,Poular,GUI
+r6,Q103,1305,Maninka,GUI
+r6,Q103,1307,Kpèlè,GUI
+r6,Q103,1312,Kissié,GUI
+r6,Q103,1620,siSwati,SWZ
+r6,Q103,1660,Creolo,STP
+r6,Q103,9995,Other,CAM GHA GUI MLW MOR MOZ SAF SEN SRL STP SWZ UGA ZAM
+r6,Q2,-1,Missing,LIB
+r6,Q2,1,English,BFO BOT CAM KEN LES LIB MAD MAU MLW NAM SAF SRL SUD SWZ UGA ZAM ZIM
+r6,Q2,2,French,ALG BEN BFO CAM CDI GAB GUI MAD MAU MLI NAM SEN TOG TUN
+r6,Q2,3,Portuguese,MOZ NAM SAF STP
+r6,Q2,4,Swahili,BDI KEN TAN UGA
+r6,Q2,5,Arabic,MOR TUN
+r6,Q2,6,Adja,BEN TOG
+r6,Q2,7,Afrikaans,BOT NAM SAF
+r6,Q2,8,Arabe,MLI NGR
+r6,Q2,9,Bambara,CDI MLI
+r6,Q2,10,Bassa,CAM LIB
+r6,Q2,11,Berber Language,ALG MOR
+r6,Q2,12,Bissa,BFO GHA
+r6,Q2,13,Bobo,BFO MLI
+r6,Q2,14,Chewa,MOZ ZAM
+r6,Q2,15,Dioula,BFO CDI
+r6,Q2,16,Ewe,GHA TOG
+r6,Q2,17,Fon,BEN TOG
+r6,Q2,18,Fulfuldé,BFO NGR
+r6,Q2,19,Haoussa,CAM NGR TOG
+r6,Q2,20,Hausa,GHA NIG
+r6,Q2,21,Kanuri,NGR NIG
+r6,Q2,22,Kissi,LIB SRL
+r6,Q2,23,Lobi,BFO CDI
+r6,Q2,24,Mano,GUI LIB
+r6,Q2,25,Mende,LIB SRL
+r6,Q2,26,Ndau,MOZ ZIM
+r6,Q2,27,Ndebele,SAF ZIM
+r6,Q2,28,Nyanja,MOZ ZAM
+r6,Q2,29,Peulh,BEN TOG
+r6,Q2,30,Sénoufo,BFO CDI
+r6,Q2,31,Setswana,BOT NAM
+r6,Q2,32,Tamasheq,MLI NGR
+r6,Q2,33,Tonga,ZAM ZIM
+r6,Q2,34,Venda,SAF ZIM
+r6,Q2,35,Yoruba,BEN NIG
+r6,Q2,102,Bariba,BEN
+r6,Q2,103,Dendi,BEN
+r6,Q2,105,Otamari,BEN
+r6,Q2,107,Lopka,BEN
+r6,Q2,141,Sesarwa,BOT
+r6,Q2,142,Sekgalagadi,BOT
+r6,Q2,143,Sesubia,BOT
+r6,Q2,144,Ikalanga/Sekalaka,BOT
+r6,Q2,145,Seherero,BOT
+r6,Q2,146,Sembukushu,BOT
+r6,Q2,147,Sebirwa,BOT
+r6,Q2,148,Sengologa,BOT
+r6,Q2,149,Seyei,BOT
+r6,Q2,180,Mooré,BFO
+r6,Q2,183,Gulmacema,BFO
+r6,Q2,184,Gourounsi,BFO
+r6,Q2,186,Birifor,BFO
+r6,Q2,187,Bwamu,BFO
+r6,Q2,188,Dagari,BFO
+r6,Q2,189,Fulse,BFO
+r6,Q2,190,Goin,BFO
+r6,Q2,191,Karaboro,BFO
+r6,Q2,192,Kassena,BFO
+r6,Q2,194,Marka,BFO
+r6,Q2,195,Samo,BFO
+r6,Q2,197,Sonrai,BFO
+r6,Q2,220,Crioulo,CVE
+r6,Q2,221,Português,CVE
+r6,Q2,260,Akan,GHA
+r6,Q2,262,Ga/Dangbe,GHA
+r6,Q2,263,Dagbani,GHA
+r6,Q2,265,Waala,GHA
+r6,Q2,266,Moshie,GHA
+r6,Q2,267,Mampruli,GHA
+r6,Q2,268,Likpakpaln,GHA
+r6,Q2,269,Kusal,GHA
+r6,Q2,270,Konkomba,GHA
+r6,Q2,271,Gonja,GHA
+r6,Q2,272,Frafra,GHA
+r6,Q2,273,Dagaari,GHA
+r6,Q2,275,Kotokoli,GHA
+r6,Q2,276,Gruma,GHA
+r6,Q2,277,Buli,GHA
+r6,Q2,278,Basari,GHA
+r6,Q2,300,Kikuyu,KEN
+r6,Q2,301,Luo,KEN
+r6,Q2,302,Luhya,KEN
+r6,Q2,303,Kamba,KEN
+r6,Q2,304,Kalenjin,KEN
+r6,Q2,305,Kisii,KEN
+r6,Q2,306,Meru/Embu,KEN
+r6,Q2,307,Maasai/Samburu,KEN
+r6,Q2,308,Mijikenda,KEN
+r6,Q2,309,Taita,KEN
+r6,Q2,310,Somali,KEN
+r6,Q2,311,Pokot,KEN
+r6,Q2,312,Turkana,KEN
+r6,Q2,313,Kuria,KEN
+r6,Q2,314,Garre,KEN
+r6,Q2,315,Borana,KEN
+r6,Q2,340,Sesotho,LES
+r6,Q2,341,Sephuthi,LES
+r6,Q2,342,Sethepu,LES
+r6,Q2,381,Belle,LIB
+r6,Q2,382,Dei,LIB
+r6,Q2,383,Gbandi,LIB
+r6,Q2,384,Gio,LIB
+r6,Q2,385,Gola,LIB
+r6,Q2,386,Grebo,LIB
+r6,Q2,388,Kpelle,LIB
+r6,Q2,389,Krahn,LIB
+r6,Q2,390,Kru,LIB
+r6,Q2,391,Lorma,LIB
+r6,Q2,392,Mandingo,LIB
+r6,Q2,395,Vai,LIB
+r6,Q2,396,Liberian English,LIB
+r6,Q2,420,Malgache « officiel »,MAD
+r6,Q2,421,Malgache avec spécificité régionale,MAD
+r6,Q2,460,Chitumbuka,MLW
+r6,Q2,461,Chinkhonde,MLW
+r6,Q2,462,Chilambya,MLW
+r6,Q2,463,Chichewa,MLW
+r6,Q2,464,Chiyao,MLW
+r6,Q2,465,Chingoni,MLW
+r6,Q2,466,Chilomwe,MLW
+r6,Q2,467,Chimang'anja,MLW
+r6,Q2,468,Chisena,MLW
+r6,Q2,469,Chisukwa,MLW
+r6,Q2,470,Chisenga,MLW
+r6,Q2,471,Chitonga,MLW
+r6,Q2,502,Bella,MLI
+r6,Q2,504,Bozo,MLI
+r6,Q2,505,Dafing,MLI
+r6,Q2,506,Dogon,MLI
+r6,Q2,509,Kakolo,MLI
+r6,Q2,510,Khassonké,MLI
+r6,Q2,511,Malinké,MLI
+r6,Q2,512,Maure,MLI
+r6,Q2,513,Mianka,MLI
+r6,Q2,514,Peulh/Fulfude,MLI
+r6,Q2,515,Samogo,MLI
+r6,Q2,516,Senufo,MLI
+r6,Q2,517,Soninké/Sarakolé,MLI
+r6,Q2,518,Sonrhai,MLI
+r6,Q2,540,Makua,MOZ
+r6,Q2,541,Sena,MOZ
+r6,Q2,543,Changana,MOZ
+r6,Q2,545,Chope,MOZ
+r6,Q2,546,Bitonga,MOZ
+r6,Q2,547,Makonde,MOZ
+r6,Q2,548,Chuabo,MOZ
+r6,Q2,549,Ajaua,MOZ
+r6,Q2,550,Lomue,MOZ
+r6,Q2,552,Nyungwe,MOZ
+r6,Q2,553,Xitswa,MOZ
+r6,Q2,581,German,NAM
+r6,Q2,582,Nama/Damara,NAM
+r6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),NAM
+r6,Q2,584,Otjiherero,NAM
+r6,Q2,585,Rukwangali,NAM
+r6,Q2,586,Rugririku/Rumanyo,NAM
+r6,Q2,587,Thimbukushu,NAM
+r6,Q2,588,Silozi,NAM
+r6,Q2,590,Masubia,NAM
+r6,Q2,591,San,NAM
+r6,Q2,621,Igbo,NIG
+r6,Q2,623,Pidgin English,NIG
+r6,Q2,624,Efik,NIG
+r6,Q2,625,Ebira,NIG
+r6,Q2,626,Fulani,NIG
+r6,Q2,627,Isoko,NIG
+r6,Q2,628,Ibibio,NIG
+r6,Q2,631,Nupe,NIG
+r6,Q2,632,Ijaw,NIG
+r6,Q2,633,Edo,NIG
+r6,Q2,634,Igala,NIG
+r6,Q2,635,Urhobo,NIG
+r6,Q2,636,Ogoni,NIG
+r6,Q2,637,Anang,NIG
+r6,Q2,638,Ikwere,NIG
+r6,Q2,639,Idoma,NIG
+r6,Q2,640,Esan,NIG
+r6,Q2,641,Nembe,NIG
+r6,Q2,642,Alago,NIG
+r6,Q2,643,Degema,NIG
+r6,Q2,644,Eggon,NIG
+r6,Q2,645,Jukun,NIG
+r6,Q2,646,Kagoma,NIG
+r6,Q2,647,Laru,NIG
+r6,Q2,648,Kalabari,NIG
+r6,Q2,649,Nwangavul,NIG
+r6,Q2,650,Tangale,NIG
+r6,Q2,651,Tarok,NIG
+r6,Q2,652,Waja,NIG
+r6,Q2,653,Yala,NIG
+r6,Q2,660,Wolof,SEN
+r6,Q2,661,Pulaar/Toucouleur,SEN
+r6,Q2,662,Serer,SEN
+r6,Q2,663,Mandinka/Bambara,SEN
+r6,Q2,664,Soninke,SEN
+r6,Q2,665,Diola,SEN
+r6,Q2,666,Manjack,SEN
+r6,Q2,668,Bassari,SEN
+r6,Q2,702,Xhosa,SAF
+r6,Q2,703,Pedi/North Sotho,SAF
+r6,Q2,704,Sotho/South Sotho,SAF
+r6,Q2,705,Tswana,SAF
+r6,Q2,706,Shangaan/Tsonga,SAF
+r6,Q2,707,Swazi,SAF
+r6,Q2,709,Zulu,SAF
+r6,Q2,710,Asian/Indian,SAF
+r6,Q2,740,Kinyakyusa,TAN
+r6,Q2,741,Kichaga,TAN
+r6,Q2,742,Kihaya,TAN
+r6,Q2,743,Kingoni,TAN
+r6,Q2,744,Kikwere,TAN
+r6,Q2,745,Kipare,TAN
+r6,Q2,746,Kihehe,TAN
+r6,Q2,747,Kimakonde,TAN
+r6,Q2,748,Kinyamwezi,TAN
+r6,Q2,749,Kisukuma,TAN
+r6,Q2,750,Kimasai,TAN
+r6,Q2,751,Kimeru,TAN
+r6,Q2,752,Kikurya,TAN
+r6,Q2,753,Kigogo,TAN
+r6,Q2,754,Kiluguru,TAN
+r6,Q2,755,Kifipa,TAN
+r6,Q2,756,Kimanyema,TAN
+r6,Q2,757,Kinyiramba,TAN
+r6,Q2,758,Kinyaturu,TAN
+r6,Q2,759,Kiarusha,TAN
+r6,Q2,760,Kibena,TAN
+r6,Q2,761,Kiha,TAN
+r6,Q2,762,Kiiraq,TAN
+r6,Q2,763,Kijaluo,TAN
+r6,Q2,764,Kijita,TAN
+r6,Q2,765,Kikaguru,TAN
+r6,Q2,766,Kimakuwa,TAN
+r6,Q2,767,Kimatengo,TAN
+r6,Q2,768,Kimbulu,TAN
+r6,Q2,769,Kimwera,TAN
+r6,Q2,770,Kindali,TAN
+r6,Q2,771,Kindamba,TAN
+r6,Q2,772,Kindendeule,TAN
+r6,Q2,773,Kindengereko,TAN
+r6,Q2,774,Kingindo,TAN
+r6,Q2,775,Kinguu,TAN
+r6,Q2,776,Kinyambo,TAN
+r6,Q2,777,Kinyiha,TAN
+r6,Q2,778,Kipogoro,TAN
+r6,Q2,779,Kirangi,TAN
+r6,Q2,780,Luganda,UGA
+r6,Q2,781,Runyankole,UGA
+r6,Q2,782,Runyoro,UGA
+r6,Q2,783,Lusoga,UGA
+r6,Q2,784,Lumasaaba,UGA
+r6,Q2,785,Lukhonjo,UGA
+r6,Q2,786,Lunyole,UGA
+r6,Q2,787,Ateso,UGA
+r6,Q2,788,Acholi,UGA
+r6,Q2,789,Alur,UGA
+r6,Q2,790,Lugbara,UGA
+r6,Q2,791,Madi,UGA
+r6,Q2,792,Japadhola,UGA
+r6,Q2,793,Lusamia,UGA
+r6,Q2,794,Lugwere,UGA
+r6,Q2,795,Rukiga,UGA
+r6,Q2,796,Rutooro,UGA
+r6,Q2,797,Langi,UGA
+r6,Q2,798,Kupsabinyi,UGA
+r6,Q2,799,Ngakarimajong,UGA
+r6,Q2,800,Rufumbira,UGA
+r6,Q2,820,Bemba,ZAM
+r6,Q2,823,Lozi,ZAM
+r6,Q2,825,Nsenga,ZAM
+r6,Q2,826,Tumbuka,ZAM
+r6,Q2,827,Kaonde,ZAM
+r6,Q2,828,Luvale,ZAM
+r6,Q2,829,Namwanga,ZAM
+r6,Q2,830,Lunda,ZAM
+r6,Q2,831,Bisa,ZAM
+r6,Q2,832,Nkoya,ZAM
+r6,Q2,833,Mambwe,ZAM
+r6,Q2,834,Lenje,ZAM
+r6,Q2,835,Ngoni,ZAM
+r6,Q2,836,Soli,ZAM
+r6,Q2,837,Ila,ZAM
+r6,Q2,838,Ushi,ZAM
+r6,Q2,839,Chokwe,ZAM
+r6,Q2,840,Mbunda,ZAM
+r6,Q2,841,Kunda,ZAM
+r6,Q2,842,Lala,ZAM
+r6,Q2,843,Lamba,ZAM
+r6,Q2,844,Lungu,ZAM
+r6,Q2,845,Nyika,ZAM
+r6,Q2,846,Senga,ZAM
+r6,Q2,847,Tokaleya,ZAM
+r6,Q2,851,Tabwa,ZAM
+r6,Q2,861,Shona,ZIM
+r6,Q2,862,Zezuru,ZIM
+r6,Q2,863,Korekore,ZIM
+r6,Q2,864,Karanga,ZIM
+r6,Q2,865,Manyika,ZIM
+r6,Q2,868,Kalanga,ZIM
+r6,Q2,870,Buja,ZIM
+r6,Q2,871,Shangani,ZIM
+r6,Q2,872,Suthu,ZIM
+r6,Q2,900,Creole,MAU
+r6,Q2,930,Krio,SRL
+r6,Q2,932,Temne,SRL
+r6,Q2,933,Limba,SRL
+r6,Q2,934,Loko,SRL
+r6,Q2,935,Sherbo,SRL
+r6,Q2,936,Fulla,SRL
+r6,Q2,937,Kono,SRL
+r6,Q2,938,Kuranko,SRL
+r6,Q2,939,Madingo,SRL
+r6,Q2,941,Susu,SRL
+r6,Q2,943,Yalunka,SRL
+r6,Q2,1101,Zarma/Songhaï,NGR
+r6,Q2,1105,Goumantchéma,NGR
+r6,Q2,1141,Mina (Guen),TOG
+r6,Q2,1142,Kabye,TOG
+r6,Q2,1143,Tem (Kotokoli),TOG
+r6,Q2,1144,Ben (Moba),TOG
+r6,Q2,1145,Nawdem (Losso),TOG
+r6,Q2,1146,Lama (Lamba),TOG
+r6,Q2,1147,Ife (Ana),TOG
+r6,Q2,1148,Ikposso (Akposso),TOG
+r6,Q2,1149,N'tcha (Bassar),TOG
+r6,Q2,1151,Akebou,TOG
+r6,Q2,1152,Gourma,TOG
+r6,Q2,1153,Konkomba,TOG
+r6,Q2,1154,Ngam-gam,TOG
+r6,Q2,1155,Tchamba,TOG
+r6,Q2,1157,Ouatchi,TOG
+r6,Q2,1160,Tchpkossi (Anoufom),TOG
+r6,Q2,1180,Kirundi,BDI
+r6,Q2,1220,Foufouldé,CAM
+r6,Q2,1221,Pidgin,CAM
+r6,Q2,1222,Ewondo,CAM
+r6,Q2,1223,Bafang,CAM
+r6,Q2,1224,Douala,CAM
+r6,Q2,1225,Bafia,CAM
+r6,Q2,1226,Bafut,CAM
+r6,Q2,1227,Bangangté,CAM
+r6,Q2,1228,Bakundu,CAM
+r6,Q2,1229,Bamileke,CAM
+r6,Q2,1230,Bamoun,CAM
+r6,Q2,1231,Bandjoun,CAM
+r6,Q2,1232,Bangwa,CAM
+r6,Q2,1233,Banso,CAM
+r6,Q2,1235,Batanga,CAM
+r6,Q2,1236,Bayangi,CAM
+r6,Q2,1237,Bulu,CAM
+r6,Q2,1238,Dschang,CAM
+r6,Q2,1239,Eton,CAM
+r6,Q2,1240,Fali,CAM
+r6,Q2,1241,Fong,CAM
+r6,Q2,1242,Gbaya,CAM
+r6,Q2,1243,Guider,CAM
+r6,Q2,1244,Guiziga,CAM
+r6,Q2,1246,Kapsiki,CAM
+r6,Q2,1247,Mafa,CAM
+r6,Q2,1248,Maka,CAM
+r6,Q2,1249,Mankon,CAM
+r6,Q2,1250,Massa,CAM
+r6,Q2,1251,Mbouda,CAM
+r6,Q2,1252,Mboum,CAM
+r6,Q2,1254,Moudan,CAM
+r6,Q2,1255,Ngueba,CAM
+r6,Q2,1257,Lamnso,CAM
+r6,Q2,1258,Tikari,CAM
+r6,Q2,1259,Toupouri,CAM
+r6,Q2,1260,Abbey,CDI
+r6,Q2,1261,Abron,CDI
+r6,Q2,1262,Adjoukrou,CDI
+r6,Q2,1263,Agny,CDI
+r6,Q2,1264,Attié,CDI
+r6,Q2,1265,Avikam,CDI
+r6,Q2,1267,Baoulé,CDI
+r6,Q2,1268,Bété,CDI
+r6,Q2,1269,Dida,CDI
+r6,Q2,1270,Godié,CDI
+r6,Q2,1271,Gouro,CDI
+r6,Q2,1272,Guéré,CDI
+r6,Q2,1273,Koulango,CDI
+r6,Q2,1274,Kroumen,CDI
+r6,Q2,1278,Yacouba,CDI
+r6,Q2,1279,Djimini,CDI
+r6,Q2,1280,Gnanboua,CDI
+r6,Q2,1281,Koyaka,CDI
+r6,Q2,1282,Wobe,CDI
+r6,Q2,1300,Soussou,GUI
+r6,Q2,1301,Poular,GUI
+r6,Q2,1302,Maninka,GUI
+r6,Q2,1303,Kpèlè,GUI
+r6,Q2,1304,Loma,GUI
+r6,Q2,1305,Kissié,GUI
+r6,Q2,1420,Algerian Arabic,ALG
+r6,Q2,1460,Egyptian Arabic,EGY
+r6,Q2,1501,Alhassania,MOR
+r6,Q2,1540,Sudanese Arabic,SUD
+r6,Q2,1541,Nubian Language,SUD
+r6,Q2,1620,siSwati,SWZ
+r6,Q2,1621,Shangaan,SWZ
+r6,Q2,1660,Creolo,STP
+r6,Q2,1661,Forro,STP
+r6,Q2,1662,Angolar,STP
+r6,Q2,1700,Fang,GAB
+r6,Q2,1701,Punu/Mériè,GAB
+r6,Q2,1702,Kota,GAB
+r6,Q2,1703,Mbédè,GAB
+r6,Q2,1704,Nzébi/Métié,GAB
+r6,Q2,1705,Myénè,GAB
+r6,Q2,1706,Tsogho,GAB
+r6,Q2,1707,Kélè,GAB
+r6,Q2,2220,Yamba,CAM
+r6,Q2,2221,Yabassi,CAM
+r6,Q2,2222,Bene,CAM
+r6,Q2,2740,Kisafwa,TAN
+r6,Q2,2741,Kisambaa,TAN
+r6,Q2,2742,Kishirazi,TAN
+r6,Q2,2743,Kisubi,TAN
+r6,Q2,2744,Kisumbwa,TAN
+r6,Q2,2745,Kiyao,TAN
+r6,Q2,2746,Kizanaki,TAN
+r6,Q2,2747,Kizaramo,TAN
+r6,Q2,2748,Kizigua,TAN
+r6,Q2,9995,Other,BEN BFO BOT CAM CDI GAB GHA GUI KEN MAU MLI MLW MOZ NAM NGR NIG SAF SEN SUD SWZ TAN TOG UGA ZAM ZIM
+r6,Q2,9999,Don't know,CAM LIB MLW MOZ STP SUD TAN ZAM

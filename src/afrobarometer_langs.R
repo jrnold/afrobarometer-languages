@@ -11,9 +11,15 @@ library("stringr")
 library("magrittr")
 
 OUTPUT <- find_rstudio_root_file("data", "afrobarometer_langs.csv")
+
 INPUT <-
-  find_rstudio_root_file("external", "afrobarometer",
-                         "merged_r6_data_2016_36countries2.sav")
+  c("merged_r1_data.sav",
+    "merged_r2_data.sav",
+    "merged_r3_data.sav",
+    "merged_r4_data.sav",
+    "merged-round-5-data-34-countries-2011-2013-last-update-july-2015.sav",
+    "merged_r6_data_2016_36countries2.sav") %>%
+  map(function(x) find_rstudio_root_file("external", "afrobarometer", x))
 
 
 split_lang_names <- function(x) {
@@ -40,49 +46,118 @@ metadata <-
                  "Q103 (survey language)")
   )
 
-afrobarometer_langs <- function(input, output) {
-
-  afrobarometer <- haven::read_sav(input)
-
-  q2 <-
-    transmute(
-      afrobarometer,
-      lang_id = as.integer(Q2),
-      lang_name = as.character(haven::as_factor(Q2)),
-      question = "Q2",
-      country = str_sub(RESPNO, 1, 3)
-    ) %>%
-    distinct()
-
-  q103 <-
-    transmute(
-      afrobarometer,
-      lang_id = as.integer(Q103),
-      lang_name = as.character(haven::as_factor(Q103)),
-      question = "Q103",
-      country = str_sub(RESPNO, 1, 3)
-    ) %>%
-    distinct()
-
-  bind_rows(q2, q103) %>%
-    group_by(lang_id, question, lang_name) %>%
+afrobarometer_langs <- function(x, rnd) {
+  x <- haven::read_sav(x)
+  if (rnd %in% 1) {
+    transmute(x,
+              lang_id = as.integer(language),
+              lang_name = as.character(haven::as_factor(language)),
+              question = "language",
+              country = str_sub(casenumb, 1, 3)) %>%
+      distinct() %>%
+      group_by(question, lang_id, lang_name) %>%
+      summarise(countries = list(country)) %>%
+      mutate(round = paste0("r", rnd)) %>%
+      ungroup()
+  } else if (rnd %in% 2) {
+    x %>% {
+      bind_rows(
+        transmute(.,
+                  lang_id = as.integer(q83),
+                  lang_name = as.character(haven::as_factor(q83)),
+                  question = "q83",
+                  country = str_sub(respno, 1, 3)
+        ),
+        transmute(.,
+                  lang_id = as.integer(q97),
+                  lang_name = as.character(haven::as_factor(q97)),
+                  question = "q97",
+                  country = str_sub(respno, 1, 3)
+        )
+      )
+    } %>%
+    distinct() %>%
+    group_by(question, lang_id, lang_name) %>%
     summarise(countries = list(country)) %>%
-    ungroup() %>%
-    #split languages
-    mutate(languages = split_lang_names(lang_name),
-           is_language = lang_id > 0 & lang_id < 9000)
+    mutate(round = paste0("r", rnd)) %>%
+    ungroup()
+  } else if (rnd %in% 3) {
+    x %>% {
+      bind_rows(
+        transmute(.,
+                  lang_id = as.integer(q3),
+                  lang_name = as.character(haven::as_factor(q3)),
+                  question = "q3",
+                  country = str_sub(respno, 1, 3)
+        ),
+        transmute(.,
+                  lang_id = as.integer(q103),
+                  lang_name = as.character(haven::as_factor(q103)),
+                  question = "q103",
+                  country = str_sub(respno, 1, 3)
+        )
+      )
+    } %>%
+    distinct() %>%
+    group_by(question, lang_id, lang_name) %>%
+    summarise(countries = list(country)) %>%
+    mutate(round = paste0("r", rnd)) %>%
+    ungroup()
+  } else if (rnd %in% 4) {
+    x %>% {
+      bind_rows(
+        transmute(.,
+                  lang_id = as.integer(Q3),
+                  lang_name = as.character(haven::as_factor(Q3)),
+                  question = "Q3",
+                  country = str_sub(RESPNO, 1, 3)
+        ),
+        transmute(.,
+                  lang_id = as.integer(Q103),
+                  lang_name = as.character(haven::as_factor(Q103)),
+                  question = "Q103",
+                  country = str_sub(RESPNO, 1, 3)
+        )
+      )
+    } %>%
+      distinct() %>%
+      group_by(question, lang_id, lang_name) %>%
+      summarise(countries = list(country)) %>%
+      mutate(round = paste0("r", rnd)) %>%
+      ungroup()
+  } else if (rnd %in% c(5, 6)) {
+    x %>% {
+      bind_rows(
+        transmute(.,
+          lang_id = as.integer(Q2),
+          lang_name = as.character(haven::as_factor(Q2)),
+          question = "Q2",
+          country = str_sub(RESPNO, 1, 3)
+        ),
+        transmute(.,
+          lang_id = as.integer(Q103),
+          lang_name = as.character(haven::as_factor(Q103)),
+          question = "Q103",
+          country = str_sub(RESPNO, 1, 3)
+        )
+      )
+    } %>%
+    distinct() %>%
+    group_by(question, lang_id, lang_name) %>%
+    summarise(countries = list(country)) %>%
+    mutate(round = paste0("r", rnd)) %>%
+    ungroup()
+  }
 }
 
-write_afroarometer_langs <- function(x, dst) {
+write_afrobarometer_langs <- function(x, dst) {
   x %>%
-  mutate(countries = map_chr(countries, function(x) str_c(x, collapse = " ")),
-         languages = map_chr(languages, function(x) {
-           str_c(str_trim(x), collapse = ";")
-         })) %>%
-  select(question, lang_id, lang_name, everything()) %>%
-  arrange(question, lang_id) %>%
+  mutate(countries = map_chr(countries, function(x) str_c(x, collapse = " "))) %>%
+  select(round, question, lang_id, lang_name, countries) %>%
+  arrange(round, question, lang_id) %>%
   write_csv(path = dst)
 }
 
-afrobarometer_langs(INPUT) %>%
-  write_afroarometer_langs(OUTPUT)
+INPUT %>%
+  {map2_df(., seq_along(.), afrobarometer_langs)} %>%
+  write_afrobarometer_langs(OUTPUT)
