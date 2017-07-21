@@ -1516,18 +1516,18 @@
   question:
   - Q2
 - iso_639_3:
-  - mis
+  - bwg
   lang_id: 551
   lang_name: Chibarue
   question:
   - Q2
+  note: |
+    Barwe. https://www.ethnologue.com/language/bwg
 - iso_639_3:
   - vmr
   lang_id: 552
   lang_name: Chimarenge
-  note: 'Name similar to Marenje
-
-    '
+  note: Name similar to Marenje
   question:
   - Q2
 - iso_639_3:

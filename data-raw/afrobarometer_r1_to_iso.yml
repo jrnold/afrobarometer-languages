@@ -4,17 +4,20 @@
   lang_name: Afrikaans
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nya
   lang_id: 2
   lang_name: Chewa
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nyu
   lang_id: 3
   lang_name: Chinyungwe
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - swk
   lang_id: 4
   lang_name: Chisena
   question:
@@ -24,32 +27,38 @@
   lang_name: Damara
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - eng
   lang_id: 6
   lang_name: English
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - deu
   lang_id: 7
   lang_name: German
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - naq
   lang_id: 8
   lang_name: Nama
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nde
   lang_id: 9
   lang_name: Ndebele
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - kua
   lang_id: 10
   lang_name: Oshiwambo
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - her
   lang_id: 11
   lang_name: Otjiherero
   question:
@@ -60,7 +69,8 @@
   lang_name: Portueguese
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - kwn
   lang_id: 13
   lang_name: Rukwangali
   question:
@@ -71,12 +81,14 @@
   lang_name: Sesotho,Sotho, S.Sotho
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - tsn
   lang_id: 15
   lang_name: Setswana/Tswana
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - loz
   lang_id: 16
   lang_name: Silozi
   question:
@@ -86,32 +98,38 @@
   lang_name: Shangaan/Tsonga/Ronga/Tswa
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - sna
   lang_id: 18
   lang_name: Shona
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - swh
   lang_id: 19
   lang_name: Swahili
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ssw
   lang_id: 20
   lang_name: Swazi
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ven
   lang_id: 21
   lang_name: Venda
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - xho
   lang_id: 22
   lang_name: Xhosa
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - zul
   lang_id: 23
   lang_name: Zulu
   question:
@@ -122,62 +140,78 @@
   lang_name: Sepedi/N.Sotho
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - bem
   lang_id: 26
   lang_name: Bemba
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - kqn
   lang_id: 27
   lang_name: Kaonde
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - lue
   lang_id: 29
   lang_name: Luvale
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nya
   lang_id: 30
   lang_name: Nyanja
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - toi
   lang_id: 31
   lang_name: Tonga
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nse
+  - nya
+  - tum
   lang_id: 32
   lang_name: Ngoni
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ngl
   lang_id: 33
   lang_name: Lomwe
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - tum
   lang_id: 34
   lang_name: Tumbuka
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - yao
   lang_id: 35
   lang_name: Yao
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nyy
   lang_id: 37
   lang_name: Nkhonde
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - lai
   lang_id: 38
   lang_name: Lambya
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - aka
+  - fat
+  - twi
   lang_id: 41
   lang_name: Akan
   question:
@@ -192,27 +226,32 @@
   lang_name: Dagbane
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ewe
   lang_id: 44
   lang_name: Ewe
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - gaa
   lang_id: 45
   lang_name: Ga
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - hau
   lang_id: 46
   lang_name: Hausa
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - gur
   lang_id: 47
   lang_name: Frafra
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nzi
   lang_id: 48
   lang_name: Nzema
   question:
@@ -222,7 +261,8 @@
   lang_name: Dangbe
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - wss
   lang_id: 51
   lang_name: Wassa
   question:
@@ -232,17 +272,34 @@
   lang_name: Ahanta
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - afu
+  - cpn
+  - ncu
+  - doy
+  - nnu
+  - acd
+  - gjn
+  - gwx
+  - kph
+  - kye
+  - lar
+  - naw
+  - nlu
+  - nkq
+  - nko
   lang_id: 53
   lang_name: Guan
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - xsm
   lang_id: 54
   lang_name: Kasem
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - kus
   lang_id: 55
   lang_name: Kusasi
   question:
@@ -252,12 +309,14 @@
   lang_name: Moar
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - bim
   lang_id: 57
   lang_name: Bimoba
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - xon
   lang_id: 58
   lang_name: Konkomba
   question:
@@ -307,7 +366,8 @@
   lang_name: Zabagle
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - gjn
   lang_id: 68
   lang_name: Gonja
   question:
@@ -352,7 +412,8 @@
   lang_name: Brong
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - bud
   lang_id: 77
   lang_name: Basari
   question:
@@ -382,7 +443,8 @@
   lang_name: Nkona
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - bam
   lang_id: 84
   lang_name: Bambara
   question:
@@ -392,42 +454,79 @@
   lang_name: Fulfulde/Peul
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - spp
   lang_id: 86
   lang_name: Senufo
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - snk
   lang_id: 87
   lang_name: Soninke
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - mwk
+  - mlq
   lang_id: 88
   lang_name: Malinke
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - hmb
+  - khq
+  - ses
   lang_id: 89
   lang_name: Sonrhai
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - aqd
+  - dbg
+  - dbt
+  - dbu
+  - dbw
+  - dds
+  - dgb
+  - djm
+  - dmb
+  - dti
+  - dtk
+  - dtm
+  - dto
+  - dts
+  - dtt
+  - dtu
+  - dym
+  - nzz
+  - tde
   lang_id: 90
   lang_name: Dogon
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - taq
+  - thv
+  - ttq
   lang_id: 91
   lang_name: Tamasheq
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - bbo
+  - bmq
+  - box
+  - bwq
   lang_id: 92
   lang_name: Bobo
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - boo
+  - boz
+  - bze
+  - bzx
   lang_id: 93
   lang_name: Bozo
   question:
@@ -437,47 +536,56 @@
   lang_name: Khasonke
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - mey
   lang_id: 95
   lang_name: Arabe
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - mey
   lang_id: 96
   lang_name: Maure
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - dux
   lang_id: 98
   lang_name: Samoko
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ses
   lang_id: 99
   lang_name: Bella
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - myk
   lang_id: 100
   lang_name: Mianka
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - rkm
   lang_id: 101
   lang_name: Dafing
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - mos
   lang_id: 102
   lang_name: Mossi
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - hau
   lang_id: 103
   lang_name: Hausa
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - yor
   lang_id: 104
   lang_name: Yoruba
   question:
@@ -487,22 +595,30 @@
   lang_name: Ibo
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - tiv
   lang_id: 106
   lang_name: Tiv
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ijc
+  - ijs
   lang_id: 107
   lang_name: Ijaw
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nup
   lang_id: 108
   lang_name: Nupe
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - bms
+  - kby
+  - knc
+  - krt
   lang_id: 109
   lang_name: Kanuri
   question:
@@ -512,7 +628,8 @@
   lang_name: Ibibio-Efik
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - bin
   lang_id: 111
   lang_name: Edo
   question:
@@ -522,7 +639,8 @@
   lang_name: Irobo/Urhobo
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - idu
   lang_id: 114
   lang_name: Idoma
   question:
@@ -542,12 +660,14 @@
   lang_name: Knale
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - igl
   lang_id: 118
   lang_name: Igala
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - bky
   lang_id: 119
   lang_name: Boki
   question:
@@ -562,7 +682,8 @@
   lang_name: Ikpon
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - iso
   lang_id: 122
   lang_name: Isoko
   question:
@@ -587,12 +708,14 @@
   lang_name: Annag
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - its
   lang_id: 127
   lang_name: Itsekiri
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ikk
   lang_id: 128
   lang_name: Ika
   question:
@@ -637,7 +760,8 @@
   lang_name: Esako
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - oke
   lang_id: 137
   lang_name: Okpe
   question:
@@ -657,12 +781,14 @@
   lang_name: Ibani
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ijn
   lang_id: 141
   lang_name: Kalabari
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ogo
   lang_id: 142
   lang_name: Ogoni
   question:
@@ -677,7 +803,8 @@
   lang_name: Berieberi
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - fub
   lang_id: 146
   lang_name: Fulani
   question:
@@ -697,7 +824,8 @@
   lang_name: Nkwana
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - bwr
   lang_id: 150
   lang_name: Babur
   question:
@@ -717,7 +845,8 @@
   lang_name: Kabba/Koro
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ego
   lang_id: 154
   lang_name: Eggon
   question:
@@ -752,7 +881,8 @@
   lang_name: Kibaku
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - maf
   lang_id: 161
   lang_name: Mafa
   question:
@@ -817,7 +947,8 @@
   lang_name: Mwaghauw
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - pym
   lang_id: 174
   lang_name: Pyem
   question:
@@ -837,7 +968,8 @@
   lang_name: Nanba/Wanba
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - jjr
   lang_id: 178
   lang_name: Jarawa
   question:
@@ -847,17 +979,20 @@
   lang_name: Katap
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - tan
   lang_id: 180
   lang_name: Tangale
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - wja
   lang_id: 181
   lang_name: Waja
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - jbu
   lang_id: 182
   lang_name: Jukun
   question:
@@ -882,7 +1017,9 @@
   lang_name: Kare Kare
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - gbr
+  - gby
   lang_id: 187
   lang_name: Gwari
   question:
@@ -892,77 +1029,94 @@
   lang_name: Rukuba
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - alz
   lang_id: 189
   lang_name: Alur
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - teo
   lang_id: 190
   lang_name: Ateso
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - keo
   lang_id: 191
   lang_name: Kakwa
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - kin
   lang_id: 192
   lang_name: Kinyarwanda
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - swc
+  - swh
   lang_id: 193
   lang_name: Kiswahili
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - lug
   lang_id: 194
   lang_name: Luganda
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - lgg
   lang_id: 195
   lang_name: Lugbara
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - myx
   lang_id: 196
   lang_name: Lumasaba
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - luo
   lang_id: 197
   lang_name: Luo
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - xog
   lang_id: 198
   lang_name: Lusoga
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - mhi
+  - snm
   lang_id: 199
   lang_name: Madi
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nyn
   lang_id: 200
   lang_name: Ruhororo
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - cgg
   lang_id: 201
   lang_name: Rukiga
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nyo
   lang_id: 202
   lang_name: Runyoro
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - ttj
   lang_id: 203
   lang_name: Rutooro
   question:
@@ -972,12 +1126,14 @@
   lang_name: Ruyankole
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - lsm
   lang_id: 205
   lang_name: Samia-Lugwe
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - swh
   lang_id: 206
   lang_name: Swahili
   question:
@@ -987,27 +1143,32 @@
   lang_name: Chagga
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - kuj
   lang_id: 208
   lang_name: Kurya
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nyy
   lang_id: 209
   lang_name: Nyakyusa
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - asa
   lang_id: 210
   lang_name: Pare
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - hay
   lang_id: 211
   lang_name: Haya
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - suk
   lang_id: 212
   lang_name: Sukuma
   question:
@@ -1017,7 +1178,8 @@
   lang_name: Luguru
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - heh
   lang_id: 214
   lang_name: Hehe
   question:
@@ -1032,12 +1194,16 @@
   lang_name: Mbulu
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - kde
   lang_id: 217
   lang_name: Makonde
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nse
+  - nya
+  - tum
   lang_id: 218
   lang_name: Ngoni
   question:
@@ -1047,7 +1213,8 @@
   lang_name: Fipa
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - nym
   lang_id: 220
   lang_name: Nyamwezi
   question:
@@ -1057,7 +1224,8 @@
   lang_name: Jaluo
   question:
   - language
-- iso_639_3: null
+- iso_639_3:
+  - zaj
   lang_id: 222
   lang_name: Zaramo
   question:

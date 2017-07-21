@@ -11,78 +11,134 @@ library("stringr")
 library("magrittr")
 
 OUTPUT <- find_rstudio_root_file("data", "afrobarometer_langs.csv")
+
 INPUT <-
-  find_rstudio_root_file("external", "afrobarometer",
-                         "merged_r6_data_2016_36countries2.sav")
+  list("r1" = list("external", "afrobarometer", "merged_r1_data.sav"),
+    "r2" = list("external", "afrobarometer", "merged_r2_data.sav"),
+    "r3" = list("external", "afrobarometer", "merged_r3_data.sav"),
+    "r4" = list("external", "afrobarometer", "merged_r4_data.sav"),
+    "r5" = list("external", "afrobarometer", "merged-round-5-data-34-countries-2011-2013-last-update-july-2015.sav"),
+    "r6" = list("external", "afrobarometer", "merged_r6_data_2016_36countries2.sav"),
+    "countries" = list("data-raw", "afrobarometer_countries.csv")) %>%
+  map_chr(function(x) invoke(find_rstudio_root_file, x))
 
-
-split_lang_names <- function(x) {
-  x <- str_split(x, "[(/]")
-  x <- map(x, str_replace_all, "[)]", "")
-  x
+afrobarometer_langs <- function(filename, rnd) {
+  x <- haven::read_sav(filename)
+  if (rnd %in% "r1") {
+    langs <- enframe(attr(x$language, "labels")) %>%
+      mutate(question = "language")
+    countries <-
+      transmute(x,
+                countries = as.integer(country),
+                language = as.integer(language),
+                question = "language") %>%
+      distinct()
+  } else if (rnd %in% "r2") {
+    langs <- bind_rows(
+      enframe(attr(x$q83, "labels")) %>%
+        mutate(question = "q83"),
+      enframe(attr(x$q97, "labels")) %>%
+        mutate(question = "q97")
+    )
+    countries <- bind_rows(
+      transmute(x,
+                countries = as.integer(country),
+                language = as.integer(q83),
+                question = "q83") %>%
+        distinct(),
+      transmute(x,
+                countries = as.integer(country),
+                language = as.integer(q97),
+                question = "q97") %>%
+        distinct()
+    )
+  } else if (rnd %in% "r3") {
+    langs <- bind_rows(
+      enframe(attr(x$q3, "labels")) %>%
+        mutate(question = "q3"),
+      enframe(attr(x$q103, "labels")) %>%
+        mutate(question = "q103")
+    )
+    countries <- bind_rows(
+      transmute(x,
+                countries = as.integer(country),
+                language = as.integer(q3),
+                question = "q3") %>%
+        distinct(),
+      transmute(x,
+                countries = as.integer(country),
+                language = as.integer(q103),
+                question = "q103") %>%
+        distinct()
+    )
+  } else if (rnd %in% "r4") {
+    langs <- bind_rows(
+      enframe(attr(x$Q3, "labels")) %>%
+        mutate(question = "Q3"),
+      enframe(attr(x$Q103, "labels")) %>%
+        mutate(question = "Q103")
+    )
+    countries <- bind_rows(
+      transmute(x,
+                countries = as.integer(COUNTRY),
+                language = as.integer(Q3),
+                question = "Q3") %>%
+        distinct(),
+      transmute(x,
+                countries = as.integer(COUNTRY),
+                language = as.integer(Q103),
+                question = "Q103") %>%
+        distinct()
+    )
+  } else if (rnd %in% c("r5", "r6")) {
+    langs <- bind_rows(
+      enframe(attr(x$Q2, "labels")) %>%
+        mutate(question = "Q2"),
+      enframe(attr(x$Q103, "labels")) %>%
+        mutate(question = "Q103")
+    )
+    countries <- bind_rows(
+      transmute(x,
+                countries = as.integer(COUNTRY),
+                language = as.integer(Q2),
+                question = "Q2") %>%
+        distinct(),
+      transmute(x,
+                countries = as.integer(COUNTRY),
+                language = as.integer(Q103),
+                question = "Q103") %>%
+        distinct()
+    )
+  }
+  left_join(langs, countries,
+            by = c("question", value = "language")) %>%
+    mutate(round = rnd)
 }
 
-metadata <-
-  list(
-    lang_id = str_c("Language number, as in the Afrobarometer documentation"),
-    question = str_c("Question number in Afrobarometer"),
-    lang_name = str_c("Language name, as in the Afrobarometer documentation"),
-    countries = str_c("Countries in which the language appears on the ",
-                      "questionnaire."),
-    languages = str_c("Distinct language names. ",
-                      "This variable splits `lang_name` when there are multiple",
-                      " languages listed."),
-    is_language = str_c("Does the value refer to a language",
-                        "as opposed to values like \"Other\", \"No response\""),
-    NULL = str_c("Languages appearing in Afrobarometer round 6.\n",
-                 "This data frame include the language numbers, and names of ",
-                 "languages in Q2 (speaker language) and ",
-                 "Q103 (survey language)")
-  )
-
-afrobarometer_langs <- function(input, output) {
-
-  afrobarometer <- haven::read_sav(input)
-
-  q2 <-
-    transmute(
-      afrobarometer,
-      lang_id = as.integer(Q2),
-      lang_name = as.character(haven::as_factor(Q2)),
-      question = "Q2",
-      country = str_sub(RESPNO, 1, 3)
-    ) %>%
-    distinct()
-
-  q103 <-
-    transmute(
-      afrobarometer,
-      lang_id = as.integer(Q103),
-      lang_name = as.character(haven::as_factor(Q103)),
-      question = "Q103",
-      country = str_sub(RESPNO, 1, 3)
-    ) %>%
-    distinct()
-
-  bind_rows(q2, q103) %>%
-    group_by(lang_id, question, lang_name) %>%
-    summarise(countries = list(country)) %>%
-    ungroup() %>%
-    #split languages
-    mutate(languages = split_lang_names(lang_name),
-           is_language = lang_id > 0 & lang_id < 9000)
-}
-
-write_afroarometer_langs <- function(x, dst) {
+write_afrobarometer_langs <- function(x, dst) {
   x %>%
-  mutate(countries = map_chr(countries, function(x) str_c(x, collapse = " ")),
-         languages = map_chr(languages, function(x) {
-           str_c(str_trim(x), collapse = ";")
-         })) %>%
-  select(question, lang_id, lang_name, everything()) %>%
-  arrange(question, lang_id) %>%
+  mutate(countries = map_chr(countries, function(x) str_c(x, collapse = " "))) %>%
+  select(round, question, lang_id, lang_name, countries) %>%
+  arrange(round, question, lang_id) %>%
   write_csv(path = dst)
 }
 
-afrobarometer_langs(INPUT) %>%
-  write_afroarometer_langs(OUTPUT)
+afrobarometer_countries <-
+  read_csv(INPUT[["countries"]],
+           col_types = cols_only(
+             round = col_character(),
+             value = col_integer(),
+             iso_alpha2 = col_character()
+           ),
+           na = "")
+
+INPUT[str_subset(names(INPUT), "^r")] %>%
+  {map2_df(., names(.), afrobarometer_langs)} %>%
+  left_join(afrobarometer_countries,
+            by = c("round", "countries" = "value")) %>%
+  mutate(value = as.integer(value)) %>%
+  group_by(round, question, value, name) %>%
+  summarise(countries = list(sort(unique(iso_alpha2)))) %>%
+  arrange(round, question, value) %>%
+  mutate(countries = map_chr(countries, paste, collapse = " ")) %>%
+  write_csv(path = OUTPUT, na = "")

@@ -1,39 +1,138 @@
-country_name,iso_alpha3,afrob_abbv,iso_alpha2
-Algeria,DZA,ALG,DZ
-Benin,BEN,BEN,BJ
-Botswana,BWA,BOT,BW
-Burkina Faso,BFA,BFO,BF
-Burundi,BDI,BDI,BI
-Cameroon,CMR,CAM,CM
-Cape Verde,CPV,CVE,CV
-Cote d'Ivoire,CIV,CDI,CI
-Egypt,EGY,EGY,EG
-Ethiopia,ETH,ETH,ET
-Gabon,GAB,GAB,GA
-Ghana,GHA,GHA,GH
-Guinea,GNQ,GUI,GQ
-Kenya,KEN,KEN,KE
-Lesotho,LSO,LES,LS
-Liberia,LBR,LIB,LR
-Madagascar,MDG,MAD,MG
-Malawi,MWI,MLW,MW
-Mali,MLI,MLI,ML
-Mauritius,MUS,MAU,MU
-Morocco,MAR,MOR,MA
-Mozambique,MOZ,MOZ,MZ
-Namibia,NAM,NAM,"NA"
-Niger,NER,NGR,NE
-Nigeria,NGA,NIG,NG
-Senegal,SEN,SEN,SN
-Sierra Leone,SLE,SRL,SL
-South Africa,ZAF,SAF,ZA
-South Sudan,SSD,SSD,SS
-Sao Tome and Principe,STP,STP,ST
-Sudan,SDN,SUD,SD
-Swaziland,SWZ,SWZ,SZ
-Tanzania,TZA,TAN,TZ
-Togo,TGO,TOG,TG
-Tunisia,TUN,TUN,TN
-Uganda,UGA,UGA,UG
-Zambia,ZMB,ZAM,ZM
-Zimbabwe,ZWE,ZIM,ZW
+round,variable,value,name,iso_alpha3,iso_alpha2
+r1,country,1,Botswana,BWA,BW
+r1,country,2,Ghana,GHA,GH
+r1,country,3,Lesotho,LSO,LS
+r1,country,4,Malawi,MWI,MW
+r1,country,5,Mali,MLI,ML
+r1,country,6,Namibia,NAM,NA
+r1,country,7,Nigeria,NGA,NG
+r1,country,8,South Africa,ZAF,ZA
+r1,country,9,Tanzania,TZA,TZ
+r1,country,10,Uganda,UGA,UG
+r1,country,11,Zambia,ZMB,ZM
+r1,country,12,Zimbabwe,ZWE,ZW
+r2,country,1,Botswana,BWA,BW
+r2,country,2,Ghana,GHA,GH
+r2,country,3,Lesotho,LSO,LS
+r2,country,4,Malawi,MWI,MW
+r2,country,5,Mali,MLI,ML
+r2,country,6,Namibia,NAM,NA
+r2,country,7,Nigeria,NGA,NG
+r2,country,8,South Africa,ZAF,ZA
+r2,country,9,Tanzania,TZA,TZ
+r2,country,10,Uganda,UGA,UG
+r2,country,11,Zambia,ZMB,ZM
+r2,country,12,Zimbabwe,ZWE,ZW
+r2,country,13,Cape Verde,CPV,CV
+r2,country,14,Kenya,KEN,KE
+r2,country,15,Mozambique,MOZ,MZ
+r2,country,16,Senegal,SEN,SN
+r3,country,1,Benin,BEN,BJ
+r3,country,2,Botswana,BWA,BW
+r3,country,3,Cape Verde,CPV,CV
+r3,country,4,Ghana,GHA,GH
+r3,country,5,Kenya,KEN,KE
+r3,country,6,Lesotho,LSO,LS
+r3,country,7,Madagascar,MDG,MG
+r3,country,8,Malawi,MWI,MW
+r3,country,9,Mali,MLI,ML
+r3,country,10,Mozambique,MOZ,MZ
+r3,country,11,Namibia,NAM,NA
+r3,country,12,Nigeria,NGA,NG
+r3,country,13,Senegal,SEN,SN
+r3,country,14,South Africa,ZAF,ZA
+r3,country,15,Tanzania,TZA,TZ
+r3,country,16,Uganda,UGA,UG
+r3,country,17,Zambia,ZMB,ZM
+r3,country,18,Zimbabwe,ZWE,ZW
+r4,COUNTRY,1,Benin,BEN,BJ
+r4,COUNTRY,2,Botswana,BWA,BW
+r4,COUNTRY,3,Burkina Faso,BFA,BF
+r4,COUNTRY,4,Cape Verde,CPV,CV
+r4,COUNTRY,5,Ghana,GHA,GH
+r4,COUNTRY,6,Kenya,KEN,KE
+r4,COUNTRY,7,Lesotho,LSO,LS
+r4,COUNTRY,8,Liberia,LBR,LR
+r4,COUNTRY,9,Madagascar,MDG,MG
+r4,COUNTRY,10,Malawi,MWI,MW
+r4,COUNTRY,11,Mali,MLI,ML
+r4,COUNTRY,12,Mozambique,MOZ,MZ
+r4,COUNTRY,13,Namibia,NAM,NA
+r4,COUNTRY,14,Nigeria,NGA,NG
+r4,COUNTRY,15,Senegal,SEN,SN
+r4,COUNTRY,16,South Africa,ZAF,ZA
+r4,COUNTRY,17,Tanzania,TZA,TZ
+r4,COUNTRY,18,Uganda,UGA,UG
+r4,COUNTRY,19,Zambia,ZMB,ZM
+r4,COUNTRY,20,Zimbabwe,ZWE,ZW
+r5,COUNTRY,1,Benin,BEN,BJ
+r5,COUNTRY,2,Botswana,BWA,BW
+r5,COUNTRY,3,Burkina Faso,BFA,BF
+r5,COUNTRY,4,Cape Verde,CPV,CV
+r5,COUNTRY,5,Ghana,GHA,GH
+r5,COUNTRY,6,Kenya,KEN,KE
+r5,COUNTRY,7,Lesotho,LSO,LS
+r5,COUNTRY,8,Liberia,LBR,LR
+r5,COUNTRY,9,Madagascar,MDG,MG
+r5,COUNTRY,10,Malawi,MWI,MW
+r5,COUNTRY,11,Mali,MLI,ML
+r5,COUNTRY,12,Mozambique,MOZ,MZ
+r5,COUNTRY,13,Namibia,NAM,NA
+r5,COUNTRY,14,Nigeria,NGA,NG
+r5,COUNTRY,15,Senegal,SEN,SN
+r5,COUNTRY,16,South Africa,ZAF,ZA
+r5,COUNTRY,17,Tanzania,TZA,TZ
+r5,COUNTRY,18,Uganda,UGA,UG
+r5,COUNTRY,19,Zambia,ZMB,ZM
+r5,COUNTRY,20,Zimbabwe,ZWE,ZW
+r5,COUNTRY,21,Mauritius,MUS,MU
+r5,COUNTRY,22,Sierra Leone,SLE,SL
+r5,COUNTRY,23,Niger,NER,NE
+r5,COUNTRY,24,Togo,TGO,TG
+r5,COUNTRY,25,Burundi,BDI,BI
+r5,COUNTRY,26,Cameroon,CMR,CM
+r5,COUNTRY,27,Cote d’Ivoire,CIV,CI
+r5,COUNTRY,28,Guinea,GNQ,GQ
+r5,COUNTRY,29,Ethiopia,ETH,ET
+r5,COUNTRY,30,Swaziland,SWZ,SZ
+r5,COUNTRY,31,Algeria,DZA,DZ
+r5,COUNTRY,32,Egypt,EGY,EG
+r5,COUNTRY,33,Morocco,MAR,MA
+r5,COUNTRY,34,Sudan,SDN,SD
+r5,COUNTRY,35,Tunisia,TUN,TN
+r6,COUNTRY,1,Algeria,DZA,DZ
+r6,COUNTRY,2,Benin,BEN,BJ
+r6,COUNTRY,3,Botswana,BWA,BW
+r6,COUNTRY,4,Burkina Faso,BFA,BF
+r6,COUNTRY,5,Burundi,BDI,BI
+r6,COUNTRY,6,Cameroon,CMR,CM
+r6,COUNTRY,7,Cape Verde,CPV,CV
+r6,COUNTRY,8,Cote d'Ivoire,CIV,CI
+r6,COUNTRY,9,Egypt,EGY,EG
+r6,COUNTRY,10,Gabon,GAB,GA
+r6,COUNTRY,11,Ghana,GHA,GH
+r6,COUNTRY,12,Guinea,GNQ,GQ
+r6,COUNTRY,13,Kenya,KEN,KE
+r6,COUNTRY,14,Lesotho,LSO,LS
+r6,COUNTRY,15,Liberia,LBR,LR
+r6,COUNTRY,16,Madagascar,MDG,MG
+r6,COUNTRY,17,Malawi,MWI,MW
+r6,COUNTRY,18,Mali,MLI,ML
+r6,COUNTRY,19,Mauritius,MUS,MU
+r6,COUNTRY,20,Morocco,MAR,MA
+r6,COUNTRY,21,Mozambique,MOZ,MZ
+r6,COUNTRY,22,Namibia,NAM,NA
+r6,COUNTRY,23,Niger,NER,NE
+r6,COUNTRY,24,Nigeria,NGA,NG
+r6,COUNTRY,25,São Tomé and Príncipe,STP,ST
+r6,COUNTRY,26,Senegal,SEN,SN
+r6,COUNTRY,27,Sierra Leone,SLE,SL
+r6,COUNTRY,28,South Africa,ZAF,ZA
+r6,COUNTRY,29,Sudan,SDN,SD
+r6,COUNTRY,30,Swaziland,SWZ,SZ
+r6,COUNTRY,31,Tanzania,TZA,TZ
+r6,COUNTRY,32,Togo,TGO,TG
+r6,COUNTRY,33,Tunisia,TUN,TN
+r6,COUNTRY,34,Uganda,UGA,UG
+r6,COUNTRY,35,Zambia,ZMB,ZM
+r6,COUNTRY,36,Zimbabwe,ZWE,ZW
