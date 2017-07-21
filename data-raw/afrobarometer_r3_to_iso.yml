@@ -981,12 +981,15 @@
   question:
   - q103
   - q3
-- iso_639_3: null
+- iso_639_3:
+  - yao
   lang_id: 309
   lang_name: Ajua
   question:
   - q103
   - q3
+  note: |
+    Alt name of Yao is Ajawa. https://www.ethnologue.com/country/MZ/languages
 - iso_639_3: null
   lang_id: 310
   lang_name: Quimuane
