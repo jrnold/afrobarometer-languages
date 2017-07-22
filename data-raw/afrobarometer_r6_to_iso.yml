@@ -5,7 +5,6 @@
   question:
   - Q103
   - Q2
-  note: Custom ISO code for “missing”
 - lang_id: 1
   lang_name: English
   iso_639_3:
@@ -3475,8 +3474,6 @@
   question:
   - Q103
   - Q2
-  note: >
-    Custom ISO code for “other”
 - lang_id: 9998
   lang_name: Refused to answer
   iso_639_3:
@@ -3484,21 +3481,15 @@
   question:
   - Q103
   - Q2
-  note: >
-    Custom ISO code for “refused to answer”
 - lang_id: 9999
   lang_name: Don't know
   iso_639_3:
   - und
   question:
   - Q2
-  note: >
-    Custom ISO code for "don't know"
 - lang_id: 9999
   lang_name: null
   iso_639_3:
   - und
   question:
   - Q103
-  note: >
-    Custom ISO code for "don't know"
