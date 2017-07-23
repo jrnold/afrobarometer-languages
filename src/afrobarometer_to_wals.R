@@ -49,7 +49,6 @@ read_afrobarometer_langs <- function() {
 afrobarometer_langs <- read_afrobarometer_langs()
 
 read_afrobarometer_to_wals <- function(filename) {
-  print(filename)
   ab_round <- tools::file_path_sans_ext(basename(filename))
   yaml.load_file(filename) %>%
     map(compact) %>%
@@ -238,7 +237,7 @@ stopifnot(nrow(wals_nonmatches) == 0L)
 tests_data <- yaml.load_file(INPUTS$afrobarometer_to_wals_tests)
 wals_non_african <-
   afrobarometer_to_wals %>%
-  filter(!(wals_code %in% tests_data$non_african)) %>%
+  filter(!(wals_code %in% tests_data$non_african$values)) %>%
   filter(!(macroarea %in% "Africa"))
 stopifnot(nrow(wals_non_african) == 0L)
 

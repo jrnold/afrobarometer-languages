@@ -2654,6 +2654,8 @@ r4,Q103,109,Mina,ewa,Ewe (Anglo),TRUE,3,6,1,Kwa,Niger-Congo,GH,Africa
 r4,Q103,109,Mina,ewe,Ewe,TRUE,3,6.33333333333,0.416666666667,Kwa,Niger-Congo,TG GH,Africa
 r4,Q103,110,Idacha,ise,Isekiri,TRUE,2,5.66666666667,5.5,Defoid,Niger-Congo,NG,Africa
 r4,Q103,110,Idacha,yor,Yoruba,TRUE,2,8,4.33333333333,Defoid,Niger-Congo,NG BJ,Africa
+r4,Q103,111,Shabe,ise,Isekiri,TRUE,2,5.66666666667,5.5,Defoid,Niger-Congo,NG,Africa
+r4,Q103,111,Shabe,yor,Yoruba,TRUE,2,8,4.33333333333,Defoid,Niger-Congo,NG BJ,Africa
 r4,Q103,112,Warma,wwa,Waama,TRUE,0,10.5833333333,1.66666666667,Gur,Niger-Congo,BJ,Africa
 r4,Q103,140,Setswana,tsw,Tswana,TRUE,0,-24,26,Bantoid,Niger-Congo,BW ZA,Africa
 r4,Q103,141,Sesarwa,ani,//Ani,TRUE,4,-18.9166666667,21.9166666667,Khoe-Kwadi,Khoe-Kwadi,BW,Africa
@@ -2778,6 +2780,7 @@ r4,Q103,276,Sisila,vag,Vagla,TRUE,2,9.41666666667,-2.41666666667,Gur,Niger-Congo
 r4,Q103,277,Waala,grn,Gurenne,TRUE,2,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH,Africa
 r4,Q103,277,Waala,moo,Mooré,TRUE,2,12.8333333333,-1.25,Gur,Niger-Congo,BF,Africa
 r4,Q103,278,Mamprusi,mmp,Mampruli,TRUE,0,10.3333333333,-0.666666666667,Gur,Niger-Congo,GH TG,Africa
+r4,Q103,279,Gruni,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH,Africa
 r4,Q103,280,Mampruli,mmp,Mampruli,TRUE,0,10.3333333333,-0.666666666667,Gur,Niger-Congo,GH TG,Africa
 r4,Q103,281,Talensi,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH,Africa
 r4,Q103,282,Bule,buy,Buli (in Ghana),TRUE,0,10.5,-1.25,Gur,Niger-Congo,GH,Africa
@@ -2920,6 +2923,13 @@ r4,Q103,476,Namwanga,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Nige
 r4,Q103,476,Namwanga,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ,Africa
 r4,Q103,476,Namwanga,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD,Africa
 r4,Q103,476,Namwanga,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM,Africa
+r4,Q103,477,Wiza,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD,Africa
+r4,Q103,477,Wiza,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM,Africa
+r4,Q103,477,Wiza,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM,Africa
+r4,Q103,477,Wiza,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM,Africa
+r4,Q103,477,Wiza,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ,Africa
+r4,Q103,477,Wiza,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD,Africa
+r4,Q103,477,Wiza,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM,Africa
 r4,Q103,500,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0,20,-10,Semitic,Afro-Asiatic,MR,Africa
 r4,Q103,501,Bambara,bam,Bambara,TRUE,0,12.5,-7.5,Western Mande,Mande,ML,Africa
 r4,Q103,502,Bella,kse,Koyraboro Senni,TRUE,0,16,0,Songhay,Songhay,ML NE,Africa
@@ -3079,6 +3089,7 @@ r4,Q103,559,Shona,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA,Africa
 r4,Q103,559,Shona,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA,Africa
 r4,Q103,559,Shona,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA,Africa
 r4,Q103,559,Shona,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA,Africa
+r4,Q103,560,Tacuane,mua,Makua,TRUE,2,-15,38.6666666667,Bantoid,Niger-Congo,MZ,Africa
 r4,Q103,561,Tewe,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW,Africa
 r4,Q103,561,Tewe,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW,Africa
 r4,Q103,561,Tewe,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA,Africa
@@ -3193,6 +3204,7 @@ r4,Q103,649,Eggon,mdz,Mada (in Nigeria),TRUE,4,8.75,8.25,Platoid,Niger-Congo,NG,
 r4,Q103,650,Kataf (Atyap),gwo,Gworok,TRUE,0,9.91666666667,8.16666666667,Platoid,Niger-Congo,NG,Africa
 r4,Q103,651,Abua,obg,Ogbronuagum,TRUE,3,4.75,6.86666666667,Cross River,Niger-Congo,NG,Africa
 r4,Q103,651,Abua,ogb,Ogbia,TRUE,3,4.66666666667,6.25,Cross River,Niger-Congo,NG,Africa
+r4,Q103,652,Mbebe,ijo,Ijo (Kolokuma),TRUE,4,4.91666666667,5.66666666667,Ijoid,Ijoid,NG,Africa
 r4,Q103,653,Eleme,gok,Gokana,TRUE,4,4.58333333333,7.33333333333,Cross River,Niger-Congo,NG,Africa
 r4,Q103,653,Eleme,kan,Kana,TRUE,4,4.75,7.41666666667,Cross River,Niger-Congo,NG,Africa
 r4,Q103,654,Mumuye,mum,Mumuye,TRUE,0,9,11.6666666667,Adamawa,Niger-Congo,NG,Africa
@@ -3703,6 +3715,8 @@ r4,Q3,109,Mina,ewa,Ewe (Anglo),TRUE,3,6,1,Kwa,Niger-Congo,GH,Africa
 r4,Q3,109,Mina,ewe,Ewe,TRUE,3,6.33333333333,0.416666666667,Kwa,Niger-Congo,TG GH,Africa
 r4,Q3,110,Idacha,ise,Isekiri,TRUE,2,5.66666666667,5.5,Defoid,Niger-Congo,NG,Africa
 r4,Q3,110,Idacha,yor,Yoruba,TRUE,2,8,4.33333333333,Defoid,Niger-Congo,NG BJ,Africa
+r4,Q3,111,Shabe,ise,Isekiri,TRUE,2,5.66666666667,5.5,Defoid,Niger-Congo,NG,Africa
+r4,Q3,111,Shabe,yor,Yoruba,TRUE,2,8,4.33333333333,Defoid,Niger-Congo,NG BJ,Africa
 r4,Q3,112,Warma,wwa,Waama,TRUE,0,10.5833333333,1.66666666667,Gur,Niger-Congo,BJ,Africa
 r4,Q3,140,Setswana,tsw,Tswana,TRUE,0,-24,26,Bantoid,Niger-Congo,BW ZA,Africa
 r4,Q3,141,Sesarwa,ani,//Ani,TRUE,4,-18.9166666667,21.9166666667,Khoe-Kwadi,Khoe-Kwadi,BW,Africa
@@ -3827,6 +3841,7 @@ r4,Q3,276,Sisila,vag,Vagla,TRUE,2,9.41666666667,-2.41666666667,Gur,Niger-Congo,G
 r4,Q3,277,Waala,grn,Gurenne,TRUE,2,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH,Africa
 r4,Q3,277,Waala,moo,Mooré,TRUE,2,12.8333333333,-1.25,Gur,Niger-Congo,BF,Africa
 r4,Q3,278,Mamprusi,mmp,Mampruli,TRUE,0,10.3333333333,-0.666666666667,Gur,Niger-Congo,GH TG,Africa
+r4,Q3,279,Gruni,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH,Africa
 r4,Q3,280,Mampruli,mmp,Mampruli,TRUE,0,10.3333333333,-0.666666666667,Gur,Niger-Congo,GH TG,Africa
 r4,Q3,281,Talensi,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH,Africa
 r4,Q3,282,Bule,buy,Buli (in Ghana),TRUE,0,10.5,-1.25,Gur,Niger-Congo,GH,Africa
@@ -3969,6 +3984,13 @@ r4,Q3,476,Namwanga,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-
 r4,Q3,476,Namwanga,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ,Africa
 r4,Q3,476,Namwanga,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD,Africa
 r4,Q3,476,Namwanga,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM,Africa
+r4,Q3,477,Wiza,bem,Bemba,TRUE,4,-10,28.25,Bantoid,Niger-Congo,CD,Africa
+r4,Q3,477,Wiza,ila,Ila,TRUE,4,-15.5833333333,26.5,Bantoid,Niger-Congo,ZW ZM,Africa
+r4,Q3,477,Wiza,lmb,Lamba,TRUE,4,-13,28,Bantoid,Niger-Congo,CD ZM,Africa
+r4,Q3,477,Wiza,mmw,Mambwe,TRUE,4,-9.08333333333,31.1666666667,Bantoid,Niger-Congo,TZ ZM,Africa
+r4,Q3,477,Wiza,nyh,Nyiha,TRUE,4,-10,33,Bantoid,Niger-Congo,ZM TZ,Africa
+r4,Q3,477,Wiza,tbw,Tabwa,TRUE,4,-8,29.5,Bantoid,Niger-Congo,ZM CD,Africa
+r4,Q3,477,Wiza,toz,Tonga (in Zambia),TRUE,4,-17,27,Bantoid,Niger-Congo,ZM,Africa
 r4,Q3,500,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0,20,-10,Semitic,Afro-Asiatic,MR,Africa
 r4,Q3,501,Bambara,bam,Bambara,TRUE,0,12.5,-7.5,Western Mande,Mande,ML,Africa
 r4,Q3,502,Bella,kse,Koyraboro Senni,TRUE,0,16,0,Songhay,Songhay,ML NE,Africa
@@ -4128,6 +4150,7 @@ r4,Q3,559,Shona,xho,Xhosa,TRUE,4,-32,27,Bantoid,Niger-Congo,ZA,Africa
 r4,Q3,559,Shona,zno,Zulu (Northern),TRUE,4,-28,31,Bantoid,Niger-Congo,ZA,Africa
 r4,Q3,559,Shona,zso,Zulu (Southern),TRUE,4,-31,30,Bantoid,Niger-Congo,ZA,Africa
 r4,Q3,559,Shona,zul,Zulu,TRUE,4,-30,30,Bantoid,Niger-Congo,ZA,Africa
+r4,Q3,560,Tacuane,mua,Makua,TRUE,2,-15,38.6666666667,Bantoid,Niger-Congo,MZ,Africa
 r4,Q3,561,Tewe,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW,Africa
 r4,Q3,561,Tewe,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW,Africa
 r4,Q3,561,Tewe,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA,Africa
@@ -4252,6 +4275,7 @@ r4,Q3,649,Eggon,mdz,Mada (in Nigeria),TRUE,4,8.75,8.25,Platoid,Niger-Congo,NG,Af
 r4,Q3,650,Kataf (Atyap),gwo,Gworok,TRUE,0,9.91666666667,8.16666666667,Platoid,Niger-Congo,NG,Africa
 r4,Q3,651,Abua,obg,Ogbronuagum,TRUE,3,4.75,6.86666666667,Cross River,Niger-Congo,NG,Africa
 r4,Q3,651,Abua,ogb,Ogbia,TRUE,3,4.66666666667,6.25,Cross River,Niger-Congo,NG,Africa
+r4,Q3,652,Mbebe,ijo,Ijo (Kolokuma),TRUE,4,4.91666666667,5.66666666667,Ijoid,Ijoid,NG,Africa
 r4,Q3,653,Eleme,gok,Gokana,TRUE,4,4.58333333333,7.33333333333,Cross River,Niger-Congo,NG,Africa
 r4,Q3,653,Eleme,kan,Kana,TRUE,4,4.75,7.41666666667,Cross River,Niger-Congo,NG,Africa
 r4,Q3,654,Mumuye,mum,Mumuye,TRUE,0,9,11.6666666667,Adamawa,Niger-Congo,NG,Africa
@@ -5251,6 +5275,7 @@ r5,Q2,270,Talensi,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Con
 r5,Q2,271,Kasina,ksm,Kasem,TRUE,0,11.25,-1.25,Gur,Niger-Congo,BF,Africa
 r5,Q2,271,Kasina,xsm,Kàsim,TRUE,0,11,-1.33333333333,Gur,Niger-Congo,BF GH,Africa
 r5,Q2,272,Frafra,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH,Africa
+r5,Q2,273,Gruni,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH,Africa
 r5,Q2,274,Bimoba,bmb,Bimoba,TRUE,0,10.5,0,Gur,Niger-Congo,GH,Africa
 r5,Q2,275,Bulsa,buy,Buli (in Ghana),TRUE,0,10.5,-1.25,Gur,Niger-Congo,GH,Africa
 r5,Q2,276,Nabdam,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH,Africa
@@ -5593,6 +5618,7 @@ r5,Q2,558,Lomwe,mwe,Mwera,TRUE,4,-9,39,Bantoid,Niger-Congo,TZ,Africa
 r5,Q2,558,Lomwe,yao,Yao (in Malawi),TRUE,4,-14.5,35.5,Bantoid,Niger-Congo,MW MZ,Africa
 r5,Q2,559,Manhawa,mua,Makua,TRUE,2,-15,38.6666666667,Bantoid,Niger-Congo,MZ,Africa
 r5,Q2,560,Ronga,rga,Ronga,TRUE,0,-26,32.5,Bantoid,Niger-Congo,MZ,Africa
+r5,Q2,561,Tacuane,mua,Makua,TRUE,2,-15,38.6666666667,Bantoid,Niger-Congo,MZ,Africa
 r5,Q2,562,Chimanica,klz,Kalanga,TRUE,4,-20.5,27.5,Bantoid,Niger-Congo,ZW BW,Africa
 r5,Q2,562,Chimanica,krg,Karanga,TRUE,4,-20,31,Bantoid,Niger-Congo,ZW,Africa
 r5,Q2,562,Chimanica,ndb,Ndebele (in South Africa),TRUE,4,-25.3333333333,29,Bantoid,Niger-Congo,ZA,Africa
@@ -5673,6 +5699,7 @@ r5,Q2,649,Migili,bir,Birom,TRUE,4,9.66666666667,8.83333333333,Platoid,Niger-Cong
 r5,Q2,649,Migili,fye,Fyem,TRUE,4,9.58333333333,9.33333333333,Platoid,Niger-Congo,NG,Africa
 r5,Q2,649,Migili,tok,Tarok,TRUE,4,9,10.0833333333,Platoid,Niger-Congo,NG,Africa
 r5,Q2,650,Gbagyi,gbk,Gbaya Kara,TRUE,0,6,15,Gbaya-Manza-Ngbaka,Niger-Congo,CM CF,Africa
+r5,Q2,651,Gwoza,gdf,Guduf,TRUE,0,11.2333333333,13.8,Biu-Mandara,Afro-Asiatic,CM NG,Africa
 r5,Q2,652,Bajju,gwo,Gworok,TRUE,2,9.91666666667,8.16666666667,Platoid,Niger-Congo,NG,Africa
 r5,Q2,652,Bajju,jar,Jarawa (in Nigeria),TRUE,2,9.5,10.5,Bantoid,Niger-Congo,NG,Africa
 r5,Q2,653,Ekpeye,igb,Igbo,TRUE,4,6,7.33333333333,Igboid,Niger-Congo,NG,Africa
@@ -6342,6 +6369,10 @@ r5,Q2,1156,Ngam-Gam,kkb,Konkomba,TRUE,2,10,0.0833333333333,Gur,Niger-Congo,TG GH
 r5,Q2,1156,Ngam-Gam,ntn,Nateni,TRUE,2,10.5,1.16666666667,Gur,Niger-Congo,BJ,Africa
 r5,Q2,1157,Tchamba,ncm,Ncàm,TRUE,2,9.33333333333,0.666666666667,Gur,Niger-Congo,GH TG,Africa
 r5,Q2,1158,Haoussa,hau,Hausa,TRUE,0,12,7,West Chadic,Afro-Asiatic,NG NE,Africa
+r5,Q2,1159,Aklobo,avt,Avatime,TRUE,4,6.83333333333,0.416666666667,Kwa,Niger-Congo,GH,Africa
+r5,Q2,1159,Aklobo,ewa,Ewe (Anglo),TRUE,4,6,1,Kwa,Niger-Congo,GH,Africa
+r5,Q2,1159,Aklobo,ewe,Ewe,TRUE,4,6.33333333333,0.416666666667,Kwa,Niger-Congo,TG GH,Africa
+r5,Q2,1159,Aklobo,kpo,Kposo,TRUE,4,7.5,0.833333333333,Kwa,Niger-Congo,TG,Africa
 r5,Q2,1180,Kirundi,rnd,Rundi,TRUE,0,-3.5,30,Bantoid,Niger-Congo,BI,Africa
 r5,Q2,1220,Foufoulde,fgo,Fulani (Gombe),TRUE,0,10.25,11.25,Northern Atlantic,Niger-Congo,NG,Africa
 r5,Q2,1220,Foufoulde,fua,Fula (Cameroonian),TRUE,0,9.16666666667,13.5,Northern Atlantic,Niger-Congo,CM,Africa
@@ -6523,6 +6554,7 @@ r5,Q2,1307,Kpelé,kpe,Kpelle,TRUE,2,7,-10,Western Mande,Mande,LR,Africa
 r5,Q2,1308,Mano,man,Mano,TRUE,0,7,-9,Eastern Mande,Mande,LR GN,Africa
 r5,Q2,1309,Kono,vai,Vai,TRUE,2,6.91666666667,-11.25,Western Mande,Mande,SL LR,Africa
 r5,Q2,1310,Loma,lma,Loma,TRUE,2,8,-9.5,Western Mande,Mande,LR GN,Africa
+r5,Q2,1311,Manian,man,Mano,TRUE,0,7,-9,Eastern Mande,Mande,LR GN,Africa
 r5,Q2,1312,Kissié,kis,Kisi,TRUE,2,8.83333333333,-10.1666666667,Mel,Niger-Congo,SL GN LR,Africa
 r5,Q2,1312,Kissié,kss,Kisi (Southern),TRUE,2,8.5,-10.25,Mel,Niger-Congo,LR GN,Africa
 r5,Q2,1313,Landouma,bgs,Baga Sitemu,TRUE,2,10.5,-14.5,Mel,Niger-Congo,GN,Africa
@@ -7060,7 +7092,7 @@ r6,Q2,271,Gonja,nkn,Nkonya,TRUE,2,7.16666666667,0.25,Kwa,Niger-Congo,GH,Africa
 r6,Q2,272,Frafra,grn,Gurenne,TRUE,0,10.8333333333,-0.916666666667,Gur,Niger-Congo,GH,Africa
 r6,Q2,273,Dagaari,dga,Dagaare,TRUE,0,10.5,-2.66666666667,Gur,Niger-Congo,GH BF,Africa
 r6,Q2,275,Kotokoli,tem,Tem,TRUE,0,8.66666666667,0.5,Gur,Niger-Congo,BJ GH TG,Africa
-r6,Q2,276,Gruma,kni,Konni,TRUE,0,10.25,-1.58333333333,Gur,Niger-Congo,GH,Africa
+r6,Q2,276,Gruma,bmb,Bimoba,TRUE,0,10.5,0,Gur,Niger-Congo,GH,Africa
 r6,Q2,277,Buli,buy,Buli (in Ghana),TRUE,0,10.5,-1.25,Gur,Niger-Congo,GH,Africa
 r6,Q2,278,Basari,ncm,Ncàm,TRUE,0,9.33333333333,0.666666666667,Gur,Niger-Congo,GH TG,Africa
 r6,Q2,300,Kikuyu,kik,Kikuyu,TRUE,0,-0.75,36.75,Bantoid,Niger-Congo,KE,Africa

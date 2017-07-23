@@ -701,11 +701,15 @@
   question:
   - Q2
 - iso_639_3:
-  - mis
+  - gur
   lang_id: 273
   lang_name: Gruni
   question:
   - Q2
+  note: |
+    Probably a Gur language spoken by Gurunsi.
+    https://en.wikipedia.org/wiki/Gurunsi_peoples.
+    Possibly Farefare, since an alt name is Gurune.
 - iso_639_3:
   - bim
   lang_id: 274
@@ -1595,11 +1599,12 @@
   question:
   - Q2
 - iso_639_3:
-  - mis
+  - tke
   lang_id: 561
   lang_name: Tacuane
   question:
   - Q2
+  note: Takwane
 - iso_639_3:
   - mxc
   lang_id: 562
@@ -1892,12 +1897,13 @@
   question:
   - Q2
 - iso_639_3:
-  - mis
+  - ngs
+  - gdf
   lang_id: 651
   lang_name: Gwoza
-  note: 'Gwoza is an LGA.
-
-    '
+  note: |
+    Gwoza is an LGA. Glada languages are widely spoken there.
+    https://www.ethnologue.com/country/ng/languages
   question:
   - Q2
 - iso_639_3:
@@ -2219,7 +2225,7 @@
   question:
   - Q2
 - iso_639_3:
-  - und
+  - mis
   lang_id: 756
   lang_name: Kimanyema
   question:
@@ -3255,11 +3261,13 @@
   question:
   - Q2
 - iso_639_3:
-  - mis
+  - keu
   lang_id: 1159
   lang_name: Aklobo
   question:
   - Q2
+  note: |
+    Akebu?
 - iso_639_3:
   - run
   lang_id: 1180
@@ -3877,11 +3885,13 @@
   question:
   - Q2
 - iso_639_3:
-  - mis
+  - mev
   lang_id: 1311
   lang_name: Manian
   question:
   - Q2
+  note: |
+    Mano. It is included in r6 for Guinea.
 - iso_639_3:
   - kqs
   lang_id: 1312
@@ -4064,7 +4074,7 @@
   question:
   - Q2
 - iso_639_3:
-  - und
+  - mis
   lang_id: 1364
   lang_name: Kore
   question:

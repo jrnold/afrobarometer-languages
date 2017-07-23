@@ -656,10 +656,12 @@
 - lang_id: 276
   lang_name: Gruma
   iso_639_3:
-  - kma
+  - bim
   question:
   - Q2
-  note: 'Konni is spoken in Nangruma: http://www.ethnologue.com/18/language/kma/'
+  note: |
+    Gruma people speak Bimoba. Note its classifcation as Gurma.
+    Also, r5 included Bimoba, which was dropped in r6.
 - lang_id: 277
   lang_name: Buli
   iso_639_3:
@@ -1875,10 +1877,12 @@
 - lang_id: 756
   lang_name: Kimanyema
   iso_639_3:
-  - und
+  - mis
   question:
   - Q2
-  note: Could not find a match
+  note: |
+    Manyema https://sw.wikipedia.org/wiki/Wamanyema.
+    Also spelled Maniema.
 - lang_id: 757
   lang_name: Kinyiramba
   iso_639_3:

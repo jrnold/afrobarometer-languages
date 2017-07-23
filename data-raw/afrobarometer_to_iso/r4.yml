@@ -115,13 +115,16 @@
   - Q103
   - Q3
 - iso_639_3:
-  - mis
+  - cbj
   lang_id: 111
   lang_name: Shabe
   question:
   - Q103
   - Q3
-  note: ""
+  note: |
+    Yoruba people. http://id.loc.gov/authorities/subjects/sh2014000866.html.
+    Variants of the name are Sabe, Save, Sha, Tshabe, Chabe.
+    Tchabe is an alt name of Ede Cabe. https://www.ethnologue.com/country/BJ/languages
 - iso_639_3:
   - wwa
   lang_id: 112
@@ -551,7 +554,7 @@
   - Q103
   - Q3
 - iso_639_3:
-  - mis
+  - gur
   lang_id: 279
   lang_name: Gruni
   question:
@@ -1049,12 +1052,14 @@
   - Q3
 
 - iso_639_3:
-  - mis
+  - leb
   lang_id: 477
   lang_name: Wiza
   question:
   - Q103
   - Q3
+  note: |
+    Wiza listed as a dielect of Lala-Bisa, https://en.wikipedia.org/wiki/Lala-Bisa_language.
 - iso_639_3:
   - mey
   lang_id: 500
@@ -1374,12 +1379,13 @@
   note: |
     In MZ SHona refers to Ndau. https://www.ethnologue.com/country/MZ/languages
 - iso_639_3:
-  - mis
+  - tke
   lang_id: 560
   lang_name: Tacuane
   question:
   - Q103
   - Q3
+  note: Takwane
 - iso_639_3:
   - twx
   lang_id: 561
@@ -1749,12 +1755,15 @@
   - Q103
   - Q3
 - iso_639_3:
-  - mis
+  - ijs
   lang_id: 652
   lang_name: Mbebe
   question:
   - Q103
   - Q3
+  note: |
+    Nembe is included in r5 and r6, but not
+    r4.
 - iso_639_3:
   - elm
   lang_id: 653

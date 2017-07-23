@@ -14,6 +14,9 @@ suppressPackageStartupMessages({
   library("yaml")
 })
 
+# ISO 639-3 special values
+ISO_SPECIAL_CODES <- c("mis", "und", "mul", "xzz")
+
 OUTPUT <- find_rstudio_root_file("data", "afrobarometer_to_iso_639_3.csv")
 
 INPUTS <- list(
@@ -33,10 +36,13 @@ INPUTS <- list(
   afrobarometer_r5_to_iso = list("data-raw", "afrobarometer_to_iso", "r5.yml"),
   afrobarometer_r6_to_iso = list("data-raw", "afrobarometer_to_iso", "r6.yml"),
   ethnologue = list("external", "ethnologue", "Language_Code_Data_20170221",
-                    "LanguageIndex.tab")
+                    "LanguageIndex.tab"),
+  afrobarometer_to_iso_tests = list("data-raw",
+                                    "afrobarometer_to_iso_tests.yml")
   ) %>%
   {setNames(map(., function(x) invoke(find_rstudio_root_file, x)),
             names(.))}
+
 
 # Read Afrobarometer Languages
 read_afrobarometer_langs <- function() {
@@ -170,7 +176,8 @@ afrobarometer_to_iso %<>%
   select(round, question, lang_id, lang_name,
          iso_639_3, iso_ref_name, iso_scope)
 
-#' Checks
+#'
+#' # Test Output Data
 #'
 #' All Afrobarometer Languages Should be Accounted For
 afrobarometer_lang_nonmatches <-
@@ -178,19 +185,21 @@ afrobarometer_lang_nonmatches <-
           by = c("question", "lang_id"))
 stopifnot(nrow(afrobarometer_lang_nonmatches) == 0)
 
-#' All ISO-Codes should be valid
-#' not missing
+#' There should be no missing ISO codes.
+#' Use the special codes: `und`, `mis`, or `mul` instead.
 stopifnot(all(!is.na(afrobarometer_to_iso$iso_639_3)))
 
-#' A valid ISO code
-SPECIAL_ISO_CODES <- c("mis", "mul", "und", "zxx")
+#' All ISO 639-3 codes must be valid
 iso_lang_nonmatches <-
-  anti_join(filter(afrobarometer_to_iso, !(iso_639_3 %in% SPECIAL_ISO_CODES)),
-            iso_langs,
-            by = c("iso_639_3" = "Id"))
+  afrobarometer_to_iso %>%
+  # ignore ISO speical codes
+  filter(!(iso_639_3 %in% ISO_SPECIAL_CODES)) %>%
+  anti_join(iso_langs, by = c("iso_639_3" = "Id"))
 stopifnot(nrow(iso_lang_nonmatches) == 0)
 
-# TODO: check languages against countries in Ethnologue and Afrobarometer
+#' Check that the Afrobarometer countries in which
+#' the language is spoken is consistent with countries
+#' in which the Ethnologue records the language as being spoken.
 read_ethnologue <- function() {
   read_tsv(INPUTS$ethnologue,
            col_types = cols(
@@ -206,15 +215,29 @@ read_ethnologue <- function() {
 }
 ethnologue_langidx <- read_ethnologue()
 
+read_afrobarometer_to_iso_tests <- function() {
+  out <- yaml.load_file(INPUTS$afrobarometer_to_iso_tests)
+  out$valid_countries$values <-
+    map(out$valid_countries$values, as_tibble) %>%
+    bind_rows()
+  out
+}
+test_data <- read_afrobarometer_to_iso_tests()
+
 afrobarometer_langs_countries <-
   afrobarometer_langs %>%
   select(round, question, lang_id, countries) %>%
   filter(!is.na(countries)) %>%
   mutate(countries = str_split(countries, " +"))
 
-afrobarometer_to_iso %>%
-  filter(!iso_639_3 %in% c("mis", "und", "mul")) %>%
+iso_country_non_matches <-
+  afrobarometer_to_iso %>%
+  # ignore ISO special codes
+  filter(!iso_639_3 %in% ISO_SPECIAL_CODES) %>%
+  # ignore macrolangs
   filter(iso_scope %in% c("I")) %>%
+  anti_join(test_data$valid_countries$values,
+            by = c("round", "lang_id", "iso_639_3")) %>%
   inner_join(afrobarometer_langs_countries,
              by = c("round", "question", "lang_id")) %>%
   inner_join(rename(ethnologue_langidx, ethnologue_countries = countries),
@@ -224,11 +247,11 @@ afrobarometer_to_iso %>%
   filter(!country_overlap) %>%
   mutate(countries = map_chr(countries, paste, collapse = " "),
          ethnologue_countries = map_chr(ethnologue_countries, paste,
-                                        collapse = " ")) %>%
-  print(width = 10000, n = 100)
+                                        collapse = " "))
+stopifnot(nrow(iso_country_non_matches) == 0)
 
 
-# Write final output
+#' # Write Output
 write_afroarometer_to_iso <- function(x, path) {
   write_csv(x, path = path, na = "")
 }

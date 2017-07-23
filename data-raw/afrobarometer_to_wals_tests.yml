@@ -1,4 +1,8 @@
 non_african:
+  description: |
+    Languages which are not in the African macroarea,
+    but are still determined to be correct.
+  values:
   - eng
   - ger
   - por

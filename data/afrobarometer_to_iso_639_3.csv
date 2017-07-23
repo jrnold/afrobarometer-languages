@@ -1088,7 +1088,7 @@ r3,q3,180,AKAN,wss,Wasa,I
 r3,q3,181,EWE,ewe,Ewe,I
 r3,q3,182,GA/DANGBE,ada,Adangme,I
 r3,q3,182,GA/DANGBE,gaa,Ga,I
-r3,q3,183,Other Northern Languages,und,,
+r3,q3,183,Other Northern Languages,mul,,
 r3,q3,184,DAGBANI,dag,Dagbani,I
 r3,q3,185,DAGAARE,dga,Southern Dagaare,I
 r3,q3,200,Kikuyu,kik,Kikuyu,I
@@ -1154,7 +1154,7 @@ r3,q3,243,comorien,swb,Maore Comorian,I
 r3,q3,243,comorien,wlc,Mwali Comorian,I
 r3,q3,243,comorien,wni,Ndzwani Comorian,I
 r3,q3,243,comorien,zdj,Ngazidja Comorian,I
-r3,q3,244,pakistanais,und,,
+r3,q3,244,pakistanais,mul,,
 r3,q3,260,Tumbuka,tum,Tumbuka,I
 r3,q3,261,Nkhonde,nyy,Nyakyusa-Ngonde,I
 r3,q3,262,Lambya,lai,Lambya,I
@@ -1304,7 +1304,7 @@ r3,q3,392,Kikurya,kuj,Kuria,I
 r3,q3,393,Kigogo,gog,Gogo,I
 r3,q3,394,Kiluguru,ruf,Luguru,I
 r3,q3,395,Kifipa,fip,Fipa,I
-r3,q3,396,Kimanyema,und,,
+r3,q3,396,Kimanyema,mis,,
 r3,q3,397,Kinyiramba,nim,Nilamba,I
 r3,q3,398,Kinyaturu,rim,Nyaturu,I
 r3,q3,405,Akaramojonj,kdj,Karamojong,I
@@ -1414,8 +1414,8 @@ r3,q3,814,Tugen,kln,Kalenjin,M
 r3,q3,814,Tugen,tuy,Tugen,I
 r3,q3,815,Boran,gax,Borana-Arsi-Guji Oromo,I
 r3,q3,815,Boran,orm,Oromo,M
-r3,q3,816,Ethopian/Kenyan,und,,
-r3,q3,817,Indian,und,,
+r3,q3,816,Ethopian/Kenyan,mul,,
+r3,q3,817,Indian,mul,,
 r3,q3,818,Burji,bji,Burji,I
 r3,q3,819,Kuria,kuj,Kuria,I
 r3,q3,820,Gare,gex,Garre,I
@@ -1449,7 +1449,7 @@ r4,Q103,107,Yoa,pil,Yom,I
 r4,Q103,108,Goun,guw,Gun,I
 r4,Q103,109,Mina,gej,Gen,I
 r4,Q103,110,Idacha,idd,Ede Idaca,I
-r4,Q103,111,Shabe,mis,,
+r4,Q103,111,Shabe,cbj,Ede Cabe,I
 r4,Q103,112,Warma,wwa,Waama,I
 r4,Q103,140,Setswana,tsn,Tswana,I
 r4,Q103,141,Sesarwa,hio,Tsoa,I
@@ -1536,7 +1536,7 @@ r4,Q103,276,Sisila,sil,Tumulung Sisaala,I
 r4,Q103,276,Sisila,ssl,Western Sisaala,I
 r4,Q103,277,Waala,wlx,Wali (Ghana),I
 r4,Q103,278,Mamprusi,maw,Mampruli,I
-r4,Q103,279,Gruni,mis,,
+r4,Q103,279,Gruni,gur,Farefare,I
 r4,Q103,280,Mampruli,maw,Mampruli,I
 r4,Q103,281,Talensi,gur,Farefare,I
 r4,Q103,282,Bule,bwu,Buli (Ghana),I
@@ -1643,7 +1643,7 @@ r4,Q103,473,Ndali,ndh,Ndali,I
 r4,Q103,474,Nyika,nkv,Nyika (Malawi and Zambia),I
 r4,Q103,475,Chikunda,kdn,Kunda,I
 r4,Q103,476,Namwanga,mwn,Nyamwanga,I
-r4,Q103,477,Wiza,mis,,
+r4,Q103,477,Wiza,leb,Lala-Bisa,I
 r4,Q103,500,Arabe,mey,Hassaniyya,I
 r4,Q103,501,Bambara,bam,Bambara,I
 r4,Q103,502,Bella,ses,Koyraboro Senni Songhai,I
@@ -1712,7 +1712,7 @@ r4,Q103,556,Nhungue,mxc,Manyika,I
 r4,Q103,557,Matsua,tsc,Tswa,I
 r4,Q103,558,Ronga,rng,Ronga,I
 r4,Q103,559,Shona,ndc,Ndau,I
-r4,Q103,560,Tacuane,mis,,
+r4,Q103,560,Tacuane,tke,Takwane,I
 r4,Q103,561,Tewe,twx,Tewe,I
 r4,Q103,562,Xitsau,tsc,Tswa,I
 r4,Q103,580,Afrikaans,afr,Afrikaans,I
@@ -1779,7 +1779,7 @@ r4,Q103,648,Kambari,yaz,Lokaa,I
 r4,Q103,649,Eggon,ego,Eggon,I
 r4,Q103,650,Kataf (Atyap),kcg,Tyap,I
 r4,Q103,651,Abua,abn,Abua,I
-r4,Q103,652,Mbebe,mis,,
+r4,Q103,652,Mbebe,ijs,Southeast Ijo,I
 r4,Q103,653,Eleme,elm,Eleme,I
 r4,Q103,654,Mumuye,mzm,Mumuye,I
 r4,Q103,655,Ejagam,etu,Ejagham,I
@@ -1945,7 +1945,7 @@ r4,Q3,107,Yoa,pil,Yom,I
 r4,Q3,108,Goun,guw,Gun,I
 r4,Q3,109,Mina,gej,Gen,I
 r4,Q3,110,Idacha,idd,Ede Idaca,I
-r4,Q3,111,Shabe,mis,,
+r4,Q3,111,Shabe,cbj,Ede Cabe,I
 r4,Q3,112,Warma,wwa,Waama,I
 r4,Q3,140,Setswana,tsn,Tswana,I
 r4,Q3,141,Sesarwa,hio,Tsoa,I
@@ -2032,7 +2032,7 @@ r4,Q3,276,Sisila,sil,Tumulung Sisaala,I
 r4,Q3,276,Sisila,ssl,Western Sisaala,I
 r4,Q3,277,Waala,wlx,Wali (Ghana),I
 r4,Q3,278,Mamprusi,maw,Mampruli,I
-r4,Q3,279,Gruni,mis,,
+r4,Q3,279,Gruni,gur,Farefare,I
 r4,Q3,280,Mampruli,maw,Mampruli,I
 r4,Q3,281,Talensi,gur,Farefare,I
 r4,Q3,282,Bule,bwu,Buli (Ghana),I
@@ -2139,7 +2139,7 @@ r4,Q3,473,Ndali,ndh,Ndali,I
 r4,Q3,474,Nyika,nkv,Nyika (Malawi and Zambia),I
 r4,Q3,475,Chikunda,kdn,Kunda,I
 r4,Q3,476,Namwanga,mwn,Nyamwanga,I
-r4,Q3,477,Wiza,mis,,
+r4,Q3,477,Wiza,leb,Lala-Bisa,I
 r4,Q3,500,Arabe,mey,Hassaniyya,I
 r4,Q3,501,Bambara,bam,Bambara,I
 r4,Q3,502,Bella,ses,Koyraboro Senni Songhai,I
@@ -2208,7 +2208,7 @@ r4,Q3,556,Nhungue,mxc,Manyika,I
 r4,Q3,557,Matsua,tsc,Tswa,I
 r4,Q3,558,Ronga,rng,Ronga,I
 r4,Q3,559,Shona,ndc,Ndau,I
-r4,Q3,560,Tacuane,mis,,
+r4,Q3,560,Tacuane,tke,Takwane,I
 r4,Q3,561,Tewe,twx,Tewe,I
 r4,Q3,562,Xitsau,tsc,Tswa,I
 r4,Q3,563,Muani,wmw,Mwani,I
@@ -2276,7 +2276,7 @@ r4,Q3,648,Kambari,yaz,Lokaa,I
 r4,Q3,649,Eggon,ego,Eggon,I
 r4,Q3,650,Kataf (Atyap),kcg,Tyap,I
 r4,Q3,651,Abua,abn,Abua,I
-r4,Q3,652,Mbebe,mis,,
+r4,Q3,652,Mbebe,ijs,Southeast Ijo,I
 r4,Q3,653,Eleme,elm,Eleme,I
 r4,Q3,654,Mumuye,mzm,Mumuye,I
 r4,Q3,655,Ejagam,etu,Ejagham,I
@@ -2754,7 +2754,7 @@ r5,Q2,269,Kotonkoli,kdh,Tem,I
 r5,Q2,270,Talensi,gur,Farefare,I
 r5,Q2,271,Kasina,xsm,Kasem,I
 r5,Q2,272,Frafra,gur,Farefare,I
-r5,Q2,273,Gruni,mis,,
+r5,Q2,273,Gruni,gur,Farefare,I
 r5,Q2,274,Bimoba,bim,Bimoba,I
 r5,Q2,275,Bulsa,bwu,Buli (Ghana),I
 r5,Q2,276,Nabdam,gur,Farefare,I
@@ -2963,7 +2963,7 @@ r5,Q2,557,Kimuani,wmw,Mwani,I
 r5,Q2,558,Lomwe,ngl,Lomwe,I
 r5,Q2,559,Manhawa,mny,Manyawa,I
 r5,Q2,560,Ronga,rng,Ronga,I
-r5,Q2,561,Tacuane,mis,,
+r5,Q2,561,Tacuane,tke,Takwane,I
 r5,Q2,562,Chimanica,mxc,Manyika,I
 r5,Q2,580,Afrikaans,afr,Afrikaans,I
 r5,Q2,581,German,deu,German,I
@@ -3013,7 +3013,8 @@ r5,Q2,648,Ibaji,igl,Igala,I
 r5,Q2,649,Migili,mgi,Lijili,I
 r5,Q2,650,Gbagyi,gba,Gbaya (Central African Republic),M
 r5,Q2,650,Gbagyi,gya,Northwest Gbaya,I
-r5,Q2,651,Gwoza,mis,,
+r5,Q2,651,Gwoza,gdf,Guduf-Gava,I
+r5,Q2,651,Gwoza,ngs,Gvoko,I
 r5,Q2,652,Bajju,kaj,Jju,I
 r5,Q2,653,Ekpeye,ekp,Ekpeye,I
 r5,Q2,654,Kataf,kcg,Tyap,I
@@ -3066,7 +3067,7 @@ r5,Q2,752,Kikurya,kuj,Kuria,I
 r5,Q2,753,Kigogo,gog,Gogo,I
 r5,Q2,754,Kiluguru,ruf,Luguru,I
 r5,Q2,755,Kifipa,fip,Fipa,I
-r5,Q2,756,Kimanyema,und,,
+r5,Q2,756,Kimanyema,mis,,
 r5,Q2,757,Kinyiramba,nim,Nilamba,I
 r5,Q2,758,Kinyaturu,rim,Nyaturu,I
 r5,Q2,759,Kibena,bez,Bena (Tanzania),I
@@ -3231,7 +3232,7 @@ r5,Q2,1155,Konkomba,xon,Konkomba,I
 r5,Q2,1156,Ngam-Gam,gng,Ngangam,I
 r5,Q2,1157,Tchamba,aks,Akaselem,I
 r5,Q2,1158,Haoussa,hau,Hausa,I
-r5,Q2,1159,Aklobo,mis,,
+r5,Q2,1159,Aklobo,keu,Akebu,I
 r5,Q2,1180,Kirundi,run,Rundi,I
 r5,Q2,1220,Foufoulde,fub,Adamawa Fulfulde,I
 r5,Q2,1220,Foufoulde,ful,Fulah,M
@@ -3356,7 +3357,7 @@ r5,Q2,1307,Kpelé,kpe,Kpelle,M
 r5,Q2,1308,Mano,mev,Mano,I
 r5,Q2,1309,Kono,kno,Kono (Sierra Leone),I
 r5,Q2,1310,Loma,tod,Toma,I
-r5,Q2,1311,Manian,mis,,
+r5,Q2,1311,Manian,mev,Mano,I
 r5,Q2,1312,Kissié,kqs,Northern Kissi,I
 r5,Q2,1313,Landouma,ldm,Landoma,I
 r5,Q2,1314,Kouranko,knk,Kuranko,I
@@ -3386,7 +3387,7 @@ r5,Q2,1360,Gumz,guk,Gumuz,I
 r5,Q2,1361,Harari,har,Harari,I
 r5,Q2,1362,Kaffa,kbr,Kafa,I
 r5,Q2,1363,Kembata,ktb,Kambaata,I
-r5,Q2,1364,Kore,und,,
+r5,Q2,1364,Kore,mis,,
 r5,Q2,1365,Mejenger,mpe,Majang,I
 r5,Q2,1366,Mursi,muz,Mursi,I
 r5,Q2,1367,Nuwer,nus,Nuer,I
@@ -3710,7 +3711,7 @@ r6,Q2,271,Gonja,gjn,Gonja,I
 r6,Q2,272,Frafra,gur,Farefare,I
 r6,Q2,273,Dagaari,dga,Southern Dagaare,I
 r6,Q2,275,Kotokoli,kdh,Tem,I
-r6,Q2,276,Gruma,kma,Konni,I
+r6,Q2,276,Gruma,bim,Bimoba,I
 r6,Q2,277,Buli,bwu,Buli (Ghana),I
 r6,Q2,278,Basari,bud,Ntcham,I
 r6,Q2,300,Kikuyu,kik,Kikuyu,I
@@ -3940,7 +3941,7 @@ r6,Q2,752,Kikurya,kuj,Kuria,I
 r6,Q2,753,Kigogo,gog,Gogo,I
 r6,Q2,754,Kiluguru,ruf,Luguru,I
 r6,Q2,755,Kifipa,fip,Fipa,I
-r6,Q2,756,Kimanyema,und,,
+r6,Q2,756,Kimanyema,mis,,
 r6,Q2,757,Kinyiramba,nim,Nilamba,I
 r6,Q2,758,Kinyaturu,rim,Nyaturu,I
 r6,Q2,759,Kiarusha,mas,Masai,I

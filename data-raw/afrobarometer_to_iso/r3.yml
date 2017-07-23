@@ -359,7 +359,7 @@
   question:
   - q103
 - iso_639_3:
-  - und
+  - mul
   lang_id: 183
   lang_name: Other Northern Languages
   question:
@@ -673,7 +673,7 @@
   question:
   - q3
 - iso_639_3:
-  - und
+  - mul
   lang_id: 244
   lang_name: pakistanais
   question:
@@ -1473,7 +1473,7 @@
   question:
   - q3
 - iso_639_3:
-  - und
+  - mis
   lang_id: 396
   lang_name: Kimanyema
   question:
@@ -2089,7 +2089,7 @@
   - q103
   - q3
 - iso_639_3:
-  - und
+  - mul
   lang_id: 816
   lang_name: Ethopian/Kenyan
   question:
@@ -2097,13 +2097,11 @@
   note: |
     Unclear which language(s) this is referring to
 - iso_639_3:
-  - und
+  - mul
   lang_id: 817
   lang_name: Indian
   question:
   - q3
-  note: |
-    Probably mostly Hindi?
 - iso_639_3:
   - bji
   lang_id: 818
