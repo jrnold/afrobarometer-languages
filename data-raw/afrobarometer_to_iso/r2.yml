@@ -27,7 +27,6 @@
   - q83
   - q97
 - iso_639_3:
-  - swc
   - swh
   lang_id: 4
   lang_name: Kiswahili
@@ -314,12 +313,14 @@
   - q83
   - q97
 - iso_639_3:
-  - sna
+  - ndc
   lang_id: 98
   lang_name: Shona
   question:
   - q83
   - q97
+  note: |
+    MZ Shona is Ndau
 - iso_639_3:
   - ssw
   lang_id: 99
@@ -335,7 +336,7 @@
   - q83
   - q97
 - iso_639_3:
-  - nde
+  - nbl
   lang_id: 101
   lang_name: Ndebele
   question:
@@ -398,9 +399,10 @@
   - q83
   - q97
 - iso_639_3:
-  - aka
   - fat
   - twi
+  - abr
+  - wss
   lang_id: 120
   lang_name: Akan
   question:
@@ -462,7 +464,6 @@
   - q83
   - q97
 - iso_639_3:
-  - nse
   - nya
   - tum
   lang_id: 145
@@ -470,7 +471,7 @@
   question:
   - q83
 - iso_639_3:
-  - ngl
+  - lon
   lang_id: 146
   lang_name: Lomwe
   question:
@@ -483,7 +484,7 @@
   question:
   - q83
 - iso_639_3:
-  - seh
+  - swk
   lang_id: 148
   lang_name: Sena
   question:
@@ -495,14 +496,13 @@
   question:
   - q83
 - iso_639_3:
-  - nse
   - tum
   lang_id: 150
   lang_name: Senga
   question:
   - q83
 - iso_639_3:
-  - toi
+  - tog
   lang_id: 151
   lang_name: Tonga
   question:
@@ -522,7 +522,7 @@
   - q83
   - q97
 - iso_639_3:
-  - wol
+  - ffm
   lang_id: 162
   lang_name: Wolof
   question:
@@ -614,8 +614,6 @@
 - iso_639_3:
   - bbo
   - bmq
-  - box
-  - bwq
   lang_id: 174
   lang_name: Bobo
   question:
@@ -658,7 +656,6 @@
   - q97
 - iso_639_3:
   - taq
-  - thv
   - ttq
   lang_id: 177
   lang_name: Tamasheq
@@ -736,9 +733,7 @@
   question:
   - q83
 - iso_639_3:
-  - nse
-  - nya
-  - tum
+  - ngo
   lang_id: 211
   lang_name: Ngoni
   question:
@@ -889,10 +884,8 @@
   - q83
   - q97
 - iso_639_3:
-  - bms
   - kby
   - knc
-  - krt
   lang_id: 265
   lang_name: Kanuri
   question:
@@ -1032,7 +1025,7 @@
   question:
   - q83
 - iso_639_3:
-  - seh
+  - nse
   lang_id: 284
   lang_name: Sena
   question:
@@ -1318,7 +1311,6 @@
   - dig
   - dug
   - nyf
-  - seg
   lang_id: 387
   lang_name: Mijikenda
   question:

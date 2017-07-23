@@ -1,0 +1,14 @@
+- wals_code:
+  - ger
+  lang_id: 325
+  lang_name: German
+  question:
+  - q3
+  - q103
+- wals_code:
+  - por
+  lang_id: 165
+  lang_name: Creole
+  question:
+  - q103
+  - q3

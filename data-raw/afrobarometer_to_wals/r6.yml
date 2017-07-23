@@ -1,25 +1,23 @@
 - lang_id: -1
-  questions:
+  question:
   - Q2
   - Q103
-  wals_code:
-  - null
+  wals_code: null
   lang_name: "Missing"
-
 - lang_id: 5
-  questions:
+  question:
   - Q2
   - Q103
   lang_name: "Arabic"
-  wals_codes:
+  wals_code:
   - "ams"
   comments: >
     Assume Modern Standard Arabic.
 - lang_id: 11
-  questions:
+  question:
   - Q2
   lang_name: "Berber Language"
-  wals_codes:
+  wals_code:
     - bse
     - bch
     - bfg
@@ -39,31 +37,31 @@
     All languages in the Berber Genus. There is no way to distinguish
     between them.
 - lang_id: 16
-  questions:
+  question:
   - Q2
   - Q103
   lang_name: "Ewe"
-  wals_codes:
+  wals_code:
   - ewe
   comments: >
     Both ewe and ewa (Anglo Ewe) matched, but Ewe seems the larger language.
 
 - lang_id: 18
   lang_name: Fulfulde
-  questions:
+  question:
   - Q103
   - Q2
-  wals_codes:
+  wals_code:
   - fbf
   - fli
   comments: >
     Appears in BFO and NGR.
 
 - lang_id: 22
-  questions:
+  question:
   - Q2
   lang_name: "Kissi"
-  wals_codes:
+  wals_code:
   - kis
   - kss
   comments: >
@@ -71,22 +69,22 @@
 
 - lang_id: 29
   lang_name: Peulh
-  questions:
+  question:
   - Q103
   - Q2
-  wals_codes:
+  wals_code:
   - fum
-  - fuf
+  - fgu
   comments: >
     Appears in Benin and Togo. WALS doesn't have Borgu Fulfulde. The closest langs are
     Maasina Fulfulde and Guinean Fula https://www.ethnologue.com/subgroups/west-central-2.
 
 - lang_id: 30
-  questions:
+  question:
   - Q103
   - Q2
   lang_name: "Sénoufo"
-  wals_codes:
+  wals_code:
   - nrg
   - dym
   - snd
@@ -94,19 +92,19 @@
     All three list Senoufo as an alternate name in WALS
 
 - lang_id: 32
-  questions:
+  question:
   - Q103
   - Q2
   lang_name: "Tamasheq"
-  wals_codes:
+  wals_code:
   - tsk
   comments: >
     Use only the WALS language "Tamashek" and ignore Tuareg matches.
 
 - lang_id: 33
-  questions: [Q2]
+  question: [Q2]
   lang_name: "Tonga"
-  wals_codes:
+  wals_code:
   - toz
   comments: >
     WALS uses code toz for Tonga (Zimbabwe). This appears in
@@ -114,50 +112,50 @@
 
 - lang_id: 105
   lang_name: Peulh
-  questions:
+  question:
   - Q103
-  wals_codes:
+  wals_code:
   - fum
-  - fuf
+  - fgu
   comments: >
     Appears in Benin. WALS doesn't have Borgu (Benin) Fulfulde. The closest langs are
     Maasina Fulfulde and Guinean Fula https://www.ethnologue.com/subgroups/west-central-2.
 
 - lang_id: 304
-  questions:
+  question:
   - Q2
   - Q103
   lang_name: Kalenjin
-  wals_codes:
+  wals_code:
   - nan
   comments: >
     Nandi = Kalenjin. Ignore the Pokot match.
 
 - lang_id: 311
-  questions:
+  question:
   - Q2
   lang_name: Pokot
-  wals_codes:
+  wals_code:
   - pkt
 
 - lang_id: 315
   lang_name: "Borana"
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - orb
 
 - lang_id: 384
   lang_name: Gio
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - dan
 
 - lang_id: 506
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - dds
   - jms
   - tms
@@ -165,46 +163,46 @@
   comments: "Include all languages in the \"Dogon\" genus."
 
 - lang_id: 511
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
+  - maw
   - mdk
-  - mlq
   lang_name: Malinke
   comments: >
     These are the two Mande languages spoken in Mali.
-    Mandinka (mdk) and Manika (Western) (mlq)
+    Mandinka and Manika (Western)
 
 - lang_id: 514
   lang_name: Peulh/Fulfulde
-  questions:
+  question:
   - Q103
   - Q2
-  wals_codes:
+  wals_code:
   - fum
   comments:  >
     appears in Mali. Maasina Fulfulde is the Mali Fula language.
 
 - lang_id: 518
   lang_name: "Sonrhai"
-  questions: [Q103, Q2]
-  wals_codes: [kse, kch]
+  question: [Q103, Q2]
+  wals_code: [kse, kch]
   comments: >
     Both languages are in Mali and named Songhay.
 
 - lang_id: 581
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - "ger"
   comments: >
     Keep only the main German german language
 
 - lang_id: 591
   lang_name: "San"
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - nro
   - kxo
   - kho
@@ -216,15 +214,15 @@
     WALS indicates are spoken in Namibia.
 
 - lang_id: 621
-  questions: [Q2, Q103]
-  wals_codes: [igb]
+  question: [Q2, Q103]
+  wals_code: [igb]
   comments: "Only use the main Igbo language"
 
 - lang_id: 626
   lang_name: Fulani
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - fni
   - fgo
   comments: >
@@ -232,25 +230,25 @@
 
 - lang_id: 661
   lang_name: "Pulaar/Toucouleur"
-  questions:
+  question:
   - Q103
   - Q2
-  wals_codes:
+  wals_code:
   - fus
   comments: >
     Spoken in Senegal. Use Fula Senegal
 
 - lang_id: 662
   lang_name: Serer
-  questions: [Q2]
-  wals_codes: [noo]
+  question: [Q2]
+  wals_code: [noo]
   comments: >
     Alternative name is "Serer-Noon"
 
 - lang_id: 663
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - bam
   - mdk
   comments: >
@@ -258,11 +256,11 @@
     WALS does not mention Bambaara as spoken in Senegal. But it is included since it is mentioned by name.
 
 - lang_id: 704
-  questions:
+  question:
   - Q103
   - Q2
   lang_name: "Sesotho/Sotho/South Sotho"
-  wals_codes:
+  wals_code:
   - ses
   - stn
   comments: >
@@ -270,109 +268,97 @@
 
 - lang_id: 709
   lang_name: "Zulu"
-  questions: [Q103, Q2]
-  wals_codes: [zul]
+  question: [Q103, Q2]
+  wals_code: [zul]
 
 - lang_id: 793
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - "luy"
   lang_name: Lusamia
   comments: >
     The Luyia language has has the dialect Samia.
 
 - lang_id: 830
-  questions: [Q2]
+  question: [Q2]
   lang_name: Lunda
-  wals_codes: [lbu]
+  wals_code: [lbu]
 
 - lang_id: 835
-  questions: [Q2]
+  question: [Q2]
   lang_name: "Ngoni"
-  wals_codes: [nse]
+  wals_code: [nse]
   comments: >
     Nsegna is the Ngoni language spoken in Zambia.
     Chichewa is spoken in Malawi.
 
 - lang_id: 861
-  questions: [Q103, Q2]
+  question: [Q103, Q2]
   lang_name: Shona
-  wals_codes: [shn]
+  wals_code: [shn]
   comments: >
     Both WALS Karanga and Shona map to Ethnologue sna (Shona).
     However, Afrobarometer has a seperate entry for Karanga.
 
 - lang_id: 862
-  questions: [Q2]
+  question: [Q2]
   lang_name: Zezuru
-  wals_codes: [shn]
+  wals_code: [shn]
   comments: >
     Zezuru is another major Shona dialect.
 
 - lang_id: 863
-  questions: [Q2]
+  question: [Q2]
   lang_name: Korekore
-  wals_codes: [shn]
+  wals_code: [shn]
   comments: >
     Korekore is another major Shona dialect.
 
 - lang_id: 864
-  questions: [Q2]
+  question: [Q2]
   lang_name: Karanga
-  wals_codes: [krg]
+  wals_code: [krg]
   comments: >
     Karanga is another major Shona dialect; in WALS it is a language.
 
 - lang_id: 936
   lang_name: Fulla
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - fgu
   comments: >
     Spoken in Sierra Leone.  Use Guinean Fula
 
 - lang_id: 939
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - mnk
   comments: >
 
     Maninka (mnk) is the more widely spoken Mende language in Sierra Leone (listed as 3 by Ethnologue)
 
 - lang_id: 1105
-  questions: [Q2]
+  question: [Q2]
   lang_name: "Goumantchema"
-  wals_codes: [grm]
+  wals_code: [grm]
   comments: >
     Since the Togo Gourma has a separate code and entry, ignore it.
 
 - lang_id: 1152
-  questions: [Q2]
+  question: [Q2]
   lang_name: Gourma
-  wals_codes: [gut]
+  wals_code: [gut]
   comments: >
     This is used for Togo. WALS has separate language Gurma (Togo)
 
-- lang_id: 1229
-  lang_name: Bamileke
-  questions:
-  - Q2
-  wals_codes:
-  - fef
-  - new
-  - nwd
-  - yem
-  comments: >
-    Ethnologue lists a Bamileke hierarchy - no mention of Bamileke in WALS
-
 - lang_id: 1228
-  questions:
+  question:
   - Q2
   lang_name: Bakundu
-  wals_codes:
+  wals_code:
   - bkn
   - ldo
   comments: >
@@ -382,158 +368,155 @@
   lang_name: Bangwa
   qestions:
   - Q2
-  wals_codes:
+  wals_code:
   - nge
   comments: >
     Though both Ngemba and Mankon in WALS map to Ngemba in ISO 639, Ngebma seems more appropriate.
 
 - lang_id: 1235
   lang_name: Batanga
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - bkn
   - ldo
   comments: >
     Both WALS Londo and Bakundu map to https://www.ethnologue.com/language/bdu, which calls is Batanga.
 
 - lang_id: 1249
-  questions:
+  question:
   - Q2
   lang_name: Mankon
-  wals_codes:
+  wals_code:
   - mkq
   comments: >
     The WALS name is Mankon
 
 - lang_id: 1242
   lang_name: Gbaya
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - gbk
   comments: >
     The WALS name is Gbaya Kara and it the one in that genus spoken in Cameroon.
 
 - lang_id: 1270
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - gdi
   comments: >
     The wals name is Godie
 
 - lang_id: 1278
-  questions:
+  question:
   - Q2
   lang_name: Yacouba
-  wals_codes:
+  wals_code:
   - dan
   comments: >
     Yacouba listed as an alternate name in http://wals.info/languoid/lect/wals_code_dan
 
 - lang_id: 1302
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - mnk
   lang_name: Maninka
 
 - lang_id: 1305
-  questions:
+  question:
   - Q103
   lang_name: Maninka
-  wals_codes:
+  wals_code:
   - mnk
 
 - lang_id: 1220
-  questions:
+  question:
   - Q103
   - Q2
   lang_name: Foufoulde
-  wals_codes:
-  - fub
+  wals_code:
+  - fua
   comments: >
     Spoken in Cameroon.
 
 - lang_id: 1301
   lang_name: Poular
-  questions:
+  question:
   - Q2
-  wals_codes:
+  wals_code:
   - fgu
   comments: >
     Guinean Fula
 
 - lang_id: 1302
-  questions:
+  question:
   - Q103
   lang_name: Poular
-  wals_codes:
+  wals_code:
   - fgu
   comments: >
     Guinean Fula
 
 - lang_id: 1420
-  questions:
+  question:
   - Q2
   lang_name: Algerian Arabic
-  wals_codes:
+  wals_code:
   - amr
   - atu
   comments: >
     Algerian Arabic is closest to Tunisian and Moroccan Arabic.
 
 - lang_id: 1460
-  questions:
+  question:
   - Q2
   lang_name: Egyptian Arabic
-  wals_codes:
+  wals_code:
   - aeg
 
 - lang_id: 1540
-  questions:
+  question:
   - Q2
   lang_name: Sudanese Arabic
-  wals_codes:
+  wals_code:
   - abb
   comments: >
     Abbeche Chad Arabic is also put in the Sudanese Group, https://en.wikipedia.org/wiki/Varieties_of_Arabic
 
 - lang_id: 9999
-  questions:
+  question:
   - Q2
   - Q103
-  wals_codes:
-  - ""
+  wals_code: null
 
 - lang_id: 9995
   lang_name: "Other"
-  questions:
+  question:
   - Q2
   - Q103
-  wals_codes:
-  - ""
+  wals_code: null
 
 - lang_id: 710
-  questions:
+  question:
   - Q2
   - Q103
-  wals_codes:
-  - ""
+  wals_code: null
 
 - lang_id: 396
   lang_name: Liberian English
   wals_code:
   - npi
-  questions:
+  question:
   - Q2
   note: >
     Liberian English is an English-based Creole. Nigerian Pidgin is the
     most similar Creole included in WALS
 
 - lang_id: 380
-  questions:
+  question:
   - Q103
   lang_name: Liberian English
   wals_code:
@@ -541,3 +524,23 @@
   note: >
     Liberian English is an English-based Creole. Nigerian Pidgin is the
     most similar Creole included in WALS
+
+- lang_id: 1661
+  lang_name: Forro
+  wals_code:
+  - pri
+  - ago
+  question:
+  - Q2
+  note: Pincipesese Creole
+
+- lang_id: 220
+  lang_name: Crioulo
+  wals_code:
+  - por
+  question:
+  - Q103
+  - Q2
+  note: |
+    Portugese are able to read it https://www.ethnologue.com/language/kea.
+    Other creoles are further away.

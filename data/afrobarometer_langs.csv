@@ -1715,7 +1715,7 @@ r4,Q3,995,Others,BF BJ BW GH KE LS MZ NG SN TZ UG ZA ZM ZW
 r4,Q3,998,Refused,""
 r5,Q103,-1,Missing,KE LR MZ NA ZA ZW
 r5,Q103,1,English,BJ BW CM GH KE LR LS MU MW NA NG SL SZ UG ZA ZM ZW
-r5,Q103,2,French,BF BI BJ CI CM GQ MG ML MU NE SN TG
+r5,Q103,2,French,BF BI BJ CI CM GN MG ML MU NE SN TG
 r5,Q103,3,Portuguese,CV MG MZ
 r5,Q103,4,Kiswahili,KE TZ
 r5,Q103,5,Arabic,DZ EG MA SD TN
@@ -1828,12 +1828,12 @@ r5,Q103,1222,Ewondo,CM
 r5,Q103,1223,Bafang,CM
 r5,Q103,1224,Douala,""
 r5,Q103,1260,Dioula,""
-r5,Q103,1300,Soussou,GQ
-r5,Q103,1301,Poular,GQ
-r5,Q103,1302,Maninka,GQ
-r5,Q103,1303,Kpélé,GQ
-r5,Q103,1304,Toma,GQ
-r5,Q103,1305,Kissié,GQ
+r5,Q103,1300,Soussou,GN
+r5,Q103,1301,Poular,GN
+r5,Q103,1302,Maninka,GN
+r5,Q103,1303,Kpélé,GN
+r5,Q103,1304,Toma,GN
+r5,Q103,1305,Kissié,GN
 r5,Q103,1340,Afan Oromo (Oromifa),""
 r5,Q103,1341,Amharic,""
 r5,Q103,1342,Somaligna,""
@@ -1841,10 +1841,10 @@ r5,Q103,1343,Tigrigna,""
 r5,Q103,1500,Amazigh,""
 r5,Q103,1580,Amazigh,""
 r5,Q103,1620,siSwati,""
-r5,Q103,9995,Other,BJ CM GQ KE LS MU MZ SL SN SZ TG ZM ZW
+r5,Q103,9995,Other,BJ CM GN KE LS MU MZ SL SN SZ TG ZM ZW
 r5,Q2,-1,Missing,BW KE LR MW MZ NA ZW
 r5,Q2,1,English,BJ BW CM GH KE LR LS MU NA NG SD SZ ZA ZM ZW
-r5,Q2,2,French,BF BI BJ CI CM DZ GQ MA ML MU NE SD SN TG
+r5,Q2,2,French,BF BI BJ CI CM DZ GN MA ML MU NE SD SN TG
 r5,Q2,3,Portuguese,CV MW MZ NA SZ ZA
 r5,Q2,4,Kiswahili,BI KE MW TZ UG
 r5,Q2,5,Arabic,DZ EG KE MA SD TN
@@ -1864,12 +1864,12 @@ r5,Q2,18,Kiha,TZ
 r5,Q2,19,Kihangaza,TZ
 r5,Q2,20,Kissi,LR SL
 r5,Q2,21,Konkomba,GH TG
-r5,Q2,22,Kono,GQ SL
+r5,Q2,22,Kono,GN SL
 r5,Q2,23,Kru,LR SL
 r5,Q2,24,Lamba,TG ZM
 r5,Q2,25,Lobi,BF CI
 r5,Q2,26,Luo,KE UG
-r5,Q2,27,Mano,GQ LR
+r5,Q2,27,Mano,GN LR
 r5,Q2,28,Mende,LR SL
 r5,Q2,29,Ndau,MZ ZW
 r5,Q2,30,Ndebele,ZA ZM ZW
@@ -2353,22 +2353,22 @@ r5,Q2,1286,Kouzie,CI
 r5,Q2,1287,Koyaka,CI
 r5,Q2,1288,Mbatto,CI
 r5,Q2,1289,Mahouka,CI
-r5,Q2,1300,Soussou,GQ
-r5,Q2,1301,Baga,GQ
-r5,Q2,1302,Poular,GQ
-r5,Q2,1303,Djalounké,GQ
-r5,Q2,1304,Diakanké,GQ
-r5,Q2,1305,Maninka,GQ
-r5,Q2,1306,konianké,GQ
-r5,Q2,1307,Kpelé,GQ
+r5,Q2,1300,Soussou,GN
+r5,Q2,1301,Baga,GN
+r5,Q2,1302,Poular,GN
+r5,Q2,1303,Djalounké,GN
+r5,Q2,1304,Diakanké,GN
+r5,Q2,1305,Maninka,GN
+r5,Q2,1306,konianké,GN
+r5,Q2,1307,Kpelé,GN
 r5,Q2,1308,Mano,""
 r5,Q2,1309,Kono,""
-r5,Q2,1310,Loma,GQ
-r5,Q2,1311,Manian,GQ
-r5,Q2,1312,Kissié,GQ
-r5,Q2,1313,Landouma,GQ
-r5,Q2,1314,Kouranko,GQ
-r5,Q2,1315,Kakabhe,GQ
+r5,Q2,1310,Loma,GN
+r5,Q2,1311,Manian,GN
+r5,Q2,1312,Kissié,GN
+r5,Q2,1313,Landouma,GN
+r5,Q2,1314,Kouranko,GN
+r5,Q2,1315,Kakabhe,GN
 r5,Q2,1340,Afan Oromo (Oromifa),""
 r5,Q2,1341,Amharic,""
 r5,Q2,1342,Somaligna,""
@@ -2423,12 +2423,12 @@ r5,Q2,2751,Kingindo,TZ
 r5,Q2,2752,Kinguu,TZ
 r5,Q2,2753,Kinyiha,TZ
 r5,Q2,2754,Kinyamwanga,TZ
-r5,Q2,9995,Others,BF BJ BW CI CM GQ KE LR LS ML MW MZ NA NG SN TG TZ UG ZA ZM ZW
+r5,Q2,9995,Others,BF BJ BW CI CM GN KE LR LS ML MW MZ NA NG SN TG TZ UG ZA ZM ZW
 r5,Q2,9998,Refused,""
 r5,Q2,9999,Don't know,CM LR MZ NG SL TN ZM
 r6,Q103,-1,Missing,CI CM GH LR MW SL ZM ZW
 r6,Q103,1,English,BW CM CV GH KE LR LS MU MW NA NG SL SZ UG ZA ZM ZW
-r6,Q103,2,French,BF BI BJ CI CM GA GQ ML MU NE SN TG TN
+r6,Q103,2,French,BF BI BJ CI CM GA GN ML MU NE SN TG TN
 r6,Q103,3,Portuguese,MZ ST
 r6,Q103,4,Swahili,KE TZ
 r6,Q103,5,Arabic,DZ EG MA SD TN
@@ -2527,17 +2527,17 @@ r6,Q103,1180,Kirundi,BI
 r6,Q103,1220,Foufouldé,CM
 r6,Q103,1221,Pidgin,CM
 r6,Q103,1222,Ewondo,CM
-r6,Q103,1300,Soussou,GQ
-r6,Q103,1302,Poular,GQ
-r6,Q103,1305,Maninka,GQ
-r6,Q103,1307,Kpèlè,GQ
-r6,Q103,1312,Kissié,GQ
+r6,Q103,1300,Soussou,GN
+r6,Q103,1302,Poular,GN
+r6,Q103,1305,Maninka,GN
+r6,Q103,1307,Kpèlè,GN
+r6,Q103,1312,Kissié,GN
 r6,Q103,1620,siSwati,SZ
 r6,Q103,1660,Creolo,ST
-r6,Q103,9995,Other,CM GH GQ MA MW MZ SL SN ST SZ UG ZA ZM
+r6,Q103,9995,Other,CM GH GN MA MW MZ SL SN ST SZ UG ZA ZM
 r6,Q2,-1,Missing,LR
 r6,Q2,1,English,BF BW CM KE LR LS MG MU MW NA SD SL SZ UG ZA ZM ZW
-r6,Q2,2,French,BF BJ CI CM DZ GA GQ MG ML MU NA SN TG TN
+r6,Q2,2,French,BF BJ CI CM DZ GA GN MG ML MU NA SN TG TN
 r6,Q2,3,Portuguese,MZ NA ST ZA
 r6,Q2,4,Swahili,BI KE TZ UG
 r6,Q2,5,Arabic,MA TN
@@ -2559,7 +2559,7 @@ r6,Q2,20,Hausa,GH NG
 r6,Q2,21,Kanuri,NE NG
 r6,Q2,22,Kissi,LR SL
 r6,Q2,23,Lobi,BF CI
-r6,Q2,24,Mano,GQ LR
+r6,Q2,24,Mano,GN LR
 r6,Q2,25,Mende,LR SL
 r6,Q2,26,Ndau,MZ ZW
 r6,Q2,27,Ndebele,ZA ZW
@@ -2925,12 +2925,12 @@ r6,Q2,1279,Djimini,CI
 r6,Q2,1280,Gnanboua,CI
 r6,Q2,1281,Koyaka,CI
 r6,Q2,1282,Wobe,CI
-r6,Q2,1300,Soussou,GQ
-r6,Q2,1301,Poular,GQ
-r6,Q2,1302,Maninka,GQ
-r6,Q2,1303,Kpèlè,GQ
-r6,Q2,1304,Loma,GQ
-r6,Q2,1305,Kissié,GQ
+r6,Q2,1300,Soussou,GN
+r6,Q2,1301,Poular,GN
+r6,Q2,1302,Maninka,GN
+r6,Q2,1303,Kpèlè,GN
+r6,Q2,1304,Loma,GN
+r6,Q2,1305,Kissié,GN
 r6,Q2,1420,Algerian Arabic,DZ
 r6,Q2,1460,Egyptian Arabic,EG
 r6,Q2,1501,Alhassania,MA
@@ -2961,5 +2961,5 @@ r6,Q2,2745,Kiyao,TZ
 r6,Q2,2746,Kizanaki,TZ
 r6,Q2,2747,Kizaramo,TZ
 r6,Q2,2748,Kizigua,TZ
-r6,Q2,9995,Other,BF BJ BW CI CM GA GH GQ KE ML MU MW MZ NA NE NG SD SN SZ TG TZ UG ZA ZM ZW
+r6,Q2,9995,Other,BF BJ BW CI CM GA GH GN KE ML MU MW MZ NA NE NG SD SN SZ TG TZ UG ZA ZM ZW
 r6,Q2,9999,Don't know,CM LR MW MZ SD ST TZ ZM

@@ -397,9 +397,10 @@
   - Q103
   - Q3
 - iso_639_3:
-  - aka
   - fat
   - twi
+  - abr
+  - wss
   lang_id: 260
   lang_name: Akan
   question:
@@ -571,7 +572,7 @@
   - Q103
   - Q3
 - iso_639_3:
-  - bwi
+  - bwu
   lang_id: 282
   lang_name: Bule
   question:
@@ -747,9 +748,7 @@
   - Q103
   - Q3
 - iso_639_3:
-  - bas
   - bsq
-  - ngn
   lang_id: 380
   lang_name: Bassa
   question:
@@ -796,7 +795,6 @@
   - Q103
   - Q3
 - iso_639_3:
-  - kqs
   - kss
   lang_id: 387
   lang_name: Kissi
@@ -886,7 +884,6 @@
 - iso_639_3:
   - bhr
   - bmm
-  - buc
   - bzc
   - msh
   - skg
@@ -961,21 +958,21 @@
   - Q103
   - Q3
 - iso_639_3:
-  - nse
-  - nya
-  - tum
+  - zul
   lang_id: 465
   lang_name: Ngoni
   question:
   - Q103
   - Q3
 - iso_639_3:
-  - ngl
+  - lon
   lang_id: 466
   lang_name: Lomwe
   question:
   - Q103
   - Q3
+  note: |
+    Malawi Lamwe is distinct from other langs.
 - iso_639_3:
   - nya
   lang_id: 467
@@ -984,7 +981,7 @@
   - Q103
   - Q3
 - iso_639_3:
-  - seh
+  - swk
   lang_id: 468
   lang_name: Sena
   question:
@@ -1001,7 +998,6 @@
   - Q103
   - Q3
 - iso_639_3:
-  - nse
   - tum
   lang_id: 470
   lang_name: Senga
@@ -1009,9 +1005,7 @@
   - Q103
   - Q3
 - iso_639_3:
-  - toi
-  - ndc
-  - tso
+  - tog
   lang_id: 471
   lang_name: Tonga
   question:
@@ -1032,7 +1026,6 @@
   - Q103
   - Q3
 - iso_639_3:
-  - nih
   - nkv
   lang_id: 474
   lang_name: Nyika
@@ -1054,6 +1047,7 @@
   question:
   - Q103
   - Q3
+
 - iso_639_3:
   - mis
   lang_id: 477
@@ -1085,8 +1079,6 @@
 - iso_639_3:
   - bbo
   - bmq
-  - box
-  - bwq
   lang_id: 503
   lang_name: Bobo
   question:
@@ -1200,7 +1192,6 @@
   - Q3
 - iso_639_3:
   - taq
-  - thv
   - tmh
   - ttq
   lang_id: 516
@@ -1208,6 +1199,9 @@
   question:
   - Q103
   - Q3
+  note: |
+    Languages in Tamashek macrolang, except thv which isn't
+    spoken in Mali.
 - iso_639_3:
   - hau
   lang_id: 518
@@ -1371,12 +1365,14 @@
   - Q103
   - Q3
 - iso_639_3:
-  - sna
+  - ndc
   lang_id: 559
   lang_name: Shona
   question:
   - Q103
   - Q3
+  note: |
+    In MZ SHona refers to Ndau. https://www.ethnologue.com/country/MZ/languages
 - iso_639_3:
   - mis
   lang_id: 560
@@ -1589,11 +1585,9 @@
   - Q103
   - Q3
 - iso_639_3:
-  - bms
   - kau
   - kby
   - knc
-  - krt
   lang_id: 629
   lang_name: Kanuri
   question:
@@ -1866,7 +1860,6 @@
   - Q3
 - iso_639_3:
   - bcz
-  - bab
   - bcb
   lang_id: 667
   lang_name: Bainouk
@@ -1895,7 +1888,6 @@
   - Q103
   - Q3
 - iso_639_3:
-  - nde
   - nbl
   lang_id: 701
   lang_name: Ndebele
@@ -2073,7 +2065,7 @@
   - Q103
   - Q3
 - iso_639_3:
-  - unk
+  - und
   lang_id: 756
   lang_name: Kimanyema
   question:
@@ -2445,8 +2437,6 @@
   - Q3
 - iso_639_3:
   - toi
-  - ndc
-  - tso
   lang_id: 822
   lang_name: Tonga
   question:
@@ -2628,7 +2618,6 @@
   - Q3
 - iso_639_3:
   - nde
-  - nbl
   lang_id: 860
   lang_name: Ndebele
   question:

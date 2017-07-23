@@ -1,0 +1,93 @@
+ok_countries:
+  - round: r1
+    question:
+    - language
+    lang_id: 3
+    iso_639_3:
+    - nyu
+  - round: r1
+    lang_id:
+    - 197
+    question:
+    - language
+    iso_639_3:
+    - luo
+  - round: r2
+    lang_id: 161
+    question:
+    - q8e
+    - q97
+    iso_639_3:
+    - hau
+  - round: r2
+    lang_id: 66
+    question:
+    - q83
+    - q97
+    iso_639_3:
+    - luo
+
+  - round: r3
+    lang_id: 820
+    question:
+    - q3
+    iso_639_3:
+    - gex
+  - round: r3
+    lang_id: 413
+    question:
+    - q3
+    - q103
+    iso_639_3:
+    - luo
+  - round: r3
+    lang_id: 221
+    question:
+    - q3
+    - q103
+    iso_639_3:
+    - nso
+  - round: r3
+    lang_id: 367
+    question:
+    - q3
+    - q103
+    iso_639_3:
+    - bam
+  - round: r3
+    lang_id: 243
+    question:
+    - q3
+    - q103
+    iso_639_3:
+    - swb
+    - wlc
+    - wni
+    - zdj
+
+  - round: r4
+    lang_id: 476
+    question:
+    - Q3
+    iso_639_3:
+    - mwn
+  - round: r4
+    lang_id: 518
+    question:
+    - Q3
+    iso_639_3:
+    - hau
+
+  - round: r6
+    lang_id: 266
+    question:
+    - Q2
+    iso_639_3:
+    - mos
+  - round: r6
+    lang_id: 314
+    question:
+    - Q2
+    iso_639_3:
+    - gex
+  - round: r6

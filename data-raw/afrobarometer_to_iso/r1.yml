@@ -175,15 +175,15 @@
   question:
   - language
 - iso_639_3:
-  - nse
-  - nya
-  - tum
+  - zul
   lang_id: 32
   lang_name: Ngoni
   question:
   - language
+  note: |
+    Ngoni is dialect of Zulu spokenin MW
 - iso_639_3:
-  - ngl
+  - lon
   lang_id: 33
   lang_name: Lomwe
   question:
@@ -213,9 +213,10 @@
   question:
   - language
 - iso_639_3:
-  - aka
   - fat
   - twi
+  - abr
+  - wss
   lang_id: 41
   lang_name: Akan
   question:
@@ -495,7 +496,7 @@
   question:
   - language
 - iso_639_3:
-  - kno
+  - nko
   lang_id: 83
   lang_name: Nkona
   question:
@@ -567,7 +568,6 @@
   - language
 - iso_639_3:
   - taq
-  - thv
   - ttq
   lang_id: 91
   lang_name: Tamasheq
@@ -576,8 +576,6 @@
 - iso_639_3:
   - bbo
   - bmq
-  - box
-  - bwq
   lang_id: 92
   lang_name: Bobo
   question:
@@ -678,10 +676,8 @@
   question:
   - language
 - iso_639_3:
-  - bms
   - kby
   - knc
-  - krt
   lang_id: 109
   lang_name: Kanuri
   question:
@@ -953,11 +949,13 @@
   question:
   - language
 - iso_639_3:
-  - kof
+  - ruk
   lang_id: 155
   lang_name: Kuba
   question:
   - language
+  note: |
+    Note Kubi (kof) since no known speakers
 - iso_639_3:
   - mis
   lang_id: 156
@@ -1190,7 +1188,6 @@
   question:
   - language
 - iso_639_3:
-  - swc
   - swh
   lang_id: 193
   lang_name: Kiswahili
@@ -1344,9 +1341,7 @@
   question:
   - language
 - iso_639_3:
-  - nse
-  - nya
-  - tum
+  - ngo
   lang_id: 218
   lang_name: Ngoni
   question:

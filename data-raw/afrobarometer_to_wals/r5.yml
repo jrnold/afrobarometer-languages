@@ -1,0 +1,15 @@
+- wals_code:
+  - ger
+  lang_id: 581
+  lang_name: German
+  question:
+  - Q2
+- wals_code:
+  - por
+  lang_id: 220
+  lang_name: Crioulo
+  question:
+  - Q103
+  - Q2
+  note: |
+    This creole is close to Portugese. https://www.ethnologue.com/language/kea

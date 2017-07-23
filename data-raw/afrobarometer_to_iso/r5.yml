@@ -339,7 +339,7 @@
   question:
   - Q2
 - iso_639_3:
-  - bkq
+  - bqc
   lang_id: 108
   lang_name: Boo
   note: 'Boko language https://en.wikipedia.org/wiki/Boko_language
@@ -601,9 +601,10 @@
   - Q103
   - Q2
 - iso_639_3:
-  - aka
   - fat
   - twi
+  - abr
+  - wss
   lang_id: 260
   lang_name: Akan
   question:
@@ -783,7 +784,7 @@
   question:
   - Q2
 - iso_639_3:
-  - unk
+  - und
   lang_id: 283
   lang_name: Other Northern Languages
   note: 'Unknown
@@ -863,7 +864,6 @@
   - dig
   - dug
   - nyf
-  - seg
   lang_id: 308
   lang_name: Mijikenda
   question:
@@ -953,9 +953,7 @@
   - Q2
 - iso_639_3:
   - gax
-  - hae
   - orc
-  - gaz
   lang_id: 322
   lang_name: Oroma
   note: 'Include languages in the Oromo macrolanguage
@@ -1127,7 +1125,6 @@
 - iso_639_3:
   - bhr
   - bmm
-  - buc
   - bzc
   - msh
   - skg
@@ -1141,6 +1138,9 @@
   question:
   - Q103
   - Q2
+  note: |
+    Don't include Bushi since it is spoken largely in Mayotte
+    rather than Madagascar.
 - iso_639_3:
   - cmn
   - yue
@@ -1189,7 +1189,7 @@
   question:
   - Q2
 - iso_639_3:
-  - lam
+  - lai
   lang_id: 462
   lang_name: Chilambya
   question:
@@ -1241,7 +1241,6 @@
   - Q2
 - iso_639_3:
   - nkv
-  - she
   lang_id: 470
   lang_name: Chisenga
   question:
@@ -1423,7 +1422,6 @@
   - Q2
 - iso_639_3:
   - taq
-  - thv
   - tmh
   - ttq
   lang_id: 518
@@ -1747,11 +1745,9 @@
   question:
   - Q2
 - iso_639_3:
-  - bms
   - kau
   - kby
   - knc
-  - krt
   lang_id: 629
   lang_name: Kanuri
   question:
@@ -1869,7 +1865,7 @@
   question:
   - Q2
 - iso_639_3:
-  - ibl
+  - igl
   lang_id: 648
   lang_name: Ibaji
   note: 'Alt name for Igala. https://www.ethnologue.com/country/NG/languages
@@ -2010,7 +2006,6 @@
   - Q2
 - iso_639_3:
   - bcz
-  - bab
   - bcb
   lang_id: 667
   lang_name: Bainouk
@@ -2224,7 +2219,7 @@
   question:
   - Q2
 - iso_639_3:
-  - unk
+  - und
   lang_id: 756
   lang_name: Kimanyema
   question:
@@ -2631,8 +2626,6 @@
   - Q2
 - iso_639_3:
   - toi
-  - ndc
-  - tso
   lang_id: 822
   lang_name: Tonga
   question:
@@ -2850,7 +2843,6 @@
   - Q2
 - iso_639_3:
   - nde
-  - nbl
   lang_id: 860
   lang_name: Ndebele
   question:
@@ -2955,8 +2947,7 @@
   question:
   - Q2
 - iso_639_3:
-  - bja
-  - tmv
+  - sna
   lang_id: 874
   lang_name: Buja
   question:
@@ -3135,7 +3126,6 @@
   question:
   - Q2
 - iso_639_3:
-  - tug
   - dzg
   lang_id: 1107
   lang_name: Toubou
@@ -3340,21 +3330,23 @@
   question:
   - Q2
 - iso_639_3:
+  - fmp
   - bbj
   - bko
   - byv
-  - fmp
-  - jgo
-  - new
-  - nla
-  - nnh
-  - nnz
   - xmg
+  - nnz
+  - nnh
+  - jgo
+  - nla
+  - nwe
   - ybb
   lang_id: 1229
   lang_name: Bamileke
   question:
   - Q2
+  note: |
+    All Bamileke languages mentioned in https://www.ethnologue.com/country/CM/languages
 - iso_639_3:
   - bax
   lang_id: 1230
@@ -3537,7 +3529,7 @@
   question:
   - Q2
 - iso_639_3:
-  - nqn
+  - ngn
   lang_id: 1258
   lang_name: Njikwa
   note: 'Ngwo is a language spoken in Njikwa subdivision. https://www.ethnologue.com/country/CM/languages
@@ -3576,7 +3568,7 @@
   question:
   - Q2
 - iso_639_3:
-  - anyin
+  - any
   lang_id: 1263
   lang_name: Agni
   note: 'Alt name of Anyin
@@ -3674,7 +3666,14 @@
   - Q2
 - iso_639_3:
   - dyi
-  - plr - seb - sef - sen - sep - seq - sev - tgw
+  - plr
+  - seb
+  - sef
+  - sen
+  - sep
+  - seq
+  - sev
+  - tgw
   lang_id: 1278
   lang_name: Sénoufo
   question:
@@ -3872,7 +3871,7 @@
   question:
   - Q2
 - iso_639_3:
-  - tom
+  - tod
   lang_id: 1310
   lang_name: Loma
   question:

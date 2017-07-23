@@ -21,10 +21,11 @@ INPUTS <- list(
   afrobarometer_langs = list("data", "afrobarometer_langs.csv"),
   iso_langs = list("external",
                    "iso-639-3",
-                   "iso-639-3_Code_Tables_20160525",
-                   "iso-639-3_20160525.tab"),
+                   "iso-639-3_Code_Tables_20170217",
+                   "iso-639-3_20170202.tab"),
   afrobarometer_countries = list("data-raw", "afrobarometer_countries.csv"),
-  afrobarometer_to_wals = list("data-raw", "afrobarometer_r6_to_wals.yml"),
+  afrobarometer_to_wals = list("data-raw", "afrobarometer_to_wals"),
+  afrobarometer_to_wals_tests = list("data-raw", "afrobarometer_to_wals_tests.yml"),
   afrobarometer_to_iso = list("data", "afrobarometer_to_iso_639_3.csv"),
   wals = list("external", "wals", "language.csv"),
   wals_update = list("data-raw", "wals-updates.csv"),
@@ -33,49 +34,45 @@ INPUTS <- list(
 {setNames(map(., function(x) invoke(find_rstudio_root_file, x)),
           names(.))}
 
-metadata <-
-  list(
-    variables = list(
-      question = "Afrobarometer question nubmer",
-      lang_id = "Afrobarometer language value",
-      lang_name = "Afrobarometer language name (label)",
-      wals_code = "WALS language code",
-      wals_name = "WALS language name",
-      auto = "If false, manually matched. If true, the closest WALS language to ISO languages matched to the Afrobarometer language",
-      distance = "The Ethnologue tree distance of the ISO-WALS language used if an automatic match is used.",
-      latitude = "latitude of the WALS language",
-      longitude = "longitude of the WALS language",
-      genus = "WALS language genus",
-      family = "WALS language family",
-      countrycodes = "Countries in which the WALS language appears, as space separated ISO-3166 alpha-2 codes."
-    )
-  )
-
-
 read_afrobarometer_langs <- function() {
   read_csv(INPUTS$afrobarometer_langs, na = "",
            col_types = cols_only(
              round = col_character(),
              question = col_character(),
-             lang_id = col_integer(),
-             lang_name = col_character(),
+             value = col_integer(),
+             name = col_character(),
              countries = col_character()
            )) %>%
-    filter(round == "r6") %>%
-    select(-round)
+    mutate(lang_id = value,
+           lang_name = name)
 }
 afrobarometer_langs <- read_afrobarometer_langs()
 
-read_afrobaromter_to_wals <- function() {
-  yaml.load_file(INPUTS$afrobarometer_to_wals) %>%
+read_afrobarometer_to_wals <- function(filename) {
+  print(filename)
+  ab_round <- tools::file_path_sans_ext(basename(filename))
+  yaml.load_file(filename) %>%
     map(compact) %>%
-    map_df(function(.x) {
-      tidyr::crossing(lang_id = .x$lang_id,
-               question = .x$questions,
-               wals_code = .x$wals_codes)
-    })
+    map(function(.x) {
+      if (is.null(.x$wals_code)) {
+        NULL
+      } else {
+        out <- tidyr::crossing(question = .x[["question"]],
+                               wals_code = .x[["wals_code"]])
+        out[["lang_id"]] <- .x$lang_id
+        out[["round"]] <- ab_round
+        out
+      }
+    }) %>%
+    bind_rows()
 }
-afrobarometer_to_wals_manual <- read_afrobaromter_to_wals()
+
+read_afrobarometer_to_wals_all <- function() {
+  dir(INPUTS[["afrobarometer_to_wals"]], pattern = "*.yml", full.names = TRUE) %>%
+    map_df(read_afrobarometer_to_wals)
+}
+
+afrobarometer_to_wals_manual <- read_afrobarometer_to_wals_all()
 
 read_wals <- function() {
   wals <- read_csv(INPUTS$wals,
@@ -159,7 +156,7 @@ make_distances <- function(x) {
 #' ISO to WALS
 #'
 #' For all ISO 639-3 languages in Ethnologue find the closest ISO-639-3
-#' language associated with a WALS language (within the Ethnologue family).
+#' language(s) associated with a WALS language (within the Ethnologue family).
 #'
 iso_to_wals <-
   map_df(ethnologue_tree, make_distances) %>%
@@ -172,6 +169,7 @@ iso_to_wals <-
 read_afrobarometer_to_iso <- function() {
   read_csv(INPUTS$afrobarometer_to_iso, na = "",
     col_types = cols_only(
+      round = col_character(),
       question = col_character(),
       iso_639_3 = col_character(),
       lang_id = col_integer()
@@ -188,14 +186,17 @@ afrobarometer_to_iso <- read_afrobarometer_to_iso()
 #'    using the table previously constructed
 #' - for each Afrobarometer language, keep the "closest" WALS language(s)
 afrobarometer_to_wals_auto <-
-  select(afrobarometer_to_iso, question, lang_id, iso_code) %>%
-  anti_join(afrobarometer_to_wals_manual, by = c("question", "lang_id")) %>%
+  select(afrobarometer_to_iso, round, question, lang_id, iso_code) %>%
+  # remove values from special
+  filter(!iso_code %in% c("mul", "mis", "und", "zxx")) %>%
+  anti_join(afrobarometer_to_wals_manual,
+            by = c("round", "question", "lang_id")) %>%
   inner_join(select(iso_to_wals, iso_code, wals_code, distance),
             by = "iso_code") %>%
-  group_by(question, lang_id) %>%
-  # select the WALS language closest to the original ISO lang
-  filter(distance == min(distance)) %>%
-  select(question, lang_id, wals_code, distance)
+  # Keep distinct WALS codes
+  group_by(round, question, lang_id, wals_code) %>%
+  summarise(distance = min(distance)) %>%
+  ungroup()
 
 #' Combine the auto and manual matches
 afrobarometer_to_wals <-
@@ -207,18 +208,40 @@ afrobarometer_to_wals <-
 #' Add some of the original values
 afrobarometer_to_wals %<>%
   left_join(select(wals, wals_code, wals_name = Name,
-                   latitude, longitude, genus, family, countrycodes),
+                   latitude, longitude, genus, family, countrycodes, macroarea),
             by = "wals_code") %>%
-  left_join(select(afrobarometer_langs, question, lang_id, lang_name),
-            by = c("question", "lang_id")) %>%
-  mutate(round = "r6") %>%
-  select(round, question, lang_id, lang_name, wals_code, wals_name, everything()) %>%
+  left_join(select(afrobarometer_langs, round, question, lang_id, lang_name),
+            by = c("round", "question", "lang_id")) %>%
+  # ensure that all empty wals_codes are missing
+  mutate(wals_code = if_else(str_trim(wals_code) == "",
+                             NA_character_, wals_code)) %>%
+  select(round, question, lang_id, lang_name, wals_code, wals_name,
+         everything()) %>%
   arrange(round, question, lang_id)
 
 #' Check that everything matches or is accounted for
-nonmatches <- anti_join(afrobarometer_langs, afrobarometer_to_wals,
-                        by = c("question", "lang_id"))
-stopifnot(nrow(nonmatches) == 0L)
+# afrob_nonmatches <- anti_join(afrobarometer_langs,
+#                               afrobarometer_to_wals,
+#                         by = c("question", "lang_id"))
+# stopifnot(nrow(afrob_nonmatches) == 0L)
+
+#' Check that all WALS codes are valid
+#'
+#' wals_codes can be missing, but if non-missing must appear in WALS dataset
+#'
+wals_nonmatches <- anti_join(filter(afrobarometer_to_wals, !is.na(wals_code)),
+                             wals, by = c("wals_code"))
+stopifnot(nrow(wals_nonmatches) == 0L)
+
+#' All WALS languages should be from the Africa Macrolanguage unless accounted
+#' for.
+tests_data <- yaml.load_file(INPUTS$afrobarometer_to_wals_tests)
+wals_non_african <-
+  afrobarometer_to_wals %>%
+  filter(!(wals_code %in% tests_data$non_african)) %>%
+  filter(!(macroarea %in% "Africa"))
+stopifnot(nrow(wals_non_african) == 0L)
+
 
 #' Write output
 write_afrobarometer_to_wals <- function(x, path) {

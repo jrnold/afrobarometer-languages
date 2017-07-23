@@ -53,8 +53,11 @@ The following custom ISO codes are used to indicate missing and other matches:
 9995  Other             und
 9999  Don't Know        und
 9998  Refused to answer und
-710   Asian/Indian      mul
 ----- ----------------- ------
+
+- `und`: Undetermined language for missing values
+- `mul`: For entries that correspond to multiple and **not closely related languages**, e.g. "English and Afrikaans", or "Asian languages" rather than several closely related languages/dialects.
+- `mis`: If the language could not be matched.
 
 # WALS
 

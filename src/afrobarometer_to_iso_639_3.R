@@ -26,7 +26,14 @@ INPUTS <- list(
                             "iso-639-3",
                             "iso-639-3_Code_Tables_20170217",
                             "iso-639-3-macrolanguages_20170131.tab"),
-  afrobarometer_to_iso = list("data-raw", "afrobarometer_r6_to_iso.yml")
+  afrobarometer_r1_to_iso = list("data-raw", "afrobarometer_to_iso", "r1.yml"),
+  afrobarometer_r2_to_iso = list("data-raw", "afrobarometer_to_iso", "r2.yml"),
+  afrobarometer_r3_to_iso = list("data-raw", "afrobarometer_to_iso", "r3.yml"),
+  afrobarometer_r4_to_iso = list("data-raw", "afrobarometer_to_iso", "r4.yml"),
+  afrobarometer_r5_to_iso = list("data-raw", "afrobarometer_to_iso", "r5.yml"),
+  afrobarometer_r6_to_iso = list("data-raw", "afrobarometer_to_iso", "r6.yml"),
+  ethnologue = list("external", "ethnologue", "Language_Code_Data_20170221",
+                    "LanguageIndex.tab")
   ) %>%
   {setNames(map(., function(x) invoke(find_rstudio_root_file, x)),
             names(.))}
@@ -37,21 +44,13 @@ read_afrobarometer_langs <- function() {
            col_types = cols(
              round = col_character(),
              question = col_character(),
-             lang_id = col_integer(),
-             lang_name = col_character(),
+             value = col_integer(),
+             label = col_character(),
              countries = col_character()
            )) %>%
-    filter(round == "r6") %>%
-    select(-round)
+    rename(lang_id = value, lang_name = name)
 }
 afrobarometer_langs <- read_afrobarometer_langs()
-
-#'
-#' Create a dataset that will be used match names.
-#' Often the Afrobarometer lists multiple names for languages,
-#' these are seperated into multiple rows.
-#' Additionally the names are standardized to be more likely to match:
-#' all lower ASCII, non-letters removed.
 
 #'
 #' Includes:
@@ -76,7 +75,6 @@ afrobarometer_langs <- read_afrobarometer_langs()
 #' See [original documentation](http://www-01.sil.org/iso639-3/download.asp)
 #'
 #' Keep only living languages
-
 read_iso_langs <- function(x) {
   read_tsv(INPUTS$iso_langs,
            col_names =
@@ -118,18 +116,26 @@ read_iso_macrolangs <- function() {
 }
 iso_macrolangs <- read_iso_macrolangs()
 
-read_afrobarometer_to_iso <- function() {
-  yaml.load_file(INPUTS$afrobarometer_to_iso) %>%
+read_afrobarometer_to_iso <- function(filename) {
+  ab_round <- tools::file_path_sans_ext(basename(filename))
+  yaml.load_file(filename) %>%
     map(compact) %>%
     map_df(function(.x) {
       out <- tidyr::crossing(question = .x[["question"]],
+
                       iso_639_3 = .x[["iso_639_3"]])
       out[["lang_id"]] <- .x$lang_id
-      out[["note"]] <- .x$note
+      out[["round"]] <- ab_round
       out
     })
 }
-afrobarometer_to_iso <- read_afrobarometer_to_iso()
+
+read_afrobarometer_to_iso_all <- function() {
+  INPUTS[str_subset(names(INPUTS), "afrobarometer_r\\d+_to_iso")] %>%
+    map_df(read_afrobarometer_to_iso)
+}
+
+afrobarometer_to_iso <- read_afrobarometer_to_iso_all()
 
 #' Add any ISO macro-languages associated with matched ISO languages:
 afrobarometer_to_iso_macros <-
@@ -156,33 +162,74 @@ afrobarometer_to_iso %<>%
                    ),
             by = "iso_639_3")
 
-#' Add
+#' Add Additional info from Afrobarometer
 afrobarometer_to_iso %<>%
-  left_join(select(afrobarometer_langs, question, lang_id, lang_name),
-            by = c("question", "lang_id")) %>%
-  mutate(round = "r6") %>%
+  left_join(select(afrobarometer_langs, round, question, lang_id, lang_name),
+            by = c("round", "question", "lang_id")) %>%
   arrange(round, question, lang_id, iso_639_3) %>%
   select(round, question, lang_id, lang_name,
-         iso_639_3, iso_ref_name, iso_scope, note)
+         iso_639_3, iso_ref_name, iso_scope)
 
-# Check that there are no languages that are unaccounted for
-nonmatches <-
+#' Checks
+#'
+#' All Afrobarometer Languages Should be Accounted For
+afrobarometer_lang_nonmatches <-
   anti_join(afrobarometer_langs, afrobarometer_to_iso,
           by = c("question", "lang_id"))
-stopifnot(nrow(nonmatches) == 0)
+stopifnot(nrow(afrobarometer_lang_nonmatches) == 0)
+
+#' All ISO-Codes should be valid
+#' not missing
+stopifnot(all(!is.na(afrobarometer_to_iso$iso_639_3)))
+
+#' A valid ISO code
+SPECIAL_ISO_CODES <- c("mis", "mul", "und", "zxx")
+iso_lang_nonmatches <-
+  anti_join(filter(afrobarometer_to_iso, !(iso_639_3 %in% SPECIAL_ISO_CODES)),
+            iso_langs,
+            by = c("iso_639_3" = "Id"))
+stopifnot(nrow(iso_lang_nonmatches) == 0)
+
+# TODO: check languages against countries in Ethnologue and Afrobarometer
+read_ethnologue <- function() {
+  read_tsv(INPUTS$ethnologue,
+           col_types = cols(
+             LangID = col_character(),
+             CountryID = col_character(),
+             NameType = col_character(),
+             Name = col_character()
+           ),
+           na = "") %>%
+    select(LangID, CountryID) %>%
+    group_by(LangID) %>%
+    summarise(countries = list(sort(unique(CountryID))))
+}
+ethnologue_langidx <- read_ethnologue()
+
+afrobarometer_langs_countries <-
+  afrobarometer_langs %>%
+  select(round, question, lang_id, countries) %>%
+  filter(!is.na(countries)) %>%
+  mutate(countries = str_split(countries, " +"))
+
+afrobarometer_to_iso %>%
+  filter(!iso_639_3 %in% c("mis", "und", "mul")) %>%
+  filter(iso_scope %in% c("I")) %>%
+  inner_join(afrobarometer_langs_countries,
+             by = c("round", "question", "lang_id")) %>%
+  inner_join(rename(ethnologue_langidx, ethnologue_countries = countries),
+            by = c(iso_639_3 = "LangID")) %>%
+  mutate(country_overlap =
+            map2_lgl(countries, ethnologue_countries, ~ any(.x %in% .y))) %>%
+  filter(!country_overlap) %>%
+  mutate(countries = map_chr(countries, paste, collapse = " "),
+         ethnologue_countries = map_chr(ethnologue_countries, paste,
+                                        collapse = " ")) %>%
+  print(width = 10000, n = 100)
+
 
 # Write final output
 write_afroarometer_to_iso <- function(x, path) {
   write_csv(x, path = path, na = "")
 }
 write_afroarometer_to_iso(afrobarometer_to_iso, OUTPUT)
-
-metadata <- list(
-  variables = list(
-    question = str_c("Afrobarometer question number"),
-    lang_id = str_c("Afrobarometer language id (variable value)"),
-    lang_name = str_c("Afrobarometer language name (variable label)"),
-    iso_639_3 = str_c("ISO-639-3 language code"),
-    iso_ref_name = "ISO 639-3 language reference name",
-    iso_scope = "I = individual language, M = macrolanguage"    )
-)

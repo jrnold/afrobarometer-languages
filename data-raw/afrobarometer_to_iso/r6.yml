@@ -243,13 +243,13 @@
   iso_639_3:
   - dyi
   - plr
-    - seb
-    - sef
-    - sen
-    - sep
-    - seq
-    - sev
-    - tgw
+  - seb
+  - sef
+  - sen
+  - sep
+  - seq
+  - sev
+  - tgw
   question:
   - Q2
   note: null
@@ -550,11 +550,14 @@
   iso_639_3:
   - fat
   - twi
+  - abr
+  - wss
   question:
   - Q103
   - Q2
   note: |
-    Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in the individual Afrobarometer languages
+    Akan is an ISO 639-3 Macrolanguage (Aka).
+    Neither Fanti nor Twi appear in the individual Afrobarometer languages
 - lang_id: 262
   lang_name: Ga/Dangbe
   iso_639_3:
@@ -769,12 +772,11 @@
   - dig
   - dug
   - nyf
-  - seg
   question:
   - Q2
   note: >
     Mijikenda language maps to ISO 639-3 languages Chonyi (coh), Digo (dig), Duruma
-    (dug), Giryama (nyf), and Segeju (Seg) https://en.wikipedia.org/wiki/Mijikenda_language
+    (dug), Giryama (nyf).
 - lang_id: 309
   lang_name: Taita
   iso_639_3:
@@ -964,7 +966,6 @@
   iso_639_3:
   - bhr
   - bmm
-  - buc
   - bzc
   - msh
   - skg
@@ -997,10 +998,9 @@
 - lang_id: 462
   lang_name: Chilambya
   iso_639_3:
-  - lam
+  - lai
   question:
   - Q2
-  note: Chilamba is one of the offical Zambian languages
 - lang_id: 463
   lang_name: Chichewa
   iso_639_3:
@@ -1055,12 +1055,9 @@
   lang_name: Chisenga
   iso_639_3:
   - nkv
-  - she
+  - tum
   question:
   - Q2
-  note: >
-    http://www.ethnologue.com/18/country/MW/languages/ Chisenga area villages
-    mention Nyika. Also named Chisena. Spoken in neighboring Mozambique. https://www.ethnologue.com/language/seh
 - lang_id: 471
   lang_name: Chitonga
   iso_639_3:
@@ -1878,7 +1875,7 @@
 - lang_id: 756
   lang_name: Kimanyema
   iso_639_3:
-  - unk
+  - und
   question:
   - Q2
   note: Could not find a match
@@ -2500,11 +2497,11 @@
 - lang_id: 870
   lang_name: Buja
   iso_639_3:
-  - bja
-  - tmv
+  - sna
   question:
   - Q2
-  note: https://en.wikipedia.org/wiki/Budza_language
+  note: |
+    Buja is a subdialect of Korekore. https://en.wikipedia.org/wiki/Talk:Shona_language
 - lang_id: 871
   lang_name: Shangani
   iso_639_3:
@@ -2515,10 +2512,11 @@
 - lang_id: 872
   lang_name: Suthu
   iso_639_3:
-  - sot
+  - nso
   question:
   - Q2
-  note: https://en.wikipedia.org/wiki/Sotho_language
+  note: |
+    In ZW, probably north Sotho
 - lang_id: 900
   lang_name: Creole
   iso_639_3:
@@ -2836,19 +2834,14 @@
   - byv
   - fmp
   - jgo
-  - new
   - nla
   - nnh
   - nnz
+  - nwe
   - xmg
   - ybb
   question:
   - Q2
-  note: >
-    Fefe, Ghomala, Kwa, Medumba, Mengaka, Ndanda, Ngiemboon, Ngomba, Ngombale,
-    Ngwe, Yemba. This is listed as an alternative name for multiple other languages.
-    We should see if there is any discrepancy in gender features among these, if so,
-    we should delete.
 - lang_id: 1230
   lang_name: Bamoun
   iso_639_3:
@@ -3220,7 +3213,7 @@
 - lang_id: 1304
   lang_name: Loma
   iso_639_3:
-  - tom
+  - tod
   question:
   - Q2
   note: Toma is the dialect of Loma spoken in Guinea
@@ -3285,11 +3278,8 @@
   lang_name: Nubian Language
   iso_639_3:
   - fia
-  - kzh
   question:
   - Q2
-  note: Nobiin. This is the most widely spoken Nubian language. kzh (Dongoloese) is
-    used to match with WALS Nuban (Dongolese)
 - lang_id: 1620
   lang_name: siSwati
   iso_639_3:
@@ -3337,21 +3327,21 @@
 - lang_id: 1701
   lang_name: Punu/Mériè
   iso_639_3:
-  - kog
+  - koq
   question:
   - Q2
   note: https://www.ethnologue.com/country/ga/languages
 - lang_id: 1702
   lang_name: Kota
   iso_639_3:
-  - kog
+  - koq
   question:
   - Q2
   note: https://www.ethnologue.com/country/ga/languages
 - lang_id: 1703
   lang_name: Mbédè
   iso_639_3:
-  - mbt
+  - mdt
   question:
   - Q2
   note: Alternate name is Mbede. https://www.ethnologue.com/country/ga/languages
