@@ -80,7 +80,7 @@ r1,language,63,Ada,ada,Adangme,I
 r1,language,64,Waale,wlx,Wali (Ghana),I
 r1,language,65,Nabi,gur,Farefare,I
 r1,language,66,Mamprulni,maw,Mampruli,I
-r1,language,67,Zabagle,mis,,
+r1,language,67,Zabagle,mis,Uncoded languages,S
 r1,language,68,Gonja,gjn,Gonja,I
 r1,language,69,Efutu,afu,Awutu,I
 r1,language,70,Senya,afu,Awutu,I
@@ -100,7 +100,7 @@ r1,language,72,Wangara,bib,Bissa,I
 r1,language,72,Wangara,lig,Ligbi,I
 r1,language,73,Dagomba,dag,Dagbani,I
 r1,language,74,Buam/Lelemi,lef,Lelemi,I
-r1,language,75,Nsahas,mis,,
+r1,language,75,Nsahas,mis,Uncoded languages,S
 r1,language,76,Brong,abr,Abron,I
 r1,language,77,Basari,bud,Ntcham,I
 r1,language,78,Kanjaga,bwu,Buli (Ghana),I
@@ -172,28 +172,28 @@ r1,language,113,Irobo/Urhobo,urh,Urhobo,I
 r1,language,114,Idoma,idu,Idoma,I
 r1,language,115,Calabar,efi,Efik,I
 r1,language,116,Ogoja,yba,Yala,I
-r1,language,117,Knale,mis,,
+r1,language,117,Knale,mis,Uncoded languages,S
 r1,language,118,Igala,igl,Igala,I
 r1,language,119,Boki,bky,Bokyi,I
 r1,language,120,Igbira,igb,Ebira,I
-r1,language,121,Ikpon,mis,,
+r1,language,121,Ikpon,mis,Uncoded languages,S
 r1,language,122,Isoko,iso,Isoko,I
 r1,language,123,Ikan,kcf,Ukaan,I
 r1,language,124,Ishan/Esan,ish,Esan,I
-r1,language,125,Anam,mis,,
-r1,language,126,Annag,mis,,
+r1,language,125,Anam,mis,Uncoded languages,S
+r1,language,126,Annag,mis,Uncoded languages,S
 r1,language,127,Itsekiri,its,Isekiri,I
 r1,language,128,Ika,ikk,Ika,I
 r1,language,129,Ukwale,ukw,Ukwuani-Aboh-Ndoni,I
 r1,language,130,Epie,epi,Epie,I
 r1,language,131,Tangoa,uta,Otank,I
-r1,language,132,Omoku,mis,,
-r1,language,133,Ora,mis,,
-r1,language,134,Auche,mis,,
-r1,language,135,Okirika,mis,,
-r1,language,136,Esako,mis,,
+r1,language,132,Omoku,mis,Uncoded languages,S
+r1,language,133,Ora,mis,Uncoded languages,S
+r1,language,134,Auche,mis,Uncoded languages,S
+r1,language,135,Okirika,mis,Uncoded languages,S
+r1,language,136,Esako,mis,Uncoded languages,S
 r1,language,137,Okpe,oke,Okpe (Southwestern Edo),I
-r1,language,138,Owan,mis,,
+r1,language,138,Owan,mis,Uncoded languages,S
 r1,language,139,Ikwerre,ikw,Ikwere,I
 r1,language,140,Ibani,iby,Ibani,I
 r1,language,141,Kalabari,ijn,Kalabari,I
@@ -205,9 +205,9 @@ r1,language,146,Fulani,fub,Adamawa Fulfulde,I
 r1,language,146,Fulani,ful,Fulah,M
 r1,language,147,Kagoro,kcg,Tyap,I
 r1,language,148,Bekwarr,bkv,Bekwarra,I
-r1,language,149,Nkwana,mis,,
+r1,language,149,Nkwana,mis,Uncoded languages,S
 r1,language,150,Babur,bwr,Bura-Pabir,I
-r1,language,151,Kiiba,mis,,
+r1,language,151,Kiiba,mis,Uncoded languages,S
 r1,language,152,Nungu,rin,Nungu,I
 r1,language,153,Kabba/Koro,ahs,Ashe,I
 r1,language,153,Kabba/Koro,bqv,Koro Wachi,I
@@ -215,10 +215,10 @@ r1,language,153,Kabba/Koro,ldb,Dũya,I
 r1,language,153,Kabba/Koro,yes,Nyankpa,I
 r1,language,154,Eggon,ego,Eggon,I
 r1,language,155,Kuba,ruk,Che,I
-r1,language,156,Madara,mis,,
+r1,language,156,Madara,mis,Uncoded languages,S
 r1,language,157,Bura,bwr,Bura-Pabir,I
 r1,language,158,Margi,mrt,Marghi Central,I
-r1,language,159,Cabarmawa,mis,,
+r1,language,159,Cabarmawa,mis,Uncoded languages,S
 r1,language,160,Kibaku,ckl,Cibak,I
 r1,language,161,Mafa,maf,Mafa,I
 r1,language,162,Beron/Birom,bom,Berom,I
@@ -231,24 +231,24 @@ r1,language,166,Koro,ldb,Dũya,I
 r1,language,166,Koro,yes,Nyankpa,I
 r1,language,167,Normana,nbr,Numana-Nunku-Gbantu-Numbu,I
 r1,language,168,Miango,iri,Irigwe,I
-r1,language,169,Gyerawa,mis,,
-r1,language,170,Eterco,mis,,
+r1,language,169,Gyerawa,mis,Uncoded languages,S
+r1,language,170,Eterco,mis,Uncoded languages,S
 r1,language,171,Zar,say,Saya,I
-r1,language,172,Lantan,mis,,
+r1,language,172,Lantan,mis,Uncoded languages,S
 r1,language,173,Mwaghauw,sur,Mwaghavul,I
 r1,language,174,Pyem,pym,Fyam,I
 r1,language,175,Chawai,cch,Atsam,I
 r1,language,176,Gbaji,gbr,Gbagyi,I
-r1,language,177,Nanba/Wanba,mis,,
+r1,language,177,Nanba/Wanba,mis,Uncoded languages,S
 r1,language,178,Jarawa,jjr,Bankal,I
 r1,language,179,Katap,kcg,Tyap,I
 r1,language,180,Tangale,tan,Tangale,I
 r1,language,181,Waja,wja,Waja,I
 r1,language,182,Jukun,jbu,Jukun Takum,I
-r1,language,183,Bayam,mis,,
+r1,language,183,Bayam,mis,Uncoded languages,S
 r1,language,184,Shuwa Arab,ara,Arabic,M
 r1,language,184,Shuwa Arab,shu,Chadian Arabic,I
-r1,language,185,Ndochi,mis,,
+r1,language,185,Ndochi,mis,Uncoded languages,S
 r1,language,186,Kare Kare,kai,Karekare,I
 r1,language,187,Gwari,gbr,Gbagyi,I
 r1,language,187,Gwari,gby,Gbari,I
@@ -291,10 +291,10 @@ r1,language,219,Fipa,fip,Fipa,I
 r1,language,220,Nyamwezi,nym,Nyamwezi,I
 r1,language,221,Jaluo,luo,Luo (Kenya and Tanzania),I
 r1,language,222,Zaramo,zaj,Zaramo,I
-r1,language,995,Other,und,,
-r1,language,998,Refused to answer,und,,
-r1,language,999,Missing data,und,,
-r2,q83,-1,Missing,und,,
+r1,language,995,Other,und,Undetermined,S
+r1,language,998,Refused to answer,und,Undetermined,S
+r1,language,999,Missing data,und,Undetermined,S
+r2,q83,-1,Missing,und,Undetermined,S
 r2,q83,1,English,eng,English,I
 r2,q83,2,French,fra,French,I
 r2,q83,3,Portuguese,por,Portuguese,I
@@ -320,9 +320,9 @@ r2,q83,73,Samia-Lugwe,luy,Luyia,M
 r2,q83,74,Kinyarwanda,kin,Kinyarwanda,I
 r2,q83,75,Rufumbira,kin,Kinyarwanda,I
 r2,q83,76,Kakwa,keo,Kakwa,I
-r2,q83,77,Other Western languages,und,,
-r2,q83,78,Other Eastern languages,und,,
-r2,q83,79,Other Northern languages,und,,
+r2,q83,77,Other Western languages,und,Undetermined,S
+r2,q83,78,Other Eastern languages,und,Undetermined,S
+r2,q83,79,Other Northern languages,und,Undetermined,S
 r2,q83,80,National language,por,Portuguese,I
 r2,q83,81,Emakhuwa,vmw,Makhuwa,I
 r2,q83,82,Cisena,seh,Sena,I
@@ -483,7 +483,7 @@ r2,q83,275,kalabari,ijn,Kalabari,I
 r2,q83,276,Ikewere,ikw,Ikwere,I
 r2,q83,277,Gwari,gbr,Gbagyi,I
 r2,q83,277,Gwari,gby,Gbari,I
-r2,q83,278,Sidawa,mis,,
+r2,q83,278,Sidawa,mis,Uncoded languages,S
 r2,q83,279,Pidgin English,pcm,Nigerian Pidgin,I
 r2,q83,280,Shona,sna,Shona,I
 r2,q83,281,Ndebele,nde,North Ndebele,I
@@ -581,11 +581,11 @@ r2,q83,805,Gbagyi,gba,Gbaya (Central African Republic),M
 r2,q83,805,Gbagyi,gya,Northwest Gbaya,I
 r2,q83,806,Jaba,ldb,Dũya,I
 r2,q83,807,Esan,ish,Esan,I
-r2,q83,809,Mgas,mis,,
-r2,q83,995,Other,und,,
-r2,q83,998,Refused,und,,
-r2,q83,999,Don't know,und,,
-r2,q97,-1,Missing,und,,
+r2,q83,809,Mgas,mis,Uncoded languages,S
+r2,q83,995,Other,und,Undetermined,S
+r2,q83,998,Refused,und,Undetermined,S
+r2,q83,999,Don't know,und,Undetermined,S
+r2,q97,-1,Missing,und,Undetermined,S
 r2,q97,1,English,eng,English,I
 r2,q97,2,French,fra,French,I
 r2,q97,3,Portuguese,por,Portuguese,I
@@ -611,9 +611,9 @@ r2,q97,73,Samia-Lugwe,luy,Luyia,M
 r2,q97,74,Kinyarwanda,kin,Kinyarwanda,I
 r2,q97,75,Rufumbira,kin,Kinyarwanda,I
 r2,q97,76,Kakwa,keo,Kakwa,I
-r2,q97,77,Other Western languages,und,,
-r2,q97,78,Other Eastern languages,und,,
-r2,q97,79,Other Northern languages,und,,
+r2,q97,77,Other Western languages,und,Undetermined,S
+r2,q97,78,Other Eastern languages,und,Undetermined,S
+r2,q97,79,Other Northern languages,und,Undetermined,S
 r2,q97,80,National language,por,Portuguese,I
 r2,q97,81,Emakhuwa,vmw,Makhuwa,I
 r2,q97,82,Cisena,seh,Sena,I
@@ -790,27 +790,27 @@ r2,q97,389,Taita,dav,Taita,I
 r2,q97,390,Turkana,tuv,Turkana,I
 r2,q97,391,Meru/Kimeru,mer,Meru,I
 r2,q97,392,Embu,ebu,Embu,I
-r2,q97,393,English and Kikuyu,mul,,
-r2,q97,394,English and Kamba,mul,,
-r2,q97,395,English and Kiswahili,mul,,
+r2,q97,393,English and Kikuyu,mul,Multiple languages,S
+r2,q97,394,English and Kamba,mul,Multiple languages,S
+r2,q97,395,English and Kiswahili,mul,Multiple languages,S
 r2,q97,396,Kiswahili and Kamba,kam,Kamba (Kenya),I
 r2,q97,396,Kiswahili and Kamba,swa,Swahili (macrolanguage),M
 r2,q97,396,Kiswahili and Kamba,swh,Swahili (individual language),I
-r2,q97,397,"English, Kiswahili, and Kamba",mul,,
-r2,q97,398,"English, Kiswahili and Kikuyu",mul,,
-r2,q97,399,"English, Kiswahili and Meru",mul,,
+r2,q97,397,"English, Kiswahili, and Kamba",mul,Multiple languages,S
+r2,q97,398,"English, Kiswahili and Kikuyu",mul,Multiple languages,S
+r2,q97,399,"English, Kiswahili and Meru",mul,Multiple languages,S
 r2,q97,480,Kiswahili and Luhya,swa,Swahili (macrolanguage),M
 r2,q97,480,Kiswahili and Luhya,swh,Swahili (individual language),I
-r2,q97,481,"English, Kiswahili and Kalenjin",mul,,
-r2,q97,482,Kiswahili and kalenjin,mul,,
-r2,q97,483,English and Luo,mul,,
-r2,q97,484,Kiswahili and Kikuyu,mul,,
-r2,q97,806,Taba,mis,,
+r2,q97,481,"English, Kiswahili and Kalenjin",mul,Multiple languages,S
+r2,q97,482,Kiswahili and kalenjin,mul,Multiple languages,S
+r2,q97,483,English and Luo,mul,Multiple languages,S
+r2,q97,484,Kiswahili and Kikuyu,mul,Multiple languages,S
+r2,q97,806,Taba,mis,Uncoded languages,S
 r2,q97,807,Esan,ish,Esan,I
-r2,q97,995,Other,und,,
-r2,q97,998,Refused,und,,
-r2,q97,999,Don't know,und,,
-r3,q103,-1,Missing,und,,
+r2,q97,995,Other,und,Undetermined,S
+r2,q97,998,Refused,und,Undetermined,S
+r2,q97,999,Don't know,und,Undetermined,S
+r3,q103,-1,Missing,und,Undetermined,S
 r3,q103,1,English,eng,English,I
 r3,q103,2,French,fra,French,I
 r3,q103,3,Portuguese,por,Portuguese,I
@@ -826,15 +826,15 @@ r3,q103,106,Shangaan,tso,Tsonga,I
 r3,q103,107,Swazi,ssw,Swati,I
 r3,q103,108,Venda,ven,Venda,I
 r3,q103,109,Zulu,zul,Zulu,I
-r3,q103,110,English + Afrikaans,mul,,
-r3,q103,111,English + Ndebele,mul,,
-r3,q103,112,English + Xhosa,mul,,
-r3,q103,113,English + Pedi/N. Sotho,mul,,
-r3,q103,114,English + Sesotho/S. Sotho,mul,,
-r3,q103,115,English + Setswana,mul,,
-r3,q103,116,English + Shangaan,mul,,
-r3,q103,117,English + Venda,mul,,
-r3,q103,118,English + Zulu,mul,,
+r3,q103,110,English + Afrikaans,mul,Multiple languages,S
+r3,q103,111,English + Ndebele,mul,Multiple languages,S
+r3,q103,112,English + Xhosa,mul,Multiple languages,S
+r3,q103,113,English + Pedi/N. Sotho,mul,Multiple languages,S
+r3,q103,114,English + Sesotho/S. Sotho,mul,Multiple languages,S
+r3,q103,115,English + Setswana,mul,Multiple languages,S
+r3,q103,116,English + Shangaan,mul,Multiple languages,S
+r3,q103,117,English + Venda,mul,Multiple languages,S
+r3,q103,118,English + Zulu,mul,Multiple languages,S
 r3,q103,120,Fon,fon,Fon,I
 r3,q103,121,Adja,ajg,Aja (Benin),I
 r3,q103,122,Bariba,bba,Baatonum,I
@@ -856,7 +856,7 @@ r3,q103,181,EWE,ewe,Ewe,I
 r3,q103,182,GA,gaa,Ga,I
 r3,q103,183,DAGBANI,dag,Dagbani,I
 r3,q103,184,HUSA,hau,Hausa,I
-r3,q103,185,OTHER,und,,
+r3,q103,185,OTHER,und,Undetermined,S
 r3,q103,200,Kikuyu,kik,Kikuyu,I
 r3,q103,201,Luo,luo,Luo (Kenya and Tanzania),I
 r3,q103,202,Luhya,lkb,Kabras,I
@@ -886,8 +886,8 @@ r3,q103,211,Mijikenda,nyf,Giryama,I
 r3,q103,212,Gunya,swa,Swahili (macrolanguage),M
 r3,q103,212,Gunya,swh,Swahili (individual language),I
 r3,q103,213,Giriama,nyf,Giryama,I
-r3,q103,214,Kiswahili/Luhya,mul,,
-r3,q103,215,English/Swahili,mul,,
+r3,q103,214,Kiswahili/Luhya,mul,Multiple languages,S
+r3,q103,215,English/Swahili,mul,Multiple languages,S
 r3,q103,216,Sabaot,kln,Kalenjin,M
 r3,q103,216,Sabaot,spy,Sabaot,I
 r3,q103,217,Burji,bji,Burji,I
@@ -985,13 +985,13 @@ r3,q103,326,Oshiwambo,kua,Kuanyama,I
 r3,q103,327,Otjiherero,her,Herero,I
 r3,q103,328,Setswana,tsn,Tswana,I
 r3,q103,331,Mbukushu/Thimbukushu,mhw,Mbukushu,I
-r3,q103,332,English and Oshiwambo,mul,,
-r3,q103,333,English and Afrikaans,mul,,
-r3,q103,334,Afrikaans and Oshiwambo,mul,,
+r3,q103,332,English and Oshiwambo,mul,Multiple languages,S
+r3,q103,333,English and Afrikaans,mul,Multiple languages,S
+r3,q103,334,Afrikaans and Oshiwambo,mul,Multiple languages,S
 r3,q103,335,English and local languages,eng,English,I
 r3,q103,336,Afrikaans and local languages,afr,Afrikaans,I
-r3,q103,337,"English, Afrikaans and local languages",mul,,
-r3,q103,338,More than one local language,mul,,
+r3,q103,337,"English, Afrikaans and local languages",mul,Multiple languages,S
+r3,q103,338,More than one local language,mul,Multiple languages,S
 r3,q103,340,Hausa,hau,Hausa,I
 r3,q103,341,Igbo,agb,Legbo,I
 r3,q103,341,Igbo,ibo,Igbo,I
@@ -1039,8 +1039,8 @@ r3,q103,510,Runyankole - Rukiga,cgg,Chiga,I
 r3,q103,510,Runyankole - Rukiga,nyn,Nyankole,I
 r3,q103,815,Boran,gax,Borana-Arsi-Guji Oromo,I
 r3,q103,815,Boran,orm,Oromo,M
-r3,q103,995,Other,und,,
-r3,q3,-1,Missing,und,,
+r3,q103,995,Other,und,Undetermined,S
+r3,q3,-1,Missing,und,Undetermined,S
 r3,q3,1,English,eng,English,I
 r3,q3,2,French,fra,French,I
 r3,q3,3,Portuguese,por,Portuguese,I
@@ -1088,7 +1088,7 @@ r3,q3,180,AKAN,wss,Wasa,I
 r3,q3,181,EWE,ewe,Ewe,I
 r3,q3,182,GA/DANGBE,ada,Adangme,I
 r3,q3,182,GA/DANGBE,gaa,Ga,I
-r3,q3,183,Other Northern Languages,mul,,
+r3,q3,183,Other Northern Languages,mul,Multiple languages,S
 r3,q3,184,DAGBANI,dag,Dagbani,I
 r3,q3,185,DAGAARE,dga,Southern Dagaare,I
 r3,q3,200,Kikuyu,kik,Kikuyu,I
@@ -1154,7 +1154,7 @@ r3,q3,243,comorien,swb,Maore Comorian,I
 r3,q3,243,comorien,wlc,Mwali Comorian,I
 r3,q3,243,comorien,wni,Ndzwani Comorian,I
 r3,q3,243,comorien,zdj,Ngazidja Comorian,I
-r3,q3,244,pakistanais,mul,,
+r3,q3,244,pakistanais,mul,Multiple languages,S
 r3,q3,260,Tumbuka,tum,Tumbuka,I
 r3,q3,261,Nkhonde,nyy,Nyakyusa-Ngonde,I
 r3,q3,262,Lambya,lai,Lambya,I
@@ -1304,7 +1304,7 @@ r3,q3,392,Kikurya,kuj,Kuria,I
 r3,q3,393,Kigogo,gog,Gogo,I
 r3,q3,394,Kiluguru,ruf,Luguru,I
 r3,q3,395,Kifipa,fip,Fipa,I
-r3,q3,396,Kimanyema,mis,,
+r3,q3,396,Kimanyema,mis,Uncoded languages,S
 r3,q3,397,Kinyiramba,nim,Nilamba,I
 r3,q3,398,Kinyaturu,rim,Nyaturu,I
 r3,q3,405,Akaramojonj,kdj,Karamojong,I
@@ -1414,8 +1414,8 @@ r3,q3,814,Tugen,kln,Kalenjin,M
 r3,q3,814,Tugen,tuy,Tugen,I
 r3,q3,815,Boran,gax,Borana-Arsi-Guji Oromo,I
 r3,q3,815,Boran,orm,Oromo,M
-r3,q3,816,Ethopian/Kenyan,mul,,
-r3,q3,817,Indian,mul,,
+r3,q3,816,Ethopian/Kenyan,mul,Multiple languages,S
+r3,q3,817,Indian,mul,Multiple languages,S
 r3,q3,818,Burji,bji,Burji,I
 r3,q3,819,Kuria,kuj,Kuria,I
 r3,q3,820,Gare,gex,Garre,I
@@ -1427,10 +1427,10 @@ r3,q3,863,Luchazi,lch,Luchazi,I
 r3,q3,864,Kwamashi,mho,Mashi (Zambia),I
 r3,q3,865,Tokaleya,toi,Tonga (Zambia),I
 r3,q3,866,Lala,leb,Lala-Bisa,I
-r3,q3,995,Other,und,,
-r3,q3,998,Refused,und,,
-r3,q3,999,Don't know,und,,
-r4,Q103,-1,Missing,und,,
+r3,q3,995,Other,und,Undetermined,S
+r3,q3,998,Refused,und,Undetermined,S
+r3,q3,999,Don't know,und,Undetermined,S
+r4,Q103,-1,Missing,und,Undetermined,S
 r4,Q103,1,English,eng,English,I
 r4,Q103,2,French,fra,French,I
 r4,Q103,3,Portuguese,por,Portuguese,I
@@ -1625,7 +1625,7 @@ r4,Q103,423,Comorien,swb,Maore Comorian,I
 r4,Q103,423,Comorien,wlc,Mwali Comorian,I
 r4,Q103,423,Comorien,wni,Ndzwani Comorian,I
 r4,Q103,423,Comorien,zdj,Ngazidja Comorian,I
-r4,Q103,424,Indo-pakistanais,mul,,
+r4,Q103,424,Indo-pakistanais,mul,Multiple languages,S
 r4,Q103,460,Tumbuka,tum,Tumbuka,I
 r4,Q103,461,Nkhonde,nyy,Nyakyusa-Ngonde,I
 r4,Q103,462,Lambya,lai,Lambya,I
@@ -1814,7 +1814,7 @@ r4,Q103,706,Shangaan,tso,Tsonga,I
 r4,Q103,707,Swazi,ssw,Swati,I
 r4,Q103,708,Venda,ven,Venda,I
 r4,Q103,709,Zulu,zul,Zulu,I
-r4,Q103,710,Asian/Indian,mul,,
+r4,Q103,710,Asian/Indian,mul,Multiple languages,S
 r4,Q103,740,Kinyakyusa,nyy,Nyakyusa-Ngonde,I
 r4,Q103,741,Kichaga,old,Mochi,I
 r4,Q103,742,Kihaya,hay,Haya,I
@@ -1831,7 +1831,7 @@ r4,Q103,752,Kikurya,kuj,Kuria,I
 r4,Q103,753,Kigogo,gog,Gogo,I
 r4,Q103,754,Kiluguru,ruf,Luguru,I
 r4,Q103,755,Kifipa,fip,Fipa,I
-r4,Q103,756,Kimanyema,und,,
+r4,Q103,756,Kimanyema,und,Undetermined,S
 r4,Q103,757,Kinyiramba,nim,Nilamba,I
 r4,Q103,758,Kinyaturu,rim,Nyaturu,I
 r4,Q103,759,Kibena,bez,Bena (Tanzania),I
@@ -1924,9 +1924,9 @@ r4,Q103,864,Tonga,toi,Tonga (Zambia),I
 r4,Q103,864,Tonga,tso,Tsonga,I
 r4,Q103,865,Nambya,nmq,Nambya,I
 r4,Q103,866,Nyanja,nya,Nyanja,I
-r4,Q103,995,Others,und,,
-r4,Q103,998,Refused,und,,
-r4,Q3,-1,Missing,und,,
+r4,Q103,995,Others,und,Undetermined,S
+r4,Q103,998,Refused,und,Undetermined,S
+r4,Q3,-1,Missing,und,Undetermined,S
 r4,Q3,1,English,eng,English,I
 r4,Q3,2,French,fra,French,I
 r4,Q3,3,Portuguese,por,Portuguese,I
@@ -2121,7 +2121,7 @@ r4,Q3,423,Comorien,swb,Maore Comorian,I
 r4,Q3,423,Comorien,wlc,Mwali Comorian,I
 r4,Q3,423,Comorien,wni,Ndzwani Comorian,I
 r4,Q3,423,Comorien,zdj,Ngazidja Comorian,I
-r4,Q3,424,Indo-pakistanais,mul,,
+r4,Q3,424,Indo-pakistanais,mul,Multiple languages,S
 r4,Q3,460,Tumbuka,tum,Tumbuka,I
 r4,Q3,461,Nkhonde,nyy,Nyakyusa-Ngonde,I
 r4,Q3,462,Lambya,lai,Lambya,I
@@ -2311,7 +2311,7 @@ r4,Q3,706,Shangaan,tso,Tsonga,I
 r4,Q3,707,Swazi,ssw,Swati,I
 r4,Q3,708,Venda,ven,Venda,I
 r4,Q3,709,Zulu,zul,Zulu,I
-r4,Q3,710,Asian/Indian,mul,,
+r4,Q3,710,Asian/Indian,mul,Multiple languages,S
 r4,Q3,740,Kinyakyusa,nyy,Nyakyusa-Ngonde,I
 r4,Q3,741,Kichaga,old,Mochi,I
 r4,Q3,742,Kihaya,hay,Haya,I
@@ -2328,7 +2328,7 @@ r4,Q3,752,Kikurya,kuj,Kuria,I
 r4,Q3,753,Kigogo,gog,Gogo,I
 r4,Q3,754,Kiluguru,ruf,Luguru,I
 r4,Q3,755,Kifipa,fip,Fipa,I
-r4,Q3,756,Kimanyema,und,,
+r4,Q3,756,Kimanyema,und,Undetermined,S
 r4,Q3,757,Kinyiramba,nim,Nilamba,I
 r4,Q3,758,Kinyaturu,rim,Nyaturu,I
 r4,Q3,759,Kibena,bez,Bena (Tanzania),I
@@ -2421,9 +2421,9 @@ r4,Q3,864,Tonga,toi,Tonga (Zambia),I
 r4,Q3,864,Tonga,tso,Tsonga,I
 r4,Q3,865,Nambya,nmq,Nambya,I
 r4,Q3,866,Nyanja,nya,Nyanja,I
-r4,Q3,995,Others,und,,
-r4,Q3,998,Refused,und,,
-r5,Q103,-1,Missing,und,,
+r4,Q3,995,Others,und,Undetermined,S
+r4,Q3,998,Refused,und,Undetermined,S
+r5,Q103,-1,Missing,und,Undetermined,S
 r5,Q103,1,English,eng,English,I
 r5,Q103,2,French,fra,French,I
 r5,Q103,3,Portuguese,por,Portuguese,I
@@ -2533,7 +2533,7 @@ r5,Q103,706,Shangaan,tso,Tsonga,I
 r5,Q103,707,Swazi,ssw,Swati,I
 r5,Q103,708,Venda,ven,Venda,I
 r5,Q103,709,Zulu,zul,Zulu,I
-r5,Q103,711,Mixed - English/Afrikaans,mul,,
+r5,Q103,711,Mixed - English/Afrikaans,mul,Multiple languages,S
 r5,Q103,712,Tsonga,tso,Tsonga,I
 r5,Q103,713,Siswati,ssw,Swati,I
 r5,Q103,780,Luganda,lug,Ganda,I
@@ -2606,8 +2606,8 @@ r5,Q103,1500,Amazigh,zgh,Standard Moroccan Tamazight,I
 r5,Q103,1580,Amazigh,tzm,Central Atlas Tamazight,I
 r5,Q103,1580,Amazigh,zgh,Standard Moroccan Tamazight,I
 r5,Q103,1620,siSwati,ssw,Swati,I
-r5,Q103,9995,Other,und,,
-r5,Q2,-1,Missing,und,,
+r5,Q103,9995,Other,und,Undetermined,S
+r5,Q2,-1,Missing,und,Undetermined,S
 r5,Q2,1,English,eng,English,I
 r5,Q2,2,French,fra,French,I
 r5,Q2,3,Portuguese,por,Portuguese,I
@@ -2778,7 +2778,7 @@ r5,Q2,280,Guan,nlu,Nchumbulu,I
 r5,Q2,280,Guan,nnu,Dwang,I
 r5,Q2,281,Gonja,gjn,Gonja,I
 r5,Q2,282,Nzema,nzi,Nzima,I
-r5,Q2,283,Other Northern Languages,und,,
+r5,Q2,283,Other Northern Languages,und,Undetermined,S
 r5,Q2,300,Kikuyu,kik,Kikuyu,I
 r5,Q2,301,Luo,luo,Luo (Kenya and Tanzania),I
 r5,Q2,302,Luhya,lkb,Kabras,I
@@ -2875,7 +2875,7 @@ r5,Q2,423,Comorien,swb,Maore Comorian,I
 r5,Q2,423,Comorien,wlc,Mwali Comorian,I
 r5,Q2,423,Comorien,wni,Ndzwani Comorian,I
 r5,Q2,423,Comorien,zdj,Ngazidja Comorian,I
-r5,Q2,424,Indo-pakistanais,mul,,
+r5,Q2,424,Indo-pakistanais,mul,Multiple languages,S
 r5,Q2,460,Chitumbuka,tum,Tumbuka,I
 r5,Q2,461,Chinkhonde,nyy,Nyakyusa-Ngonde,I
 r5,Q2,462,Chilambya,lai,Lambya,I
@@ -3049,7 +3049,7 @@ r5,Q2,706,Shangaan,tso,Tsonga,I
 r5,Q2,707,Swazi,ssw,Swati,I
 r5,Q2,708,Venda,ven,Venda,I
 r5,Q2,709,Zulu,zul,Zulu,I
-r5,Q2,710,Asian/Other,mul,,
+r5,Q2,710,Asian/Other,mul,Multiple languages,S
 r5,Q2,740,Kinyakyusa,nyy,Nyakyusa-Ngonde,I
 r5,Q2,741,Kichaga,old,Mochi,I
 r5,Q2,742,Kihaya,hay,Haya,I
@@ -3067,7 +3067,7 @@ r5,Q2,752,Kikurya,kuj,Kuria,I
 r5,Q2,753,Kigogo,gog,Gogo,I
 r5,Q2,754,Kiluguru,ruf,Luguru,I
 r5,Q2,755,Kifipa,fip,Fipa,I
-r5,Q2,756,Kimanyema,mis,,
+r5,Q2,756,Kimanyema,mis,Uncoded languages,S
 r5,Q2,757,Kinyiramba,nim,Nilamba,I
 r5,Q2,758,Kinyaturu,rim,Nyaturu,I
 r5,Q2,759,Kibena,bez,Bena (Tanzania),I
@@ -3387,7 +3387,7 @@ r5,Q2,1360,Gumz,guk,Gumuz,I
 r5,Q2,1361,Harari,har,Harari,I
 r5,Q2,1362,Kaffa,kbr,Kafa,I
 r5,Q2,1363,Kembata,ktb,Kambaata,I
-r5,Q2,1364,Kore,mis,,
+r5,Q2,1364,Kore,mis,Uncoded languages,S
 r5,Q2,1365,Mejenger,mpe,Majang,I
 r5,Q2,1366,Mursi,muz,Mursi,I
 r5,Q2,1367,Nuwer,nus,Nuer,I
@@ -3421,10 +3421,10 @@ r5,Q2,2752,Kinguu,ziw,Zigula,I
 r5,Q2,2753,Kinyiha,nih,Nyiha (Tanzania),I
 r5,Q2,2753,Kinyiha,nkt,Nyika (Tanzania),I
 r5,Q2,2754,Kinyamwanga,mwn,Nyamwanga,I
-r5,Q2,9995,Others,und,,
-r5,Q2,9998,Refused,und,,
-r5,Q2,9999,Don't know,und,,
-r6,Q103,-1,Missing,und,,
+r5,Q2,9995,Others,und,Undetermined,S
+r5,Q2,9998,Refused,und,Undetermined,S
+r5,Q2,9999,Don't know,und,Undetermined,S
+r6,Q103,-1,Missing,und,Undetermined,S
 r6,Q103,1,English,eng,English,I
 r6,Q103,2,French,fra,French,I
 r6,Q103,3,Portuguese,por,Portuguese,I
@@ -3447,6 +3447,7 @@ r6,Q103,35,Yoruba,yor,Yoruba,I
 r6,Q103,100,Fon,fon,Fon,I
 r6,Q103,101,Adja,ajg,Aja (Benin),I
 r6,Q103,102,Bariba,bba,Baatonum,I
+r6,Q103,103,Yoruba,ddn,Dendi (Benin),I
 r6,Q103,104,Outamari,tbz,Ditammari,I
 r6,Q103,105,Peulh,fue,Borgu Fulfulde,I
 r6,Q103,105,Peulh,fuh,Western Niger Fulfulde,I
@@ -3583,10 +3584,8 @@ r6,Q103,1307,Kpèlè,kpe,Kpelle,M
 r6,Q103,1312,Kissié,kqs,Northern Kissi,I
 r6,Q103,1620,siSwati,ssw,Swati,I
 r6,Q103,1660,Creolo,aoa,Angolar,I
-r6,Q103,9995,Other,und,,
-r6,Q103,9998,,und,,
-r6,Q103,9999,,und,,
-r6,Q2,-1,Missing,und,,
+r6,Q103,9995,Other,und,Undetermined,S
+r6,Q2,-1,Missing,und,Undetermined,S
 r6,Q2,1,English,eng,English,I
 r6,Q2,2,French,fra,French,I
 r6,Q2,3,Portuguese,por,Portuguese,I
@@ -3923,7 +3922,7 @@ r6,Q2,705,Tswana,tsn,Tswana,I
 r6,Q2,706,Shangaan/Tsonga,tso,Tsonga,I
 r6,Q2,707,Swazi,ssw,Swati,I
 r6,Q2,709,Zulu,zul,Zulu,I
-r6,Q2,710,Asian/Indian,mul,,
+r6,Q2,710,Asian/Indian,mul,Multiple languages,S
 r6,Q2,740,Kinyakyusa,nyy,Nyakyusa-Ngonde,I
 r6,Q2,741,Kichaga,old,Mochi,I
 r6,Q2,742,Kihaya,hay,Haya,I
@@ -3941,7 +3940,7 @@ r6,Q2,752,Kikurya,kuj,Kuria,I
 r6,Q2,753,Kigogo,gog,Gogo,I
 r6,Q2,754,Kiluguru,ruf,Luguru,I
 r6,Q2,755,Kifipa,fip,Fipa,I
-r6,Q2,756,Kimanyema,mis,,
+r6,Q2,756,Kimanyema,mis,Uncoded languages,S
 r6,Q2,757,Kinyiramba,nim,Nilamba,I
 r6,Q2,758,Kinyaturu,rim,Nyaturu,I
 r6,Q2,759,Kiarusha,mas,Masai,I
@@ -3991,6 +3990,7 @@ r6,Q2,798,Kupsabinyi,kpz,Kupsabiny,I
 r6,Q2,799,Ngakarimajong,kdj,Karamojong,I
 r6,Q2,800,Rufumbira,kin,Kinyarwanda,I
 r6,Q2,820,Bemba,bem,Bemba (Zambia),I
+r6,Q2,821,Nyanja,bem,Bemba (Zambia),I
 r6,Q2,823,Lozi,loz,Lozi,I
 r6,Q2,825,Nsenga,nse,Nsenga,I
 r6,Q2,826,Tumbuka,tum,Tumbuka,I
@@ -4189,6 +4189,5 @@ r6,Q2,2745,Kiyao,yao,Yao,I
 r6,Q2,2746,Kizanaki,zak,Zanaki,I
 r6,Q2,2747,Kizaramo,zaj,Zaramo,I
 r6,Q2,2748,Kizigua,ziw,Zigula,I
-r6,Q2,9995,Other,und,,
-r6,Q2,9998,,und,,
-r6,Q2,9999,Don't know,und,,
+r6,Q2,9995,Other,und,Undetermined,S
+r6,Q2,9999,Don't know,und,Undetermined,S

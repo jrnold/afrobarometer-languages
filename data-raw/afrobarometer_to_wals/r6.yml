@@ -366,7 +366,7 @@
 
 - lang_id: 1232
   lang_name: Bangwa
-  qestions:
+  question:
   - Q2
   wals_code:
   - nge
@@ -485,19 +485,6 @@
   - abb
   comments: >
     Abbeche Chad Arabic is also put in the Sudanese Group, https://en.wikipedia.org/wiki/Varieties_of_Arabic
-
-- lang_id: 9999
-  question:
-  - Q2
-  - Q103
-  wals_code: null
-
-- lang_id: 9995
-  lang_name: "Other"
-  question:
-  - Q2
-  - Q103
-  wals_code: null
 
 - lang_id: 710
   question:

@@ -4,8 +4,28 @@ description: >
     to some common language standards and databases, the
     ISO 639-3 langauge codes and the WALS database.
 name: afrobarometer_langs
+sources:
+  - title: Ethnologue Code Tables (2017-02-21)
+    path: https://www.ethnologue.com/codes/download-code-tables
+  - title: Afrobarometer Merged Round 6 data (36 countries) (2016)
+    path: http://afrobarometer.org/data/merged-round-6-data-36-countries-2016
+  - title: Afrobarometer Merged Round 5 data (34 countries) (2011-2013) (last update: July 2015)
+    path: http://afrobarometer.org/data/merged-round-5-data-34-countries-2011-2013-last-update-july-2015
+  - title: Afrobarometer Merged Round 4 Data (20 countries) (2008)
+    path: http://www.afrobarometer.org/data/merged-round-4-data-20-countries-2008
+  - title: Afrobarometer Merged Round 3 Data (18 countries) (2005)
+    path: http://www.afrobarometer.org/data/merged-round-3-data-18-countries-2005
+  - title: Afrobarometer Merged Round 2 Data (16 countries) (2004)
+    path: http://www.afrobarometer.org/data/merged-round-2-data-16-countries-2004
+  - title: Afrobarometer Merged Round 2 Codebook (12 countries) (1999-2001)
+    path: http://www.afrobarometer.org/data/merged-round-1-data-12-countries-1999-2001
+  - title: Afrobarometer ISO 639-3 Complete Code Tables Set (2017-02-17)
+    path: http://www-01.sil.org/iso639-3/download.asp
+  - title: The World Atlas of Language Structures Online
+    path: http://wals.info/download
 resources:
 - path: afrobarometer_langs.csv
+  name: afrobarometer_langs
   title: Afrobarometer Language Summary
   description: |
       For all rounds, variables which included language answers,
@@ -18,16 +38,34 @@ resources:
     fields:
       - name: round
         type: string
-        title: Afrobarometer Round
+        title: Afrobarometer round
+        constraints:
+          required: true
+          enum: ["r1", "r2", "r3", "r4", "r5", "r6"]
       - name: question
         type: string
-        title: Survey question/variable
-      - name: value
+        title: Afrobarometer survey question/variable
+        constraints:
+          required: true
+          enum: ["language", "q83", "q97", "Q2", "Q3", "Q103", "q3", "q103"]
+      - name: lang_id
         type: integer
-        title: Language variable value
-      - name: name
+        title: Afrobarometer language variable value
+        description: >
+          The integer value of the language in the Afrobarometer dataset, e.g.
+          `1, 2, ....`
+        constraints:
+          required: true
+          minimum: -1
+          maximum: 9999
+      - name: lang_name
         type: string
-        title: Language variable label
+        title: Afrobarometer language variable value.
+        description: >
+          The labels of the language variable in the Afrobarometer dataset,
+          for example, `"English", "French", ...`.
+        constraints:
+          required: true
       - name: countries
         types: string
         title: Countries
@@ -35,11 +73,15 @@ resources:
           Space separated ISO-3166 alpha-2 codes of the countries
           in which this value appeared in the Afrobarometer survey
           results.
+        constraints:
+          required: false
+          enum: "[A-Z]{2}( [A-Z]{2})*"
     primaryKey:
     - round
     - question
     - value
 - path: afrobarometer_to_iso_639_3.csv
+  name: afrobarometer_to_iso_639_3
   title: Afrobarometer Languages to ISO 639-3 Codes
   description: |
     Mappings between Afrobarometer Languages and the
@@ -52,31 +94,48 @@ resources:
       - name: round
         type: string
         title: Afrobarometer round
+        constraints:
+          required: true
+          enum: ["r1", "r2", "r3", "r4", "r5", "r6"]
       - name: question
         type: string
         title: Afrobarometer survey question/variable
+        constraints:
+          required: true
+          enum: ["language", "q83", "q97", "Q2", "Q3", "Q103", "q3", "q103"]
       - name: lang_id
         type: integer
         title: Afrobarometer language variable value
         description: >
           The integer value of the language in the Afrobarometer dataset, e.g.
           `1, 2, ....`
+        constraints:
+          required: true
+          minimum: -1
+          maximum: 9999
       - name: lang_name
         type: string
         title: Afrobarometer language variable value.
         description: >
           The labels of the language variable in the Afrobarometer dataset,
           for example, `"English", "French", ...`.
+        constraints:
+          required: true
       - name: iso_639_3
         type: string
         title: ISO 639-3
         description: >
           The ISO 639-3 language code. For example, `"eng"`.
+        constraints:
+          required: true
+          pattern: "[a-z]{3}"
       - name: iso_ref_name
         type: string
         title: ISO Reference Name
         description: >
           The official reference name of the ISO 639-3 language.
+        constraints:
+          required: true
       - name: iso_scope
         type: string
         title: ISO Language Type
@@ -85,47 +144,103 @@ resources:
           `"M"` if it is a macrolanguages (which includes multiple individual
           languages). See the ISO 639-3 documentation for more on the distinctions
           between these.
-    PrimaryKey:
+        constraints:
+          required: false
+          enum: ["I", "M"]
+    primaryKey:
       - round
       - question
       - lang_id
       - iso_639_3
+    foreignKeys:
+    - fields: lang_id
+      reference:
+      - resource: afrobarometer_langs
+        fields: value
+    - fields: lang_name
+      reference:
+      - resource: afrobarometer_langs
+        fields: name
+    - fields: question
+      reference:
+      - resource: afrobarometer_langs
+        fields: question
+    - fields: round
+      reference:
+      - resource: afrobarometer_langs
+        fields: round
 - path: afrobarometer_to_wals.csv
+  name: afrobarometer_to_wals
   title: Afrobarometer Language to WALS mappings
   description: >
     The WALS languages associated with Afrobarometer languages.
   schema:
     fields:
+    fields:
       - name: round
         type: string
         title: Afrobarometer round
+        constraints:
+          required: true
+          enum: ["r1", "r2", "r3", "r4", "r5", "r6"]
       - name: question
         type: string
         title: Afrobarometer survey question/variable
+        constraints:
+          required: true
+          enum: ["language", "q83", "q97", "Q2", "Q3", "Q103", "q3", "q103"]
       - name: lang_id
         type: integer
         title: Afrobarometer language variable value
         description: >
           The integer value of the language in the Afrobarometer dataset, e.g.
           `1, 2, ....`
+        constraints:
+          required: true
+          minimum: -1
+          maximum: 9999
       - name: lang_name
         type: string
         title: Afrobarometer language variable value.
         description: >
           The labels of the language variable in the Afrobarometer dataset,
           for example, `"English", "French", ...`.
+        constraints:
+          required: true
       - name: wals_code
         type: string
         title: WALS code
         description: >
           The three-letter language identifier used by WALS.
+        constraints:
+          required: false
+          pattern: "[a-z]{3}"
       - name: wals_name
         type: string
         title: WALS Name
         description: >
           The language name used by WALS
+        constraints:
+          required: false
     primaryKey:
     - round
     - question
     - lang_id
     - wals_code
+    foreignKeys:
+    - fields: lang_id
+      reference:
+      - resource: afrobarometer_langs
+        fields: value
+    - fields: lang_name
+      reference:
+      - resource: afrobarometer_langs
+        fields: name
+    - fields: question
+      reference:
+      - resource: afrobarometer_langs
+        fields: question
+    - fields: round
+      reference:
+      - resource: afrobarometer_langs
+        fields: round

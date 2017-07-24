@@ -44,14 +44,14 @@
   question:
   - Q103
   - Q2
-  note: Since this applies to all surveys, standard arabic is all I can use.
+  note: >
+    Since this applies to all surveys, standard arabic is all I can use.
 - lang_id: 6
   lang_name: Adja
   iso_639_3:
   - ajg
   question:
   - Q2
-  note: null
 - lang_id: 7
   lang_name: Afrikaans
   iso_639_3:
@@ -59,14 +59,14 @@
   question:
   - Q103
   - Q2
-  note: null
 - lang_id: 8
   lang_name: Arabe
   iso_639_3:
   - mey
   question:
   - Q2
-  note: Hassanyi Arabic, the form of Maghrebi Arabic spoken in Mali
+  note: >
+    Hassanyi Arabic, the form of Maghrebi Arabic spoken in Mali
 - lang_id: 9
   lang_name: Bambara
   iso_639_3:
@@ -95,7 +95,8 @@
   - tzm
   question:
   - Q2
-  note: Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya,
+  note: >
+    Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya,
     Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight
     spoken in Morocco
 - lang_id: 12
@@ -322,6 +323,7 @@
   - ddn
   question:
   - Q2
+  - Q103
   note: null
 - lang_id: 104
   lang_name: Outamari
@@ -336,7 +338,8 @@
   - tbz
   question:
   - Q2
-  note: Ditammari. Has a similar name, and the only major language not coded.
+  note: >
+    Ditammari. Has a similar name, and the only major language not coded.
 - lang_id: 105
   lang_name: Peulh
   iso_639_3:
@@ -444,7 +447,8 @@
   question:
   - Q103
   - Q2
-  note: Gourmanchema language also goes by https://en.wikipedia.org/wiki/Gourmanch%C3%A9_language
+  note: >
+    Gourmanchema language also goes by https://en.wikipedia.org/wiki/Gourmanch%C3%A9_language
 - lang_id: 184
   lang_name: Gourounsi
   iso_639_3:
@@ -555,7 +559,7 @@
   question:
   - Q103
   - Q2
-  note: |
+  note: >
     Akan is an ISO 639-3 Macrolanguage (Aka).
     Neither Fanti nor Twi appear in the individual Afrobarometer languages
 - lang_id: 262
@@ -703,7 +707,8 @@
   question:
   - Q103
   - Q2
-  note: 'This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy'
+  note: >
+    This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy
 - lang_id: 303
   lang_name: Kamba
   iso_639_3:
@@ -2243,6 +2248,7 @@
   iso_639_3:
   - bem
   question:
+  - Q2
   - Q103
   note: Bemba is only off by one letter and one of bhe more widely spoken languages.
     It looks like an Afrobarometer typo.
@@ -3161,7 +3167,8 @@
   - nwb
   question:
   - Q2
-  note: Gnanboua are an ethnicity in Zoukougbeu. The primary language is Nyabwa. https://www.ethnologue.com/language/nwb,
+  note: >
+    Gnanboua are an ethnicity in Zoukougbeu. The primary language is Nyabwa. https://www.ethnologue.com/language/nwb,
     http://www.rezoivoire.net/cotedivoire/ville/17/la-sous-prefecture-de-zoukougbeu.html#.V_cUR5MrLOY
 - lang_id: 1281
   lang_name: Koyaka
@@ -3418,7 +3425,8 @@
   - ikz
   question:
   - Q2
-  note: 'Kishashi is a dialect of Ikizu: https://www.ethnologue.com/country/tz/languages'
+  note: >
+    Kishashi is a dialect of Ikizu: https://www.ethnologue.com/country/tz/languages
 - lang_id: 2743
   lang_name: Kisubi
   iso_639_3:
@@ -3468,22 +3476,9 @@
   question:
   - Q103
   - Q2
-- lang_id: 9998
-  lang_name: Refused to answer
-  iso_639_3:
-  - und
-  question:
-  - Q103
-  - Q2
 - lang_id: 9999
   lang_name: Don't know
   iso_639_3:
   - und
   question:
   - Q2
-- lang_id: 9999
-  lang_name: null
-  iso_639_3:
-  - und
-  question:
-  - Q103

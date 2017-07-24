@@ -14,6 +14,9 @@ library("yaml")
 library("jsonlite")
 library("stringr")
 library("igraph")
+library("assertthat")
+
+ISO_SPECIAL_CODES <- c("mul", "mis", "und", "zxx")
 
 OUTPUT <- find_rstudio_root_file("data", "afrobarometer_to_wals.csv")
 
@@ -187,7 +190,7 @@ afrobarometer_to_iso <- read_afrobarometer_to_iso()
 afrobarometer_to_wals_auto <-
   select(afrobarometer_to_iso, round, question, lang_id, iso_code) %>%
   # remove values from special
-  filter(!iso_code %in% c("mul", "mis", "und", "zxx")) %>%
+  filter(!iso_code %in% ISO_SPECIAL_CODES) %>%
   anti_join(afrobarometer_to_wals_manual,
             by = c("round", "question", "lang_id")) %>%
   inner_join(select(iso_to_wals, iso_code, wals_code, distance),
@@ -199,23 +202,19 @@ afrobarometer_to_wals_auto <-
 
 #' Combine the auto and manual matches
 afrobarometer_to_wals <-
-  bind_rows(mutate(afrobarometer_to_wals_manual,
+  bind_rows(mutate(select(afrobarometer_to_wals_manual, round, question, lang_id, wals_code),
                    auto = FALSE),
             mutate(afrobarometer_to_wals_auto,
                    auto = TRUE))
 
 #' Add some of the original values
 afrobarometer_to_wals %<>%
-  left_join(select(wals, wals_code, wals_name = Name,
-                   latitude, longitude, genus, family, countrycodes, macroarea),
+  left_join(select(wals, wals_code, wals_name = Name),
             by = "wals_code") %>%
-  left_join(select(afrobarometer_langs, round, question, lang_id, lang_name),
+  # Outer join to ensure that all Afrobarometer Languages are accounted for
+  full_join(select(afrobarometer_langs, round, question, lang_id, lang_name),
             by = c("round", "question", "lang_id")) %>%
-  # ensure that all empty wals_codes are missing
-  mutate(wals_code = if_else(str_trim(wals_code) == "",
-                             NA_character_, wals_code)) %>%
-  select(round, question, lang_id, lang_name, wals_code, wals_name,
-         everything()) %>%
+  select(round, question, lang_id, lang_name, wals_code, wals_name) %>%
   arrange(round, question, lang_id)
 
 #' Check that everything matches or is accounted for
@@ -228,26 +227,66 @@ afrobarometer_to_wals %<>%
 #'
 #' wals_codes can be missing, but if non-missing must appear in WALS dataset
 #'
-wals_nonmatches <- anti_join(filter(afrobarometer_to_wals, !is.na(wals_code)),
-                             wals, by = c("wals_code"))
-stopifnot(nrow(wals_nonmatches) == 0L)
+wals_nonmatches <- afrobarometer_to_wals %>%
+  filter(!is.na(wals_code)) %>%
+  anti_join(wals, by = c("wals_code"))
+
+if (nrow(wals_nonmatches) > 0) {
+  print(wals_nonmatches)
+  stop("There exist invalid WALS codes")
+}
 
 #' All WALS languages should be from the Africa Macrolanguage unless accounted
 #' for.
 tests_data <- yaml.load_file(INPUTS$afrobarometer_to_wals_tests)
 wals_non_african <-
-  afrobarometer_to_wals %>%
+  inner_join(afrobarometer_to_wals,
+             select(wals, wals_code, macroarea),
+             by = "wals_code") %>%
   filter(!(wals_code %in% tests_data$non_african$values)) %>%
   filter(!(macroarea %in% "Africa"))
-stopifnot(nrow(wals_non_african) == 0L)
+if (nrow(wals_non_african) > 0) {
+  cat("There exist unaccounted for non-African languages in the data:\n")
+  print(wals_non_african, n = 100, width = 10000)
+  stop()
+}
 
+with(afrobarometer_to_wals, {
+  assert_that(all(!is.na(round)))
+  assert_that(is.character(round))
+  assert_that(all(round %in% paste0("r", 1:6)))
+
+  assert_that(is.character(question))
+  assert_that(all(!is.na(question)))
+  assert_that(all(question %in%
+                c("language",
+                  "q83",
+                  "q97",
+                  "q3",
+                  "q103",
+                  "Q3",
+                  "Q103",
+                  "Q2")))
+
+  # Lang Id
+  assert_that(is.integer(lang_id))
+  assert_that(all(lang_id >= -1 & lang_id <= 9999))
+
+  # Lang Name
+  assert_that(all(!is.na(lang_name)))
+  assert_that(is.character(lang_name))
+
+  # Wals code
+  assert_that(is.character(wals_code))
+  assert_that(all(str_detect(wals_code, "[a-z]{3}")))
+
+  # Wals name
+  assert_that(is.character(wals_name))
+
+})
 
 #' Write output
 write_afrobarometer_to_wals <- function(x, path) {
-  x %>%
-    arrange(round, question, lang_id, wals_code) %>%
-    select(round, question, lang_id, lang_name,
-           wals_code, wals_name) %>%
-    write_csv(path = path, na = "")
+  write_csv(x, path = path, na = "")
 }
 write_afrobarometer_to_wals(afrobarometer_to_wals, OUTPUT)
