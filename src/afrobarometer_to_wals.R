@@ -244,6 +244,10 @@ stopifnot(nrow(wals_non_african) == 0L)
 
 #' Write output
 write_afrobarometer_to_wals <- function(x, path) {
-  write_csv(x, path = path, na = "")
+  x %>%
+    arrange(round, question, lang_id, wals_code) %>%
+    select(round, question, lang_id, lang_name,
+           wals_code, wals_name) %>%
+    write_csv(path = path, na = "")
 }
 write_afrobarometer_to_wals(afrobarometer_to_wals, OUTPUT)

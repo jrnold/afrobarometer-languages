@@ -1,0 +1,131 @@
+title: Afrobarometer Language to ISO and WALS Mappings
+description: >
+    Mappings from languages used in the Afrobarometer surveys
+    to some common language standards and databases, the
+    ISO 639-3 langauge codes and the WALS database.
+name: afrobarometer_langs
+resources:
+- path: afrobarometer_langs.csv
+  title: Afrobarometer Language Summary
+  description: |
+      For all rounds, variables which included language answers,
+      the integer values and labels of the languages, and the
+      countries in which those languages appeared.
+  format: csv
+  mediatype: text/csv
+  encoding: utf-8
+  schema:
+    fields:
+      - name: round
+        type: string
+        title: Afrobarometer Round
+      - name: question
+        type: string
+        title: Survey question/variable
+      - name: value
+        type: integer
+        title: Language variable value
+      - name: name
+        type: string
+        title: Language variable label
+      - name: countries
+        types: string
+        title: Countries
+        description: |
+          Space separated ISO-3166 alpha-2 codes of the countries
+          in which this value appeared in the Afrobarometer survey
+          results.
+    primaryKey:
+    - round
+    - question
+    - value
+- path: afrobarometer_to_iso_639_3.csv
+  title: Afrobarometer Languages to ISO 639-3 Codes
+  description: |
+    Mappings between Afrobarometer Languages and the
+    the codes of the ISO 639-3 standard.
+  format: csv
+  mediatype: text/csv
+  encoding: utf-8
+  schema:
+    fields:
+      - name: round
+        type: string
+        title: Afrobarometer round
+      - name: question
+        type: string
+        title: Afrobarometer survey question/variable
+      - name: lang_id
+        type: integer
+        title: Afrobarometer language variable value
+        description: >
+          The integer value of the language in the Afrobarometer dataset, e.g.
+          `1, 2, ....`
+      - name: lang_name
+        type: string
+        title: Afrobarometer language variable value.
+        description: >
+          The labels of the language variable in the Afrobarometer dataset,
+          for example, `"English", "French", ...`.
+      - name: iso_639_3
+        type: string
+        title: ISO 639-3
+        description: >
+          The ISO 639-3 language code. For example, `"eng"`.
+      - name: iso_ref_name
+        type: string
+        title: ISO Reference Name
+        description: >
+          The official reference name of the ISO 639-3 language.
+      - name: iso_scope
+        type: string
+        title: ISO Language Type
+        description: >
+          This is `"I"` if it is an individual language, and
+          `"M"` if it is a macrolanguages (which includes multiple individual
+          languages). See the ISO 639-3 documentation for more on the distinctions
+          between these.
+    PrimaryKey:
+      - round
+      - question
+      - lang_id
+      - iso_639_3
+- path: afrobarometer_to_wals.csv
+  title: Afrobarometer Language to WALS mappings
+  description: >
+    The WALS languages associated with Afrobarometer languages.
+  schema:
+    fields:
+      - name: round
+        type: string
+        title: Afrobarometer round
+      - name: question
+        type: string
+        title: Afrobarometer survey question/variable
+      - name: lang_id
+        type: integer
+        title: Afrobarometer language variable value
+        description: >
+          The integer value of the language in the Afrobarometer dataset, e.g.
+          `1, 2, ....`
+      - name: lang_name
+        type: string
+        title: Afrobarometer language variable value.
+        description: >
+          The labels of the language variable in the Afrobarometer dataset,
+          for example, `"English", "French", ...`.
+      - name: wals_code
+        type: string
+        title: WALS code
+        description: >
+          The three-letter language identifier used by WALS.
+      - name: wals_name
+        type: string
+        title: WALS Name
+        description: >
+          The language name used by WALS
+    primaryKey:
+    - round
+    - question
+    - lang_id
+    - wals_code
