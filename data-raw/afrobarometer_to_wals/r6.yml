@@ -8,6 +8,7 @@
   question:
   - Q2
   - Q103
+  - Q116
   lang_name: "Arabic"
   wals_code:
   - "ams"
@@ -40,6 +41,7 @@
   question:
   - Q2
   - Q103
+  - Q116
   lang_name: "Ewe"
   wals_code:
   - ewe
@@ -51,6 +53,7 @@
   question:
   - Q103
   - Q2
+  - Q116
   wals_code:
   - fbf
   - fli
@@ -93,6 +96,7 @@
   question:
   - Q103
   - Q2
+  - Q116
   lang_name: "Tamasheq"
   wals_code:
   - tsk
@@ -147,12 +151,14 @@
   lang_name: Gio
   question:
   - Q2
+  - Q116
   wals_code:
   - dan
 
 - lang_id: 506
   question:
   - Q2
+  - Q116
   wals_code:
   - dds
   - jms
@@ -176,6 +182,7 @@
   question:
   - Q103
   - Q2
+  - Q116
   wals_code:
   - fum
   comments:  >
@@ -183,7 +190,7 @@
 
 - lang_id: 518
   lang_name: "Sonrhai"
-  question: [Q103, Q2]
+  question: [Q103, Q2, Q116]
   wals_code: [kse, kch]
   comments: >
     Both languages are in Mali and named Songhay.
@@ -212,7 +219,7 @@
     WALS indicates are spoken in Namibia.
 
 - lang_id: 621
-  question: [Q2, Q103]
+  question: [Q2, Q103, Q116]
   wals_code: [igb]
   comments: "Only use the main Igbo language"
 
@@ -231,6 +238,7 @@
   question:
   - Q103
   - Q2
+  - Q116
   wals_code:
   - fus
   comments: >
@@ -238,7 +246,7 @@
 
 - lang_id: 662
   lang_name: Serer
-  question: [Q2]
+  question: [Q2, Q116]
   wals_code: [noo]
   comments: >
     Alternative name is "Serer-Noon"
@@ -246,6 +254,7 @@
 - lang_id: 663
   question:
   - Q2
+  - Q116
   wals_code:
   - bam
   - mdk
@@ -255,7 +264,7 @@
 
 - lang_id: 709
   lang_name: "Zulu"
-  question: [Q103, Q2]
+  question: [Q103, Q2, Q116]
   wals_code: [zul]
 
 - lang_id: 793
@@ -290,7 +299,7 @@
     Chichewa is spoken in Malawi.
 
 - lang_id: 861
-  question: [Q103, Q2]
+  question: [Q103, Q2, Q116]
   lang_name: Shona
   wals_code: [shn]
   comments: >
@@ -298,21 +307,21 @@
     However, Afrobarometer has a seperate entry for Karanga.
 
 - lang_id: 862
-  question: [Q2]
+  question: [Q2, Q116]
   lang_name: Zezuru
   wals_code: [shn]
   comments: >
     Zezuru is another major Shona dialect.
 
 - lang_id: 863
-  question: [Q2]
+  question: [Q2, Q116]
   lang_name: Korekore
   wals_code: [shn]
   comments: >
     Korekore is another major Shona dialect.
 
 - lang_id: 864
-  question: [Q2]
+  question: [Q2, Q116]
   lang_name: Karanga
   wals_code: [krg]
   comments: >
@@ -330,6 +339,7 @@
 - lang_id: 939
   question:
   - Q2
+  - Q116
   wals_code:
   - mnk
   comments: >
@@ -417,6 +427,7 @@
 - lang_id: 1302
   question:
   - Q2
+  - Q116
   wals_code:
   - mnk
   lang_name: Maninka
@@ -431,6 +442,7 @@
 - lang_id: 1220
   question:
   - Q103
+  - Q116
   - Q2
   lang_name: Foufoulde
   wals_code:
@@ -442,6 +454,7 @@
   lang_name: Poular
   question:
   - Q2
+  - Q116
   wals_code:
   - fgu
   comments: >
@@ -482,12 +495,6 @@
   - abb
   comments: >
     Abbeche Chad Arabic is also put in the Sudanese Group, https://en.wikipedia.org/wiki/Varieties_of_Arabic
-
-- lang_id: 710
-  question:
-  - Q2
-  - Q103
-  wals_code: null
 
 - lang_id: 396
   lang_name: Liberian English
@@ -560,7 +567,7 @@
   - Q2
   - Q116
 
-- iso_639_3:
+- wals_code:
   - nse
   lang_id: 846
   lang_name: Senga

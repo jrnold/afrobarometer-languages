@@ -2,17 +2,9 @@
 #' title:  Afrobarometer Languages
 #' ---
 #'
-#' Write Dataset of Afrobarometer Languages
+#' Write Dataset of Afrobarometer Languages.
 #'
-#'
-library("tidyverse")
-library("rprojroot")
-library("stringr")
-library("magrittr")
-library("assertthat")
-library("rlang")
-
-OUTPUT <- find_rstudio_root_file("data", "afrobarometer_other_langs.csv")
+OUTPUT <- find_rstudio_root_file("data", "afrobarometer_langs_other.csv")
 
 INPUT <- list(
        "r4" = list("external", "afrobarometer", "merged_r4_data.sav"),
@@ -20,17 +12,6 @@ INPUT <- list(
        "r6" = list("external", "afrobarometer", "merged_r6_data_2016_36countries2.sav"),
        "countries" = list("data-raw", "afrobarometer_countries.csv")) %>%
   map_chr(function(x) invoke(find_rstudio_root_file, x))
-
-afrobarometer_countries <-
-  read_csv(INPUT["countries"],
-           na = "",
-           col_types = cols(round = col_character(),
-                            variable = col_character(),
-                            value = col_integer(),
-                            name = col_character(),
-                            iso_alpha3 = col_character(),
-                            iso_alpha2 = col_character()))
-
 
 get_afrobarometer_langs_other <- function(filename, rnd) {
   lang_vars <- switch(rnd,

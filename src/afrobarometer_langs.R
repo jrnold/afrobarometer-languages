@@ -5,25 +5,9 @@
 #' Write Dataset of Afrobarometer Languages
 #'
 #'
-library("tidyverse")
-library("rprojroot")
-library("stringr")
-library("magrittr")
-library("assertthat")
+source("src/init.R")
 
-OUTPUT <- find_rstudio_root_file("data", "afrobarometer_langs.csv")
-
-INPUT <-
-  list("r1" = list("external", "afrobarometer", "merged_r1_data.sav"),
-    "r2" = list("external", "afrobarometer", "merged_r2_data.sav"),
-    "r3" = list("external", "afrobarometer", "merged_r3_data.sav"),
-    "r4" = list("external", "afrobarometer", "merged_r4_data.sav"),
-    "r5" = list("external", "afrobarometer", "merged-round-5-data-34-countries-2011-2013-last-update-july-2015.sav"),
-    "r6" = list("external", "afrobarometer", "merged_r6_data_2016_36countries2.sav"),
-    "countries" = list("data-raw", "afrobarometer_countries.csv")) %>%
-  map_chr(function(x) invoke(find_rstudio_root_file, x))
-
-library("rlang")
+#' For an Afrobarometer Dataset summarize the languages
 lang_summary <- function(lang_var, country_var, .data) {
   langs <- enframe(attr(.data[[lang_var]], "labels")) %>%
     mutate(question = UQ(lang_var))
@@ -34,25 +18,12 @@ lang_summary <- function(lang_var, country_var, .data) {
   left_join(langs, countries, by = "value")
 }
 
-afrobarometer_langs <- function(filename, rnd) {
-  lang_vars <- switch(rnd,
-    r1 = "language",
-    r2 = c("q83", "q97", "q110"),
-    r3 = c("q3", "q103", "q114"),
-    r4 = c("Q3", "Q103", "Q114"),
-    r5 = ,
-    r6 = c("Q2", "Q103", "Q116")
-  )
-  country_var <- switch(rnd,
-    r1 = ,
-    r2 = ,
-    r3 = "country",
-    r4 = ,
-    r5 = ,
-    r6 = "COUNTRY"
-  )
+#' Create a dataset of all Afrobarometer datasets
+afrobarometer_langs <- function(.round) {
+  misc_data <- misc_data()
   map_df(lang_vars,
-         lang_summary, .data = haven::read_sav(filename),
+         lang_summary,
+         .data = afrobarometer(.round),
          country_var = country_var) %>%
     mutate(round = rnd)
 }
@@ -65,14 +36,6 @@ write_afrobarometer_langs <- function(x, dst) {
   write_csv(path = dst)
 }
 
-afrobarometer_countries <-
-  read_csv(INPUT[["countries"]],
-           col_types = cols_only(
-             round = col_character(),
-             value = col_integer(),
-             iso_alpha2 = col_character()
-           ),
-           na = "")
 
 afrobarometer_langs <-
   INPUT[str_subset(names(INPUT), "^r")] %>%

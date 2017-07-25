@@ -7,12 +7,7 @@
 #'
 #'
 
-library("tidyverse")
-library("rprojroot")
-library("magrittr")
-library("yaml")
-library("stringr")
-library("assertthat")
+
 
 ISO_SPECIAL_CODES <- c("mul", "mis", "und", "zxx")
 
@@ -32,21 +27,7 @@ INPUTS <- list(
 
 misc_data <- yaml.load_file(INPUTS$misc_data)
 
-afrobarometer_langs <-
-  read_csv(INPUTS$afrobarometer_langs, na = "",
-           col_types = cols_only(
-             round = col_character(),
-             question = col_character(),
-             value = col_integer(),
-             name = col_character(),
-             countries = col_character()
-           )) %>%
-    mutate(lang_id = value,
-           lang_name = name)
-
-read_afrobarometer_to_wals <- function(filename) {
-  print(filename)
-  ab_round <- tools::file_path_sans_ext(basename(filename))
+afrobarometer_langs_other_to_wals <-
   yaml.load_file(filename) %>%
     map(compact) %>%
     map(function(.x) {
