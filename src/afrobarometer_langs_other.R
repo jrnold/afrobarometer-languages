@@ -21,6 +21,17 @@ INPUT <- list(
        "countries" = list("data-raw", "afrobarometer_countries.csv")) %>%
   map_chr(function(x) invoke(find_rstudio_root_file, x))
 
+afrobarometer_countries <-
+  read_csv(INPUT["countries"],
+           na = "",
+           col_types = cols(round = col_character(),
+                            variable = col_character(),
+                            value = col_integer(),
+                            name = col_character(),
+                            iso_alpha3 = col_character(),
+                            iso_alpha2 = col_character()))
+
+
 get_afrobarometer_langs_other <- function(filename, rnd) {
   lang_vars <- switch(rnd,
                       r4 = c("Q3OTHER"),
@@ -36,12 +47,16 @@ get_afrobarometer_langs_other <- function(filename, rnd) {
     filter(value != "") %>%
     distinct() %>%
     arrange(question, COUNTRY, value) %>%
-    mutate(round = rnd)
+    mutate(round = rnd) %>%
+    rename(country = COUNTRY)
 }
 
 afrobarometer_langs_other <-
   INPUT[str_subset(names(INPUT), "^r")] %>%
-  {map2_df(., names(.), get_afrobarometer_langs_other)}
+  {map2_df(., names(.), get_afrobarometer_langs_other)} %>%
+  left_join(select(afrobarometer_countries,
+                   round, value, country_iso = iso_alpha2),
+            by = c("round", "country" = "value"))
 
 afrobarometer_langs_other %>%
   write_csv(OUTPUT, na = "")
