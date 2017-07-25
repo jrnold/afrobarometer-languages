@@ -34,8 +34,7 @@ INPUTS <- list(
   afrobarometer_r6_to_iso = list("data-raw", "afrobarometer_to_iso", "r6.yml"),
   ethnologue = list("external", "ethnologue", "Language_Code_Data_20170221",
                     "LanguageIndex.tab"),
-  afrobarometer_to_iso_tests = list("data-raw",
-                                    "afrobarometer_to_iso_tests.yml")
+  misc_data = list("data-raw", "misc.yml")
   ) %>%
   {setNames(map(., function(x) invoke(find_rstudio_root_file, x)),
             names(.))}
@@ -54,6 +53,8 @@ read_afrobarometer_langs <- function() {
     rename(lang_id = value, lang_name = name)
 }
 afrobarometer_langs <- read_afrobarometer_langs()
+
+misc_data <- yaml.load_file(INPUTS$misc_data)
 
 #'
 #' Includes:
@@ -177,14 +178,6 @@ afrobarometer_to_iso %<>%
 
 
 ROUNDS <- paste0("r", 1:6)
-QUESTIONS <- c("language",
-               "q83",
-               "q97",
-               "q3",
-               "q103",
-               "Q3",
-               "Q103",
-               "Q2")
 seteq <- function(x, y) {
   !length(setdiff(x, y)) && !length(setdiff(y, x))
 }
@@ -195,9 +188,6 @@ seteq <- function(x, y) {
 #' Check validity of the data
 #'
 
-ISO_SCOPE <- c("I", "M", "S")
-
-
 with(afrobarometer_to_iso, {
   assert_that(all(!is.na(round)))
   assert_that(is.character(round))
@@ -205,7 +195,6 @@ with(afrobarometer_to_iso, {
 
   assert_that(is.character(question))
   assert_that(all(!is.na(question)))
-  assert_that(seteq(unique(question), QUESTIONS))
 
   # Lang Id
   assert_that(is.integer(lang_id))
@@ -218,33 +207,20 @@ with(afrobarometer_to_iso, {
   # Iso Code
   assert_that(all(!is.na(iso_639_3)))
   assert_that(is.character(iso_639_3))
-  assert_that(all(str_detect(iso_639_3, "[a-z]{3}")))
+  assert_that(all(str_detect(iso_639_3, misc_data$iso$code_pattern)))
 
   assert_that(all(!is.na(iso_ref_name)))
   assert_that(is.character(iso_ref_name))
 
   assert_that(all(!is.na(iso_scope)))
   assert_that(is.character(iso_scope))
-  assert_that(all(iso_scope %in% c("I", "S", "M")))
+  assert_that(all(iso_scope %in% misc_data$iso$scopes$values))
 })
 
-iso_country_non_matches <-
-  afrobarometer_to_iso %>%
-  # ignore macrolangs
-  filter(iso_scope %in% c("I")) %>%
-  anti_join(test_data$valid_countries$values,
-            by = c("round", "lang_id", "iso_639_3")) %>%
-  inner_join(afrobarometer_langs_countries,
-             by = c("round", "question", "lang_id")) %>%
-  inner_join(rename(ethnologue_langidx, ethnologue_countries = countries),
-            by = c(iso_639_3 = "LangID")) %>%
-  mutate(country_overlap =
-            map2_lgl(countries, ethnologue_countries, ~ any(.x %in% .y))) %>%
-  filter(!country_overlap) %>%
-  mutate(countries = map_chr(countries, paste, collapse = " "),
-         ethnologue_countries = map_chr(ethnologue_countries, paste,
-                                        collapse = " "))
-stopifnot(nrow(iso_country_non_matches) == 0)
+known_iso_country_nonmatches <- misc_data$iso$country_exceptions$values %>%
+  map_df(as_tibble)
+
+
 
 afrobarometer_lang_nonmatches <-
   anti_join(afrobarometer_langs, afrobarometer_to_iso,
@@ -280,22 +256,26 @@ read_ethnologue <- function() {
 }
 ethnologue_langidx <- read_ethnologue()
 
-read_afrobarometer_to_iso_tests <- function() {
-  out <- yaml.load_file(INPUTS$afrobarometer_to_iso_tests)
-  out$valid_countries$values <-
-    map(out$valid_countries$values, as_tibble) %>%
-    bind_rows()
-  out
-}
-test_data <- read_afrobarometer_to_iso_tests()
-
-afrobarometer_langs_countries <-
-  afrobarometer_langs %>%
-  select(round, question, lang_id, countries) %>%
-  filter(!is.na(countries)) %>%
-  mutate(countries = str_split(countries, " +"))
-
-
+iso_country_non_matches <-
+  afrobarometer_to_iso %>%
+  # ignore macrolangs
+  filter(iso_scope %in% c("I")) %>%
+  # keep remove any known non-matche
+  anti_join(known_iso_country_nonmatches,
+            by = c("round", "question", "lang_id", "iso_639_3")) %>%
+  inner_join(select(mutate(filter(afrobarometer_langs, !is.na(countries)),
+                          countries = str_split(countries, " +")),
+                   round, question, lang_id, countries),
+            by = c("round", "question", "lang_id")) %>%
+  inner_join(rename(ethnologue_langidx, ethnologue_countries = countries),
+             by = c(iso_639_3 = "LangID")) %>%
+  mutate(country_overlap =
+           map2_lgl(countries, ethnologue_countries, ~ any(.x %in% .y))) %>%
+  filter(!country_overlap) %>%
+  mutate(countries = map_chr(countries, paste, collapse = " "),
+         ethnologue_countries = map_chr(ethnologue_countries, paste,
+                                        collapse = " "))
+stopifnot(nrow(iso_country_non_matches) == 0)
 
 #' # Write Output
 write_afroarometer_to_iso <- function(x, path) {

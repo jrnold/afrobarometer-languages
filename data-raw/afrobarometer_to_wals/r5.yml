@@ -4,6 +4,7 @@
   lang_name: German
   question:
   - Q2
+  - Q116
 - wals_code:
   - por
   lang_id: 220
@@ -11,5 +12,6 @@
   question:
   - Q103
   - Q2
-  note: |
+  - Q116
+  note: >
     This creole is close to Portugese. https://www.ethnologue.com/language/kea

@@ -28,7 +28,7 @@ INPUTS <- list(
                    "iso-639-3_20170202.tab"),
   afrobarometer_countries = list("data-raw", "afrobarometer_countries.csv"),
   afrobarometer_to_wals = list("data-raw", "afrobarometer_to_wals"),
-  afrobarometer_to_wals_tests = list("data-raw", "afrobarometer_to_wals_tests.yml"),
+  misc_data = list("data-raw", "misc.yml"),
   afrobarometer_to_iso = list("data", "afrobarometer_to_iso_639_3.csv"),
   wals = list("external", "wals", "language.csv"),
   wals_update = list("data-raw", "wals-updates.csv"),
@@ -36,6 +36,8 @@ INPUTS <- list(
 ) %>%
 {setNames(map(., function(x) invoke(find_rstudio_root_file, x)),
           names(.))}
+
+misc_data <- yaml.load_file(INPUTS$misc_data)
 
 read_afrobarometer_langs <- function() {
   read_csv(INPUTS$afrobarometer_langs, na = "",
@@ -52,6 +54,7 @@ read_afrobarometer_langs <- function() {
 afrobarometer_langs <- read_afrobarometer_langs()
 
 read_afrobarometer_to_wals <- function(filename) {
+  print(filename)
   ab_round <- tools::file_path_sans_ext(basename(filename))
   yaml.load_file(filename) %>%
     map(compact) %>%
@@ -174,7 +177,8 @@ read_afrobarometer_to_iso <- function() {
       round = col_character(),
       question = col_character(),
       iso_639_3 = col_character(),
-      lang_id = col_integer()
+      lang_id = col_integer(),
+      iso_scope = col_character()
     )) %>%
     rename(iso_code = iso_639_3)
 }
@@ -188,9 +192,10 @@ afrobarometer_to_iso <- read_afrobarometer_to_iso()
 #'    using the table previously constructed
 #' - for each Afrobarometer language, keep the "closest" WALS language(s)
 afrobarometer_to_wals_auto <-
-  select(afrobarometer_to_iso, round, question, lang_id, iso_code) %>%
+  afrobarometer_to_iso %>%
   # remove values from special
-  filter(!iso_code %in% ISO_SPECIAL_CODES) %>%
+  filter(iso_scope == "I") %>%
+  select(round, question, lang_id, iso_code, iso_scope) %>%
   anti_join(afrobarometer_to_wals_manual,
             by = c("round", "question", "lang_id")) %>%
   inner_join(select(iso_to_wals, iso_code, wals_code, distance),
@@ -204,24 +209,19 @@ afrobarometer_to_wals_auto <-
 afrobarometer_to_wals <-
   bind_rows(mutate(select(afrobarometer_to_wals_manual, round, question, lang_id, wals_code),
                    auto = FALSE),
-            mutate(afrobarometer_to_wals_auto,
-                   auto = TRUE))
+            mutate(afrobarometer_to_wals_auto, auto = TRUE))
+
 
 #' Add some of the original values
 afrobarometer_to_wals %<>%
   left_join(select(wals, wals_code, wals_name = Name),
             by = "wals_code") %>%
   # Outer join to ensure that all Afrobarometer Languages are accounted for
-  full_join(select(afrobarometer_langs, round, question, lang_id, lang_name),
-            by = c("round", "question", "lang_id")) %>%
-  select(round, question, lang_id, lang_name, wals_code, wals_name) %>%
+  right_join(select(afrobarometer_langs, round, question, lang_id, lang_name),
+             by = c("round", "question", "lang_id")) %>%
+  select(round, question, lang_id, lang_name, wals_code, wals_name, auto, distance) %>%
   arrange(round, question, lang_id)
 
-#' Check that everything matches or is accounted for
-# afrob_nonmatches <- anti_join(afrobarometer_langs,
-#                               afrobarometer_to_wals,
-#                         by = c("question", "lang_id"))
-# stopifnot(nrow(afrob_nonmatches) == 0L)
 
 #' Check that all WALS codes are valid
 #'
@@ -238,35 +238,23 @@ if (nrow(wals_nonmatches) > 0) {
 
 #' All WALS languages should be from the Africa Macrolanguage unless accounted
 #' for.
-tests_data <- yaml.load_file(INPUTS$afrobarometer_to_wals_tests)
 wals_non_african <-
   inner_join(afrobarometer_to_wals,
              select(wals, wals_code, macroarea),
              by = "wals_code") %>%
-  filter(!(wals_code %in% tests_data$non_african$values)) %>%
+  filter(!(wals_code %in% misc_data$wals$non_african$values)) %>%
   filter(!(macroarea %in% "Africa"))
 if (nrow(wals_non_african) > 0) {
-  cat("There exist unaccounted for non-African languages in the data:\n")
   print(wals_non_african, n = 100, width = 10000)
-  stop()
+  stop("There exist unaccounted for non-African languages in the data:\n")
 }
 
 with(afrobarometer_to_wals, {
   assert_that(all(!is.na(round)))
   assert_that(is.character(round))
-  assert_that(all(round %in% paste0("r", 1:6)))
 
   assert_that(is.character(question))
   assert_that(all(!is.na(question)))
-  assert_that(all(question %in%
-                c("language",
-                  "q83",
-                  "q97",
-                  "q3",
-                  "q103",
-                  "Q3",
-                  "Q103",
-                  "Q2")))
 
   # Lang Id
   assert_that(is.integer(lang_id))
@@ -278,7 +266,7 @@ with(afrobarometer_to_wals, {
 
   # Wals code
   assert_that(is.character(wals_code))
-  assert_that(all(str_detect(wals_code, "[a-z]{3}")))
+  assert_that(all(str_detect(na.omit(wals_code), misc_data$wals$code_pattern)))
 
   # Wals name
   assert_that(is.character(wals_name))

@@ -625,13 +625,13 @@
   lang_name: Lobi
   question:
   - Q2
-
 - iso_639_3:
   - mos
-  note: >
-    Yana is a dialect of Moore. https://www.ethnologue.com/country/BF/languages
   lang_id: 194
   lang_name: Yanan
+  note: 'Yana is a dialect of Moore. https://www.ethnologue.com/country/BF/languages
+
+    '
   question:
   - Q116
 - iso_639_3:
@@ -1193,7 +1193,6 @@
   - Q2
   - Q116
 - iso_639_3:
-  - kqs
   - kss
   lang_id: 387
   lang_name: Kissi
@@ -1476,8 +1475,6 @@
 - iso_639_3:
   - bbo
   - bmq
-  - box
-  - bwq
   lang_id: 503
   lang_name: Bobo
   question:
@@ -3149,7 +3146,8 @@
   lang_name: Mbunda
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - mgr
   lang_id: 841
   lang_name: Mambwe
   question:
@@ -3161,7 +3159,8 @@
   lang_name: Kunda
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - leh
   lang_id: 842
   lang_name: Lenje
   question:
@@ -3172,7 +3171,10 @@
   lang_name: Lala
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - nse
+  - nya
+  - tum
   lang_id: 843
   lang_name: Ngoni
   question:
@@ -3183,7 +3185,8 @@
   lang_name: Lamba
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - sby
   lang_id: 844
   lang_name: Soli
   question:
@@ -3194,7 +3197,8 @@
   lang_name: Lungu
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - ilb
   lang_id: 845
   lang_name: Ila
   question:
@@ -3206,7 +3210,9 @@
   lang_name: Nyika
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - nih
+  - nkv
   lang_id: 846
   lang_name: Nyika
   question:
@@ -3622,7 +3628,8 @@
   - Q103
   - Q2
   - Q116
-- iso_639_3: null
+- iso_639_3:
+  - lam
   lang_id: 1146
   lang_name: Lama (Lamba)
   question:
@@ -3633,7 +3640,8 @@
   lang_name: Lamba
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - ife
   lang_id: 1147
   lang_name: Ifè (Ana)
   question:
@@ -3647,7 +3655,8 @@
     '
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - kpo
   lang_id: 1148
   lang_name: Ikposso (Akposso)
   question:
@@ -3661,7 +3670,8 @@
     '
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - bud
   lang_id: 1149
   lang_name: N’Tcha (Bassar)
   question:
@@ -3732,7 +3742,8 @@
     '
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - ayg
   lang_id: 1160
   lang_name: Anyanga
   question:
@@ -3785,7 +3796,8 @@
   - Q103
   - Q2
   - Q116
-- iso_639_3: null
+- iso_639_3:
+  - mis
   lang_id: 1225
   lang_name: Babjoun
   question:
@@ -3796,7 +3808,8 @@
   lang_name: Bafia
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - tvu
   lang_id: 1226
   lang_name: Banen
   question:
@@ -3807,7 +3820,10 @@
   lang_name: Bafut
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - bas
+  - bsq
+  - ngn
   lang_id: 1227
   lang_name: Bassa
   question:
@@ -3821,7 +3837,8 @@
     '
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - ken
   lang_id: 1228
   lang_name: Bayangam
   question:
@@ -3832,7 +3849,8 @@
   lang_name: Bakundu
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - eto
   lang_id: 1229
   lang_name: Eton
   question:
@@ -3856,7 +3874,8 @@
     '
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - kot
   lang_id: 1230
   lang_name: Kotoko
   question:
@@ -3867,7 +3886,8 @@
   lang_name: Bamoun
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - maf
   lang_id: 1231
   lang_name: Mafa
   question:
@@ -3878,7 +3898,8 @@
   lang_name: Bandjoun
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - mbo
   lang_id: 1232
   lang_name: Mbo
   question:
@@ -3890,22 +3911,28 @@
   lang_name: Bangwa
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - fan
   lang_id: 1233
   lang_name: Ntoumou
   question:
   - Q116
+  note: >
+    Dialect of Fang
 - iso_639_3:
   - lns
   lang_id: 1233
   lang_name: Banso
   question:
   - Q2
-- iso_639_3: null
+- iso_639_3:
+  - sgi
   lang_id: 1234
   lang_name: Nyem Nyem
   question:
   - Q116
+  note: >
+    Nyemnyem is prejorative name for Suga
 - iso_639_3:
   - bas
   - bsq
@@ -4220,9 +4247,6 @@
   - plr
   - seb
   - sef
-  - sen
-  - sep
-  - seq
   - sev
   - tgw
   lang_id: 1278
@@ -4262,13 +4286,14 @@
   question:
   - Q2
 - iso_639_3:
-  - fon
+  - mis
   lang_id: 1282
   lang_name: DAHOMEY
+  note: 'Dohomey refers to Fon. https://en.wikipedia.org/wiki/Fon_people
+
+    '
   question:
   - Q116
-  note: >
-    Dohomey refers to Fon. https://en.wikipedia.org/wiki/Fon_people
 - iso_639_3:
   - dyi
   lang_id: 1282
@@ -4823,10 +4848,11 @@
   - dri
   lang_id: 2625
   lang_name: Zuru
+  note: 'Dialect of C''Lela
+
+    '
   question:
   - Q116
-  note: >
-    Dialect of C'Lela
 - iso_639_3:
   - say
   lang_id: 2626
@@ -4976,10 +5002,11 @@
   - kya
   lang_id: 2761
   lang_name: Kiluri
+  note: 'Luri is a dialect of Kwaya
+
+    '
   question:
   - Q116
-  note: >
-    Luri is a dialect of Kwaya
 - iso_639_3:
   - und
   lang_id: 9995

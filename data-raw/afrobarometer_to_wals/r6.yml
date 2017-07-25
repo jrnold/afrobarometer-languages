@@ -70,7 +70,6 @@
 - lang_id: 29
   lang_name: Peulh
   question:
-  - Q103
   - Q2
   wals_code:
   - fum
@@ -81,7 +80,6 @@
 
 - lang_id: 30
   question:
-  - Q103
   - Q2
   lang_name: "Sénoufo"
   wals_code:
@@ -480,6 +478,7 @@
 - lang_id: 1540
   question:
   - Q2
+  - Q116
   lang_name: Sudanese Arabic
   wals_code:
   - abb
@@ -528,6 +527,7 @@
   question:
   - Q103
   - Q2
+  - Q116
   note: |
     Portugese are able to read it https://www.ethnologue.com/language/kea.
     Other creoles are further away.

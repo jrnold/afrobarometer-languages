@@ -72,26 +72,11 @@ iso:
       lang_name: Chinyungwe
       lang_id: 3
       iso_639_3: nyu
-    - round: r1
-      question: language
-      lang_name: Luo
-      lang_id: 197
-      iso_639_3: luo
-    - round: r2
-      question: q83
-      lang_name: Luo
-      lang_id: 66
-      iso_639_3: luo
     - round: r2
       question: q83
       lang_name: Haoussa
       lang_id: 161
       iso_639_3: hau
-    - round: r2
-      question: q97
-      lang_name: Luo
-      lang_id: 66
-      iso_639_3: luo
     - round: r3
       question: q103
       lang_name: Seputi
@@ -102,11 +87,6 @@ iso:
       lang_name: Bamabara
       lang_id: 367
       iso_639_3: bam
-    - round: r3
-      question: q103
-      lang_name: Luo
-      lang_id: 413
-      iso_639_3: luo
     - round: r3
       question: q3
       lang_name: Arabic
@@ -144,11 +124,6 @@ iso:
       iso_639_3: bam
     - round: r3
       question: q3
-      lang_name: Luo
-      lang_id: 413
-      iso_639_3: luo
-    - round: r3
-      question: q3
       lang_name: Gare
       lang_id: 820
       iso_639_3: gex
@@ -178,6 +153,11 @@ iso:
       lang_id: 266
       iso_639_3: mos
     - round: r6
+      question: Q116
+      lang_name: Moshie
+      lang_id: 266
+      iso_639_3: mos
+    - round: r6
       question: Q2
       lang_name: Garre
       lang_id: 314
@@ -188,7 +168,7 @@ iso:
       lang_id: 872
       iso_639_3: nso
 wals:
-  code_pattern: "^[a-z]{3}$"
+  code_pattern: "^[a-z]{2,3}$"
   non_african:
     description: |
       Languages which are not in the African macroarea,

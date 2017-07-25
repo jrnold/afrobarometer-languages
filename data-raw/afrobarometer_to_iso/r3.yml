@@ -403,7 +403,7 @@
   question:
   - q103
 - iso_639_3:
-  - hus
+  - hau
   lang_id: 184
   lang_name: HAUSA
   question:
@@ -1780,7 +1780,8 @@
   question:
   - q3
 - iso_639_3:
-  - luo
+  - alz
+  - ach
   lang_id: 413
   lang_name: Luo
   question:

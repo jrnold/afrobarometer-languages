@@ -894,9 +894,7 @@
   question:
   - Q103
 - iso_639_3:
-  - bas
   - bsq
-  - ngn
   lang_id: 380
   lang_name: Bassa
   question:
@@ -945,7 +943,6 @@
   - Q2
   - Q116
 - iso_639_3:
-  - kqs
   - kss
   lang_id: 387
   lang_name: Kissi
@@ -3164,9 +3161,6 @@
   - plr
   - seb
   - sef
-  - sen
-  - sep
-  - seq
   - sev
   - tgw
   lang_id: 1277
@@ -3320,12 +3314,8 @@
   question:
   - Q2
 - iso_639_3:
-  - cnu
-  - kab
   - rif
   - shi
-  - shy
-  - thv
   - tzm
   lang_id: 1500
   lang_name: Berber Language
@@ -3466,7 +3456,7 @@
   question:
   - Q2
 - iso_639_3:
-  - jiu
+  - kaj
   lang_id: 2620
   lang_name: Bajju
   question:
