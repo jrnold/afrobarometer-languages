@@ -85,16 +85,6 @@ iso_to_wals <- read_csv(INPUTS[["iso_to_wals"]], na = "",
                         ))
 
 
-afrobarometer_to_iso <- INPUTS$afrobarometer_to_iso %>%
-  read_csv(na = "",
-    col_types = cols_only(
-      round = col_character(),
-      question = col_character(),
-      iso_639_3 = col_character(),
-      lang_id = col_integer(),
-      iso_scope = col_character()
-    )) %>%
-    rename(iso_code = iso_639_3)
 
 #' For any Afrobarometer languages without manual matches, the
 #' WALS code is found by
@@ -134,59 +124,3 @@ afrobarometer_to_wals %<>%
          auto, distance) %>%
   arrange(round, question, lang_id)
 
-
-#' Check that all WALS codes are valid
-#'
-#' wals_codes can be missing, but if non-missing must appear in WALS dataset
-#'
-wals_nonmatches <- afrobarometer_to_wals %>%
-  filter(!is.na(wals_code)) %>%
-  anti_join(wals, by = c("wals_code"))
-
-if (nrow(wals_nonmatches) > 0) {
-  print(wals_nonmatches)
-  stop("There exist invalid WALS codes")
-}
-
-#' All WALS languages should be from the Africa Macrolanguage unless accounted
-#' for.
-wals_non_african <-
-  inner_join(afrobarometer_to_wals,
-             select(wals, wals_code, macroarea),
-             by = "wals_code") %>%
-  filter(!(wals_code %in% misc_data$wals$non_african$values)) %>%
-  filter(!(macroarea %in% "Africa"))
-if (nrow(wals_non_african) > 0) {
-  print(wals_non_african, n = 100, width = 10000)
-  stop("There exist unaccounted for non-African languages in the data:\n")
-}
-
-with(afrobarometer_to_wals, {
-  assert_that(all(!is.na(round)))
-  assert_that(is.character(round))
-
-  assert_that(is.character(question))
-  assert_that(all(!is.na(question)))
-
-  # Lang Id
-  assert_that(is.integer(lang_id))
-  assert_that(all(lang_id >= -1 & lang_id <= 9999))
-
-  # Lang Name
-  assert_that(all(!is.na(lang_name)))
-  assert_that(is.character(lang_name))
-
-  # Wals code
-  assert_that(is.character(wals_code))
-  assert_that(all(str_detect(na.omit(wals_code), misc_data$wals$code_pattern)))
-
-  # Wals name
-  assert_that(is.character(wals_name))
-
-})
-
-#' Write output
-write_afrobarometer_to_wals <- function(x, path) {
-  write_csv(x, path = path, na = "")
-}
-write_afrobarometer_to_wals(afrobarometer_to_wals, OUTPUT)

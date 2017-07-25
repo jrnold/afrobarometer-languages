@@ -35,10 +35,12 @@ def parse_lang(el):
     path = el.xpath('.//a[contains(@href, "/language/")]')[0].get("href")
     data["name"] = el.xpath(".//span[contains(@class, 'field-content')]/text()[1]")[0].strip()
     data["iso_code"] = el.xpath(".//a[contains(@href, '/language/')]/text()")[0][1:-1]
-    data["country"] = {"path": el.xpath(".//a[contains(@href, '/country/')]")[0].get("href"),
-                       "name": el.xpath(".//a[contains(@href, '/country/')]/text()")[0]}
+    data["country"] = {
+      "path": el.xpath(".//a[contains(@href, '/country/')]")[0].get("href"),
+      "name": el.xpath(".//a[contains(@href, '/country/')]/text()")[0]
+    }
     return (path, data)
-    
+
 def parse_family1(el):
     """ Parse language family with no-subgroups """
     langs = el.cssselect("li.lang-indent")
@@ -47,7 +49,7 @@ def parse_family1(el):
     return data
 
 def parse_family2(divs):
-    """ Parse language family with subgroups """  
+    """ Parse language family with subgroups """
     data = parse_subgroup_text(divs[0].
       cssselect("div.views-field-name-1 > span.field-content")[0].text)
     item_list = divs[1].xpath("div[@class='item-list']/ul")[0]
@@ -79,15 +81,14 @@ def get_all_families():
     html = lxml.html.fromstring(r.text)
     families = [a.get("href") for a in html.xpath("//a[contains(@href, '/subgroups/')]")]
     return dict([get_family(x) for x in families])
-    
+
 def download(out):
     with open(out, 'w') as f:
-        json.dump(get_all_families(), f)    
-    
+        json.dump(get_all_families(), f)
+
 def main():
     out = sys.argv[1]
     download(out)
 
 if __name__ == "__main__":
     main()
-

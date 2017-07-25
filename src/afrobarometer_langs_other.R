@@ -12,7 +12,7 @@ library("magrittr")
 library("assertthat")
 library("rlang")
 
-OUTPUT <- find_rstudio_root_file("data", "afrobarometer_langs_others.csv")
+OUTPUT <- find_rstudio_root_file("data", "afrobarometer_other_langs.csv")
 
 INPUT <- list(
        "r4" = list("external", "afrobarometer", "merged_r4_data.sav"),

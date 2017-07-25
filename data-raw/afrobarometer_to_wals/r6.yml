@@ -253,17 +253,6 @@
 
     WALS does not mention Bambaara as spoken in Senegal. But it is included since it is mentioned by name.
 
-- lang_id: 704
-  question:
-  - Q103
-  - Q2
-  lang_name: "Sesotho/Sotho/South Sotho"
-  wals_code:
-  - ses
-  - stn
-  comments: >
-    Keep Sesotho/South Sotho and northern Sotho since Sotho is mentioned separtely.
-
 - lang_id: 709
   lang_name: "Zulu"
   question: [Q103, Q2]
@@ -277,6 +266,15 @@
   lang_name: Lusamia
   comments: >
     The Luyia language has has the dialect Samia.
+
+- wals_code:
+  - luy
+  lang_id: 302
+  lang_name: Luhya
+  question:
+  - Q103
+  - Q2
+  - Q116
 
 - lang_id: 830
   question: [Q2]
@@ -515,7 +513,6 @@
   lang_name: Forro
   wals_code:
   - pri
-  - ago
   question:
   - Q2
   note: Pincipesese Creole
@@ -531,3 +528,41 @@
   note: |
     Portugese are able to read it https://www.ethnologue.com/language/kea.
     Other creoles are further away.
+
+- wals_code:
+  - lmb
+  lang_id: 843
+  lang_name: Lamba
+  question:
+  - Q2
+
+- wals_code:
+  - lmb
+  lang_id: 462
+  lang_name: Chilambya
+  question:
+  - Q2
+
+- wals_code:
+  - ga
+  lang_id: 262
+  lang_name: Ga/Dangbe
+  question:
+  - Q103
+  - Q2
+  - Q116
+
+- wals_code:
+  - bet
+  lang_id: 1268
+  lang_name: Bété
+  question:
+  - Q2
+  - Q116
+
+- iso_639_3:
+  - nse
+  lang_id: 846
+  lang_name: Senga
+  question:
+  - Q2
