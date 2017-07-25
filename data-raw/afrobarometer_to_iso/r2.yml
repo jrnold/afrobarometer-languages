@@ -5,6 +5,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - eng
   lang_id: 1
@@ -12,6 +13,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - fra
   lang_id: 2
@@ -19,6 +21,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - por
   lang_id: 3
@@ -26,6 +29,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - swh
   lang_id: 4
@@ -33,6 +37,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - kea
   lang_id: 50
@@ -40,6 +45,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - lug
   lang_id: 60
@@ -47,6 +53,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - xog
   lang_id: 61
@@ -54,6 +61,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - teo
   lang_id: 62
@@ -61,6 +69,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ttj
   lang_id: 63
@@ -68,6 +77,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - cgg
   lang_id: 64
@@ -75,6 +85,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - myx
   lang_id: 65
@@ -82,6 +93,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - luo
   lang_id: 66
@@ -89,6 +101,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - lgg
   lang_id: 67
@@ -96,6 +109,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - alz
   lang_id: 68
@@ -103,6 +117,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - mhi
   - snm
@@ -111,6 +126,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nyn
   lang_id: 70
@@ -118,6 +134,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nyo
   lang_id: 71
@@ -125,6 +142,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - koo
   lang_id: 72
@@ -132,6 +150,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - lsm
   lang_id: 73
@@ -139,6 +158,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - kin
   lang_id: 74
@@ -146,6 +166,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - kin
   lang_id: 75
@@ -153,6 +174,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - keo
   lang_id: 76
@@ -160,6 +182,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - und
   lang_id: 77
@@ -167,6 +190,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - und
   lang_id: 78
@@ -174,6 +198,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - und
   lang_id: 79
@@ -181,23 +206,27 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - por
   lang_id: 80
   lang_name: National language
+  note: 'Used for Mozambique. Portuguese is the national language.
+
+    '
   question:
   - q83
   - q97
-  note: |
-    Used for Mozambique. Portuguese is the national language.
+  - q110
 - iso_639_3:
   - vmw
   lang_id: 81
   lang_name: Emakhuwa
+  note: Makhuwa
   question:
   - q83
   - q97
-  note: Makhuwa
+  - q110
 - iso_639_3:
   - seh
   lang_id: 82
@@ -205,6 +234,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ndc
   lang_id: 83
@@ -212,6 +242,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nya
   lang_id: 84
@@ -219,6 +250,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - tso
   lang_id: 85
@@ -226,6 +258,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - cce
   lang_id: 86
@@ -233,6 +266,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - toh
   lang_id: 87
@@ -240,6 +274,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - kde
   lang_id: 88
@@ -247,6 +282,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - chw
   lang_id: 89
@@ -254,6 +290,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - yao
   lang_id: 90
@@ -261,6 +298,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nyu
   lang_id: 91
@@ -268,6 +306,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - tsc
   lang_id: 92
@@ -275,6 +314,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - twx
   lang_id: 93
@@ -282,6 +322,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - rng
   lang_id: 94
@@ -289,15 +330,18 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - bwg
   lang_id: 95
   lang_name: Xibarue
+  note: 'Barwe?
+
+    '
   question:
   - q83
   - q97
-  note: |
-    Barwe?
+  - q110
 - iso_639_3:
   - mxc
   lang_id: 96
@@ -305,6 +349,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nya
   lang_id: 97
@@ -312,15 +357,18 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ndc
   lang_id: 98
   lang_name: Shona
+  note: 'MZ Shona is Ndau
+
+    '
   question:
   - q83
   - q97
-  note: |
-    MZ Shona is Ndau
+  - q110
 - iso_639_3:
   - ssw
   lang_id: 99
@@ -328,6 +376,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - afr
   lang_id: 100
@@ -335,6 +384,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nbl
   lang_id: 101
@@ -342,6 +392,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - xho
   lang_id: 102
@@ -349,6 +400,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nso
   lang_id: 103
@@ -356,6 +408,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - sot
   lang_id: 104
@@ -363,6 +416,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - tsn
   lang_id: 105
@@ -370,6 +424,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - tso
   lang_id: 106
@@ -377,6 +432,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ssw
   lang_id: 107
@@ -384,6 +440,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ven
   lang_id: 108
@@ -391,6 +448,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - zul
   lang_id: 109
@@ -398,6 +456,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - fat
   - twi
@@ -408,6 +467,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - dag
   lang_id: 121
@@ -415,6 +475,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ewe
   lang_id: 122
@@ -422,6 +483,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - gaa
   lang_id: 123
@@ -429,6 +491,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - hau
   lang_id: 124
@@ -436,6 +499,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - tum
   lang_id: 140
@@ -443,6 +507,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nyy
   lang_id: 141
@@ -450,12 +515,19 @@
   question:
   - q83
 - iso_639_3:
+  - lai
+  lang_id: 142
+  lang_name: Lambya
+  question:
+  - q110
+- iso_639_3:
   - nya
   lang_id: 143
   lang_name: Chewa
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - yao
   lang_id: 144
@@ -463,6 +535,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nya
   - tum
@@ -477,6 +550,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nya
   lang_id: 147
@@ -514,6 +588,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - hau
   lang_id: 161
@@ -521,6 +596,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ffm
   lang_id: 162
@@ -528,16 +604,19 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - fuc
   - ffm
   lang_id: 163
   lang_name: Trouka
+  note: 'COuld this be one of the dialects like Tukolor?
+
+    '
   question:
   - q83
   - q97
-  note: |
-    COuld this be one of the dialects like Tukolor?
+  - q110
 - iso_639_3:
   - bam
   lang_id: 164
@@ -545,6 +624,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ffm
   lang_id: 165
@@ -552,6 +632,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - snk
   lang_id: 166
@@ -559,6 +640,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - hmb
   - khq
@@ -568,6 +650,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - mwk
   - mlq
@@ -576,6 +659,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - kao
   lang_id: 169
@@ -583,6 +667,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - mey
   lang_id: 170
@@ -590,6 +675,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - spp
   lang_id: 171
@@ -597,6 +683,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - myk
   lang_id: 172
@@ -604,6 +691,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - dux
   lang_id: 173
@@ -611,6 +699,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - bbo
   - bmq
@@ -619,6 +708,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - boo
   - boz
@@ -629,6 +719,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - aqd
   - dbg
@@ -654,6 +745,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - taq
   - ttq
@@ -662,6 +754,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - mos
   lang_id: 178
@@ -669,6 +762,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - sot
   lang_id: 180
@@ -676,6 +770,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ssw
   lang_id: 182
@@ -704,10 +799,11 @@
   - asa
   lang_id: 203
   lang_name: Pare
+  note: 'Pare is alt name for Asu. https://www.ethnologue.com/country/TZ/languages
+
+    '
   question:
   - q83
-  note: |
-    Pare is alt name for Asu. https://www.ethnologue.com/country/TZ/languages
 - iso_639_3:
   - hay
   lang_id: 204
@@ -757,6 +853,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - cae
   - fap
@@ -767,6 +864,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - mnk
   lang_id: 222
@@ -774,6 +872,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - fuc
   lang_id: 223
@@ -781,6 +880,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - dyo
   lang_id: 224
@@ -788,6 +888,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - snk
   lang_id: 225
@@ -795,6 +896,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - tsn
   lang_id: 240
@@ -802,12 +904,19 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - kck
   lang_id: 241
   lang_name: Sekalanga
   question:
   - q83
+- iso_639_3:
+  - kck
+  lang_id: 242
+  lang_name: Sekalanga
+  question:
+  - q110
 - iso_639_3:
   - hio
   lang_id: 242
@@ -818,10 +927,11 @@
   - sbs
   lang_id: 243
   lang_name: Sesobeya
+  note: 'Alt name for Kuhane. https://www.ethnologue.com/country/BW/languages
+
+    '
   question:
   - q83
-  note: |
-    Alt name for Kuhane. https://www.ethnologue.com/country/BW/languages
 - iso_639_3:
   - xkv
   lang_id: 244
@@ -853,6 +963,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - yor
   lang_id: 261
@@ -860,6 +971,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - agb
   - ibo
@@ -868,6 +980,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - tiv
   lang_id: 263
@@ -875,6 +988,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ijc
   - ijs
@@ -883,6 +997,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - kby
   - knc
@@ -898,6 +1013,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ibb
   lang_id: 267
@@ -905,6 +1021,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - efi
   lang_id: 268
@@ -912,6 +1029,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - bin
   lang_id: 269
@@ -919,6 +1037,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - igl
   - idu
@@ -927,6 +1046,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - urh
   lang_id: 271
@@ -934,6 +1054,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - igb
   lang_id: 272
@@ -941,6 +1062,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - fub
   lang_id: 273
@@ -948,21 +1070,29 @@
   question:
   - q83
   - q97
-- iso_639_3:
-  - gbr
-  - gby
-  lang_id: 274
-  lang_name: Gwari
-  question:
-  - q97
-  note: |
-    Alt name for Gbari and Gbagyi https://www.ethnologue.com/country/NG/languages
+  - q110
 - iso_639_3:
   - iso
   lang_id: 274
   lang_name: Isoko
   question:
   - q83
+- iso_639_3:
+  - gbr
+  - gby
+  lang_id: 274
+  lang_name: Gwari
+  note: 'Alt name for Gbari and Gbagyi https://www.ethnologue.com/country/NG/languages
+
+    '
+  question:
+  - q97
+- iso_639_3:
+  - ijn
+  lang_id: 275
+  lang_name: Kalabari
+  question:
+  - q110
 - iso_639_3:
   - ijn
   lang_id: 275
@@ -975,16 +1105,18 @@
   lang_name: Ikewere
   question:
   - q83
+  - q110
 - iso_639_3:
   - gbr
   - gby
   lang_id: 277
   lang_name: Gwari
+  note: 'Alt name for Gbari and Gbagyi https://www.ethnologue.com/country/NG/languages
+
+    '
   question:
   - q83
   - q97
-  note: |
-    Alt name for Gbari and Gbagyi https://www.ethnologue.com/country/NG/languages
 - iso_639_3:
   - mis
   lang_id: 278
@@ -1005,6 +1137,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nde
   lang_id: 281
@@ -1012,6 +1145,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - ven
   lang_id: 282
@@ -1037,6 +1171,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nya
   lang_id: 301
@@ -1047,15 +1182,16 @@
 - iso_639_3:
   - kqn
   lang_id: 302
-  lang_name: kaonda
-  question:
-  - q97
-- iso_639_3:
-  - kqn
-  lang_id: 302
   lang_name: kaonde
   question:
   - q83
+- iso_639_3:
+  - kqn
+  lang_id: 302
+  lang_name: kaonda
+  question:
+  - q97
+  - q110
 - iso_639_3:
   - loz
   lang_id: 303
@@ -1063,6 +1199,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - bem
   - lun
@@ -1078,6 +1215,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nya
   lang_id: 306
@@ -1085,6 +1223,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - toi
   lang_id: 307
@@ -1092,6 +1231,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - tum
   lang_id: 308
@@ -1099,6 +1239,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - nse
   - tum
@@ -1114,12 +1255,14 @@
   lang_name: Nyika
   question:
   - q83
+  - q110
 - iso_639_3:
   - lam
   lang_id: 311
   lang_name: Lamba
   question:
   - q83
+  - q110
 - iso_639_3:
   - leb
   lang_id: 312
@@ -1180,15 +1323,16 @@
 - iso_639_3:
   - kua
   lang_id: 321
-  lang_name: Oshiwambo
-  question:
-  - q97
-- iso_639_3:
-  - kua
-  lang_id: 321
   lang_name: Ovambo languages
   question:
   - q83
+  - q110
+- iso_639_3:
+  - kua
+  lang_id: 321
+  lang_name: Oshiwambo
+  question:
+  - q97
 - iso_639_3:
   - kwn
   - diu
@@ -1196,24 +1340,27 @@
   - xdo
   lang_id: 323
   lang_name: kavango languages
+  note: 'https://en.wikipedia.org/wiki/Kavango_%E2%80%93_Southwest_Bantu_languages
+
+    '
   question:
   - q83
-  note: |
-    https://en.wikipedia.org/wiki/Kavango_%E2%80%93_Southwest_Bantu_languages
 - iso_639_3:
   - her
   lang_id: 324
   lang_name: Herero languages
   question:
   - q83
+  - q110
 - iso_639_3:
   - loz
   lang_id: 325
   lang_name: Caprivi languages
+  note: 'Lozi is the lingua franca of Caprivi. https://www.ethnologue.com/country/NA/languages
+
+    '
   question:
   - q83
-  note: |
-    Lozi is the lingua franca of Caprivi. https://www.ethnologue.com/country/NA/languages
 - iso_639_3:
   - naq
   lang_id: 326
@@ -1232,11 +1379,21 @@
   lang_name: German
   question:
   - q83
-- lang_id: 380
-  lang_name: Kalejin
+  - q110
+- iso_639_3:
+  - eyo
+  - sgc
+  - enb
+  - niq
+  - oki
+  - pko
+  - spy
+  - tec
+  lang_id: 380
+  lang_name: Kalenjin
   question:
-  - q83
-  iso_639_3:
+  - q110
+- iso_639_3:
   - eyo
   - sgc
   - enb
@@ -1246,6 +1403,10 @@
   - spy
   - tec
   - tuy
+  lang_id: 380
+  lang_name: Kalejin
+  question:
+  - q83
 - iso_639_3:
   - eyo
   - sgc
@@ -1267,6 +1428,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - kik
   lang_id: 382
@@ -1274,6 +1436,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - guz
   lang_id: 383
@@ -1281,6 +1444,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - lkb
   - lks
@@ -1292,6 +1456,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - luo
   lang_id: 385
@@ -1299,6 +1464,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - mas
   - saq
@@ -1307,6 +1473,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - dig
   - dug
@@ -1315,6 +1482,7 @@
   lang_name: Mijikenda
   question:
   - q83
+  - q110
 - iso_639_3:
   - som
   lang_id: 388
@@ -1322,6 +1490,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - dav
   lang_id: 389
@@ -1329,6 +1498,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - tuv
   lang_id: 390
@@ -1336,12 +1506,14 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - mer
   lang_id: 391
   lang_name: Meru
   question:
   - q83
+  - q110
 - iso_639_3:
   - mer
   lang_id: 391
@@ -1355,22 +1527,18 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - gax
   lang_id: 393
   lang_name: Borana
   question:
   - q83
+  - q110
 - iso_639_3:
   - mul
   lang_id: 393
   lang_name: English and Kikuyu
-  question:
-  - q97
-- iso_639_3:
-  - mul
-  lang_id: 394
-  lang_name: English and Kamba
   question:
   - q97
 - iso_639_3:
@@ -1381,14 +1549,26 @@
   - q83
 - iso_639_3:
   - mul
-  lang_id: 395
-  lang_name: English and Kiswahili
+  lang_id: 394
+  lang_name: English and Kamba
   question:
   - q97
 - iso_639_3:
   - teo
   lang_id: 395
   lang_name: Teso
+  question:
+  - q83
+- iso_639_3:
+  - mul
+  lang_id: 395
+  lang_name: English and Kiswahili
+  question:
+  - q97
+- iso_639_3:
+  - pko
+  lang_id: 396
+  lang_name: Pokot
   question:
   - q83
 - iso_639_3:
@@ -1399,29 +1579,19 @@
   question:
   - q97
 - iso_639_3:
-  - pko
-  lang_id: 396
-  lang_name: Pokot
-  question:
-  - q83
-- iso_639_3:
   - swh
   lang_id: 397
   lang_name: Bajuni
+  note: 'Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
+
+    '
   question:
   - q83
-  note: |
-    Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
+  - q110
 - iso_639_3:
   - mul
   lang_id: 397
   lang_name: English, Kiswahili, and Kamba
-  question:
-  - q97
-- iso_639_3:
-  - mul
-  lang_id: 398
-  lang_name: English, Kiswahili and Kikuyu
   question:
   - q97
 - iso_639_3:
@@ -1430,10 +1600,11 @@
   lang_name: Taveta
   question:
   - q83
+  - q110
 - iso_639_3:
   - mul
-  lang_id: 399
-  lang_name: English, Kiswahili and Meru
+  lang_id: 398
+  lang_name: English, Kiswahili and Kikuyu
   question:
   - q97
 - iso_639_3:
@@ -1442,6 +1613,13 @@
   lang_name: Gujarati
   question:
   - q83
+  - q110
+- iso_639_3:
+  - mul
+  lang_id: 399
+  lang_name: English, Kiswahili and Meru
+  question:
+  - q97
 - iso_639_3:
   - mgr
   lang_id: 440
@@ -1458,10 +1636,11 @@
   - leb
   lang_id: 442
   lang_name: Swaka
+  note: 'Alt name for Lala-Bisa. https://www.ethnologue.com/country/ZM/languages
+
+    '
   question:
   - q83
-  note: |
-    Alt name for Lala-Bisa. https://www.ethnologue.com/country/ZM/languages
 - iso_639_3:
   - lch
   lang_id: 443
@@ -1528,26 +1707,43 @@
   lang_name: Berom
   question:
   - q83
+  - q110
 - iso_639_3:
   - mjs
   lang_id: 801
   lang_name: Chip
+  note: 'Alt name for Miship
+
+    '
   question:
   - q83
-  note: |
-    Alt name for Miship
+  - q110
 - iso_639_3:
   - jjr
   lang_id: 802
   lang_name: Jarawa
   question:
   - q83
+  - q110
+- iso_639_3:
+  - mda
+  lang_id: 803
+  lang_name: Mada
+  question:
+  - q110
+- iso_639_3:
+  - cla
+  lang_id: 804
+  lang_name: Ron
+  question:
+  - q110
 - iso_639_3:
   - gya
   lang_id: 805
   lang_name: Gbagyi
   question:
   - q83
+  - q110
 - iso_639_3:
   - ldb
   lang_id: 806
@@ -1560,6 +1756,7 @@
   lang_name: Taba
   question:
   - q97
+  - q110
 - iso_639_3:
   - ish
   lang_id: 807
@@ -1568,11 +1765,21 @@
   - q83
   - q97
 - iso_639_3:
+  - yor
+  lang_id: 808
+  lang_name: Okun
+  question:
+  - q110
+  note: >
+    https://en.wikipedia.org/wiki/Okun_people primarily speak dialects of
+    Yoruba.
+- iso_639_3:
   - mis
   lang_id: 809
   lang_name: Mgas
   question:
   - q83
+  - q110
 - iso_639_3:
   - und
   lang_id: 995
@@ -1580,6 +1787,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - und
   lang_id: 998
@@ -1587,6 +1795,7 @@
   question:
   - q83
   - q97
+  - q110
 - iso_639_3:
   - und
   lang_id: 999
@@ -1594,3 +1803,4 @@
   question:
   - q83
   - q97
+  - q110

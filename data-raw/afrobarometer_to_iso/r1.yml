@@ -178,10 +178,11 @@
   - zul
   lang_id: 32
   lang_name: Ngoni
+  note: 'Ngoni is dialect of Zulu spokenin MW
+
+    '
   question:
   - language
-  note: |
-    Ngoni is dialect of Zulu spokenin MW
 - iso_639_3:
   - lon
   lang_id: 33
@@ -267,11 +268,13 @@
   - ada
   lang_id: 50
   lang_name: Dangbe
+  note: 'More likely Dagme than Adagbe since the later is
+
+    threatened.
+
+    '
   question:
   - language
-  note: |
-    More likely Dagme than Adagbe since the later is
-    threatened.
 - iso_639_3:
   - wss
   lang_id: 51
@@ -350,18 +353,20 @@
   - ada
   lang_id: 61
   lang_name: Noingo
+  note: 'Ningo is a dialect of Dangme.
+
+    '
   question:
   - language
-  note: |
-    Ningo is a dialect of Dangme.
 - iso_639_3:
   - ada
   lang_id: 62
   lang_name: Krobo
+  note: 'Krobo is a dialect of Dangme
+
+    '
   question:
   - language
-  note: |
-    Krobo is a dialect of Dangme
 - iso_639_3:
   - ada
   lang_id: 63
@@ -378,10 +383,11 @@
   - gur
   lang_id: 65
   lang_name: Nabi
+  note: 'Nabt is a dialect of Farefare
+
+    '
   question:
   - language
-  note: |
-    Nabt is a dialect of Farefare
 - iso_639_3:
   - maw
   lang_id: 66
@@ -427,20 +433,23 @@
   - vag
   lang_id: 71
   lang_name: Grusi
+  note: 'All Grusi languages in Ghana
+
+    '
   question:
   - language
-  note: |
-    All Grusi languages in Ghana
 - iso_639_3:
   - lig
   - bib
   lang_id: 72
   lang_name: Wangara
+  note: 'Wangara are Mande speakers in Ghana.
+
+    https://en.wikipedia.org/wiki/Soninke_Wangara
+
+    '
   question:
   - language
-  note: |
-    Wangara are Mande speakers in Ghana.
-    https://en.wikipedia.org/wiki/Soninke_Wangara
 - iso_639_3:
   - dag
   lang_id: 73
@@ -499,10 +508,11 @@
   - nko
   lang_id: 83
   lang_name: Nkona
+  note: 'Nkonya
+
+    '
   question:
   - language
-  note: |
-    Nkonya
 - iso_639_3:
   - bam
   lang_id: 84
@@ -653,9 +663,9 @@
   - ibo
   lang_id: 105
   lang_name: Ibo
+  note: Igbo
   question:
   - language
-  note: Igbo
 - iso_639_3:
   - tiv
   lang_id: 106
@@ -879,17 +889,19 @@
   - ijs
   lang_id: 143
   lang_name: Akassa
+  note: 'Akassa is a dialect of Southeast Ijo
+
+    '
   question:
   - language
-  note: |
-    Akassa is a dialect of Southeast Ijo
 - iso_639_3: knc
   lang_id: 145
   lang_name: Berieberi
+  note: 'Beriberi is prejorative name for Central Kanuri
+
+    '
   question:
   - language
-  note: |
-    Beriberi is prejorative name for Central Kanuri
 - iso_639_3:
   - fub
   lang_id: 146
@@ -900,9 +912,9 @@
   - kcg
   lang_id: 147
   lang_name: Kagoro
+  note: Aguro (Kagoro) is a dialect of Tyap
   question:
   - language
-  note: Aguro (Kagoro) is a dialect of Tyap
 - iso_639_3:
   - bkv
   lang_id: 148
@@ -937,7 +949,7 @@
   - ahs
   - bqv
   - ldb
-  - "yes"
+  - 'yes'
   lang_id: 153
   lang_name: Kabba/Koro
   question:
@@ -952,10 +964,11 @@
   - ruk
   lang_id: 155
   lang_name: Kuba
+  note: 'Note Kubi (kof) since no known speakers
+
+    '
   question:
   - language
-  note: |
-    Note Kubi (kof) since no known speakers
 - iso_639_3:
   - mis
   lang_id: 156
@@ -1020,19 +1033,19 @@
   - bqv
   - ahs
   - ldb
-  - "yes"
+  - 'yes'
   lang_id: 166
   lang_name: Koro
+  note: All Koro languages in Ghana
   question:
   - language
-  note: All Koro languages in Ghana
 - iso_639_3:
   - nbr
   lang_id: 167
   lang_name: Normana
+  note: Numana
   question:
   - language
-  note: Numana
 - iso_639_3:
   - iri
   lang_id: 168
@@ -1055,9 +1068,9 @@
   - say
   lang_id: 171
   lang_name: Zar
+  note: Zaar
   question:
   - language
-  note: Zaar
 - iso_639_3:
   - mis
   lang_id: 172
@@ -1086,9 +1099,9 @@
   - gbr
   lang_id: 176
   lang_name: Gbaji
+  note: Gbagyi
   question:
   - language
-  note: Gbagyi
 - iso_639_3:
   - mis
   lang_id: 177
@@ -1105,9 +1118,9 @@
   - kcg
   lang_id: 179
   lang_name: Katap
+  note: Probably Katab dialect of Tyap
   question:
   - language
-  note: Probably Katab dialect of Tyap
 - iso_639_3:
   - tan
   lang_id: 180
@@ -1330,10 +1343,11 @@
   - irk
   lang_id: 216
   lang_name: Mbulu
+  note: 'Alt name for Iraqw
+
+    '
   question:
   - language
-  note: |
-    Alt name for Iraqw
 - iso_639_3:
   - kde
   lang_id: 217

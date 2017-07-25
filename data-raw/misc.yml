@@ -14,11 +14,11 @@ afrobarometer:
         - name: q110
           label: "Interviewer's home language"
       r3:
-        - name: Q3
+        - name: q3
           label: "Language of respondent"
-        - name: Q103
+        - name: q103
           label: "Language of interview"
-        - name: Q114
+        - name: q114
           label: "Interviewer's home language"
       r4:
         - name: Q3
@@ -41,6 +41,16 @@ afrobarometer:
           label: "Language of interview"
         - name: Q116
           label: "Interviewer's home language"
+  country_variables:
+    comment: >
+      Variables referring the country of the respondent
+    values:
+      r1: country
+      r2: country
+      r3: country
+      r4: COUNTRY
+      r5: COUNTRY
+      r6: COUNTRY
 iso:
   scopes:
     comment: >

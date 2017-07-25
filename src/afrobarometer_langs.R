@@ -9,6 +9,7 @@ library("tidyverse")
 library("rprojroot")
 library("stringr")
 library("magrittr")
+library("assertthat")
 
 OUTPUT <- find_rstudio_root_file("data", "afrobarometer_langs.csv")
 
@@ -22,96 +23,37 @@ INPUT <-
     "countries" = list("data-raw", "afrobarometer_countries.csv")) %>%
   map_chr(function(x) invoke(find_rstudio_root_file, x))
 
+library("rlang")
+lang_summary <- function(lang_var, country_var, .data) {
+  langs <- enframe(attr(.data[[lang_var]], "labels")) %>%
+    mutate(question = UQ(lang_var))
+  countries <- transmute(.data,
+                         countries = as.integer(UQ(sym(country_var))),
+                         value = as.integer(UQ(sym(lang_var)))) %>%
+    distinct()
+  left_join(langs, countries, by = "value")
+}
+
 afrobarometer_langs <- function(filename, rnd) {
-  x <- haven::read_sav(filename)
-  if (rnd %in% "r1") {
-    langs <- enframe(attr(x$language, "labels")) %>%
-      mutate(question = "language")
-    countries <-
-      transmute(x,
-                countries = as.integer(country),
-                language = as.integer(language),
-                question = "language") %>%
-      distinct()
-  } else if (rnd %in% "r2") {
-    langs <- bind_rows(
-      enframe(attr(x$q83, "labels")) %>%
-        mutate(question = "q83"),
-      enframe(attr(x$q97, "labels")) %>%
-        mutate(question = "q97")
-    )
-    countries <- bind_rows(
-      transmute(x,
-                countries = as.integer(country),
-                language = as.integer(q83),
-                question = "q83") %>%
-        distinct(),
-      transmute(x,
-                countries = as.integer(country),
-                language = as.integer(q97),
-                question = "q97") %>%
-        distinct()
-    )
-  } else if (rnd %in% "r3") {
-    langs <- bind_rows(
-      enframe(attr(x$q3, "labels")) %>%
-        mutate(question = "q3"),
-      enframe(attr(x$q103, "labels")) %>%
-        mutate(question = "q103")
-    )
-    countries <- bind_rows(
-      transmute(x,
-                countries = as.integer(country),
-                language = as.integer(q3),
-                question = "q3") %>%
-        distinct(),
-      transmute(x,
-                countries = as.integer(country),
-                language = as.integer(q103),
-                question = "q103") %>%
-        distinct()
-    )
-  } else if (rnd %in% "r4") {
-    langs <- bind_rows(
-      enframe(attr(x$Q3, "labels")) %>%
-        mutate(question = "Q3"),
-      enframe(attr(x$Q103, "labels")) %>%
-        mutate(question = "Q103")
-    )
-    countries <- bind_rows(
-      transmute(x,
-                countries = as.integer(COUNTRY),
-                language = as.integer(Q3),
-                question = "Q3") %>%
-        distinct(),
-      transmute(x,
-                countries = as.integer(COUNTRY),
-                language = as.integer(Q103),
-                question = "Q103") %>%
-        distinct()
-    )
-  } else if (rnd %in% c("r5", "r6")) {
-    langs <- bind_rows(
-      enframe(attr(x$Q2, "labels")) %>%
-        mutate(question = "Q2"),
-      enframe(attr(x$Q103, "labels")) %>%
-        mutate(question = "Q103")
-    )
-    countries <- bind_rows(
-      transmute(x,
-                countries = as.integer(COUNTRY),
-                language = as.integer(Q2),
-                question = "Q2") %>%
-        distinct(),
-      transmute(x,
-                countries = as.integer(COUNTRY),
-                language = as.integer(Q103),
-                question = "Q103") %>%
-        distinct()
-    )
-  }
-  left_join(langs, countries,
-            by = c("question", value = "language")) %>%
+  lang_vars <- switch(rnd,
+    r1 = "language",
+    r2 = c("q83", "q97", "q110"),
+    r3 = c("q3", "q103", "q114"),
+    r4 = c("Q3", "Q103", "Q114"),
+    r5 = ,
+    r6 = c("Q2", "Q103", "Q116")
+  )
+  country_var <- switch(rnd,
+    r1 = ,
+    r2 = ,
+    r3 = "country",
+    r4 = ,
+    r5 = ,
+    r6 = "COUNTRY"
+  )
+  map_df(lang_vars,
+         lang_summary, .data = haven::read_sav(filename),
+         country_var = country_var) %>%
     mutate(round = rnd)
 }
 
@@ -147,14 +89,6 @@ afrobarometer_langs <-
                              countries))
 
 ROUNDS <- paste0("r", 1:6)
-QUESTIONS <- c("language",
-             "q83",
-             "q97",
-             "q3",
-             "q103",
-             "Q3",
-             "Q103",
-             "Q2")
 
 seteq <- function(x, y) {
   !length(setdiff(x, y)) && !length(setdiff(y, x))
@@ -167,7 +101,6 @@ with(afrobarometer_langs, {
 
   assert_that(is.character(question))
   assert_that(all(!is.na(question)))
-  assert_that(seteq(unique(question), QUESTIONS))
 
   # Lang Id
   assert_that(is.integer(value))
