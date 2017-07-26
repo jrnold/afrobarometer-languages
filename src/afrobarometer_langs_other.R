@@ -13,6 +13,8 @@ misc_data <- IO$misc_data
 
 afrob_rounds <- misc_data$afrobarometer$rounds
 
+afrobarometer_countries <- IO$afrobarometer_countries
+
 afrobarometer_langs_other_r <- function(.round) {
   misc_data <- IO$misc_data
   lang_vars <- misc_data$afrobarometer$lang_other_variables$values[[.round]]

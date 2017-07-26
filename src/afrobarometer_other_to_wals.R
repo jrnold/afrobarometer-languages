@@ -12,6 +12,10 @@ OUTPUT <- project_path("data", "afrobarometer_other_to_wals.csv")
 
 misc_data <- IO$misc_data
 
+iso_to_wals <- ungroup(IO$iso_to_wals)
+
+wals <- IO$wals
+
 # Read Afrobarometer Other Languages
 afrobarometer_langs_other <- IO$afrobarometer_langs_other %>%
   # add variable to merge on
@@ -58,12 +62,75 @@ afrobarometer_other_to_wals %<>%
 
 afrobarometer_other_to_wals <-
   # Outer join to ensure that all Afrobarometer Languages are accounted for
-  right_join(afrobarometer_langs_other,
+  left_join(afrobarometer_langs_other,
              afrobarometer_other_to_wals,
              by = c(iso_alpha2 = "country", "lang_name")) %>%
   select(round, question, country, value, iso_alpha2, wals_code,
          wals_name, auto, distance) %>%
   arrange(round, question, country, value)
+
+#' Check that all WALS codes are valid
+#'
+#' wals_codes can be missing, but if non-missing must appear in WALS dataset
+#'
+wals_nonmatches <- afrobarometer_other_to_wals %>%
+  filter(!is.na(wals_code)) %>%
+  anti_join(wals, by = c("wals_code"))
+
+if (nrow(wals_nonmatches) > 0) {
+  print(wals_nonmatches)
+  stop("There exist invalid WALS codes")
+}
+
+#' All WALS languages should be from the Africa Macrolanguage unless accounted
+#' for.
+wals_non_african <-
+  inner_join(afrobarometer_other_to_wals,
+             select(wals, wals_code, macroarea),
+             by = "wals_code") %>%
+  filter(!wals_code %in% misc_data$wals$other_non_african$values) %>%
+  filter(!(macroarea %in% "Africa"))
+if (nrow(wals_non_african) > 0) {
+  print(wals_non_african, n = 100, width = 10000)
+  stop("There exist unaccounted for non-African languages in the data:\n")
+}
+
+with(afrobarometer_other_to_wals, {
+
+  #assert_that(all(!is.na(round)))
+  #assert_that(is.character(round))
+
+  assert_that(is.character(question))
+  assert_that(all(!is.na(question)))
+
+  # Lang Id
+  assert_that(all(!is.na(country)))
+  assert_that(is.integer(country))
+  assert_that(all(country >= 1 & country <= 36))
+
+  # Lang Id
+  assert_that(all(!is.na(value)))
+  assert_that(is.character(value))
+
+  # Wals code
+  assert_that(is.character(wals_code))
+  assert_that(all(str_detect(na.omit(wals_code), misc_data$wals$code_pattern)))
+
+  assert_that(all(!is.na(iso_alpha2)))
+  assert_that(is.character(iso_alpha2))
+  assert_that(all(is.na(iso_alpha2) | str_detect(iso_alpha2, "^[A-Z]{2}$")))
+
+  # Wals name
+  assert_that(is.character(wals_name))
+
+  assert_that(all(is.na(wals_code) | !is.na(auto)))
+  assert_that(is.logical(auto))
+
+  assert_that(all(is.na(distance) | distance >= 0))
+
+})
+
+
 
 #' Write output
 afrobarometer_other_to_wals %>%

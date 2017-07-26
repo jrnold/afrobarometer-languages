@@ -28,6 +28,8 @@ afrobarometer_to_iso <- IO$afrobarometer_to_iso
 
 wals <- IO$wals
 
+iso_to_wals <- IO$iso_to_wals
+
 #' For any Afrobarometer languages without manual matches, the
 #' WALS code is found by
 #'

@@ -229,3 +229,17 @@ wals:
     - guj
     - bfg
     - tms
+  other_non_african:
+    description: ""
+    values:
+      - ams
+      - bho
+      - bul
+      - eng
+      - fre
+      - guj
+      - hin
+      - mnd
+      - pan
+      - por
+      - psh

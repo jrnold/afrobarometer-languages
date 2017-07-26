@@ -9,8 +9,8 @@ source("src/init.R")
 OUTPUT <- find_rstudio_root_file("data", "iso_to_wals.csv")
 
 make_distances <- function(x) {
-  g <- graph_from_data_frame(x)
-  as_tibble(rownames_to_column(as.data.frame(distances(g)), "from")) %>%
+  g <- igraph::graph_from_data_frame(x)
+  as_tibble(rownames_to_column(as.data.frame(igraph::distances(g)), "from")) %>%
     gather(to, distance, -from) %>%
     dplyr::filter(str_detect(to, "^/language"),
                   str_detect(from, "^/language")) %>%

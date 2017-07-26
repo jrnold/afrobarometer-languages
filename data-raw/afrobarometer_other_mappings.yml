@@ -961,7 +961,7 @@
   lang_name: massa
 - country: CM
   iso_639_3:
-  - weo
+  - bag
   lang_name: mba vele
   note: Bamvele
 - country: CM
@@ -1287,7 +1287,8 @@
   - kab
   lang_name: tamazight
 - country: GA
-  iso_639_3: null
+  iso_639_3:
+  - hau
   lang_name: haoussa
 - country: GH
   iso_639_3:
@@ -1310,7 +1311,8 @@
   - acd
   lang_name: akyode
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - "any"
   lang_name: anyinam
 - country: GH
   iso_639_3: null
@@ -1342,8 +1344,10 @@
   - bud
   lang_name: basari
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - bud
   lang_name: basseli
+  note: Bassari is alt name for Ntcham
 - country: GH
   iso_639_3: null
   lang_name: batoe
@@ -1351,18 +1355,23 @@
   iso_639_3: null
   lang_name: battor
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - bim
   lang_name: bemuba
+  note: Bimobda
 - country: GH
   iso_639_3:
   - bim
   lang_name: bimoba
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - biv
   lang_name: birifori
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - bib
   lang_name: bisab
+  note: Bisa
 - country: GH
   iso_639_3:
   - bib
@@ -1390,8 +1399,10 @@
   - bwu
   lang_name: builsa
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - bwu
   lang_name: bule
+  note: Buli
 - country: GH
   iso_639_3:
   - bwu
@@ -1403,18 +1414,24 @@
   iso_639_3: null
   lang_name: buzanga
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - bud
   lang_name: chamba
+  note: Ntcham
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - ncu
   lang_name: chimullu
+  note: Nchimmuru is alt name fo Chumburung
 - country: GH
   iso_639_3:
   - cko
   lang_name: chokosi
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - cko
   lang_name: chukusi
+  note: Chakosi is alt name for Anufo
 - country: GH
   iso_639_3:
   - dga
@@ -1428,8 +1445,10 @@
   - dga
   lang_name: dagaarti
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - dga
   lang_name: dagate
+  note: Dagati is alt name for Southern Dagaare
 - country: GH
   iso_639_3:
   - dag
@@ -1441,8 +1460,10 @@
   iso_639_3: null
   lang_name: dibebi
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - wlx
   lang_name: dolime
+  note: Dolimi is dialect of Wali
 - country: GH
   iso_639_3: null
   lang_name: dolimuu
@@ -1478,8 +1499,10 @@
   iso_639_3: null
   lang_name: gawu
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - acd
   lang_name: gekyode
+  note: Gikyode
 - country: GH
   iso_639_3:
   - gjn
@@ -1507,15 +1530,19 @@
   iso_639_3: null
   lang_name: guruma
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - gur
   lang_name: guruni
+  note: Gurune is alt name for Farefare
 - country: GH
   iso_639_3:
   - hag
   lang_name: hanga
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - kye
   lang_name: kaakye
+  note: Kaayki is autonum for Krache
 - country: GH
   iso_639_3:
   - bwu
@@ -1532,14 +1559,20 @@
   - xsm
   lang_name: kasena
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - xsm
   lang_name: kasina
+  note: Kasem has alt name Kasena
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - xon
   lang_name: kokomba
+  note: Konkomba
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - xon
   lang_name: konkoba
+  note: Konkomba
 - country: GH
   iso_639_3:
   - xon
@@ -1557,8 +1590,10 @@
   - kye
   lang_name: krachi
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - kye
   lang_name: krakyi
+  note: Krache
 - country: GH
   iso_639_3:
   - ada
@@ -1568,8 +1603,10 @@
   - kus
   lang_name: kusaasi
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - kus
   lang_name: kusal
+  note: Kusaal
 - country: GH
   iso_639_3:
   - kus
@@ -1579,18 +1616,24 @@
   - aka
   lang_name: kwahu
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - xon
   lang_name: lakpakaw
+  note: 'Alt names for Konbomba are Lipakpaanl and Bipakpam'
 - country: GH
   iso_639_3:
   - lar
   lang_name: larteh
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - lip
   lang_name: lekpekpe
+  note: Sekpele
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - xon
   lang_name: likpakpaln
+  note: Likpakpaanl is alt name for Konbomba
 - country: GH
   iso_639_3:
   - lgq
@@ -1608,10 +1651,12 @@
   - mzw
   lang_name: mo
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - mos
   lang_name: moshie
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - mos
   lang_name: mossi
 - country: GH
   iso_639_3:
@@ -1622,18 +1667,24 @@
   - nfr
   lang_name: nafana
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - ncu
   lang_name: nahumuru
+  note: Nchumburu, Nchummuru
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - gur
   lang_name: nankan
+  note: Nankani is dialect of Farefare
 - country: GH
   iso_639_3:
   - gur
   lang_name: nankani
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - dag
   lang_name: nanum
+  note: Nanuni (Nanumba) dialect of Dagbani
 - country: GH
   iso_639_3:
   - dag
@@ -1646,8 +1697,11 @@
   iso_639_3: null
   lang_name: nawurt
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - kzc
+  - nku
   lang_name: nkura
+  note: Nkuraeng dialect of Kulango
 - country: GH
   iso_639_3: null
   lang_name: nusu
@@ -1697,14 +1751,18 @@
   - tpm
   lang_name: tampulma
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - tpm
   lang_name: tapulsi
+  note: Tampulma has names Tamprusi, Tampole
 - country: GH
   iso_639_3: null
   lang_name: timbru
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - tpm
   lang_name: tombolon
+  note: Tampolem is name for Tampulma
 - country: GH
   iso_639_3: null
   lang_name: wa dormu
@@ -1752,8 +1810,10 @@
   iso_639_3: null
   lang_name: beka
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - jad
   lang_name: diakanke
+  note: Diakkanke is name for Jahanka
 - country: GN
   iso_639_3:
   - fra
@@ -1767,27 +1827,38 @@
   - gkp
   lang_name: guerze
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - gkp
   lang_name: gurerze
+  note: Gerze/Guerze is name for Guinea Kpelle
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - kke
   lang_name: kakabhe
+  note: Kakabe
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - kqs
   lang_name: kissi
 - country: GN
   iso_639_3:
   - knu
   lang_name: kono
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - knu
   lang_name: konon
+  note: Kono
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - knk
   lang_name: kouranko
+  note: Kuranko
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - ldm
   lang_name: landouma
+  note: Landoma
 - country: GN
   iso_639_3: null
   lang_name: manian
@@ -1796,18 +1867,24 @@
   - mev
   lang_name: mano
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - mfg
   lang_name: miguiforet
+  note: Mixifore is alt name for Mogofin
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - mfg
   lang_name: mikhifore
+  note: Mixifore is alt name for Mogofin
 - country: GN
   iso_639_3:
   - mfg
   lang_name: mikifore
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - naj
   lang_name: nallou
+  note: Nalu
 - country: GN
   iso_639_3:
   - sus
@@ -1820,7 +1897,8 @@
   - tod
   lang_name: toma
 - country: GN
-  iso_639_3: null
+  iso_639_3:
+  - tod
   lang_name: toma mania
 - country: GN
   iso_639_3: null
@@ -1877,16 +1955,21 @@
 - country: KE
   iso_639_3: null
   lang_name: gabra
+  note: Location of Gabra mentioned for Borana
 - country: KE
-  iso_639_3: null
+  iso_639_3:
+  - swh
   lang_name: garre
+  note: Ngare dielect of Swahili
 - country: KE
   iso_639_3:
   - nyf
   lang_name: giriama
 - country: KE
-  iso_639_3: null
+  iso_639_3:
+  - guj
   lang_name: gujarat
+  note: Gujarati
 - country: KE
   iso_639_3:
   - guj
@@ -1918,8 +2001,10 @@
   - sgc
   lang_name: kipsigis
 - country: KE
-  iso_639_3: null
+  iso_639_3:
+  - kik
   lang_name: kirinyaga
+  note: Gikuyu
 - country: KE
   iso_639_3:
   - guz
@@ -1945,8 +2030,10 @@
   - ebu
   lang_name: mbeere
 - country: KE
-  iso_639_3: null
+  iso_639_3:
+  - orc
   lang_name: munyaya
+  note: Orma has dialect Munyo spoken by Munyo Yaya group.
 - country: KE
   iso_639_3:
   - niq
@@ -1972,8 +2059,10 @@
   - oki
   lang_name: ogiek
 - country: KE
-  iso_639_3: null
+  iso_639_3:
+  - orc
   lang_name: oroma
+  note: Orma
 - country: KE
   iso_639_3:
   - pkb
@@ -1999,7 +2088,8 @@
   - spy
   lang_name: sabaot
 - country: KE
-  iso_639_3: null
+  iso_639_3:
+  - spy
   lang_name: saboti
 - country: KE
   iso_639_3: null
@@ -2092,7 +2182,8 @@
   iso_639_3: null
   lang_name: diaka
 - country: ML
-  iso_639_3: null
+  iso_639_3:
+  - hau
   lang_name: haoussa
 - country: ML
   iso_639_3:
@@ -2107,8 +2198,10 @@
   - dux
   lang_name: samogo
 - country: ML
-  iso_639_3: null
+  iso_639_3:
+  - dje
   lang_name: zerma
+  note: Adzerma and Djerma are names for Zarmaci
 - country: MU
   iso_639_3:
   - bho
@@ -2343,8 +2436,10 @@
   - eng
   lang_name: english
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - wmw
   lang_name: kimuani
+  note: Mwani
 - country: MZ
   iso_639_3:
   - wmw
@@ -2422,8 +2517,10 @@
   iso_639_3: null
   lang_name: manhgue
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - mxc
   lang_name: manhungue
+  note: Manyika has alt name Hungwe
 - country: MZ
   iso_639_3: null
   lang_name: maone
@@ -2440,11 +2537,15 @@
   - vmr
   lang_name: marenje
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - rng
   lang_name: maronga
+  note: Ronga
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - seh
   lang_name: massema
+  note: Sena
 - country: MZ
   iso_639_3: null
   lang_name: matcwe
@@ -2455,17 +2556,23 @@
   iso_639_3: null
   lang_name: mateue
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - twx
   lang_name: matewe
+  note: Tewe
 - country: MZ
   iso_639_3: null
   lang_name: mateyu
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - twx
   lang_name: mathewe
+  note: Tewe
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - twx
   lang_name: matowe
+  note: Tewe
 - country: MZ
   iso_639_3:
   - tsc
@@ -2482,11 +2589,15 @@
   lang_name: matxsua
   note: Tswa
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - cwb
   lang_name: medindo
+  note: Maindo
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - rng
   lang_name: monga
+  note: Ronga
 - country: MZ
   iso_639_3: null
   lang_name: moniaco
@@ -2546,8 +2657,10 @@
   - nyu
   lang_name: myungue
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - cwb
   lang_name: naindo
+  note: Maindo
 - country: MZ
   iso_639_3: null
   lang_name: namica
@@ -2701,8 +2814,10 @@
   - tke
   lang_name: tacuane
 - country: MZ
-  iso_639_3: null
+  iso_639_3:
+  - nya
   lang_name: tchitchewa
+  note: Chichewa dialect of Nyanja
 - country: MZ
   iso_639_3: null
   lang_name: tchthewa
@@ -2744,32 +2859,44 @@
   iso_639_3: null
   lang_name: mhalangwe
 - country: NA
-  iso_639_3: null
+  iso_639_3:
+  - fwe
   lang_name: mufwe
+  note: Fwe
 - country: NA
   iso_639_3: null
   lang_name: nyemba
 - country: NA
-  iso_639_3: null
+  iso_639_3:
+  - umb
   lang_name: rumbundu
+  note: Umbundu
 - country: NA
-  iso_639_3: null
+  iso_639_3:
+  - nmn
   lang_name: san
+  note: !Xoo goes by name Nusan
 - country: NA
   iso_639_3: null
   lang_name: shona
 - country: NA
-  iso_639_3: null
+  iso_639_3:
+  - fwe
   lang_name: sifwe
+  note: Fwe
 - country: NA
   iso_639_3: null
   lang_name: totela
 - country: NA
-  iso_639_3: null
+  iso_639_3:
+  - umb
   lang_name: uumbundu
+  note: Umbundu
 - country: NA
-  iso_639_3: null
+  iso_639_3:
+  - dhm
   lang_name: zembas
+  note: Zemba
 - country: NE
   iso_639_3:
   - hau
@@ -3060,8 +3187,10 @@
   iso_639_3: null
   lang_name: egi
 - country: NG
-  iso_639_3: null
+  iso_639_3:
+  - etu
   lang_name: ejagam
+  note: Ejagham
 - country: NG
   iso_639_3:
   - ekp
@@ -3075,8 +3204,10 @@
   - ekp
   lang_name: epeye
 - country: NG
-  iso_639_3: null
+  iso_639_3:
+  - epi
   lang_name: epia
+  note: Epie
 - country: NG
   iso_639_3:
   - ets
@@ -3238,11 +3369,14 @@
   - jub
   lang_name: jukun wanu
 - country: NG
-  iso_639_3: null
+  iso_639_3:
+  - bgu
   lang_name: kabba
 - country: NG
-  iso_639_3: null
+  iso_639_3:
+  - bgu
   lang_name: kabba/bunu
+  note: Mbongno has names Bunu and Kakaba
 - country: NG
   iso_639_3:
   - kad
@@ -3350,8 +3484,10 @@
   iso_639_3: null
   lang_name: lumama
 - country: NG
-  iso_639_3: null
+  iso_639_3:
+  - lnu
   lang_name: lunguda
+  note: Longuda
 - country: NG
   iso_639_3:
   - mda
@@ -3384,8 +3520,11 @@
   - mrt
   lang_name: margi
 - country: NG
-  iso_639_3: null
+  iso_639_3:
+  - mfn
+  - nza
   lang_name: mbembe
+  note: Mbembe
 - country: NG
   iso_639_3: null
   lang_name: mbube
@@ -3561,8 +3700,10 @@
   - lns
   lang_name: panso
 - country: NG
-  iso_639_3: null
+  iso_639_3:
+  - rin
   lang_name: rendere
+  note: Rendre/Rindiri/Rindre are alt names for Nungu
 - country: NG
   iso_639_3:
   - cla
@@ -3788,8 +3929,14 @@
   lang_name: portugais
 - country: SN
   iso_639_3:
-  - ser
+  - srr
+  wals_code:
+  - ndt
+  - noo
+  - plr
+  - wlf
   lang_name: serere
+  note: Serer-Sine
 - country: SN
   iso_639_3:
   - sus
@@ -3914,7 +4061,8 @@
   - gux
   lang_name: gourma
 - country: TG
-  iso_639_3: null
+  iso_639_3:
+  - hau
   lang_name: haoussa
 - country: TG
   iso_639_3:
@@ -4613,10 +4761,14 @@
   iso_639_3:
   - apd
   lang_name: lusudan
+  wals_code:
+  - abb
   note: Sudanese arabic
 - country: UG
   iso_639_3:
   - apd
+  wals_code:
+  - abb
   lang_name: lusudani
   note: Sudanese arabic
 - country: UG
@@ -4781,6 +4933,8 @@
 - country: ZA
   iso_639_3:
   - cmn
+  wals_code:
+  - mnd
   lang_name: chinese
 - country: ZA
   iso_639_3:

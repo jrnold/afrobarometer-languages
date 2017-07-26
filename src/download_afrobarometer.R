@@ -45,4 +45,4 @@ download_afrobarometer_file <- function(src, dst) {
 }
 
 AFROBAROMETER_URLS %>%
-  map(download_afrobarometer_file, dst = OUTPUT)
+  walk(download_afrobarometer_file, dst = OUTPUT)
