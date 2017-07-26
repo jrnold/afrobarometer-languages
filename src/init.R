@@ -70,21 +70,148 @@ write_json <- function(data, path, ...) {
 #' IO Functions for specific datasets
 #'
 
-# Reading and Writing Afrobarometer Datasets
-afrobarometer_countries <- function() {
-  path <- project_path("data-raw", "afrobarometer_countries.csv")
-  read_csv(path,
-           na = "",
-           col_types = cols(round = col_character(),
-                            variable = col_character(),
-                            value = col_integer(),
-                            name = col_character(),
-                            iso_alpha3 = col_character(),
-                            iso_alpha2 = col_character()))
-}
+IO <- rlang::env()
 
-#' Read afrobarometer files
-afrobarometer <- function(.round) {
+# Reading and Writing Afrobarometer Datasets
+env_bind_fns(IO,
+
+  afrobarometer_countries = function() {
+    path <- project_path("data-raw", "afrobarometer_countries.csv")
+    read_csv(path,
+             na = "",
+             col_types = cols(round = col_character(),
+                              variable = col_character(),
+                              value = col_integer(),
+                              name = col_character(),
+                              iso_alpha3 = col_character(),
+                              iso_alpha2 = col_character()))
+  },
+
+
+
+  misc_data = function() {
+    path <- project_path("data-raw", "misc.yml")
+    read_yml(path)
+  },
+
+  afrobarometer_mappings = function() {
+    rounds <- str_c("r", 1:6)
+    dirname <- project_path("data-raw", "afrobarometer-mappings")
+    filenames <- file.path(dirname, str_c(rounds, ".yml"))
+    map2(filenames, rounds,
+         function(x, r) {
+           out <- read_yml(x)
+           map(out, ~ c(.x, list(round = r)))
+         }) %>%
+      purrr::flatten()
+  },
+
+  afrobarometer_other_mappings = function() {
+    path <- project_path("data-raw", "afrobarometer_other_mappings.yml")
+    read_yml(path)
+  },
+
+  # ISO Data
+  iso_639_3_codes = function() {
+    path <- project_path("external",
+                         "iso-639-3",
+                         "iso-639-3_Code_Tables_20170217",
+                         "iso-639-3_20170202.tab")
+    col_types = cols(
+      Id = col_character(),
+      Part2B = col_character(),
+      Part2T = col_character(),
+      Part1 = col_character(),
+      Scope = col_character(),
+      Language_Type = col_character(),
+      Ref_Name = col_character(),
+      Comment = col_character()
+    )
+    read_tsv(path, na = "", col_types = col_types)
+  },
+
+  iso_639_3_macrolanguages = function() {
+    path <- project_path("external",
+                        "iso-639-3",
+                        "iso-639-3_Code_Tables_20170217",
+                        "iso-639-3-macrolanguages_20170131.tab")
+    col_types <- cols(
+      M_Id = col_character(),
+      I_Id = col_character(),
+      I_Status = col_character()
+    )
+    read_tsv(path, na = "", col_types = col_types)
+  },
+
+  # Ethnologue data
+  ethnologue = function() {
+    path <- project_path("external", "ethnologue", "Language_Code_Data_20170221",
+                         "LanguageIndex.tab")
+    col_types <- cols(
+      LangID = col_character(),
+      CountryID = col_character(),
+      NameType = col_character(),
+      Name = col_character()
+    )
+    read_tsv(path, na = "", col_types = col_types)
+  },
+
+  # WALS
+  # WALS data with ISO updates applied and only language level data
+  wals = function() {
+    vars <- c("wals_code", "iso_code", "glottocode", "Name", "latitude",
+              "longitude", "genus", "family", "macroarea", "countrycodes")
+    updates <- read_csv(project_path("data-raw", "wals-updates.csv"),
+                        na = "",
+                        col_types =
+                        cols_only(
+                           wals_code = col_character(),
+                           iso_code = col_character()
+                         ))
+    path <- project_path("external", "wals", "language.csv")
+    wals <- read_csv(path,
+                     col_types = cols(
+                       .default = col_character(),
+                       latitude = col_double(),
+                       longitude = col_double()
+                     ), na = "") %>%
+      left_join(select(updates,
+                       wals_code,
+                       iso_code_new = iso_code),
+                by = "wals_code") %>%
+      mutate(iso_code = coalesce(iso_code_new, iso_code)) %>%
+      select(one_of(vars))
+  },
+
+  ethnologue_tree = function() {
+    get_edges <- function(x, name) {
+      subgroup_edges <- if (length(x[["subgroups"]])) {
+        map(names(x[["subgroups"]]), ~ tibble(from = name, to = .x))
+      } else {
+        NULL
+      }
+      lang_edges <- if (length(x[["languages"]])) {
+        map(names(x[["languages"]]), ~ tibble(from = name, to = .x))
+      } else {
+        NULL
+      }
+      if (length(x[["subgroups"]])) {
+        lower_edges <- map2_df(x[["subgroups"]],
+                               names(x[["subgroups"]]),
+                               get_edges)
+      } else {
+        lower_edges <- NULL
+      }
+      bind_rows(subgroup_edges, lang_edges, lower_edges)
+    }
+    path <- project_path("data-raw", "ethnologue-tree.json")
+    read_json(path) %>%
+      {map2(., names(.), get_edges)}
+  }
+
+)
+
+.afrobarometer <- function(.round) {
   paths <-
     list("r1" = list("external", "afrobarometer", "merged_r1_data.sav"),
          "r2" = list("external", "afrobarometer", "merged_r2_data.sav"),
@@ -95,26 +222,78 @@ afrobarometer <- function(.round) {
     map_chr(function(x) invoke(project_path, x))
   read_sav(paths[[.round]])
 }
+env_bind(IO, afrobarometer = .afrobarometer)
 
-misc_data <- function() {
-  path <- project_path("data-raw", "misc.yml")
-  read_yml(path)
-}
+#' Read Generated Data
+env_bind_fns(IO, afrobarometer_langs = function() {
+  path <- project_path("data", "afrobarometer_langs.csv")
+  col_types <- cols(
+    round = col_character(),
+    value = col_integer(),
+    question = col_character(),
+    name = col_character(),
+    countries = col_character()
+  )
+  read_csv(path, na = "", col_types = col_types)
+})
 
-#' Read directory with Afrobarometer yml files of mappings
-.afrobarometer_yml_files <- function(dirname) {
-  rounds <- str_c("r", 1:6)
-  filenames <- file.path(dirname, str_c(rounds, ".yml"))
-  map2(filenames, rounds,
-       function(x, r) {
-         map(read_yml(x), ~ c(.x, list(round = r)))
-       })
-}
+env_bind_fns(IO, afrobarometer_langs_other = function() {
+  path <- project_path("data", "afrobarometer_langs_other.csv")
+  col_types <- cols(
+    round = col_character(),
+    question = col_character(),
+    country = col_integer(),
+    value = col_character(),
+    iso_alpha2 = col_character()
+  )
+  read_csv(path, na = "", col_types = col_types)
+})
 
-afrobarometer_to_wals <- function() {
-  .afrobarometer_yml_files(project_path("data-raw", "afrobarometer_to_wals"))
-}
+env_bind_fns(IO, iso_to_wals = function() {
+  path <- project_path("data", "iso_to_wals.csv")
+  col_types <- cols(
+    iso_code = col_character(),
+    wals_code = col_character(),
+    iso_code_to = col_character(),
+    distance = col_integer()
+  )
+  read_csv(path, na = "", col_types = col_types)
+})
 
-afrobarometer_to_iso <- function() {
-  .afrobarometer_yml_files(project_path("data-raw", "afrobarometer_to_iso"))
+env_bind_fns(IO, afrobarometer_to_iso = function() {
+  path <- project_path("data", "afrobarometer_to_iso_639_3.csv")
+  col_types <- cols(
+    round = col_character(),
+    question = col_character(),
+    lang_id = col_integer(),
+    lang_name = col_character(),
+    iso_639_3 = col_character(),
+    iso_ref_name = col_character(),
+    iso_scope = col_character()
+  )
+  read_csv(path, na = "", col_types = col_types)
+})
+
+env_bind_fns(IO, afrobarometer_other_to_iso = function() {
+  path <- project_path("data", "afrobarometer_other_to_iso_639_3.csv")
+  col_types <- cols(
+    round = col_character(),
+    question = col_character(),
+    country = col_integer(),
+    value = col_character(),
+    iso_639_3 = col_character(),
+    iso_scope = col_character(),
+    iso_ref_name = col_character(),
+    iso_alpha2 = col_character()
+  )
+  read_csv(path, na = "", col_types = col_types)
+})
+
+
+#' Misc functions
+#'
+#'
+#'  Set equality
+seteq <- function(x, y) {
+!length(setdiff(x, y)) && !length(setdiff(y, x))
 }

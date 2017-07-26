@@ -2,104 +2,57 @@
 #' title: "Match Afrobarometer Languages to ISO 639-3 Language Codes"
 #' ---
 #'
-#' These matches were originally made by matching
-#' alternative names along with manual editing.
+#' Match regular Afrobarometer languages to the ISO 639-3
+#' standards. This uses the mappings in data-raw/afrobarometer-mappings/*.yml from the Afrobarometer languages to ISO 639-3 individual and then adds ISO 639-3 macrolanguages.
 #'
-suppressPackageStartupMessages({
-  library("tidyverse")
-  library("stringr")
-  library("rprojroot")
-  library("purrr")
-  library("magrittr")
-  library("yaml")
-})
+source("src/init.R")
 
-OUTPUT <- find_rstudio_root_file("data", "afrobarometer_other_langs_to_iso_639_3.csv")
-
-INPUTS <- list(
-  afrobarometer_other_langs = list("data", "afrobarometer_other_langs.csv"),
-  iso_langs = list("external",
-                   "iso-639-3",
-                   "iso-639-3_Code_Tables_20170217",
-                   "iso-639-3_20170202.tab"),
-  iso_macrolangs = list("external",
-                        "iso-639-3",
-                        "iso-639-3_Code_Tables_20170217",
-                        "iso-639-3-macrolanguages_20170131.tab"),
-  afrobarometer_other_langs_to_iso =
-    list("data-raw", "afrobarometer_other_langs.yml"),
-  misc_data = list("data-raw", "misc.yml")
-  ) %>%
-  {setNames(map(., function(x) invoke(find_rstudio_root_file, x)),
-            names(.))}
+OUTPUT <- project_path("data", "afrobarometer_other_to_iso_639_3.csv")
 
 # Read Afrobarometer Languages
-afrobarometer_other_langs <-
-  read_csv(INPUTS$afrobarometer_other_langs,
-           col_types = cols(
-             country = col_integer(),
-             question = col_character(),
-             value = col_character(),
-             round = col_character(),
-             country_iso = col_character()
-           ))
+afrobarometer_langs_other <- IO$afrobarometer_langs_other %>%
+  # add variable to merge on
+  mutate(lang_name = str_to_lower(value))
 
-misc_data <- yaml.load_file(INPUTS$misc_data)
+# Misc datan
+misc_data <- IO$misc_data
 
-afrobarometer_other_langs_to_iso <-
-  yaml.load_file(INPUTS$afrobarometer_other_langs_to_iso) %>%
-  map(compact) %>%
-  map_df(function(.x) {
-    if (!is.null(.x[["iso_639_3"]])) {
-      tibble(country = .x$country,
-             lang_name = .x$lang_name,
-             iso_639_3 = .x$iso_639_3)
-    }
-  })
+#' Load ISO languages, keeping only living languages
+#' and special codes
+iso_langs <- IO$iso_639_3_codes %>%
+    filter(Language_Type %in% c("L", "S")) %>%
+    select(-Language_Type, -Comment)
 
-
-iso_macrolangs <-
-  read_tsv(INPUTS$iso_macrolangs,
-           col_types = cols(
-             M_Id = col_character(),
-             I_Id = col_character(),
-             I_Status = col_character()
-           ), na = "") %>%
+#' ISO Macrolanguages
+iso_macrolangs <- IO$iso_639_3_macrolanguages %>%
   filter(I_Status == "A") %>%
   select(-I_Status)
 
-afrobarometer_other_langs_to_iso %<>% {
-    bind_rows(
-      .,
-      inner_join(., iso_macrolangs,
-                 by = c("iso_639_3" = "I_Id")) %>%
-        select(-iso_639_3) %>%
-        rename(iso_639_3 = M_Id) %>%
-        distinct()
-    )
-  }
+#' Afrobarometer Mappings
+afrobarometer_other_to_iso <- IO$afrobarometer_other_mappings %>%
+  map_df(function(.x) {
+    if (!is.null(.x[["iso_639_3"]])) {
+      out <- tidyr::crossing(country = .x[["country"]],
+
+                             iso_639_3 = .x[["iso_639_3"]])
+      out[["lang_name"]] <- .x$lang_name
+      out
+    }
+  }) %>%
+  distinct() %>%
+  {
+    bind_rows(.,
+              inner_join(., iso_macrolangs,
+                        by = c("iso_639_3" = "I_Id")) %>%
+              select(-iso_639_3) %>%
+              rename(iso_639_3 = M_Id))
+  } %>%
+  # there may be duplicates
+  distinct()
+
 
 #' add ISO information
-iso_langs <-
-  read_tsv(INPUTS$iso_langs,
-           col_names =
-             c("Id", "Part2B", "Part2T", "Part1", "Scope", "Language_Type",
-               "Ref_Name", "Comment"),
-           col_types =
-             cols(
-               Id = col_character(),
-               Part2B = col_character(),
-               Part2T = col_character(),
-               Part1 = col_character(),
-               Scope = col_character(),
-               Language_Type = col_character(),
-               Ref_Name = col_character(),
-               Comment = col_character()
-             ), na = "") %>%
-  filter(Language_Type %in% c("L", "S")) %>%
-  select(-Language_Type, -Comment)
-
-afrobarometer_other_langs_to_iso %<>%
+afrobarometer_other_to_iso %<>%
   left_join(select(iso_langs,
                    iso_639_3 = Id,
                    iso_scope = Scope,
@@ -107,13 +60,106 @@ afrobarometer_other_langs_to_iso %<>%
                    ),
             by = "iso_639_3")
 
-#' Merge to original other language-variable data
-#'
-afrobarometer_other_langs_to_iso_639_3 <-
-  left_join(afrobarometer_other_langs,
-            afrobarometer_other_langs_to_iso,
-            by = c("country_iso" = "country",
-                   "value" = "lang_name"))
+#' Add Additional info from Afrobarometer
+afrobarometer_other_to_iso <-
+  left_join(afrobarometer_langs_other,
+            afrobarometer_other_to_iso,
+            by = c("iso_alpha2" = "country", "lang_name")) %>%
+  select(round, question, country, value, iso_639_3, iso_scope,
+         iso_ref_name, iso_alpha2)
 
-afrobarometer_other_langs_to_iso_639_3 %>%
+
+
+#'
+#' # Test Output Data
+#'
+with(afrobarometer_other_to_iso, {
+  assert_that(all(!is.na(round)))
+  assert_that(is.character(round))
+  assert_that(all(unique(round) %in% misc_data$afrobarometer$rounds))
+
+  assert_that(is.character(question))
+  assert_that(all(!is.na(question)))
+
+  assert_that(all(!is.na(country)))
+  assert_that(is.integer(country))
+  assert_that(all(country >= 1 & country <= 36))
+
+  assert_that(all(!is.na(value)))
+  assert_that(is.character(value))
+
+  # Iso Code
+  assert_that(is.character(iso_639_3))
+  assert_that(all(str_detect(na.omit(iso_639_3), misc_data$iso$code_pattern)))
+
+  assert_that(is.character(iso_ref_name))
+
+  assert_that(is.character(iso_scope))
+
+})
+
+assert_that(nrow(filter(afrobarometer_other_to_iso,
+                        !is.na(iso_scope),
+                        !iso_scope %in% misc_data$iso$scopes$values)) == 0)
+
+#' known_iso_country_nonmatches <-
+#'   misc_data$iso$country_exceptions$values %>%
+#'   map_df(as_tibble)
+#'
+#' afrobarometer_lang_nonmatches <-
+#'   anti_join(afrobarometer_langs, afrobarometer_to_iso,
+#'             by = c("question", "lang_id"))
+#' stopifnot(nrow(afrobarometer_lang_nonmatches) == 0)
+#'
+#' #' There should be no missing ISO codes.
+#' #' Use the special codes: `und`, `mis`, or `mul` instead.
+#' stopifnot(all(!is.na(afrobarometer_to_iso$iso_639_3)))
+#'
+#' #' All ISO 639-3 codes must be valid
+#' iso_lang_nonmatches <-
+#'   afrobarometer_to_iso %>%
+#'   anti_join(iso_langs, by = c("iso_639_3" = "Id"))
+#' stopifnot(nrow(iso_lang_nonmatches) == 0)
+#'
+#' #' Check that the Afrobarometer countries in which
+#' #' the language is spoken is consistent with countries
+#' #' in which the Ethnologue records the language as being spoken.
+#' ethnologue_langidx <- IO$ethnologue %>%
+#'     select(LangID, CountryID) %>%
+#'     group_by(LangID) %>%
+#'     summarise(countries = list(sort(unique(CountryID))))
+#'
+#' known_iso_country_nonmatches <-
+#'   misc_data$iso$country_exceptions$values %>%
+#'   map_df(as_tibble)
+#'
+#' iso_country_non_matches <-
+#'   afrobarometer_to_iso %>%
+#'   # ignore macrolangs
+#'   filter(iso_scope %in% c("I")) %>%
+#'   # remove any known non-matche
+#'   anti_join(known_iso_country_nonmatches,
+#'             by = c("round", "question", "lang_id", "iso_639_3")) %>%
+#'   inner_join(select(mutate(filter(afrobarometer_langs,
+#'                                   !is.na(countries)),
+#'                           countries = str_split(countries, " +")),
+#'                    round, question, lang_id, countries),
+#'             by = c("round", "question", "lang_id")) %>%
+#'   inner_join(rename(ethnologue_langidx, ethnologue_countries = countries),
+#'              by = c(iso_639_3 = "LangID")) %>%
+#'   mutate(country_overlap =
+#'            map2_lgl(countries, ethnologue_countries, ~ any(.x %in% .y))) %>%
+#'   filter(!country_overlap) %>%
+#'   mutate(countries = map_chr(countries, paste, collapse = " "),
+#'          ethnologue_countries = map_chr(ethnologue_countries, paste,
+#'                                         collapse = " "))
+#' stopifnot(nrow(iso_country_non_matches) == 0)
+#'
+#' # This generates YAML to add to misc_data exceptions
+#' # iso_country_non_matches %>%
+#' #   select(round, question, lang_id, lang_name, iso_639_3) %>%
+#' #   as.yaml(column.major = FALSE) %>% cat()
+#'
+#' # Write Output
+afrobarometer_other_to_iso %>%
   write_csv(path = OUTPUT, na = "")

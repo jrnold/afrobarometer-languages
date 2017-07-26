@@ -743,7 +743,6 @@ r2,q83,321,Ovambo languages,kua,Kuanyama,I
 r2,q83,323,kavango languages,diu,Diriku,I
 r2,q83,323,kavango languages,kwn,Kwangali,I
 r2,q83,323,kavango languages,mho,Mashi (Zambia),I
-r2,q83,323,kavango languages,xdo,Kwandu,I
 r2,q83,324,Herero languages,her,Herero,I
 r2,q83,325,Caprivi languages,loz,Lozi,I
 r2,q83,326,Nama / Damara,naq,Khoekhoe,I
@@ -2236,7 +2235,6 @@ r4,Q103,588,Silozi,loz,Lozi,I
 r4,Q103,589,Setswana,tsn,Tswana,I
 r4,Q103,590,Masubia,sbs,Subiya,I
 r4,Q103,591,San,hgm,Hai//om,I
-r4,Q103,591,San,hnh,//Ani,I
 r4,Q103,591,San,knw,Kung-Ekoka,I
 r4,Q103,591,San,ktz,Ju/'hoan,I
 r4,Q103,591,San,naq,Khoekhoe,I
@@ -2316,7 +2314,6 @@ r4,Q103,700,Afrikaans,afr,Afrikaans,I
 r4,Q103,701,Ndebele,nbl,South Ndebele,I
 r4,Q103,702,Xhosa,xho,Xhosa,I
 r4,Q103,703,Pedi/Spedi/North Sotho,nso,Pedi,I
-r4,Q103,704,Sesotho/Sotho/South Sotho,nso,Pedi,I
 r4,Q103,704,Sesotho/Sotho/South Sotho,sot,Southern Sotho,I
 r4,Q103,705,Setswana/Tswana,tsn,Tswana,I
 r4,Q103,706,Shangaan,tso,Tsonga,I
@@ -2732,7 +2729,6 @@ r4,Q114,588,Silozi,loz,Lozi,I
 r4,Q114,589,Setswana,tsn,Tswana,I
 r4,Q114,590,Masubia,sbs,Subiya,I
 r4,Q114,591,San,hgm,Hai//om,I
-r4,Q114,591,San,hnh,//Ani,I
 r4,Q114,591,San,knw,Kung-Ekoka,I
 r4,Q114,591,San,ktz,Ju/'hoan,I
 r4,Q114,591,San,naq,Khoekhoe,I
@@ -2812,7 +2808,6 @@ r4,Q114,700,Afrikaans,afr,Afrikaans,I
 r4,Q114,701,Ndebele,nbl,South Ndebele,I
 r4,Q114,702,Xhosa,xho,Xhosa,I
 r4,Q114,703,Pedi/Spedi/North Sotho,nso,Pedi,I
-r4,Q114,704,Sesotho/Sotho/South Sotho,nso,Pedi,I
 r4,Q114,704,Sesotho/Sotho/South Sotho,sot,Southern Sotho,I
 r4,Q114,705,Setswana/Tswana,tsn,Tswana,I
 r4,Q114,706,Shangaan,tso,Tsonga,I
@@ -3229,7 +3224,6 @@ r4,Q3,588,Silozi,loz,Lozi,I
 r4,Q3,589,Setswana,tsn,Tswana,I
 r4,Q3,590,Masubia,sbs,Subiya,I
 r4,Q3,591,San,hgm,Hai//om,I
-r4,Q3,591,San,hnh,//Ani,I
 r4,Q3,591,San,knw,Kung-Ekoka,I
 r4,Q3,591,San,ktz,Ju/'hoan,I
 r4,Q3,591,San,naq,Khoekhoe,I
@@ -3309,7 +3303,6 @@ r4,Q3,700,Afrikaans,afr,Afrikaans,I
 r4,Q3,701,Ndebele,nbl,South Ndebele,I
 r4,Q3,702,Xhosa,xho,Xhosa,I
 r4,Q3,703,Pedi/Spedi/North Sotho,nso,Pedi,I
-r4,Q3,704,Sesotho/Sotho/South Sotho,nso,Pedi,I
 r4,Q3,704,Sesotho/Sotho/South Sotho,sot,Southern Sotho,I
 r4,Q3,705,Setswana/Tswana,tsn,Tswana,I
 r4,Q3,706,Shangaan,tso,Tsonga,I
@@ -3531,7 +3524,6 @@ r5,Q103,665,Diola,dyo,Jola-Fonyi,I
 r5,Q103,700,Afrikaans,afr,Afrikaans,I
 r5,Q103,702,Xhosa,xho,Xhosa,I
 r5,Q103,703,Pedi/Spedi/North Sotho,nso,Pedi,I
-r5,Q103,704,Sesotho/Sotho/South Sotho,nso,Pedi,I
 r5,Q103,704,Sesotho/Sotho/South Sotho,sot,Southern Sotho,I
 r5,Q103,705,Setswana/Tswana,tsn,Tswana,I
 r5,Q103,706,Shangaan,tso,Tsonga,I
@@ -3884,7 +3876,6 @@ r5,Q116,701,Ndebele,nbl,South Ndebele,I
 r5,Q116,701,Ndebele,nde,North Ndebele,I
 r5,Q116,702,Xhosa,xho,Xhosa,I
 r5,Q116,703,Pedi/Spedi/North Sotho,nso,Pedi,I
-r5,Q116,704,Sesotho/Sotho/South Sotho,nso,Pedi,I
 r5,Q116,704,Sesotho/Sotho/South Sotho,sot,Southern Sotho,I
 r5,Q116,705,Setswana/Tswana,tsn,Tswana,I
 r5,Q116,706,Shangaan,tso,Tsonga,I
@@ -4539,7 +4530,6 @@ r5,Q2,701,Ndebele,nbl,South Ndebele,I
 r5,Q2,701,Ndebele,nde,North Ndebele,I
 r5,Q2,702,Xhosa,xho,Xhosa,I
 r5,Q2,703,Pedi/Spedi/North Sotho,nso,Pedi,I
-r5,Q2,704,Sesotho/Sotho/South Sotho,nso,Pedi,I
 r5,Q2,704,Sesotho/Sotho/South Sotho,sot,Southern Sotho,I
 r5,Q2,705,Setswana/Tswana,tsn,Tswana,I
 r5,Q2,706,Shangaan,tso,Tsonga,I
@@ -5660,7 +5650,6 @@ r6,Q2,587,Thimbukushu,mhw,Mbukushu,I
 r6,Q2,588,Silozi,loz,Lozi,I
 r6,Q2,590,Masubia,sbs,Subiya,I
 r6,Q2,591,San,hgm,Hai//om,I
-r6,Q2,591,San,hnh,//Ani,I
 r6,Q2,591,San,knw,Kung-Ekoka,I
 r6,Q2,591,San,ktz,Ju/'hoan,I
 r6,Q2,591,San,naq,Khoekhoe,I
@@ -5716,7 +5705,6 @@ r6,Q2,666,Manjack,mfv,Mandjak,I
 r6,Q2,668,Bassari,bsc,Bassari,I
 r6,Q2,702,Xhosa,xho,Xhosa,I
 r6,Q2,703,Pedi/North Sotho,nso,Pedi,I
-r6,Q2,704,Sotho/South Sotho,nso,Pedi,I
 r6,Q2,704,Sotho/South Sotho,sot,Southern Sotho,I
 r6,Q2,705,Tswana,tsn,Tswana,I
 r6,Q2,706,Shangaan/Tsonga,tso,Tsonga,I

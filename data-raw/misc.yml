@@ -1,4 +1,11 @@
 afrobarometer:
+  rounds:
+  - r1
+  - r2
+  - r3
+  - r4
+  - r5
+  - r6
   language_variables:
     comment: >
       Language variables in each round
@@ -41,6 +48,17 @@ afrobarometer:
           label: "Language of interview"
         - name: Q116
           label: "Interviewer's home language"
+  lang_other_variables:
+    comment: >
+      Variables with text responses to "Other" responses for variable languages.
+      Not all language questions included this data in the merged data.
+    values:
+      r1: []
+      r2: []
+      r3: []
+      r4: ["Q3OTHER"]
+      r5: ["Q2OTHER", "Q103OTHER", "Q116OTHER"]
+      r6: ["Q2OTHER", "Q103OTHER", "Q116OTHER"]
   country_variables:
     comment: >
       Variables referring the country of the respondent
@@ -167,6 +185,31 @@ iso:
       lang_name: Suthu
       lang_id: 872
       iso_639_3: nso
+    - round: r1
+      question: language
+      lang_name: Portueguese
+      lang_id: 12
+      iso_639_3: por
+    - round: r4
+      question: Q3
+      lang_id: 594
+      lang_name: Uumbundu
+      iso_639_3: umb
+    - round: r3
+      question: q3
+      lang_id: 338
+      lang_name: Ndebele
+      iso_639_3: nde
+    - round: r3
+      question: q3
+      lang_id: 330
+      lang_name: Angolan:Rumbundu
+      iso_639_3: umb
+    - round: r3
+      question: q3
+      lang_id: 329
+      lang_name: Angolan:Portuguese
+      iso_639_3: por
 wals:
   code_pattern: "^[a-z]{2,3}$"
   non_african:

@@ -1012,12 +1012,10 @@
   - language
   wals_code: null
 - iso_639_3:
-  - c
-  - k
-  - n
+  - knc
   lang_id: 145
   lang_name: Berieberi
-  note: Beriberi is prejorative name for Central Kanuri
+  note: Beriberi is prejorative name for Central Kanuri.
   question:
   - language
   wals_code: null

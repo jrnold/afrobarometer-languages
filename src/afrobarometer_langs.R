@@ -7,6 +7,8 @@
 #'
 source("src/init.R")
 
+OUTPUT <- project_path("data", "afrobarometer_langs.csv")
+
 #' For an Afrobarometer Dataset summarize the languages
 lang_summary <- function(lang_var, country_var, .data) {
   langs <- enframe(attr(.data[[lang_var]], "labels")) %>%
@@ -18,49 +20,44 @@ lang_summary <- function(lang_var, country_var, .data) {
   left_join(langs, countries, by = "value")
 }
 
+# Miscellaneous data
+misc_data <- IO$misc_data
+
+#' Country Abbrevs
+afrobarometer_countries <- IO$afrobarometer_countries %>%
+  select(round, value, iso_alpha2)
+
 #' Create a dataset of all Afrobarometer datasets
-afrobarometer_langs <- function(.round) {
-  misc_data <- misc_data()
+afrobarometer_langs_r <- function(.round) {
+  misc_data <- IO$misc_data
+  lang_vars <- map_chr(misc_data$afrobarometer$language_variables$values[[.round]], "name")
+  country_var <-
+    misc_data$afrobarometer$country_variables$values[[.round]]
   map_df(lang_vars,
          lang_summary,
-         .data = afrobarometer(.round),
+         .data = IO$afrobarometer(.round),
          country_var = country_var) %>%
-    mutate(round = rnd)
-}
-
-write_afrobarometer_langs <- function(x, dst) {
-  x %>%
-  mutate(countries = map_chr(countries, function(x) str_c(x, collapse = " "))) %>%
-  select(round, question, lang_id, lang_name, countries) %>%
-  arrange(round, question, lang_id) %>%
-  write_csv(path = dst)
+    mutate(round = .round)
 }
 
 
-afrobarometer_langs <-
-  INPUT[str_subset(names(INPUT), "^r")] %>%
-  {map2_df(., names(.), afrobarometer_langs)} %>%
+afrobarometer_langs <- map_df(IO$misc_data$afrobarometer$rounds, afrobarometer_langs_r) %>%
   left_join(afrobarometer_countries,
             by = c("round", "countries" = "value")) %>%
   mutate(value = as.integer(value)) %>%
   group_by(round, question, value, name) %>%
   summarise(countries = list(sort(unique(iso_alpha2)))) %>%
-  arrange(round, question, value) %>%
   mutate(countries = map_chr(countries, paste, collapse = " "),
          countries = if_else(str_trim(countries) == "",
                              NA_character_,
-                             countries))
-
-ROUNDS <- paste0("r", 1:6)
-
-seteq <- function(x, y) {
-  !length(setdiff(x, y)) && !length(setdiff(y, x))
-}
+                             countries)) %>%
+  select(round, question, value, name, countries) %>%
+  arrange(round, question, value)
 
 with(afrobarometer_langs, {
   assert_that(all(!is.na(round)))
   assert_that(is.character(round))
-  assert_that(seteq(unique(round), ROUNDS))
+  assert_that(seteq(unique(round), misc_data$afrobarometer$rounds))
 
   assert_that(is.character(question))
   assert_that(all(!is.na(question)))
@@ -75,7 +72,8 @@ with(afrobarometer_langs, {
 
   # Iso Code
   assert_that(is.character(countries))
-  assert_that(all(str_detect(na.omit(countries), "[A-Z]{2}( [A-Z]{2})*")))
+  assert_that(all(str_detect(na.omit(countries),
+                             "[A-Z]{2}( [A-Z]{2})*")))
 })
 
 #' Ouptut
