@@ -45,10 +45,7 @@ resources:
       - name: question
         type: string
         title: Afrobarometer survey question/variable
-        constraints:
-          required: true
-          enum: ["language", "q83", "q97", "Q2", "Q3", "Q103", "q3", "q103"]
-      - name: lang_id
+      - name: value
         type: integer
         title: Afrobarometer language variable value
         description: >
@@ -58,7 +55,7 @@ resources:
           required: true
           minimum: -1
           maximum: 9999
-      - name: lang_name
+      - name: name
         type: string
         title: Afrobarometer language variable value.
         description: >
@@ -80,6 +77,64 @@ resources:
     - round
     - question
     - value
+- name: afrobarometer_langs_other
+  path: afrobarometer_langs_other.csv
+  title: "Afrobarometer 'Other' Languages"
+  description: >
+    Languages mentioned in the text responses after answering "other" to
+    a language question.
+  schema:
+    fields:
+      - name: round
+        label: Afrobarometer round
+        type: string
+      - name: question
+        label: Afrobarometer variable
+        type: string
+      - name: country
+        label: Afrobarometer country
+        type: integer
+      - name: value
+        label: Language name
+        type: string
+      - name: iso_alpha_2
+        label: Country
+        type: string
+        description: ISO 3166 Alpha-2 country code
+- path: iso_to_wals.csv
+  name: iso_to_wals
+  description: >
+    Mappings from all ISO 639-3 languages to a WALS language.
+    These use the ISO 639-3 codes provided in the WALS dataset and the
+    Ethnologue language tree. ISO languages are matched to the closest
+    WALS language using distance on the Ethnologue tree.
+    This mapping is many to many.
+  schema:
+    fields:
+    - name: iso_code
+      type: string
+      label: ISO 639-3 Code From
+      description: >
+        The ISO code of the language being mapped.
+    - name: wals_code
+      type: string
+      label: WALS code
+      description: >
+        The WALS code associated with it
+    - name: iso_code_to
+      type: string
+      label: ISO 639-3 Code (WALS)
+      description: >
+        The ISO 639-3 code of the WALS language that was mapped to.
+    - name: distance
+      type: integer
+      label: Distance
+      description: >
+        The distance between the ISO and WALS language using the Ethnologue
+        language hierarchy. A distance of 0 means the ISO language was directly
+        mapped to a WALS language.
+
+
 - path: afrobarometer_to_iso_639_3.csv
   name: afrobarometer_to_iso_639_3
   title: Afrobarometer Languages to ISO 639-3 Codes
