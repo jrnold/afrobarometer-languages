@@ -1,0 +1,15 @@
+round,question,lang_id,lang_name,wals_code,countries
+r5,Q116,10,Bassa,bas,CM
+r5,Q2,10,Bassa,bas,CM
+r6,Q2,10,Bassa,bas,CM
+r5,Q2,11,Bobo,bbf,BF
+r6,Q116,13,Bobo,bbf,BF
+r6,Q2,13,Bobo,bbf,BF
+r5,Q116,10,Bassa,duk,NG
+r5,Q2,10,Bassa,duk,NG
+r5,Q2,11,Bobo,kfe,ML
+r6,Q116,13,Bobo,kfe,ML
+r6,Q2,13,Bobo,kfe,ML
+r5,Q116,10,Bassa,kla,LR
+r5,Q2,10,Bassa,kla,LR
+r6,Q2,10,Bassa,kla,LR

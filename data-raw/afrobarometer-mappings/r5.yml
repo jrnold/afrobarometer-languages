@@ -94,7 +94,10 @@
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - kla
+  - bas
+  - duk
   note: >
     This includes three distinct languages from Cameroon, Liberia and
     Nigeria. Use the following
@@ -102,6 +105,12 @@
     - Nigeria: bzw
     - Cameroon: bas
     - Liberia: bsq
+
+    WALS
+
+    - Liberia: kla
+    - Cameroon: bas
+    - Nigeria: duk (Duka is closest)
 
 - iso_639_3:
   - bmq
@@ -116,8 +125,10 @@
   - kfe
   note: >-
     Mali and Burkina Faso.
-    These refer to distinct languages. In Mali, bmq is a Gur language.
-    In BF, bwq is a Mande language
+    These refer to distinct languages.
+
+    - In Mali, bmq is a Gur language. (WALS kfe)
+    - In BF, bwq, bbo are Mande language (WALS bbf)
 - iso_639_3:
   - nya
   lang_id: 12
@@ -1267,7 +1278,8 @@
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - kla
   note: Liberia Bassa
 - iso_639_3:
   - blh
@@ -2405,7 +2417,8 @@
   lang_name: Bassa
   question:
   - Q116
-  wals_code: null
+  wals_code:
+  - duk
   note: >-
     Nigerian Bassa. different from bas (CM) or bsq (LR)
 - iso_639_3:
@@ -4206,7 +4219,8 @@
   lang_name: Bassa
   question:
   - Q116
-  wals_code: null
+  wals_code:
+  - bas
   note: >-
     Cameroon Bassa
 
@@ -4329,7 +4343,8 @@
   lang_name: Bassa
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - bas
   note: >-
     Cameroon Bassa
 - iso_639_3:

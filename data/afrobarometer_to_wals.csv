@@ -2500,8 +2500,7 @@ r3,q114,354,Igala,ise,Isekiri,TRUE,4
 r3,q114,354,Igala,yor,Yoruba,TRUE,4
 r3,q114,355,Urhobo,urh,Urhobo,TRUE,0
 r3,q114,356,Idoma,ido,Idoma,TRUE,0
-r3,q114,357,Bassa,awk,Akwa,TRUE,4
-r3,q114,357,Bassa,duk,Duka,TRUE,4
+r3,q114,357,Bassa,duk,Duka,,
 r3,q114,358,Ikwere,igb,Igbo,TRUE,2
 r3,q114,358,Ikwere,izi,Izi,TRUE,2
 r3,q114,359,Ukwani,igb,Igbo,TRUE,2
@@ -3114,8 +3113,7 @@ r3,q3,354,Igala,ise,Isekiri,TRUE,4
 r3,q3,354,Igala,yor,Yoruba,TRUE,4
 r3,q3,355,Urhobo,urh,Urhobo,TRUE,0
 r3,q3,356,Idoma,ido,Idoma,TRUE,0
-r3,q3,357,Bassa,awk,Akwa,TRUE,4
-r3,q3,357,Bassa,duk,Duka,TRUE,4
+r3,q3,357,Bassa,duk,Duka,,
 r3,q3,358,Ikwere,igb,Igbo,TRUE,2
 r3,q3,358,Ikwere,izi,Izi,TRUE,2
 r3,q3,359,Ukwani,igb,Igbo,TRUE,2
@@ -3776,7 +3774,7 @@ r4,Q103,314,Gabra,orb,Oromo (Boraana),TRUE,0
 r4,Q103,340,Sesotho,ses,Sesotho,TRUE,0
 r4,Q103,341,Sephuti,swt,Swati,TRUE,0
 r4,Q103,342,Sethepu,xho,Xhosa,TRUE,0
-r4,Q103,380,Bassa,kla,Klao,TRUE,4
+r4,Q103,380,Bassa,kla,Klao,,
 r4,Q103,381,Belle,aiz,Aizi,TRUE,4
 r4,Q103,381,Belle,sme,Seme,TRUE,4
 r4,Q103,383,Gbandi,bnd,Bandi,TRUE,0
@@ -4813,7 +4811,7 @@ r4,Q114,314,Gabra,orb,Oromo (Boraana),TRUE,0
 r4,Q114,340,Sesotho,ses,Sesotho,TRUE,0
 r4,Q114,341,Sephuti,swt,Swati,TRUE,0
 r4,Q114,342,Sethepu,xho,Xhosa,TRUE,0
-r4,Q114,380,Bassa,kla,Klao,TRUE,4
+r4,Q114,380,Bassa,kla,Klao,,
 r4,Q114,381,Belle,aiz,Aizi,TRUE,4
 r4,Q114,381,Belle,sme,Seme,TRUE,4
 r4,Q114,383,Gbandi,bnd,Bandi,TRUE,0
@@ -5850,7 +5848,7 @@ r4,Q3,314,Gabra,orb,Oromo (Boraana),TRUE,0
 r4,Q3,340,Sesotho,ses,Sesotho,TRUE,0
 r4,Q3,341,Sephuti,swt,Swati,TRUE,0
 r4,Q3,342,Sethepu,xho,Xhosa,TRUE,0
-r4,Q3,380,Bassa,kla,Klao,TRUE,4
+r4,Q3,380,Bassa,kla,Klao,,
 r4,Q3,381,Belle,aiz,Aizi,TRUE,4
 r4,Q3,381,Belle,sme,Seme,TRUE,4
 r4,Q3,383,Gbandi,bnd,Bandi,TRUE,0
@@ -6974,10 +6972,9 @@ r5,Q116,2,French,fre,French,TRUE,0
 r5,Q116,3,Portuguese,por,Portuguese,TRUE,0
 r5,Q116,4,Kiswahili,swa,Swahili,TRUE,0
 r5,Q116,5,Arabic,ams,Arabic (Modern Standard),TRUE,0
-r5,Q116,10,Bassa,awk,Akwa,TRUE,4
-r5,Q116,10,Bassa,bas,Basaá,TRUE,0
-r5,Q116,10,Bassa,duk,Duka,TRUE,4
-r5,Q116,10,Bassa,kla,Klao,TRUE,4
+r5,Q116,10,Bassa,bas,Basaá,,
+r5,Q116,10,Bassa,duk,Duka,,
+r5,Q116,10,Bassa,kla,Klao,,
 r5,Q116,15,Fulfuldé,fbf,Fula (Burkina Faso),TRUE,0
 r5,Q116,15,Fulfuldé,fli,Ful (Liptako),TRUE,0
 r5,Q116,15,Fulfuldé,fni,Fula (Nigerian),TRUE,2
@@ -7104,7 +7101,7 @@ r5,Q116,310,Somali,som,Somali,TRUE,0
 r5,Q116,311,Pokot,pkt,Pokot,TRUE,0
 r5,Q116,312,Turkana,tna,Turkana,TRUE,0
 r5,Q116,340,Sesotho,ses,Sesotho,TRUE,0
-r5,Q116,380,Bassa,kla,Klao,TRUE,4
+r5,Q116,380,Bassa,kla,Klao,,
 r5,Q116,384,Gio,dan,Dan,TRUE,0
 r5,Q116,384,Gio,dbw,Dan (Blowo),TRUE,0
 r5,Q116,385,Gola,gol,Gola,TRUE,0
@@ -7294,8 +7291,7 @@ r5,Q116,634,Igala,yor,Yoruba,TRUE,4
 r5,Q116,639,Idoma,ido,Idoma,TRUE,0
 r5,Q116,642,Jukun,juk,Jukun,TRUE,0
 r5,Q116,652,Bajju,gwo,Gworok,,
-r5,Q116,659,Bassa,awk,Akwa,TRUE,4
-r5,Q116,659,Bassa,duk,Duka,TRUE,4
+r5,Q116,659,Bassa,duk,Duka,,
 r5,Q116,660,Wolof,wlf,Wolof,TRUE,0
 r5,Q116,661,Pulaar/Toucouleur,fma,Fula (Mauritanian),TRUE,0
 r5,Q116,661,Pulaar/Toucouleur,fus,Fula (Senegal),TRUE,0
@@ -7656,7 +7652,7 @@ r5,Q116,1223,Bafang,fef,Fe'fe',TRUE,0
 r5,Q116,1224,Douala,dua,Duala,TRUE,0
 r5,Q116,1225,Babjoun,,,,
 r5,Q116,1226,Banen,tnn,Tunen,TRUE,0
-r5,Q116,1227,Bassa,bas,Basaá,TRUE,0
+r5,Q116,1227,Bassa,bas,Basaá,,
 r5,Q116,1228,Bayangam,kyg,Kenyang,TRUE,0
 r5,Q116,1229,Eton,bas,Basaá,TRUE,4
 r5,Q116,1229,Eton,bfi,Bafia,TRUE,4
@@ -7842,10 +7838,9 @@ r5,Q2,8,Amazigh,bma,Berber (Middle Atlas),TRUE,0
 r5,Q2,8,Amazigh,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,0
 r5,Q2,8,Amazigh,tas,Tashlhiyt,TRUE,2
 r5,Q2,9,Bambara,bam,Bambara,TRUE,0
-r5,Q2,10,Bassa,awk,Akwa,TRUE,4
-r5,Q2,10,Bassa,bas,Basaá,TRUE,0
-r5,Q2,10,Bassa,duk,Duka,TRUE,4
-r5,Q2,10,Bassa,kla,Klao,TRUE,4
+r5,Q2,10,Bassa,bas,Basaá,,
+r5,Q2,10,Bassa,duk,Duka,,
+r5,Q2,10,Bassa,kla,Klao,,
 r5,Q2,11,Bobo,bbf,Bobo Madaré (Northern),,
 r5,Q2,11,Bobo,kfe,Koromfe,,
 r5,Q2,12,Chichewa,cic,Chichewa,TRUE,0
@@ -8165,7 +8160,7 @@ r5,Q2,322,Oroma,owc,Oromo (West-Central),TRUE,2
 r5,Q2,340,Sesotho,ses,Sesotho,TRUE,0
 r5,Q2,341,Sephuthi,swt,Swati,TRUE,0
 r5,Q2,342,Sethepu,xho,Xhosa,TRUE,0
-r5,Q2,380,Bassa,kla,Klao,TRUE,4
+r5,Q2,380,Bassa,kla,Klao,,
 r5,Q2,381,Belle,aiz,Aizi,TRUE,4
 r5,Q2,381,Belle,sme,Seme,TRUE,4
 r5,Q2,382,Dei,kla,Klao,TRUE,4
@@ -9190,7 +9185,7 @@ r5,Q2,1232,Bangwa,mkq,Mankon,TRUE,0
 r5,Q2,1232,Bangwa,nge,Ngemba,TRUE,0
 r5,Q2,1232,Bangwa,yem,Yemba,TRUE,2
 r5,Q2,1233,Banso,lns,Lamnso',TRUE,0
-r5,Q2,1234,Bassa,bas,Basaá,TRUE,0
+r5,Q2,1234,Bassa,bas,Basaá,,
 r5,Q2,1235,Batanga,bas,Basaá,TRUE,4
 r5,Q2,1235,Batanga,bfi,Bafia,TRUE,4
 r5,Q2,1235,Batanga,bga,Benga,TRUE,4

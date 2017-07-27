@@ -949,7 +949,8 @@
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - kla
   note: >-
     Used in Liberia. Liberian Bassa (bsq) different from Basa (bzw) of Nigeria
     and Bassa (bas) of Cameroon.

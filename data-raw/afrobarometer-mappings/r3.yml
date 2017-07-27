@@ -1632,17 +1632,9 @@
   question:
   - q114
   - q3
-  wals_code: null
-  note: >-
-    This is the Nigerian Bassa.
-
-    - Bassa-Kontagora (bsr) is nearly extinct
-    - Basa-Gurmana (buj) has small number of speakers (< 2000)
-    - Basa (bzw) has 100,000+ speakers
-    - Basa-Gumna (bsl) has no known L1 speakers
-    - Cameroon language Basaa (bas) has 300+ speakers. These are
-      unrelated
-
+  wals_code:
+  - duk
+  note: Nigerian Bassa
 - iso_639_3:
   - ikw
   lang_id: 358
