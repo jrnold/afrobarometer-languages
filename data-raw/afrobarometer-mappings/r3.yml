@@ -495,19 +495,15 @@
   - q114
   - q3
   wals_code: null
-- iso_639_3:
-  - lkb
-  - lks
-  - lto
-  - lwg
-  - nle
+- iso_639_3: [bxk, nle, ida, lkb, lko, lks, rag, lri, lrm, nyd, lsm, lts, lto]
   lang_id: 202
   lang_name: Luhya
   question:
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_code:
+  - luy
 - iso_639_3:
   - kam
   lang_id: 203
@@ -536,22 +532,15 @@
   - q114
   - q3
   wals_code: null
-- iso_639_3:
-  - enb
-  - eyo
-  - niq
-  - oki
-  - sgc
-  - spy
-  - tec
-  - tuy
+- iso_639_3: [eyo, sgc, enb, niq, oki, pko, spy, tec, tuy]
   lang_id: 206
   lang_name: Kalenjin
   question:
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_code:
+  - nan
 - iso_639_3:
   - mas
   - saq
@@ -2402,7 +2391,15 @@
   question:
   - q114
   - q3
-  wals_code: null
+  wals_code:
+  - bir
+  - fye
+  - gwo
+  - kgm
+  - mdz
+  - tok
+  note: >-
+    Provide WALS codes to include Platoid, and exclude Bantoid genus.
 - iso_639_3:
   - pym
   lang_id: 554
@@ -2505,14 +2502,12 @@
   wals_code: null
 - iso_639_3:
   - ahs
+  - ldb
   - bqv
-  - mgi
-  - uji
+  - "yes"
   lang_id: 566
   lang_name: Korro
-  note: 'Koro dialects https://en.wikipedia.org/wiki/South_Plateau_languages or
-
-    https://en.wikipedia.org/wiki/Koro_Wachi_language'
+  note: 'https://www.ethnologue.com/subgroups/koro'
   question:
   - q114
   - q3

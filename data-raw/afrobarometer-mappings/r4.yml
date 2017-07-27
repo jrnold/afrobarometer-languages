@@ -647,27 +647,16 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - cli
-  - cll
-  - kbp
-  - kdh
-  - las
-  - mzw
-  - ntr
-  - sig
-  - sil
-  - ssl
-  - tpm
-  - vag
   - xsm
   lang_id: 275
   lang_name: Grussi
-  note: All Grusi languages in https://www.ethnologue.com/country/GH/languages
+  note: Kasem is the most widely spoken Grusi language in Ghana.
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - xsm
 - iso_639_3:
   - sil
   - ssl
@@ -778,20 +767,15 @@
   - Q114
   - Q3
   wals_code: null
-- iso_639_3:
-  - lkb
-  - lks
-  - lto
-  - luy
-  - lwg
-  - nle
+- iso_639_3: [bxk, nle, ida, lkb, lko, lks, rag, lri, lrm, nyd, lsm, lts, lto]
   lang_id: 302
   lang_name: Luhya
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - luy
 - iso_639_3:
   - kam
   lang_id: 303
@@ -801,23 +785,15 @@
   - Q114
   - Q3
   wals_code: null
-- iso_639_3:
-  - enb
-  - eyo
-  - kln
-  - niq
-  - oki
-  - sgc
-  - spy
-  - tec
-  - tuy
+- iso_639_3: [eyo, sgc, enb, niq, oki, pko, spy, tec, tuy]
   lang_id: 304
   lang_name: Kalenjin
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - nan
 - iso_639_3:
   - guz
   lang_id: 305

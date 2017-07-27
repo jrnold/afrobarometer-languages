@@ -1009,27 +1009,16 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - acd
-  - afu
-  - cpn
-  - doy
-  - gjn
   - gwx
-  - kph
-  - kye
-  - lar
-  - naw
-  - ncu
-  - nko
-  - nkq
-  - nlu
-  - nnu
   lang_id: 280
   lang_name: Guan
-  note: Include all languages that are in the "Guang" languages
+  note: >-
+    Of the Guan languages, use Gua since it has the closest name and Guan
+    as an alt name.
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - nkn
 - iso_639_3:
   - gjn
   lang_id: 281
@@ -1070,20 +1059,15 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - lkb
-  - lks
-  - lto
-  - luy
-  - lwg
-  - nle
+- iso_639_3: [bxk, nle, ida, lkb, lko, lks, rag, lri, lrm, nyd, lsm, lts, lto]
   lang_id: 302
   lang_name: Luhya
   question:
   - Q103
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - luy
 - iso_639_3:
   - kam
   lang_id: 303
@@ -1093,23 +1077,15 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - enb
-  - eyo
-  - kln
-  - niq
-  - oki
-  - sgc
-  - spy
-  - tec
-  - tuy
+- iso_639_3: [eyo, sgc, enb, niq, oki, pko, spy, tec, tuy]
   lang_id: 304
   lang_name: Kalenjin
   question:
   - Q103
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - nan
 - iso_639_3:
   - guz
   lang_id: 305
@@ -2332,10 +2308,18 @@
   - mgi
   lang_id: 649
   lang_name: Migili
-  note: Alt name for Lijili. https://www.ethnologue.com/country/NG/languages
+  note: >-
+    Alt name for Lijili. https://www.ethnologue.com/country/NG/languages
+    WALS codes are to exclude Platoid and exclude Bantoid genus matches.
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - bir
+  - fye
+  - gwo
+  - kgm
+  - mdz
+  - tok
 - iso_639_3:
   - gya
   lang_id: 650

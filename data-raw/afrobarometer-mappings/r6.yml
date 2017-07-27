@@ -864,21 +864,17 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - lkb
-  - lks
-  - lto
-  - lwg
-  - nle
+- iso_639_3: [bxk, nle, ida, lkb, lko, lks, rag, lri, lrm, nyd, lsm, lts, lto]
   lang_id: 302
   lang_name: Luhya
-  note: 'This is the macro language: http://www-01.sil.org/iso639-3/documentation.asp?id=luy'
   question:
   - Q103
   - Q116
   - Q2
   wals_code:
   - luy
+  note: >-
+    Luhya is an ISO 639-3 macrolanguage. Include its component languages.
 - iso_639_3:
   - kam
   lang_id: 303
@@ -888,20 +884,10 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - enb
-  - eyo
-  - niq
-  - oki
-  - sgc
-  - spy
-  - tec
-  - tuy
+- iso_639_3: [eyo, sgc, enb, niq, oki, pko, spy, tec, tuy]
   lang_id: 304
   lang_name: Kalenjin
-  note: Kalenjin is a macrolanguage in ISO-639-3. I choose larger languages spoken
-    in Kenya within that group. Did not include (Endo/Marakuet) The most likely language
-    are Nandi (niq) or Kipsigis (sgc)
+  note: Kalenjin is a macrolanguage in ISO-639-3.
   question:
   - Q103
   - Q2

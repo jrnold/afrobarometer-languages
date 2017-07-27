@@ -208,6 +208,45 @@ env_bind_fns(IO,
     path <- project_path("data-raw", "ethnologue-tree.json")
     read_json(path) %>%
       {map2(., names(.), get_edges)}
+  },
+  # map2_df(names(foo), foo,
+  # ~ tibble(family = str_replace(.x, "/subgroups/", ""), from = .y$from, to = .y$to)) %>%
+  # write_csv("ethnologue_tree.csv", na = "")
+
+  afrobarometer_to_wals_countries = function() {
+    path <- project_path("data-raw", "afrobarometer_to_wals_countries.csv")
+    col_types <- cols(
+      round = col_character(),
+      question = col_character(),
+      lang_id = col_integer(),
+      lang_name = col_character(),
+      wals_code = col_character(),
+      countries = col_character()
+    )
+    read_csv(path, col_types = col_types, na = "")
+  },
+
+  afrobarometer_to_iso_639_3_countries = function() {
+    path <- project_path("data-raw", "afrobarometer_to_iso_639_3_countries.csv")
+    col_types <- cols(
+      round = col_character(),
+      question = col_character(),
+      lang_id = col_integer(),
+      lang_name = col_character(),
+      iso_639_3 = col_character(),
+      countries = col_character()
+    )
+    read_csv(path, col_types = col_types, na = "")
+  },
+
+  ethnologue_distances = function() {
+    path <- project_path("data-raw", "ethnologue-distances.csv.gz")
+    col_types <- cols(
+      from = col_character(),
+      to = col_character(),
+      distance = col_integer()
+    )
+    read_csv(gzfile(path), na = "", col_types = col_types)
   }
 
 )

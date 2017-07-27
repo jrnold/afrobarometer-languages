@@ -1,18 +1,65 @@
 {
+  "version": "0.0.1",
+  "title": "Afrobarometer Languages Mapped to ISO Standards and WALS",
+  "description": "Mappings from languages used in the Afrobarometer surveys to some common language standards and databases, the ISO 639-3 langauge codes and the WALS database.",
+  "contributors": [
+    {
+      "email": "jeffrey.arnold@gmail.com",
+      "role": "author",
+      "name": "Jeffrey B. Arnold"
+    }
+  ],
+  "sources": [
+    {
+      "path": "https://www.ethnologue.com/codes/download-code-tables",
+      "name": "Ethnologue Code Tables (2017-02-21)"
+    },
+    {
+      "path": "http://afrobarometer.org/data/merged-round-6-data-36-countries-2016",
+      "name": "Afrobarometer Merged Round 6 data (36 countries) (2016)"
+    },
+    {
+      "path": "http://afrobarometer.org/data/merged-round-5-data-34-countries-2011-2013-last-update-july-2015",
+      "name": "Afrobarometer Merged Round 5 data (34 countries) (2011-2013) (last update: July 2015)"
+    },
+    {
+      "path": "http://www.afrobarometer.org/data/merged-round-4-data-20-countries-2008",
+      "name": "Afrobarometer Merged Round 4 Data (20 countries) (2008)"
+    },
+    {
+      "path": "http://www.afrobarometer.org/data/merged-round-3-data-18-countries-2005",
+      "name": "Afrobarometer Merged Round 3 Data (18 countries) (2005)"
+    },
+    {
+      "path": "http://www.afrobarometer.org/data/merged-round-2-data-16-countries-2004",
+      "name": "Afrobarometer Merged Round 2 Data (16 countries) (2004)"
+    },
+    {
+      "path": "http://www.afrobarometer.org/data/merged-round-1-data-12-countries-1999-2001",
+      "name": "Afrobarometer Merged Round 2 Codebook (12 countries) (1999-2001)"
+    },
+    {
+      "path": "http://www-01.sil.org/iso639-3/download.asp",
+      "name": "Afrobarometer ISO 639-3 Complete Code Tables Set (2017-02-17)"
+    },
+    {
+      "path": "http://wals.info/download",
+      "name": "The World Atlas of Language Structures Online"
+    }
+  ],
+  "name": "afrobarometer_langs",
   "resources": [
     {
+      "path": "afrobarometer_langs.csv",
       "encoding": "utf-8",
-      "description": "For all rounds, variables which included language answers, the integer values and labels of the languages, and the countries in which those languages appeared.",
-      "mediatype": "text/csv",
-      "format": "csv",
-      "name": "Afrobarometer Language Summary",
       "schema": {
         "fields": [
           {
             "type": "string",
-            "name": "round",
             "title": "Afrobarometer round",
+            "name": "round",
             "constraints": {
+              "required": true,
               "enum": [
                 "r1",
                 "r2",
@@ -20,48 +67,47 @@
                 "r4",
                 "r5",
                 "r6"
-              ],
-              "required": true
+              ]
             }
           },
           {
             "type": "string",
-            "name": "question",
             "title": "Afrobarometer survey question/variable",
+            "name": "question",
             "constraints": {
-              "pattern": "(language|[qQ][0-9]+)",
-              "required": true
+              "required": true,
+              "pattern": "(language|[qQ][0-9]+)"
             }
           },
           {
             "type": "integer",
             "description": "The integer value of the language in the Afrobarometer dataset, e.g. `1, 2, ....`",
             "title": "Afrobarometer language value",
+            "name": "value",
             "constraints": {
-              "maximum": 9999,
               "required": true,
-              "minimum": -1
-            },
-            "name": "value"
+              "minimum": -1,
+              "maximum": 9999
+            }
           },
           {
             "type": "string",
             "description": "The labels of the language variable in the Afrobarometer dataset, for example, `\"English\", \"French\", ...`.",
             "title": "Afrobarometer language name",
+            "name": "name",
             "constraints": {
               "required": true
-            },
-            "name": "name"
+            }
           },
           {
             "title": "Countries",
+            "types": "string",
             "description": "Space separated ISO-3166 alpha-2 codes of the countries in which this value appeared in the Afrobarometer survey results.",
             "name": "countries",
             "constraints": {
-              "enum": "[A-Z]{2}( [A-Z]{2})*",
-              "required": false
-            },
-            "types": "string"
+              "required": false,
+              "enum": "[A-Z]{2}( [A-Z]{2})*"
+            }
           }
         ],
         "primaryKey": [
@@ -70,21 +116,21 @@
           "lang_id"
         ]
       },
-      "path": "afrobarometer_langs.csv"
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "For all rounds, variables which included language answers, the integer values and labels of the languages, and the countries in which those languages appeared.",
+      "name": "Afrobarometer Language Summary"
     },
     {
       "encoding": "utf-8",
-      "name": "afrobarometer_langs_other",
-      "format": "csv",
-      "path": "afrobarometer_langs_other.csv",
-      "description": "Languages mentioned in the text responses after answering \"other\" to a language question.",
       "schema": {
         "fields": [
           {
             "type": "string",
-            "name": "round",
             "title": "Afrobarometer round",
+            "name": "round",
             "constraints": {
+              "required": true,
               "enum": [
                 "r1",
                 "r2",
@@ -92,46 +138,45 @@
                 "r4",
                 "r5",
                 "r6"
-              ],
-              "required": true
+              ]
             }
           },
           {
             "type": "string",
-            "name": "question",
             "title": "Afrobarometer survey question/variable",
+            "name": "question",
             "constraints": {
               "required": true
             }
           },
           {
             "type": "integer",
-            "label": "Afrobarometer country",
             "description": "Value of the country in the country variable of the Afrobarometer dataset.",
             "name": "country",
+            "label": "Afrobarometer country",
             "constraints": {
-              "maximum": 36,
               "required": true,
-              "minimum": 1
+              "minimum": 1,
+              "maximum": 36
             }
           },
           {
             "type": "string",
             "description": "Language name. This is the value of the \"other\" language variable.",
             "label": "Language name",
+            "name": "value",
             "constraints": {
               "required": true
-            },
-            "name": "value"
+            }
           },
           {
             "type": "string",
-            "label": "Country",
             "description": "ISO 3166 Alpha-2 country code",
             "name": "iso_alpha_2",
+            "label": "Country",
             "constraints": {
-              "pattern": "[A-Z][A-Z]",
-              "required": true
+              "required": true,
+              "pattern": "[A-Z][A-Z]"
             }
           }
         ],
@@ -142,52 +187,53 @@
           "value"
         ]
       },
+      "format": "csv",
+      "name": "afrobarometer_langs_other",
+      "path": "afrobarometer_langs_other.csv",
       "title": "Afrobarometer 'Other' Languages",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "description": "Languages mentioned in the text responses after answering \"other\" to a language question."
     },
     {
+      "path": "iso_to_wals.csv",
       "encoding": "utf-8",
-      "description": "Mappings from all ISO 639-3 languages to a WALS language. These use the ISO 639-3 codes provided in the WALS dataset and the Ethnologue language tree. ISO languages are matched to the closest WALS language using distance on the Ethnologue tree. This mapping is many to many.",
-      "mediatype": "text/csv",
-      "format": "csv",
-      "name": "iso_to_wals",
       "schema": {
         "fields": [
           {
             "type": "string",
-            "label": "ISO 639-3 Code From",
             "description": "The ISO code of the language being mapped.",
             "name": "iso_code",
+            "label": "ISO 639-3 Code From",
             "constraints": {
-              "pattern": "[a-z]{3}",
-              "required": true
+              "required": true,
+              "pattern": "[a-z]{3}"
             }
           },
           {
             "type": "string",
-            "label": "WALS code",
             "description": "The WALS code associated with it.",
             "name": "wals_code",
+            "label": "WALS code",
             "constraints": {
-              "pattern": "[a-z]{2,3}",
-              "required": true
+              "required": true,
+              "pattern": "[a-z]{2,3}"
             }
           },
           {
             "type": "string",
-            "label": "ISO 639-3 Code (WALS)",
             "description": "The ISO 639-3 code of the WALS language that was mapped to.",
             "name": "iso_code_to",
+            "label": "ISO 639-3 Code (WALS)",
             "constraints": {
-              "pattern": "[a-z]{3}",
-              "required": true
+              "required": true,
+              "pattern": "[a-z]{3}"
             }
           },
           {
             "type": "integer",
-            "label": "Distance",
             "description": "The distance between the original ISO and the ISO code of the WALS language to which it was mapped. The distance is the graph distance between the two ISO languages in the Ethnologue language tree. A distance of 0 means the ISO language was directly mapped to a WALS language.",
             "name": "distance",
+            "label": "Distance",
             "constraints": {
               "required": true,
               "minimum": 0
@@ -199,21 +245,21 @@
           "wals_code"
         ]
       },
-      "path": "iso_to_wals.csv"
+      "format": "csv",
+      "mediatype": "text/csv",
+      "description": "Mappings from all ISO 639-3 languages to a WALS language. These use the ISO 639-3 codes provided in the WALS dataset and the Ethnologue language tree. ISO languages are matched to the closest WALS language using distance on the Ethnologue tree. This mapping is many to many.",
+      "name": "iso_to_wals"
     },
     {
       "encoding": "utf-8",
-      "name": "afrobarometer_to_iso_639_3",
-      "format": "csv",
-      "path": "afrobarometer_to_iso_639_3.csv",
-      "description": "Mappings between Afrobarometer \"Other\" Languages and the the codes of the ISO 639-3 standard.\nThese mappings are many-to-many. An Afrobarometer language can map to more than one ISO 639-3 language, and more than one Afrobarometer language can map to the same ISO 639-3 language.",
       "schema": {
         "fields": [
           {
             "type": "string",
-            "name": "round",
             "title": "Afrobarometer round",
+            "name": "round",
             "constraints": {
+              "required": true,
               "enum": [
                 "r1",
                 "r2",
@@ -221,63 +267,62 @@
                 "r4",
                 "r5",
                 "r6"
-              ],
-              "required": true
+              ]
             }
           },
           {
             "type": "string",
-            "name": "question",
             "title": "Afrobarometer survey question/variable",
+            "name": "question",
             "constraints": {
               "required": true
             }
           },
           {
             "type": "integer",
-            "label": "Afrobarometer country",
             "description": "Value of the country in the country variable of the Afrobarometer dataset.",
             "name": "country",
+            "label": "Afrobarometer country",
             "constraints": {
-              "maximum": 36,
               "required": true,
-              "minimum": 1
+              "minimum": 1,
+              "maximum": 36
             }
           },
           {
             "type": "integer",
             "description": "The integer value of the language in the Afrobarometer dataset, e.g. `1, 2, ....`",
             "title": "Afrobarometer language value",
+            "name": "lang_id",
             "constraints": {
-              "maximum": 9999,
               "required": true,
-              "minimum": -1
-            },
-            "name": "lang_id"
+              "minimum": -1,
+              "maximum": 9999
+            }
           },
           {
             "type": "string",
             "description": "The labels of the language variable in the Afrobarometer dataset, for example, `\"English\", \"French\", ...`.",
             "title": "Afrobarometer language name",
+            "name": "lang_name",
             "constraints": {
               "required": true
-            },
-            "name": "lang_name"
-          },
-          {
-            "type": "string",
-            "title": "ISO 639-3",
-            "description": "The ISO 639-3 language code. For example, `\"eng\"`. Not all languages are mapped, so there can be missing values.",
-            "name": "iso_639_3",
-            "constraints": {
-              "pattern": "[a-z]{3}",
-              "required": false
             }
           },
           {
             "type": "string",
-            "title": "ISO Reference Name",
+            "description": "The ISO 639-3 language code. For example, `\"eng\"`. Not all languages are mapped, so there can be missing values.",
+            "title": "ISO 639-3",
+            "name": "iso_639_3",
+            "constraints": {
+              "required": false,
+              "pattern": "[a-z]{3}"
+            }
+          },
+          {
+            "type": "string",
             "description": "The official reference name of the ISO 639-3 language.",
+            "title": "ISO Reference Name",
             "name": "iso_ref_name",
             "constraints": {
               "required": false
@@ -285,16 +330,16 @@
           },
           {
             "type": "string",
-            "title": "ISO Language Type",
             "description": "This is `\"I\"` if it is an individual language, and `\"M\"` if it is a macrolanguages (which includes multiple individual languages). See the ISO 639-3 documentation for more on the distinctions between these.",
+            "title": "ISO Language Type",
             "name": "iso_scope",
             "constraints": {
+              "required": false,
               "enum": [
                 "I",
                 "M",
                 "S"
-              ],
-              "required": false
+              ]
             }
           }
         ],
@@ -305,22 +350,23 @@
           "lang_name"
         ]
       },
+      "format": "csv",
+      "name": "afrobarometer_to_iso_639_3",
+      "path": "afrobarometer_to_iso_639_3.csv",
       "title": "Mappings of Afrobarometer Languages to ISO 639-3 Codes",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "description": "Mappings between Afrobarometer \"Other\" Languages and the the codes of the ISO 639-3 standard.\nThese mappings are many-to-many. An Afrobarometer language can map to more than one ISO 639-3 language, and more than one Afrobarometer language can map to the same ISO 639-3 language."
     },
     {
       "encoding": "utf-8",
-      "name": "afrobarometer_other_to_iso_639_3",
-      "format": "csv",
-      "path": "afrobarometer_other_to_iso_639_3.csv",
-      "description": "Mappings between Afrobarometer \"Other\" Languages and the the codes of the ISO 639-3 standard.",
       "schema": {
         "fields": [
           {
             "type": "string",
-            "name": "round",
             "title": "Afrobarometer round",
+            "name": "round",
             "constraints": {
+              "required": true,
               "enum": [
                 "r1",
                 "r2",
@@ -328,52 +374,51 @@
                 "r4",
                 "r5",
                 "r6"
-              ],
-              "required": true
+              ]
             }
           },
           {
             "type": "string",
-            "name": "question",
             "title": "Afrobarometer survey question/variable",
+            "name": "question",
             "constraints": {
               "required": true
             }
           },
           {
             "type": "integer",
-            "label": "Afrobarometer country",
             "description": "Value of the country in the country variable of the Afrobarometer dataset.",
             "name": "country",
+            "label": "Afrobarometer country",
             "constraints": {
-              "maximum": 36,
               "required": true,
-              "minimum": 1
+              "minimum": 1,
+              "maximum": 36
             }
           },
           {
             "type": "string",
             "description": "Language name. This is the value of the \"other\" language variable.",
             "label": "Language name",
+            "name": "value",
             "constraints": {
               "required": true
-            },
-            "name": "value"
-          },
-          {
-            "type": "string",
-            "title": "ISO 639-3",
-            "description": "The ISO 639-3 language code. For example, `\"eng\"`. Not all languages are mapped, so there can be missing values.",
-            "name": "iso_639_3",
-            "constraints": {
-              "pattern": "[a-z]{3}",
-              "required": false
             }
           },
           {
             "type": "string",
-            "title": "ISO Reference Name",
+            "description": "The ISO 639-3 language code. For example, `\"eng\"`. Not all languages are mapped, so there can be missing values.",
+            "title": "ISO 639-3",
+            "name": "iso_639_3",
+            "constraints": {
+              "required": false,
+              "pattern": "[a-z]{3}"
+            }
+          },
+          {
+            "type": "string",
             "description": "The official reference name of the ISO 639-3 language.",
+            "title": "ISO Reference Name",
             "name": "iso_ref_name",
             "constraints": {
               "required": false
@@ -381,26 +426,26 @@
           },
           {
             "type": "string",
-            "title": "ISO Language Type",
             "description": "This is `\"I\"` if it is an individual language, and `\"M\"` if it is a macrolanguages (which includes multiple individual languages). See the ISO 639-3 documentation for more on the distinctions between these.",
+            "title": "ISO Language Type",
             "name": "iso_scope",
             "constraints": {
+              "required": false,
               "enum": [
                 "I",
                 "M",
                 "S"
-              ],
-              "required": false
+              ]
             }
           },
           {
             "type": "string",
-            "label": "Country",
             "description": "ISO 3166 Alpha-2 country code",
             "name": "iso_alpha_2",
+            "label": "Country",
             "constraints": {
-              "pattern": "[A-Z][A-Z]",
-              "required": true
+              "required": true,
+              "pattern": "[A-Z][A-Z]"
             }
           }
         ],
@@ -411,22 +456,23 @@
           "iso_639_3"
         ]
       },
+      "format": "csv",
+      "name": "afrobarometer_other_to_iso_639_3",
+      "path": "afrobarometer_other_to_iso_639_3.csv",
       "title": "Afrobarometer \"Other\" Languages to ISO 639-3 Codes",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "description": "Mappings between Afrobarometer \"Other\" Languages and the the codes of the ISO 639-3 standard."
     },
     {
       "encoding": "utf-8",
-      "name": "afrobarometer_to_wals",
-      "format": "csv",
-      "path": "afrobarometer_to_wals.csv",
-      "description": "The WALS languages associated with Afrobarometer languages.",
       "schema": {
         "fields": [
           {
             "type": "string",
-            "name": "round",
             "title": "Afrobarometer round",
+            "name": "round",
             "constraints": {
+              "required": true,
               "enum": [
                 "r1",
                 "r2",
@@ -434,49 +480,48 @@
                 "r4",
                 "r5",
                 "r6"
-              ],
-              "required": true
+              ]
             }
           },
           {
             "type": "string",
-            "name": "question",
-            "title": "Afrobarometer survey question/variable"
+            "title": "Afrobarometer survey question/variable",
+            "name": "question"
           },
           {
             "type": "integer",
             "description": "The integer value of the language in the Afrobarometer dataset, e.g. `1, 2, ....`",
             "title": "Afrobarometer language value",
+            "name": "lang_id",
             "constraints": {
-              "maximum": 9999,
               "required": true,
-              "minimum": -1
-            },
-            "name": "lang_id"
+              "minimum": -1,
+              "maximum": 9999
+            }
           },
           {
             "type": "string",
             "description": "The labels of the language variable in the Afrobarometer dataset, for example, `\"English\", \"French\", ...`.",
             "title": "Afrobarometer language name",
+            "name": "lang_name",
             "constraints": {
               "required": true
-            },
-            "name": "lang_name"
-          },
-          {
-            "type": "string",
-            "title": "WALS code",
-            "description": "The three-letter language identifier used by WALS.",
-            "name": "wals_code",
-            "constraints": {
-              "pattern": "[a-z]{2,3}",
-              "required": false
             }
           },
           {
             "type": "string",
-            "title": "WALS Name",
+            "description": "The three-letter language identifier used by WALS.",
+            "title": "WALS code",
+            "name": "wals_code",
+            "constraints": {
+              "required": false,
+              "pattern": "[a-z]{2,3}"
+            }
+          },
+          {
+            "type": "string",
             "description": "The language name used by WALS",
+            "title": "WALS Name",
             "name": "wals_name",
             "constraints": {
               "required": false
@@ -484,15 +529,15 @@
           },
           {
             "type": "boolean",
-            "title": "Automatched",
             "description": "If true, then language was matched to the WALS language using the ISO 639-9 mappings and the ISO-to-WALS mappings in `iso_to_wals`. If false, then the WALS codes were manually entered.",
+            "title": "Automatched",
             "name": "auto"
           },
           {
             "type": "integer",
-            "label": "Distance",
             "description": "The distance between the original ISO and the ISO code of the WALS language to which it was mapped. The distance is the graph distance between the two ISO languages in the Ethnologue language tree. A distance of 0 means the ISO language was directly mapped to a WALS language.",
             "name": "distance",
+            "label": "Distance",
             "constraints": {
               "required": true,
               "minimum": 0
@@ -506,22 +551,23 @@
           "wals_code"
         ]
       },
+      "format": "csv",
+      "name": "afrobarometer_to_wals",
+      "path": "afrobarometer_to_wals.csv",
       "title": "Afrobarometer Language to WALS mappings",
-      "mediatype": "text/csv"
+      "mediatype": "text/csv",
+      "description": "The WALS languages associated with Afrobarometer languages."
     },
     {
       "encoding": "utf-8",
-      "name": "afrobarometer_other_to_wals",
-      "format": "csv",
-      "path": "afrobarometer_other_to_wals.csv",
-      "description": "The WALS languages associated with the Afrobarometer \"Other\" languages.",
       "schema": {
         "fields": [
           {
             "type": "string",
-            "name": "round",
             "title": "Afrobarometer round",
+            "name": "round",
             "constraints": {
+              "required": true,
               "enum": [
                 "r1",
                 "r2",
@@ -529,59 +575,58 @@
                 "r4",
                 "r5",
                 "r6"
-              ],
-              "required": true
+              ]
             }
           },
           {
             "type": "string",
-            "name": "question",
-            "title": "Afrobarometer survey question/variable"
+            "title": "Afrobarometer survey question/variable",
+            "name": "question"
           },
           {
             "type": "integer",
-            "label": "Afrobarometer country",
             "description": "Value of the country in the country variable of the Afrobarometer dataset.",
             "name": "country",
+            "label": "Afrobarometer country",
             "constraints": {
-              "maximum": 36,
               "required": true,
-              "minimum": 1
+              "minimum": 1,
+              "maximum": 36
             }
           },
           {
             "type": "string",
             "description": "Language name. This is the value of the \"other\" language variable.",
             "label": "Language name",
+            "name": "value",
             "constraints": {
               "required": true
-            },
-            "name": "value"
+            }
           },
           {
             "type": "string",
-            "label": "Country",
             "description": "ISO 3166 Alpha-2 country code",
             "name": "iso_alpha_2",
+            "label": "Country",
             "constraints": {
-              "pattern": "[A-Z][A-Z]",
-              "required": true
+              "required": true,
+              "pattern": "[A-Z][A-Z]"
             }
           },
           {
             "type": "string",
-            "title": "WALS code",
             "description": "The three-letter language identifier used by WALS.",
+            "title": "WALS code",
             "name": "wals_code",
             "constraints": {
-              "pattern": "[a-z]{2,3}",
-              "required": false
+              "required": false,
+              "pattern": "[a-z]{2,3}"
             }
           },
           {
             "type": "string",
-            "title": "WALS Name",
             "description": "The language name used by WALS",
+            "title": "WALS Name",
             "name": "wals_name",
             "constraints": {
               "required": false
@@ -589,15 +634,15 @@
           },
           {
             "type": "boolean",
-            "title": "Automatched",
             "description": "If true, then language was matched to the WALS language using the ISO 639-9 mappings and the ISO-to-WALS mappings in `iso_to_wals`. If false, then the WALS codes were manually entered.",
+            "title": "Automatched",
             "name": "auto"
           },
           {
             "type": "integer",
-            "label": "Distance",
             "description": "The distance between the original ISO and the ISO code of the WALS language to which it was mapped. The distance is the graph distance between the two ISO languages in the Ethnologue language tree. A distance of 0 means the ISO language was directly mapped to a WALS language.",
             "name": "distance",
+            "label": "Distance",
             "constraints": {
               "required": true,
               "minimum": 0
@@ -611,57 +656,12 @@
           "lang_other"
         ]
       },
+      "format": "csv",
+      "name": "afrobarometer_other_to_wals",
+      "path": "afrobarometer_other_to_wals.csv",
       "title": "Afrobarometer \"Other\" Languages to WALS",
-      "mediatype": "text/csv"
-    }
-  ],
-  "description": "Mappings from languages used in the Afrobarometer surveys to some common language standards and databases, the ISO 639-3 langauge codes and the WALS database.",
-  "sources": [
-    {
-      "name": "Ethnologue Code Tables (2017-02-21)",
-      "path": "https://www.ethnologue.com/codes/download-code-tables"
-    },
-    {
-      "name": "Afrobarometer Merged Round 6 data (36 countries) (2016)",
-      "path": "http://afrobarometer.org/data/merged-round-6-data-36-countries-2016"
-    },
-    {
-      "name": "Afrobarometer Merged Round 5 data (34 countries) (2011-2013) (last update: July 2015)",
-      "path": "http://afrobarometer.org/data/merged-round-5-data-34-countries-2011-2013-last-update-july-2015"
-    },
-    {
-      "name": "Afrobarometer Merged Round 4 Data (20 countries) (2008)",
-      "path": "http://www.afrobarometer.org/data/merged-round-4-data-20-countries-2008"
-    },
-    {
-      "name": "Afrobarometer Merged Round 3 Data (18 countries) (2005)",
-      "path": "http://www.afrobarometer.org/data/merged-round-3-data-18-countries-2005"
-    },
-    {
-      "name": "Afrobarometer Merged Round 2 Data (16 countries) (2004)",
-      "path": "http://www.afrobarometer.org/data/merged-round-2-data-16-countries-2004"
-    },
-    {
-      "name": "Afrobarometer Merged Round 2 Codebook (12 countries) (1999-2001)",
-      "path": "http://www.afrobarometer.org/data/merged-round-1-data-12-countries-1999-2001"
-    },
-    {
-      "name": "Afrobarometer ISO 639-3 Complete Code Tables Set (2017-02-17)",
-      "path": "http://www-01.sil.org/iso639-3/download.asp"
-    },
-    {
-      "name": "The World Atlas of Language Structures Online",
-      "path": "http://wals.info/download"
-    }
-  ],
-  "name": "afrobarometer_langs",
-  "title": "Afrobarometer Languages Mapped to ISO Standards and WALS",
-  "version": "0.0.1",
-  "contributors": [
-    {
-      "role": "author",
-      "email": "jeffrey.arnold@gmail.com",
-      "name": "Jeffrey B. Arnold"
+      "mediatype": "text/csv",
+      "description": "The WALS languages associated with the Afrobarometer \"Other\" languages."
     }
   ]
 }

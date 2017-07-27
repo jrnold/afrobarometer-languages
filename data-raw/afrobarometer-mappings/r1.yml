@@ -334,26 +334,18 @@
   - language
   wals_code: null
 - iso_639_3:
-  - acd
-  - afu
-  - cpn
-  - doy
-  - gjn
   - gwx
-  - kph
-  - kye
-  - lar
-  - naw
-  - ncu
-  - nko
-  - nkq
-  - nlu
-  - nnu
   lang_id: 53
   lang_name: Guan
   question:
   - language
-  wals_code: null
+  wals_code:
+  - nkn
+  note: >-
+    Of the Guan languages, use Gua since it has the closest name and Guan
+    as an alt name.
+
+    For WALS, Nkonya has alt names Guang and Gonja.
 - iso_639_3:
   - xsm
   lang_id: 54
@@ -477,21 +469,11 @@
   - language
   wals_code: null
 - iso_639_3:
-  - cli
-  - cll
-  - kbp
-  - kdh
-  - las
-  - mzw
-  - ntr
-  - sil
-  - ssl
-  - tpm
-  - vag
   - xsm
   lang_id: 71
   lang_name: Grusi
-  note: All Grusi languages in Ghana
+  note: >-
+    Kasem is the most widely spoken Grusi lang in Ghana.
   question:
   - language
   wals_code: null

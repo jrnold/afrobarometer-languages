@@ -1523,27 +1523,36 @@
   - gjn
   lang_name: gonja
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - bim
   lang_name: gruma
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - gur
   lang_name: gruni
+  note: A Gur language. Use Farfare.
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - xsm
   lang_name: grushi
+  note: Grusi
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - xsm
   lang_name: grushie
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - xsm
   lang_name: grussi
 - country: GH
   iso_639_3:
   - gwx
   lang_name: guan
 - country: GH
-  iso_639_3: null
+  iso_639_3:
+  - bim
   lang_name: guruma
+  note: Gruma.
 - country: GH
   iso_639_3:
   - gur
@@ -3411,6 +3420,15 @@
   iso_639_3:
   - kad
   lang_name: kadara
+  note: >-
+    Provide WALS codes to include Platoid and exclude Bantoid genus
+  wals_code:
+  - bir
+  - fye
+  - gwo
+  - kgm
+  - mdz
+  - tok
 - country: NG
   iso_639_3: null
   lang_name: kagara
@@ -4659,16 +4677,23 @@
   iso_639_3:
   - lke
   lang_name: bakenyi
+  note: Kenye (Bakenyi)
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - lsm
   lang_name: baluya
+  note: >-
+    Saamia is the primary Luyia language spoken in UG
 - country: UG
   iso_639_3:
   - keo
   lang_name: kakwa
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - kpz
   lang_name: kapsabinyi
+  note: >-
+    Kupsapiiny
 - country: UG
   iso_639_3: null
   lang_name: karamajong
@@ -4677,11 +4702,15 @@
   - ndp
   lang_name: kebu
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - nbp
   lang_name: kebu.
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - kin
   lang_name: kinyamulenge
+  note: >-
+    https://en.wikipedia.org/wiki/Banyamulenge
 - country: UG
   iso_639_3:
   - kin
@@ -4691,8 +4720,11 @@
   - kdi
   lang_name: kumam
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - kpz
   lang_name: kupsabinyi
+  note: >-
+    Kupsapiiny
 - country: UG
   iso_639_3:
   - led
@@ -4724,14 +4756,22 @@
   - gwr
   lang_name: lugwere
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - alz
   lang_name: lujaluwo
+  note: >-
+    Remove luj, then it is close to Alur (Aloro, Alua, Jo Alur)
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - lke
   lang_name: lukene
+  note: Kenye (Lukenye, Lukenhe)
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - bfa
   lang_name: lukuku
+  note: >-
+    Kuku is a dialect of Bari
 - country: UG
   iso_639_3:
   - xog
@@ -4776,8 +4816,11 @@
   - ruc
   lang_name: luruli
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - run
   lang_name: lurundi
+  note: >-
+    Use Rundi even though Burundi
 - country: UG
   iso_639_3:
   - ruc
@@ -4836,8 +4879,11 @@
   lang_name: mululi
   note: Ruuli
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - run
   lang_name: mulundi
+  note: >-
+    Use Burundi Rundi
 - country: UG
   iso_639_3: null
   lang_name: munyabindi
@@ -4852,11 +4898,17 @@
   lang_name: muruli
   note: Ruuli
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - run
   lang_name: murundi
+  note: >-
+    Use Rundi
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - koo
   lang_name: musungora
+  note: >-
+    Lusongoro is a dialect of Konzo
 - country: UG
   iso_639_3:
   - nyo
@@ -4868,15 +4920,19 @@
   lang_name: mutgwenda
   note: Rutagwenda
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - rwm
   lang_name: mwamba
+  note: Amba (Lwamba, Rwamba, Kwamba)
 - country: UG
   iso_639_3:
   - kdj
   lang_name: ngakarimajong
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - kcn
   lang_name: nubian
+  note: Nubi
 - country: UG
   iso_639_3:
   - ndp
@@ -4894,7 +4950,8 @@
   - kin
   lang_name: rufumbira
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - kin
   lang_name: rugisu
 - country: UG
   iso_639_3:
@@ -4902,7 +4959,8 @@
   lang_name: rululi
   note: Ruuli
 - country: UG
-  iso_639_3: null
+  iso_639_3:
+  - run
   lang_name: rulundi
 - country: UG
   iso_639_3:
@@ -4958,7 +5016,8 @@
   - bul
   lang_name: bulgarian
 - country: ZA
-  iso_639_3: null
+  iso_639_3:
+  - nya
   lang_name: chichewa
 - country: ZA
   iso_639_3:

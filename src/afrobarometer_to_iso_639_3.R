@@ -45,7 +45,11 @@ afrobarometer_to_iso <- IO$afrobarometer_mappings %>%
       select(-iso_639_3) %>%
       rename(iso_639_3 = M_Id))} %>%
   # there may be duplicates
-  distinct()
+  distinct() %>%
+  # Add valid countries
+  left_join(select(IO$afrobarometer_to_iso_639_3_countries,
+                   round, question, lang_id, iso_639_3, countries),
+            by = c("round", "question", "lang_id", "iso_639_3"))
 
 #' add ISO information
 afrobarometer_to_iso %<>%
@@ -61,8 +65,10 @@ afrobarometer_to_iso %<>%
   right_join(select(afrobarometer_langs, round, question, lang_id, lang_name),
             by = c("round", "question", "lang_id")) %>%
   select(round, question, lang_id, lang_name,
-         iso_639_3, iso_ref_name, iso_scope) %>%
+         iso_639_3, iso_ref_name, iso_scope, countries) %>%
   arrange(round, question, lang_id, iso_639_3)
+
+
 
 #'
 #' # Test Output Data
@@ -128,7 +134,7 @@ known_iso_country_nonmatches <-
   map_df(as_tibble)
 
 iso_country_non_matches <-
-  afrobarometer_to_iso %>%
+  select(afrobarometer_to_iso, -countries) %>%
   # ignore macrolangs
   filter(iso_scope %in% c("I")) %>%
   # remove any known non-matche

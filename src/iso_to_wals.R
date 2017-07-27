@@ -8,17 +8,23 @@ source("src/init.R")
 
 OUTPUT <- find_rstudio_root_file("data", "iso_to_wals.csv")
 
-make_distances <- function(x) {
-  g <- igraph::graph_from_data_frame(x)
-  as_tibble(rownames_to_column(as.data.frame(igraph::distances(g)), "from")) %>%
-    gather(to, distance, -from) %>%
-    # Keep only languages
-    dplyr::filter(str_detect(to, "^/language"),
-                  str_detect(from, "^/language")) %>%
-    # extract the ISO 639-3 code from path
-    mutate(to = str_replace(to, "^/language/(.*)/\\d+$", "\\1"),
-                  from = str_replace(from, "^/language/(.*)/\\d+$", "\\1"))
-}
+# Initial WALS to ISO_codes
+wals_to_iso <-
+  select(IO$wals, wals_code, iso_code) %>%
+  # expand any iso_macrolanguaes
+  left_join(IO$iso_639_3_macrolanguages, by = c("iso_code" = "M_Id")) %>%
+  mutate(iso_code = coalesce(I_Id, iso_code)) %>%
+  select(-I_Id, -I_Status)
+
+# Add self-distances to ethnologue_distances
+ethnologue_distances <- IO$ethnologue_distances
+
+ethnologue_distances <- bind_rows(
+    ethnologue_distances,
+    select(ethnologue_distances, from) %>%
+      distinct() %>%
+      mutate(to = from, distance = 0L)
+  )
 
 #' ISO to WALS
 #'
@@ -26,9 +32,8 @@ make_distances <- function(x) {
 #' language(s) associated with a WALS language (within the Ethnologue family).
 #'
 iso_to_wals <-
-  map_df(IO$ethnologue_tree, make_distances) %>%
-  inner_join(select(IO$wals, wals_code, iso_code),
-            by = c("to" = "iso_code")) %>%
+  ethnologue_distances %>%
+  inner_join(wals_to_iso, by = c("to" = "iso_code")) %>%
   rename(iso_code = from, iso_code_to = to) %>%
   group_by(iso_code) %>%
   filter(distance == min(distance)) %>%

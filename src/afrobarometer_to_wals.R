@@ -51,12 +51,13 @@ afrobarometer_to_wals_auto <-
   # Keep distinct WALS codes
   group_by(round, question, lang_id, wals_code) %>%
   summarise(distance = min(distance)) %>%
-  ungroup()
+  ungroup() %>%
+  mutate(auto = TRUE)
 
 #' Combine the auto and manual matches
 afrobarometer_to_wals <-
-  bind_rows(select(afrobarometer_to_wals_manual, round, question, lang_id, wals_code),
-            mutate(afrobarometer_to_wals_auto, auto = TRUE)) %>%
+  bind_rows(select(afrobarometer_to_wals_manual, round, question, lang_id, wals_code, auto),
+            afrobarometer_to_wals_auto) %>%
   distinct()
 
 #' Add WALS names
@@ -67,7 +68,12 @@ afrobarometer_to_wals %<>%
   right_join(select(IO$afrobarometer_langs, round, question,
                     lang_id = value, lang_name = name),
              by = c("round", "question", "lang_id")) %>%
-  select(round, question, lang_id, lang_name, wals_code, wals_name,
+  # Add countries
+  left_join(select(IO$afrobarometer_to_wals_countries,
+                   round, question, lang_id, wals_code,
+                   countries),
+            by = c("round", "question", "lang_id", "wals_code")) %>%
+  select(round, question, countries, lang_id, lang_name, wals_code, wals_name,
          auto, distance) %>%
   arrange(round, question, lang_id)
 

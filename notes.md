@@ -38,8 +38,6 @@ Mande:
   - Konabéré (bbo)  Niger-Congo, Mande, Western, Northwestern, Soninke-Bobo, Bobo. Traditiona/Christian/Muslim.
    - Bobo Madaré, Southern. "he government calls them Bobo Madaré. ‘Bobo’ is the general Bambara word for Bobo Fing, Buamu, or Bomu. Traditional religion, Christian, Muslim." 200,000. Niger-Congo, Mande, Western, Northwestern, Soninke-Bobo, Bobo.
 
-
-
 In Afrobarometer. Bobo and Bozo both appear. Bozo in Mali only. Bobo
 in Burkina Faso and Mali.
 
@@ -110,6 +108,47 @@ Tonga: Multiple languages named tonga. But all are related Bantu languages.
 - South Africa/Mozambique. Tonga/Tsonga (tso) Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Bantoid, Southern, Narrow Bantu, Central, S, Tswa-Rhonga (S.53)
 
   - WALS Tsonga (tsn)
+
+## Kalenjin
+
+Kalenjin]([Oluluyia (Luhya/Luyia)](https://www.ethnologue.com/language/luy) ) is a macrolanguage
+
+- Keiyo: eyo (KE)
+- Kipsigis: sgc (KE)
+- Markweeta: enb (KE)
+- Nandi: niq (KE)
+- Okiek: oki (KE, TZ)
+- Pokoot: pko (KE, UG)
+- Sabaot: spy (KE)
+- Terik: tec (KE)
+- Tugen: tuy (KE)
+
+For WALS, only use Nandi (nan)
+
+## Luhya
+
+[Oluluyia (Luhya/Luyia)](https://www.ethnologue.com/language/luy)
+
+--------------------- ---- --------
+Bukusu                bxk  KE
+East Nyala            nle  KE
+Idakho-Isukha-Tiriki  ida  KE
+Kabras                lkb  KE
+Khayo                 lko  KE
+Kisa                  lks  KE
+Logooli               rag  KE, TZ
+Marachi               lri  KE
+Marama                lrm  KE
+Nyore                 nyd  KE
+Saamia                lsm  KE
+Tachoni               lts  KE
+Tsotso                lto  KE
+Wanga                 lwg  KE
+--------------------- ---- ---------
+
+[bxk, nle, ida, lkb, lko, lks, rag, lri, lrm, nyd, lsm, lts, lto]
+
+WALS: Luyia [[luy](http://wals.info/languoid/lect/wals_code_luy)].
 
 
 > The longevity of the non-sex-based systems within Niger-Congo has implications for historical linguistics, since it shows that a minority system can maintain itself and develop in a variety of ways without adopting the majority scheme. Finally, for those interested in language and gender in the sociological sense, these direct reflections of biological sex in many languages, with the "control group" of languages with similar gender structures but without the sex component, should provide a valuable source of data.
