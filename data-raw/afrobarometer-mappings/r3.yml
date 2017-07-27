@@ -926,7 +926,6 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - nse
   - tum
   lang_id: 270
   lang_name: Senga
@@ -935,6 +934,7 @@
   - q114
   - q3
   wals_code: null
+  note: Malawi
 - iso_639_3:
   - tog
   lang_id: 271
@@ -1659,9 +1659,6 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - cae
-  - fap
-  - snf
   - srr
   lang_id: 362
   lang_name: Serer
@@ -1779,7 +1776,6 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - cwe
   - ked
   lang_id: 384
   lang_name: Kikwere
@@ -1787,6 +1783,9 @@
   - q114
   - q3
   wals_code: null
+  note: >-
+    Kerewe (Ked) and Kikwere (cwe) spoken in TZ, but
+    Kerewe (ked) has more speakers and is 6a vs. 6b.
 - iso_639_3:
   - asa
   lang_id: 385
@@ -2091,6 +2090,7 @@
   - q114
   - q3
   wals_code: null
+  note: Zambia
 - iso_639_3:
   - tum
   lang_id: 426
@@ -2157,7 +2157,6 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - bem
   - lun
   lang_id: 435
   lang_name: Lunda
@@ -2187,13 +2186,13 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - nya
-  - tum
   lang_id: 439
   lang_name: Ngoni
   question:
   - q3
   wals_code: null
+  note: >-
+    In Zambia, Ngoni is dialect of Nsenga but also Chichewa.
 - iso_639_3:
   - nde
   lang_id: 440
@@ -2690,7 +2689,6 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - tum
   lang_id: 861
   lang_name: Senga
   question:

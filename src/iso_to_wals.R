@@ -16,9 +16,8 @@ wals_to_iso <-
   mutate(iso_code = coalesce(I_Id, iso_code)) %>%
   select(-I_Id, -I_Status)
 
-# Add self-distances to ethnologue_distances
 ethnologue_distances <- IO$ethnologue_distances
-
+# Add self-distances to ethnologue_distances
 ethnologue_distances <- bind_rows(
     ethnologue_distances,
     select(ethnologue_distances, from) %>%

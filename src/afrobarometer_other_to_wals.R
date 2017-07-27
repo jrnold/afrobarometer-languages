@@ -43,10 +43,11 @@ afrobarometer_other_to_wals_auto <- IO$afrobarometer_other_to_iso %>%
   distinct() %>%
   anti_join(afrobarometer_other_to_wals_manual,
             by = c("country", "lang_name")) %>%
-  inner_join(select(ungroup(iso_to_wals), iso_639_3 = iso_code, wals_code, distance),
+  inner_join(select(ungroup(iso_to_wals), iso_639_3 = iso_code,
+                    wals_code, distance),
             by = "iso_639_3") %>%
-  # Keep distinct WALS codes
-  group_by(country, lang_name, wals_code) %>%
+  # Keep best-matching WALS codes
+  group_by(country, lang_name) %>%
   summarise(distance = min(distance)) %>%
   ungroup() %>%
   mutate(auto = TRUE)

@@ -154,12 +154,39 @@ iso_country_non_matches <-
          ethnologue_countries = map_chr(ethnologue_countries, paste,
                                         collapse = " "))
 stopifnot(nrow(iso_country_non_matches) == 0)
-
-
 # This generates YAML to add to misc_data exceptions
 # iso_country_non_matches %>%
 #   select(round, question, lang_id, lang_name, iso_639_3) %>%
 #   yaml::as.yaml(column.major = FALSE) %>% cat()
+
+known_distant_matches <-
+  misc_data$iso$distant_matches$values %>%
+  map_df(as_tibble)
+
+distant_matches <-
+  afrobarometer_to_iso %>%
+  # ignore macro-languages since they aren't in the ethnologue dist
+  filter(iso_scope == "I") %>%
+  # ignore known bad cases
+  anti_join(known_distant_matches, by = c("round", "question", "lang_id")) %>%
+  group_by(round, question, lang_id, lang_name) %>%
+  do(as_tibble(tidyr::crossing(from = .$iso_639_3, to = .$iso_639_3))) %>%
+  # filter self matches
+  filter(from != to) %>%
+  # left join to ensure non-matches will still be present
+  left_join(IO$ethnologue_distances, by = c("from", "to")) %>%
+  # set an arbitrarily large distance for non-family matches
+  mutate(distance = if_else(is.na(distance), 1000L, distance)) %>%
+  group_by(round, question, lang_id, lang_name) %>%
+  summarise(distance = max(distance)) %>%
+  arrange(desc(distance), lang_name) %>%
+  # Most matches are 2 and below
+  filter(distance > 2)
+
+if (nrow(distant_matches) > 0) {
+  print(distant_matches)
+  stop("Found multiple matches with seemingly unrelated ISO languages")
+}
 
 #' # Write Output
 afrobarometer_to_iso %>%

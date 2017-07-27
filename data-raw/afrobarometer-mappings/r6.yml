@@ -113,19 +113,25 @@
     - kla if Liberia
 
 - iso_639_3:
-  - kab
-  - rif
+  - cnu
   - shi
-  - shy
-  - thv
   - tzm
+  - zgh
+  - kab
+  - tzm
+  - oua
+  - tjo
+  - grr
+  - mzb
+  - rif
+  - shy
+  - tia
+  - thv
   lang_id: 11
   lang_name: Berber Language
   note: >-
-    Algeriba and Morocco. Included some of the most
-    common Berber languages. For WALS use
-    Middle Atlas Berber, which is included in the
-    200 language sample.
+    Algeria and Morocco. All DZ and MA languages in the
+    Berber subgroup https://www.ethnologue.com/subgroups/berber
   question:
   - Q2
   wals_code:
@@ -697,7 +703,7 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - adq
+  - ada
   - gaa
   lang_id: 262
   lang_name: Ga/Dangbe
@@ -1133,13 +1139,14 @@
   wals_code: null
 - iso_639_3:
   - klu
-  - ted
   lang_id: 390
   lang_name: Kru
   question:
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Klao goes by alt-name Kru and has larger number of speakers
 - iso_639_3:
   - lom
   lang_id: 391
@@ -1283,13 +1290,13 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - nkv
   - tum
   lang_id: 470
   lang_name: Chisenga
   question:
   - Q2
   wals_code: null
+  note: Malawi
 - iso_639_3:
   - tog
   lang_id: 471
@@ -1966,17 +1973,18 @@
   wals_code:
   - fus
 - iso_639_3:
-  - cae
-  - fap
-  - snf
   - srr
   lang_id: 662
   lang_name: Serer
   question:
   - Q116
   - Q2
-  wals_code:
-  - noo
+  wals_code: null
+  note: >-
+    Serer is a name for a linguistic cultural groups that include
+    Serer-Sine and Cangin langs. These two sets of languages
+    distantly related. I use Serer-Sine because its name is the
+    same and it is a recognized lang.
 - iso_639_3:
   - mnk
   lang_id: 663
@@ -2166,7 +2174,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - cwe
   - ked
   lang_id: 744
   lang_name: Kikwere
@@ -2360,13 +2367,15 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - mjh
   - mwe
   lang_id: 769
   lang_name: Kimwera
   question:
   - Q2
   wals_code: null
+  note: >-
+    Mwera (mjh) and Mwera (mwe) in Tanzania are named the same but distinct.
+    Mwera (mwe) is more widely spoken.
 - iso_639_3:
   - ndh
   lang_id: 770
@@ -2712,6 +2721,7 @@
   question:
   - Q2
   wals_code: null
+  note: Zambia
 - iso_639_3:
   - tum
   lang_id: 826
@@ -2743,7 +2753,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bem
   - lun
   lang_id: 830
   lang_name: Lunda
@@ -2781,14 +2790,12 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - nya
-  - tum
   lang_id: 835
   lang_name: Ngoni
   question:
   - Q2
-  wals_code:
-  - nse
+  wals_code: null
+  note: Zambia
 - iso_639_3:
   - sby
   lang_id: 836
@@ -2804,7 +2811,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bem
   - lun
   lang_id: 838
   lang_name: Lunda
@@ -2879,13 +2885,12 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - tum
   lang_id: 846
   lang_name: Senga
   question:
   - Q2
-  wals_code:
-  - nse
+  wals_code: null
+  note: Zambia
 - iso_639_3:
   - toi
   lang_id: 847
@@ -3153,7 +3158,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - las
   - nmz
   lang_id: 1145
   lang_name: Nawdem (Losso)
@@ -3375,9 +3379,7 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bdu
   - bnm
-  - ckx
   lang_id: 1235
   lang_name: Batanga
   question:
@@ -3600,14 +3602,14 @@
   - bet
   - bev
   - btg
-  - nwb
   lang_id: 1268
   lang_name: Bété
   question:
   - Q116
   - Q2
-  wals_code:
-  - bet
+  wals_code: null
+  note: >-
+    Only include the Ivory Coast Bete
 - iso_639_3:
   - dic
   - gud
@@ -3842,14 +3844,18 @@
   wals_code:
   - aeg
 - iso_639_3:
-  - rif
   - shi
   - tzm
+  - zgh
+  - rif
   lang_id: 1500
   lang_name: Berber Language
   question:
   - Q116
   wals_code: null
+  note: >-
+    Morocco Only. Moroccan languages in the Berber subgroup.
+    https://www.ethnologue.com/subgroups/berber
 - iso_639_3:
   - mey
   lang_id: 1501
@@ -4015,11 +4021,7 @@
   wals_code:
   - gwo
   note: >-
-
     https://en.wikipedia.org/wiki/Bajju_people speak Jiu
-
-    WALS matches Jarawa (jar) and Gworok (gwo). Gworok corresponds
-    to ISO Tyap, which seems more similar.
 - iso_639_3:
   - anc
   lang_id: 2621

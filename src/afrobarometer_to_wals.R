@@ -48,8 +48,8 @@ afrobarometer_to_wals_auto <-
             by = c("round", "question", "lang_id")) %>%
   inner_join(select(ungroup(iso_to_wals), iso_639_3 = iso_code, wals_code, distance),
             by = "iso_639_3") %>%
-  # Keep distinct WALS codes
-  group_by(round, question, lang_id, wals_code) %>%
+  # Keep WALS codes with best matches
+  group_by(round, question, lang_id) %>%
   summarise(distance = min(distance)) %>%
   ungroup() %>%
   mutate(auto = TRUE)

@@ -150,6 +150,29 @@ Wanga                 lwg  KE
 
 WALS: Luyia [[luy](http://wals.info/languoid/lect/wals_code_luy)].
 
+# Batanga
+
+- Batanga of Bube-Benga group (bnm)
+- Batanga dialect of Oroko (bdu)
+- Batanga dialect of Caka (ckx)
+
+# Bete
+
+- CI: Bete Daloa (bev), Beta Gagnoa (btg), and Bete Guiberoua (bet). These are Kru
+- Nigeria: Bete (byf) Benue-Congo/Jukunoid
+- Niegeria: Bete-Bendi (btt) Benue-Congo/Cross-River
+
+# ZImbabwe
+
+These are distinct languages
+
+- Lunda (lun)
+- Luunda dialect of Bemba (bem)
+
+# Senga/Ngoni
+
+In Malawi/Zambia: (N)Senga and Ngoni are names of several distinct languages and dialects including Nsenga (nse), Chichewa (nya), and Tumbuku (tum).
+
 
 > The longevity of the non-sex-based systems within Niger-Congo has implications for historical linguistics, since it shows that a minority system can maintain itself and develop in a variety of ways without adopting the majority scheme. Finally, for those interested in language and gender in the sociological sense, these direct reflections of biological sex in many languages, with the "control group" of languages with similar gender structures but without the sex component, should provide a valuable source of data.
 

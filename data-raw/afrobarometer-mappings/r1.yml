@@ -1238,11 +1238,13 @@
   wals_code: null
 - iso_639_3:
   - jjr
+  - jgk
   lang_id: 178
   lang_name: Jarawa
   question:
   - language
-  wals_code: null
+  wals_code:
+  - jar
 - iso_639_3:
   - kcg
   lang_id: 179

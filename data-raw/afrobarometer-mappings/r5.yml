@@ -217,7 +217,6 @@
   wals_code: null
 - iso_639_3:
   - klu
-  - ted
   lang_id: 23
   lang_name: Kru
   question:
@@ -849,8 +848,8 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - adq
   - gaa
+  - ada
   lang_id: 262
   lang_name: Ga/Dangbe
   question:
@@ -1335,7 +1334,6 @@
   wals_code: null
 - iso_639_3:
   - klu
-  - ted
   lang_id: 390
   lang_name: Kru
   question:
@@ -2425,9 +2423,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - cae
-  - fap
-  - snf
   - srr
   lang_id: 662
   lang_name: Serer
@@ -2642,7 +2637,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - cwe
   - ked
   lang_id: 744
   lang_name: Kikwere
@@ -2814,7 +2808,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - mjh
   - mwe
   lang_id: 767
   lang_name: Kimwera
@@ -3297,7 +3290,6 @@
   - Q116
   wals_code: null
 - iso_639_3:
-  - bem
   - lun
   lang_id: 830
   lang_name: Lunda
@@ -3334,12 +3326,13 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - tum
   lang_id: 833
   lang_name: Senga
   question:
   - Q116
   wals_code: null
+  note: >-
+    Zambia. Could also be dialect of Tumbuka (tum)
 - iso_639_3:
   - mgr
   lang_id: 833
@@ -3370,13 +3363,14 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - nya
-  - tum
   lang_id: 835
   lang_name: Ngoni
   question:
   - Q2
   wals_code: null
+  note: >-
+    Zambia. Could be dialects of Nsenga (nse),
+    Chichewa (nya), or Tumbuka (tum)
 - iso_639_3:
   - tap
   lang_id: 836
@@ -3406,7 +3400,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bem
   - lun
   lang_id: 838
   lang_name: Lunda
@@ -3479,13 +3472,13 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - nya
-  - tum
   lang_id: 843
   lang_name: Ngoni
   question:
   - Q116
   wals_code: null
+  note: >-
+    Zambia. Could be a dialect of several langs.
 - iso_639_3:
   - lam
   lang_id: 843
@@ -3532,12 +3525,13 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - tum
   lang_id: 846
   lang_name: Senga
   question:
   - Q2
   wals_code: null
+  note: >-
+    Zamia. Could also be a dialect of Tumbuka (tum)
 - iso_639_3:
   - toi
   lang_id: 847
@@ -3838,7 +3832,6 @@
   wals_code: null
 - iso_639_3:
   - klu
-  - ted
   lang_id: 942
   lang_name: Kru
   question:
@@ -3976,7 +3969,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - las
   - nmz
   lang_id: 1145
   lang_name: Nawdem (Losso)
@@ -4332,14 +4324,14 @@
   note: >-
     Cameroon Bassa
 - iso_639_3:
-  - bdu
   - bnm
-  - ckx
   lang_id: 1235
   lang_name: Batanga
   question:
   - Q2
   wals_code: null
+  note: >-
+    Also a dialect of Caka (ckx) and Oroko (bdu).
 - iso_639_3:
   - ken
   lang_id: 1236
@@ -4586,13 +4578,15 @@
   - bet
   - bev
   - btg
-  - nwb
   lang_id: 1268
   lang_name: Bété
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - bet
+  note: >-
+    Ivory Coast Bete
 - iso_639_3:
   - dic
   - gud
@@ -4653,15 +4647,15 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - dyu
   - jod
   lang_id: 1277
   lang_name: Malinké/ Dioula
-  note: Alt name of Loma and Woejenaka. Dioula is the alt name of Jula. https://www.ethnologue.com/country/CI/languages
   question:
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Ignore Dioula and focus on Malinke since it doesn't appear elsewhere.
 - iso_639_3:
   - dyi
   - plr
@@ -5358,15 +5352,15 @@
   - Q116
   wals_code: null
 - iso_639_3:
-  - bau
-  - izr
-  - jgk
   - jjr
+  - jgk
   lang_id: 2629
   lang_name: Jarawa
   question:
   - Q116
   wals_code: null
+  note: >-
+    http://www-01.sil.org/iso639-3/documentation.asp?id=jar
 - iso_639_3:
   - cla
   lang_id: 2630

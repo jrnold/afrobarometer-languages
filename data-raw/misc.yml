@@ -78,6 +78,108 @@ iso:
     - M
     - S
   code_pattern: "^[a-z]{3}$"
+  distant_matches:
+    comment: >-
+      Matches with mulitple ISO codes that are distant
+      in distance on the Ethnologue tree. These are
+      ignored when this is checked.
+    values:
+      - round: r5
+        question: Q116
+        lang_id: 10
+        lang_name: Bassa
+      - round: r5
+        question: Q2
+        lang_id: 10
+        lang_name: Bassa
+      - round: r6
+        question: Q2
+        lang_id: 10
+        lang_name: Bassa
+      - round: r5
+        question: Q2
+        lang_id: 11
+        lang_name: Bobo
+      - round: r6
+        question: Q116
+        lang_id: 13
+        lang_name: Bobo
+      - round: r6
+        question: Q2
+        lang_id: 13
+        lang_name: Bobo
+      - round: r6
+        question: Q2
+        lang_id: 11
+        lang_name: Berber Language
+      - round: r6
+        question: Q116
+        lang_id: 1500
+        lang_name: Berber Language
+      - round: r2
+        question: q83
+        lang_id: 380
+        lang_name: Kalejin
+      - round: r2
+        question: q97
+        lang_id: 380
+        lang_name: kalenjin
+      - round: r2
+        question: q110
+        lang_id: 380
+        lang_name: Kalenjin
+      - round: r3
+        question: q103
+        lang_id: 206
+        lang_name: Kalenjin
+      - round: r3
+        question: q114
+        lang_id: 206
+        lang_name: Kalenjin
+      - round: r3
+        question: q3
+        lang_id: 206
+        lang_name: Kalenjin
+      - round: r4
+        question: Q103
+        lang_id: 304
+        lang_name: Kalenjin
+      - round: r4
+        question: Q114
+        lang_id: 304
+        lang_name: Kalenjin
+      - round: r4
+        question: Q3
+        lang_id: 304
+        lang_name: Kalenjin
+      - round: r5
+        question: Q103
+        lang_id: 304
+        lang_name: Kalenjin
+      - round: r5
+        question: Q116
+        lang_id: 304
+        lang_name: Kalenjin
+      - round: r5
+        question: Q2
+        lang_id: 304
+        lang_name: Kalenjin
+      - round: r6
+        question: Q103
+        lang_id: 304
+        lang_name: Kalenjin
+      - round: r6
+        question: Q2
+        lang_id: 304
+        lang_name: Kalenjin
+      - round: r1
+        question: language
+        lang_id: 31
+        lang_name: Tonga
+      - round: r5
+        question: Q2
+        lang_id: 36
+        lang_name: Tonga
   country_exceptions:
     description: |
       A list of Afrobarometer languages matches that do not appear in
@@ -225,198 +327,135 @@ iso:
       Other language to ISO matches that don't match Ethnologue
       countries. Ignore these when checking validity of matches.
     values:
-    - round: r6
-      question: Q2OTHER
-      country: 30
-      value: Swahili
-    - round: r6
-      question: Q2OTHER
-      country: 3
-      value: SEXHOSA
-    - round: r6
-      question: Q2OTHER
-      country: 30
-      value: Portuguese
-    - round: r6
-      question: Q2OTHER
-      country: 13
-      value: Nyarwanda
-    - round: r6
-      question: Q2OTHER
-      country: 10
-      value: HAOUSSA
-    - round: r6
-      question: Q2OTHER
-      country: 17
-      value: Chiswahili
-    - round: r6
-      question: Q103OTHER
-      country: 11
-      value: french
-    - round: r6
-      question: Q103OTHER
-      country: 25
-      value: CABOVERDIANO
-    - round: r5
-      question: Q2OTHER
-      country: 24
-      value: YOROUBA
-    - round: r5
-      question: Q2OTHER
-      country: 20
-      value: XHOSA
-    - round: r5
-      question: Q2OTHER
-      country: 15
-      value: SOUSSOU
-    - round: r5
-      question: Q2OTHER
-      country: 2
-      value: SEPEDI
-    - round: r6
-      question: Q2OTHER
-      country: 3
-      value: SEPEDI
-    - round: r5
-      question: Q2OTHER
-      country: 15
-      value: PORTUGAIS
-    - round: r5
-      question: Q2OTHER
-      country: 6
-      value: HINDU
-    - round: r5
-      question: Q2OTHER
-      country: 12
-      value: ENGLISH
-    - round: r5
-      question: Q2OTHER
-      country: 18
-      value: LUSUDAN
-    - round: r5
-      question: Q2OTHER
-      country: 18
-      value: LUSUDANI
-    - round: r5
-      question: Q2OTHER
-      country: 10
-      value: CHINYAKYUSA
-    - round: r6
-      question: Q2OTHER
-      country: 17
-      value: Chinyakyusa
-    - round: r5
-      question: Q2OTHER
-      country: 16
-      value: CHINESE
-    - round: r5
-      question: Q2OTHER
-      country: 16
-      value: BULGARIAN
-    - round: r5
-      question: Q2OTHER
-      country: 5
-      value: AKAN
-    - round: r5
-      question: Q2OTHER
-      country: 5
-      value: AKAN
-    - round: r4
-      question: Q3OTHER
-      country: 19
-      value: ZEZULU
-    - round: r4
-      question: Q3OTHER
-      country: 13
-      value: Uumbundu
-    - round: r5
-      question: Q2OTHER
-      country: 13
-      value: RUMBUNDU
-    - round: r5
-      question: Q103OTHER
-      country: 24
-      value: HAOUSSA
-    - round: r5
-      question: Q2OTHER
-      country: 24
-      value: HAOUSSA
-    - round: r6
-      question: Q2OTHER
-      country: 28
-      value: Ithopiwa
-    - round: r4
-      question: Q3OTHER
-      country: 2
-      value: Sesotho
-    - round: r4
-      question: Q3OTHER
-      country: 16
-      value: Pashto
-    - round: r4
-      question: Q3OTHER
-      country: 5
-      value: MOSSI
-    - round: r5
-      question: Q2OTHER
-      country: 5
-      value: MOSHIE
-    - round: r6
-      question: Q103OTHER
-      country: 11
-      value: Mossi
-    - round: r6
-      question: Q116OTHER
-      country: 11
-      value: Moshie
-    - round: r6
-      question: Q2OTHER
-      country: 11
-      value: Moshie
-    - round: r4
-      question: Q3OTHER
-      country: 11
-      value: Haoussa
-    - round: r6
-      question: Q116OTHER
-      country: 28
-      value: PORTUGUESE
-    - round: r4
-      question: Q3OTHER
-      country: 3
-      value: DOGON
-    - round: r6
-      question: Q2OTHER
-      country: 4
-      value: DOGON
-    - round: r6
-      question: Q2OTHER
-      country: 4
-      value: DOGONS
-    - round: r4
-      question: Q3OTHER
-      country: 3
-      value: DOGON
-    - round: r6
-      question: Q2OTHER
-      country: 4
-      value: DOGON
-    - round: r6
-      question: Q2OTHER
-      country: 4
-      value: DOGONS
-    - round: r4
-      question: Q3OTHER
-      country: 6
-      value: Arabic
-    - round: r5
-      question: Q2OTHER
-      country: 6
-      value: ARABIC
-    - round: r6
-      question: Q2OTHER
-      country: 13
-      value: Arab
+      - iso_alpha2: SZ
+        value: Swahili
+        iso_639_3: swh
+      - iso_alpha2: BW
+        value: SEXHOSA
+        iso_639_3: xho
+      - iso_alpha2: SZ
+        value: Portuguese
+        iso_639_3: por
+      - iso_alpha2: ZA
+        value: Ithopiwa
+        iso_639_3: amh
+      - iso_alpha2: TG
+        value: YOROUBA
+        iso_639_3: yor
+      - iso_alpha2: GH
+        value: french
+        iso_639_3: fra
+      - iso_alpha2: BW
+        value: SEPEDI
+        iso_639_3: nso
+      - iso_alpha2: MW
+        value: Chiswahili
+        iso_639_3: swh
+      - iso_alpha2: UG
+        value: LUSUDAN
+        iso_639_3: apd
+      - iso_alpha2: UG
+        value: LUSUDANI
+        iso_639_3: apd
+      - iso_alpha2: KE
+        value: HINDU
+        iso_639_3: hin
+      - iso_alpha2: MZ
+        value: ENGLISH
+        iso_639_3: eng
+      - iso_alpha2: ZA
+        value: BULGARIAN
+        iso_639_3: bul
+      - iso_alpha2: ZA
+        value: PORTUGUESE
+        iso_639_3: por
+      - iso_alpha2: GH
+        value: AKAN
+        iso_639_3: fat
+      - iso_alpha2: SN
+        value: PORTUGAIS
+        iso_639_3: por
+      - iso_alpha2: GH
+        value: AKAN
+        iso_639_3: twi
+      - iso_alpha2: ZW
+        value: XHOSA
+        iso_639_3: xho
+      - iso_alpha2: TG
+        value: HAOUSSA
+        iso_639_3: hau
+      - iso_alpha2: ZM
+        value: ZEZULU
+        iso_639_3: zul
+      - iso_alpha2: KE
+        value: Nyarwanda
+        iso_639_3: kin
+      - iso_alpha2: NA
+        value: Uumbundu
+        iso_639_3: umb
+      - iso_alpha2: NA
+        value: RUMBUNDU
+        iso_639_3: umb
+      - iso_alpha2: BW
+        value: Sesotho
+        iso_639_3: sot
+      - iso_alpha2: UG
+        value: Rulundi
+        iso_639_3: run
+      - iso_alpha2: UG
+        value: LURUNDI
+        iso_639_3: run
+      - iso_alpha2: UG
+        value: MULUNDI
+        iso_639_3: run
+      - iso_alpha2: UG
+        value: MURUNDI
+        iso_639_3: run
+      - iso_alpha2: ZA
+        value: Pashto
+        iso_639_3: pbu
+      - iso_alpha2: GH
+        value: MOSSI
+        iso_639_3: mos
+      - iso_alpha2: GH
+        value: MOSHIE
+        iso_639_3: mos
+      - iso_alpha2: GH
+        value: Mossi
+        iso_639_3: mos
+      - iso_alpha2: GH
+        value: Moshie
+        iso_639_3: mos
+      - iso_alpha2: ZA
+        value: CHINESE
+        iso_639_3: cmn
+      - iso_alpha2: UG
+        value: KEBU.
+        iso_639_3: nbp
+      - iso_alpha2: SN
+        value: SOUSSOU
+        iso_639_3: sus
+      - iso_alpha2: ML
+        value: Haoussa
+        iso_639_3: hau
+      - iso_alpha2: GA
+        value: HAOUSSA
+        iso_639_3: hau
+      - iso_alpha2: ST
+        value: CABOVERDIANO
+        iso_639_3: kea
+      - iso_alpha2: ZA
+        value: Chichewa
+        iso_639_3: nya
+      - iso_alpha2: KE
+        value: Arabic
+        iso_639_3: arb
+      - iso_alpha2: KE
+        value: ARABIC
+        iso_639_3: arb
+      - iso_alpha2: KE
+        value: Arab
+        iso_639_3: arb
 wals:
   code_pattern: "^[a-z]{2,3}$"
   non_african:
@@ -454,10 +493,6 @@ wals:
     comment: >-
       Languages that have multiple WALS matches in multiple genuses.
     values:
-    - round: r1
-      question: language
-      lang_id: 123
-      lang_name: Ikan
     - round: r5
       question: Q116
       lang_id: 10

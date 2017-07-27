@@ -1,12 +1,12 @@
 round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
-r4,Q3OTHER,14,ABI,,,,NG
+r4,Q3OTHER,14,ABI,mis,S,Uncoded languages,NG
 r4,Q3OTHER,14,ABUA,abn,I,Abua,NG
 r4,Q3OTHER,14,ADUN,mfn,I,Cross River Mbembe,NG
 r4,Q3OTHER,14,AFIKPO,ibo,I,Igbo,NG
-r4,Q3OTHER,14,AHUDA,,,,NG
-r4,Q3OTHER,14,AKA,,,,NG
-r4,Q3OTHER,18,Akumu,,,,UG
-r4,Q3OTHER,14,AKWANDARA,,,,NG
+r4,Q3OTHER,14,AHUDA,mis,S,Uncoded languages,NG
+r4,Q3OTHER,14,AKA,mis,S,Uncoded languages,NG
+r4,Q3OTHER,18,Akumu,mis,S,Uncoded languages,UG
+r4,Q3OTHER,14,AKWANDARA,mis,S,Uncoded languages,NG
 r4,Q3OTHER,14,ANDONI,ann,I,Obolo,NG
 r4,Q3OTHER,14,ANGAS,anc,I,Ngas,NG
 r4,Q3OTHER,14,ANKWAI,ank,I,Goemai,NG
@@ -16,26 +16,26 @@ r4,Q3OTHER,14,ARAGO,ala,I,Alago,NG
 r4,Q3OTHER,18,Aringa,luc,I,Aringa,UG
 r4,Q3OTHER,16,Asian,und,S,Undetermined,ZA
 r4,Q3OTHER,16,Asian/Indian,und,S,Undetermined,ZA
-r4,Q3OTHER,5,ASSIN,,,,GH
+r4,Q3OTHER,5,ASSIN,mis,S,Uncoded languages,GH
 r4,Q3OTHER,14,AWAK,awo,I,Awak,NG
 r4,Q3OTHER,14,AWORI,yor,I,Yoruba,NG
-r4,Q3OTHER,14,AZOQO,,,,NG
+r4,Q3OTHER,14,AZOQO,mis,S,Uncoded languages,NG
 r4,Q3OTHER,14,BABUR,bwr,I,Bura-Pabir,NG
 r4,Q3OTHER,14,BACHAMA,bcy,I,Bacama,NG
 r4,Q3OTHER,14,BADA,bde,I,Bade,NG
 r4,Q3OTHER,6,Bajun,swh,I,Swahili (individual language),KE
 r4,Q3OTHER,6,Bajun,swa,M,Swahili (macrolanguage),KE
 r4,Q3OTHER,15,Balante,bjt,I,Balanta-Ganja,SN
-r4,Q3OTHER,14,BALAWA,,,,NG
+r4,Q3OTHER,14,BALAWA,mis,S,Uncoded languages,NG
 r4,Q3OTHER,5,BANDA,nfr,I,Nafaanra,GH
 r4,Q3OTHER,5,BASARE,bud,I,Ntcham,GH
 r4,Q3OTHER,14,BASSA,bzw,I,Basa (Nigeria),NG
 r4,Q3OTHER,5,BASSELI,bud,I,Ntcham,GH
-r4,Q3OTHER,14,BAZANFARA,,,,NG
-r4,Q3OTHER,14,BEKWAIRA,,,,NG
-r4,Q3OTHER,3,BELLA,,,,BF
+r4,Q3OTHER,14,BAZANFARA,mis,S,Uncoded languages,NG
+r4,Q3OTHER,14,BEKWAIRA,mis,S,Uncoded languages,NG
+r4,Q3OTHER,3,BELLA,mis,S,Uncoded languages,BF
 r4,Q3OTHER,5,BEMUBA,bim,I,Bimoba,GH
-r4,Q3OTHER,14,BETEM,,,,NG
+r4,Q3OTHER,14,BETEM,mis,S,Uncoded languages,NG
 r4,Q3OTHER,14,BETTE,btt,I,Bete-Bendi,NG
 r4,Q3OTHER,5,BIMOBA,bim,I,Bimoba,GH
 r4,Q3OTHER,14,BIROM,bom,I,Berom,NG
@@ -43,43 +43,43 @@ r4,Q3OTHER,14,BISA,bqp,I,Busa,NG
 r4,Q3OTHER,5,BISAB,bib,I,Bissa,GH
 r4,Q3OTHER,6,Borana,gax,I,Borana-Arsi-Guji Oromo,KE
 r4,Q3OTHER,6,Borana,orm,M,Oromo,KE
-r4,Q3OTHER,14,BRASS,,,,NG
-r4,Q3OTHER,5,BREFO,,,,GH
+r4,Q3OTHER,14,BRASS,mis,S,Uncoded languages,NG
+r4,Q3OTHER,5,BREFO,mis,S,Uncoded languages,GH
 r4,Q3OTHER,5,BROSA,any,I,Anyin,GH
-r4,Q3OTHER,20,BUDYA,,,,ZW
+r4,Q3OTHER,20,BUDYA,mis,S,Uncoded languages,ZW
 r4,Q3OTHER,5,BUILSA,bwu,I,Buli (Ghana),GH
 r4,Q3OTHER,5,BULE,bwu,I,Buli (Ghana),GH
-r4,Q3OTHER,5,BUSANGA,,,,GH
-r4,Q3OTHER,5,BUZANGA,,,,GH
+r4,Q3OTHER,5,BUSANGA,mis,S,Uncoded languages,GH
+r4,Q3OTHER,5,BUZANGA,mis,S,Uncoded languages,GH
 r4,Q3OTHER,19,BWILE,bwc,I,Bwile,ZM
 r4,Q3OTHER,14,CALABAR,efi,I,Efik,NG
-r4,Q3OTHER,20,CHANGANI,,,,ZW
+r4,Q3OTHER,20,CHANGANI,mis,S,Uncoded languages,ZW
 r4,Q3OTHER,12,CHEUA,nya,I,Nyanja,MZ
 r4,Q3OTHER,12,CHEWA,nya,I,Nyanja,MZ
-r4,Q3OTHER,20,CHEWA,,,,ZW
+r4,Q3OTHER,20,CHEWA,mis,S,Uncoded languages,ZW
 r4,Q3OTHER,12,CHEWE,nya,I,Nyanja,MZ
 r4,Q3OTHER,14,CHIBOK,ckl,I,Cibak,NG
 r4,Q3OTHER,16,Chichewa,nya,I,Nyanja,ZA
 r4,Q3OTHER,20,CHIKARANGA,sna,I,Shona,ZW
-r4,Q3OTHER,12,CHIMANICA,,,,MZ
+r4,Q3OTHER,12,CHIMANICA,mis,S,Uncoded languages,MZ
 r4,Q3OTHER,12,CHITEUE,twx,I,Tewe,MZ
 r4,Q3OTHER,12,CHIUTE,twx,I,Tewe,MZ
 r4,Q3OTHER,19,CHOKWE,cjk,I,Chokwe,ZM
-r4,Q3OTHER,12,CHONA,,,,MZ
+r4,Q3OTHER,12,CHONA,mis,S,Uncoded languages,MZ
 r4,Q3OTHER,12,CHUABO,chw,I,Chuwabu,MZ
 r4,Q3OTHER,12,COTI,eko,I,Koti,MZ
 r4,Q3OTHER,14,CROSS RIVER YALA,yba,I,Yala,NG
 r4,Q3OTHER,5,DAGAARI,dga,I,Southern Dagaare,GH
 r4,Q3OTHER,5,DAGATE,dga,I,Southern Dagaare,GH
 r4,Q3OTHER,5,DAGOMBA,dag,I,Dagbani,GH
-r4,Q3OTHER,14,DIEMAK,,,,NG
+r4,Q3OTHER,14,DIEMAK,mis,S,Uncoded languages,NG
 r4,Q3OTHER,6,Digo,dig,I,Digo,KE
 r4,Q3OTHER,3,DOGON,djm,I,Jamsay Dogon,BF
 r4,Q3OTHER,3,DOGON,dtm,I,Tomo Kan Dogon,BF
 r4,Q3OTHER,5,DOLIME,wlx,I,Wali (Ghana),GH
 r4,Q3OTHER,20,DOMBE,dov,I,Dombe,ZW
-r4,Q3OTHER,14,EAPIE,,,,NG
-r4,Q3OTHER,14,ECTHIE,,,,NG
+r4,Q3OTHER,14,EAPIE,mis,S,Uncoded languages,NG
+r4,Q3OTHER,14,ECTHIE,mis,S,Uncoded languages,NG
 r4,Q3OTHER,5,EFUTU,afu,I,Awutu,GH
 r4,Q3OTHER,14,EGBEMA,ijc,I,Izon,NG
 r4,Q3OTHER,14,EGBMA,ijc,I,Izon,NG
@@ -91,11 +91,11 @@ r4,Q3OTHER,14,EPEYE,ekp,I,Ekpeye,NG
 r4,Q3OTHER,14,EPIA,epi,I,Epie,NG
 r4,Q3OTHER,5,FANTI,aka,M,Akan,GH
 r4,Q3OTHER,5,FRAFRA,gur,I,Farefare,GH
-r4,Q3OTHER,6,Gabra,,,,KE
+r4,Q3OTHER,6,Gabra,mis,S,Uncoded languages,KE
 r4,Q3OTHER,14,GBAGYI,gbr,I,Gbagyi,NG
 r4,Q3OTHER,6,Giriama,nyf,I,Giryama,KE
 r4,Q3OTHER,14,GLANDA,glw,I,Glavda,NG
-r4,Q3OTHER,14,GOMAI,,,,NG
+r4,Q3OTHER,14,GOMAI,mis,S,Uncoded languages,NG
 r4,Q3OTHER,5,GONJA,gjn,I,Gonja,GH
 r4,Q3OTHER,5,GRUMA,bim,I,Bimoba,GH
 r4,Q3OTHER,5,GRUNI,gur,I,Farefare,GH
@@ -108,27 +108,27 @@ r4,Q3OTHER,1,HAOUSSA,hau,I,Hausa,BJ
 r4,Q3OTHER,14,HIGGI,hig,I,Kamwe,NG
 r4,Q3OTHER,14,IBANI,iby,I,Ibani,NG
 r4,Q3OTHER,14,ICHEN,ich,I,Etkywan,NG
-r4,Q3OTHER,19,ICISHILA,,,,ZM
+r4,Q3OTHER,19,ICISHILA,mis,S,Uncoded languages,ZM
 r4,Q3OTHER,14,IGARA,igl,I,Igala,NG
 r4,Q3OTHER,14,IGEDE,ige,I,Igede,NG
 r4,Q3OTHER,6,Indian,guj,I,Gujarati,KE
 r4,Q3OTHER,16,Indian,und,S,Undetermined,ZA
-r4,Q3OTHER,14,IPIA,,,,NG
+r4,Q3OTHER,14,IPIA,mis,S,Uncoded languages,NG
 r4,Q3OTHER,7,Isixhoza,xho,I,Xhosa,LS
 r4,Q3OTHER,14,IYALA,yba,I,Yala,NG
 r4,Q3OTHER,14,JUKUN,jbu,I,Jukun Takum,NG
 r4,Q3OTHER,14,JUKUN DONGA,jbu,I,Jukun Takum,NG
-r4,Q3OTHER,3,KADO,,,,BF
+r4,Q3OTHER,3,KADO,mis,S,Uncoded languages,BF
 r4,Q3OTHER,14,KAGORO,kcg,I,Tyap,NG
-r4,Q3OTHER,14,KAGORU,,,,NG
-r4,Q3OTHER,17,KAKAGURU,,,,TZ
+r4,Q3OTHER,14,KAGORU,mis,S,Uncoded languages,NG
+r4,Q3OTHER,17,KAKAGURU,mis,S,Uncoded languages,TZ
 r4,Q3OTHER,11,Kakolo,xkg,I,Kagoro,ML
 r4,Q3OTHER,18,Kakwa,keo,I,Kakwa,UG
 r4,Q3OTHER,14,KALABARI,ijn,I,Kalabari,NG
 r4,Q3OTHER,14,KAMBARI,tsw,I,Tsishingini,NG
 r4,Q3OTHER,14,KAMBU,lmp,I,Limbum,NG
-r4,Q3OTHER,3,KARAKAN,,,,BF
-r4,Q3OTHER,18,Karamajong,,,,UG
+r4,Q3OTHER,3,KARAKAN,mis,S,Uncoded languages,BF
+r4,Q3OTHER,18,Karamajong,mis,S,Uncoded languages,UG
 r4,Q3OTHER,20,KARANGA,sna,I,Shona,ZW
 r4,Q3OTHER,14,KARI-KARI,kai,I,Karekare,NG
 r4,Q3OTHER,5,KASEM,xsm,I,Kasem,GH
@@ -137,10 +137,10 @@ r4,Q3OTHER,14,KATAF,kcg,I,Tyap,NG
 r4,Q3OTHER,14,KATAF(ATYAP),kcg,I,Tyap,NG
 r4,Q3OTHER,14,KHANA,ogo,I,Khana,NG
 r4,Q3OTHER,10,Khokhola,kzn,I,Kokola,MW
-r4,Q3OTHER,17,KIAL-YOROBI,,,,TZ
-r4,Q3OTHER,17,KIARUSHA,,,,TZ
-r4,Q3OTHER,17,KIASI,,,,TZ
-r4,Q3OTHER,17,KIBARBAIK,,,,TZ
+r4,Q3OTHER,17,KIAL-YOROBI,mis,S,Uncoded languages,TZ
+r4,Q3OTHER,17,KIARUSHA,mis,S,Uncoded languages,TZ
+r4,Q3OTHER,17,KIASI,mis,S,Uncoded languages,TZ
+r4,Q3OTHER,17,KIBARBAIK,mis,S,Uncoded languages,TZ
 r4,Q3OTHER,17,KIBEMBE,bmb,I,Bembe,TZ
 r4,Q3OTHER,17,KIBENA,bez,I,Bena (Tanzania),TZ
 r4,Q3OTHER,17,KIBONDEI,bou,I,Bondei,TZ
@@ -148,9 +148,9 @@ r4,Q3OTHER,17,KIBUNGU,wun,I,Bungu,TZ
 r4,Q3OTHER,17,KIDIGO,dig,I,Digo,TZ
 r4,Q3OTHER,17,KIHA,haq,I,Ha,TZ
 r4,Q3OTHER,17,KIHANGAZA,han,I,Hangaza,TZ
-r4,Q3OTHER,17,KIHINDI,,,,TZ
-r4,Q3OTHER,17,KIIRAQI,,,,TZ
-r4,Q3OTHER,17,KIJALUO,,,,TZ
+r4,Q3OTHER,17,KIHINDI,mis,S,Uncoded languages,TZ
+r4,Q3OTHER,17,KIIRAQI,mis,S,Uncoded languages,TZ
+r4,Q3OTHER,17,KIJALUO,mis,S,Uncoded languages,TZ
 r4,Q3OTHER,17,KIJITA,jit,I,Jita,TZ
 r4,Q3OTHER,17,KIKEREWE,ked,I,Kerewe,TZ
 r4,Q3OTHER,17,KIKIMBU,kiv,I,Kimbu,TZ
@@ -159,17 +159,17 @@ r4,Q3OTHER,17,KIKINGA,zga,I,Kinga,TZ
 r4,Q3OTHER,17,KIKONONGO,kcz,I,Konongo,TZ
 r4,Q3OTHER,17,KIKUTU,kdc,I,Kutu,TZ
 r4,Q3OTHER,17,KIKWAYA,kya,I,Kwaya,TZ
-r4,Q3OTHER,17,KILAMBYA,,,,TZ
-r4,Q3OTHER,17,KILINDI,,,,TZ
-r4,Q3OTHER,17,KILUNGWA,,,,TZ
+r4,Q3OTHER,17,KILAMBYA,mis,S,Uncoded languages,TZ
+r4,Q3OTHER,17,KILINDI,mis,S,Uncoded languages,TZ
+r4,Q3OTHER,17,KILUNGWA,mis,S,Uncoded languages,TZ
 r4,Q3OTHER,17,KIMAKUA,mgh,I,Makhuwa-Meetto,TZ
 r4,Q3OTHER,17,KIMALILA,mgq,I,Malila,TZ
 r4,Q3OTHER,17,KIMAMBWE,mgr,I,Mambwe-Lungu,TZ
 r4,Q3OTHER,17,KIMATENGO,mgv,I,Matengo,TZ
 r4,Q3OTHER,17,KIMATUMBI,mgw,I,Matumbi,TZ
-r4,Q3OTHER,17,KIMBEMBE,,,,TZ
-r4,Q3OTHER,17,KIMBULU,,,,TZ
-r4,Q3OTHER,17,KIMBUNGO,,,,TZ
+r4,Q3OTHER,17,KIMBEMBE,mis,S,Uncoded languages,TZ
+r4,Q3OTHER,17,KIMBULU,mis,S,Uncoded languages,TZ
+r4,Q3OTHER,17,KIMBUNGO,mis,S,Uncoded languages,TZ
 r4,Q3OTHER,17,KIMERU,rwk,I,Rwa,TZ
 r4,Q3OTHER,12,KIMWANI,wmw,I,Mwani,MZ
 r4,Q3OTHER,17,KIMWERA,mwe,I,Mwera (Chimwera),TZ
@@ -179,27 +179,27 @@ r4,Q3OTHER,17,KINDENDEULE,dne,I,Ndendeule,TZ
 r4,Q3OTHER,17,KINDENGEREKO,ndg,I,Ndengereko,TZ
 r4,Q3OTHER,17,KINGINDO,nnq,I,Ngindo,TZ
 r4,Q3OTHER,17,KINGONI,ngo,I,Ngoni,TZ
-r4,Q3OTHER,17,KINYAGAZWA,,,,TZ
+r4,Q3OTHER,17,KINYAGAZWA,mis,S,Uncoded languages,TZ
 r4,Q3OTHER,17,KINYAMBO,now,I,Nyambo,TZ
 r4,Q3OTHER,17,KINYAMWANGA,mwn,I,Nyamwanga,TZ
 r4,Q3OTHER,17,KINYIHA,nkt,I,Nyika (Tanzania),TZ
 r4,Q3OTHER,17,KIPANGWA,pbr,I,Pangwa,TZ
 r4,Q3OTHER,17,KIPIMBWE,piw,I,Pimbwe,TZ
-r4,Q3OTHER,17,KIPOGORO,,,,TZ
+r4,Q3OTHER,17,KIPOGORO,mis,S,Uncoded languages,TZ
 r4,Q3OTHER,6,Kipsigis,sgc,I,Kipsigis,KE
 r4,Q3OTHER,6,Kipsigis,kln,M,Kalenjin,KE
 r4,Q3OTHER,17,KIRANGI,lag,I,Langi,TZ
-r4,Q3OTHER,17,KIRYERI,,,,TZ
+r4,Q3OTHER,17,KIRYERI,mis,S,Uncoded languages,TZ
 r4,Q3OTHER,17,KISAFWA,sbk,I,Safwa,TZ
 r4,Q3OTHER,17,KISAGARA,sbm,I,Sagala,TZ
 r4,Q3OTHER,17,KISAMBAA,ksb,I,Shambala,TZ
 r4,Q3OTHER,17,KISANGU,sbp,I,Sangu (Tanzania),TZ
-r4,Q3OTHER,17,KISHIHIRI,,,,TZ
-r4,Q3OTHER,17,KISHIRAZI,,,,TZ
+r4,Q3OTHER,17,KISHIHIRI,mis,S,Uncoded languages,TZ
+r4,Q3OTHER,17,KISHIRAZI,mis,S,Uncoded languages,TZ
 r4,Q3OTHER,17,KISHUBI,suj,I,Shubi,TZ
 r4,Q3OTHER,17,KISUBA,ssc,I,Suba-Simbiti,TZ
 r4,Q3OTHER,17,KISUMBWA,suw,I,Sumbwa,TZ
-r4,Q3OTHER,17,KITUMBATU,,,,TZ
+r4,Q3OTHER,17,KITUMBATU,mis,S,Uncoded languages,TZ
 r4,Q3OTHER,17,KIVIDUNDA,vid,I,Vidunda,TZ
 r4,Q3OTHER,17,KIWANJI,wbi,I,Vwanji,TZ
 r4,Q3OTHER,17,KIYAO,yao,I,Yao,TZ
@@ -225,71 +225,71 @@ r4,Q3OTHER,12,LOMUE,ngl,I,Lomwe,MZ
 r4,Q3OTHER,12,LOMWE,ngl,I,Lomwe,MZ
 r4,Q3OTHER,19,LUCHAZI,lch,I,Luchazi,ZM
 r4,Q3OTHER,18,Lululi,ruc,I,Ruuli,UG
-r4,Q3OTHER,19,LUNDA KAZEMBE,,,,ZM
+r4,Q3OTHER,19,LUNDA KAZEMBE,bem,I,Bemba (Zambia),ZM
 r4,Q3OTHER,19,LUNGU,mgr,I,Mambwe-Lungu,ZM
 r4,Q3OTHER,18,Lwamba,rwm,I,Amba (Uganda),UG
-r4,Q3OTHER,12,MACHEUA,,,,MZ
+r4,Q3OTHER,12,MACHEUA,mis,S,Uncoded languages,MZ
 r4,Q3OTHER,12,MAKWE,ymk,I,Makwe,MZ
-r4,Q3OTHER,20,MALAWIAN,,,,ZW
-r4,Q3OTHER,12,MALOLO,,,,MZ
+r4,Q3OTHER,20,MALAWIAN,mis,S,Uncoded languages,ZW
+r4,Q3OTHER,12,MALOLO,mis,S,Uncoded languages,MZ
 r4,Q3OTHER,14,MAMBILLA,mzk,I,Nigeria Mambila,NG
 r4,Q3OTHER,5,MAMPRULI,maw,I,Mampruli,GH
 r4,Q3OTHER,5,MAMPRUSI,maw,I,Mampruli,GH
 r4,Q3OTHER,14,MANGA,kby,I,Manga Kanuri,NG
 r4,Q3OTHER,14,MANGA,kau,M,Kanuri,NG
-r4,Q3OTHER,12,MANHEMBANE,,,,MZ
+r4,Q3OTHER,12,MANHEMBANE,mis,S,Uncoded languages,MZ
 r4,Q3OTHER,12,MANHUNGUE,mxc,I,Manyika,MZ
-r4,Q3OTHER,20,MANICA (MOZAMBICAN),,,,ZW
+r4,Q3OTHER,20,MANICA (MOZAMBICAN),mis,S,Uncoded languages,ZW
 r4,Q3OTHER,20,MANYIKA,mxc,I,Manyika,ZW
 r4,Q3OTHER,12,MARENGE,vmr,I,Marenje,MZ
 r4,Q3OTHER,12,MARENJE,vmr,I,Marenje,MZ
 r4,Q3OTHER,14,MARGHI,mrt,I,Marghi Central,NG
-r4,Q3OTHER,15,Marocain,,,,SN
-r4,Q3OTHER,12,MATEUE,,,,MZ
+r4,Q3OTHER,15,Marocain,mis,S,Uncoded languages,SN
+r4,Q3OTHER,12,MATEUE,mis,S,Uncoded languages,MZ
 r4,Q3OTHER,12,MATHEWE,twx,I,Tewe,MZ
 r4,Q3OTHER,12,MATSUA,tsc,I,Tswa,MZ
-r4,Q3OTHER,20,MAUNGWE,,,,ZW
+r4,Q3OTHER,20,MAUNGWE,mis,S,Uncoded languages,ZW
 r4,Q3OTHER,14,MBEMBE,mfn,I,Cross River Mbembe,NG
 r4,Q3OTHER,19,MBUNDA,mck,I,Mbunda,ZM
-r4,Q3OTHER,14,MICHICA,,,,NG
-r4,Q3OTHER,14,MINYAM,,,,NG
+r4,Q3OTHER,14,MICHICA,mis,S,Uncoded languages,NG
+r4,Q3OTHER,14,MINYAM,mis,S,Uncoded languages,NG
 r4,Q3OTHER,5,MOSSI,mos,I,Mossi,GH
-r4,Q3OTHER,20,MOZAMBICAN,,,,ZW
+r4,Q3OTHER,20,MOZAMBICAN,mis,S,Uncoded languages,ZW
 r4,Q3OTHER,12,MUANI,wmw,I,Mwani,MZ
 r4,Q3OTHER,12,MUAUNI,wmw,I,Mwani,MZ
 r4,Q3OTHER,13,Mufwe,fwe,I,Fwe,NA
 r4,Q3OTHER,14,MUMUYE,mzm,I,Mumuye,NG
 r4,Q3OTHER,12,MUNIGA,mhm,I,Makhuwa-Moniga,MZ
 r4,Q3OTHER,12,MUNOGA,mhm,I,Makhuwa-Moniga,MZ
-r4,Q3OTHER,14,MURYANG,,,,NG
+r4,Q3OTHER,14,MURYANG,mis,S,Uncoded languages,NG
 r4,Q3OTHER,14,MWAGHAWUL,sur,I,Mwaghavul,NG
-r4,Q3OTHER,7,Mzema,,,,LS
+r4,Q3OTHER,7,Mzema,mis,S,Uncoded languages,LS
 r4,Q3OTHER,5,NAFANA,nfr,I,Nafaanra,GH
-r4,Q3OTHER,20,NAMBIA,,,,ZW
+r4,Q3OTHER,20,NAMBIA,mis,S,Uncoded languages,ZW
 r4,Q3OTHER,20,NAMBYA,nmq,I,Nambya,ZW
-r4,Q3OTHER,10,Namwanga,,,,MW
+r4,Q3OTHER,10,Namwanga,mis,S,Uncoded languages,MW
 r4,Q3OTHER,5,NANUM,dag,I,Dagbani,GH
 r4,Q3OTHER,10,Ndali,ndh,I,Ndali,MW
 r4,Q3OTHER,20,NDAU,ndc,I,Ndau,ZW
-r4,Q3OTHER,19,NDEBELE,,,,ZM
+r4,Q3OTHER,19,NDEBELE,mis,S,Uncoded languages,ZM
 r4,Q3OTHER,14,NDORO,ndr,I,Ndoola,NG
 r4,Q3OTHER,14,NEDERE,kmy,I,Koma,NG
-r4,Q3OTHER,19,NGUMBO,,,,ZM
+r4,Q3OTHER,19,NGUMBO,mis,S,Uncoded languages,ZM
 r4,Q3OTHER,12,NHUNGUE,nyu,I,Nyungwe,MZ
 r4,Q3OTHER,18,Nubian,kcn,I,Nubi,UG
 r4,Q3OTHER,14,NUMANA,nbr,I,Numana-Nunku-Gbantu-Numbu,NG
-r4,Q3OTHER,20,NYAHO (CHAWA),,,,ZW
+r4,Q3OTHER,20,NYAHO (CHAWA),mis,S,Uncoded languages,ZW
 r4,Q3OTHER,20,NYANJA,nya,I,Nyanja,ZW
-r4,Q3OTHER,13,Nyemba,,,,NA
+r4,Q3OTHER,13,Nyemba,mis,S,Uncoded languages,NA
 r4,Q3OTHER,10,Nyika,nkv,I,Nyika (Malawi and Zambia),MW
 r4,Q3OTHER,19,NYIKA,nkv,I,Nyika (Malawi and Zambia),ZM
 r4,Q3OTHER,12,NYUNGUE,nyu,I,Nyungwe,MZ
 r4,Q3OTHER,5,NZEMA,nzi,I,Nzima,GH
-r4,Q3OTHER,14,OBUBRA,,,,NG
-r4,Q3OTHER,14,OGAJA,,,,NG
+r4,Q3OTHER,14,OBUBRA,mis,S,Uncoded languages,NG
+r4,Q3OTHER,14,OGAJA,mis,S,Uncoded languages,NG
 r4,Q3OTHER,14,OGBIA,ogb,I,Ogbia,NG
 r4,Q3OTHER,14,OKIRIKA,okr,I,Kirike,NG
-r4,Q3OTHER,14,OPOBO,,,,NG
+r4,Q3OTHER,14,OPOBO,mis,S,Uncoded languages,NG
 r4,Q3OTHER,14,ORON,orx,I,Oro,NG
 r4,Q3OTHER,16,Pashto,pbu,I,Northern Pashto,ZA
 r4,Q3OTHER,16,Pashto,pus,M,Pushto,ZA
@@ -308,35 +308,35 @@ r4,Q3OTHER,19,SALA,shq,I,Sala,ZM
 r4,Q3OTHER,11,Samogo,dux,I,Duungooma,ML
 r4,Q3OTHER,13,San,ktz,I,Ju/'hoan,NA
 r4,Q3OTHER,8,Sarpo,krn,I,Sapo,LR
-r4,Q3OTHER,2,Sebanderu,,,,BW
+r4,Q3OTHER,2,Sebanderu,mis,S,Uncoded languages,BW
 r4,Q3OTHER,5,SEFWI,sfw,I,Sehwi,GH
-r4,Q3OTHER,2,Segxereku,,,,BW
+r4,Q3OTHER,2,Segxereku,mis,S,Uncoded languages,BW
 r4,Q3OTHER,12,SENA,seh,I,Sena,MZ
-r4,Q3OTHER,2,Senajwa,,,,BW
+r4,Q3OTHER,2,Senajwa,mis,S,Uncoded languages,BW
 r4,Q3OTHER,19,SENGA,tum,I,Tumbuka,ZM
 r4,Q3OTHER,2,Seshona,sna,I,Shona,BW
 r4,Q3OTHER,2,Sesotho,sot,I,Southern Sotho,BW
-r4,Q3OTHER,2,Setlharwa,,,,BW
+r4,Q3OTHER,2,Setlharwa,mis,S,Uncoded languages,BW
 r4,Q3OTHER,2,Setswapong,two,I,Tswapong,BW
 r4,Q3OTHER,2,Sezezuru,sna,I,Shona,BW
 r4,Q3OTHER,20,SHANGANI,tso,I,Tsonga,ZW
-r4,Q3OTHER,12,SHONA,,,,MZ
+r4,Q3OTHER,12,SHONA,mis,S,Uncoded languages,MZ
 r4,Q3OTHER,19,SHONA,sna,I,Shona,ZM
-r4,Q3OTHER,12,"SHONA, CHEUA",,,,MZ
+r4,Q3OTHER,12,"SHONA, CHEUA",mis,S,Uncoded languages,MZ
 r4,Q3OTHER,14,SHUWA ARAB,shu,I,Chadian Arabic,NG
 r4,Q3OTHER,14,SHUWA ARAB,ara,M,Arabic,NG
 r4,Q3OTHER,13,Sifwe,fwe,I,Fwe,NA
 r4,Q3OTHER,5,SISILA,sil,I,Tumulung Sisaala,GH
 r4,Q3OTHER,5,SISILA,ssl,I,Western Sisaala,GH
-r4,Q3OTHER,3,SISSABA,,,,BF
+r4,Q3OTHER,3,SISSABA,mis,S,Uncoded languages,BF
 r4,Q3OTHER,19,SWAKA,leb,I,Lala-Bisa,ZM
 r4,Q3OTHER,12,TACUANE,tke,I,Takwane,MZ
 r4,Q3OTHER,5,TALENSI,gur,I,Farefare,GH
-r4,Q3OTHER,3,TAMACHECK,,,,BF
+r4,Q3OTHER,3,TAMACHECK,mis,S,Uncoded languages,BF
 r4,Q3OTHER,5,TAMPULMA,tpm,I,Tampulma,GH
 r4,Q3OTHER,14,TANGALE,tan,I,Tangale,NG
 r4,Q3OTHER,14,TARAH,ttr,I,Tera,NG
-r4,Q3OTHER,20,TAURA (MOZAMBICAN),,,,ZW
+r4,Q3OTHER,20,TAURA (MOZAMBICAN),mis,S,Uncoded languages,ZW
 r4,Q3OTHER,14,TERA,ttr,I,Tera,NG
 r4,Q3OTHER,6,Teso,teo,I,Teso,KE
 r4,Q3OTHER,12,TEWE,twx,I,Tewe,MZ
@@ -344,42 +344,42 @@ r4,Q3OTHER,14,TIGUM,nza,I,Tigon Mbembe,NG
 r4,Q3OTHER,14,TIGUN,nza,I,Tigon Mbembe,NG
 r4,Q3OTHER,6,Tiriki,ida,I,Idakho-Isukha-Tiriki,KE
 r4,Q3OTHER,6,Tiriki,luy,M,Luyia,KE
-r4,Q3OTHER,19,TOKALEYA,,,,ZM
+r4,Q3OTHER,19,TOKALEYA,mis,S,Uncoded languages,ZM
 r4,Q3OTHER,12,TONGA,tso,I,Tsonga,MZ
-r4,Q3OTHER,13,Totela,,,,NA
-r4,Q3OTHER,3,TOUSSIAN,,,,BF
+r4,Q3OTHER,13,Totela,mis,S,Uncoded languages,NA
+r4,Q3OTHER,3,TOUSSIAN,mis,S,Uncoded languages,BF
 r4,Q3OTHER,14,UGEP,yaz,I,Lokaa,NG
 r4,Q3OTHER,19,USHI,auh,I,Aushi,ZM
-r4,Q3OTHER,19,USMI,,,,ZM
+r4,Q3OTHER,19,USMI,mis,S,Uncoded languages,ZM
 r4,Q3OTHER,13,Uumbundu,umb,I,Umbundu,NA
-r4,Q3OTHER,5,WA DORMU,,,,GH
+r4,Q3OTHER,5,WA DORMU,mis,S,Uncoded languages,GH
 r4,Q3OTHER,5,WAALA,wlx,I,Wali (Ghana),GH
 r4,Q3OTHER,14,WAJA,wja,I,Waja,NG
 r4,Q3OTHER,5,WASSA,wss,I,Wasa,GH
-r4,Q3OTHER,10,Wiza,,,,MW
+r4,Q3OTHER,10,Wiza,mis,S,Uncoded languages,MW
 r4,Q3OTHER,12,XITEU,twx,I,Tewe,MZ
 r4,Q3OTHER,12,XITSUA,tsc,I,Tswa,MZ
 r4,Q3OTHER,14,YAKUR,yaz,I,Lokaa,NG
-r4,Q3OTHER,20,YAO,,,,ZW
-r4,Q3OTHER,5,ZABRAMA,,,,GH
+r4,Q3OTHER,20,YAO,mis,S,Uncoded languages,ZW
+r4,Q3OTHER,5,ZABRAMA,mis,S,Uncoded languages,GH
 r4,Q3OTHER,11,Zerma,dje,I,Zarma,ML
 r4,Q3OTHER,19,ZEZULU,zul,I,Zulu,ZM
 r4,Q3OTHER,20,ZEZURU,sna,I,Shona,ZW
 r4,Q3OTHER,7,Zhoza,xho,I,Xhosa,LS
-r4,Q3OTHER,5,ZUGU,,,,GH
+r4,Q3OTHER,5,ZUGU,mis,S,Uncoded languages,GH
 r4,Q3OTHER,14,ZURU,dri,I,C'Lela,NG
 r5,Q103OTHER,24,AKEBOU,keu,I,Akebu,TG
-r5,Q103OTHER,15,BADIARANKE,,,,SN
+r5,Q103OTHER,15,BADIARANKE,mis,S,Uncoded languages,SN
 r5,Q103OTHER,26,BAHAM,bbj,I,Ghomálá',CM
 r5,Q103OTHER,26,BANDJOUN,bbj,I,Ghomálá',CM
 r5,Q103OTHER,28,BASSANO FOULA,fuf,I,Pular,GN
 r5,Q103OTHER,28,BASSANO FOULA,ful,M,Fulah,GN
 r5,Q103OTHER,21,BHOJPURI,bho,I,Bhojpuri,MU
-r5,Q103OTHER,1,BOO,,,,BJ
+r5,Q103OTHER,1,BOO,mis,S,Uncoded languages,BJ
 r5,Q103OTHER,26,DII,dur,I,Dii,CM
 r5,Q103OTHER,1,DITAMARI,tbz,I,Ditammari,BJ
 r5,Q103OTHER,6,ENG AND SWAHILI,mul,S,Multiple languages,KE
-r5,Q103OTHER,24,GANGAN,,,,TG
+r5,Q103OTHER,24,GANGAN,mis,S,Uncoded languages,TG
 r5,Q103OTHER,24,GOURMA,gux,I,Gourmanchéma,TG
 r5,Q103OTHER,26,GUIDAR,gid,I,Gidar,CM
 r5,Q103OTHER,24,HAOUSSA,hau,I,Hausa,TG
@@ -393,9 +393,9 @@ r5,Q103OTHER,22,LIMBA,lia,I,West-Central Limba,SL
 r5,Q103OTHER,22,LIMBA,lma,I,East Limba,SL
 r5,Q103OTHER,18,LUGWERE,gwr,I,Gwere,UG
 r5,Q103OTHER,26,MAFA,maf,I,Mafa,CM
-r5,Q103OTHER,28,MANIAN,,,,GN
+r5,Q103OTHER,28,MANIAN,mis,S,Uncoded languages,GN
 r5,Q103OTHER,6,MASAI,mas,I,Masai,KE
-r5,Q103OTHER,26,MBAMOIS,,,,CM
+r5,Q103OTHER,26,MBAMOIS,mis,S,Uncoded languages,CM
 r5,Q103OTHER,26,MBO,mbo,I,Mbo (Cameroon),CM
 r5,Q103OTHER,26,MBOUM,mdd,I,Mbum,CM
 r5,Q103OTHER,24,MINA,gej,I,Gen,TG
@@ -408,10 +408,10 @@ r5,Q103OTHER,6,POKOT,pko,I,Pökoot,KE
 r5,Q103OTHER,6,POKOT,kln,M,Kalenjin,KE
 r5,Q103OTHER,12,RONGA,rng,I,Ronga,MZ
 r5,Q103OTHER,19,SENGA,tum,I,Tumbuka,ZM
-r5,Q103OTHER,7,SETHEPU,,,,LS
+r5,Q103OTHER,7,SETHEPU,mis,S,Uncoded languages,LS
 r5,Q103OTHER,16,SHANGAAN,tso,I,Tsonga,ZA
 r5,Q103OTHER,22,SHERBRO,bun,I,Sherbro,SL
-r5,Q103OTHER,20,SHONA & NDEBELE,,,,ZW
+r5,Q103OTHER,20,SHONA & NDEBELE,mis,S,Uncoded languages,ZW
 r5,Q103OTHER,16,SISWATI,ssw,I,Swati,ZA
 r5,Q103OTHER,6,SOMALI,som,I,Somali,KE
 r5,Q103OTHER,8,STANDARD ENGLISH,eng,I,English,LR
@@ -433,28 +433,29 @@ r5,Q116OTHER,26,BANDJOUN,bbj,I,Ghomálá',CM
 r5,Q116OTHER,26,BANEN,tvu,I,Tunen,CM
 r5,Q116OTHER,14,BASSA,bzw,I,Basa (Nigeria),NG
 r5,Q116OTHER,26,BASSA,bas,I,Basa (Cameroon),CM
-r5,Q116OTHER,26,BAYANGAM,,,,CM
-r5,Q116OTHER,1,BOO,,,,BJ
+r5,Q116OTHER,26,BAYANGAM,mis,S,Uncoded languages,CM
+r5,Q116OTHER,1,BOO,mis,S,Uncoded languages,BJ
 r5,Q116OTHER,14,BURAH,bwr,I,Bura-Pabir,NG
 r5,Q116OTHER,12,CHITEWE,twx,I,Tewe,MZ
 r5,Q116OTHER,5,DAGAARE,dga,I,Southern Dagaare,GH
-r5,Q116OTHER,27,DAHOMEY,,,,CI
+r5,Q116OTHER,27,DAHOMEY,mis,S,Uncoded languages,CI
 r5,Q116OTHER,26,ETON,eto,I,Eton (Cameroon),CM
 r5,Q116OTHER,5,FRAFRA,gur,I,Farefare,GH
 r5,Q116OTHER,3,FULSE,kfz,I,Koromfé,BF
 r5,Q116OTHER,14,IZERE,izr,I,Izere,NG
 r5,Q116OTHER,14,JABA,ldb,I,Dũya,NG
+r5,Q116OTHER,14,JARAWA,jgk,I,Gwak,NG
 r5,Q116OTHER,14,JARAWA,jjr,I,Bankal,NG
 r5,Q116OTHER,14,JUKUN,jbu,I,Jukun Takum,NG
 r5,Q116OTHER,17,KIJITA,jit,I,Jita,TZ
-r5,Q116OTHER,17,KILURI,,,,TZ
+r5,Q116OTHER,17,KILURI,mis,S,Uncoded languages,TZ
 r5,Q116OTHER,14,KORO,uji,I,Tanjijili,NG
-r5,Q116OTHER,26,KOTOKO,,,,CM
+r5,Q116OTHER,26,KOTOKO,mis,S,Uncoded languages,CM
 r5,Q116OTHER,26,MAFA,maf,I,Mafa,CM
 r5,Q116OTHER,26,MBO,mbo,I,Mbo (Cameroon),CM
 r5,Q116OTHER,14,NGAS,anc,I,Ngas,NG
 r5,Q116OTHER,26,NTOUMOU,fan,I,Fang (Equatorial Guinea),CM
-r5,Q116OTHER,26,NYEM NYEM,,,,CM
+r5,Q116OTHER,26,NYEM NYEM,mis,S,Uncoded languages,CM
 r5,Q116OTHER,19,NYIKA,nkv,I,Nyika (Malawi and Zambia),ZM
 r5,Q116OTHER,14,RON,cla,I,Ron,NG
 r5,Q116OTHER,18,RUFUMBIIRA,kin,I,Kinyarwanda,UG
@@ -474,18 +475,18 @@ r5,Q2OTHER,14,AFIZERE,izr,I,Izere,NG
 r5,Q2OTHER,14,AGBOR,ikk,I,Ika,NG
 r5,Q2OTHER,26,AGHEM,agq,I,Aghem,CM
 r5,Q2OTHER,27,AHIZI,ahp,I,Aproumu Aizi,CI
-r5,Q2OTHER,14,AHOADA,,,,NG
+r5,Q2OTHER,14,AHOADA,mis,S,Uncoded languages,NG
 r5,Q2OTHER,5,AKAN,fat,I,Fanti,GH
 r5,Q2OTHER,5,AKAN,twi,I,Twi,GH
 r5,Q2OTHER,5,AKAN,aka,M,Akan,GH
 r5,Q2OTHER,24,AKEBOU,keu,I,Akebu,TG
-r5,Q2OTHER,24,AKLOBO,,,,TG
-r5,Q2OTHER,14,AKUMAZI,,,,NG
+r5,Q2OTHER,24,AKLOBO,mis,S,Uncoded languages,TG
+r5,Q2OTHER,14,AKUMAZI,mis,S,Uncoded languages,NG
 r5,Q2OTHER,5,AKYODE,acd,I,Gikyode,GH
 r5,Q2OTHER,14,ALAGO,ala,I,Alago,NG
-r5,Q2OTHER,26,AMBO-BATIBO,,,,CM
+r5,Q2OTHER,26,AMBO-BATIBO,mis,S,Uncoded languages,CM
 r5,Q2OTHER,14,AMOH,amo,I,Amo,NG
-r5,Q2OTHER,24,ANAGO,,,,TG
+r5,Q2OTHER,24,ANAGO,mis,S,Uncoded languages,TG
 r5,Q2OTHER,14,ANANG,anw,I,Anaang,NG
 r5,Q2OTHER,14,ANDONI,ann,I,Obolo,NG
 r5,Q2OTHER,14,ANGAS,anc,I,Ngas,NG
@@ -495,58 +496,58 @@ r5,Q2OTHER,26,ARABE CHOA,ara,M,Arabic,CM
 r5,Q2OTHER,6,ARABIC,arb,I,Standard Arabic,KE
 r5,Q2OTHER,6,ARABIC,ara,M,Arabic,KE
 r5,Q2OTHER,18,ARINGA,luc,I,Aringa,UG
-r5,Q2OTHER,24,ASHANTI,,,,TG
+r5,Q2OTHER,24,ASHANTI,mis,S,Uncoded languages,TG
 r5,Q2OTHER,6,ASIAN SOUTH,und,S,Undetermined,KE
 r5,Q2OTHER,14,ATTAKAR,kcg,I,Tyap,NG
 r5,Q2OTHER,14,AUCHI,ets,I,Yekhee,NG
-r5,Q2OTHER,14,AWA,,,,NG
+r5,Q2OTHER,14,AWA,mis,S,Uncoded languages,NG
 r5,Q2OTHER,5,AWUTU,afu,I,Awutu,GH
-r5,Q2OTHER,5,AYIGBE,,,,GH
-r5,Q2OTHER,26,BABANJOU,,,,CM
-r5,Q2OTHER,26,BABIS,,,,CM
+r5,Q2OTHER,5,AYIGBE,mis,S,Uncoded languages,GH
+r5,Q2OTHER,26,BABANJOU,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,BABIS,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,BABOUTE,vut,I,Vute,CM
 r5,Q2OTHER,26,BABUNGO,bav,I,Vengo,CM
-r5,Q2OTHER,26,BACHIOTIA,,,,CM
-r5,Q2OTHER,26,BADENKOP,,,,CM
-r5,Q2OTHER,15,BADIARANKE,,,,SN
+r5,Q2OTHER,26,BACHIOTIA,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,BADENKOP,mis,S,Uncoded languages,CM
+r5,Q2OTHER,15,BADIARANKE,mis,S,Uncoded languages,SN
 r5,Q2OTHER,26,BADJOUE,ozm,I,Koonzime,CM
 r5,Q2OTHER,26,BAFANJI,bfj,I,Bafanji,CM
 r5,Q2OTHER,26,BAFMEN,bfm,I,Mmen,CM
 r5,Q2OTHER,26,BAFO,bwt,I,Bafaw-Balong,CM
-r5,Q2OTHER,26,BAFOUNDA,,,,CM
-r5,Q2OTHER,26,BAFOUSSAM,,,,CM
+r5,Q2OTHER,26,BAFOUNDA,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,BAFOUSSAM,mis,S,Uncoded languages,CM
 r5,Q2OTHER,24,BAGO,bqg,I,Bago-Kusuntu,TG
-r5,Q2OTHER,14,BAGWOM,,,,NG
+r5,Q2OTHER,14,BAGWOM,mis,S,Uncoded languages,NG
 r5,Q2OTHER,26,BAHAM,bbj,I,Ghomálá',CM
 r5,Q2OTHER,14,BAJJU,kaj,I,Jju,NG
-r5,Q2OTHER,14,BAKAMUKA,,,,NG
-r5,Q2OTHER,26,BAKASSI,,,,CM
+r5,Q2OTHER,14,BAKAMUKA,mis,S,Uncoded languages,NG
+r5,Q2OTHER,26,BAKASSI,mis,S,Uncoded languages,CM
 r5,Q2OTHER,18,BAKENYI,lke,I,Kenyi,UG
 r5,Q2OTHER,26,BAKOKO,bkh,I,Bakoko,CM
 r5,Q2OTHER,26,BAKOSSI,bss,I,Akoose,CM
 r5,Q2OTHER,27,BAKWE,bjw,I,Bakwé,CI
 r5,Q2OTHER,26,BAKWERI,bri,I,Mokpwe,CM
 r5,Q2OTHER,15,BALANTE,bjt,I,Balanta-Ganja,SN
-r5,Q2OTHER,26,BALATI,,,,CM
+r5,Q2OTHER,26,BALATI,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,BALI,mhk,I,Mungaka,CM
 r5,Q2OTHER,26,BALIKUMBAT,bqt,I,Bamukumbit,CM
 r5,Q2OTHER,26,BALINYONGYA,mhk,I,Mungaka,CM
 r5,Q2OTHER,26,BALONG,bwt,I,Bafaw-Balong,CM
 r5,Q2OTHER,26,BAMBILI,baw,I,Bambili-Bambui,CM
-r5,Q2OTHER,26,BAMEDJOU,,,,CM
+r5,Q2OTHER,26,BAMEDJOU,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,BAMEKA,bbj,I,Ghomálá',CM
 r5,Q2OTHER,26,BAMENDA,mfd,I,Mendankwe-Nkwen,CM
-r5,Q2OTHER,26,BAMENDJOU,,,,CM
+r5,Q2OTHER,26,BAMENDJOU,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,BAMESSING,ndb,I,Kenswei Nsei,CM
 r5,Q2OTHER,26,BAMUMBU,mnf,I,Mundani,CM
 r5,Q2OTHER,5,BANDA,nfr,I,Nafaanra,GH
 r5,Q2OTHER,26,BANEN,tvu,I,Tunen,CM
-r5,Q2OTHER,26,BANGOU,,,,CM
-r5,Q2OTHER,26,BANOSSI,,,,CM
+r5,Q2OTHER,26,BANGOU,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,BANOSSI,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,BAPA,bbw,I,Baba,CM
-r5,Q2OTHER,26,BAPOUKOU,,,,CM
+r5,Q2OTHER,26,BAPOUKOU,mis,S,Uncoded languages,CM
 r5,Q2OTHER,13,BARAKWENA,xuu,I,Kxoe,NA
-r5,Q2OTHER,14,BASANGE,,,,NG
+r5,Q2OTHER,14,BASANGE,mis,S,Uncoded languages,NG
 r5,Q2OTHER,5,BASARE,bud,I,Ntcham,GH
 r5,Q2OTHER,28,BASSANO FOULA,fuf,I,Pular,GN
 r5,Q2OTHER,28,BASSANO FOULA,ful,M,Fulah,GN
@@ -554,68 +555,68 @@ r5,Q2OTHER,24,BASSAR,bud,I,Ntcham,TG
 r5,Q2OTHER,26,BATCHAM,nnh,I,Ngiemboon,CM
 r5,Q2OTHER,26,BATIBO,mgo,I,Meta',CM
 r5,Q2OTHER,26,BATIE,bbj,I,Ghomálá',CM
-r5,Q2OTHER,26,BATOMOW,,,,CM
-r5,Q2OTHER,5,BATTOR,,,,GH
+r5,Q2OTHER,26,BATOMOW,mis,S,Uncoded languages,CM
+r5,Q2OTHER,5,BATTOR,mis,S,Uncoded languages,GH
 r5,Q2OTHER,26,BAYA,gya,I,Northwest Gbaya,CM
 r5,Q2OTHER,26,BAYA,gba,M,Gbaya (Central African Republic),CM
 r5,Q2OTHER,15,BAYOTTE,bda,I,Bayot,SN
-r5,Q2OTHER,28,BEKA,,,,GN
-r5,Q2OTHER,26,BENGWI,,,,CM
+r5,Q2OTHER,28,BEKA,mis,S,Uncoded languages,GN
+r5,Q2OTHER,26,BENGWI,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,BIKOM,bkm,I,Kom (Cameroon),CM
 r5,Q2OTHER,14,BILLE,bil,I,Bile,NG
 r5,Q2OTHER,5,BIMOBA,bim,I,Bimoba,GH
 r5,Q2OTHER,5,BIRIFORI,biv,I,Southern Birifor,GH
 r5,Q2OTHER,14,BIROM,bom,I,Berom,NG
 r5,Q2OTHER,12,BITONGA,toh,I,Gitonga,MZ
-r5,Q2OTHER,26,BOBIS,,,,CM
+r5,Q2OTHER,26,BOBIS,mis,S,Uncoded languages,CM
 r5,Q2OTHER,3,BOBO,bbo,I,Northern Bobo Madaré,BF
 r5,Q2OTHER,3,BOBO,bwq,I,Southern Bobo Madaré,BF
 r5,Q2OTHER,20,BOCHA,mxc,I,Manyika,ZW
-r5,Q2OTHER,14,BOGOBARA,,,,NG
+r5,Q2OTHER,14,BOGOBARA,mis,S,Uncoded languages,NG
 r5,Q2OTHER,14,BOLE,bol,I,Bole,NG
 r5,Q2OTHER,3,BOLON,bof,I,Bolon,BF
 r5,Q2OTHER,26,BONGKEN,bvg,I,Bonkeng,CM
-r5,Q2OTHER,1,BOO,,,,BJ
+r5,Q2OTHER,1,BOO,mis,S,Uncoded languages,BJ
 r5,Q2OTHER,6,BORANA,gax,I,Borana-Arsi-Guji Oromo,KE
 r5,Q2OTHER,6,BORANA,orm,M,Oromo,KE
-r5,Q2OTHER,14,BOROM,,,,NG
-r5,Q2OTHER,26,BOUDA,,,,CM
-r5,Q2OTHER,5,BUILE,,,,GH
+r5,Q2OTHER,14,BOROM,mis,S,Uncoded languages,NG
+r5,Q2OTHER,26,BOUDA,mis,S,Uncoded languages,CM
+r5,Q2OTHER,5,BUILE,mis,S,Uncoded languages,GH
 r5,Q2OTHER,5,BUILSA,bwu,I,Buli (Ghana),GH
-r5,Q2OTHER,20,BUJA,,,,ZW
+r5,Q2OTHER,20,BUJA,mis,S,Uncoded languages,ZW
 r5,Q2OTHER,16,BULGARIAN,bul,I,Bulgarian,ZA
 r5,Q2OTHER,26,BUM,mdd,I,Mbum,CM
 r5,Q2OTHER,14,BURA,bwr,I,Bura-Pabir,NG
-r5,Q2OTHER,5,BUSANGA,,,,GH
+r5,Q2OTHER,5,BUSANGA,mis,S,Uncoded languages,GH
 r5,Q2OTHER,5,CHAMBA,bud,I,Ntcham,GH
 r5,Q2OTHER,14,CHAMBA,ccg,I,Samba Daka,NG
 r5,Q2OTHER,14,CHAWAI,cch,I,Atsam,NG
 r5,Q2OTHER,12,CHECHEWA,nya,I,Nyanja,MZ
-r5,Q2OTHER,20,CHEWA,,,,ZW
+r5,Q2OTHER,20,CHEWA,mis,S,Uncoded languages,ZW
 r5,Q2OTHER,12,CHIBARUE,bwg,I,Barwe,MZ
 r5,Q2OTHER,12,CHIBAURE,bwg,I,Barwe,MZ
 r5,Q2OTHER,14,CHIBOK,ckl,I,Cibak,NG
 r5,Q2OTHER,12,CHIBURUE,bwg,I,Barwe,MZ
 r5,Q2OTHER,12,CHICHEWA,nya,I,Nyanja,MZ
-r5,Q2OTHER,12,CHIGORONGOZI,,,,MZ
+r5,Q2OTHER,12,CHIGORONGOZI,mis,S,Uncoded languages,MZ
 r5,Q2OTHER,20,CHIKUNDA,kdn,I,Kunda,ZW
 r5,Q2OTHER,10,CHILAMBYA,lai,I,Lambya,MW
-r5,Q2OTHER,12,CHIMANICA,,,,MZ
-r5,Q2OTHER,12,CHIMARENGE,,,,MZ
+r5,Q2OTHER,12,CHIMANICA,mis,S,Uncoded languages,MZ
+r5,Q2OTHER,12,CHIMARENGE,mis,S,Uncoded languages,MZ
 r5,Q2OTHER,5,CHIMULLU,ncu,I,Chumburung,GH
-r5,Q2OTHER,10,CHINAMWANGA,,,,MW
+r5,Q2OTHER,10,CHINAMWANGA,mis,S,Uncoded languages,MW
 r5,Q2OTHER,10,CHINDALI,ndh,I,Ndali,MW
 r5,Q2OTHER,10,CHINDALII,ndh,I,Ndali,MW
-r5,Q2OTHER,10,CHINDEBELE,,,,MW
+r5,Q2OTHER,10,CHINDEBELE,mis,S,Uncoded languages,MW
 r5,Q2OTHER,16,CHINESE,cmn,I,Mandarin Chinese,ZA
 r5,Q2OTHER,16,CHINESE,zho,M,Chinese,ZA
 r5,Q2OTHER,12,CHINGONI,ngo,I,Ngoni,MZ
-r5,Q2OTHER,12,CHINGOZI,,,,MZ
+r5,Q2OTHER,12,CHINGOZI,mis,S,Uncoded languages,MZ
 r5,Q2OTHER,12,CHINHUNGUE,mxc,I,Manyika,MZ
-r5,Q2OTHER,10,CHINYAKYUSA,,,,MW
+r5,Q2OTHER,10,CHINYAKYUSA,mis,S,Uncoded languages,MW
 r5,Q2OTHER,10,CHINYIKA,nkv,I,Nyika (Malawi and Zambia),MW
 r5,Q2OTHER,12,CHITAWALA,twl,I,Tawara,MZ
-r5,Q2OTHER,20,CHITAWALA,,,,ZW
+r5,Q2OTHER,20,CHITAWALA,mis,S,Uncoded languages,ZW
 r5,Q2OTHER,12,CHITEWE,twx,I,Tewe,MZ
 r5,Q2OTHER,12,CHITSWA,tsc,I,Tswa,MZ
 r5,Q2OTHER,5,CHOKOSI,cko,I,Anufo,GH
@@ -625,52 +626,52 @@ r5,Q2OTHER,3,DAFING,rkm,I,Marka,BF
 r5,Q2OTHER,11,DAFING,rkm,I,Marka,ML
 r5,Q2OTHER,5,DAGAARE,dga,I,Southern Dagaare,GH
 r5,Q2OTHER,5,DAGOMBA,dag,I,Dagbani,GH
-r5,Q2OTHER,14,DELTA,,,,NG
+r5,Q2OTHER,14,DELTA,mis,S,Uncoded languages,NG
 r5,Q2OTHER,15,DIAHANKE,mlq,I,Western Maninkakan,SN
 r5,Q2OTHER,15,DIAHANKE,man,M,Mandingo,SN
-r5,Q2OTHER,5,DIBEBI,,,,GH
+r5,Q2OTHER,5,DIBEBI,mis,S,Uncoded languages,GH
 r5,Q2OTHER,26,DII,dur,I,Dii,CM
-r5,Q2OTHER,6,DINKA,,,,KE
-r5,Q2OTHER,26,DJANCH,,,,CM
+r5,Q2OTHER,6,DINKA,mis,S,Uncoded languages,KE
+r5,Q2OTHER,26,DJANCH,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,DJEM,njy,I,Njyem,CM
 r5,Q2OTHER,27,DJIMINI,dyi,I,Djimini Senoufo,CI
 r5,Q2OTHER,3,DOGOSSE,dos,I,Dogosé,BF
 r5,Q2OTHER,20,DOMBE,dov,I,Dombe,ZW
 r5,Q2OTHER,26,DSCHANG,ybb,I,Yemba,CM
-r5,Q2OTHER,26,DU,,,,CM
+r5,Q2OTHER,26,DU,mis,S,Uncoded languages,CM
 r5,Q2OTHER,27,EBRIE,ebr,I,Ebrié,CI
-r5,Q2OTHER,14,EGBUEUAKAA,,,,NG
+r5,Q2OTHER,14,EGBUEUAKAA,mis,S,Uncoded languages,NG
 r5,Q2OTHER,14,EGGON,ego,I,Eggon,NG
-r5,Q2OTHER,27,EHOTILE,,,,CI
+r5,Q2OTHER,27,EHOTILE,mis,S,Uncoded languages,CI
 r5,Q2OTHER,14,EJAGAM,etu,I,Ejagham,NG
 r5,Q2OTHER,26,EJAGAM,etu,I,Ejagham,CM
 r5,Q2OTHER,14,EKPEYE,ekp,I,Ekpeye,NG
 r5,Q2OTHER,14,ELEME,elm,I,Eleme,NG
 r5,Q2OTHER,12,ENGLISH,eng,I,English,MZ
 r5,Q2OTHER,26,ESIMBI,ags,I,Esimbi,CM
-r5,Q2OTHER,26,ESU,,,,CM
+r5,Q2OTHER,26,ESU,mis,S,Uncoded languages,CM
 r5,Q2OTHER,14,ETSAKO,ets,I,Yekhee,NG
 r5,Q2OTHER,14,EZI DELTA IGBO,ibo,I,Igbo,NG
-r5,Q2OTHER,14,FAKUN,,,,NG
+r5,Q2OTHER,14,FAKUN,mis,S,Uncoded languages,NG
 r5,Q2OTHER,5,FANTE,aka,M,Akan,GH
-r5,Q2OTHER,1,FODO,,,,BJ
+r5,Q2OTHER,1,FODO,mis,S,Uncoded languages,BJ
 r5,Q2OTHER,24,FON,fon,I,Fon,TG
-r5,Q2OTHER,26,FOULBE,,,,CM
+r5,Q2OTHER,26,FOULBE,mis,S,Uncoded languages,CM
 r5,Q2OTHER,5,FRAFRA,gur,I,Farefare,GH
 r5,Q2OTHER,5,FULANI,ffm,I,Maasina Fulfulde,GH
 r5,Q2OTHER,5,FULANI,ful,M,Fulah,GH
 r5,Q2OTHER,27,GAGOU,ggu,I,Gagu,CI
 r5,Q2OTHER,20,GARWE,ndc,I,Ndau,ZW
 r5,Q2OTHER,14,GBAGYI,gbr,I,Gbagyi,NG
-r5,Q2OTHER,14,GBILE,,,,NG
-r5,Q2OTHER,14,GEUM,,,,NG
-r5,Q2OTHER,26,GHOMALA,,,,CM
+r5,Q2OTHER,14,GBILE,mis,S,Uncoded languages,NG
+r5,Q2OTHER,14,GEUM,mis,S,Uncoded languages,NG
+r5,Q2OTHER,26,GHOMALA,mis,S,Uncoded languages,CM
 r5,Q2OTHER,6,GIRIAMA,nyf,I,Giryama,KE
-r5,Q2OTHER,26,GIZZIGARE,,,,CM
-r5,Q2OTHER,27,GNIABOUA,,,,CI
+r5,Q2OTHER,26,GIZZIGARE,mis,S,Uncoded languages,CM
+r5,Q2OTHER,27,GNIABOUA,mis,S,Uncoded languages,CI
 r5,Q2OTHER,19,GOBA,sna,I,Shona,ZM
 r5,Q2OTHER,5,GONJA,gjn,I,Gonja,GH
-r5,Q2OTHER,26,GOUIFE,,,,CM
+r5,Q2OTHER,26,GOUIFE,mis,S,Uncoded languages,CM
 r5,Q2OTHER,24,GOURMA,gux,I,Gourmanchéma,TG
 r5,Q2OTHER,5,GRUNI,gur,I,Farefare,GH
 r5,Q2OTHER,5,GUAN,gwx,I,Gua,GH
@@ -678,7 +679,7 @@ r5,Q2OTHER,6,GUJRATHI,guj,I,Gujarati,KE
 r5,Q2OTHER,5,GURUMA,bim,I,Bimoba,GH
 r5,Q2OTHER,14,GWANDARA,gwn,I,Gwandara,NG
 r5,Q2OTHER,14,GWARI,gbr,I,Gbagyi,NG
-r5,Q2OTHER,14,GWOZA,,,,NG
+r5,Q2OTHER,14,GWOZA,mis,S,Uncoded languages,NG
 r5,Q2OTHER,6,"HALF TAITA, HALF ZAI",mul,S,Multiple languages,KE
 r5,Q2OTHER,5,HANGA,hag,I,Hanga,GH
 r5,Q2OTHER,3,HAOUSSA,hau,I,Hausa,BF
@@ -686,91 +687,92 @@ r5,Q2OTHER,24,HAOUSSA,hau,I,Hausa,TG
 r5,Q2OTHER,33,HASSANIYA,mey,I,Hassaniyya,MA
 r5,Q2OTHER,14,HIGGI,hig,I,Kamwe,NG
 r5,Q2OTHER,26,HINA,hna,I,Mina (Cameroon),CM
-r5,Q2OTHER,20,HINDI,,,,ZW
+r5,Q2OTHER,20,HINDI,mis,S,Uncoded languages,ZW
 r5,Q2OTHER,6,HINDU,hin,I,Hindi,KE
 r5,Q2OTHER,1,HOUSSA,hau,I,Hausa,BJ
 r5,Q2OTHER,20,HWESA,sna,I,Shona,ZW
 r5,Q2OTHER,14,IBAJI,igl,I,Igala,NG
-r5,Q2OTHER,14,IBIE,,,,NG
+r5,Q2OTHER,14,IBIE,mis,S,Uncoded languages,NG
 r5,Q2OTHER,14,IJAW,ijs,I,Southeast Ijo,NG
 r5,Q2OTHER,14,IKA,ikk,I,Ika,NG
 r5,Q2OTHER,14,IKOM,iko,I,Olulumo-Ikom,NG
-r5,Q2OTHER,14,IKPENA,,,,NG
+r5,Q2OTHER,14,IKPENA,mis,S,Uncoded languages,NG
 r5,Q2OTHER,6,INDIAN,guj,I,Gujarati,KE
 r5,Q2OTHER,14,IRIGWE,iri,I,Irigwe,NG
 r5,Q2OTHER,30,ISIZULU,zul,I,Zulu,SZ
 r5,Q2OTHER,14,ISOKO,iso,I,Isoko,NG
 r5,Q2OTHER,14,IZERE,izr,I,Izere,NG
 r5,Q2OTHER,14,JABA,ldb,I,Dũya,NG
-r5,Q2OTHER,14,JAJA,,,,NG
+r5,Q2OTHER,14,JAJA,mis,S,Uncoded languages,NG
+r5,Q2OTHER,14,JARAWA,jgk,I,Gwak,NG
 r5,Q2OTHER,14,JARAWA,jjr,I,Bankal,NG
 r5,Q2OTHER,14,JENJO,jen,I,Dza,NG
 r5,Q2OTHER,20,JINDWI,mxc,I,Manyika,ZW
-r5,Q2OTHER,26,JUKUM,,,,CM
+r5,Q2OTHER,26,JUKUM,mis,S,Uncoded languages,CM
 r5,Q2OTHER,14,JUKUN,jbu,I,Jukun Takum,NG
 r5,Q2OTHER,14,KADARA,kad,I,Adara,NG
 r5,Q2OTHER,14,KAGOMA,kdm,I,Kagoma,NG
 r5,Q2OTHER,28,KAKABHE,kke,I,Kakabe,GN
 r5,Q2OTHER,18,KAKWA,keo,I,Kakwa,UG
 r5,Q2OTHER,14,KALABARI,ijn,I,Kalabari,NG
-r5,Q2OTHER,24,KAMBOLI,,,,TG
-r5,Q2OTHER,26,KAMBU,,,,CM
-r5,Q2OTHER,26,KANGYANG,,,,CM
+r5,Q2OTHER,24,KAMBOLI,mis,S,Uncoded languages,TG
+r5,Q2OTHER,26,KAMBU,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,KANGYANG,mis,S,Uncoded languages,CM
 r5,Q2OTHER,5,KANJAGA,bwu,I,Buli (Ghana),GH
 r5,Q2OTHER,26,KANOURI,knc,I,Central Kanuri,CM
 r5,Q2OTHER,26,KANOURI,kau,M,Kanuri,CM
 r5,Q2OTHER,14,KAREKARE,kai,I,Karekare,NG
-r5,Q2OTHER,14,KARMO,,,,NG
+r5,Q2OTHER,14,KARMO,mis,S,Uncoded languages,NG
 r5,Q2OTHER,5,KASENA,xsm,I,Kasem,GH
 r5,Q2OTHER,14,KATAF,kcg,I,Tyap,NG
-r5,Q2OTHER,13,KAVANGO,,,,NA
+r5,Q2OTHER,13,KAVANGO,mis,S,Uncoded languages,NA
 r5,Q2OTHER,18,KEBU,ndp,I,Ndo,UG
 r5,Q2OTHER,18,KEBU.,nbp,I,Nnam,UG
 r5,Q2OTHER,6,KENYAN,swh,I,Swahili (individual language),KE
 r5,Q2OTHER,6,KENYAN,swa,M,Swahili (macrolanguage),KE
-r5,Q2OTHER,26,KEYKA,,,,CM
+r5,Q2OTHER,26,KEYKA,mis,S,Uncoded languages,CM
 r5,Q2OTHER,14,KHANA,ogo,I,Khana,NG
-r5,Q2OTHER,17,KIARUSHA,,,,TZ
+r5,Q2OTHER,17,KIARUSHA,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIBENA,bez,I,Bena (Tanzania),TZ
 r5,Q2OTHER,17,KIBENDE,bdp,I,Bende,TZ
 r5,Q2OTHER,17,KIBONDEI,bou,I,Bondei,TZ
-r5,Q2OTHER,17,KIBUNGA,,,,TZ
+r5,Q2OTHER,17,KIBUNGA,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIBUNGU,wun,I,Bungu,TZ
 r5,Q2OTHER,17,KIDOE,doe,I,Doe,TZ
 r5,Q2OTHER,17,KIFIPA,fip,I,Fipa,TZ
-r5,Q2OTHER,17,KIGINDO,,,,TZ
-r5,Q2OTHER,17,KIGUNYA,,,,TZ
+r5,Q2OTHER,17,KIGINDO,mis,S,Uncoded languages,TZ
+r5,Q2OTHER,17,KIGUNYA,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIGWENO,gwe,I,Gweno,TZ
 r5,Q2OTHER,17,KIHA,haq,I,Ha,TZ
 r5,Q2OTHER,17,KIHANGAZA,han,I,Hangaza,TZ
 r5,Q2OTHER,17,KIIKIZU,ikz,I,Ikizu,TZ
-r5,Q2OTHER,17,KIIRAQ,,,,TZ
-r5,Q2OTHER,17,KIJALUO,,,,TZ
+r5,Q2OTHER,17,KIIRAQ,mis,S,Uncoded languages,TZ
+r5,Q2OTHER,17,KIJALUO,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIJITA,jit,I,Jita,TZ
 r5,Q2OTHER,17,KIKAGULU,kki,I,Kagulu,TZ
-r5,Q2OTHER,17,KIKAGURU,,,,TZ
+r5,Q2OTHER,17,KIKAGURU,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIKAHE,hka,I,Kahe,TZ
-r5,Q2OTHER,17,KIKALA,,,,TZ
-r5,Q2OTHER,17,KIKAMBA,,,,TZ
+r5,Q2OTHER,17,KIKALA,mis,S,Uncoded languages,TZ
+r5,Q2OTHER,17,KIKAMBA,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIKEREWE,ked,I,Kerewe,TZ
-r5,Q2OTHER,17,KIKIIZU,,,,TZ
+r5,Q2OTHER,17,KIKIIZU,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIKINGA,zga,I,Kinga,TZ
 r5,Q2OTHER,17,KIKISI,kiz,I,Kisi,TZ
 r5,Q2OTHER,17,KIKUTU,kdc,I,Kutu,TZ
 r5,Q2OTHER,17,KIKWAYA,kya,I,Kwaya,TZ
-r5,Q2OTHER,17,KILONGO,,,,TZ
-r5,Q2OTHER,17,KILURI,,,,TZ
+r5,Q2OTHER,17,KILONGO,mis,S,Uncoded languages,TZ
+r5,Q2OTHER,17,KILURI,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIMAKUA,mgh,I,Makhuwa-Meetto,TZ
-r5,Q2OTHER,17,KIMAKUNDUCHI,,,,TZ
+r5,Q2OTHER,17,KIMAKUNDUCHI,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIMALILA,mgq,I,Malila,TZ
 r5,Q2OTHER,17,KIMAMBWE,mgr,I,Mambwe-Lungu,TZ
 r5,Q2OTHER,17,KIMANDA,mgs,I,Manda (Tanzania),TZ
 r5,Q2OTHER,17,KIMATENGO,mgv,I,Matengo,TZ
 r5,Q2OTHER,17,KIMATUMBI,mgw,I,Matumbi,TZ
-r5,Q2OTHER,17,KIMBULU,,,,TZ
-r5,Q2OTHER,17,KIMDALE,,,,TZ
+r5,Q2OTHER,17,KIMBULU,mis,S,Uncoded languages,TZ
+r5,Q2OTHER,17,KIMDALE,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,12,KIMUANI,wmw,I,Mwani,MZ
-r5,Q2OTHER,17,KIMUWANJI,,,,TZ
+r5,Q2OTHER,17,KIMUWANJI,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIMWERA,mwe,I,Mwera (Chimwera),TZ
 r5,Q2OTHER,17,KINATA,ntk,I,Ikoma-Nata-Isenye,TZ
 r5,Q2OTHER,17,KINDALI,ndh,I,Ndali,TZ
@@ -778,8 +780,8 @@ r5,Q2OTHER,17,KINDAMBA,ndj,I,Ndamba,TZ
 r5,Q2OTHER,17,KINDENDEULE,dne,I,Ndendeule,TZ
 r5,Q2OTHER,17,KINDENGEREKO,ndg,I,Ndengereko,TZ
 r5,Q2OTHER,17,KINGINDO,nnq,I,Ngindo,TZ
-r5,Q2OTHER,17,KINGUU,,,,TZ
-r5,Q2OTHER,17,KINYAGATWA,,,,TZ
+r5,Q2OTHER,17,KINGUU,mis,S,Uncoded languages,TZ
+r5,Q2OTHER,17,KINYAGATWA,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KINYAMBO,now,I,Nyambo,TZ
 r5,Q2OTHER,18,KINYAMULENGE,kin,I,Kinyarwanda,UG
 r5,Q2OTHER,17,KINYAMWANGA,mwn,I,Nyamwanga,TZ
@@ -787,50 +789,50 @@ r5,Q2OTHER,17,KINYAMWEZI,nym,I,Nyamwezi,TZ
 r5,Q2OTHER,17,KINYASA,mpa,I,Mpoto,TZ
 r5,Q2OTHER,17,KINYATURU,rim,I,Nyaturu,TZ
 r5,Q2OTHER,17,KINYIHA,nkt,I,Nyika (Tanzania),TZ
-r5,Q2OTHER,17,KIPAGEBI,,,,TZ
+r5,Q2OTHER,17,KIPAGEBI,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIPANGWA,pbr,I,Pangwa,TZ
-r5,Q2OTHER,17,KIPEMBA,,,,TZ
+r5,Q2OTHER,17,KIPEMBA,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIPIMBWE,piw,I,Pimbwe,TZ
-r5,Q2OTHER,17,KIPOGORO,,,,TZ
+r5,Q2OTHER,17,KIPOGORO,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIRANGI,lag,I,Langi,TZ
 r5,Q2OTHER,6,KIRINYAGA,kik,I,Kikuyu,KE
-r5,Q2OTHER,17,KIRUFIJI,,,,TZ
+r5,Q2OTHER,17,KIRUFIJI,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KISAFWA,sbk,I,Safwa,TZ
 r5,Q2OTHER,17,KISAGALA,sbm,I,Sagala,TZ
 r5,Q2OTHER,17,KISAMBAA,ksb,I,Shambala,TZ
 r5,Q2OTHER,17,KISANDAWE,sad,I,Sandawe,TZ
 r5,Q2OTHER,17,KISANGU,sbp,I,Sangu (Tanzania),TZ
-r5,Q2OTHER,17,KISANZU,,,,TZ
-r5,Q2OTHER,17,KISHIRAZI,,,,TZ
+r5,Q2OTHER,17,KISANZU,mis,S,Uncoded languages,TZ
+r5,Q2OTHER,17,KISHIRAZI,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KISIMBITI,ssc,I,Suba-Simbiti,TZ
 r5,Q2OTHER,17,KISUBI,suj,I,Shubi,TZ
 r5,Q2OTHER,17,KISUMBWA,suw,I,Sumbwa,TZ
-r5,Q2OTHER,17,KISUNVA,,,,TZ
+r5,Q2OTHER,17,KISUNVA,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KISWAHILI,swh,I,Swahili (individual language),TZ
 r5,Q2OTHER,17,KISWAHILI,swa,M,Swahili (macrolanguage),TZ
-r5,Q2OTHER,17,KITATUU,,,,TZ
+r5,Q2OTHER,17,KITATUU,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KITONGWE,tny,I,Tongwe,TZ
-r5,Q2OTHER,17,KITUMBATU,,,,TZ
-r5,Q2OTHER,17,KITUWAN,,,,TZ
-r5,Q2OTHER,17,KIUWANJI,,,,TZ
+r5,Q2OTHER,17,KITUMBATU,mis,S,Uncoded languages,TZ
+r5,Q2OTHER,17,KITUWAN,mis,S,Uncoded languages,TZ
+r5,Q2OTHER,17,KIUWANJI,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIYAO,yao,I,Yao,TZ
-r5,Q2OTHER,17,KIYUSI,,,,TZ
+r5,Q2OTHER,17,KIYUSI,mis,S,Uncoded languages,TZ
 r5,Q2OTHER,17,KIZANAKI,zak,I,Zanaki,TZ
 r5,Q2OTHER,17,KIZARAMO,zaj,I,Zaramo,TZ
 r5,Q2OTHER,17,KIZIGUA,ziw,I,Zigula,TZ
 r5,Q2OTHER,17,KIZINZA,zin,I,Zinza,TZ
-r5,Q2OTHER,26,KLUM,,,,CM
+r5,Q2OTHER,26,KLUM,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,KOM,nfu,I,Mfumte,CM
-r5,Q2OTHER,24,KOMKOMBA,,,,TG
+r5,Q2OTHER,24,KOMKOMBA,mis,S,Uncoded languages,TG
 r5,Q2OTHER,5,KONKOMBA,xon,I,Konkomba,GH
 r5,Q2OTHER,24,KONKOMBA,xon,I,Konkomba,TG
 r5,Q2OTHER,14,KORO,uji,I,Tanjijili,NG
 r5,Q2OTHER,27,KORO,kfo,I,Koro (Côte d'Ivoire),CI
 r5,Q2OTHER,26,KOSHIN,kid,I,Koshin,CM
-r5,Q2OTHER,1,KOTOCOLI,,,,BJ
+r5,Q2OTHER,1,KOTOCOLI,mis,S,Uncoded languages,BJ
 r5,Q2OTHER,5,KOTOKOLI,kdh,I,Tem,GH
-r5,Q2OTHER,24,KOULOUMI,,,,TG
-r5,Q2OTHER,1,KOURA,,,,BJ
+r5,Q2OTHER,24,KOULOUMI,mis,S,Uncoded languages,TG
+r5,Q2OTHER,1,KOURA,mis,S,Uncoded languages,BJ
 r5,Q2OTHER,28,KOURANKO,knk,I,Kuranko,GN
 r5,Q2OTHER,24,KOUSSOUNTOU,bqg,I,Bago-Kusuntu,TG
 r5,Q2OTHER,27,KOUYA,kyf,I,Kouya,CI
@@ -845,18 +847,18 @@ r5,Q2OTHER,6,KURIA,kuj,I,Kuria,KE
 r5,Q2OTHER,5,KUSAASI,kus,I,Kusaal,GH
 r5,Q2OTHER,5,KUSAL,kus,I,Kusaal,GH
 r5,Q2OTHER,14,KUTEB,kub,I,Kutep,NG
-r5,Q2OTHER,26,LAKA,,,,CM
+r5,Q2OTHER,26,LAKA,mis,S,Uncoded languages,CM
 r5,Q2OTHER,5,LAKPAKAW,xon,I,Konkomba,GH
 r5,Q2OTHER,28,LANDOUMA,ldm,I,Landoma,GN
-r5,Q2OTHER,26,LEBIALEM,,,,CM
-r5,Q2OTHER,26,LELE,,,,CM
+r5,Q2OTHER,26,LEBIALEM,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,LELE,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,LEMANDE,lem,I,Nomaande,CM
 r5,Q2OTHER,18,LENDU,led,I,Lendu,UG
 r5,Q2OTHER,26,LIMBUM,lmp,I,Limbum,CM
-r5,Q2OTHER,26,LIMBUN,,,,CM
+r5,Q2OTHER,26,LIMBUN,mis,S,Uncoded languages,CM
 r5,Q2OTHER,12,LOLO,llb,I,Lolo,MZ
 r5,Q2OTHER,12,LOMWE,ngl,I,Lomwe,MZ
-r5,Q2OTHER,19,LUBA,,,,ZM
+r5,Q2OTHER,19,LUBA,mis,S,Uncoded languages,ZM
 r5,Q2OTHER,18,LUBUKUSU,bxk,I,Bukusu,UG
 r5,Q2OTHER,18,LUBUKUSU,luy,M,Luyia,UG
 r5,Q2OTHER,19,LUCHAZI,lch,I,Luchazi,ZM
@@ -876,62 +878,62 @@ r5,Q2OTHER,18,LUSUDAN,apd,I,Sudanese Arabic,UG
 r5,Q2OTHER,18,LUSUDAN,ara,M,Arabic,UG
 r5,Q2OTHER,18,LUSUDANI,apd,I,Sudanese Arabic,UG
 r5,Q2OTHER,18,LUSUDANI,ara,M,Arabic,UG
-r5,Q2OTHER,26,LUTU,,,,CM
+r5,Q2OTHER,26,LUTU,mis,S,Uncoded languages,CM
 r5,Q2OTHER,18,LWAMBA,rwm,I,Amba (Uganda),UG
 r5,Q2OTHER,14,MADA,mda,I,Mada (Nigeria),NG
 r5,Q2OTHER,26,MADA,mxu,I,Mada (Cameroon),CM
 r5,Q2OTHER,14,MAGU,mcj,I,Mvanip,NG
 r5,Q2OTHER,27,MAHOUKA,mxx,I,Mahou,CI
 r5,Q2OTHER,26,MALIMBA,mzd,I,Malimba,CM
-r5,Q2OTHER,26,MAMBILA,,,,CM
+r5,Q2OTHER,26,MAMBILA,mis,S,Uncoded languages,CM
 r5,Q2OTHER,5,MAMPRULI,maw,I,Mampruli,GH
 r5,Q2OTHER,26,MANDARA,mfi,I,Wandala,CM
-r5,Q2OTHER,26,MANDOUA,,,,CM
-r5,Q2OTHER,26,MANGUISSA,,,,CM
-r5,Q2OTHER,12,MANHAWA,,,,MZ
-r5,Q2OTHER,15,MANKAGNE,,,,SN
+r5,Q2OTHER,26,MANDOUA,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,MANGUISSA,mis,S,Uncoded languages,CM
+r5,Q2OTHER,12,MANHAWA,mis,S,Uncoded languages,MZ
+r5,Q2OTHER,15,MANKAGNE,mis,S,Uncoded languages,SN
 r5,Q2OTHER,6,MARACHI,lri,I,Marachi,KE
 r5,Q2OTHER,6,MARACHI,luy,M,Luyia,KE
 r5,Q2OTHER,14,MARGI,mrt,I,Marghi Central,NG
-r5,Q2OTHER,20,MAUNGWE,,,,ZW
-r5,Q2OTHER,15,MAURE,,,,SN
+r5,Q2OTHER,20,MAUNGWE,mis,S,Uncoded languages,ZW
+r5,Q2OTHER,15,MAURE,mis,S,Uncoded languages,SN
 r5,Q2OTHER,27,MBATTO,gwa,I,Mbato,CI
 r5,Q2OTHER,6,MBEERE,ebu,I,Embu,KE
 r5,Q2OTHER,26,MBEM,yam,I,Yamba,CM
 r5,Q2OTHER,26,MBO,mbo,I,Mbo (Cameroon),CM
 r5,Q2OTHER,26,MBU,nbv,I,Ngamambo,CM
-r5,Q2OTHER,14,MBUBE,,,,NG
-r5,Q2OTHER,26,MEDOUMBA,,,,CM
-r5,Q2OTHER,26,MEFEWELE,,,,CM
+r5,Q2OTHER,14,MBUBE,mis,S,Uncoded languages,NG
+r5,Q2OTHER,26,MEDOUMBA,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,MEFEWELE,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,MEKAF,mff,I,Naki,CM
-r5,Q2OTHER,26,MENDAKWE,,,,CM
+r5,Q2OTHER,26,MENDAKWE,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,MENKA,pny,I,Pinyin,CM
-r5,Q2OTHER,26,MESAGIE,,,,CM
-r5,Q2OTHER,26,META,,,,CM
-r5,Q2OTHER,26,METU,,,,CM
+r5,Q2OTHER,26,MESAGIE,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,META,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,METU,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,MEZIME,mgg,I,Mpumpong,CM
-r5,Q2OTHER,14,MICHIKA,,,,NG
+r5,Q2OTHER,14,MICHIKA,mis,S,Uncoded languages,NG
 r5,Q2OTHER,14,MIGILI,mgi,I,Lijili,NG
 r5,Q2OTHER,28,MIGUIFORET,mfg,I,Mogofin,GN
-r5,Q2OTHER,3,MIONGA,,,,BF
+r5,Q2OTHER,3,MIONGA,mis,S,Uncoded languages,BF
 r5,Q2OTHER,14,MIYAWA,mkf,I,Miya,NG
-r5,Q2OTHER,20,MLEMBA,,,,ZW
-r5,Q2OTHER,26,MOCKBIE,,,,CM
-r5,Q2OTHER,2,MOKAA,,,,BW
+r5,Q2OTHER,20,MLEMBA,mis,S,Uncoded languages,ZW
+r5,Q2OTHER,26,MOCKBIE,mis,S,Uncoded languages,CM
+r5,Q2OTHER,2,MOKAA,mis,S,Uncoded languages,BW
 r5,Q2OTHER,5,MOSHIE,mos,I,Mossi,GH
 r5,Q2OTHER,24,MOSSI,mos,I,Mossi,TG
 r5,Q2OTHER,26,MOUSGOUM,mug,I,Musgu,CM
-r5,Q2OTHER,26,MOZEUILLE,,,,CM
-r5,Q2OTHER,26,MPONGO,,,,CM
+r5,Q2OTHER,26,MOZEUILLE,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,MPONGO,mis,S,Uncoded languages,CM
 r5,Q2OTHER,18,MUBWISI,tlj,I,Talinga-Bwisi,UG
 r5,Q2OTHER,18,MUFUMBIRA,kin,I,Kinyarwanda,UG
 r5,Q2OTHER,18,MUGISHU,myx,I,Masaaba,UG
 r5,Q2OTHER,18,MUGUNGU,rub,I,Gungu,UG
-r5,Q2OTHER,20,MUHERA,,,,ZW
-r5,Q2OTHER,19,MULAMBYA,,,,ZM
+r5,Q2OTHER,20,MUHERA,mis,S,Uncoded languages,ZW
+r5,Q2OTHER,19,MULAMBYA,mis,S,Uncoded languages,ZM
 r5,Q2OTHER,18,MULULI,ruc,I,Ruuli,UG
 r5,Q2OTHER,18,MULUNDI,run,I,Rundi,UG
-r5,Q2OTHER,19,MUMBA,,,,ZM
+r5,Q2OTHER,19,MUMBA,mis,S,Uncoded languages,ZM
 r5,Q2OTHER,14,MUMUYE,mzm,I,Mumuye,NG
 r5,Q2OTHER,26,MUNDANI,mnf,I,Mundani,CM
 r5,Q2OTHER,18,MUNYARWANDA,kin,I,Kinyarwanda,UG
@@ -944,60 +946,60 @@ r5,Q2OTHER,14,MWAGHAVUL,sur,I,Mwaghavul,NG
 r5,Q2OTHER,18,MWAMBA,rwm,I,Amba (Uganda),UG
 r5,Q2OTHER,5,NABDAM,gur,I,Farefare,GH
 r5,Q2OTHER,28,NALLOU,naj,I,Nalu,GN
-r5,Q2OTHER,20,NAMBIYA,,,,ZW
+r5,Q2OTHER,20,NAMBIYA,mis,S,Uncoded languages,ZW
 r5,Q2OTHER,5,NANUMBA,dag,I,Dagbani,GH
 r5,Q2OTHER,1,NATIMBA,ntm,I,Nateni,BJ
-r5,Q2OTHER,5,NAWURT,,,,GH
+r5,Q2OTHER,5,NAWURT,mis,S,Uncoded languages,GH
 r5,Q2OTHER,14,NBULA,ndr,I,Ndoola,NG
-r5,Q2OTHER,26,NCHANG,,,,CM
-r5,Q2OTHER,19,NDEBELE,,,,ZM
+r5,Q2OTHER,26,NCHANG,mis,S,Uncoded languages,CM
+r5,Q2OTHER,19,NDEBELE,mis,S,Uncoded languages,ZM
 r5,Q2OTHER,26,NDI,www,I,Wawa,CM
 r5,Q2OTHER,27,NEYO,wec,I,Wè Western,CI
 r5,Q2OTHER,24,NGAM-GAM,gng,I,Ngangam,TG
 r5,Q2OTHER,14,NGAS,anc,I,Ngas,NG
 r5,Q2OTHER,26,NGEMBA,nge,I,Ngemba,CM
 r5,Q2OTHER,26,NGI,ngj,I,Ngie,CM
-r5,Q2OTHER,26,NGOA,,,,CM
-r5,Q2OTHER,26,NGOBALE,,,,CM
-r5,Q2OTHER,26,NGWOH,,,,CM
-r5,Q2OTHER,12,NHARINGA,,,,MZ
+r5,Q2OTHER,26,NGOA,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,NGOBALE,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,NGWOH,mis,S,Uncoded languages,CM
+r5,Q2OTHER,12,NHARINGA,mis,S,Uncoded languages,MZ
 r5,Q2OTHER,14,NIGILI,mgi,I,Lijili,NG
-r5,Q2OTHER,14,NINGAWA,,,,NG
-r5,Q2OTHER,26,NKAMBE,,,,CM
+r5,Q2OTHER,14,NINGAWA,mis,S,Uncoded languages,NG
+r5,Q2OTHER,26,NKAMBE,mis,S,Uncoded languages,CM
 r5,Q2OTHER,5,NKURA,kzc,I,Bondoukou Kulango,GH
 r5,Q2OTHER,5,NKURA,nku,I,Bouna Kulango,GH
-r5,Q2OTHER,26,NLIMBOM,,,,CM
+r5,Q2OTHER,26,NLIMBOM,mis,S,Uncoded languages,CM
 r5,Q2OTHER,14,NORTH IVIE,mis,S,Uncoded languages,NG
 r5,Q2OTHER,12,NSENGA,nse,I,Nsenga,MZ
-r5,Q2OTHER,26,NTEM,,,,CM
-r5,Q2OTHER,26,NTENAKO,,,,CM
+r5,Q2OTHER,26,NTEM,mis,S,Uncoded languages,CM
+r5,Q2OTHER,26,NTENAKO,mis,S,Uncoded languages,CM
 r5,Q2OTHER,6,NUBIAN,kcn,I,Nubi,KE
-r5,Q2OTHER,5,NUSU,,,,GH
+r5,Q2OTHER,5,NUSU,mis,S,Uncoded languages,GH
 r5,Q2OTHER,26,NWEH,nwe,I,Ngwe,CM
 r5,Q2OTHER,20,NYANJA,nya,I,Nyanja,ZW
-r5,Q2OTHER,20,NYASALAND,,,,ZW
-r5,Q2OTHER,13,NYEMBA,,,,NA
+r5,Q2OTHER,20,NYASALAND,mis,S,Uncoded languages,ZW
+r5,Q2OTHER,13,NYEMBA,mis,S,Uncoded languages,NA
 r5,Q2OTHER,26,NYOKON,nvo,I,Nyokon,CM
 r5,Q2OTHER,5,NZEMA,nzi,I,Nzima,GH
 r5,Q2OTHER,26,NZIME,ozm,I,Koonzime,CM
 r5,Q2OTHER,26,OBANG,etu,I,Ejagham,CM
-r5,Q2OTHER,14,OGOJA,,,,NG
+r5,Q2OTHER,14,OGOJA,mis,S,Uncoded languages,NG
 r5,Q2OTHER,14,OHAFIA,ibo,I,Igbo,NG
 r5,Q2OTHER,18,OKEBU,ndp,I,Ndo,UG
 r5,Q2OTHER,14,OKPE,okx,I,Okpe (Northwestern Edo),NG
 r5,Q2OTHER,14,OKPELLA,atg,I,Ivbie North-Okpela-Arhe,NG
 r5,Q2OTHER,14,OKRIKA,okr,I,Kirike,NG
 r5,Q2OTHER,26,OKU,oku,I,Oku,CM
-r5,Q2OTHER,14,OLUKUMI,,,,NG
-r5,Q2OTHER,18,OMBACH,,,,UG
-r5,Q2OTHER,14,ONCE,,,,NG
+r5,Q2OTHER,14,OLUKUMI,mis,S,Uncoded languages,NG
+r5,Q2OTHER,18,OMBACH,mis,S,Uncoded languages,UG
+r5,Q2OTHER,14,ONCE,mis,S,Uncoded languages,NG
 r5,Q2OTHER,26,OROKO,bdu,I,Oroko,CM
 r5,Q2OTHER,6,OROMA,orc,I,Orma,KE
 r5,Q2OTHER,6,OROMA,orm,M,Oromo,KE
-r5,Q2OTHER,26,OSHE,,,,CM
+r5,Q2OTHER,26,OSHE,mis,S,Uncoded languages,CM
 r5,Q2OTHER,14,OSOSO,oso,I,Ososo,NG
-r5,Q2OTHER,2,PARAKARUNGU,,,,BW
-r5,Q2OTHER,15,PEPELE,,,,SN
+r5,Q2OTHER,2,PARAKARUNGU,mis,S,Uncoded languages,BW
+r5,Q2OTHER,15,PEPELE,mis,S,Uncoded languages,SN
 r5,Q2OTHER,24,PEUL,fue,I,Borgu Fulfulde,TG
 r5,Q2OTHER,24,PEUL,ful,M,Fulah,TG
 r5,Q2OTHER,26,PEULH,fub,I,Adamawa Fulfulde,CM
@@ -1017,34 +1019,34 @@ r5,Q2OTHER,18,RUTAGWENDA,nyo,I,Nyoro,UG
 r5,Q2OTHER,6,SABAOT,spy,I,Sabaot,KE
 r5,Q2OTHER,6,SABAOT,kln,M,Kalenjin,KE
 r5,Q2OTHER,3,SAMBLA,sos,I,Seeku,BF
-r5,Q2OTHER,27,SAMORO,,,,CI
+r5,Q2OTHER,27,SAMORO,mis,S,Uncoded languages,CI
 r5,Q2OTHER,26,SANAGA,bag,I,Tuki,CM
 r5,Q2OTHER,8,SAPO,krn,I,Sapo,LR
 r5,Q2OTHER,14,SAYAWA,say,I,Saya,NG
-r5,Q2OTHER,2,SEBANDERU,,,,BW
-r5,Q2OTHER,2,SEBOLONGWE,,,,BW
-r5,Q2OTHER,2,SEKOLONG,,,,BW
-r5,Q2OTHER,2,SENANJWA,,,,BW
+r5,Q2OTHER,2,SEBANDERU,mis,S,Uncoded languages,BW
+r5,Q2OTHER,2,SEBOLONGWE,mis,S,Uncoded languages,BW
+r5,Q2OTHER,2,SEKOLONG,mis,S,Uncoded languages,BW
+r5,Q2OTHER,2,SENANJWA,mis,S,Uncoded languages,BW
 r5,Q2OTHER,2,SEPEDI,nso,I,Pedi,BW
 r5,Q2OTHER,2,SETEBELE,nde,I,North Ndebele,BW
-r5,Q2OTHER,2,SETLHARO,,,,BW
+r5,Q2OTHER,2,SETLHARO,mis,S,Uncoded languages,BW
 r5,Q2OTHER,2,SETSWAPONG,two,I,Tswapong,BW
 r5,Q2OTHER,20,SHANGANI,tso,I,Tsonga,ZW
 r5,Q2OTHER,20,SHANGWE,sna,I,Shona,ZW
-r5,Q2OTHER,6,SHELSHEL,,,,KE
+r5,Q2OTHER,6,SHELSHEL,mis,S,Uncoded languages,KE
 r5,Q2OTHER,19,SHILA,tap,I,Taabwa,ZM
-r5,Q2OTHER,13,SHONA,,,,NA
+r5,Q2OTHER,13,SHONA,mis,S,Uncoded languages,NA
 r5,Q2OTHER,19,SHONA,sna,I,Shona,ZM
 r5,Q2OTHER,14,SHUWA,shu,I,Chadian Arabic,NG
 r5,Q2OTHER,14,SHUWA,ara,M,Arabic,NG
-r5,Q2OTHER,19,SILUCHAZI,,,,ZM
-r5,Q2OTHER,24,SIRKA,,,,TG
+r5,Q2OTHER,19,SILUCHAZI,mis,S,Uncoded languages,ZM
+r5,Q2OTHER,24,SIRKA,mis,S,Uncoded languages,TG
 r5,Q2OTHER,5,SISSALA,sil,I,Tumulung Sisaala,GH
 r5,Q2OTHER,5,SISSALA,ssl,I,Western Sisaala,GH
 r5,Q2OTHER,30,SIZULU,zul,I,Zulu,SZ
-r5,Q2OTHER,27,SOKOUYA,,,,CI
+r5,Q2OTHER,27,SOKOUYA,mis,S,Uncoded languages,CI
 r5,Q2OTHER,24,SOLA,soy,I,Miyobe,TG
-r5,Q2OTHER,20,SOTHO,,,,ZW
+r5,Q2OTHER,20,SOTHO,mis,S,Uncoded languages,ZW
 r5,Q2OTHER,15,SOUSSOU,sus,I,Susu,SN
 r5,Q2OTHER,6,SUBA,sxb,I,Suba,KE
 r5,Q2OTHER,18,SWAHILI,swh,I,Swahili (individual language),UG
@@ -1062,50 +1064,50 @@ r5,Q2OTHER,14,TAROK,yer,I,Tarok,NG
 r5,Q2OTHER,24,TCHAMBA,aks,I,Akaselem,TG
 r5,Q2OTHER,26,TCHANG,ybb,I,Yemba,CM
 r5,Q2OTHER,24,TCHOKOSSI,cko,I,Anufo,TG
-r5,Q2OTHER,24,TEMBERMA,,,,TG
-r5,Q2OTHER,27,TENINKA,,,,CI
+r5,Q2OTHER,24,TEMBERMA,mis,S,Uncoded languages,TG
+r5,Q2OTHER,27,TENINKA,mis,S,Uncoded languages,CI
 r5,Q2OTHER,6,TESO,teo,I,Teso,KE
 r5,Q2OTHER,6,THARAKA,thk,I,Tharaka,KE
-r5,Q2OTHER,5,TIMBRU,,,,GH
+r5,Q2OTHER,5,TIMBRU,mis,S,Uncoded languages,GH
 r5,Q2OTHER,14,TIV,tiv,I,Tiv,NG
 r5,Q2OTHER,28,TOMA MANIA,tod,I,Toma,GN
 r5,Q2OTHER,5,TOMBOLON,tpm,I,Tampulma,GH
-r5,Q2OTHER,15,TOURKA,,,,SN
-r5,Q2OTHER,3,TOUSSIAN,,,,BF
+r5,Q2OTHER,15,TOURKA,mis,S,Uncoded languages,SN
+r5,Q2OTHER,3,TOUSSIAN,mis,S,Uncoded languages,BF
 r5,Q2OTHER,16,TSONGA,tso,I,Tsonga,ZA
 r5,Q2OTHER,30,TSONGA,tso,I,Tsonga,SZ
-r5,Q2OTHER,20,TUMBUKA,,,,ZW
+r5,Q2OTHER,20,TUMBUKA,mis,S,Uncoded languages,ZW
 r5,Q2OTHER,3,TURKA,tuz,I,Turka,BF
 r5,Q2OTHER,14,UKWALE,ukw,I,Ukwuani-Aboh-Ndoni,NG
 r5,Q2OTHER,14,UKWANI,ukw,I,Ukwuani-Aboh-Ndoni,NG
-r5,Q2OTHER,14,UWA,,,,NG
-r5,Q2OTHER,14,UZEBA,,,,NG
-r5,Q2OTHER,20,VHITORI,,,,ZW
+r5,Q2OTHER,14,UWA,mis,S,Uncoded languages,NG
+r5,Q2OTHER,14,UZEBA,mis,S,Uncoded languages,NG
+r5,Q2OTHER,20,VHITORI,mis,S,Uncoded languages,ZW
 r5,Q2OTHER,5,WAALA,wlx,I,Wali (Ghana),GH
 r5,Q2OTHER,1,WAAMA,wwa,I,Waama,BJ
 r5,Q2OTHER,26,WANDALA,mfi,I,Wandala,CM
-r5,Q2OTHER,5,WANGRA,,,,GH
+r5,Q2OTHER,5,WANGRA,mis,S,Uncoded languages,GH
 r5,Q2OTHER,6,WARDEI,som,I,Somali,KE
-r5,Q2OTHER,24,WATCHI,,,,TG
+r5,Q2OTHER,24,WATCHI,mis,S,Uncoded languages,TG
 r5,Q2OTHER,26,WEH,weh,I,Weh,CM
-r5,Q2OTHER,26,WIDIKUM,,,,CM
+r5,Q2OTHER,26,WIDIKUM,mis,S,Uncoded languages,CM
 r5,Q2OTHER,26,WIMBUM,lmp,I,Limbum,CM
 r5,Q2OTHER,27,WOBE,wob,I,Wè Northern,CI
-r5,Q2OTHER,28,WOME,,,,GN
-r5,Q2OTHER,26,WOMELA,,,,CM
+r5,Q2OTHER,28,WOME,mis,S,Uncoded languages,GN
+r5,Q2OTHER,26,WOMELA,mis,S,Uncoded languages,CM
 r5,Q2OTHER,7,XHOSA,xho,I,Xhosa,LS
 r5,Q2OTHER,20,XHOSA,xho,I,Xhosa,ZW
 r5,Q2OTHER,14,YAKHOR,yaz,I,Lokaa,NG
-r5,Q2OTHER,3,YANAN,,,,BF
+r5,Q2OTHER,3,YANAN,mis,S,Uncoded languages,BF
 r5,Q2OTHER,12,YAO,yao,I,Yao,MZ
-r5,Q2OTHER,19,YAWA,,,,ZM
+r5,Q2OTHER,19,YAWA,mis,S,Uncoded languages,ZM
 r5,Q2OTHER,24,YOROUBA,yor,I,Yoruba,TG
-r5,Q2OTHER,14,YOUM,,,,NG
-r5,Q2OTHER,14,ZAMJI,,,,NG
-r5,Q2OTHER,5,ZAMRAMA,,,,GH
+r5,Q2OTHER,14,YOUM,mis,S,Uncoded languages,NG
+r5,Q2OTHER,14,ZAMJI,mis,S,Uncoded languages,NG
+r5,Q2OTHER,5,ZAMRAMA,mis,S,Uncoded languages,GH
 r5,Q2OTHER,13,ZEMBAS,dhm,I,Zemba,NA
-r5,Q2OTHER,1,ZERMA,,,,BJ
-r5,Q2OTHER,27,ZINNINGA,,,,CI
+r5,Q2OTHER,1,ZERMA,mis,S,Uncoded languages,BJ
+r5,Q2OTHER,27,ZINNINGA,mis,S,Uncoded languages,CI
 r5,Q2OTHER,26,ZOULGO,gnd,I,Zulgo-Gemzek,CM
 r5,Q2OTHER,30,ZULU,zul,I,Zulu,SZ
 r5,Q2OTHER,14,ZURO,dri,I,C'Lela,NG
@@ -1118,7 +1120,7 @@ r6,Q103OTHER,35,bisa,leb,I,Lala-Bisa,ZM
 r6,Q103OTHER,21,bitonga,toh,I,Gitonga,MZ
 r6,Q103OTHER,21,Bitonga,toh,I,Gitonga,MZ
 r6,Q103OTHER,21,BITONGA,toh,I,Gitonga,MZ
-r6,Q103OTHER,11,Buzanga,,,,GH
+r6,Q103OTHER,11,Buzanga,mis,S,Uncoded languages,GH
 r6,Q103OTHER,25,CABOVERDIANO,kea,I,Kabuverdianu,ST
 r6,Q103OTHER,21,chape,cce,I,Chopi,MZ
 r6,Q103OTHER,17,Chilambya,lai,I,Lambya,MW
@@ -1126,8 +1128,8 @@ r6,Q103OTHER,17,Chinkhonde,nyy,I,Nyakyusa-Ngonde,MW
 r6,Q103OTHER,21,CHITEYE,twx,I,Tewe,MZ
 r6,Q103OTHER,17,Chitonga,tog,I,Tonga (Nyasa),MW
 r6,Q103OTHER,17,Chiyao,yao,I,Yao,MW
-r6,Q103OTHER,21,CHONA,,,,MZ
-r6,Q103OTHER,21,chongo,,,,MZ
+r6,Q103OTHER,21,CHONA,mis,S,Uncoded languages,MZ
+r6,Q103OTHER,21,chongo,mis,S,Uncoded languages,MZ
 r6,Q103OTHER,21,chope,cce,I,Chopi,MZ
 r6,Q103OTHER,21,Chope,cce,I,Chopi,MZ
 r6,Q103OTHER,21,CHOPE,cce,I,Chopi,MZ
@@ -1147,7 +1149,7 @@ r6,Q103OTHER,12,FRANCAISE,fra,I,French,GN
 r6,Q103OTHER,11,french,fra,I,French,GH
 r6,Q103OTHER,33,French,fra,I,French,TN
 r6,Q103OTHER,27,FULLAH,ful,M,Fulah,SL
-r6,Q103OTHER,6,GHEMBA,,,,CM
+r6,Q103OTHER,6,GHEMBA,mis,S,Uncoded languages,CM
 r6,Q103OTHER,11,Gonja,gjn,I,Gonja,GH
 r6,Q103OTHER,11,Gruni,gur,I,Farefare,GH
 r6,Q103OTHER,11,Grushi,xsm,I,Kasem,GH
@@ -1161,14 +1163,14 @@ r6,Q103OTHER,28,KHOISAN,naq,I,Khoekhoe,ZA
 r6,Q103OTHER,27,KISSI,kqs,I,Northern Kissi,SL
 r6,Q103OTHER,27,KISSI,kss,I,Southern Kisi,SL
 r6,Q103OTHER,11,Kokomba,xon,I,Konkomba,GH
-r6,Q103OTHER,6,KOTOKO,,,,CM
+r6,Q103OTHER,6,KOTOKO,mis,S,Uncoded languages,CM
 r6,Q103OTHER,11,Kotokoli,kdh,I,Tem,GH
 r6,Q103OTHER,11,Krobo,ada,I,Adangme,GH
 r6,Q103OTHER,34,KUPSABINYI,kpz,I,Kupsabiny,UG
 r6,Q103OTHER,11,Kusaasi,kus,I,Kusaal,GH
 r6,Q103OTHER,11,Kusal,kus,I,Kusaal,GH
-r6,Q103OTHER,21,Ligote,,,,MZ
-r6,Q103OTHER,21,LOGOTE,,,,MZ
+r6,Q103OTHER,21,Ligote,mis,S,Uncoded languages,MZ
+r6,Q103OTHER,21,LOGOTE,mis,S,Uncoded languages,MZ
 r6,Q103OTHER,34,LUGWERE,gwr,I,Gwere,UG
 r6,Q103OTHER,34,LUNYOLE,nuj,I,Nyole,UG
 r6,Q103OTHER,34,LUSAMIA,lsm,I,Saamia,UG
@@ -1179,7 +1181,7 @@ r6,Q103OTHER,11,Mamprusi,maw,I,Mampruli,GH
 r6,Q103OTHER,21,Manhungue,mxc,I,Manyika,MZ
 r6,Q103OTHER,12,MANO,mev,I,Mano,GN
 r6,Q103OTHER,21,MARONGA,rng,I,Ronga,MZ
-r6,Q103OTHER,26,MAURE,,,,SN
+r6,Q103OTHER,26,MAURE,mis,S,Uncoded languages,SN
 r6,Q103OTHER,11,Mo,mzw,I,Deg,GH
 r6,Q103OTHER,11,Mossi,mos,I,Mossi,GH
 r6,Q103OTHER,6,MOUNDANG,mua,I,Mundang,CM
@@ -1214,10 +1216,10 @@ r6,Q103OTHER,21,tewe,twx,I,Tewe,MZ
 r6,Q103OTHER,12,TOMA,tod,I,Toma,GN
 r6,Q103OTHER,28,Tsonga,tso,I,Tsonga,ZA
 r6,Q103OTHER,28,TSONGA,tso,I,Tsonga,ZA
-r6,Q103OTHER,35,tumbka,,,,ZM
+r6,Q103OTHER,35,tumbka,mis,S,Uncoded languages,ZM
 r6,Q103OTHER,11,Waala,wlx,I,Wali (Ghana),GH
-r6,Q103OTHER,11,Wangara,,,,GH
-r6,Q103OTHER,11,Wulisa,,,,GH
+r6,Q103OTHER,11,Wangara,mis,S,Uncoded languages,GH
+r6,Q103OTHER,11,Wulisa,mis,S,Uncoded languages,GH
 r6,Q103OTHER,28,Xitsonga,tso,I,Tsonga,ZA
 r6,Q103OTHER,21,xitsua,tsc,I,Tswa,MZ
 r6,Q103OTHER,21,Xitsua,tsc,I,Tswa,MZ
@@ -1226,17 +1228,17 @@ r6,Q103OTHER,21,xitswa,tsc,I,Tswa,MZ
 r6,Q103OTHER,21,XITSWA,tsc,I,Tswa,MZ
 r6,Q103OTHER,28,XTSONGA,tso,I,Tsonga,ZA
 r6,Q103OTHER,30,Zulu,zul,I,Zulu,SZ
-r6,Q116OTHER,6,BAFOUSSAM,,,,CM
+r6,Q116OTHER,6,BAFOUSSAM,mis,S,Uncoded languages,CM
 r6,Q116OTHER,12,BAGA,bcg,I,Baga Pokur,GN
 r6,Q116OTHER,24,BAJJU,kaj,I,Jju,NG
-r6,Q116OTHER,6,BAMILEKE,,,,CM
+r6,Q116OTHER,6,BAMILEKE,mis,S,Uncoded languages,CM
 r6,Q116OTHER,24,BANDAWA,bcv,I,Shoo-Minda-Nye,NG
 r6,Q116OTHER,6,BASSA,bas,I,Basa (Cameroon),CM
 r6,Q116OTHER,6,BENE,bum,I,Bulu (Cameroon),CM
 r6,Q116OTHER,24,BIROM,bom,I,Berom,NG
-r6,Q116OTHER,24,BUJJA,,,,NG
-r6,Q116OTHER,24,BUJU,,,,NG
-r6,Q116OTHER,24,CHAMAWA,,,,NG
+r6,Q116OTHER,24,BUJJA,mis,S,Uncoded languages,NG
+r6,Q116OTHER,24,BUJU,mis,S,Uncoded languages,NG
+r6,Q116OTHER,24,CHAMAWA,mis,S,Uncoded languages,NG
 r6,Q116OTHER,11,Dagaare,dga,I,Southern Dagaare,GH
 r6,Q116OTHER,24,EGGON,ego,I,Eggon,NG
 r6,Q116OTHER,6,ETON,eto,I,Eton (Cameroon),CM
@@ -1250,7 +1252,7 @@ r6,Q116OTHER,24,KABBA/BUNU,bgu,I,Mbongno,NG
 r6,Q116OTHER,24,KALABARI,ijn,I,Kalabari,NG
 r6,Q116OTHER,11,Kasem,xsm,I,Kasem,GH
 r6,Q116OTHER,31,KIHA,haq,I,Ha,TZ
-r6,Q116OTHER,31,KIJALUO,,,,TZ
+r6,Q116OTHER,31,KIJALUO,mis,S,Uncoded languages,TZ
 r6,Q116OTHER,31,KIKINGA,zga,I,Kinga,TZ
 r6,Q116OTHER,31,KINDAMBA,ndj,I,Ndamba,TZ
 r6,Q116OTHER,31,KIRURI,kya,I,Kwaya,TZ
@@ -1260,7 +1262,7 @@ r6,Q116OTHER,11,Kotokoli,kdh,I,Tem,GH
 r6,Q116OTHER,24,LEMORO,ldj,I,Lemoro,NG
 r6,Q116OTHER,11,Likpakpaln,xon,I,Konkomba,GH
 r6,Q116OTHER,24,MAGHAI,mew,I,Maaka,NG
-r6,Q116OTHER,26,MAURE,,,,SN
+r6,Q116OTHER,26,MAURE,mis,S,Uncoded languages,SN
 r6,Q116OTHER,6,MBO,mbo,I,Mbo (Cameroon),CM
 r6,Q116OTHER,11,Moshie,mos,I,Mossi,GH
 r6,Q116OTHER,6,MOUNDANG,mua,I,Mundang,CM
@@ -1295,7 +1297,7 @@ r6,Q116OTHER,21,nyyngue,nyu,I,Nyungwe,MZ
 r6,Q116OTHER,28,PORTUGUESE,por,I,Portuguese,ZA
 r6,Q116OTHER,11,Sisaala,sil,I,Tumulung Sisaala,GH
 r6,Q116OTHER,11,Sisaala,ssl,I,Western Sisaala,GH
-r6,Q116OTHER,8,TOUR,,,,CI
+r6,Q116OTHER,8,TOUR,mis,S,Uncoded languages,CI
 r6,Q116OTHER,24,TUKUN,nza,I,Tigon Mbembe,NG
 r6,Q116OTHER,24,UMONE,umm,I,Umon,NG
 r6,Q116OTHER,11,Waala,wlx,I,Wali (Ghana),GH
@@ -1308,33 +1310,33 @@ r6,Q2OTHER,11,Adele,ade,I,Adele,GH
 r6,Q2OTHER,32,ADELE,ade,I,Adele,TG
 r6,Q2OTHER,6,AGHEM,agq,I,Aghem,CM
 r6,Q2OTHER,11,Ahanta,aha,I,Ahanta,GH
-r6,Q2OTHER,13,Ajuran,,,,KE
-r6,Q2OTHER,6,AKOSSE,,,,CM
+r6,Q2OTHER,13,Ajuran,mis,S,Uncoded languages,KE
+r6,Q2OTHER,6,AKOSSE,mis,S,Uncoded languages,CM
 r6,Q2OTHER,11,Akyode,acd,I,Gikyode,GH
 r6,Q2OTHER,24,ALAGO,ala,I,Alago,NG
-r6,Q2OTHER,8,ALLADJAN,,,,CI
+r6,Q2OTHER,8,ALLADJAN,mis,S,Uncoded languages,CI
 r6,Q2OTHER,6,AMBELE,ael,I,Ambele,CM
-r6,Q2OTHER,8,ANDOH,,,,CI
+r6,Q2OTHER,8,ANDOH,mis,S,Uncoded languages,CI
 r6,Q2OTHER,24,ANGAS,anc,I,Ngas,NG
 r6,Q2OTHER,24,ANKWE,ank,I,Goemai,NG
 r6,Q2OTHER,13,Arab,arb,I,Standard Arabic,KE
 r6,Q2OTHER,13,Arab,ara,M,Arabic,KE
 r6,Q2OTHER,6,ARABE,shu,I,Chadian Arabic,CM
 r6,Q2OTHER,6,ARABE,ara,M,Arabic,CM
-r6,Q2OTHER,6,ASHEM,,,,CM
+r6,Q2OTHER,6,ASHEM,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,ASUMB0,ass,I,Ipulo,CM
-r6,Q2OTHER,11,Atweti,,,,GH
-r6,Q2OTHER,24,AUKWE,,,,NG
+r6,Q2OTHER,11,Atweti,mis,S,Uncoded languages,GH
+r6,Q2OTHER,24,AUKWE,mis,S,Uncoded languages,NG
 r6,Q2OTHER,11,Avatime,avn,I,Avatime,GH
-r6,Q2OTHER,6,babadjon,,,,CM
+r6,Q2OTHER,6,babadjon,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,BABADJOU,nla,I,Ngombale,CM
 r6,Q2OTHER,24,BACHAMA,bcy,I,Bacama,NG
-r6,Q2OTHER,8,BACOUE,,,,CI
+r6,Q2OTHER,8,BACOUE,mis,S,Uncoded languages,CI
 r6,Q2OTHER,6,BADJOUE,ozm,I,Koonzime,CM
-r6,Q2OTHER,24,BADUKKE,,,,NG
+r6,Q2OTHER,24,BADUKKE,mis,S,Uncoded languages,NG
 r6,Q2OTHER,6,BAFANG,fmp,I,Fe'fe',CM
 r6,Q2OTHER,6,BAFAW,bwt,I,Bafaw-Balong,CM
-r6,Q2OTHER,6,BAFOUSSAM,,,,CM
+r6,Q2OTHER,6,BAFOUSSAM,mis,S,Uncoded languages,CM
 r6,Q2OTHER,12,BAGA,bcg,I,Baga Pokur,GN
 r6,Q2OTHER,34,BAGUNGU,rub,I,Gungu,UG
 r6,Q2OTHER,6,Baham,bbj,I,Ghomálá',CM
@@ -1344,63 +1346,63 @@ r6,Q2OTHER,24,BAJU,kaj,I,Jju,NG
 r6,Q2OTHER,13,Bajuni,swh,I,Swahili (individual language),KE
 r6,Q2OTHER,13,Bajuni,swa,M,Swahili (macrolanguage),KE
 r6,Q2OTHER,6,BAKOSI,bss,I,Akoose,CM
-r6,Q2OTHER,8,BAKOUE,,,,CI
+r6,Q2OTHER,8,BAKOUE,mis,S,Uncoded languages,CI
 r6,Q2OTHER,6,BAKWARI,bri,I,Mokpwe,CM
 r6,Q2OTHER,6,BAKWERE,bri,I,Mokpwe,CM
 r6,Q2OTHER,26,BALANTE,bjt,I,Balanta-Ganja,SN
-r6,Q2OTHER,6,BALCWERI,,,,CM
-r6,Q2OTHER,6,BALENG,,,,CM
-r6,Q2OTHER,6,BALENGOU,,,,CM
+r6,Q2OTHER,6,BALCWERI,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,BALENG,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,BALENGOU,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,BALI,mhk,I,Mungaka,CM
 r6,Q2OTHER,6,BALI NYONGA,mhk,I,Mungaka,CM
-r6,Q2OTHER,6,BALOUNDO,,,,CM
+r6,Q2OTHER,6,BALOUNDO,mis,S,Uncoded languages,CM
 r6,Q2OTHER,34,BALUYA,lsm,I,Saamia,UG
 r6,Q2OTHER,34,BALUYA,luy,M,Luyia,UG
 r6,Q2OTHER,6,BAMBELE,bag,I,Tuki,CM
 r6,Q2OTHER,6,BAMENDJING,xmg,I,Mengaka,CM
-r6,Q2OTHER,6,BAMOUGOUM,,,,CM
+r6,Q2OTHER,6,BAMOUGOUM,mis,S,Uncoded languages,CM
 r6,Q2OTHER,24,BANBAWA,bcv,I,Shoo-Minda-Nye,NG
 r6,Q2OTHER,24,BANDAWA,bcv,I,Shoo-Minda-Nye,NG
 r6,Q2OTHER,6,BANEN,tvu,I,Tunen,CM
-r6,Q2OTHER,6,BANVELE,,,,CM
-r6,Q2OTHER,24,BARUBA,,,,NG
+r6,Q2OTHER,6,BANVELE,mis,S,Uncoded languages,CM
+r6,Q2OTHER,24,BARUBA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,11,Basari,bud,I,Ntcham,GH
 r6,Q2OTHER,6,BASSO,nla,I,Ngombale,CM
 r6,Q2OTHER,6,BATA,bta,I,Bata,CM
-r6,Q2OTHER,6,BATANGA,ckx,I,Caka,CM
+r6,Q2OTHER,6,BATANGA,bnm,I,Batanga,CM
 r6,Q2OTHER,6,BATCHAM,nnh,I,Ngiemboon,CM
 r6,Q2OTHER,6,BATIBO,mgo,I,Meta',CM
-r6,Q2OTHER,11,Batoe,,,,GH
-r6,Q2OTHER,6,BATON,,,,CM
-r6,Q2OTHER,24,BAWAJE,,,,NG
-r6,Q2OTHER,6,BAWAN,,,,CM
-r6,Q2OTHER,24,BAWARA,,,,NG
+r6,Q2OTHER,11,Batoe,mis,S,Uncoded languages,GH
+r6,Q2OTHER,6,BATON,mis,S,Uncoded languages,CM
+r6,Q2OTHER,24,BAWAJE,mis,S,Uncoded languages,NG
+r6,Q2OTHER,6,BAWAN,mis,S,Uncoded languages,CM
+r6,Q2OTHER,24,BAWARA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,6,BEFANG,bby,I,Befang,CM
-r6,Q2OTHER,6,BELIBONACHI,,,,CM
-r6,Q2OTHER,4,BELLA,,,,BF
-r6,Q2OTHER,6,BENEGUN,,,,CM
-r6,Q2OTHER,6,BESA,,,,CM
+r6,Q2OTHER,6,BELIBONACHI,mis,S,Uncoded languages,CM
+r6,Q2OTHER,4,BELLA,mis,S,Uncoded languages,BF
+r6,Q2OTHER,6,BENEGUN,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,BESA,mis,S,Uncoded languages,CM
 r6,Q2OTHER,16,betsimisaraka,bmm,I,Northern Betsimisaraka Malagasy,MG
 r6,Q2OTHER,16,betsimisaraka,bzc,I,Southern Betsimisaraka Malagasy,MG
 r6,Q2OTHER,16,betsimisaraka,mlg,M,Malagasy,MG
-r6,Q2OTHER,26,BEUDICK,,,,SN
+r6,Q2OTHER,26,BEUDICK,mis,S,Uncoded languages,SN
 r6,Q2OTHER,19,Bhojpuri,bho,I,Bhojpuri,MU
 r6,Q2OTHER,2,BIALI,beh,I,Biali,BJ
 r6,Q2OTHER,11,Bimoba,bim,I,Bimoba,GH
 r6,Q2OTHER,11,Bissa,bib,I,Bissa,GH
 r6,Q2OTHER,36,BOCHA,mxc,I,Manyika,ZW
-r6,Q2OTHER,24,BOIYANA,,,,NG
+r6,Q2OTHER,24,BOIYANA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,11,Bono,abr,I,Abron,GH
 r6,Q2OTHER,13,Borana,gax,I,Borana-Arsi-Guji Oromo,KE
 r6,Q2OTHER,13,Borana,orm,M,Oromo,KE
-r6,Q2OTHER,29,Brown Amer language,,,,SD
+r6,Q2OTHER,29,Brown Amer language,mis,S,Uncoded languages,SD
 r6,Q2OTHER,6,BU,boe,I,Mundabli,CM
-r6,Q2OTHER,6,BUDA,,,,CM
+r6,Q2OTHER,6,BUDA,mis,S,Uncoded languages,CM
 r6,Q2OTHER,11,Buem,lef,I,Lelemi,GH
-r6,Q2OTHER,36,BUJA,,,,ZW
+r6,Q2OTHER,36,BUJA,mis,S,Uncoded languages,ZW
 r6,Q2OTHER,11,Buli,bwu,I,Buli (Ghana),GH
 r6,Q2OTHER,6,BULU,bum,I,Bulu (Cameroon),CM
-r6,Q2OTHER,24,BUSSA,,,,NG
+r6,Q2OTHER,24,BUSSA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,21,chaewa,nya,I,Nyanja,MZ
 r6,Q2OTHER,11,Chamba,bud,I,Ntcham,GH
 r6,Q2OTHER,21,CHENA,seh,I,Sena,MZ
@@ -1408,105 +1410,105 @@ r6,Q2OTHER,21,CHEUA,nya,I,Nyanja,MZ
 r6,Q2OTHER,21,chewa,nya,I,Nyanja,MZ
 r6,Q2OTHER,21,Chewa,nya,I,Nyanja,MZ
 r6,Q2OTHER,21,CHEWA,nya,I,Nyanja,MZ
-r6,Q2OTHER,36,CHEWA,,,,ZW
+r6,Q2OTHER,36,CHEWA,mis,S,Uncoded languages,ZW
 r6,Q2OTHER,21,chewe,nya,I,Nyanja,MZ
 r6,Q2OTHER,21,Chewe,nya,I,Nyanja,MZ
 r6,Q2OTHER,21,CHEWE,nya,I,Nyanja,MZ
 r6,Q2OTHER,35,chikunda,kdn,I,Kunda,ZM
-r6,Q2OTHER,17,Chimambwe,,,,MW
+r6,Q2OTHER,17,Chimambwe,mis,S,Uncoded languages,MW
 r6,Q2OTHER,17,Chindali,ndh,I,Ndali,MW
-r6,Q2OTHER,17,Chinyakyusa,,,,MW
+r6,Q2OTHER,17,Chinyakyusa,mis,S,Uncoded languages,MW
 r6,Q2OTHER,17,Chinyanja,nya,I,Nyanja,MW
 r6,Q2OTHER,17,Chinyika,nkv,I,Nyika (Malawi and Zambia),MW
-r6,Q2OTHER,17,Chinyungwe,,,,MW
+r6,Q2OTHER,17,Chinyungwe,mis,S,Uncoded languages,MW
 r6,Q2OTHER,17,Chiswahili,swh,I,Swahili (individual language),MW
 r6,Q2OTHER,17,Chiswahili,swa,M,Swahili (macrolanguage),MW
 r6,Q2OTHER,21,Chitcheiwa,nya,I,Nyanja,MZ
 r6,Q2OTHER,21,chitewe,twx,I,Tewe,MZ
 r6,Q2OTHER,21,CHITEWE,twx,I,Tewe,MZ
 r6,Q2OTHER,21,Chiteye,twx,I,Tewe,MZ
-r6,Q2OTHER,36,CHITOKO,,,,ZW
+r6,Q2OTHER,36,CHITOKO,mis,S,Uncoded languages,ZW
 r6,Q2OTHER,21,Chitsua,tsc,I,Tswa,MZ
 r6,Q2OTHER,21,chitxua,tsc,I,Tswa,MZ
 r6,Q2OTHER,21,CHITXUA,tsc,I,Tswa,MZ
-r6,Q2OTHER,17,Chiwandya,,,,MW
-r6,Q2OTHER,35,chiyamba,,,,ZM
-r6,Q2OTHER,21,Chona,,,,MZ
-r6,Q2OTHER,21,CHONA,,,,MZ
-r6,Q2OTHER,6,CHOUA,,,,CM
+r6,Q2OTHER,17,Chiwandya,mis,S,Uncoded languages,MW
+r6,Q2OTHER,35,chiyamba,mis,S,Uncoded languages,ZM
+r6,Q2OTHER,21,Chona,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,21,CHONA,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,6,CHOUA,mis,S,Uncoded languages,CM
 r6,Q2OTHER,11,Chukusi,cko,I,Anufo,GH
-r6,Q2OTHER,21,Chutcua,,,,MZ
+r6,Q2OTHER,21,Chutcua,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,26,CREOL,pov,I,Upper Guinea Crioulo,SN
 r6,Q2OTHER,6,DABA,dbq,I,Daba,CM
-r6,Q2OTHER,24,DADOR,,,,NG
+r6,Q2OTHER,24,DADOR,mis,S,Uncoded languages,NG
 r6,Q2OTHER,4,DAFING,rkm,I,Marka,BF
 r6,Q2OTHER,11,Dagaari,dga,I,Southern Dagaare,GH
 r6,Q2OTHER,24,DAKARKARI,dri,I,C'Lela,NG
-r6,Q2OTHER,6,DBO,,,,CM
-r6,Q2OTHER,11,Deg-(Moo),,,,GH
+r6,Q2OTHER,6,DBO,mis,S,Uncoded languages,CM
+r6,Q2OTHER,11,Deg-(Moo),mis,S,Uncoded languages,GH
 r6,Q2OTHER,24,DEGEMA,deg,I,Degema,NG
-r6,Q2OTHER,18,DIAKA,,,,ML
+r6,Q2OTHER,18,DIAKA,mis,S,Uncoded languages,ML
 r6,Q2OTHER,12,DIAKANKE,jad,I,Jahanka,GN
 r6,Q2OTHER,26,DIAKHANKE,mlq,I,Western Maninkakan,SN
 r6,Q2OTHER,26,DIAKHANKE,man,M,Mandingo,SN
 r6,Q2OTHER,13,Digo,dig,I,Digo,KE
 r6,Q2OTHER,4,DJERMA,dje,I,Zarma,BF
 r6,Q2OTHER,8,DJIMINI,dyi,I,Djimini Senoufo,CI
-r6,Q2OTHER,4,DOCCES,,,,BF
+r6,Q2OTHER,4,DOCCES,mis,S,Uncoded languages,BF
 r6,Q2OTHER,4,DOGON,djm,I,Jamsay Dogon,BF
 r6,Q2OTHER,4,DOGON,dtm,I,Tomo Kan Dogon,BF
 r6,Q2OTHER,4,DOGONS,djm,I,Jamsay Dogon,BF
 r6,Q2OTHER,4,DOGONS,dtm,I,Tomo Kan Dogon,BF
 r6,Q2OTHER,4,DOGOSE,dos,I,Dogosé,BF
-r6,Q2OTHER,11,Dolimuu,,,,GH
-r6,Q2OTHER,4,DONSIN,,,,BF
+r6,Q2OTHER,11,Dolimuu,mis,S,Uncoded languages,GH
+r6,Q2OTHER,4,DONSIN,mis,S,Uncoded languages,BF
 r6,Q2OTHER,6,DOUROU,dur,I,Dii,CM
 r6,Q2OTHER,6,DSCHANG,ybb,I,Yemba,CM
-r6,Q2OTHER,36,DUMBE,,,,ZW
+r6,Q2OTHER,36,DUMBE,mis,S,Uncoded languages,ZW
 r6,Q2OTHER,13,Duruma,dug,I,Duruma,KE
 r6,Q2OTHER,8,EBRIE,ebr,I,Ebrié,CI
-r6,Q2OTHER,6,EDJAGHAM,,,,CM
+r6,Q2OTHER,6,EDJAGHAM,mis,S,Uncoded languages,CM
 r6,Q2OTHER,8,EGA,ega,I,Ega,CI
 r6,Q2OTHER,24,EGGON,ego,I,Eggon,NG
-r6,Q2OTHER,24,EGI,,,,NG
+r6,Q2OTHER,24,EGI,mis,S,Uncoded languages,NG
 r6,Q2OTHER,6,EJAGHAM,etu,I,Ejagham,CM
-r6,Q2OTHER,6,EJAKA,,,,CM
-r6,Q2OTHER,6,EJAKAM,,,,CM
+r6,Q2OTHER,6,EJAKA,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,EJAKAM,mis,S,Uncoded languages,CM
 r6,Q2OTHER,21,EKOTE,eko,I,Koti,MZ
 r6,Q2OTHER,6,ELAM EGUO,ags,I,Esimbi,CM
 r6,Q2OTHER,6,ELAM EQU0,ags,I,Esimbi,CM
-r6,Q2OTHER,6,ELAM EQUO,,,,CM
+r6,Q2OTHER,6,ELAM EQUO,mis,S,Uncoded languages,CM
 r6,Q2OTHER,24,ELEME,elm,I,Eleme,NG
 r6,Q2OTHER,6,ESIMBI,ags,I,Esimbi,CM
 r6,Q2OTHER,6,ESSIMBI,ags,I,Esimbi,CM
-r6,Q2OTHER,6,ETENGA,,,,CM
+r6,Q2OTHER,6,ETENGA,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,ETON,eto,I,Eton (Cameroon),CM
 r6,Q2OTHER,11,Ewe and Fante,mul,S,Multiple languages,GH
 r6,Q2OTHER,6,EWODI,dua,I,Duala,CM
-r6,Q2OTHER,24,FAKAMA,,,,NG
-r6,Q2OTHER,24,FAKAWA,,,,NG
+r6,Q2OTHER,24,FAKAMA,mis,S,Uncoded languages,NG
+r6,Q2OTHER,24,FAKAWA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,24,FALI,fli,I,Fali,NG
-r6,Q2OTHER,24,FALIYA,,,,NG
+r6,Q2OTHER,24,FALIYA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,6,FANG,fan,I,Fang (Equatorial Guinea),CM
-r6,Q2OTHER,24,FEMAWA,,,,NG
+r6,Q2OTHER,24,FEMAWA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,4,FORGERON (NOUMOU),cpo,I,Kpeego,BF
 r6,Q2OTHER,11,Frafra,gur,I,Farefare,GH
 r6,Q2OTHER,6,FULAMI,fub,I,Adamawa Fulfulde,CM
 r6,Q2OTHER,6,FULAMI,ful,M,Fulah,CM
 r6,Q2OTHER,6,FULANE,fub,I,Adamawa Fulfulde,CM
 r6,Q2OTHER,6,FULANE,ful,M,Fulah,CM
-r6,Q2OTHER,6,GABSIKI,,,,CM
+r6,Q2OTHER,6,GABSIKI,mis,S,Uncoded languages,CM
 r6,Q2OTHER,8,GAGOU,ggu,I,Gagu,CI
-r6,Q2OTHER,8,GAIN,,,,CI
+r6,Q2OTHER,8,GAIN,mis,S,Uncoded languages,CI
 r6,Q2OTHER,13,Garre,swh,I,Swahili (individual language),KE
 r6,Q2OTHER,13,Garre,swa,M,Swahili (macrolanguage),KE
-r6,Q2OTHER,11,Gawu,,,,GH
+r6,Q2OTHER,11,Gawu,mis,S,Uncoded languages,GH
 r6,Q2OTHER,24,GBAGI,gbr,I,Gbagyi,NG
 r6,Q2OTHER,11,Gekyode,acd,I,Gikyode,GH
-r6,Q2OTHER,6,GHEMBA,,,,CM
+r6,Q2OTHER,6,GHEMBA,mis,S,Uncoded languages,CM
 r6,Q2OTHER,13,Giriama,nyf,I,Giryama,KE
-r6,Q2OTHER,8,GNANBOUA,,,,CI
-r6,Q2OTHER,8,GNIDEBOUA,,,,CI
+r6,Q2OTHER,8,GNANBOUA,mis,S,Uncoded languages,CI
+r6,Q2OTHER,8,GNIDEBOUA,mis,S,Uncoded languages,CI
 r6,Q2OTHER,24,GOMU,gwg,I,Moo,NG
 r6,Q2OTHER,11,Gonja,gjn,I,Gonja,GH
 r6,Q2OTHER,11,Gruma,bim,I,Bimoba,GH
@@ -1524,7 +1526,7 @@ r6,Q2OTHER,24,GWONG,kdm,I,Kagoma,NG
 r6,Q2OTHER,2,HAOUSSA,hau,I,Hausa,BJ
 r6,Q2OTHER,10,HAOUSSA,hau,I,Hausa,GA
 r6,Q2OTHER,23,HAOUSSA,hau,I,Hausa,NE
-r6,Q2OTHER,6,IBO,,,,CM
+r6,Q2OTHER,6,IBO,mis,S,Uncoded languages,CM
 r6,Q2OTHER,24,ICHEN,ich,I,Etkywan,NG
 r6,Q2OTHER,30,Indian,und,S,Undetermined,SZ
 r6,Q2OTHER,30,Isizulu,zul,I,Zulu,SZ
@@ -1532,46 +1534,47 @@ r6,Q2OTHER,6,ISU,szv,I,Isu (Fako Division),CM
 r6,Q2OTHER,28,Ithopiwa,amh,I,Amharic,ZA
 r6,Q2OTHER,24,IYALA,yba,I,Yala,NG
 r6,Q2OTHER,24,JABA,ldb,I,Dũya,NG
+r6,Q2OTHER,24,JARAWA,jgk,I,Gwak,NG
 r6,Q2OTHER,24,JARAWA,jjr,I,Bankal,NG
 r6,Q2OTHER,24,JENJO,jen,I,Dza,NG
 r6,Q2OTHER,24,JUKUM,juk,I,Wapan,NG
 r6,Q2OTHER,24,JUKUN,jbu,I,Jukun Takum,NG
 r6,Q2OTHER,24,JUKUN WANU,jub,I,Wannu,NG
 r6,Q2OTHER,11,Kaakye,kye,I,Krache,GH
-r6,Q2OTHER,24,KAGARA,,,,NG
+r6,Q2OTHER,24,KAGARA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,24,KAGOMA,kdm,I,Kagoma,NG
 r6,Q2OTHER,24,KAGORO,kcg,I,Tyap,NG
-r6,Q2OTHER,24,KAIKA,,,,NG
+r6,Q2OTHER,24,KAIKA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,24,KAKA,yam,I,Yamba,NG
-r6,Q2OTHER,24,KAKABARI,,,,NG
+r6,Q2OTHER,24,KAKABARI,mis,S,Uncoded languages,NG
 r6,Q2OTHER,34,KAKWA,keo,I,Kakwa,UG
 r6,Q2OTHER,24,KALABARI,ijn,I,Kalabari,NG
-r6,Q2OTHER,4,KARABORO,,,,BF
-r6,Q2OTHER,11,Kasari,,,,GH
+r6,Q2OTHER,4,KARABORO,mis,S,Uncoded languages,BF
+r6,Q2OTHER,11,Kasari,mis,S,Uncoded languages,GH
 r6,Q2OTHER,11,Kasem,xsm,I,Kasem,GH
 r6,Q2OTHER,24,KATAF,kcg,I,Tyap,NG
-r6,Q2OTHER,24,KATONGU,,,,NG
+r6,Q2OTHER,24,KATONGU,mis,S,Uncoded languages,NG
 r6,Q2OTHER,28,KHOI,naq,I,Khoekhoe,ZA
 r6,Q2OTHER,28,KHOIS,naq,I,Khoekhoe,ZA
 r6,Q2OTHER,28,KHOISAN,naq,I,Khoekhoe,ZA
-r6,Q2OTHER,31,KIARUSHA,,,,TZ
+r6,Q2OTHER,31,KIARUSHA,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KIBEMBE,bmb,I,Bembe,TZ
 r6,Q2OTHER,31,KIBENA,bez,I,Bena (Tanzania),TZ
 r6,Q2OTHER,31,KIBONDEI,bou,I,Bondei,TZ
-r6,Q2OTHER,31,KIBORANA,,,,TZ
+r6,Q2OTHER,31,KIBORANA,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KIBUNGU,wun,I,Bungu,TZ
 r6,Q2OTHER,31,KIDIGO,dig,I,Digo,TZ
 r6,Q2OTHER,31,KIDOE,doe,I,Doe,TZ
-r6,Q2OTHER,31,KIGUNYA,,,,TZ
+r6,Q2OTHER,31,KIGUNYA,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KIHA,haq,I,Ha,TZ
 r6,Q2OTHER,31,KIHANGAZA,han,I,Hangaza,TZ
 r6,Q2OTHER,31,KIIKIZU,ikz,I,Ikizu,TZ
-r6,Q2OTHER,31,KIIRAQ,,,,TZ
-r6,Q2OTHER,31,KIJAHIDIRI,,,,TZ
-r6,Q2OTHER,31,KIJALUO,,,,TZ
+r6,Q2OTHER,31,KIIRAQ,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KIJAHIDIRI,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KIJALUO,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KIJITA,jit,I,Jita,TZ
 r6,Q2OTHER,31,KIKABWA,cwa,I,Kabwa,TZ
-r6,Q2OTHER,31,KIKAGURU,,,,TZ
+r6,Q2OTHER,31,KIKAGURU,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KIKAHE,hka,I,Kahe,TZ
 r6,Q2OTHER,31,KIKARA,reg,I,Kara (Tanzania),TZ
 r6,Q2OTHER,31,KIKEREWE,ked,I,Kerewe,TZ
@@ -1580,39 +1583,39 @@ r6,Q2OTHER,31,KIKINE,ssc,I,Suba-Simbiti,TZ
 r6,Q2OTHER,31,KIKINGA,zga,I,Kinga,TZ
 r6,Q2OTHER,31,KIKONONGO,kcz,I,Konongo,TZ
 r6,Q2OTHER,31,KIKWAYA,kya,I,Kwaya,TZ
-r6,Q2OTHER,24,KILBA BABAR,,,,NG
-r6,Q2OTHER,31,KILONGO,,,,TZ
-r6,Q2OTHER,31,KIMAKUNDUCHI,,,,TZ
-r6,Q2OTHER,31,KIMAKUWA,,,,TZ
-r6,Q2OTHER,31,KIMALILI,,,,TZ
-r6,Q2OTHER,31,KIMANG'ATI,,,,TZ
-r6,Q2OTHER,31,KIMATAMBWE,,,,TZ
+r6,Q2OTHER,24,KILBA BABAR,mis,S,Uncoded languages,NG
+r6,Q2OTHER,31,KILONGO,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KIMAKUNDUCHI,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KIMAKUWA,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KIMALILI,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KIMANG'ATI,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KIMATAMBWE,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KIMATENGO,mgv,I,Matengo,TZ
 r6,Q2OTHER,31,KIMATUMBI,mgw,I,Matumbi,TZ
-r6,Q2OTHER,31,KIMAZURUNI,,,,TZ
-r6,Q2OTHER,31,KIMBULU,,,,TZ
+r6,Q2OTHER,31,KIMAZURUNI,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KIMBULU,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KIMWERA,mwe,I,Mwera (Chimwera),TZ
 r6,Q2OTHER,31,KINDALI,ndh,I,Ndali,TZ
 r6,Q2OTHER,31,KINDAMBA,ndj,I,Ndamba,TZ
 r6,Q2OTHER,31,KINDENDEULE,dne,I,Ndendeule,TZ
 r6,Q2OTHER,31,KINDENGEREKO,ndg,I,Ndengereko,TZ
-r6,Q2OTHER,31,KINDONDE,,,,TZ
-r6,Q2OTHER,31,KINDYEWE,,,,TZ
+r6,Q2OTHER,31,KINDONDE,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KINDYEWE,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KINGINDO,nnq,I,Ngindo,TZ
-r6,Q2OTHER,31,KINGUU,,,,TZ
+r6,Q2OTHER,31,KINGUU,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KINYAMBO,now,I,Nyambo,TZ
 r6,Q2OTHER,31,KINYAMWANGA,mwn,I,Nyamwanga,TZ
-r6,Q2OTHER,31,KINYANTUZU,,,,TZ
+r6,Q2OTHER,31,KINYANTUZU,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,34,KINYARWANDA,kin,I,Kinyarwanda,UG
 r6,Q2OTHER,31,KINYASA,mpa,I,Mpoto,TZ
 r6,Q2OTHER,31,KINYATURU,rim,I,Nyaturu,TZ
 r6,Q2OTHER,31,KINYIHA,nkt,I,Nyika (Tanzania),TZ
-r6,Q2OTHER,31,KINYIMBO,,,,TZ
-r6,Q2OTHER,31,KINYIRAMBA,,,,TZ
+r6,Q2OTHER,31,KINYIMBO,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KINYIRAMBA,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KINYISANZU,isn,I,Isanzu,TZ
 r6,Q2OTHER,31,KIPANGWA,pbr,I,Pangwa,TZ
-r6,Q2OTHER,31,KIPEMBA,,,,TZ
-r6,Q2OTHER,31,KIPOGORO,,,,TZ
+r6,Q2OTHER,31,KIPEMBA,mis,S,Uncoded languages,TZ
+r6,Q2OTHER,31,KIPOGORO,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,13,Kipsigis,sgc,I,Kipsigis,KE
 r6,Q2OTHER,13,Kipsigis,kln,M,Kalenjin,KE
 r6,Q2OTHER,31,KIRANGI,lag,I,Langi,TZ
@@ -1622,15 +1625,15 @@ r6,Q2OTHER,31,KISAMBAA,ksb,I,Shambala,TZ
 r6,Q2OTHER,31,KISANDAWE,sad,I,Sandawe,TZ
 r6,Q2OTHER,31,KISANGU,sbp,I,Sangu (Tanzania),TZ
 r6,Q2OTHER,31,KISEGEJU,seg,I,Segeju,TZ
-r6,Q2OTHER,31,KISHIRAZI,,,,TZ
+r6,Q2OTHER,31,KISHIRAZI,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KISIMBITI,ssc,I,Suba-Simbiti,TZ
 r6,Q2OTHER,31,KISIZAKI,ikz,I,Ikizu,TZ
 r6,Q2OTHER,12,KISSI,kqs,I,Northern Kissi,GN
 r6,Q2OTHER,31,KISUBI,suj,I,Shubi,TZ
 r6,Q2OTHER,31,KISUMBWA,suw,I,Sumbwa,TZ
-r6,Q2OTHER,31,KITATURU,,,,TZ
+r6,Q2OTHER,31,KITATURU,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KITONGWE,tny,I,Tongwe,TZ
-r6,Q2OTHER,31,KITUMBATU,,,,TZ
+r6,Q2OTHER,31,KITUMBATU,mis,S,Uncoded languages,TZ
 r6,Q2OTHER,31,KIWANJI,wbi,I,Vwanji,TZ
 r6,Q2OTHER,31,KIYAO,yao,I,Yao,TZ
 r6,Q2OTHER,31,KIZANAKI,zak,I,Zanaki,TZ
@@ -1642,12 +1645,12 @@ r6,Q2OTHER,11,Kokomba,xon,I,Konkomba,GH
 r6,Q2OTHER,6,Kom,nfu,I,Mfumte,CM
 r6,Q2OTHER,6,KOM,nfu,I,Mfumte,CM
 r6,Q2OTHER,4,KOMONO,kqm,I,Khisa,BF
-r6,Q2OTHER,8,KOMONON,,,,CI
+r6,Q2OTHER,8,KOMONON,mis,S,Uncoded languages,CI
 r6,Q2OTHER,24,KONA,juo,I,Jiba,NG
-r6,Q2OTHER,26,KONIADIE,,,,SN
+r6,Q2OTHER,26,KONIADIE,mis,S,Uncoded languages,SN
 r6,Q2OTHER,12,KONO,knu,I,Kono (Guinea),GN
 r6,Q2OTHER,12,KONON,knu,I,Kono (Guinea),GN
-r6,Q2OTHER,6,KOTOKO,,,,CM
+r6,Q2OTHER,6,KOTOKO,mis,S,Uncoded languages,CM
 r6,Q2OTHER,11,Kotokoli,kdh,I,Tem,GH
 r6,Q2OTHER,11,Kotokoli/Chamba,kdh,I,Tem,GH
 r6,Q2OTHER,8,KOUZIE,nwb,I,Nyabwa,CI
@@ -1660,29 +1663,29 @@ r6,Q2OTHER,13,Kuria,kuj,I,Kuria,KE
 r6,Q2OTHER,11,Kusal,kus,I,Kusaal,GH
 r6,Q2OTHER,24,KUTEB,kub,I,Kutep,NG
 r6,Q2OTHER,11,Kwahu,aka,M,Akan,GH
-r6,Q2OTHER,6,LAKA,,,,CM
-r6,Q2OTHER,35,lambia,,,,ZM
-r6,Q2OTHER,6,LAMBO,,,,CM
+r6,Q2OTHER,6,LAKA,mis,S,Uncoded languages,CM
+r6,Q2OTHER,35,lambia,mis,S,Uncoded languages,ZM
+r6,Q2OTHER,6,LAMBO,mis,S,Uncoded languages,CM
 r6,Q2OTHER,12,LANDOUMA,ldm,I,Landoma,GN
-r6,Q2OTHER,29,Language Almapat,,,,SD
+r6,Q2OTHER,29,Language Almapat,mis,S,Uncoded languages,SD
 r6,Q2OTHER,29,Language Fellata,fub,I,Adamawa Fulfulde,SD
 r6,Q2OTHER,29,Language Fellata,ful,M,Fulah,SD
-r6,Q2OTHER,29,Language Inqasna,,,,SD
-r6,Q2OTHER,24,LANTA,,,,NG
+r6,Q2OTHER,29,Language Inqasna,mis,S,Uncoded languages,SD
+r6,Q2OTHER,24,LANTA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,24,LARU,lan,I,Laru,NG
-r6,Q2OTHER,24,LAWABE,,,,NG
+r6,Q2OTHER,24,LAWABE,mis,S,Uncoded languages,NG
 r6,Q2OTHER,34,LENDU,led,I,Lendu,UG
-r6,Q2OTHER,21,ligete,,,,MZ
-r6,Q2OTHER,21,LIGODE,,,,MZ
-r6,Q2OTHER,21,Ligote,,,,MZ
-r6,Q2OTHER,21,LIGOUTE,,,,MZ
+r6,Q2OTHER,21,ligete,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,21,LIGODE,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,21,Ligote,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,21,LIGOUTE,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,11,Likpakpaln,xon,I,Konkomba,GH
 r6,Q2OTHER,6,LIMBUM,lmp,I,Limbum,CM
 r6,Q2OTHER,21,LINGUA MAPEX,por,I,Portuguese,MZ
 r6,Q2OTHER,11,Logba,lgq,I,Logba,GH
 r6,Q2OTHER,32,LOGBA,dop,I,Lukpa,TG
-r6,Q2OTHER,21,loriba,,,,MZ
-r6,Q2OTHER,36,LOZWI,,,,ZW
+r6,Q2OTHER,21,loriba,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,36,LOZWI,mis,S,Uncoded languages,ZW
 r6,Q2OTHER,35,luchazi,lch,I,Luchazi,ZM
 r6,Q2OTHER,34,LUDAMA,adh,I,Adhola,UG
 r6,Q2OTHER,34,LUFUMBIRA,kin,I,Kinyarwanda,UG
@@ -1690,141 +1693,141 @@ r6,Q2OTHER,34,LUGWERE,gwr,I,Gwere,UG
 r6,Q2OTHER,34,LUJALUWO,alz,I,Alur,UG
 r6,Q2OTHER,34,LULAMOGI,xog,I,Soga,UG
 r6,Q2OTHER,34,LULURI,ruc,I,Ruuli,UG
-r6,Q2OTHER,24,LUMAMA,,,,NG
+r6,Q2OTHER,24,LUMAMA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,24,LUNGUDA,lnu,I,Longuda,NG
-r6,Q2OTHER,21,luniga,,,,MZ
+r6,Q2OTHER,21,luniga,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,34,LUNYALA,ruc,I,Ruuli,UG
 r6,Q2OTHER,34,LUNYARA,ruc,I,Ruuli,UG
 r6,Q2OTHER,34,LUO,ach,I,Acoli,UG
 r6,Q2OTHER,34,LUO,alz,I,Alur,UG
 r6,Q2OTHER,34,LURURU,ruc,I,Ruuli,UG
 r6,Q2OTHER,8,M'BATTO,gwa,I,Mbato,CI
-r6,Q2OTHER,21,Mabawe,,,,MZ
+r6,Q2OTHER,21,Mabawe,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,6,MABI,nmg,I,Kwasio,CM
 r6,Q2OTHER,6,MADA,mxu,I,Mada (Cameroon),CM
-r6,Q2OTHER,22,Mafwe,,,,NA
-r6,Q2OTHER,21,MAHAWEA,,,,MZ
+r6,Q2OTHER,22,Mafwe,mis,S,Uncoded languages,NA
+r6,Q2OTHER,21,MAHAWEA,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,8,MAHOHKA,mxx,I,Mahou,CI
 r6,Q2OTHER,8,MAHOUKA,mxx,I,Mahou,CI
 r6,Q2OTHER,21,Maindo,cwb,I,Maindo,MZ
 r6,Q2OTHER,11,Mampruli,maw,I,Mampruli,GH
-r6,Q2OTHER,24,MAMUNYE,,,,NG
+r6,Q2OTHER,24,MAMUNYE,mis,S,Uncoded languages,NG
 r6,Q2OTHER,6,MANDARA,mfi,I,Wandala,CM
-r6,Q2OTHER,4,MANDARAI,,,,BF
-r6,Q2OTHER,21,MANHGUE,,,,MZ
+r6,Q2OTHER,4,MANDARAI,mis,S,Uncoded languages,BF
+r6,Q2OTHER,21,MANHGUE,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,21,Manhungue,mxc,I,Manyika,MZ
-r6,Q2OTHER,26,MANKAGNE,,,,SN
-r6,Q2OTHER,21,MAONE,,,,MZ
-r6,Q2OTHER,21,MAPEX,,,,MZ
+r6,Q2OTHER,26,MANKAGNE,mis,S,Uncoded languages,SN
+r6,Q2OTHER,21,MAONE,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,21,MAPEX,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,13,Maragoli,rag,I,Logooli,KE
 r6,Q2OTHER,13,Maragoli,luy,M,Luyia,KE
 r6,Q2OTHER,21,maronga,rng,I,Ronga,MZ
 r6,Q2OTHER,21,MARONGA,rng,I,Ronga,MZ
 r6,Q2OTHER,6,MASSA,mcn,I,Masana,CM
 r6,Q2OTHER,21,MASSEMA,seh,I,Sena,MZ
-r6,Q2OTHER,26,MASSONKE,,,,SN
-r6,Q2OTHER,21,MATCWE,,,,MZ
-r6,Q2OTHER,21,MATEU,,,,MZ
+r6,Q2OTHER,26,MASSONKE,mis,S,Uncoded languages,SN
+r6,Q2OTHER,21,MATCWE,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,21,MATEU,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,21,matewe,twx,I,Tewe,MZ
 r6,Q2OTHER,21,MATEWE,twx,I,Tewe,MZ
-r6,Q2OTHER,21,mateyu,,,,MZ
+r6,Q2OTHER,21,mateyu,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,21,Matowe,twx,I,Tewe,MZ
 r6,Q2OTHER,21,matsua,tsc,I,Tswa,MZ
 r6,Q2OTHER,21,MATSUA,tsc,I,Tswa,MZ
 r6,Q2OTHER,21,MATSWA,tsc,I,Tswa,MZ
 r6,Q2OTHER,21,MATXSUA,tsc,I,Tswa,MZ
-r6,Q2OTHER,36,MAUNGWE,,,,ZW
-r6,Q2OTHER,26,MAURE,,,,SN
+r6,Q2OTHER,36,MAUNGWE,mis,S,Uncoded languages,ZW
+r6,Q2OTHER,26,MAURE,mis,S,Uncoded languages,SN
 r6,Q2OTHER,6,MBA VELE,bag,I,Tuki,CM
-r6,Q2OTHER,6,MBAMOISE,,,,CM
+r6,Q2OTHER,6,MBAMOISE,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,MBANG,bkh,I,Bakoko,CM
-r6,Q2OTHER,6,MBE MBE,,,,CM
-r6,Q2OTHER,6,MBESAH,,,,CM
-r6,Q2OTHER,6,MBESSA,,,,CM
+r6,Q2OTHER,6,MBE MBE,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,MBESAH,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,MBESSA,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,MBO,mbo,I,Mbo (Cameroon),CM
-r6,Q2OTHER,6,MBO'O,,,,CM
+r6,Q2OTHER,6,MBO'O,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,MBORORO,fuv,I,Nigerian Fulfulde,CM
 r6,Q2OTHER,6,MBORORO,ful,M,Fulah,CM
-r6,Q2OTHER,36,MDOMBE,,,,ZW
+r6,Q2OTHER,36,MDOMBE,mis,S,Uncoded languages,ZW
 r6,Q2OTHER,21,Medindo,cwb,I,Maindo,MZ
-r6,Q2OTHER,6,MEFI,,,,CM
-r6,Q2OTHER,6,META,,,,CM
-r6,Q2OTHER,6,METSA,,,,CM
-r6,Q2OTHER,6,MEZIMA,,,,CM
-r6,Q2OTHER,22,Mhalangwe,,,,NA
-r6,Q2OTHER,24,MICHINKA,,,,NG
+r6,Q2OTHER,6,MEFI,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,META,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,METSA,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,MEZIMA,mis,S,Uncoded languages,CM
+r6,Q2OTHER,22,Mhalangwe,mis,S,Uncoded languages,NA
+r6,Q2OTHER,24,MICHINKA,mis,S,Uncoded languages,NG
 r6,Q2OTHER,12,MIKHIFORE,mfg,I,Mogofin,GN
 r6,Q2OTHER,12,MIKIFORE,mfg,I,Mogofin,GN
-r6,Q2OTHER,35,mikundu,,,,ZM
-r6,Q2OTHER,24,MINCHIKA,,,,NG
-r6,Q2OTHER,6,MISANJE,,,,CM
+r6,Q2OTHER,35,mikundu,mis,S,Uncoded languages,ZM
+r6,Q2OTHER,24,MINCHIKA,mis,S,Uncoded languages,NG
+r6,Q2OTHER,6,MISANJE,mis,S,Uncoded languages,CM
 r6,Q2OTHER,11,Mo,mzw,I,Deg,GH
-r6,Q2OTHER,6,MOGHAGNO,,,,CM
+r6,Q2OTHER,6,MOGHAGNO,mis,S,Uncoded languages,CM
 r6,Q2OTHER,21,MONGA,rng,I,Ronga,MZ
-r6,Q2OTHER,6,MONGHAKA,,,,CM
-r6,Q2OTHER,21,moniaco,,,,MZ
+r6,Q2OTHER,6,MONGHAKA,mis,S,Uncoded languages,CM
+r6,Q2OTHER,21,moniaco,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,21,moniga,mhm,I,Makhuwa-Moniga,MZ
 r6,Q2OTHER,21,MONIGA,mhm,I,Makhuwa-Moniga,MZ
-r6,Q2OTHER,3,MOROTSI,,,,BW
+r6,Q2OTHER,3,MOROTSI,mis,S,Uncoded languages,BW
 r6,Q2OTHER,11,Moshie,mos,I,Mossi,GH
 r6,Q2OTHER,18,MOSSI,mos,I,Mossi,ML
 r6,Q2OTHER,32,MOSSI,mos,I,Mossi,TG
-r6,Q2OTHER,23,MOSSICTHE,,,,NE
-r6,Q2OTHER,6,MOUDANI,,,,CM
-r6,Q2OTHER,6,MOUDINI,,,,CM
-r6,Q2OTHER,6,MOUGOUM,,,,CM
+r6,Q2OTHER,23,MOSSICTHE,mis,S,Uncoded languages,NE
+r6,Q2OTHER,6,MOUDANI,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,MOUDINI,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,MOUGOUM,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,MOUNDANG,mua,I,Mundang,CM
 r6,Q2OTHER,6,MOUSGOUM,mug,I,Musgu,CM
 r6,Q2OTHER,6,MOUSGOUN,mug,I,Musgu,CM
 r6,Q2OTHER,21,Mtsua,tsc,I,Tswa,MZ
-r6,Q2OTHER,21,MUali,,,,MZ
-r6,Q2OTHER,21,MUALI,,,,MZ
+r6,Q2OTHER,21,MUali,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,21,MUALI,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,21,MUANDI,wmw,I,Mwani,MZ
 r6,Q2OTHER,21,muani,wmw,I,Mwani,MZ
 r6,Q2OTHER,21,MUANI,wmw,I,Mwani,MZ
 r6,Q2OTHER,21,MUANY,wmw,I,Mwani,MZ
 r6,Q2OTHER,6,MUBAKO,muo,I,Nyong,CM
-r6,Q2OTHER,6,MUDELE,,,,CM
-r6,Q2OTHER,6,MUGAKA,,,,CM
+r6,Q2OTHER,6,MUDELE,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,MUGAKA,mis,S,Uncoded languages,CM
 r6,Q2OTHER,34,MULAMOGI,xog,I,Soga,UG
-r6,Q2OTHER,24,MUMUGAR,,,,NG
+r6,Q2OTHER,24,MUMUGAR,mis,S,Uncoded languages,NG
 r6,Q2OTHER,24,MUMUYE,mzm,I,Mumuye,NG
 r6,Q2OTHER,21,MUNGA,mhm,I,Makhuwa-Moniga,MZ
-r6,Q2OTHER,21,MUNI,,,,MZ
+r6,Q2OTHER,21,MUNI,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,21,muninga,mhm,I,Makhuwa-Moniga,MZ
-r6,Q2OTHER,34,MUNYABINDI,,,,UG
+r6,Q2OTHER,34,MUNYABINDI,mis,S,Uncoded languages,UG
 r6,Q2OTHER,13,Munyaya,orc,I,Orma,KE
 r6,Q2OTHER,13,Munyaya,orm,M,Oromo,KE
 r6,Q2OTHER,24,MUPUN,sur,I,Mwaghavul,NG
 r6,Q2OTHER,34,MURUNDI,run,I,Rundi,UG
 r6,Q2OTHER,6,MUSGUM,mug,I,Musgu,CM
-r6,Q2OTHER,36,MUSHANGWE,,,,ZW
+r6,Q2OTHER,36,MUSHANGWE,mis,S,Uncoded languages,ZW
 r6,Q2OTHER,24,MWANGAVUL,sur,I,Mwaghavul,NG
 r6,Q2OTHER,11,Nabdam,gur,I,Farefare,GH
 r6,Q2OTHER,11,Nahumuru,ncu,I,Chumburung,GH
 r6,Q2OTHER,21,Naindo,cwb,I,Maindo,MZ
 r6,Q2OTHER,36,NAMBYA,nmq,I,Nambya,ZW
-r6,Q2OTHER,21,NAMICA,,,,MZ
+r6,Q2OTHER,21,NAMICA,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,13,Nandi,niq,I,Nandi,KE
 r6,Q2OTHER,13,Nandi,kln,M,Kalenjin,KE
 r6,Q2OTHER,11,Nankani,gur,I,Farefare,GH
-r6,Q2OTHER,21,NAONIGA,,,,MZ
+r6,Q2OTHER,21,NAONIGA,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,8,NATURALISE,und,S,Undetermined,CI
 r6,Q2OTHER,11,Nawuri,naw,I,Nawuri,GH
-r6,Q2OTHER,6,NCHANI,,,,CM
-r6,Q2OTHER,6,NCHANIH,,,,CM
+r6,Q2OTHER,6,NCHANI,mis,S,Uncoded languages,CM
+r6,Q2OTHER,6,NCHANIH,mis,S,Uncoded languages,CM
 r6,Q2OTHER,24,NDALA,ndr,I,Ndoola,NG
-r6,Q2OTHER,35,ndebele,,,,ZM
-r6,Q2OTHER,30,Ndebele,,,,SZ
+r6,Q2OTHER,35,ndebele,mis,S,Uncoded languages,ZM
+r6,Q2OTHER,30,Ndebele,mis,S,Uncoded languages,SZ
 r6,Q2OTHER,3,NDEBELE,nde,I,North Ndebele,BW
-r6,Q2OTHER,6,NGAMBAYE,,,,CM
+r6,Q2OTHER,6,NGAMBAYE,mis,S,Uncoded languages,CM
 r6,Q2OTHER,24,NGAS,anc,I,Ngas,NG
 r6,Q2OTHER,6,NGEMBA,nge,I,Ngemba,CM
-r6,Q2OTHER,6,NGOA,,,,CM
-r6,Q2OTHER,21,NGONY,,,,MZ
-r6,Q2OTHER,6,NGOU,,,,CM
+r6,Q2OTHER,6,NGOA,mis,S,Uncoded languages,CM
+r6,Q2OTHER,21,NGONY,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,6,NGOU,mis,S,Uncoded languages,CM
 r6,Q2OTHER,21,Ngungue,nyu,I,Nyungwe,MZ
-r6,Q2OTHER,6,NGUO,,,,CM
+r6,Q2OTHER,6,NGUO,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,NGYEMBOON,nnh,I,Ngiemboon,CM
 r6,Q2OTHER,21,NHUGUE,nyu,I,Nyungwe,MZ
 r6,Q2OTHER,21,NHUMGUE,nyu,I,Nyungwe,MZ
@@ -1837,23 +1840,23 @@ r6,Q2OTHER,21,NHUNGWE,nyu,I,Nyungwe,MZ
 r6,Q2OTHER,21,Nhunhue,nyu,I,Nyungwe,MZ
 r6,Q2OTHER,21,NHUNQUE,nyu,I,Nyungwe,MZ
 r6,Q2OTHER,24,NINZOM,nin,I,Ninzo,NG
-r6,Q2OTHER,36,NLEYA ZAMBIA,,,,ZW
-r6,Q2OTHER,6,NNAGA EBOKO,,,,CM
+r6,Q2OTHER,36,NLEYA ZAMBIA,mis,S,Uncoded languages,ZW
+r6,Q2OTHER,6,NNAGA EBOKO,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,NONI,nhu,I,Noone,CM
-r6,Q2OTHER,6,NSIE,,,,CM
+r6,Q2OTHER,6,NSIE,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,NSO,lns,I,Lamnso',CM
-r6,Q2OTHER,35,nswaka,,,,ZM
+r6,Q2OTHER,35,nswaka,mis,S,Uncoded languages,ZM
 r6,Q2OTHER,13,Nubi,kcn,I,Nubi,KE
 r6,Q2OTHER,24,NUMANA,nbr,I,Numana-Nunku-Gbantu-Numbu,NG
-r6,Q2OTHER,21,nunga,,,,MZ
-r6,Q2OTHER,21,NUTO,,,,MZ
+r6,Q2OTHER,21,nunga,mis,S,Uncoded languages,MZ
+r6,Q2OTHER,21,NUTO,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,24,NWANGAVUL,sur,I,Mwaghavul,NG
 r6,Q2OTHER,24,NYANDANG,ynq,I,Yendang,NG
 r6,Q2OTHER,21,Nyanja,nya,I,Nyanja,MZ
 r6,Q2OTHER,36,NYANJA,nya,I,Nyanja,ZW
 r6,Q2OTHER,13,Nyarwanda,kin,I,Kinyarwanda,KE
-r6,Q2OTHER,13,Nyasa,,,,KE
-r6,Q2OTHER,22,Nyemba,,,,NA
+r6,Q2OTHER,13,Nyasa,mis,S,Uncoded languages,KE
+r6,Q2OTHER,22,Nyemba,mis,S,Uncoded languages,NA
 r6,Q2OTHER,21,Nyongue,nyu,I,Nyungwe,MZ
 r6,Q2OTHER,21,NYUENGE,nyu,I,Nyungwe,MZ
 r6,Q2OTHER,21,NYUGUE,nyu,I,Nyungwe,MZ
@@ -1863,20 +1866,20 @@ r6,Q2OTHER,21,NYUNGUE,nyu,I,Nyungwe,MZ
 r6,Q2OTHER,21,Nyungunhe,nyu,I,Nyungwe,MZ
 r6,Q2OTHER,11,Nzema,nzi,I,Nzima,GH
 r6,Q2OTHER,6,OBANG,etu,I,Ejagham,CM
-r6,Q2OTHER,24,OBODU,,,,NG
+r6,Q2OTHER,24,OBODU,mis,S,Uncoded languages,NG
 r6,Q2OTHER,8,ODIENNEKA,jod,I,Wojenaka,CI
-r6,Q2OTHER,24,OGAE,,,,NG
+r6,Q2OTHER,24,OGAE,mis,S,Uncoded languages,NG
 r6,Q2OTHER,24,OGBA,ogc,I,Ogbah,NG
 r6,Q2OTHER,13,Ogiek,oki,I,Okiek,KE
 r6,Q2OTHER,13,Ogiek,kln,M,Kalenjin,KE
 r6,Q2OTHER,24,OKIRIKA,okr,I,Kirike,NG
-r6,Q2OTHER,11,Okre,,,,GH
+r6,Q2OTHER,11,Okre,mis,S,Uncoded languages,GH
 r6,Q2OTHER,24,OKRIKA,okr,I,Kirike,NG
 r6,Q2OTHER,6,OKU,oku,I,Oku,CM
 r6,Q2OTHER,6,OROKO,bdu,I,Oroko,CM
 r6,Q2OTHER,24,ORON,orx,I,Oro,NG
 r6,Q2OTHER,6,OSHIE,nsh,I,Ngoshie,CM
-r6,Q2OTHER,24,OWAN,,,,NG
+r6,Q2OTHER,24,OWAN,mis,S,Uncoded languages,NG
 r6,Q2OTHER,24,PANSO,lns,I,Lamnso',NG
 r6,Q2OTHER,8,PEULH,ffm,I,Maasina Fulfulde,CI
 r6,Q2OTHER,8,PEULH,ful,M,Fulah,CI
@@ -1896,14 +1899,14 @@ r6,Q2OTHER,34,RUSONGORA,koo,I,Konzo,UG
 r6,Q2OTHER,13,Sabaot,spy,I,Sabaot,KE
 r6,Q2OTHER,13,Sabaot,kln,M,Kalenjin,KE
 r6,Q2OTHER,35,sala,shq,I,Sala,ZM
-r6,Q2OTHER,11,Sampa,,,,GH
+r6,Q2OTHER,11,Sampa,mis,S,Uncoded languages,GH
 r6,Q2OTHER,22,San,ktz,I,Ju/'hoan,NA
 r6,Q2OTHER,6,SARA,sba,I,Ngambay,CM
 r6,Q2OTHER,6,SAWA,dua,I,Duala,CM
 r6,Q2OTHER,24,SAYAWA,say,I,Saya,NG
 r6,Q2OTHER,11,Sefwi,sfw,I,Sehwi,GH
 r6,Q2OTHER,3,SEKHURUTSI,tsn,I,Tswana,BW
-r6,Q2OTHER,3,SENANJWA,,,,BW
+r6,Q2OTHER,3,SENANJWA,mis,S,Uncoded languages,BW
 r6,Q2OTHER,3,SEPEDI,nso,I,Pedi,BW
 r6,Q2OTHER,3,Seshona,sna,I,Shona,BW
 r6,Q2OTHER,3,SETEBELE,nde,I,North Ndebele,BW
@@ -1912,61 +1915,61 @@ r6,Q2OTHER,3,SEXHEREKO,her,I,Herero,BW
 r6,Q2OTHER,3,SEXHOSA,xho,I,Xhosa,BW
 r6,Q2OTHER,3,SEZURU,sna,I,Shona,BW
 r6,Q2OTHER,36,SHANGANI,tso,I,Tsonga,ZW
-r6,Q2OTHER,21,shona,,,,MZ
+r6,Q2OTHER,21,shona,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,3,SHONA,sna,I,Shona,BW
-r6,Q2OTHER,21,SHONA,,,,MZ
+r6,Q2OTHER,21,SHONA,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,3,SHONA/SEZURU,sna,I,Shona,BW
 r6,Q2OTHER,8,SIAKA,kga,I,Koyaga,CI
-r6,Q2OTHER,36,SIDOMBE,,,,ZW
+r6,Q2OTHER,36,SIDOMBE,mis,S,Uncoded languages,ZW
 r6,Q2OTHER,22,Sifwe,fwe,I,Fwe,NA
 r6,Q2OTHER,11,Sissali,sil,I,Tumulung Sisaala,GH
 r6,Q2OTHER,11,Sissali,ssl,I,Western Sisaala,GH
-r6,Q2OTHER,24,SIYAWA,,,,NG
-r6,Q2OTHER,6,SO'O,,,,CM
+r6,Q2OTHER,24,SIYAWA,mis,S,Uncoded languages,NG
+r6,Q2OTHER,6,SO'O,mis,S,Uncoded languages,CM
 r6,Q2OTHER,2,SOLA,soy,I,Miyobe,BJ
 r6,Q2OTHER,32,SOLA,soy,I,Miyobe,TG
-r6,Q2OTHER,11,Someja,,,,GH
-r6,Q2OTHER,6,SORO,,,,CM
+r6,Q2OTHER,11,Someja,mis,S,Uncoded languages,GH
+r6,Q2OTHER,6,SORO,mis,S,Uncoded languages,CM
 r6,Q2OTHER,13,Suba,sxb,I,Suba,KE
-r6,Q2OTHER,36,SUTHU,,,,ZW
-r6,Q2OTHER,35,swahili,,,,ZM
+r6,Q2OTHER,36,SUTHU,mis,S,Uncoded languages,ZW
+r6,Q2OTHER,35,swahili,mis,S,Uncoded languages,ZM
 r6,Q2OTHER,30,Swahili,swh,I,Swahili (individual language),SZ
 r6,Q2OTHER,30,Swahili,swa,M,Swahili (macrolanguage),SZ
-r6,Q2OTHER,8,TAGBANAN,,,,CI
+r6,Q2OTHER,8,TAGBANAN,mis,S,Uncoded languages,CI
 r6,Q2OTHER,11,Talensi,gur,I,Farefare,GH
-r6,Q2OTHER,4,TAMACHECK,,,,BF
+r6,Q2OTHER,4,TAMACHECK,mis,S,Uncoded languages,BF
 r6,Q2OTHER,32,TAMBERMA,tbz,I,Ditammari,TG
 r6,Q2OTHER,11,Tampulma,tpm,I,Tampulma,GH
 r6,Q2OTHER,16,tanala,plt,I,Plateau Malagasy,MG
 r6,Q2OTHER,16,tanala,mlg,M,Malagasy,MG
-r6,Q2OTHER,26,TANDA,,,,SN
+r6,Q2OTHER,26,TANDA,mis,S,Uncoded languages,SN
 r6,Q2OTHER,24,TANGALE,tan,I,Tangale,NG
 r6,Q2OTHER,24,TANGALI,tan,I,Tangale,NG
 r6,Q2OTHER,11,Tapulsi,tpm,I,Tampulma,GH
 r6,Q2OTHER,24,TAROK,yer,I,Tarok,NG
-r6,Q2OTHER,12,TCHEDDERE,,,,GN
+r6,Q2OTHER,12,TCHEDDERE,mis,S,Uncoded languages,GN
 r6,Q2OTHER,21,Tchitchewa,nya,I,Nyanja,MZ
-r6,Q2OTHER,21,Tchthewa,,,,MZ
+r6,Q2OTHER,21,Tchthewa,mis,S,Uncoded languages,MZ
 r6,Q2OTHER,24,TERA,ttr,I,Tera,NG
 r6,Q2OTHER,13,Teso,teo,I,Teso,KE
 r6,Q2OTHER,21,tewe,twx,I,Tewe,MZ
 r6,Q2OTHER,21,Tewe,twx,I,Tewe,MZ
 r6,Q2OTHER,21,TEWE,twx,I,Tewe,MZ
-r6,Q2OTHER,3,TJIMBANDERU,,,,BW
+r6,Q2OTHER,3,TJIMBANDERU,mis,S,Uncoded languages,BW
 r6,Q2OTHER,12,TOMA,tod,I,Toma,GN
-r6,Q2OTHER,22,Totela,,,,NA
-r6,Q2OTHER,12,TOUBA,,,,GN
+r6,Q2OTHER,22,Totela,mis,S,Uncoded languages,NA
+r6,Q2OTHER,12,TOUBA,mis,S,Uncoded languages,GN
 r6,Q2OTHER,8,TOURA,neb,I,Toura (Côte d'Ivoire),CI
-r6,Q2OTHER,4,TOUSSIAN,,,,BF
-r6,Q2OTHER,36,TSENGA,,,,ZW
+r6,Q2OTHER,4,TOUSSIAN,mis,S,Uncoded languages,BF
+r6,Q2OTHER,36,TSENGA,mis,S,Uncoded languages,ZW
 r6,Q2OTHER,24,TULA,tul,I,Tula,NG
 r6,Q2OTHER,4,TURKA,tuz,I,Turka,BF
 r6,Q2OTHER,4,VIGUE,vig,I,Viemo,BF
 r6,Q2OTHER,11,Waala,wlx,I,Wali (Ghana),GH
 r6,Q2OTHER,24,WAJA,wja,I,Waja,NG
 r6,Q2OTHER,8,WAN,wan,I,Wan,CI
-r6,Q2OTHER,11,Wangara,,,,GH
-r6,Q2OTHER,6,WIBUM,,,,CM
+r6,Q2OTHER,11,Wangara,mis,S,Uncoded languages,GH
+r6,Q2OTHER,6,WIBUM,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,WIMBUM,lmp,I,Limbum,CM
 r6,Q2OTHER,8,WOBE,wob,I,Wè Northern,CI
 r6,Q2OTHER,8,WORODOUGOU,jud,I,Worodougou,CI
@@ -1980,10 +1983,10 @@ r6,Q2OTHER,21,XITSWA,tsc,I,Tswa,MZ
 r6,Q2OTHER,24,YAKURI,yaz,I,Lokaa,NG
 r6,Q2OTHER,24,YALA,yba,I,Yala,NG
 r6,Q2OTHER,6,YAMBASSA,yav,I,Yangben,CM
-r6,Q2OTHER,6,YAMBEN,,,,CM
+r6,Q2OTHER,6,YAMBEN,mis,S,Uncoded languages,CM
 r6,Q2OTHER,32,YANGA,mos,I,Mossi,TG
 r6,Q2OTHER,8,YAOURE,yre,I,Yaouré,CI
-r6,Q2OTHER,6,YEBEKOL,,,,CM
+r6,Q2OTHER,6,YEBEKOL,mis,S,Uncoded languages,CM
 r6,Q2OTHER,3,ZEZURU,sna,I,Shona,BW
 r6,Q2OTHER,30,Zulu,zul,I,Zulu,SZ
 r6,Q2OTHER,24,ZURU,dri,I,C'Lela,NG

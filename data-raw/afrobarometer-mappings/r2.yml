@@ -945,9 +945,6 @@
   - q97
   wals_code: null
 - iso_639_3:
-  - cae
-  - fap
-  - snf
   - srr
   lang_id: 221
   lang_name: Serer
@@ -1297,6 +1294,7 @@
   question:
   - q83
   wals_code: null
+  note: Zimbabwe
 - iso_639_3:
   - bem
   lang_id: 300
@@ -1339,7 +1337,6 @@
   - q97
   wals_code: null
 - iso_639_3:
-  - bem
   - lun
   lang_id: 304
   lang_name: Lunda
@@ -1388,13 +1385,13 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - tum
   lang_id: 309
   lang_name: Senga
   question:
   - q83
   - q97
   wals_code: null
+  note: Zimbabwe
 - iso_639_3:
   - nih
   - nkv
@@ -1441,14 +1438,15 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - nse
   - nya
-  - tum
   lang_id: 316
   lang_name: Ngoni
   question:
   - q83
   wals_code: null
+  note: >-
+    Ngoni in MW can refer to dialect of Zulu (ssw), Chichewa (nya), or
+    Matengo (mgv). Chichewa is most widely spoken and thus used.
 - iso_639_3:
   - mwn
   lang_id: 317
@@ -1730,8 +1728,7 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - kam
-  - swh
+  - mul
   lang_id: 396
   lang_name: Kiswahili and Kamba
   question:
@@ -1894,12 +1891,14 @@
   wals_code: null
 - iso_639_3:
   - jjr
+  - jgk
   lang_id: 802
   lang_name: Jarawa
   question:
   - q110
   - q83
-  wals_code: null
+  wals_code:
+  - jar
 - iso_639_3:
   - mda
   lang_id: 803

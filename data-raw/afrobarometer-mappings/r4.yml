@@ -528,7 +528,7 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - adq
+  - ada
   - gaa
   lang_id: 262
   lang_name: Ga/Dangbe
@@ -1011,7 +1011,6 @@
   wals_code: null
 - iso_639_3:
   - klu
-  - ted
   lang_id: 390
   lang_name: Kru
   question:
@@ -1465,9 +1464,6 @@
   - ttq
   lang_id: 516
   lang_name: Tamasheq
-  note: 'Languages in Tamashek macrolang, except thv which isn''t
-
-    spoken in Mali.'
   question:
   - Q103
   - Q114
@@ -2246,9 +2242,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - cae
-  - fap
-  - snf
   - srr
   lang_id: 662
   lang_name: Serer
@@ -2458,7 +2451,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - cwe
   - ked
   lang_id: 744
   lang_name: Kikwere
@@ -2657,7 +2649,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - mjh
   - mwe
   lang_id: 767
   lang_name: Kimwera
@@ -3055,6 +3046,7 @@
   - Q114
   - Q3
   wals_code: null
+  note: Zambia
 - iso_639_3:
   - tum
   lang_id: 826
@@ -3092,7 +3084,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - bem
   - lun
   lang_id: 830
   lang_name: Lunda
@@ -3139,8 +3130,6 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - nya
-  - tum
   lang_id: 835
   lang_name: Ngoni
   question:
@@ -3148,6 +3137,9 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Zambia. Could also refer to a dialect of Chichewa (nya) or
+    Tumbuka (tum)
 - iso_639_3:
   - sby
   lang_id: 836
@@ -3215,7 +3207,6 @@
   wals_code: null
 - iso_639_3:
   - nse
-  - tum
   lang_id: 843
   lang_name: Senga
   question:
@@ -3223,6 +3214,8 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Zambia. Could be dialect of Tumbuka (tum)
 - iso_639_3:
   - toi
   lang_id: 844

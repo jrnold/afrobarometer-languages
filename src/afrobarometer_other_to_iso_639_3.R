@@ -131,17 +131,52 @@ iso_country_non_matches <-
   filter(iso_scope %in% c("I")) %>%
   # remove any known non-matche
   anti_join(known_country_nonmatches,
-           by = c("round", "question", "country", "value")) %>%
+            by = c("iso_alpha2", "value", "iso_639_3")) %>%
   # find any non-matches
   anti_join(ethnologue_langidx, by = c("iso_639_3", "iso_alpha2"))
 
-#' stopifnot(nrow(iso_country_non_matches) == 0)
-#'
-#' # This generates YAML to add to misc_data exceptions
-#' # iso_country_non_matches %>%
-#' #   select(round, question, lang_id, lang_name, iso_639_3) %>%
-#' #   as.yaml(column.major = FALSE) %>% cat()
-#'
+if (nrow(iso_country_non_matches)) {
+  print(iso_country_non_matches)
+  stop("Some ISO languages appear in invalid countries")
+}
+
+# This generates YAML to add to misc_data exceptions
+# iso_country_non_matches %>%
+#   select(iso_alpha2, value, iso_639_3) %>%
+#   distinct() %>%
+#   yaml::as.yaml(column.major = FALSE) %>%
+#   cat()
+
+# Check that multi-matches are related languages
+
+distant_matches <-
+  afrobarometer_other_to_iso %>%
+  # ignore macro-languages since they aren't in the ethnologue dist
+  filter(iso_scope == "I") %>%
+  # distinct country/value combos
+  select(iso_alpha2, value, iso_639_3) %>%
+  distinct() %>%
+  # ignore known bad cases
+  # anti_join(known_distant_matches, by = c("round", "question", "lang_id")) %>%
+  group_by(iso_alpha2, value) %>%
+  do(as_tibble(tidyr::crossing(from = .$iso_639_3, to = .$iso_639_3))) %>%
+  # filter self matches
+  filter(from != to) %>%
+  # left join to ensure non-matches will still be present
+  left_join(IO$ethnologue_distances, by = c("from", "to")) %>%
+  # set an arbitrarily large distance for non-family matches
+  mutate(distance = if_else(is.na(distance), 1000L, distance)) %>%
+  group_by(from, value) %>%
+  summarise(distance = max(distance)) %>%
+  arrange(desc(distance), value) %>%
+  # Most matches are 2 and below
+  filter(distance > 2)
+
+if (nrow(distant_matches) > 0) {
+  print(distant_matches)
+  stop("Found multiple matches with seemingly unrelated ISO languages")
+}
+
 #' # Write Output
 afrobarometer_other_to_iso %>%
   write_csv(path = OUTPUT, na = "")
