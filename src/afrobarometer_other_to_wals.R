@@ -32,7 +32,8 @@ afrobarometer_other_to_wals_manual <- IO$afrobarometer_other_mappings %>%
       out
     }
   }) %>%
-  distinct()
+  distinct() %>%
+  mutate(auto = FALSE, distance = 0L)
 
 afrobarometer_other_to_wals_auto <- IO$afrobarometer_other_to_iso %>%
   filter(iso_scope %in% "I") %>%
@@ -47,12 +48,13 @@ afrobarometer_other_to_wals_auto <- IO$afrobarometer_other_to_iso %>%
   # Keep distinct WALS codes
   group_by(country, lang_name, wals_code) %>%
   summarise(distance = min(distance)) %>%
-  ungroup()
+  ungroup() %>%
+  mutate(auto = TRUE)
 
 #' Combine the auto and manual matches
 afrobarometer_other_to_wals <-
-  bind_rows(mutate(afrobarometer_other_to_wals_manual, auto = FALSE),
-            mutate(afrobarometer_other_to_wals_auto, auto = TRUE)) %>%
+  bind_rows(afrobarometer_other_to_wals_manual,
+            afrobarometer_other_to_wals_auto) %>%
   distinct()
 
 #' Add WALS names

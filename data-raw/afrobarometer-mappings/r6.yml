@@ -97,13 +97,20 @@
   lang_name: Bassa
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - kla
+  - bas
   note: >-
     In R6 used in Cameroon and Liberia. These are two distinct languages.
     Use
 
     - bas if Cameroon
     - bsq if Liberia
+
+    WALS
+
+    - bas if Cameroon
+    - kla if Liberia
 
 - iso_639_3:
   - kab
@@ -1060,7 +1067,8 @@
   lang_name: Bassa
   question:
   - Q116
-  wals_code: null
+  wals_code:
+  - kla
 - iso_639_3:
   - blh
   lang_id: 381

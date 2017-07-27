@@ -22,7 +22,9 @@ afrobarometer_to_wals_manual <- IO$afrobarometer_mappings %>%
       out[["round"]] <- .x$round
       out
     }
-  })
+  }) %>%
+  mutate(auto = FALSE,
+         distance = 0L)
 
 afrobarometer_to_iso <- IO$afrobarometer_to_iso
 
@@ -53,8 +55,7 @@ afrobarometer_to_wals_auto <-
 
 #' Combine the auto and manual matches
 afrobarometer_to_wals <-
-  bind_rows(mutate(select(afrobarometer_to_wals_manual, round, question, lang_id, wals_code),
-                   auto = FALSE),
+  bind_rows(select(afrobarometer_to_wals_manual, round, question, lang_id, wals_code),
             mutate(afrobarometer_to_wals_auto, auto = TRUE)) %>%
   distinct()
 
