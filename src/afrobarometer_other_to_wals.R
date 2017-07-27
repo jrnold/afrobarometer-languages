@@ -12,17 +12,20 @@ OUTPUT <- project_path("data", "afrobarometer_other_to_wals.csv")
 
 misc_data <- IO$misc_data
 
-iso_to_wals <- ungroup(IO$iso_to_wals)
+iso_to_wals <- IO$iso_to_wals %>%
+  select(iso_639_3 = iso_code, wals_code, distance)
 
 wals <- IO$wals
 
 # Read Afrobarometer Other Languages
-afrobarometer_langs_other <- IO$afrobarometer_langs_other %>%
+afrobarometer_langs_other <-
+  IO$afrobarometer_langs_other %>%
   # add variable to merge on
   mutate(lang_name = str_to_lower(value))
 
 #' Afrobarometer Mappings
-afrobarometer_other_to_wals_manual <- IO$afrobarometer_other_mappings %>%
+afrobarometer_other_to_wals_manual <-
+  IO$afrobarometer_other_mappings %>%
   map_df(function(.x) {
     if (!is.null(.x[["wals_code"]])) {
       out <- tidyr::crossing(country = .x[["country"]],
@@ -32,25 +35,27 @@ afrobarometer_other_to_wals_manual <- IO$afrobarometer_other_mappings %>%
       out
     }
   }) %>%
+  select(country, lang_name, wals_code) %>%
   distinct() %>%
-  mutate(auto = FALSE, distance = 0L)
+  mutate(auto = 0L, distance = 0L)
 
-afrobarometer_other_to_wals_auto <- IO$afrobarometer_other_to_iso %>%
+afrobarometer_other_to_wals_auto <-
+  IO$afrobarometer_other_to_iso %>%
   filter(iso_scope %in% "I") %>%
   mutate(lang_name = str_to_lower(value)) %>%
   select(country = iso_alpha2, lang_name, iso_639_3) %>%
   # there can multiples of the above
   distinct() %>%
+  # remove those already accounted for
   anti_join(afrobarometer_other_to_wals_manual,
             by = c("country", "lang_name")) %>%
-  inner_join(select(ungroup(iso_to_wals), iso_639_3 = iso_code,
-                    wals_code, distance),
-            by = "iso_639_3") %>%
-  # Keep best-matching WALS codes
+  inner_join(iso_to_wals, by = "iso_639_3") %>%
   group_by(country, lang_name) %>%
-  summarise(distance = min(distance)) %>%
+  filter(distance == min(distance)) %>%
   ungroup() %>%
-  mutate(auto = TRUE)
+  select(country, lang_name, wals_code, distance) %>%
+  distinct() %>%
+  mutate(auto = 1L)
 
 #' Combine the auto and manual matches
 afrobarometer_other_to_wals <-
@@ -141,7 +146,7 @@ with(afrobarometer_other_to_wals, {
   assert_that(is.character(wals_name))
 
   assert_that(all(is.na(wals_code) | !is.na(auto)))
-  assert_that(is.logical(auto))
+  assert_that(all(na.omit(auto) %in% c(0, 1)))
 
   assert_that(all(is.na(distance) | distance >= 0))
 
