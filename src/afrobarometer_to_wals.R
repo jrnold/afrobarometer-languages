@@ -97,6 +97,35 @@ if (nrow(wals_non_african) > 0) {
   stop("There exist unaccounted for non-African languages in the data:\n")
 }
 
+#' Check that there aren't any non-related matches appearing
+#' While Afrobarometer can be one to many they should all be in the same genus at least.
+#'
+matches_unrelated_langs <-
+  afrobarometer_to_wals %>%
+  # remove WALS non-matches
+  filter(!is.na(wals_code)) %>%
+  # remove known errors
+  anti_join(map_df(misc_data$wals$matches_unrelated_langs$values,
+                   as_tibble),
+            by = c("round", "question", "lang_id")) %>%
+  left_join(select(wals, wals_code, genus), by = "wals_code") %>%
+  group_by(round, question, lang_id, lang_name) %>%
+  summarise(n_genus = length(unique(genus))) %>%
+  filter(n_genus > 1)
+
+# Code to generate yaml to add to misc.yml for non-matches to ignore
+# matches_unrelated_langs %>%
+#   select(round, question, lang_id, lang_name) %>%
+#   yaml::as.yaml(column.major = FALSE) %>%
+#   cat()
+
+
+
+if (nrow(matches_unrelated_langs) > 0) {
+  print(matches_unrelated_langs)
+  stop("Unrelated WALS languages detected")
+}
+
 with(afrobarometer_to_wals, {
   assert_that(all(!is.na(round)))
   assert_that(is.character(round))

@@ -86,25 +86,38 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bas
   - bsq
-  - ngn
+  - bzw
+  - bas
   lang_id: 10
   lang_name: Bassa
   question:
   - Q116
   - Q2
   wals_code: null
+  note: >
+    This includes three distinct languages from Cameroon, Liberia and
+    Nigeria. Use the following
+
+    - Nigeria: bzw
+    - Cameroon: bas
+    - Liberia: bsq
+
 - iso_639_3:
-  - bbo
   - bmq
-  - box
   - bwq
+  - bbo
   lang_id: 11
   lang_name: Bobo
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - bbf
+  - kfe
+  note: >-
+    Mali and Burkina Faso.
+    These refer to distinct languages. In Mali, bmq is a Gur language.
+    In BF, bwq is a Mande language
 - iso_639_3:
   - nya
   lang_id: 12
@@ -298,14 +311,18 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - ndc
+  - toh
   - toi
+  - tog
   - tso
   lang_id: 36
   lang_name: Tonga
   question:
   - Q2
   wals_code: null
+  note: >-
+    Malawi, Swazilang, South Africa, Zimbabwe, Zambia. This seems to
+    combine many T(s)onga languages.
 - iso_639_3:
   - vai
   lang_id: 37
@@ -569,15 +586,16 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bbo
-  - bmq
-  - box
   - bwq
+  - bbo
   lang_id: 186
   lang_name: Bobo
   question:
   - Q116
-  wals_code: null
+  wals_code:
+  - bbf
+  note: >-
+    Burkina Faso. Bobo is Mande.
 - iso_639_3:
   - bfo
   lang_id: 186
@@ -594,13 +612,15 @@
   wals_code: null
 - iso_639_3:
   - box
-  - bwj
-  - bwy
+  - bmq
   lang_id: 187
   lang_name: Bwamu
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - kfe
+  note: >-
+    Burkina Faso. Gur language.
 - iso_639_3:
   - dgi
   lang_id: 188
@@ -624,7 +644,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - knz
   - sbd
   - stj
   - sym
@@ -665,13 +684,15 @@
   wals_code: null
 - iso_639_3:
   - box
-  - bwj
-  - bwy
+  - bmq
   lang_id: 192
   lang_name: Bwamu
   question:
   - Q116
-  wals_code: null
+  wals_code:
+  - kfe
+  note: >-
+    Burkina Faso. Gur language.
 - iso_639_3:
   - xsm
   lang_id: 192
@@ -716,7 +737,6 @@
   - Q116
   wals_code: null
 - iso_639_3:
-  - knz
   - sbd
   - stj
   - sym
@@ -778,15 +798,16 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bbo
-  - bmq
-  - box
   - bwq
+  - bbo
   lang_id: 200
   lang_name: Bobo
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - bbf
+  note: >-
+    Burkina Faso. Gur language.
 - iso_639_3:
   - kea
   lang_id: 220
@@ -798,10 +819,8 @@
   wals_code:
   - por
 - iso_639_3:
-  - abr
   - fat
   - twi
-  - wss
   lang_id: 260
   lang_name: Akan
   question:
@@ -1242,15 +1261,14 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bas
   - bsq
-  - ngn
   lang_id: 380
   lang_name: Bassa
   question:
   - Q116
   - Q2
   wals_code: null
+  note: Liberia Bassa
 - iso_639_3:
   - blh
   lang_id: 381
@@ -1447,15 +1465,13 @@
   wals_code: null
 - iso_639_3:
   - swb
-  - wlc
-  - wni
-  - zdj
   lang_id: 423
   lang_name: Comorien
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - com
 - iso_639_3:
   - mul
   lang_id: 424
@@ -1562,6 +1578,9 @@
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Malawi.
+
 - iso_639_3:
   - ndh
   lang_id: 472
@@ -1604,51 +1623,42 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bbo
   - bmq
   lang_id: 503
   lang_name: Bobo
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - kfe
+  note: >-
+    Mali. Gur Language.
 - iso_639_3:
-  - boo
   - boz
   - bze
-  - bzx
   lang_id: 504
   lang_name: Bozo
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - boz
+  note: >-
+    In Mali, Bozo are Mande languages
 - iso_639_3:
-  - aqd
-  - dbg
-  - dbt
-  - dbu
-  - dbw
   - dds
-  - dgb
   - djm
-  - dmb
-  - dti
-  - dtk
-  - dtm
-  - dto
   - dts
-  - dtt
-  - dtu
-  - dym
-  - nzz
-  - tde
   lang_id: 505
   lang_name: Dogon
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - dds
+  - jms
+  - tms
+  - dts
 - iso_639_3:
   - hau
   lang_id: 506
@@ -1854,6 +1864,8 @@
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Mozambique
 - iso_639_3:
   - kde
   lang_id: 547
@@ -2090,7 +2102,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - agb
   - ibo
   lang_id: 621
   lang_name: Igbo
@@ -2336,11 +2347,13 @@
   - kaj
   lang_id: 652
   lang_name: Bajju
-  note: Bajju refer to Jju speaking people. https://en.wikipedia.org/wiki/Bajju_people
+  wals_code:
+  - gwo
+  note: >-
+    Bajju refer to Jju speaking people. https://en.wikipedia.org/wiki/Bajju_people
   question:
   - Q116
   - Q2
-  wals_code: null
 - iso_639_3:
   - ekp
   lang_id: 653
@@ -2387,14 +2400,14 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bas
-  - bsq
-  - ngn
+  - bzw
   lang_id: 659
   lang_name: Bassa
   question:
   - Q116
   wals_code: null
+  note: >-
+    Nigerian Bassa. different from bas (CM) or bsq (LR)
 - iso_639_3:
   - wol
   lang_id: 660
@@ -2589,7 +2602,10 @@
   lang_name: Tsonga
   question:
   - Q103
-  wals_code: null
+  wals_code:
+  - tsn
+  note: >-
+    South Africa
 - iso_639_3:
   - ssw
   lang_id: 713
@@ -3194,7 +3210,10 @@
   - Q103
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - toz
+  note: >-
+    Zimbabwe
 - iso_639_3:
   - kqn
   lang_id: 823
@@ -3653,14 +3672,16 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - ndc
   - toi
-  - tso
   lang_id: 869
   lang_name: Tonga
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - toz
+  note: >-
+    Zimbabwe Tonga.
+
 - iso_639_3:
   - sna
   lang_id: 870
@@ -4181,13 +4202,14 @@
   wals_code: null
 - iso_639_3:
   - bas
-  - bsq
-  - ngn
   lang_id: 1227
   lang_name: Bassa
   question:
   - Q116
   wals_code: null
+  note: >-
+    Cameroon Bassa
+
 - iso_639_3:
   - byv
   lang_id: 1227
@@ -4303,13 +4325,13 @@
   wals_code: null
 - iso_639_3:
   - bas
-  - bsq
-  - ngn
   lang_id: 1234
   lang_name: Bassa
   question:
   - Q2
   wals_code: null
+  note: >-
+    Cameroon Bassa
 - iso_639_3:
   - bdu
   - bnm
@@ -5025,7 +5047,10 @@
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - sid
+  note: >-
+    Match WALS to other Highland Cushitic Language
 - iso_639_3:
   - aar
   lang_id: 1348
@@ -5062,7 +5087,10 @@
   lang_name: Alaba
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - sid
+  note: >-
+    Match WALS to other Highland Cushitic
 - iso_639_3:
   - agj
   lang_id: 1353
@@ -5097,7 +5125,8 @@
   lang_name: Gedeo
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - sid
 - iso_639_3:
   - stv
   lang_id: 1358
@@ -5141,7 +5170,10 @@
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - sid
+  note: >-
+    For WALS code, match to Highland Cushitic language
 - iso_639_3:
   - mis
   lang_id: 1364
@@ -5179,14 +5211,12 @@
   wals_code: null
 - iso_639_3:
   - tzm
-  - zgh
   lang_id: 1420
   lang_name: Amazigh
   question:
   - Q2
   wals_code: null
 - iso_639_3:
-  - tzm
   - zgh
   lang_id: 1500
   lang_name: Amazigh
@@ -5195,13 +5225,14 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - tzm
   - zgh
   lang_id: 1500
   lang_name: Tamazight
   question:
   - Q116
   wals_code: null
+  note: >-
+    Morocco.
 - iso_639_3:
   - mey
   lang_id: 1501
@@ -5211,7 +5242,6 @@
   wals_code: null
 - iso_639_3:
   - tzm
-  - zgh
   lang_id: 1580
   lang_name: Amazigh
   question:

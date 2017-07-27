@@ -7,7 +7,7 @@ afrobarometer:
   - r5
   - r6
   language_variables:
-    comment: >
+    comment: >-
       Language variables in each round
     values:
       r1:
@@ -49,7 +49,7 @@ afrobarometer:
         - name: Q116
           label: "Interviewer's home language"
   lang_other_variables:
-    comment: >
+    comment: >-
       Variables with text responses to "Other" responses for variable languages.
       Not all language questions included this data in the merged data.
     values:
@@ -60,7 +60,7 @@ afrobarometer:
       r5: ["Q2OTHER", "Q103OTHER", "Q116OTHER"]
       r6: ["Q2OTHER", "Q103OTHER", "Q116OTHER"]
   country_variables:
-    comment: >
+    comment: >-
       Variables referring the country of the respondent
     values:
       r1: country
@@ -71,7 +71,7 @@ afrobarometer:
       r6: COUNTRY
 iso:
   scopes:
-    comment: >
+    comment: >-
       Valid ISO-scopes. Used for checking data.
     values:
     - I
@@ -210,6 +210,213 @@ iso:
       lang_id: 329
       lang_name: Angolan:Portuguese
       iso_639_3: por
+    - round: r5
+      question: Q2
+      lang_id: 36
+      lang_name: Tonga
+      iso_639_3: toh
+    - round: r5
+      question: Q2
+      lang_id: 10
+      lang_name: Bassa
+      iso_639_3: bzw
+  other_country_nonmatches:
+    comment: >-
+      Other language to ISO matches that don't match Ethnologue
+      countries. Ignore these when checking validity of matches.
+    values:
+    - round: r6
+      question: Q2OTHER
+      country: 30
+      value: Swahili
+    - round: r6
+      question: Q2OTHER
+      country: 3
+      value: SEXHOSA
+    - round: r6
+      question: Q2OTHER
+      country: 30
+      value: Portuguese
+    - round: r6
+      question: Q2OTHER
+      country: 13
+      value: Nyarwanda
+    - round: r6
+      question: Q2OTHER
+      country: 10
+      value: HAOUSSA
+    - round: r6
+      question: Q2OTHER
+      country: 17
+      value: Chiswahili
+    - round: r6
+      question: Q103OTHER
+      country: 11
+      value: french
+    - round: r6
+      question: Q103OTHER
+      country: 25
+      value: CABOVERDIANO
+    - round: r5
+      question: Q2OTHER
+      country: 24
+      value: YOROUBA
+    - round: r5
+      question: Q2OTHER
+      country: 20
+      value: XHOSA
+    - round: r5
+      question: Q2OTHER
+      country: 15
+      value: SOUSSOU
+    - round: r5
+      question: Q2OTHER
+      country: 2
+      value: SEPEDI
+    - round: r6
+      question: Q2OTHER
+      country: 3
+      value: SEPEDI
+    - round: r5
+      question: Q2OTHER
+      country: 15
+      value: PORTUGAIS
+    - round: r5
+      question: Q2OTHER
+      country: 6
+      value: HINDU
+    - round: r5
+      question: Q2OTHER
+      country: 12
+      value: ENGLISH
+    - round: r5
+      question: Q2OTHER
+      country: 18
+      value: LUSUDAN
+    - round: r5
+      question: Q2OTHER
+      country: 18
+      value: LUSUDANI
+    - round: r5
+      question: Q2OTHER
+      country: 10
+      value: CHINYAKYUSA
+    - round: r6
+      question: Q2OTHER
+      country: 17
+      value: Chinyakyusa
+    - round: r5
+      question: Q2OTHER
+      country: 16
+      value: CHINESE
+    - round: r5
+      question: Q2OTHER
+      country: 16
+      value: BULGARIAN
+    - round: r5
+      question: Q2OTHER
+      country: 5
+      value: AKAN
+    - round: r5
+      question: Q2OTHER
+      country: 5
+      value: AKAN
+    - round: r4
+      question: Q3OTHER
+      country: 19
+      value: ZEZULU
+    - round: r4
+      question: Q3OTHER
+      country: 13
+      value: Uumbundu
+    - round: r5
+      question: Q2OTHER
+      country: 13
+      value: RUMBUNDU
+    - round: r5
+      question: Q103OTHER
+      country: 24
+      value: HAOUSSA
+    - round: r5
+      question: Q2OTHER
+      country: 24
+      value: HAOUSSA
+    - round: r6
+      question: Q2OTHER
+      country: 28
+      value: Ithopiwa
+    - round: r4
+      question: Q3OTHER
+      country: 2
+      value: Sesotho
+    - round: r4
+      question: Q3OTHER
+      country: 16
+      value: Pashto
+    - round: r4
+      question: Q3OTHER
+      country: 5
+      value: MOSSI
+    - round: r5
+      question: Q2OTHER
+      country: 5
+      value: MOSHIE
+    - round: r6
+      question: Q103OTHER
+      country: 11
+      value: Mossi
+    - round: r6
+      question: Q116OTHER
+      country: 11
+      value: Moshie
+    - round: r6
+      question: Q2OTHER
+      country: 11
+      value: Moshie
+    - round: r4
+      question: Q3OTHER
+      country: 11
+      value: Haoussa
+    - round: r6
+      question: Q116OTHER
+      country: 28
+      value: PORTUGUESE
+    - round: r4
+      question: Q3OTHER
+      country: 3
+      value: DOGON
+    - round: r6
+      question: Q2OTHER
+      country: 4
+      value: DOGON
+    - round: r6
+      question: Q2OTHER
+      country: 4
+      value: DOGONS
+    - round: r4
+      question: Q3OTHER
+      country: 3
+      value: DOGON
+    - round: r6
+      question: Q2OTHER
+      country: 4
+      value: DOGON
+    - round: r6
+      question: Q2OTHER
+      country: 4
+      value: DOGONS
+    - round: r4
+      question: Q3OTHER
+      country: 6
+      value: Arabic
+    - round: r5
+      question: Q2OTHER
+      country: 6
+      value: ARABIC
+    - round: r6
+      question: Q2OTHER
+      country: 13
+      value: Arab
 wals:
   code_pattern: "^[a-z]{2,3}$"
   non_african:
@@ -243,3 +450,35 @@ wals:
       - pan
       - por
       - psh
+  matches_unrelated_langs:
+    comment: >-
+      Languages that have multiple WALS matches in multiple genuses.
+    values:
+    - round: r1
+      question: language
+      lang_id: 123
+      lang_name: Ikan
+    - round: r5
+      question: Q116
+      lang_id: 10
+      lang_name: Bassa
+    - round: r5
+      question: Q2
+      lang_id: 10
+      lang_name: Bassa
+    - round: r5
+      question: Q2
+      lang_id: 11
+      lang_name: Bobo
+    - round: r6
+      question: Q116
+      lang_id: 13
+      lang_name: Bobo
+    - round: r6
+      question: Q2
+      lang_id: 10
+      lang_name: Bassa
+    - round: r6
+      question: Q2
+      lang_id: 13
+      lang_name: Bobo

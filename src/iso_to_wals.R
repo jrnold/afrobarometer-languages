@@ -12,9 +12,11 @@ make_distances <- function(x) {
   g <- igraph::graph_from_data_frame(x)
   as_tibble(rownames_to_column(as.data.frame(igraph::distances(g)), "from")) %>%
     gather(to, distance, -from) %>%
+    # Keep only languages
     dplyr::filter(str_detect(to, "^/language"),
                   str_detect(from, "^/language")) %>%
-    dplyr::mutate(to = str_replace(to, "^/language/(.*)/\\d+$", "\\1"),
+    # extract the ISO 639-3 code from path
+    mutate(to = str_replace(to, "^/language/(.*)/\\d+$", "\\1"),
                   from = str_replace(from, "^/language/(.*)/\\d+$", "\\1"))
 }
 

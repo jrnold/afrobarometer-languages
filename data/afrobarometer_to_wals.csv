@@ -75,7 +75,7 @@ r1,language,27,Kaonde,lbu,Lunda,TRUE,4
 r1,language,27,Kaonde,sge,Songe,TRUE,4
 r1,language,29,Luvale,luv,Luvale,TRUE,0
 r1,language,30,Nyanja,cic,Chichewa,TRUE,0
-r1,language,31,Tonga,toz,Tonga (in Zambia),TRUE,0
+r1,language,31,Tonga,toz,Tonga (in Zambia),FALSE,
 r1,language,32,Ngoni,zno,Zulu (Northern),TRUE,0
 r1,language,32,Ngoni,zso,Zulu (Southern),TRUE,0
 r1,language,32,Ngoni,zul,Zulu,TRUE,0
@@ -104,7 +104,7 @@ r1,language,38,Lambya,mmw,Mambwe,TRUE,4
 r1,language,38,Lambya,nyh,Nyiha,TRUE,4
 r1,language,38,Lambya,tbw,Tabwa,TRUE,4
 r1,language,38,Lambya,toz,Tonga (in Zambia),TRUE,4
-r1,language,41,Akan,akn,Akan,TRUE,2
+r1,language,41,Akan,,,,
 r1,language,42,Dangaare,dga,Dagaare,TRUE,0
 r1,language,43,Dagbane,dgb,Dagbani,TRUE,0
 r1,language,44,Ewe,ewa,Ewe (Anglo),TRUE,0
@@ -153,8 +153,7 @@ r1,language,71,Grusi,tem,Tem,TRUE,0
 r1,language,71,Grusi,tmp,Tampulma,TRUE,0
 r1,language,71,Grusi,vag,Vagla,TRUE,0
 r1,language,71,Grusi,xsm,Kàsim,TRUE,0
-r1,language,72,Wangara,bis,Bisa,TRUE,0
-r1,language,72,Wangara,jel,Jeli,TRUE,3
+r1,language,72,Wangara,,,,
 r1,language,73,Dagomba,dgb,Dagbani,TRUE,0
 r1,language,74,Buam/Lelemi,llm,Lelemi,TRUE,0
 r1,language,75,Nsahas,,,,
@@ -178,13 +177,13 @@ r1,language,88,Malinke,xas,Xasonga,TRUE,2
 r1,language,89,Sonrhai,kch,Koyra Chiini,TRUE,0
 r1,language,89,Sonrhai,kse,Koyraboro Senni,TRUE,0
 r1,language,89,Sonrhai,zar,Zarma,TRUE,2
-r1,language,90,Dogon,dds,Donno So,TRUE,0
-r1,language,90,Dogon,dts,Toro So,TRUE,0
-r1,language,90,Dogon,jms,Jamsay,TRUE,0
+r1,language,90,Dogon,dds,Donno So,FALSE,
+r1,language,90,Dogon,dts,Toro So,FALSE,
+r1,language,90,Dogon,jms,Jamsay,FALSE,
+r1,language,90,Dogon,tms,Tommo So,FALSE,
 r1,language,91,Tamasheq,tsk,Tamashek,TRUE,0
-r1,language,92,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r1,language,92,Bobo,kfe,Koromfe,TRUE,4
-r1,language,93,Bozo,boz,Bozo (Tigemaxo),TRUE,0
+r1,language,92,Bobo,kfe,Koromfe,FALSE,
+r1,language,93,Bozo,boz,Bozo (Tigemaxo),FALSE,
 r1,language,94,Khasonke,xas,Xasonga,TRUE,0
 r1,language,95,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0
 r1,language,96,Maure,ahs,Arabic (Bani-Hassan),TRUE,0
@@ -218,20 +217,7 @@ r1,language,119,Boki,ogb,Ogbia,TRUE,5
 r1,language,120,Igbira,ebi,Ebira,TRUE,0
 r1,language,121,Ikpon,,,,
 r1,language,122,Isoko,iso,Isoko,TRUE,0
-r1,language,123,Ikan,bir,Birom,TRUE,5
-r1,language,123,Ikan,dds,Donno So,TRUE,5
-r1,language,123,Ikan,deg,Degema,TRUE,5
-r1,language,123,Ikan,dts,Toro So,TRUE,5
-r1,language,123,Ikan,ebi,Ebira,TRUE,5
-r1,language,123,Ikan,egn,Engenni,TRUE,5
-r1,language,123,Ikan,fye,Fyem,TRUE,5
-r1,language,123,Ikan,gad,Gade,TRUE,5
-r1,language,123,Ikan,igb,Igbo,TRUE,5
-r1,language,123,Ikan,iso,Isoko,TRUE,5
-r1,language,123,Ikan,izi,Izi,TRUE,5
-r1,language,123,Ikan,jms,Jamsay,TRUE,5
-r1,language,123,Ikan,tok,Tarok,TRUE,5
-r1,language,123,Ikan,urh,Urhobo,TRUE,5
+r1,language,123,Ikan,,,,
 r1,language,124,Ishan/Esan,bni,Bini,TRUE,2
 r1,language,124,Ishan/Esan,ora,Emai,TRUE,2
 r1,language,125,Anam,,,,
@@ -282,13 +268,11 @@ r1,language,161,Mafa,mof,Mofu-Gudur,TRUE,2
 r1,language,161,Mafa,uld,Uldeme,TRUE,2
 r1,language,162,Beron/Birom,bir,Birom,TRUE,0
 r1,language,163,Angas,anc,Angas,TRUE,0
-r1,language,164,Iregwe,gwo,Gworok,TRUE,2
-r1,language,164,Iregwe,jar,Jarawa (in Nigeria),TRUE,2
+r1,language,164,Iregwe,gwo,Gworok,FALSE,
 r1,language,165,Afizere,jar,Jarawa (in Nigeria),TRUE,0
 r1,language,166,Koro,kgm,Kagoma,TRUE,4
 r1,language,167,Normana,mdz,Mada (in Nigeria),TRUE,2
-r1,language,168,Miango,gwo,Gworok,TRUE,2
-r1,language,168,Miango,jar,Jarawa (in Nigeria),TRUE,2
+r1,language,168,Miango,gwo,Gworok,FALSE,
 r1,language,169,Gyerawa,,,,
 r1,language,170,Eterco,,,,
 r1,language,171,Zar,miy,Miya,TRUE,5
@@ -652,7 +636,7 @@ r2,q110,108,Venda,ven,Venda,TRUE,0
 r2,q110,109,Zulu,zno,Zulu (Northern),TRUE,0
 r2,q110,109,Zulu,zso,Zulu (Southern),TRUE,0
 r2,q110,109,Zulu,zul,Zulu,TRUE,0
-r2,q110,120,Akan,akn,Akan,TRUE,2
+r2,q110,120,Akan,,,,
 r2,q110,121,Dagbani,dgb,Dagbani,TRUE,0
 r2,q110,122,Ewe,ewa,Ewe (Anglo),TRUE,0
 r2,q110,122,Ewe,ewe,Ewe,TRUE,0
@@ -699,12 +683,12 @@ r2,q110,171,Senufo,sup,Supyire,TRUE,0
 r2,q110,172,Mianka,nrg,Nanerge,TRUE,2
 r2,q110,172,Mianka,sup,Supyire,TRUE,2
 r2,q110,173,Samoko,bbf,Bobo Madaré (Northern),TRUE,5
-r2,q110,174,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r2,q110,174,Bobo,kfe,Koromfe,TRUE,4
-r2,q110,175,Bozo,boz,Bozo (Tigemaxo),TRUE,0
-r2,q110,176,Dogon,dds,Donno So,TRUE,0
-r2,q110,176,Dogon,dts,Toro So,TRUE,0
-r2,q110,176,Dogon,jms,Jamsay,TRUE,0
+r2,q110,174,Bobo,kfe,Koromfe,FALSE,
+r2,q110,175,Bozo,boz,Bozo (Tigemaxo),FALSE,
+r2,q110,176,Dogon,dds,Donno So,FALSE,
+r2,q110,176,Dogon,dts,Toro So,FALSE,
+r2,q110,176,Dogon,jms,Jamsay,FALSE,
+r2,q110,176,Dogon,tms,Tommo So,FALSE,
 r2,q110,177,Tamasheq,tsk,Tamashek,TRUE,0
 r2,q110,178,Mossi,moo,Mooré,TRUE,0
 r2,q110,180,Sesotho,ses,Sesotho,TRUE,0
@@ -723,7 +707,6 @@ r2,q110,240,Setswana,tsw,Tswana,TRUE,0
 r2,q110,242,Sekalanga,klz,Kalanga,TRUE,0
 r2,q110,260,Hausa,hau,Hausa,TRUE,0
 r2,q110,261,Yoruba,yor,Yoruba,TRUE,0
-r2,q110,262,Igbo,agb,Leggbó,TRUE,0
 r2,q110,262,Igbo,igb,Igbo,TRUE,0
 r2,q110,263,Tiv,tiv,Tiv,TRUE,0
 r2,q110,264,Ijaw,ijo,Ijo (Kolokuma),TRUE,0
@@ -731,7 +714,6 @@ r2,q110,266,Nupe,nup,Nupe,TRUE,0
 r2,q110,267,Ibibio,ibi,Ibibio,TRUE,0
 r2,q110,268,Efik,efi,Efik,TRUE,0
 r2,q110,269,Edo,bni,Bini,TRUE,0
-r2,q110,270,Igala/Idoma,ido,Idoma,TRUE,0
 r2,q110,270,Igala/Idoma,ise,Isekiri,TRUE,4
 r2,q110,270,Igala/Idoma,yor,Yoruba,TRUE,4
 r2,q110,271,Urhobo,urh,Urhobo,TRUE,0
@@ -770,7 +752,7 @@ r2,q110,302,kaonda,sge,Songe,TRUE,4
 r2,q110,303,Lozi,loz,Lozi,TRUE,0
 r2,q110,305,Luvale,luv,Luvale,TRUE,0
 r2,q110,306,Nyanja,cic,Chichewa,TRUE,0
-r2,q110,307,Tonga,toz,Tonga (in Zambia),TRUE,0
+r2,q110,307,Tonga,toz,Tonga (in Zambia),FALSE,
 r2,q110,308,Tumbuka,cic,Chichewa,TRUE,4
 r2,q110,308,Tumbuka,ngo,Ngoni,TRUE,4
 r2,q110,308,Tumbuka,nse,Nsenga,TRUE,4
@@ -1054,7 +1036,7 @@ r2,q83,108,Venda,ven,Venda,TRUE,0
 r2,q83,109,Zulu,zno,Zulu (Northern),TRUE,0
 r2,q83,109,Zulu,zso,Zulu (Southern),TRUE,0
 r2,q83,109,Zulu,zul,Zulu,TRUE,0
-r2,q83,120,Akan,akn,Akan,TRUE,2
+r2,q83,120,Akan,,,,
 r2,q83,121,Dagbani,dgb,Dagbani,TRUE,0
 r2,q83,122,Ewe,ewa,Ewe (Anglo),TRUE,0
 r2,q83,122,Ewe,ewe,Ewe,TRUE,0
@@ -1125,12 +1107,12 @@ r2,q83,171,Senufo,sup,Supyire,TRUE,0
 r2,q83,172,Mianka,nrg,Nanerge,TRUE,2
 r2,q83,172,Mianka,sup,Supyire,TRUE,2
 r2,q83,173,Samoko,bbf,Bobo Madaré (Northern),TRUE,5
-r2,q83,174,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r2,q83,174,Bobo,kfe,Koromfe,TRUE,4
-r2,q83,175,Bozo,boz,Bozo (Tigemaxo),TRUE,0
-r2,q83,176,Dogon,dds,Donno So,TRUE,0
-r2,q83,176,Dogon,dts,Toro So,TRUE,0
-r2,q83,176,Dogon,jms,Jamsay,TRUE,0
+r2,q83,174,Bobo,kfe,Koromfe,FALSE,
+r2,q83,175,Bozo,boz,Bozo (Tigemaxo),FALSE,
+r2,q83,176,Dogon,dds,Donno So,FALSE,
+r2,q83,176,Dogon,dts,Toro So,FALSE,
+r2,q83,176,Dogon,jms,Jamsay,FALSE,
+r2,q83,176,Dogon,tms,Tommo So,FALSE,
 r2,q83,177,Tamasheq,tsk,Tamashek,TRUE,0
 r2,q83,178,Mossi,moo,Mooré,TRUE,0
 r2,q83,180,Sesotho,ses,Sesotho,TRUE,0
@@ -1215,7 +1197,6 @@ r2,q83,246,Sembukushu,sub,Subiya,TRUE,4
 r2,q83,247,Seyei,yey,Yeyi,TRUE,0
 r2,q83,260,Hausa,hau,Hausa,TRUE,0
 r2,q83,261,Yoruba,yor,Yoruba,TRUE,0
-r2,q83,262,Igbo,agb,Leggbó,TRUE,0
 r2,q83,262,Igbo,igb,Igbo,TRUE,0
 r2,q83,263,Tiv,tiv,Tiv,TRUE,0
 r2,q83,264,Ijaw,ijo,Ijo (Kolokuma),TRUE,0
@@ -1225,7 +1206,6 @@ r2,q83,266,Nupe,nup,Nupe,TRUE,0
 r2,q83,267,Ibibio,ibi,Ibibio,TRUE,0
 r2,q83,268,Efik,efi,Efik,TRUE,0
 r2,q83,269,Edo,bni,Bini,TRUE,0
-r2,q83,270,Igala/Idoma,ido,Idoma,TRUE,0
 r2,q83,270,Igala/Idoma,ise,Isekiri,TRUE,4
 r2,q83,270,Igala/Idoma,yor,Yoruba,TRUE,4
 r2,q83,271,Urhobo,urh,Urhobo,TRUE,0
@@ -1257,7 +1237,7 @@ r2,q83,281,Ndebele,zno,Zulu (Northern),TRUE,4
 r2,q83,281,Ndebele,zso,Zulu (Southern),TRUE,4
 r2,q83,281,Ndebele,zul,Zulu,TRUE,4
 r2,q83,282,Venda,ven,Venda,TRUE,0
-r2,q83,283,Tonga,toz,Tonga (in Zambia),TRUE,0
+r2,q83,283,Tonga,toz,Tonga (in Zambia),FALSE,
 r2,q83,284,Sena,nse,Nsenga,TRUE,0
 r2,q83,300,Bemba,bem,Bemba,TRUE,0
 r2,q83,301,Chewa,cic,Chichewa,TRUE,0
@@ -1274,7 +1254,7 @@ r2,q83,304,Lunda,bem,Bemba,TRUE,0
 r2,q83,304,Lunda,lbu,Lunda,TRUE,0
 r2,q83,305,Luvale,luv,Luvale,TRUE,0
 r2,q83,306,Nyanja,cic,Chichewa,TRUE,0
-r2,q83,307,Tonga,toz,Tonga (in Zambia),TRUE,0
+r2,q83,307,Tonga,toz,Tonga (in Zambia),FALSE,
 r2,q83,308,Tumbuka,cic,Chichewa,TRUE,4
 r2,q83,308,Tumbuka,ngo,Ngoni,TRUE,4
 r2,q83,308,Tumbuka,nse,Nsenga,TRUE,4
@@ -1664,7 +1644,7 @@ r2,q97,108,Venda,ven,Venda,TRUE,0
 r2,q97,109,Zulu,zno,Zulu (Northern),TRUE,0
 r2,q97,109,Zulu,zso,Zulu (Southern),TRUE,0
 r2,q97,109,Zulu,zul,Zulu,TRUE,0
-r2,q97,120,Akan,akn,Akan,TRUE,2
+r2,q97,120,Akan,,,,
 r2,q97,121,Dagbani,dgb,Dagbani,TRUE,0
 r2,q97,122,Ewe,ewa,Ewe (Anglo),TRUE,0
 r2,q97,122,Ewe,ewe,Ewe,TRUE,0
@@ -1704,12 +1684,12 @@ r2,q97,171,Senufo,sup,Supyire,TRUE,0
 r2,q97,172,Mianka,nrg,Nanerge,TRUE,2
 r2,q97,172,Mianka,sup,Supyire,TRUE,2
 r2,q97,173,Samoko,bbf,Bobo Madaré (Northern),TRUE,5
-r2,q97,174,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r2,q97,174,Bobo,kfe,Koromfe,TRUE,4
-r2,q97,175,Bozo,boz,Bozo (Tigemaxo),TRUE,0
-r2,q97,176,Dogon,dds,Donno So,TRUE,0
-r2,q97,176,Dogon,dts,Toro So,TRUE,0
-r2,q97,176,Dogon,jms,Jamsay,TRUE,0
+r2,q97,174,Bobo,kfe,Koromfe,FALSE,
+r2,q97,175,Bozo,boz,Bozo (Tigemaxo),FALSE,
+r2,q97,176,Dogon,dds,Donno So,FALSE,
+r2,q97,176,Dogon,dts,Toro So,FALSE,
+r2,q97,176,Dogon,jms,Jamsay,FALSE,
+r2,q97,176,Dogon,tms,Tommo So,FALSE,
 r2,q97,177,Tamasheq,tsk,Tamashek,TRUE,0
 r2,q97,178,Mossi,moo,Mooré,TRUE,0
 r2,q97,180,Sesotho,ses,Sesotho,TRUE,0
@@ -1727,7 +1707,6 @@ r2,q97,225,Soninke,snn,Soninke,TRUE,0
 r2,q97,240,Setswana,tsw,Tswana,TRUE,0
 r2,q97,260,Hausa,hau,Hausa,TRUE,0
 r2,q97,261,Yoruba,yor,Yoruba,TRUE,0
-r2,q97,262,Igbo,agb,Leggbó,TRUE,0
 r2,q97,262,Igbo,igb,Igbo,TRUE,0
 r2,q97,263,Tiv,tiv,Tiv,TRUE,0
 r2,q97,264,Ijaw,ijo,Ijo (Kolokuma),TRUE,0
@@ -1737,7 +1716,6 @@ r2,q97,266,Nupe,nup,Nupe,TRUE,0
 r2,q97,267,Ibibio,ibi,Ibibio,TRUE,0
 r2,q97,268,Efik,efi,Efik,TRUE,0
 r2,q97,269,Edo,bni,Bini,TRUE,0
-r2,q97,270,Igala/Idoma,ido,Idoma,TRUE,0
 r2,q97,270,Igala/Idoma,ise,Isekiri,TRUE,4
 r2,q97,270,Igala/Idoma,yor,Yoruba,TRUE,4
 r2,q97,271,Urhobo,urh,Urhobo,TRUE,0
@@ -1779,7 +1757,7 @@ r2,q97,304,Lunda,bem,Bemba,TRUE,0
 r2,q97,304,Lunda,lbu,Lunda,TRUE,0
 r2,q97,305,Luvale,luv,Luvale,TRUE,0
 r2,q97,306,Nyanja,cic,Chichewa,TRUE,0
-r2,q97,307,Tonga,toz,Tonga (in Zambia),TRUE,0
+r2,q97,307,Tonga,toz,Tonga (in Zambia),FALSE,
 r2,q97,308,Tumbuka,cic,Chichewa,TRUE,4
 r2,q97,308,Tumbuka,ngo,Ngoni,TRUE,4
 r2,q97,308,Tumbuka,nse,Nsenga,TRUE,4
@@ -1891,7 +1869,7 @@ r3,q103,127,Yoa,ntn,Nateni,TRUE,4
 r3,q103,127,Yoa,wwa,Waama,TRUE,4
 r3,q103,140,Setswana,tsw,Tswana,TRUE,0
 r3,q103,165,Creole,por,Portuguese,FALSE,
-r3,q103,180,AKAN,akn,Akan,TRUE,2
+r3,q103,180,AKAN,,,,
 r3,q103,181,EWE,ewa,Ewe (Anglo),TRUE,0
 r3,q103,181,EWE,ewe,Ewe,TRUE,0
 r3,q103,182,GA,ga,Gã,TRUE,0
@@ -2026,11 +2004,11 @@ r3,q103,286,Malink,mdk,Mandinka,TRUE,2
 r3,q103,286,Malink,mkg,Mandinka (Gambian),TRUE,2
 r3,q103,286,Malink,xas,Xasonga,TRUE,2
 r3,q103,287,Khasonk,xas,Xasonga,TRUE,0
-r3,q103,288,Dogon,dds,Donno So,TRUE,0
-r3,q103,288,Dogon,dts,Toro So,TRUE,0
-r3,q103,288,Dogon,jms,Jamsay,TRUE,0
-r3,q103,289,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r3,q103,289,Bobo,kfe,Koromfe,TRUE,4
+r3,q103,288,Dogon,dds,Donno So,FALSE,
+r3,q103,288,Dogon,dts,Toro So,FALSE,
+r3,q103,288,Dogon,jms,Jamsay,FALSE,
+r3,q103,288,Dogon,tms,Tommo So,FALSE,
+r3,q103,289,Bobo,kfe,Koromfe,FALSE,
 r3,q103,292,Maure,ahs,Arabic (Bani-Hassan),TRUE,0
 r3,q103,293,Kakolo,maw,Maninka (Western),TRUE,2
 r3,q103,293,Kakolo,mdk,Mandinka,TRUE,2
@@ -2150,7 +2128,6 @@ r3,q103,336,Afrikaans and local languages,afr,Afrikaans,TRUE,0
 r3,q103,337,"English, Afrikaans and local languages",,,,
 r3,q103,338,More than one local language,,,,
 r3,q103,340,Hausa,hau,Hausa,TRUE,0
-r3,q103,341,Igbo,agb,Leggbó,TRUE,0
 r3,q103,341,Igbo,igb,Igbo,TRUE,0
 r3,q103,342,Yoruba,yor,Yoruba,TRUE,0
 r3,q103,343,Pidgin English,npi,Nigerian Pidgin,TRUE,0
@@ -2194,7 +2171,7 @@ r3,q103,419,Lusoga,rru,Runyoro-Rutooro,TRUE,4
 r3,q103,419,Lusoga,tal,Talinga,TRUE,4
 r3,q103,420,Bemba,bem,Bemba,TRUE,0
 r3,q103,421,Nyanja,cic,Chichewa,TRUE,0
-r3,q103,422,Tonga,toz,Tonga (in Zambia),TRUE,0
+r3,q103,422,Tonga,toz,Tonga (in Zambia),FALSE,
 r3,q103,423,Lozi,loz,Lozi,TRUE,0
 r3,q103,440,Ndebele,klz,Kalanga,TRUE,4
 r3,q103,440,Ndebele,krg,Karanga,TRUE,4
@@ -2215,7 +2192,7 @@ r3,q103,441,Shona,krg,Karanga,TRUE,0
 r3,q103,441,Shona,shn,Shona,TRUE,0
 r3,q103,442,Venda,ven,Venda,TRUE,0
 r3,q103,443,Kalanga,klz,Kalanga,TRUE,0
-r3,q103,444,Tonga,toz,Tonga (in Zambia),TRUE,0
+r3,q103,444,Tonga,toz,Tonga (in Zambia),FALSE,
 r3,q103,501,Rufumbia,kin,Kinyarwanda,TRUE,0
 r3,q103,506,Runyoro - Rutooro,buk,Bukusu,TRUE,4
 r3,q103,506,Runyoro - Rutooro,gus,Gusii,TRUE,4
@@ -2288,7 +2265,7 @@ r3,q114,144,Sekalanga,klz,Kalanga,TRUE,0
 r3,q114,145,Seherero,her,Herero,TRUE,0
 r3,q114,147,Sebirwa,stn,Sotho (Northern),TRUE,2
 r3,q114,165,Creole,por,Portuguese,FALSE,
-r3,q114,180,AKAN,akn,Akan,TRUE,2
+r3,q114,180,AKAN,,,,
 r3,q114,181,EWE,ewa,Ewe (Anglo),TRUE,0
 r3,q114,181,EWE,ewe,Ewe,TRUE,0
 r3,q114,182,GA,ga,Gã,TRUE,0
@@ -2404,12 +2381,12 @@ r3,q114,286,Malinké,mdk,Mandinka,TRUE,2
 r3,q114,286,Malinké,mkg,Mandinka (Gambian),TRUE,2
 r3,q114,286,Malinké,xas,Xasonga,TRUE,2
 r3,q114,287,Khasonké,xas,Xasonga,TRUE,0
-r3,q114,288,Dogon,dds,Donno So,TRUE,0
-r3,q114,288,Dogon,dts,Toro So,TRUE,0
-r3,q114,288,Dogon,jms,Jamsay,TRUE,0
-r3,q114,289,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r3,q114,289,Bobo,kfe,Koromfe,TRUE,4
-r3,q114,290,Bozo,boz,Bozo (Tigemaxo),TRUE,0
+r3,q114,288,Dogon,dds,Donno So,FALSE,
+r3,q114,288,Dogon,dts,Toro So,FALSE,
+r3,q114,288,Dogon,jms,Jamsay,FALSE,
+r3,q114,288,Dogon,tms,Tommo So,FALSE,
+r3,q114,289,Bobo,kfe,Koromfe,FALSE,
+r3,q114,290,Bozo,boz,Bozo (Tigemaxo),FALSE,
 r3,q114,291,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0
 r3,q114,292,Maure,ahs,Arabic (Bani-Hassan),TRUE,0
 r3,q114,293,Kakolo,maw,Maninka (Western),TRUE,2
@@ -2504,7 +2481,6 @@ r3,q114,326,Oshiwambo,yey,Yeyi,TRUE,4
 r3,q114,327,Otjiherero,her,Herero,TRUE,0
 r3,q114,328,Setswana,tsw,Tswana,TRUE,0
 r3,q114,340,Hausa,hau,Hausa,TRUE,0
-r3,q114,341,Igbo,agb,Leggbó,TRUE,0
 r3,q114,341,Igbo,igb,Igbo,TRUE,0
 r3,q114,342,Yoruba,yor,Yoruba,TRUE,0
 r3,q114,343,Pidgin English,npi,Nigerian Pidgin,TRUE,0
@@ -2658,7 +2634,7 @@ r3,q114,419,Lusoga,rru,Runyoro-Rutooro,TRUE,4
 r3,q114,419,Lusoga,tal,Talinga,TRUE,4
 r3,q114,420,Bemba,bem,Bemba,TRUE,0
 r3,q114,421,Nyanja,cic,Chichewa,TRUE,0
-r3,q114,422,Tonga,toz,Tonga (in Zambia),TRUE,0
+r3,q114,422,Tonga,toz,Tonga (in Zambia),FALSE,
 r3,q114,423,Lozi,loz,Lozi,TRUE,0
 r3,q114,424,Chewa,cic,Chichewa,TRUE,0
 r3,q114,425,Nsenga,nse,Nsenga,TRUE,0
@@ -2690,7 +2666,7 @@ r3,q114,441,Shona,krg,Karanga,TRUE,0
 r3,q114,441,Shona,shn,Shona,TRUE,0
 r3,q114,442,Venda,ven,Venda,TRUE,0
 r3,q114,443,Kalanga,klz,Kalanga,TRUE,0
-r3,q114,444,Tonga,toz,Tonga (in Zambia),TRUE,0
+r3,q114,444,Tonga,toz,Tonga (in Zambia),FALSE,
 r3,q114,503,Rukiga,nko,Nkore-Kiga,TRUE,0
 r3,q114,506,Runyoro - Rutooro,buk,Bukusu,TRUE,4
 r3,q114,506,Runyoro - Rutooro,gus,Gusii,TRUE,4
@@ -2735,7 +2711,6 @@ r3,q114,566,Korro,kgm,Kagoma,TRUE,4
 r3,q114,566,Korro,tok,Tarok,TRUE,4
 r3,q114,567,Ogoni,kan,Kana,TRUE,0
 r3,q114,568,Mbembe,agb,Leggbó,TRUE,4
-r3,q114,568,Mbembe,juk,Jukun,TRUE,4
 r3,q114,569,Sayawa,miy,Miya,TRUE,5
 r3,q114,569,Sayawa,paa,Pa'a,TRUE,5
 r3,q114,580,Itsekiri,ise,Isekiri,TRUE,0
@@ -2827,7 +2802,7 @@ r3,q3,148,Sengologa,zso,Zulu (Southern),TRUE,4
 r3,q3,148,Sengologa,zul,Zulu,TRUE,4
 r3,q3,149,Seyei,yey,Yeyi,TRUE,0
 r3,q3,165,Creole,por,Portuguese,FALSE,
-r3,q3,180,AKAN,akn,Akan,TRUE,2
+r3,q3,180,AKAN,,,,
 r3,q3,181,EWE,ewa,Ewe (Anglo),TRUE,0
 r3,q3,181,EWE,ewe,Ewe,TRUE,0
 r3,q3,182,GA/DANGBE,ga,Gã,TRUE,0
@@ -2904,7 +2879,7 @@ r3,q3,241,langue régionale,mal,Malagasy,TRUE,2
 r3,q3,242,chinois,cnt,Cantonese,TRUE,0
 r3,q3,242,chinois,kug,Kunming,TRUE,0
 r3,q3,242,chinois,mnd,Mandarin,TRUE,0
-r3,q3,243,comorien,com,Comorian,TRUE,0
+r3,q3,243,comorien,com,Comorian,FALSE,
 r3,q3,244,pakistanais,,,,
 r3,q3,260,Tumbuka,cic,Chichewa,TRUE,4
 r3,q3,260,Tumbuka,ngo,Ngoni,TRUE,4
@@ -2968,12 +2943,12 @@ r3,q3,286,Malink,mdk,Mandinka,TRUE,2
 r3,q3,286,Malink,mkg,Mandinka (Gambian),TRUE,2
 r3,q3,286,Malink,xas,Xasonga,TRUE,2
 r3,q3,287,Khasonk,xas,Xasonga,TRUE,0
-r3,q3,288,Dogon,dds,Donno So,TRUE,0
-r3,q3,288,Dogon,dts,Toro So,TRUE,0
-r3,q3,288,Dogon,jms,Jamsay,TRUE,0
-r3,q3,289,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r3,q3,289,Bobo,kfe,Koromfe,TRUE,4
-r3,q3,290,Bozo,boz,Bozo (Tigemaxo),TRUE,0
+r3,q3,288,Dogon,dds,Donno So,FALSE,
+r3,q3,288,Dogon,dts,Toro So,FALSE,
+r3,q3,288,Dogon,jms,Jamsay,FALSE,
+r3,q3,288,Dogon,tms,Tommo So,FALSE,
+r3,q3,289,Bobo,kfe,Koromfe,FALSE,
+r3,q3,290,Bozo,boz,Bozo (Tigemaxo),FALSE,
 r3,q3,291,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0
 r3,q3,292,Maure,ahs,Arabic (Bani-Hassan),TRUE,0
 r3,q3,293,Kakolo,maw,Maninka (Western),TRUE,2
@@ -3120,7 +3095,6 @@ r3,q3,338,Ndebele,zno,Zulu (Northern),TRUE,4
 r3,q3,338,Ndebele,zso,Zulu (Southern),TRUE,4
 r3,q3,338,Ndebele,zul,Zulu,TRUE,4
 r3,q3,340,Hausa,hau,Hausa,TRUE,0
-r3,q3,341,Igbo,agb,Leggbó,TRUE,0
 r3,q3,341,Igbo,igb,Igbo,TRUE,0
 r3,q3,342,Yoruba,yor,Yoruba,TRUE,0
 r3,q3,343,Pidgin English,npi,Nigerian Pidgin,TRUE,0
@@ -3296,7 +3270,7 @@ r3,q3,419,Lusoga,rru,Runyoro-Rutooro,TRUE,4
 r3,q3,419,Lusoga,tal,Talinga,TRUE,4
 r3,q3,420,Bemba,bem,Bemba,TRUE,0
 r3,q3,421,Nyanja,cic,Chichewa,TRUE,0
-r3,q3,422,Tonga,toz,Tonga (in Zambia),TRUE,0
+r3,q3,422,Tonga,toz,Tonga (in Zambia),FALSE,
 r3,q3,423,Lozi,loz,Lozi,TRUE,0
 r3,q3,424,Chewa,cic,Chichewa,TRUE,0
 r3,q3,425,Nsenga,nse,Nsenga,TRUE,0
@@ -3368,7 +3342,7 @@ r3,q3,441,Shona,krg,Karanga,TRUE,0
 r3,q3,441,Shona,shn,Shona,TRUE,0
 r3,q3,442,Venda,ven,Venda,TRUE,0
 r3,q3,443,Kalanga,klz,Kalanga,TRUE,0
-r3,q3,444,Tonga,toz,Tonga (in Zambia),TRUE,0
+r3,q3,444,Tonga,toz,Tonga (in Zambia),FALSE,
 r3,q3,500,Lunyoli,buk,Bukusu,TRUE,4
 r3,q3,500,Lunyoli,gus,Gusii,TRUE,4
 r3,q3,500,Lunyoli,hnd,Hunde,TRUE,4
@@ -3464,7 +3438,6 @@ r3,q3,566,Korro,kgm,Kagoma,TRUE,4
 r3,q3,566,Korro,tok,Tarok,TRUE,4
 r3,q3,567,Ogoni,kan,Kana,TRUE,0
 r3,q3,568,Mbembe,agb,Leggbó,TRUE,4
-r3,q3,568,Mbembe,juk,Jukun,TRUE,4
 r3,q3,569,Sayawa,miy,Miya,TRUE,5
 r3,q3,569,Sayawa,paa,Pa'a,TRUE,5
 r3,q3,580,Itsekiri,ise,Isekiri,TRUE,0
@@ -3693,8 +3666,7 @@ r4,Q103,184,Fulfude,fli,Ful (Liptako),TRUE,0
 r4,Q103,185,Gulmacema,grm,Gurma,TRUE,0
 r4,Q103,185,Gulmacema,gut,Gurma (Togo),TRUE,0
 r4,Q103,186,Gourounsi,grn,Gurenne,TRUE,0
-r4,Q103,187,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r4,Q103,187,Bobo,kfe,Koromfe,TRUE,4
+r4,Q103,187,Bobo,bbf,Bobo Madaré (Northern),FALSE,
 r4,Q103,188,Bissa,bis,Bisa,TRUE,0
 r4,Q103,189,Dagari,dga,Dagaare,TRUE,2
 r4,Q103,190,Birifor,dga,Dagaare,TRUE,4
@@ -3704,10 +3676,6 @@ r4,Q103,191,Lobi,lob,Lobi,TRUE,0
 r4,Q103,192,Samo,bis,Bisa,TRUE,4
 r4,Q103,192,Samo,bok,Boko,TRUE,4
 r4,Q103,192,Samo,bus,Busa,TRUE,4
-r4,Q103,192,Samo,ksm,Kasem,TRUE,2
-r4,Q103,192,Samo,lye,Lyele,TRUE,2
-r4,Q103,192,Samo,nnn,Nuni (Northern),TRUE,2
-r4,Q103,192,Samo,xsm,Kàsim,TRUE,2
 r4,Q103,193,Senoufo,nrg,Nanerge,TRUE,0
 r4,Q103,193,Senoufo,snd,Senadi,TRUE,2
 r4,Q103,193,Senoufo,sup,Supyire,TRUE,2
@@ -3716,7 +3684,7 @@ r4,Q103,195,Goin,kir,Kirma,TRUE,0
 r4,Q103,196,Turka,kir,Kirma,TRUE,2
 r4,Q103,197,Yanan,moo,Mooré,TRUE,0
 r4,Q103,198,Marka,mnk,Maninka,TRUE,4
-r4,Q103,199,Bwamu,kfe,Koromfe,TRUE,4
+r4,Q103,199,Bwamu,kfe,Koromfe,FALSE,
 r4,Q103,200,Karaboro,tny,Tenyer,TRUE,0
 r4,Q103,201,Fuls,kfe,Koromfe,TRUE,0
 r4,Q103,202,Sonra,kch,Koyra Chiini,TRUE,2
@@ -3724,7 +3692,7 @@ r4,Q103,202,Sonra,kse,Koyraboro Senni,TRUE,2
 r4,Q103,202,Sonra,zar,Zarma,TRUE,2
 r4,Q103,220,Crioulo,por,Portuguese,FALSE,
 r4,Q103,221,Portugues,por,Portuguese,TRUE,0
-r4,Q103,260,Akan,akn,Akan,TRUE,2
+r4,Q103,260,Akan,,,,
 r4,Q103,261,Ewe,ewa,Ewe (Anglo),TRUE,0
 r4,Q103,261,Ewe,ewe,Ewe,TRUE,0
 r4,Q103,262,Ga/Dangbe,ga,Gã,TRUE,0
@@ -3835,7 +3803,7 @@ r4,Q103,421,Malagasy with regional variation,mal,Malagasy,TRUE,2
 r4,Q103,422,Chinois,cnt,Cantonese,TRUE,0
 r4,Q103,422,Chinois,kug,Kunming,TRUE,0
 r4,Q103,422,Chinois,mnd,Mandarin,TRUE,0
-r4,Q103,423,Comorien,com,Comorian,TRUE,0
+r4,Q103,423,Comorien,com,Comorian,FALSE,
 r4,Q103,424,Indo-pakistanais,,,,
 r4,Q103,460,Tumbuka,cic,Chichewa,TRUE,4
 r4,Q103,460,Tumbuka,ngo,Ngoni,TRUE,4
@@ -3916,12 +3884,12 @@ r4,Q103,477,Wiza,toz,Tonga (in Zambia),TRUE,4
 r4,Q103,500,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0
 r4,Q103,501,Bambara,bam,Bambara,TRUE,0
 r4,Q103,502,Bella,kse,Koyraboro Senni,TRUE,0
-r4,Q103,503,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r4,Q103,503,Bobo,kfe,Koromfe,TRUE,4
-r4,Q103,504,Bozo,boz,Bozo (Tigemaxo),TRUE,0
-r4,Q103,506,Dogon,dds,Donno So,TRUE,0
-r4,Q103,506,Dogon,dts,Toro So,TRUE,0
-r4,Q103,506,Dogon,jms,Jamsay,TRUE,0
+r4,Q103,503,Bobo,kfe,Koromfe,FALSE,
+r4,Q103,504,Bozo,boz,Bozo (Tigemaxo),FALSE,
+r4,Q103,506,Dogon,dds,Donno So,FALSE,
+r4,Q103,506,Dogon,dts,Toro So,FALSE,
+r4,Q103,506,Dogon,jms,Jamsay,FALSE,
+r4,Q103,506,Dogon,tms,Tommo So,FALSE,
 r4,Q103,507,Gana,bam,Bambara,TRUE,0
 r4,Q103,508,Khassonke,xas,Xasonga,TRUE,0
 r4,Q103,509,Malinke,maw,Maninka (Western),TRUE,2
@@ -4126,13 +4094,7 @@ r4,Q103,587,Thimbukushu,sub,Subiya,TRUE,4
 r4,Q103,588,Silozi,loz,Lozi,TRUE,0
 r4,Q103,589,Setswana,tsw,Tswana,TRUE,0
 r4,Q103,590,Masubia,sub,Subiya,TRUE,0
-r4,Q103,591,San,juh,Ju|'hoan,TRUE,0
-r4,Q103,591,San,kho,Khoekhoe,TRUE,0
-r4,Q103,591,San,krn,Korana,TRUE,4
-r4,Q103,591,San,kxo,Kxoe,TRUE,0
-r4,Q103,591,San,nro,Nharo,TRUE,0
-r4,Q103,591,San,xoo,!Xóõ,TRUE,0
-r4,Q103,591,San,xun,!Xun (Ekoka),TRUE,0
+r4,Q103,591,San,juh,Ju|'hoan,FALSE,
 r4,Q103,592,Mufwe,kwn,Kwangali,TRUE,4
 r4,Q103,592,Mufwe,loz,Lozi,TRUE,4
 r4,Q103,592,Mufwe,luc,Lucazi,TRUE,4
@@ -4145,7 +4107,6 @@ r4,Q103,593,Nyemba,umb,UMbundu,TRUE,4
 r4,Q103,593,Nyemba,yey,Yeyi,TRUE,4
 r4,Q103,594,Uumbundu,umb,UMbundu,TRUE,0
 r4,Q103,620,Hausa,hau,Hausa,TRUE,0
-r4,Q103,621,Igbo,agb,Leggbó,TRUE,0
 r4,Q103,621,Igbo,igb,Igbo,TRUE,0
 r4,Q103,622,Yoruba,yor,Yoruba,TRUE,0
 r4,Q103,623,Pidgin English,npi,Nigerian Pidgin,TRUE,0
@@ -4160,8 +4121,6 @@ r4,Q103,629,Kanuri,knr,Kanuri,TRUE,0
 r4,Q103,630,Tiv,tiv,Tiv,TRUE,0
 r4,Q103,631,Nupe,nup,Nupe,TRUE,0
 r4,Q103,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijo,Ijo (Kolokuma),TRUE,0
-r4,Q103,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,kan,Kana,TRUE,0
-r4,Q103,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,obo,Obolo,TRUE,0
 r4,Q103,633,Edo,bni,Bini,TRUE,0
 r4,Q103,634,Igala,ise,Isekiri,TRUE,4
 r4,Q103,634,Igala,yor,Yoruba,TRUE,4
@@ -4541,7 +4500,7 @@ r4,Q103,804,Runyarwanda,kin,Kinyarwanda,TRUE,0
 r4,Q103,805,Sabiny,seb,Sebei,TRUE,0
 r4,Q103,820,Bemba,bem,Bemba,TRUE,0
 r4,Q103,821,Nyanja,cic,Chichewa,TRUE,0
-r4,Q103,822,Tonga,toz,Tonga (in Zambia),TRUE,0
+r4,Q103,822,Tonga,toz,Tonga (in Zambia),FALSE,
 r4,Q103,823,Lozi,loz,Lozi,TRUE,0
 r4,Q103,824,Chewa,cic,Chichewa,TRUE,0
 r4,Q103,825,Nsenga,nse,Nsenga,TRUE,0
@@ -4652,22 +4611,7 @@ r4,Q103,861,Shona,krg,Karanga,TRUE,0
 r4,Q103,861,Shona,shn,Shona,TRUE,0
 r4,Q103,862,Venda,ven,Venda,TRUE,0
 r4,Q103,863,Kalanga,klz,Kalanga,TRUE,0
-r4,Q103,864,Tonga,klz,Kalanga,TRUE,4
-r4,Q103,864,Tonga,krg,Karanga,TRUE,4
-r4,Q103,864,Tonga,ndb,Ndebele (in South Africa),TRUE,4
-r4,Q103,864,Tonga,rga,Ronga,TRUE,4
-r4,Q103,864,Tonga,ses,Sesotho,TRUE,4
-r4,Q103,864,Tonga,shn,Shona,TRUE,4
-r4,Q103,864,Tonga,stn,Sotho (Northern),TRUE,4
-r4,Q103,864,Tonga,swt,Swati,TRUE,4
-r4,Q103,864,Tonga,toz,Tonga (in Zambia),TRUE,0
-r4,Q103,864,Tonga,tsn,Tsonga,TRUE,0
-r4,Q103,864,Tonga,tsw,Tswana,TRUE,4
-r4,Q103,864,Tonga,ven,Venda,TRUE,4
-r4,Q103,864,Tonga,xho,Xhosa,TRUE,4
-r4,Q103,864,Tonga,zno,Zulu (Northern),TRUE,4
-r4,Q103,864,Tonga,zso,Zulu (Southern),TRUE,4
-r4,Q103,864,Tonga,zul,Zulu,TRUE,4
+r4,Q103,864,Tonga,toz,Tonga (in Zambia),FALSE,
 r4,Q103,865,Nambya,klz,Kalanga,TRUE,2
 r4,Q103,866,Nyanja,cic,Chichewa,TRUE,0
 r4,Q103,995,Others,,,,
@@ -4759,8 +4703,7 @@ r4,Q114,184,Fulfude,fli,Ful (Liptako),TRUE,0
 r4,Q114,185,Gulmacema,grm,Gurma,TRUE,0
 r4,Q114,185,Gulmacema,gut,Gurma (Togo),TRUE,0
 r4,Q114,186,Gourounsi,grn,Gurenne,TRUE,0
-r4,Q114,187,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r4,Q114,187,Bobo,kfe,Koromfe,TRUE,4
+r4,Q114,187,Bobo,bbf,Bobo Madaré (Northern),FALSE,
 r4,Q114,188,Bissa,bis,Bisa,TRUE,0
 r4,Q114,189,Dagari,dga,Dagaare,TRUE,2
 r4,Q114,190,Birifor,dga,Dagaare,TRUE,4
@@ -4770,10 +4713,6 @@ r4,Q114,191,Lobi,lob,Lobi,TRUE,0
 r4,Q114,192,Samo,bis,Bisa,TRUE,4
 r4,Q114,192,Samo,bok,Boko,TRUE,4
 r4,Q114,192,Samo,bus,Busa,TRUE,4
-r4,Q114,192,Samo,ksm,Kasem,TRUE,2
-r4,Q114,192,Samo,lye,Lyele,TRUE,2
-r4,Q114,192,Samo,nnn,Nuni (Northern),TRUE,2
-r4,Q114,192,Samo,xsm,Kàsim,TRUE,2
 r4,Q114,193,Senoufo,nrg,Nanerge,TRUE,0
 r4,Q114,193,Senoufo,snd,Senadi,TRUE,2
 r4,Q114,193,Senoufo,sup,Supyire,TRUE,2
@@ -4782,7 +4721,7 @@ r4,Q114,195,Goin,kir,Kirma,TRUE,0
 r4,Q114,196,Turka,kir,Kirma,TRUE,2
 r4,Q114,197,Yanan,moo,Mooré,TRUE,0
 r4,Q114,198,Marka,mnk,Maninka,TRUE,4
-r4,Q114,199,Bwamu,kfe,Koromfe,TRUE,4
+r4,Q114,199,Bwamu,kfe,Koromfe,FALSE,
 r4,Q114,200,Karaboro,tny,Tenyer,TRUE,0
 r4,Q114,201,Fuls,kfe,Koromfe,TRUE,0
 r4,Q114,202,Sonra,kch,Koyra Chiini,TRUE,2
@@ -4790,7 +4729,7 @@ r4,Q114,202,Sonra,kse,Koyraboro Senni,TRUE,2
 r4,Q114,202,Sonra,zar,Zarma,TRUE,2
 r4,Q114,220,Crioulo,por,Portuguese,FALSE,
 r4,Q114,221,Portugues,por,Portuguese,TRUE,0
-r4,Q114,260,Akan,akn,Akan,TRUE,2
+r4,Q114,260,Akan,,,,
 r4,Q114,261,Ewe,ewa,Ewe (Anglo),TRUE,0
 r4,Q114,261,Ewe,ewe,Ewe,TRUE,0
 r4,Q114,262,Ga/Dangbe,ga,Gã,TRUE,0
@@ -4901,7 +4840,7 @@ r4,Q114,421,Malagasy with regional variation,mal,Malagasy,TRUE,2
 r4,Q114,422,Chinois,cnt,Cantonese,TRUE,0
 r4,Q114,422,Chinois,kug,Kunming,TRUE,0
 r4,Q114,422,Chinois,mnd,Mandarin,TRUE,0
-r4,Q114,423,Comorien,com,Comorian,TRUE,0
+r4,Q114,423,Comorien,com,Comorian,FALSE,
 r4,Q114,424,Indo-pakistanais,,,,
 r4,Q114,460,Tumbuka,cic,Chichewa,TRUE,4
 r4,Q114,460,Tumbuka,ngo,Ngoni,TRUE,4
@@ -4982,12 +4921,12 @@ r4,Q114,477,Wiza,toz,Tonga (in Zambia),TRUE,4
 r4,Q114,500,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0
 r4,Q114,501,Bambara,bam,Bambara,TRUE,0
 r4,Q114,502,Bella,kse,Koyraboro Senni,TRUE,0
-r4,Q114,503,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r4,Q114,503,Bobo,kfe,Koromfe,TRUE,4
-r4,Q114,504,Bozo,boz,Bozo (Tigemaxo),TRUE,0
-r4,Q114,506,Dogon,dds,Donno So,TRUE,0
-r4,Q114,506,Dogon,dts,Toro So,TRUE,0
-r4,Q114,506,Dogon,jms,Jamsay,TRUE,0
+r4,Q114,503,Bobo,kfe,Koromfe,FALSE,
+r4,Q114,504,Bozo,boz,Bozo (Tigemaxo),FALSE,
+r4,Q114,506,Dogon,dds,Donno So,FALSE,
+r4,Q114,506,Dogon,dts,Toro So,FALSE,
+r4,Q114,506,Dogon,jms,Jamsay,FALSE,
+r4,Q114,506,Dogon,tms,Tommo So,FALSE,
 r4,Q114,507,Gana,bam,Bambara,TRUE,0
 r4,Q114,508,Khassonke,xas,Xasonga,TRUE,0
 r4,Q114,509,Malinke,maw,Maninka (Western),TRUE,2
@@ -5192,13 +5131,7 @@ r4,Q114,587,Thimbukushu,sub,Subiya,TRUE,4
 r4,Q114,588,Silozi,loz,Lozi,TRUE,0
 r4,Q114,589,Setswana,tsw,Tswana,TRUE,0
 r4,Q114,590,Masubia,sub,Subiya,TRUE,0
-r4,Q114,591,San,juh,Ju|'hoan,TRUE,0
-r4,Q114,591,San,kho,Khoekhoe,TRUE,0
-r4,Q114,591,San,krn,Korana,TRUE,4
-r4,Q114,591,San,kxo,Kxoe,TRUE,0
-r4,Q114,591,San,nro,Nharo,TRUE,0
-r4,Q114,591,San,xoo,!Xóõ,TRUE,0
-r4,Q114,591,San,xun,!Xun (Ekoka),TRUE,0
+r4,Q114,591,San,juh,Ju|'hoan,FALSE,
 r4,Q114,592,Mufwe,kwn,Kwangali,TRUE,4
 r4,Q114,592,Mufwe,loz,Lozi,TRUE,4
 r4,Q114,592,Mufwe,luc,Lucazi,TRUE,4
@@ -5211,7 +5144,6 @@ r4,Q114,593,Nyemba,umb,UMbundu,TRUE,4
 r4,Q114,593,Nyemba,yey,Yeyi,TRUE,4
 r4,Q114,594,Uumbundu,umb,UMbundu,TRUE,0
 r4,Q114,620,Hausa,hau,Hausa,TRUE,0
-r4,Q114,621,Igbo,agb,Leggbó,TRUE,0
 r4,Q114,621,Igbo,igb,Igbo,TRUE,0
 r4,Q114,622,Yoruba,yor,Yoruba,TRUE,0
 r4,Q114,623,Pidgin English,npi,Nigerian Pidgin,TRUE,0
@@ -5226,8 +5158,6 @@ r4,Q114,629,Kanuri,knr,Kanuri,TRUE,0
 r4,Q114,630,Tiv,tiv,Tiv,TRUE,0
 r4,Q114,631,Nupe,nup,Nupe,TRUE,0
 r4,Q114,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijo,Ijo (Kolokuma),TRUE,0
-r4,Q114,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,kan,Kana,TRUE,0
-r4,Q114,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,obo,Obolo,TRUE,0
 r4,Q114,633,Edo,bni,Bini,TRUE,0
 r4,Q114,634,Igala,ise,Isekiri,TRUE,4
 r4,Q114,634,Igala,yor,Yoruba,TRUE,4
@@ -5607,7 +5537,7 @@ r4,Q114,804,Runyarwanda,kin,Kinyarwanda,TRUE,0
 r4,Q114,805,Sabiny,seb,Sebei,TRUE,0
 r4,Q114,820,Bemba,bem,Bemba,TRUE,0
 r4,Q114,821,Nyanja,cic,Chichewa,TRUE,0
-r4,Q114,822,Tonga,toz,Tonga (in Zambia),TRUE,0
+r4,Q114,822,Tonga,toz,Tonga (in Zambia),FALSE,
 r4,Q114,823,Lozi,loz,Lozi,TRUE,0
 r4,Q114,824,Chewa,cic,Chichewa,TRUE,0
 r4,Q114,825,Nsenga,nse,Nsenga,TRUE,0
@@ -5718,22 +5648,7 @@ r4,Q114,861,Shona,krg,Karanga,TRUE,0
 r4,Q114,861,Shona,shn,Shona,TRUE,0
 r4,Q114,862,Venda,ven,Venda,TRUE,0
 r4,Q114,863,Kalanga,klz,Kalanga,TRUE,0
-r4,Q114,864,Tonga,klz,Kalanga,TRUE,4
-r4,Q114,864,Tonga,krg,Karanga,TRUE,4
-r4,Q114,864,Tonga,ndb,Ndebele (in South Africa),TRUE,4
-r4,Q114,864,Tonga,rga,Ronga,TRUE,4
-r4,Q114,864,Tonga,ses,Sesotho,TRUE,4
-r4,Q114,864,Tonga,shn,Shona,TRUE,4
-r4,Q114,864,Tonga,stn,Sotho (Northern),TRUE,4
-r4,Q114,864,Tonga,swt,Swati,TRUE,4
-r4,Q114,864,Tonga,toz,Tonga (in Zambia),TRUE,0
-r4,Q114,864,Tonga,tsn,Tsonga,TRUE,0
-r4,Q114,864,Tonga,tsw,Tswana,TRUE,4
-r4,Q114,864,Tonga,ven,Venda,TRUE,4
-r4,Q114,864,Tonga,xho,Xhosa,TRUE,4
-r4,Q114,864,Tonga,zno,Zulu (Northern),TRUE,4
-r4,Q114,864,Tonga,zso,Zulu (Southern),TRUE,4
-r4,Q114,864,Tonga,zul,Zulu,TRUE,4
+r4,Q114,864,Tonga,toz,Tonga (in Zambia),FALSE,
 r4,Q114,865,Nambya,klz,Kalanga,TRUE,2
 r4,Q114,866,Nyanja,cic,Chichewa,TRUE,0
 r4,Q114,995,Others,,,,
@@ -5825,8 +5740,7 @@ r4,Q3,184,Fulfude,fli,Ful (Liptako),TRUE,0
 r4,Q3,185,Gulmacema,grm,Gurma,TRUE,0
 r4,Q3,185,Gulmacema,gut,Gurma (Togo),TRUE,0
 r4,Q3,186,Gourounsi,grn,Gurenne,TRUE,0
-r4,Q3,187,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r4,Q3,187,Bobo,kfe,Koromfe,TRUE,4
+r4,Q3,187,Bobo,bbf,Bobo Madaré (Northern),FALSE,
 r4,Q3,188,Bissa,bis,Bisa,TRUE,0
 r4,Q3,189,Dagari,dga,Dagaare,TRUE,2
 r4,Q3,190,Birifor,dga,Dagaare,TRUE,4
@@ -5836,10 +5750,6 @@ r4,Q3,191,Lobi,lob,Lobi,TRUE,0
 r4,Q3,192,Samo,bis,Bisa,TRUE,4
 r4,Q3,192,Samo,bok,Boko,TRUE,4
 r4,Q3,192,Samo,bus,Busa,TRUE,4
-r4,Q3,192,Samo,ksm,Kasem,TRUE,2
-r4,Q3,192,Samo,lye,Lyele,TRUE,2
-r4,Q3,192,Samo,nnn,Nuni (Northern),TRUE,2
-r4,Q3,192,Samo,xsm,Kàsim,TRUE,2
 r4,Q3,193,Senoufo,nrg,Nanerge,TRUE,0
 r4,Q3,193,Senoufo,snd,Senadi,TRUE,2
 r4,Q3,193,Senoufo,sup,Supyire,TRUE,2
@@ -5848,7 +5758,7 @@ r4,Q3,195,Goin,kir,Kirma,TRUE,0
 r4,Q3,196,Turka,kir,Kirma,TRUE,2
 r4,Q3,197,Yanan,moo,Mooré,TRUE,0
 r4,Q3,198,Marka,mnk,Maninka,TRUE,4
-r4,Q3,199,Bwamu,kfe,Koromfe,TRUE,4
+r4,Q3,199,Bwamu,kfe,Koromfe,FALSE,
 r4,Q3,200,Karaboro,tny,Tenyer,TRUE,0
 r4,Q3,201,Fuls,kfe,Koromfe,TRUE,0
 r4,Q3,202,Sonra,kch,Koyra Chiini,TRUE,2
@@ -5856,7 +5766,7 @@ r4,Q3,202,Sonra,kse,Koyraboro Senni,TRUE,2
 r4,Q3,202,Sonra,zar,Zarma,TRUE,2
 r4,Q3,220,Crioulo,por,Portuguese,FALSE,
 r4,Q3,221,Portugues,por,Portuguese,TRUE,0
-r4,Q3,260,Akan,akn,Akan,TRUE,2
+r4,Q3,260,Akan,,,,
 r4,Q3,261,Ewe,ewa,Ewe (Anglo),TRUE,0
 r4,Q3,261,Ewe,ewe,Ewe,TRUE,0
 r4,Q3,262,Ga/Dangbe,ga,Gã,TRUE,0
@@ -5967,7 +5877,7 @@ r4,Q3,421,Malagasy with regional variation,mal,Malagasy,TRUE,2
 r4,Q3,422,Chinois,cnt,Cantonese,TRUE,0
 r4,Q3,422,Chinois,kug,Kunming,TRUE,0
 r4,Q3,422,Chinois,mnd,Mandarin,TRUE,0
-r4,Q3,423,Comorien,com,Comorian,TRUE,0
+r4,Q3,423,Comorien,com,Comorian,FALSE,
 r4,Q3,424,Indo-pakistanais,,,,
 r4,Q3,460,Tumbuka,cic,Chichewa,TRUE,4
 r4,Q3,460,Tumbuka,ngo,Ngoni,TRUE,4
@@ -6048,12 +5958,12 @@ r4,Q3,477,Wiza,toz,Tonga (in Zambia),TRUE,4
 r4,Q3,500,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0
 r4,Q3,501,Bambara,bam,Bambara,TRUE,0
 r4,Q3,502,Bella,kse,Koyraboro Senni,TRUE,0
-r4,Q3,503,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r4,Q3,503,Bobo,kfe,Koromfe,TRUE,4
-r4,Q3,504,Bozo,boz,Bozo (Tigemaxo),TRUE,0
-r4,Q3,506,Dogon,dds,Donno So,TRUE,0
-r4,Q3,506,Dogon,dts,Toro So,TRUE,0
-r4,Q3,506,Dogon,jms,Jamsay,TRUE,0
+r4,Q3,503,Bobo,kfe,Koromfe,FALSE,
+r4,Q3,504,Bozo,boz,Bozo (Tigemaxo),FALSE,
+r4,Q3,506,Dogon,dds,Donno So,FALSE,
+r4,Q3,506,Dogon,dts,Toro So,FALSE,
+r4,Q3,506,Dogon,jms,Jamsay,FALSE,
+r4,Q3,506,Dogon,tms,Tommo So,FALSE,
 r4,Q3,507,Gana,bam,Bambara,TRUE,0
 r4,Q3,508,Khassonke,xas,Xasonga,TRUE,0
 r4,Q3,509,Malinke,maw,Maninka (Western),TRUE,2
@@ -6268,13 +6178,7 @@ r4,Q3,587,Thimbukushu,sub,Subiya,TRUE,4
 r4,Q3,588,Silozi,loz,Lozi,TRUE,0
 r4,Q3,589,Setswana,tsw,Tswana,TRUE,0
 r4,Q3,590,Masubia,sub,Subiya,TRUE,0
-r4,Q3,591,San,juh,Ju|'hoan,TRUE,0
-r4,Q3,591,San,kho,Khoekhoe,TRUE,0
-r4,Q3,591,San,krn,Korana,TRUE,4
-r4,Q3,591,San,kxo,Kxoe,TRUE,0
-r4,Q3,591,San,nro,Nharo,TRUE,0
-r4,Q3,591,San,xoo,!Xóõ,TRUE,0
-r4,Q3,591,San,xun,!Xun (Ekoka),TRUE,0
+r4,Q3,591,San,juh,Ju|'hoan,FALSE,
 r4,Q3,592,Mufwe,kwn,Kwangali,TRUE,4
 r4,Q3,592,Mufwe,loz,Lozi,TRUE,4
 r4,Q3,592,Mufwe,luc,Lucazi,TRUE,4
@@ -6287,7 +6191,6 @@ r4,Q3,593,Nyemba,umb,UMbundu,TRUE,4
 r4,Q3,593,Nyemba,yey,Yeyi,TRUE,4
 r4,Q3,594,Uumbundu,umb,UMbundu,TRUE,0
 r4,Q3,620,Hausa,hau,Hausa,TRUE,0
-r4,Q3,621,Igbo,agb,Leggbó,TRUE,0
 r4,Q3,621,Igbo,igb,Igbo,TRUE,0
 r4,Q3,622,Yoruba,yor,Yoruba,TRUE,0
 r4,Q3,623,Pidgin English,npi,Nigerian Pidgin,TRUE,0
@@ -6302,8 +6205,6 @@ r4,Q3,629,Kanuri,knr,Kanuri,TRUE,0
 r4,Q3,630,Tiv,tiv,Tiv,TRUE,0
 r4,Q3,631,Nupe,nup,Nupe,TRUE,0
 r4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijo,Ijo (Kolokuma),TRUE,0
-r4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,kan,Kana,TRUE,0
-r4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,obo,Obolo,TRUE,0
 r4,Q3,633,Edo,bni,Bini,TRUE,0
 r4,Q3,634,Igala,ise,Isekiri,TRUE,4
 r4,Q3,634,Igala,yor,Yoruba,TRUE,4
@@ -6683,7 +6584,7 @@ r4,Q3,804,Runyarwanda,kin,Kinyarwanda,TRUE,0
 r4,Q3,805,Sabiny,seb,Sebei,TRUE,0
 r4,Q3,820,Bemba,bem,Bemba,TRUE,0
 r4,Q3,821,Nyanja,cic,Chichewa,TRUE,0
-r4,Q3,822,Tonga,toz,Tonga (in Zambia),TRUE,0
+r4,Q3,822,Tonga,toz,Tonga (in Zambia),FALSE,
 r4,Q3,823,Lozi,loz,Lozi,TRUE,0
 r4,Q3,824,Chewa,cic,Chichewa,TRUE,0
 r4,Q3,825,Nsenga,nse,Nsenga,TRUE,0
@@ -6794,22 +6695,7 @@ r4,Q3,861,Shona,krg,Karanga,TRUE,0
 r4,Q3,861,Shona,shn,Shona,TRUE,0
 r4,Q3,862,Venda,ven,Venda,TRUE,0
 r4,Q3,863,Kalanga,klz,Kalanga,TRUE,0
-r4,Q3,864,Tonga,klz,Kalanga,TRUE,4
-r4,Q3,864,Tonga,krg,Karanga,TRUE,4
-r4,Q3,864,Tonga,ndb,Ndebele (in South Africa),TRUE,4
-r4,Q3,864,Tonga,rga,Ronga,TRUE,4
-r4,Q3,864,Tonga,ses,Sesotho,TRUE,4
-r4,Q3,864,Tonga,shn,Shona,TRUE,4
-r4,Q3,864,Tonga,stn,Sotho (Northern),TRUE,4
-r4,Q3,864,Tonga,swt,Swati,TRUE,4
-r4,Q3,864,Tonga,toz,Tonga (in Zambia),TRUE,0
-r4,Q3,864,Tonga,tsn,Tsonga,TRUE,0
-r4,Q3,864,Tonga,tsw,Tswana,TRUE,4
-r4,Q3,864,Tonga,ven,Venda,TRUE,4
-r4,Q3,864,Tonga,xho,Xhosa,TRUE,4
-r4,Q3,864,Tonga,zno,Zulu (Northern),TRUE,4
-r4,Q3,864,Tonga,zso,Zulu (Southern),TRUE,4
-r4,Q3,864,Tonga,zul,Zulu,TRUE,4
+r4,Q3,864,Tonga,toz,Tonga (in Zambia),FALSE,
 r4,Q3,865,Nambya,klz,Kalanga,TRUE,2
 r4,Q3,866,Nyanja,cic,Chichewa,TRUE,0
 r4,Q3,995,Others,,,,
@@ -6858,7 +6744,7 @@ r5,Q103,182,Fulfuldé,fbf,Fula (Burkina Faso),TRUE,0
 r5,Q103,182,Fulfuldé,fli,Ful (Liptako),TRUE,0
 r5,Q103,182,Fulfuldé,fni,Fula (Nigerian),TRUE,2
 r5,Q103,220,Crioulo,por,Portuguese,FALSE,
-r5,Q103,260,Akan,akn,Akan,TRUE,2
+r5,Q103,260,Akan,,,,
 r5,Q103,261,Ewe,ewa,Ewe (Anglo),TRUE,0
 r5,Q103,261,Ewe,ewe,Ewe,TRUE,0
 r5,Q103,262,Ga/Dangbe,ga,Gã,TRUE,0
@@ -6924,7 +6810,6 @@ r5,Q103,583,Oshiwambo,yey,Yeyi,TRUE,4
 r5,Q103,584,Otjiherero,her,Herero,TRUE,0
 r5,Q103,585,Rukwangali,kwn,Kwangali,TRUE,0
 r5,Q103,620,Hausa,hau,Hausa,TRUE,0
-r5,Q103,621,Igbo,agb,Leggbó,TRUE,0
 r5,Q103,621,Igbo,igb,Igbo,TRUE,0
 r5,Q103,622,Yoruba,yor,Yoruba,TRUE,0
 r5,Q103,623,Pidgin English,npi,Nigerian Pidgin,TRUE,0
@@ -6944,7 +6829,7 @@ r5,Q103,709,Zulu,zno,Zulu (Northern),TRUE,0
 r5,Q103,709,Zulu,zso,Zulu (Southern),TRUE,0
 r5,Q103,709,Zulu,zul,Zulu,TRUE,0
 r5,Q103,711,Mixed - English/Afrikaans,,,,
-r5,Q103,712,Tsonga,tsn,Tsonga,TRUE,0
+r5,Q103,712,Tsonga,tsn,Tsonga,FALSE,
 r5,Q103,713,Siswati,swt,Swati,TRUE,0
 r5,Q103,780,Luganda,lda,Luganda,TRUE,0
 r5,Q103,781,Runyankole-Rukiga,rny,Runyankore,TRUE,0
@@ -6987,7 +6872,7 @@ r5,Q103,809,Lugwere,rru,Runyoro-Rutooro,TRUE,4
 r5,Q103,809,Lugwere,tal,Talinga,TRUE,4
 r5,Q103,820,Chewa/nyanja,cic,Chichewa,TRUE,0
 r5,Q103,821,Ichibemba,bem,Bemba,TRUE,0
-r5,Q103,822,Tonga,toz,Tonga (in Zambia),TRUE,0
+r5,Q103,822,Tonga,toz,Tonga (in Zambia),FALSE,
 r5,Q103,823,Kikaonde,blu,Bena-Lulua,TRUE,4
 r5,Q103,823,Kikaonde,cil,CiLuba,TRUE,4
 r5,Q103,823,Kikaonde,hem,Hemba,TRUE,4
@@ -7076,12 +6961,11 @@ r5,Q103,1340,Afan Oromo (Oromifa),orb,Oromo (Boraana),TRUE,0
 r5,Q103,1341,Amharic,amh,Amharic,TRUE,0
 r5,Q103,1342,Somaligna,som,Somali,TRUE,0
 r5,Q103,1343,Tigrigna,tig,Tigrinya,TRUE,0
-r5,Q103,1500,Amazigh,bma,Berber (Middle Atlas),TRUE,0
-r5,Q103,1500,Amazigh,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,0
+r5,Q103,1500,Amazigh,bma,Berber (Middle Atlas),TRUE,2
+r5,Q103,1500,Amazigh,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,2
 r5,Q103,1500,Amazigh,tas,Tashlhiyt,TRUE,2
 r5,Q103,1580,Amazigh,bma,Berber (Middle Atlas),TRUE,0
 r5,Q103,1580,Amazigh,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,0
-r5,Q103,1580,Amazigh,tas,Tashlhiyt,TRUE,2
 r5,Q103,1620,siSwati,swt,Swati,TRUE,0
 r5,Q103,9995,Other,,,,
 r5,Q116,-1,Missing,,,,
@@ -7090,9 +6974,10 @@ r5,Q116,2,French,fre,French,TRUE,0
 r5,Q116,3,Portuguese,por,Portuguese,TRUE,0
 r5,Q116,4,Kiswahili,swa,Swahili,TRUE,0
 r5,Q116,5,Arabic,ams,Arabic (Modern Standard),TRUE,0
+r5,Q116,10,Bassa,awk,Akwa,TRUE,4
 r5,Q116,10,Bassa,bas,Basaá,TRUE,0
+r5,Q116,10,Bassa,duk,Duka,TRUE,4
 r5,Q116,10,Bassa,kla,Klao,TRUE,4
-r5,Q116,10,Bassa,mud,Mundani,TRUE,2
 r5,Q116,15,Fulfuldé,fbf,Fula (Burkina Faso),TRUE,0
 r5,Q116,15,Fulfuldé,fli,Ful (Liptako),TRUE,0
 r5,Q116,15,Fulfuldé,fni,Fula (Nigerian),TRUE,2
@@ -7152,8 +7037,7 @@ r5,Q116,183,Gulmacema,grm,Gurma,TRUE,0
 r5,Q116,183,Gulmacema,gut,Gurma (Togo),TRUE,0
 r5,Q116,184,Gourounsi,grn,Gurenne,TRUE,0
 r5,Q116,185,Bissa,bis,Bisa,TRUE,0
-r5,Q116,186,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r5,Q116,186,Bobo,kfe,Koromfe,TRUE,4
+r5,Q116,186,Bobo,bbf,Bobo Madaré (Northern),FALSE,
 r5,Q116,187,Birifor,dga,Dagaare,TRUE,4
 r5,Q116,187,Birifor,grn,Gurenne,TRUE,4
 r5,Q116,187,Birifor,moo,Mooré,TRUE,4
@@ -7162,17 +7046,13 @@ r5,Q116,189,Lobi,lob,Lobi,TRUE,0
 r5,Q116,190,Samo,bis,Bisa,TRUE,4
 r5,Q116,190,Samo,bok,Boko,TRUE,4
 r5,Q116,190,Samo,bus,Busa,TRUE,4
-r5,Q116,190,Samo,ksm,Kasem,TRUE,2
-r5,Q116,190,Samo,lye,Lyele,TRUE,2
-r5,Q116,190,Samo,nnn,Nuni (Northern),TRUE,2
-r5,Q116,190,Samo,xsm,Kàsim,TRUE,2
 r5,Q116,191,Sénoufo,dym,Dyimini,TRUE,0
 r5,Q116,191,Sénoufo,naf,Nafaanra,TRUE,4
 r5,Q116,191,Sénoufo,nrg,Nanerge,TRUE,0
 r5,Q116,191,Sénoufo,snd,Senadi,TRUE,0
 r5,Q116,191,Sénoufo,sup,Supyire,TRUE,2
 r5,Q116,191,Sénoufo,tny,Tenyer,TRUE,4
-r5,Q116,192,Bwamu,kfe,Koromfe,TRUE,4
+r5,Q116,192,Bwamu,kfe,Koromfe,FALSE,
 r5,Q116,193,Goin,kir,Kirma,TRUE,0
 r5,Q116,194,Yanan,moo,Mooré,TRUE,0
 r5,Q116,195,Marka,mnk,Maninka,TRUE,4
@@ -7180,7 +7060,7 @@ r5,Q116,196,Kassena,ksm,Kasem,TRUE,0
 r5,Q116,196,Kassena,xsm,Kàsim,TRUE,0
 r5,Q116,197,Fulsé,kfe,Koromfe,TRUE,0
 r5,Q116,220,Crioulo,por,Portuguese,FALSE,
-r5,Q116,260,Akan,akn,Akan,TRUE,2
+r5,Q116,260,Akan,,,,
 r5,Q116,261,Ewe,ewa,Ewe (Anglo),TRUE,0
 r5,Q116,261,Ewe,ewe,Ewe,TRUE,0
 r5,Q116,262,Ga/Dangbe,ga,Gã,TRUE,0
@@ -7224,9 +7104,7 @@ r5,Q116,310,Somali,som,Somali,TRUE,0
 r5,Q116,311,Pokot,pkt,Pokot,TRUE,0
 r5,Q116,312,Turkana,tna,Turkana,TRUE,0
 r5,Q116,340,Sesotho,ses,Sesotho,TRUE,0
-r5,Q116,380,Bassa,bas,Basaá,TRUE,0
 r5,Q116,380,Bassa,kla,Klao,TRUE,4
-r5,Q116,380,Bassa,mud,Mundani,TRUE,2
 r5,Q116,384,Gio,dan,Dan,TRUE,0
 r5,Q116,384,Gio,dbw,Dan (Blowo),TRUE,0
 r5,Q116,385,Gola,gol,Gola,TRUE,0
@@ -7247,7 +7125,7 @@ r5,Q116,421,Malagasy dialect,mal,Malagasy,TRUE,2
 r5,Q116,422,Chinois,cnt,Cantonese,TRUE,0
 r5,Q116,422,Chinois,kug,Kunming,TRUE,0
 r5,Q116,422,Chinois,mnd,Mandarin,TRUE,0
-r5,Q116,423,Comorien,com,Comorian,TRUE,0
+r5,Q116,423,Comorien,com,Comorian,FALSE,
 r5,Q116,424,Indo-pakistanais,,,,
 r5,Q116,460,Chitumbuka,cic,Chichewa,TRUE,4
 r5,Q116,460,Chitumbuka,ngo,Ngoni,TRUE,4
@@ -7267,12 +7145,12 @@ r5,Q116,471,Chitonga,sen,Sena,TRUE,4
 r5,Q116,500,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0
 r5,Q116,501,Bambara,bam,Bambara,TRUE,0
 r5,Q116,502,Bella,kse,Koyraboro Senni,TRUE,0
-r5,Q116,503,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r5,Q116,503,Bobo,kfe,Koromfe,TRUE,4
-r5,Q116,504,Bozo,boz,Bozo (Tigemaxo),TRUE,0
-r5,Q116,505,Dogon,dds,Donno So,TRUE,0
-r5,Q116,505,Dogon,dts,Toro So,TRUE,0
-r5,Q116,505,Dogon,jms,Jamsay,TRUE,0
+r5,Q116,503,Bobo,kfe,Koromfe,FALSE,
+r5,Q116,504,Bozo,boz,Bozo (Tigemaxo),FALSE,
+r5,Q116,505,Dogon,dds,Donno So,FALSE,
+r5,Q116,505,Dogon,dts,Toro So,FALSE,
+r5,Q116,505,Dogon,jms,Jamsay,FALSE,
+r5,Q116,505,Dogon,tms,Tommo So,FALSE,
 r5,Q116,506,Haoussa,hau,Hausa,TRUE,0
 r5,Q116,507,Kakolo,maw,Maninka (Western),TRUE,2
 r5,Q116,507,Kakolo,mdk,Mandinka,TRUE,2
@@ -7403,7 +7281,6 @@ r5,Q116,588,Silozi,loz,Lozi,TRUE,0
 r5,Q116,589,Setswana,tsw,Tswana,TRUE,0
 r5,Q116,590,Masubia,sub,Subiya,TRUE,0
 r5,Q116,620,Hausa,hau,Hausa,TRUE,0
-r5,Q116,621,Igbo,agb,Leggbó,TRUE,0
 r5,Q116,621,Igbo,igb,Igbo,TRUE,0
 r5,Q116,622,Yoruba,yor,Yoruba,TRUE,0
 r5,Q116,628,Ibibio,ibi,Ibibio,TRUE,0
@@ -7416,11 +7293,9 @@ r5,Q116,634,Igala,ise,Isekiri,TRUE,4
 r5,Q116,634,Igala,yor,Yoruba,TRUE,4
 r5,Q116,639,Idoma,ido,Idoma,TRUE,0
 r5,Q116,642,Jukun,juk,Jukun,TRUE,0
-r5,Q116,652,Bajju,gwo,Gworok,TRUE,2
-r5,Q116,652,Bajju,jar,Jarawa (in Nigeria),TRUE,2
-r5,Q116,659,Bassa,bas,Basaá,TRUE,0
-r5,Q116,659,Bassa,kla,Klao,TRUE,4
-r5,Q116,659,Bassa,mud,Mundani,TRUE,2
+r5,Q116,652,Bajju,gwo,Gworok,FALSE,
+r5,Q116,659,Bassa,awk,Akwa,TRUE,4
+r5,Q116,659,Bassa,duk,Duka,TRUE,4
 r5,Q116,660,Wolof,wlf,Wolof,TRUE,0
 r5,Q116,661,Pulaar/Toucouleur,fma,Fula (Mauritanian),TRUE,0
 r5,Q116,661,Pulaar/Toucouleur,fus,Fula (Senegal),TRUE,0
@@ -7588,7 +7463,7 @@ r5,Q116,799,Ngakarimajong,kmj,Karimojong,TRUE,0
 r5,Q116,800,Rufumbira,kin,Kinyarwanda,TRUE,0
 r5,Q116,820,Bemba,bem,Bemba,TRUE,0
 r5,Q116,821,Nyanja,cic,Chichewa,TRUE,0
-r5,Q116,822,Tonga,toz,Tonga (in Zambia),TRUE,0
+r5,Q116,822,Tonga,toz,Tonga (in Zambia),FALSE,
 r5,Q116,823,Lozi,loz,Lozi,TRUE,0
 r5,Q116,824,Chewa,cic,Chichewa,TRUE,0
 r5,Q116,825,Nsenga,nse,Nsenga,TRUE,0
@@ -7782,8 +7657,6 @@ r5,Q116,1224,Douala,dua,Duala,TRUE,0
 r5,Q116,1225,Babjoun,,,,
 r5,Q116,1226,Banen,tnn,Tunen,TRUE,0
 r5,Q116,1227,Bassa,bas,Basaá,TRUE,0
-r5,Q116,1227,Bassa,kla,Klao,TRUE,4
-r5,Q116,1227,Bassa,mud,Mundani,TRUE,2
 r5,Q116,1228,Bayangam,kyg,Kenyang,TRUE,0
 r5,Q116,1229,Eton,bas,Basaá,TRUE,4
 r5,Q116,1229,Eton,bfi,Bafia,TRUE,4
@@ -7913,19 +7786,16 @@ r5,Q116,1344,Sidamingna,sid,Sidaama,TRUE,0
 r5,Q116,1345,Guragigna,chh,Chaha,TRUE,0
 r5,Q116,1345,Guragigna,muh,Muher,TRUE,0
 r5,Q116,1346,Welaitigna,wly,Wolaytta,TRUE,0
-r5,Q116,1347,Hadiyagna,brj,Burji,TRUE,2
-r5,Q116,1347,Hadiyagna,sid,Sidaama,TRUE,2
+r5,Q116,1347,Hadiyagna,sid,Sidaama,FALSE,
 r5,Q116,1348,Afarigna,qaf,Qafar,TRUE,0
 r5,Q116,1349,Gamogna,gam,Gamo,TRUE,0
 r5,Q116,1358,Silte,hrr,Harari,TRUE,2
-r5,Q116,1363,Kembata,brj,Burji,TRUE,2
-r5,Q116,1363,Kembata,sid,Sidaama,TRUE,2
-r5,Q116,1500,Tamazight,bma,Berber (Middle Atlas),TRUE,0
-r5,Q116,1500,Tamazight,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,0
+r5,Q116,1363,Kembata,sid,Sidaama,FALSE,
+r5,Q116,1500,Tamazight,bma,Berber (Middle Atlas),TRUE,2
+r5,Q116,1500,Tamazight,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,2
 r5,Q116,1500,Tamazight,tas,Tashlhiyt,TRUE,2
 r5,Q116,1580,Amazigh,bma,Berber (Middle Atlas),TRUE,0
 r5,Q116,1580,Amazigh,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,0
-r5,Q116,1580,Amazigh,tas,Tashlhiyt,TRUE,2
 r5,Q116,1620,siSwati,swt,Swati,TRUE,0
 r5,Q116,2620,Jaba,kgm,Kagoma,TRUE,4
 r5,Q116,2621,Koro,kgm,Kagoma,TRUE,4
@@ -7972,11 +7842,12 @@ r5,Q2,8,Amazigh,bma,Berber (Middle Atlas),TRUE,0
 r5,Q2,8,Amazigh,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,0
 r5,Q2,8,Amazigh,tas,Tashlhiyt,TRUE,2
 r5,Q2,9,Bambara,bam,Bambara,TRUE,0
+r5,Q2,10,Bassa,awk,Akwa,TRUE,4
 r5,Q2,10,Bassa,bas,Basaá,TRUE,0
+r5,Q2,10,Bassa,duk,Duka,TRUE,4
 r5,Q2,10,Bassa,kla,Klao,TRUE,4
-r5,Q2,10,Bassa,mud,Mundani,TRUE,2
-r5,Q2,11,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r5,Q2,11,Bobo,kfe,Koromfe,TRUE,4
+r5,Q2,11,Bobo,bbf,Bobo Madaré (Northern),FALSE,
+r5,Q2,11,Bobo,kfe,Koromfe,FALSE,
 r5,Q2,12,Chichewa,cic,Chichewa,TRUE,0
 r5,Q2,13,Dioula,dyu,Dyula,TRUE,0
 r5,Q2,14,Fon,fon,Fongbe,TRUE,0
@@ -8062,10 +7933,14 @@ r5,Q2,32,Sénoufo,tny,Tenyer,TRUE,4
 r5,Q2,33,Setswana,tsw,Tswana,TRUE,0
 r5,Q2,34,Shangaan,tsn,Tsonga,TRUE,0
 r5,Q2,35,siSwati,swt,Swati,TRUE,0
+r5,Q2,36,Tonga,cic,Chichewa,TRUE,4
 r5,Q2,36,Tonga,klz,Kalanga,TRUE,4
 r5,Q2,36,Tonga,krg,Karanga,TRUE,4
 r5,Q2,36,Tonga,ndb,Ndebele (in South Africa),TRUE,4
+r5,Q2,36,Tonga,ngo,Ngoni,TRUE,4
+r5,Q2,36,Tonga,nse,Nsenga,TRUE,4
 r5,Q2,36,Tonga,rga,Ronga,TRUE,4
+r5,Q2,36,Tonga,sen,Sena,TRUE,4
 r5,Q2,36,Tonga,ses,Sesotho,TRUE,4
 r5,Q2,36,Tonga,shn,Shona,TRUE,4
 r5,Q2,36,Tonga,stn,Sotho (Northern),TRUE,4
@@ -8160,7 +8035,7 @@ r5,Q2,185,Bissa,bis,Bisa,TRUE,0
 r5,Q2,186,Birifor,dga,Dagaare,TRUE,4
 r5,Q2,186,Birifor,grn,Gurenne,TRUE,4
 r5,Q2,186,Birifor,moo,Mooré,TRUE,4
-r5,Q2,187,Bwamu,kfe,Koromfe,TRUE,4
+r5,Q2,187,Bwamu,kfe,Koromfe,FALSE,
 r5,Q2,188,Dagari,dga,Dagaare,TRUE,2
 r5,Q2,189,Fulse,kfe,Koromfe,TRUE,0
 r5,Q2,190,Goin,kir,Kirma,TRUE,0
@@ -8172,10 +8047,6 @@ r5,Q2,194,Marka,mnk,Maninka,TRUE,4
 r5,Q2,195,Samo,bis,Bisa,TRUE,4
 r5,Q2,195,Samo,bok,Boko,TRUE,4
 r5,Q2,195,Samo,bus,Busa,TRUE,4
-r5,Q2,195,Samo,ksm,Kasem,TRUE,2
-r5,Q2,195,Samo,lye,Lyele,TRUE,2
-r5,Q2,195,Samo,nnn,Nuni (Northern),TRUE,2
-r5,Q2,195,Samo,xsm,Kàsim,TRUE,2
 r5,Q2,196,Sénoufo,dym,Dyimini,TRUE,0
 r5,Q2,196,Sénoufo,naf,Nafaanra,TRUE,4
 r5,Q2,196,Sénoufo,nrg,Nanerge,TRUE,0
@@ -8188,10 +8059,9 @@ r5,Q2,197,Sonrai,zar,Zarma,TRUE,2
 r5,Q2,198,Toussian,tou,Toussian,TRUE,0
 r5,Q2,198,Toussian,tow,Toussian (Win),TRUE,0
 r5,Q2,199,Dafing,mnk,Maninka,TRUE,4
-r5,Q2,200,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r5,Q2,200,Bobo,kfe,Koromfe,TRUE,4
+r5,Q2,200,Bobo,bbf,Bobo Madaré (Northern),FALSE,
 r5,Q2,220,Crioulo,por,Portuguese,FALSE,
-r5,Q2,260,Akan,akn,Akan,TRUE,2
+r5,Q2,260,Akan,,,,
 r5,Q2,261,Ewe,ewa,Ewe (Anglo),TRUE,0
 r5,Q2,261,Ewe,ewe,Ewe,TRUE,0
 r5,Q2,262,Ga/Dangbe,ga,Gã,TRUE,0
@@ -8295,9 +8165,7 @@ r5,Q2,322,Oroma,owc,Oromo (West-Central),TRUE,2
 r5,Q2,340,Sesotho,ses,Sesotho,TRUE,0
 r5,Q2,341,Sephuthi,swt,Swati,TRUE,0
 r5,Q2,342,Sethepu,xho,Xhosa,TRUE,0
-r5,Q2,380,Bassa,bas,Basaá,TRUE,0
 r5,Q2,380,Bassa,kla,Klao,TRUE,4
-r5,Q2,380,Bassa,mud,Mundani,TRUE,2
 r5,Q2,381,Belle,aiz,Aizi,TRUE,4
 r5,Q2,381,Belle,sme,Seme,TRUE,4
 r5,Q2,382,Dei,kla,Klao,TRUE,4
@@ -8325,7 +8193,7 @@ r5,Q2,421,Malagasy dialect,mal,Malagasy,TRUE,2
 r5,Q2,422,Chinois,cnt,Cantonese,TRUE,0
 r5,Q2,422,Chinois,kug,Kunming,TRUE,0
 r5,Q2,422,Chinois,mnd,Mandarin,TRUE,0
-r5,Q2,423,Comorien,com,Comorian,TRUE,0
+r5,Q2,423,Comorien,com,Comorian,FALSE,
 r5,Q2,424,Indo-pakistanais,,,,
 r5,Q2,460,Chitumbuka,cic,Chichewa,TRUE,4
 r5,Q2,460,Chitumbuka,ngo,Ngoni,TRUE,4
@@ -8391,12 +8259,12 @@ r5,Q2,473,Chinyakyusa,toz,Tonga (in Zambia),TRUE,4
 r5,Q2,500,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0
 r5,Q2,501,Bambara,bam,Bambara,TRUE,0
 r5,Q2,502,Bella,kse,Koyraboro Senni,TRUE,0
-r5,Q2,503,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r5,Q2,503,Bobo,kfe,Koromfe,TRUE,4
-r5,Q2,504,Bozo,boz,Bozo (Tigemaxo),TRUE,0
-r5,Q2,505,Dogon,dds,Donno So,TRUE,0
-r5,Q2,505,Dogon,dts,Toro So,TRUE,0
-r5,Q2,505,Dogon,jms,Jamsay,TRUE,0
+r5,Q2,503,Bobo,kfe,Koromfe,FALSE,
+r5,Q2,504,Bozo,boz,Bozo (Tigemaxo),FALSE,
+r5,Q2,505,Dogon,dds,Donno So,FALSE,
+r5,Q2,505,Dogon,dts,Toro So,FALSE,
+r5,Q2,505,Dogon,jms,Jamsay,FALSE,
+r5,Q2,505,Dogon,tms,Tommo So,FALSE,
 r5,Q2,506,Haoussa,hau,Hausa,TRUE,0
 r5,Q2,507,Kakolo,maw,Maninka (Western),TRUE,2
 r5,Q2,507,Kakolo,mdk,Mandinka,TRUE,2
@@ -8594,7 +8462,6 @@ r5,Q2,588,Silozi,loz,Lozi,TRUE,0
 r5,Q2,589,Setswana,tsw,Tswana,TRUE,0
 r5,Q2,590,Masubia,sub,Subiya,TRUE,0
 r5,Q2,620,Hausa,hau,Hausa,TRUE,0
-r5,Q2,621,Igbo,agb,Leggbó,TRUE,0
 r5,Q2,621,Igbo,igb,Igbo,TRUE,0
 r5,Q2,622,Yoruba,yor,Yoruba,TRUE,0
 r5,Q2,623,Pidgin English,npi,Nigerian Pidgin,TRUE,0
@@ -8640,8 +8507,7 @@ r5,Q2,649,Migili,fye,Fyem,TRUE,4
 r5,Q2,649,Migili,tok,Tarok,TRUE,4
 r5,Q2,650,Gbagyi,gbk,Gbaya Kara,TRUE,0
 r5,Q2,651,Gwoza,gdf,Guduf,TRUE,0
-r5,Q2,652,Bajju,gwo,Gworok,TRUE,2
-r5,Q2,652,Bajju,jar,Jarawa (in Nigeria),TRUE,2
+r5,Q2,652,Bajju,gwo,Gworok,FALSE,
 r5,Q2,653,Ekpeye,igb,Igbo,TRUE,4
 r5,Q2,653,Ekpeye,izi,Izi,TRUE,4
 r5,Q2,654,Kataf,gwo,Gworok,TRUE,0
@@ -9023,7 +8889,7 @@ r5,Q2,806,Kakwa,bar,Bari,TRUE,2
 r5,Q2,806,Kakwa,kuk,Kukú,TRUE,2
 r5,Q2,820,Bemba,bem,Bemba,TRUE,0
 r5,Q2,821,Nyanja,cic,Chichewa,TRUE,0
-r5,Q2,822,Tonga,toz,Tonga (in Zambia),TRUE,0
+r5,Q2,822,Tonga,toz,Tonga (in Zambia),FALSE,
 r5,Q2,823,Lozi,loz,Lozi,TRUE,0
 r5,Q2,824,Chewa,cic,Chichewa,TRUE,0
 r5,Q2,825,Nsenga,nse,Nsenga,TRUE,0
@@ -9187,22 +9053,7 @@ r5,Q2,866,Ndau,zso,Zulu (Southern),TRUE,4
 r5,Q2,866,Ndau,zul,Zulu,TRUE,4
 r5,Q2,867,Venda,ven,Venda,TRUE,0
 r5,Q2,868,Kalanga,klz,Kalanga,TRUE,0
-r5,Q2,869,Tonga,klz,Kalanga,TRUE,4
-r5,Q2,869,Tonga,krg,Karanga,TRUE,4
-r5,Q2,869,Tonga,ndb,Ndebele (in South Africa),TRUE,4
-r5,Q2,869,Tonga,rga,Ronga,TRUE,4
-r5,Q2,869,Tonga,ses,Sesotho,TRUE,4
-r5,Q2,869,Tonga,shn,Shona,TRUE,4
-r5,Q2,869,Tonga,stn,Sotho (Northern),TRUE,4
-r5,Q2,869,Tonga,swt,Swati,TRUE,4
-r5,Q2,869,Tonga,toz,Tonga (in Zambia),TRUE,0
-r5,Q2,869,Tonga,tsn,Tsonga,TRUE,0
-r5,Q2,869,Tonga,tsw,Tswana,TRUE,4
-r5,Q2,869,Tonga,ven,Venda,TRUE,4
-r5,Q2,869,Tonga,xho,Xhosa,TRUE,4
-r5,Q2,869,Tonga,zno,Zulu (Northern),TRUE,4
-r5,Q2,869,Tonga,zso,Zulu (Southern),TRUE,4
-r5,Q2,869,Tonga,zul,Zulu,TRUE,4
+r5,Q2,869,Tonga,toz,Tonga (in Zambia),FALSE,
 r5,Q2,870,Vhitori,krg,Karanga,TRUE,0
 r5,Q2,870,Vhitori,shn,Shona,TRUE,0
 r5,Q2,871,Shangani,tsn,Tsonga,TRUE,0
@@ -9340,8 +9191,6 @@ r5,Q2,1232,Bangwa,nge,Ngemba,TRUE,0
 r5,Q2,1232,Bangwa,yem,Yemba,TRUE,2
 r5,Q2,1233,Banso,lns,Lamnso',TRUE,0
 r5,Q2,1234,Bassa,bas,Basaá,TRUE,0
-r5,Q2,1234,Bassa,kla,Klao,TRUE,4
-r5,Q2,1234,Bassa,mud,Mundani,TRUE,2
 r5,Q2,1235,Batanga,bas,Basaá,TRUE,4
 r5,Q2,1235,Batanga,bfi,Bafia,TRUE,4
 r5,Q2,1235,Batanga,bga,Benga,TRUE,4
@@ -9509,20 +9358,17 @@ r5,Q2,1344,Sidamingna,sid,Sidaama,TRUE,0
 r5,Q2,1345,Guragigna,chh,Chaha,TRUE,0
 r5,Q2,1345,Guragigna,muh,Muher,TRUE,0
 r5,Q2,1346,Welaitigna,wly,Wolaytta,TRUE,0
-r5,Q2,1347,Hadiyagna,brj,Burji,TRUE,2
-r5,Q2,1347,Hadiyagna,sid,Sidaama,TRUE,2
+r5,Q2,1347,Hadiyagna,sid,Sidaama,FALSE,
 r5,Q2,1348,Afarigna,qaf,Qafar,TRUE,0
 r5,Q2,1349,Gamogna,gam,Gamo,TRUE,0
 r5,Q2,1350,Agew,awn,Awngi,TRUE,0
 r5,Q2,1351,Agnwak,any,Anywa,TRUE,0
-r5,Q2,1352,Alaba,brj,Burji,TRUE,2
-r5,Q2,1352,Alaba,sid,Sidaama,TRUE,2
+r5,Q2,1352,Alaba,sid,Sidaama,FALSE,
 r5,Q2,1353,Argoba,amh,Amharic,TRUE,2
 r5,Q2,1354,Awi,awn,Awngi,TRUE,0
 r5,Q2,1355,Bench,gim,Gimira,TRUE,0
 r5,Q2,1356,Berta,ber,Berta,TRUE,0
-r5,Q2,1357,Gedeo,brj,Burji,TRUE,2
-r5,Q2,1357,Gedeo,sid,Sidaama,TRUE,2
+r5,Q2,1357,Gedeo,sid,Sidaama,FALSE,
 r5,Q2,1358,Silte,hrr,Harari,TRUE,2
 r5,Q2,1359,Gofa,gam,Gamo,TRUE,2
 r5,Q2,1359,Gofa,kul,Kullo,TRUE,2
@@ -9530,8 +9376,7 @@ r5,Q2,1359,Gofa,wly,Wolaytta,TRUE,2
 r5,Q2,1360,Gumz,gmz,Gumuz,TRUE,0
 r5,Q2,1361,Harari,hrr,Harari,TRUE,0
 r5,Q2,1362,Kaffa,kef,Kefa,TRUE,0
-r5,Q2,1363,Kembata,brj,Burji,TRUE,2
-r5,Q2,1363,Kembata,sid,Sidaama,TRUE,2
+r5,Q2,1363,Kembata,sid,Sidaama,FALSE,
 r5,Q2,1364,Kore,,,,
 r5,Q2,1365,Mejenger,maj,Majang,TRUE,0
 r5,Q2,1366,Mursi,mur,Mursi,TRUE,0
@@ -9539,14 +9384,12 @@ r5,Q2,1367,Nuwer,nue,Nuer,TRUE,0
 r5,Q2,1368,Welene,hrr,Harari,TRUE,2
 r5,Q2,1420,Amazigh,bma,Berber (Middle Atlas),TRUE,0
 r5,Q2,1420,Amazigh,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,0
-r5,Q2,1420,Amazigh,tas,Tashlhiyt,TRUE,2
-r5,Q2,1500,Amazigh,bma,Berber (Middle Atlas),TRUE,0
-r5,Q2,1500,Amazigh,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,0
+r5,Q2,1500,Amazigh,bma,Berber (Middle Atlas),TRUE,2
+r5,Q2,1500,Amazigh,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,2
 r5,Q2,1500,Amazigh,tas,Tashlhiyt,TRUE,2
 r5,Q2,1501,Hassaniya,ahs,Arabic (Bani-Hassan),TRUE,0
 r5,Q2,1580,Amazigh,bma,Berber (Middle Atlas),TRUE,0
 r5,Q2,1580,Amazigh,bse,Berber (Ayt Seghrouchen Middle Atlas),TRUE,0
-r5,Q2,1580,Amazigh,tas,Tashlhiyt,TRUE,2
 r5,Q2,1620,siSwati,swt,Swati,TRUE,0
 r5,Q2,1621,Shangaan,tsn,Tsonga,TRUE,0
 r5,Q2,1622,Isizulu,zno,Zulu (Northern),TRUE,0
@@ -9693,7 +9536,7 @@ r6,Q103,183,Gulmacema,gut,Gurma (Togo),TRUE,0
 r6,Q103,184,Gourounsi,grn,Gurenne,TRUE,0
 r6,Q103,220,Crioulo,por,Portuguese,FALSE,
 r6,Q103,221,Português,por,Portuguese,TRUE,0
-r6,Q103,260,Akan,akn,Akan,TRUE,2
+r6,Q103,260,Akan,,,,
 r6,Q103,262,Ga/Dangbe,ga,Gã,FALSE,
 r6,Q103,263,Dagbani,dgb,Dagbani,TRUE,0
 r6,Q103,265,Waala,grn,Gurenne,TRUE,2
@@ -9709,7 +9552,6 @@ r6,Q103,306,Meru/Samburu,cga,Chaga,TRUE,4
 r6,Q103,306,Meru/Samburu,dbd,Dabida,TRUE,4
 r6,Q103,306,Meru/Samburu,kba,Kamba,TRUE,4
 r6,Q103,306,Meru/Samburu,kik,Kikuyu,TRUE,4
-r6,Q103,306,Meru/Samburu,maa,Maasai,TRUE,2
 r6,Q103,307,Maasai / Samburu,maa,Maasai,TRUE,0
 r6,Q103,310,Somali,som,Somali,TRUE,0
 r6,Q103,340,Sesotho,ses,Sesotho,TRUE,0
@@ -9785,7 +9627,7 @@ r6,Q103,798,Kupsabinyi,seb,Sebei,TRUE,0
 r6,Q103,799,Ngakarimajong,kmj,Karimojong,TRUE,0
 r6,Q103,820,Chewa/Nyanja,cic,Chichewa,TRUE,0
 r6,Q103,821,Bembia,bem,Bemba,TRUE,0
-r6,Q103,822,Tonga,toz,Tonga (in Zambia),TRUE,0
+r6,Q103,822,Tonga,toz,Tonga (in Zambia),FALSE,
 r6,Q103,823,Kaonde,blu,Bena-Lulua,TRUE,4
 r6,Q103,823,Kaonde,cil,CiLuba,TRUE,4
 r6,Q103,823,Kaonde,hem,Hemba,TRUE,4
@@ -9848,8 +9690,8 @@ r6,Q116,3,Portuguese,por,Portuguese,TRUE,0
 r6,Q116,4,Kiswahili,swa,Swahili,TRUE,0
 r6,Q116,5,Arabic,ams,Arabic (Modern Standard),FALSE,
 r6,Q116,6,Adja,ajg,Ajagbe,TRUE,0
-r6,Q116,13,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r6,Q116,13,Bobo,kfe,Koromfe,TRUE,4
+r6,Q116,13,Bobo,bbf,Bobo Madaré (Northern),FALSE,
+r6,Q116,13,Bobo,kfe,Koromfe,FALSE,
 r6,Q116,16,Ewe,ewe,Ewe,FALSE,
 r6,Q116,18,Fulfuldé,fbf,Fula (Burkina Faso),FALSE,
 r6,Q116,18,Fulfuldé,fli,Ful (Liptako),FALSE,
@@ -9893,13 +9735,9 @@ r6,Q116,185,Bissa,bis,Bisa,TRUE,0
 r6,Q116,190,Samo,bis,Bisa,TRUE,4
 r6,Q116,190,Samo,bok,Boko,TRUE,4
 r6,Q116,190,Samo,bus,Busa,TRUE,4
-r6,Q116,190,Samo,ksm,Kasem,TRUE,2
-r6,Q116,190,Samo,lye,Lyele,TRUE,2
-r6,Q116,190,Samo,nnn,Nuni (Northern),TRUE,2
-r6,Q116,190,Samo,xsm,Kàsim,TRUE,2
 r6,Q116,220,Crioulo,por,Portuguese,FALSE,
 r6,Q116,221,Português,por,Portuguese,TRUE,0
-r6,Q116,260,Akan,akn,Akan,TRUE,2
+r6,Q116,260,Akan,,,,
 r6,Q116,262,Ga/Dangbe,ga,Gã,FALSE,
 r6,Q116,263,Dagbani,dgb,Dagbani,TRUE,0
 r6,Q116,265,Waala,grn,Gurenne,TRUE,2
@@ -10038,7 +9876,11 @@ r6,Q116,550,Lomue,mua,Makua,TRUE,4
 r6,Q116,550,Lomue,mwe,Mwera,TRUE,4
 r6,Q116,550,Lomue,yao,Yao (in Malawi),TRUE,4
 r6,Q116,582,Nama/Damara,kho,Khoekhoe,TRUE,0
+r6,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),her,Herero,TRUE,4
+r6,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),mhu,Mbalanhu,TRUE,4
 r6,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,TRUE,0
+r6,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),umb,UMbundu,TRUE,4
+r6,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),yey,Yeyi,TRUE,4
 r6,Q116,584,Otjiherero,her,Herero,TRUE,0
 r6,Q116,585,Rukwangali,kwn,Kwangali,TRUE,0
 r6,Q116,586,Rugririku/Rumanyo,kwn,Kwangali,TRUE,4
@@ -10169,7 +10011,7 @@ r6,Q116,797,Langi,lan,Lango,TRUE,0
 r6,Q116,798,Kupsabinyi,seb,Sebei,TRUE,0
 r6,Q116,799,Ngakarimajong,kmj,Karimojong,TRUE,0
 r6,Q116,820,Bemba,bem,Bemba,TRUE,0
-r6,Q116,822,Tonga,toz,Tonga (in Zambia),TRUE,0
+r6,Q116,822,Tonga,toz,Tonga (in Zambia),FALSE,
 r6,Q116,823,Lozi,loz,Lozi,TRUE,0
 r6,Q116,824,Chewa,cic,Chichewa,TRUE,0
 r6,Q116,827,Kaonde,blu,Bena-Lulua,TRUE,4
@@ -10312,8 +10154,7 @@ r6,Q116,1704,Nzébi/Métié,tgo,Tsogo,TRUE,4
 r6,Q116,1704,Nzébi/Métié,tks,Teke (Southern),TRUE,4
 r6,Q116,1704,Nzébi/Métié,yns,Yansi,TRUE,4
 r6,Q116,1706,Tsogho,tgo,Tsogo,TRUE,0
-r6,Q116,2620,Bajju,gwo,Gworok,TRUE,2
-r6,Q116,2620,Bajju,jar,Jarawa (in Nigeria),TRUE,2
+r6,Q116,2620,Bajju,gwo,Gworok,FALSE,
 r6,Q116,2621,Ngas,anc,Angas,TRUE,0
 r6,Q116,2622,Mwaghavul,mup,Mupun,TRUE,0
 r6,Q116,2623,Maghai,day,Day,TRUE,6
@@ -10350,25 +10191,10 @@ r6,Q2,8,Arabe,ahs,Arabic (Bani-Hassan),TRUE,0
 r6,Q2,9,Bambara,bam,Bambara,TRUE,0
 r6,Q2,10,Bassa,bas,Basaá,TRUE,0
 r6,Q2,10,Bassa,kla,Klao,TRUE,4
-r6,Q2,10,Bassa,mud,Mundani,TRUE,2
-r6,Q2,11,Berber Language,bch,Berber (Chaouia),FALSE,
-r6,Q2,11,Berber Language,bfg,Berber (Figuig),FALSE,
 r6,Q2,11,Berber Language,bma,Berber (Middle Atlas),FALSE,
-r6,Q2,11,Berber Language,bmz,Berber (Mzab),FALSE,
-r6,Q2,11,Berber Language,bou,Berber (Wargla),FALSE,
-r6,Q2,11,Berber Language,brf,Berber (Rif),FALSE,
-r6,Q2,11,Berber Language,bse,Berber (Ayt Seghrouchen Middle Atlas),FALSE,
-r6,Q2,11,Berber Language,bsi,Berber (Siwa),FALSE,
-r6,Q2,11,Berber Language,kbl,Kabyle,FALSE,
-r6,Q2,11,Berber Language,tai,Tuareg (Air),FALSE,
-r6,Q2,11,Berber Language,tas,Tashlhiyt,FALSE,
-r6,Q2,11,Berber Language,tgh,Tuareg (Ghat),FALSE,
-r6,Q2,11,Berber Language,tsk,Tamashek,FALSE,
-r6,Q2,11,Berber Language,tug,Tuareg (Ahaggar),FALSE,
-r6,Q2,11,Berber Language,zen,Zenaga,FALSE,
 r6,Q2,12,Bissa,bis,Bisa,TRUE,0
-r6,Q2,13,Bobo,bbf,Bobo Madaré (Northern),TRUE,0
-r6,Q2,13,Bobo,kfe,Koromfe,TRUE,4
+r6,Q2,13,Bobo,bbf,Bobo Madaré (Northern),FALSE,
+r6,Q2,13,Bobo,kfe,Koromfe,FALSE,
 r6,Q2,14,Chewa,cic,Chichewa,TRUE,0
 r6,Q2,15,Dioula,dyu,Dyula,TRUE,0
 r6,Q2,16,Ewe,ewe,Ewe,FALSE,
@@ -10483,7 +10309,7 @@ r6,Q2,184,Gourounsi,grn,Gurenne,TRUE,0
 r6,Q2,186,Birifor,dga,Dagaare,TRUE,4
 r6,Q2,186,Birifor,grn,Gurenne,TRUE,4
 r6,Q2,186,Birifor,moo,Mooré,TRUE,4
-r6,Q2,187,Bwamu,kfe,Koromfe,TRUE,4
+r6,Q2,187,Bwamu,kfe,Koromfe,FALSE,
 r6,Q2,188,Dagari,dga,Dagaare,TRUE,2
 r6,Q2,189,Fulse,kfe,Koromfe,TRUE,0
 r6,Q2,190,Goin,kir,Kirma,TRUE,0
@@ -10494,16 +10320,12 @@ r6,Q2,194,Marka,mnk,Maninka,TRUE,4
 r6,Q2,195,Samo,bis,Bisa,TRUE,4
 r6,Q2,195,Samo,bok,Boko,TRUE,4
 r6,Q2,195,Samo,bus,Busa,TRUE,4
-r6,Q2,195,Samo,ksm,Kasem,TRUE,2
-r6,Q2,195,Samo,lye,Lyele,TRUE,2
-r6,Q2,195,Samo,nnn,Nuni (Northern),TRUE,2
-r6,Q2,195,Samo,xsm,Kàsim,TRUE,2
 r6,Q2,197,Sonrai,kch,Koyra Chiini,TRUE,2
 r6,Q2,197,Sonrai,kse,Koyraboro Senni,TRUE,2
 r6,Q2,197,Sonrai,zar,Zarma,TRUE,2
 r6,Q2,220,Crioulo,por,Portuguese,FALSE,
 r6,Q2,221,Português,por,Portuguese,TRUE,0
-r6,Q2,260,Akan,akn,Akan,TRUE,2
+r6,Q2,260,Akan,,,,
 r6,Q2,262,Ga/Dangbe,ga,Gã,FALSE,
 r6,Q2,263,Dagbani,dgb,Dagbani,TRUE,0
 r6,Q2,265,Waala,grn,Gurenne,TRUE,2
@@ -10623,7 +10445,7 @@ r6,Q2,471,Chitonga,ngo,Ngoni,TRUE,4
 r6,Q2,471,Chitonga,nse,Nsenga,TRUE,4
 r6,Q2,471,Chitonga,sen,Sena,TRUE,4
 r6,Q2,502,Bella,kse,Koyraboro Senni,TRUE,0
-r6,Q2,504,Bozo,boz,Bozo (Tigemaxo),TRUE,0
+r6,Q2,504,Bozo,boz,Bozo (Tigemaxo),FALSE,
 r6,Q2,505,Dafing,mnk,Maninka,TRUE,4
 r6,Q2,506,Dogon,dds,Donno So,FALSE,
 r6,Q2,506,Dogon,dts,Toro So,FALSE,
@@ -10713,7 +10535,11 @@ r6,Q2,553,Xitswa,zso,Zulu (Southern),TRUE,4
 r6,Q2,553,Xitswa,zul,Zulu,TRUE,4
 r6,Q2,581,German,ger,German,FALSE,
 r6,Q2,582,Nama/Damara,kho,Khoekhoe,TRUE,0
+r6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),her,Herero,TRUE,4
+r6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),mhu,Mbalanhu,TRUE,4
 r6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,TRUE,0
+r6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),umb,UMbundu,TRUE,4
+r6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),yey,Yeyi,TRUE,4
 r6,Q2,584,Otjiherero,her,Herero,TRUE,0
 r6,Q2,585,Rukwangali,kwn,Kwangali,TRUE,0
 r6,Q2,586,Rugririku/Rumanyo,kwn,Kwangali,TRUE,4
@@ -10729,10 +10555,6 @@ r6,Q2,587,Thimbukushu,sub,Subiya,TRUE,4
 r6,Q2,588,Silozi,loz,Lozi,TRUE,0
 r6,Q2,590,Masubia,sub,Subiya,TRUE,0
 r6,Q2,591,San,juh,Ju|'hoan,FALSE,
-r6,Q2,591,San,kho,Khoekhoe,FALSE,
-r6,Q2,591,San,kxo,Kxoe,FALSE,
-r6,Q2,591,San,nro,Nharo,FALSE,
-r6,Q2,591,San,xun,!Xun (Ekoka),FALSE,
 r6,Q2,621,Igbo,igb,Igbo,FALSE,
 r6,Q2,623,Pidgin English,npi,Nigerian Pidgin,TRUE,0
 r6,Q2,624,Efik,efi,Efik,TRUE,0
@@ -10788,7 +10610,7 @@ r6,Q2,702,Xhosa,xho,Xhosa,TRUE,0
 r6,Q2,703,Pedi/North Sotho,stn,Sotho (Northern),TRUE,0
 r6,Q2,704,Sotho/South Sotho,ses,Sesotho,TRUE,0
 r6,Q2,705,Tswana,tsw,Tswana,TRUE,0
-r6,Q2,706,Shangaan/Tsonga,tsn,Tsonga,TRUE,0
+r6,Q2,706,Shangaan/Tsonga,tsn,Tsonga,FALSE,
 r6,Q2,707,Swazi,swt,Swati,TRUE,0
 r6,Q2,709,Zulu,zul,Zulu,FALSE,
 r6,Q2,710,Asian/Indian,,,,
@@ -11354,7 +11176,7 @@ r6,Q2,1501,Alhassania,ahs,Arabic (Bani-Hassan),TRUE,0
 r6,Q2,1540,Sudanese Arabic,abb,Arabic (Abbéché Chad),FALSE,
 r6,Q2,1541,Nubian Language,nob,Nobiin,TRUE,0
 r6,Q2,1620,siSwati,swt,Swati,TRUE,0
-r6,Q2,1621,Shangaan,tsn,Tsonga,TRUE,0
+r6,Q2,1621,Shangaan,tsn,Tsonga,FALSE,
 r6,Q2,1660,Creolo,ago,Angolar,TRUE,0
 r6,Q2,1661,Forro,pri,Príncipense,FALSE,
 r6,Q2,1662,Angolar,ago,Angolar,TRUE,0

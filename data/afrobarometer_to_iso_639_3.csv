@@ -30,6 +30,7 @@ r1,language,26,Bemba,bem,Bemba (Zambia),I
 r1,language,27,Kaonde,kqn,Kaonde,I
 r1,language,29,Luvale,lue,Luvale,I
 r1,language,30,Nyanja,nya,Nyanja,I
+r1,language,31,Tonga,tog,Tonga (Nyasa),I
 r1,language,31,Tonga,toi,Tonga (Zambia),I
 r1,language,32,Ngoni,zul,Zulu,I
 r1,language,33,Lomwe,lon,Malawi Lomwe,I
@@ -37,11 +38,9 @@ r1,language,34,Tumbuka,tum,Tumbuka,I
 r1,language,35,Yao,yao,Yao,I
 r1,language,37,Nkhonde,nyy,Nyakyusa-Ngonde,I
 r1,language,38,Lambya,lai,Lambya,I
-r1,language,41,Akan,abr,Abron,I
 r1,language,41,Akan,aka,Akan,M
 r1,language,41,Akan,fat,Fanti,I
 r1,language,41,Akan,twi,Twi,I
-r1,language,41,Akan,wss,Wasa,I
 r1,language,42,Dangaare,dga,Southern Dagaare,I
 r1,language,43,Dagbane,dag,Dagbani,I
 r1,language,44,Ewe,ewe,Ewe,I
@@ -96,8 +95,7 @@ r1,language,71,Grusi,ssl,Western Sisaala,I
 r1,language,71,Grusi,tpm,Tampulma,I
 r1,language,71,Grusi,vag,Vagla,I
 r1,language,71,Grusi,xsm,Kasem,I
-r1,language,72,Wangara,bib,Bissa,I
-r1,language,72,Wangara,lig,Ligbi,I
+r1,language,72,Wangara,mis,Uncoded languages,S
 r1,language,73,Dagomba,dag,Dagbani,I
 r1,language,74,Buam/Lelemi,lef,Lelemi,I
 r1,language,75,Nsahas,mis,Uncoded languages,S
@@ -119,34 +117,15 @@ r1,language,88,Malinke,mwk,Kita Maninkakan,I
 r1,language,89,Sonrhai,hmb,Humburi Senni Songhay,I
 r1,language,89,Sonrhai,khq,Koyra Chiini Songhay,I
 r1,language,89,Sonrhai,ses,Koyraboro Senni Songhai,I
-r1,language,90,Dogon,aqd,Ampari Dogon,I
-r1,language,90,Dogon,dbg,Dogul Dom Dogon,I
-r1,language,90,Dogon,dbt,Ben Tey Dogon,I
-r1,language,90,Dogon,dbu,Bondum Dom Dogon,I
-r1,language,90,Dogon,dbw,Bankan Tey Dogon,I
 r1,language,90,Dogon,dds,Donno So Dogon,I
-r1,language,90,Dogon,dgb,Bunoge Dogon,I
 r1,language,90,Dogon,djm,Jamsay Dogon,I
-r1,language,90,Dogon,dmb,Mombo Dogon,I
-r1,language,90,Dogon,dti,Ana Tinga Dogon,I
-r1,language,90,Dogon,dtk,Tene Kan Dogon,I
-r1,language,90,Dogon,dtm,Tomo Kan Dogon,I
-r1,language,90,Dogon,dto,Tommo So Dogon,I
 r1,language,90,Dogon,dts,Toro So Dogon,I
-r1,language,90,Dogon,dtt,Toro Tegu Dogon,I
-r1,language,90,Dogon,dtu,Tebul Ure Dogon,I
-r1,language,90,Dogon,dym,Yanda Dom Dogon,I
-r1,language,90,Dogon,nzz,Nanga Dama Dogon,I
-r1,language,90,Dogon,tde,Tiranige Diga Dogon,I
 r1,language,91,Tamasheq,taq,Tamasheq,I
 r1,language,91,Tamasheq,tmh,Tamashek,M
 r1,language,91,Tamasheq,ttq,Tawallammat Tamajaq,I
-r1,language,92,Bobo,bbo,Northern Bobo Madaré,I
 r1,language,92,Bobo,bmq,Bomu,I
-r1,language,93,Bozo,boo,Tiemacèwè Bozo,I
 r1,language,93,Bozo,boz,Tiéyaxo Bozo,I
 r1,language,93,Bozo,bze,Jenaama Bozo,I
-r1,language,93,Bozo,bzx,Kɛlɛngaxo Bozo,I
 r1,language,94,Khasonke,kao,Xaasongaxango,I
 r1,language,95,Arabe,mey,Hassaniyya,I
 r1,language,96,Maure,mey,Hassaniyya,I
@@ -178,7 +157,7 @@ r1,language,119,Boki,bky,Bokyi,I
 r1,language,120,Igbira,igb,Ebira,I
 r1,language,121,Ikpon,mis,Uncoded languages,S
 r1,language,122,Isoko,iso,Isoko,I
-r1,language,123,Ikan,kcf,Ukaan,I
+r1,language,123,Ikan,mis,Uncoded languages,S
 r1,language,124,Ishan/Esan,ish,Esan,I
 r1,language,125,Anam,mis,Uncoded languages,S
 r1,language,126,Annag,mis,Uncoded languages,S
@@ -355,11 +334,9 @@ r2,q110,106,Shangaan,tso,Tsonga,I
 r2,q110,107,Swazi,ssw,Swati,I
 r2,q110,108,Venda,ven,Venda,I
 r2,q110,109,Zulu,zul,Zulu,I
-r2,q110,120,Akan,abr,Abron,I
 r2,q110,120,Akan,aka,Akan,M
 r2,q110,120,Akan,fat,Fanti,I
 r2,q110,120,Akan,twi,Twi,I
-r2,q110,120,Akan,wss,Wasa,I
 r2,q110,121,Dagbani,dag,Dagbani,I
 r2,q110,122,Ewe,ewe,Ewe,I
 r2,q110,123,Ga,gaa,Ga,I
@@ -392,31 +369,12 @@ r2,q110,170,Maure,mey,Hassaniyya,I
 r2,q110,171,Senufo,spp,Supyire Senoufo,I
 r2,q110,172,Mianka,myk,Mamara Senoufo,I
 r2,q110,173,Samoko,dux,Duungooma,I
-r2,q110,174,Bobo,bbo,Northern Bobo Madaré,I
 r2,q110,174,Bobo,bmq,Bomu,I
-r2,q110,175,Bozo,boo,Tiemacèwè Bozo,I
 r2,q110,175,Bozo,boz,Tiéyaxo Bozo,I
 r2,q110,175,Bozo,bze,Jenaama Bozo,I
-r2,q110,175,Bozo,bzx,Kɛlɛngaxo Bozo,I
-r2,q110,176,Dogon,aqd,Ampari Dogon,I
-r2,q110,176,Dogon,dbg,Dogul Dom Dogon,I
-r2,q110,176,Dogon,dbt,Ben Tey Dogon,I
-r2,q110,176,Dogon,dbu,Bondum Dom Dogon,I
-r2,q110,176,Dogon,dbw,Bankan Tey Dogon,I
 r2,q110,176,Dogon,dds,Donno So Dogon,I
-r2,q110,176,Dogon,dgb,Bunoge Dogon,I
 r2,q110,176,Dogon,djm,Jamsay Dogon,I
-r2,q110,176,Dogon,dmb,Mombo Dogon,I
-r2,q110,176,Dogon,dti,Ana Tinga Dogon,I
-r2,q110,176,Dogon,dtk,Tene Kan Dogon,I
-r2,q110,176,Dogon,dtm,Tomo Kan Dogon,I
-r2,q110,176,Dogon,dto,Tommo So Dogon,I
 r2,q110,176,Dogon,dts,Toro So Dogon,I
-r2,q110,176,Dogon,dtt,Toro Tegu Dogon,I
-r2,q110,176,Dogon,dtu,Tebul Ure Dogon,I
-r2,q110,176,Dogon,dym,Yanda Dom Dogon,I
-r2,q110,176,Dogon,nzz,Nanga Dama Dogon,I
-r2,q110,176,Dogon,tde,Tiranige Diga Dogon,I
 r2,q110,177,Tamasheq,taq,Tamasheq,I
 r2,q110,177,Tamasheq,tmh,Tamashek,M
 r2,q110,177,Tamasheq,ttq,Tawallammat Tamajaq,I
@@ -437,7 +395,6 @@ r2,q110,240,Setswana,tsn,Tswana,I
 r2,q110,242,Sekalanga,kck,Kalanga,I
 r2,q110,260,Hausa,hau,Hausa,I
 r2,q110,261,Yoruba,yor,Yoruba,I
-r2,q110,262,Igbo,agb,Legbo,I
 r2,q110,262,Igbo,ibo,Igbo,I
 r2,q110,263,Tiv,tiv,Tiv,I
 r2,q110,264,Ijaw,ijc,Izon,I
@@ -446,7 +403,6 @@ r2,q110,266,Nupe,nup,Nupe-Nupe-Tako,I
 r2,q110,267,Ibibio,ibb,Ibibio,I
 r2,q110,268,Efik,efi,Efik,I
 r2,q110,269,Edo,bin,Bini,I
-r2,q110,270,Igala/Idoma,idu,Idoma,I
 r2,q110,270,Igala/Idoma,igl,Igala,I
 r2,q110,271,Urhobo,urh,Urhobo,I
 r2,q110,272,Ebira,igb,Ebira,I
@@ -576,11 +532,9 @@ r2,q83,106,Shangaan,tso,Tsonga,I
 r2,q83,107,Swazi,ssw,Swati,I
 r2,q83,108,Venda,ven,Venda,I
 r2,q83,109,Zulu,zul,Zulu,I
-r2,q83,120,Akan,abr,Abron,I
 r2,q83,120,Akan,aka,Akan,M
 r2,q83,120,Akan,fat,Fanti,I
 r2,q83,120,Akan,twi,Twi,I
-r2,q83,120,Akan,wss,Wasa,I
 r2,q83,121,Dagbani,dag,Dagbani,I
 r2,q83,122,Ewe,ewe,Ewe,I
 r2,q83,123,Ga,gaa,Ga,I
@@ -620,31 +574,12 @@ r2,q83,170,Maure,mey,Hassaniyya,I
 r2,q83,171,Senufo,spp,Supyire Senoufo,I
 r2,q83,172,Mianka,myk,Mamara Senoufo,I
 r2,q83,173,Samoko,dux,Duungooma,I
-r2,q83,174,Bobo,bbo,Northern Bobo Madaré,I
 r2,q83,174,Bobo,bmq,Bomu,I
-r2,q83,175,Bozo,boo,Tiemacèwè Bozo,I
 r2,q83,175,Bozo,boz,Tiéyaxo Bozo,I
 r2,q83,175,Bozo,bze,Jenaama Bozo,I
-r2,q83,175,Bozo,bzx,Kɛlɛngaxo Bozo,I
-r2,q83,176,Dogon,aqd,Ampari Dogon,I
-r2,q83,176,Dogon,dbg,Dogul Dom Dogon,I
-r2,q83,176,Dogon,dbt,Ben Tey Dogon,I
-r2,q83,176,Dogon,dbu,Bondum Dom Dogon,I
-r2,q83,176,Dogon,dbw,Bankan Tey Dogon,I
 r2,q83,176,Dogon,dds,Donno So Dogon,I
-r2,q83,176,Dogon,dgb,Bunoge Dogon,I
 r2,q83,176,Dogon,djm,Jamsay Dogon,I
-r2,q83,176,Dogon,dmb,Mombo Dogon,I
-r2,q83,176,Dogon,dti,Ana Tinga Dogon,I
-r2,q83,176,Dogon,dtk,Tene Kan Dogon,I
-r2,q83,176,Dogon,dtm,Tomo Kan Dogon,I
-r2,q83,176,Dogon,dto,Tommo So Dogon,I
 r2,q83,176,Dogon,dts,Toro So Dogon,I
-r2,q83,176,Dogon,dtt,Toro Tegu Dogon,I
-r2,q83,176,Dogon,dtu,Tebul Ure Dogon,I
-r2,q83,176,Dogon,dym,Yanda Dom Dogon,I
-r2,q83,176,Dogon,nzz,Nanga Dama Dogon,I
-r2,q83,176,Dogon,tde,Tiranige Diga Dogon,I
 r2,q83,177,Tamasheq,taq,Tamasheq,I
 r2,q83,177,Tamasheq,tmh,Tamashek,M
 r2,q83,177,Tamasheq,ttq,Tawallammat Tamajaq,I
@@ -683,7 +618,6 @@ r2,q83,246,Sembukushu,mhw,Mbukushu,I
 r2,q83,247,Seyei,yey,Yeyi,I
 r2,q83,260,Hausa,hau,Hausa,I
 r2,q83,261,Yoruba,yor,Yoruba,I
-r2,q83,262,Igbo,agb,Legbo,I
 r2,q83,262,Igbo,ibo,Igbo,I
 r2,q83,263,Tiv,tiv,Tiv,I
 r2,q83,264,Ijaw,ijc,Izon,I
@@ -695,7 +629,6 @@ r2,q83,266,Nupe,nup,Nupe-Nupe-Tako,I
 r2,q83,267,Ibibio,ibb,Ibibio,I
 r2,q83,268,Efik,efi,Efik,I
 r2,q83,269,Edo,bin,Bini,I
-r2,q83,270,Igala/Idoma,idu,Idoma,I
 r2,q83,270,Igala/Idoma,igl,Igala,I
 r2,q83,271,Urhobo,urh,Urhobo,I
 r2,q83,272,Ebira,igb,Ebira,I
@@ -867,11 +800,9 @@ r2,q97,106,Shangaan,tso,Tsonga,I
 r2,q97,107,Swazi,ssw,Swati,I
 r2,q97,108,Venda,ven,Venda,I
 r2,q97,109,Zulu,zul,Zulu,I
-r2,q97,120,Akan,abr,Abron,I
 r2,q97,120,Akan,aka,Akan,M
 r2,q97,120,Akan,fat,Fanti,I
 r2,q97,120,Akan,twi,Twi,I
-r2,q97,120,Akan,wss,Wasa,I
 r2,q97,121,Dagbani,dag,Dagbani,I
 r2,q97,122,Ewe,ewe,Ewe,I
 r2,q97,123,Ga,gaa,Ga,I
@@ -903,31 +834,12 @@ r2,q97,170,Maure,mey,Hassaniyya,I
 r2,q97,171,Senufo,spp,Supyire Senoufo,I
 r2,q97,172,Mianka,myk,Mamara Senoufo,I
 r2,q97,173,Samoko,dux,Duungooma,I
-r2,q97,174,Bobo,bbo,Northern Bobo Madaré,I
 r2,q97,174,Bobo,bmq,Bomu,I
-r2,q97,175,Bozo,boo,Tiemacèwè Bozo,I
 r2,q97,175,Bozo,boz,Tiéyaxo Bozo,I
 r2,q97,175,Bozo,bze,Jenaama Bozo,I
-r2,q97,175,Bozo,bzx,Kɛlɛngaxo Bozo,I
-r2,q97,176,Dogon,aqd,Ampari Dogon,I
-r2,q97,176,Dogon,dbg,Dogul Dom Dogon,I
-r2,q97,176,Dogon,dbt,Ben Tey Dogon,I
-r2,q97,176,Dogon,dbu,Bondum Dom Dogon,I
-r2,q97,176,Dogon,dbw,Bankan Tey Dogon,I
 r2,q97,176,Dogon,dds,Donno So Dogon,I
-r2,q97,176,Dogon,dgb,Bunoge Dogon,I
 r2,q97,176,Dogon,djm,Jamsay Dogon,I
-r2,q97,176,Dogon,dmb,Mombo Dogon,I
-r2,q97,176,Dogon,dti,Ana Tinga Dogon,I
-r2,q97,176,Dogon,dtk,Tene Kan Dogon,I
-r2,q97,176,Dogon,dtm,Tomo Kan Dogon,I
-r2,q97,176,Dogon,dto,Tommo So Dogon,I
 r2,q97,176,Dogon,dts,Toro So Dogon,I
-r2,q97,176,Dogon,dtt,Toro Tegu Dogon,I
-r2,q97,176,Dogon,dtu,Tebul Ure Dogon,I
-r2,q97,176,Dogon,dym,Yanda Dom Dogon,I
-r2,q97,176,Dogon,nzz,Nanga Dama Dogon,I
-r2,q97,176,Dogon,tde,Tiranige Diga Dogon,I
 r2,q97,177,Tamasheq,taq,Tamasheq,I
 r2,q97,177,Tamasheq,tmh,Tamashek,M
 r2,q97,177,Tamasheq,ttq,Tawallammat Tamajaq,I
@@ -947,7 +859,6 @@ r2,q97,225,Soninke,snk,Soninke,I
 r2,q97,240,Setswana,tsn,Tswana,I
 r2,q97,260,Hausa,hau,Hausa,I
 r2,q97,261,Yoruba,yor,Yoruba,I
-r2,q97,262,Igbo,agb,Legbo,I
 r2,q97,262,Igbo,ibo,Igbo,I
 r2,q97,263,Tiv,tiv,Tiv,I
 r2,q97,264,Ijaw,ijc,Izon,I
@@ -959,7 +870,6 @@ r2,q97,266,Nupe,nup,Nupe-Nupe-Tako,I
 r2,q97,267,Ibibio,ibb,Ibibio,I
 r2,q97,268,Efik,efi,Efik,I
 r2,q97,269,Edo,bin,Bini,I
-r2,q97,270,Igala/Idoma,idu,Idoma,I
 r2,q97,270,Igala/Idoma,igl,Igala,I
 r2,q97,271,Urhobo,urh,Urhobo,I
 r2,q97,272,Ebira,igb,Ebira,I
@@ -1070,11 +980,9 @@ r3,q103,126,Peulh,ful,Fulah,M
 r3,q103,127,Yoa,pil,Yom,I
 r3,q103,140,Setswana,tsn,Tswana,I
 r3,q103,165,Creole,kea,Kabuverdianu,I
-r3,q103,180,AKAN,abr,Abron,I
 r3,q103,180,AKAN,aka,Akan,M
 r3,q103,180,AKAN,fat,Fanti,I
 r3,q103,180,AKAN,twi,Twi,I
-r3,q103,180,AKAN,wss,Wasa,I
 r3,q103,181,EWE,ewe,Ewe,I
 r3,q103,182,GA,gaa,Ga,I
 r3,q103,183,DAGBANI,dag,Dagbani,I
@@ -1155,26 +1063,9 @@ r3,q103,286,Malink,man,Mandingo,M
 r3,q103,286,Malink,mlq,Western Maninkakan,I
 r3,q103,286,Malink,mwk,Kita Maninkakan,I
 r3,q103,287,Khasonk,kao,Xaasongaxango,I
-r3,q103,288,Dogon,aqd,Ampari Dogon,I
-r3,q103,288,Dogon,dbg,Dogul Dom Dogon,I
-r3,q103,288,Dogon,dbt,Ben Tey Dogon,I
-r3,q103,288,Dogon,dbu,Bondum Dom Dogon,I
-r3,q103,288,Dogon,dbw,Bankan Tey Dogon,I
 r3,q103,288,Dogon,dds,Donno So Dogon,I
-r3,q103,288,Dogon,dgb,Bunoge Dogon,I
 r3,q103,288,Dogon,djm,Jamsay Dogon,I
-r3,q103,288,Dogon,dmb,Mombo Dogon,I
-r3,q103,288,Dogon,dti,Ana Tinga Dogon,I
-r3,q103,288,Dogon,dtk,Tene Kan Dogon,I
-r3,q103,288,Dogon,dtm,Tomo Kan Dogon,I
-r3,q103,288,Dogon,dto,Tommo So Dogon,I
 r3,q103,288,Dogon,dts,Toro So Dogon,I
-r3,q103,288,Dogon,dtt,Toro Tegu Dogon,I
-r3,q103,288,Dogon,dtu,Tebul Ure Dogon,I
-r3,q103,288,Dogon,dym,Yanda Dom Dogon,I
-r3,q103,288,Dogon,nzz,Nanga Dama Dogon,I
-r3,q103,288,Dogon,tde,Tiranige Diga Dogon,I
-r3,q103,289,Bobo,bbo,Northern Bobo Madaré,I
 r3,q103,289,Bobo,bmq,Bomu,I
 r3,q103,292,Maure,mey,Hassaniyya,I
 r3,q103,293,Kakolo,xkg,Kagoro,I
@@ -1216,7 +1107,6 @@ r3,q103,336,Afrikaans and local languages,afr,Afrikaans,I
 r3,q103,337,"English, Afrikaans and local languages",mul,Multiple languages,S
 r3,q103,338,More than one local language,mul,Multiple languages,S
 r3,q103,340,Hausa,hau,Hausa,I
-r3,q103,341,Igbo,agb,Legbo,I
 r3,q103,341,Igbo,ibo,Igbo,I
 r3,q103,342,Yoruba,yor,Yoruba,I
 r3,q103,343,Pidgin English,pcm,Nigerian Pidgin,I
@@ -1295,11 +1185,9 @@ r3,q114,144,Sekalanga,kck,Kalanga,I
 r3,q114,145,Seherero,her,Herero,I
 r3,q114,147,Sebirwa,brl,Birwa,I
 r3,q114,165,Creole,kea,Kabuverdianu,I
-r3,q114,180,AKAN,abr,Abron,I
 r3,q114,180,AKAN,aka,Akan,M
 r3,q114,180,AKAN,fat,Fanti,I
 r3,q114,180,AKAN,twi,Twi,I
-r3,q114,180,AKAN,wss,Wasa,I
 r3,q114,181,EWE,ewe,Ewe,I
 r3,q114,182,GA,gaa,Ga,I
 r3,q114,183,DAGBANI,dag,Dagbani,I
@@ -1375,31 +1263,12 @@ r3,q114,286,Malinké,man,Mandingo,M
 r3,q114,286,Malinké,mlq,Western Maninkakan,I
 r3,q114,286,Malinké,mwk,Kita Maninkakan,I
 r3,q114,287,Khasonké,kao,Xaasongaxango,I
-r3,q114,288,Dogon,aqd,Ampari Dogon,I
-r3,q114,288,Dogon,dbg,Dogul Dom Dogon,I
-r3,q114,288,Dogon,dbt,Ben Tey Dogon,I
-r3,q114,288,Dogon,dbu,Bondum Dom Dogon,I
-r3,q114,288,Dogon,dbw,Bankan Tey Dogon,I
 r3,q114,288,Dogon,dds,Donno So Dogon,I
-r3,q114,288,Dogon,dgb,Bunoge Dogon,I
 r3,q114,288,Dogon,djm,Jamsay Dogon,I
-r3,q114,288,Dogon,dmb,Mombo Dogon,I
-r3,q114,288,Dogon,dti,Ana Tinga Dogon,I
-r3,q114,288,Dogon,dtk,Tene Kan Dogon,I
-r3,q114,288,Dogon,dtm,Tomo Kan Dogon,I
-r3,q114,288,Dogon,dto,Tommo So Dogon,I
 r3,q114,288,Dogon,dts,Toro So Dogon,I
-r3,q114,288,Dogon,dtt,Toro Tegu Dogon,I
-r3,q114,288,Dogon,dtu,Tebul Ure Dogon,I
-r3,q114,288,Dogon,dym,Yanda Dom Dogon,I
-r3,q114,288,Dogon,nzz,Nanga Dama Dogon,I
-r3,q114,288,Dogon,tde,Tiranige Diga Dogon,I
-r3,q114,289,Bobo,bbo,Northern Bobo Madaré,I
 r3,q114,289,Bobo,bmq,Bomu,I
-r3,q114,290,Bozo,boo,Tiemacèwè Bozo,I
 r3,q114,290,Bozo,boz,Tiéyaxo Bozo,I
 r3,q114,290,Bozo,bze,Jenaama Bozo,I
-r3,q114,290,Bozo,bzx,Kɛlɛngaxo Bozo,I
 r3,q114,291,Arabe,mey,Hassaniyya,I
 r3,q114,292,Maure,mey,Hassaniyya,I
 r3,q114,293,Kakolo,xkg,Kagoro,I
@@ -1433,7 +1302,6 @@ r3,q114,326,Oshiwambo,kua,Kuanyama,I
 r3,q114,327,Otjiherero,her,Herero,I
 r3,q114,328,Setswana,tsn,Tswana,I
 r3,q114,340,Hausa,hau,Hausa,I
-r3,q114,341,Igbo,agb,Legbo,I
 r3,q114,341,Igbo,ibo,Igbo,I
 r3,q114,342,Yoruba,yor,Yoruba,I
 r3,q114,343,Pidgin English,pcm,Nigerian Pidgin,I
@@ -1454,8 +1322,6 @@ r3,q114,353,Edo,bin,Bini,I
 r3,q114,354,Igala,igl,Igala,I
 r3,q114,355,Urhobo,urh,Urhobo,I
 r3,q114,356,Idoma,idu,Idoma,I
-r3,q114,357,Bassa,bsr,Bassa-Kontagora,I
-r3,q114,357,Bassa,buj,Basa-Gurmana,I
 r3,q114,357,Bassa,bzw,Basa (Nigeria),I
 r3,q114,358,Ikwere,ikw,Ikwere,I
 r3,q114,359,Ukwani,ukw,Ukwuani-Aboh-Ndoni,I
@@ -1543,7 +1409,6 @@ r3,q114,566,Korro,mgi,Lijili,I
 r3,q114,566,Korro,uji,Tanjijili,I
 r3,q114,567,Ogoni,ogo,Khana,I
 r3,q114,568,Mbembe,mfn,Cross River Mbembe,I
-r3,q114,568,Mbembe,nza,Tigon Mbembe,I
 r3,q114,569,Sayawa,say,Saya,I
 r3,q114,580,Itsekiri,its,Isekiri,I
 r3,q114,995,Other,und,Undetermined,S
@@ -1587,11 +1452,9 @@ r3,q3,147,Sebirwa,brl,Birwa,I
 r3,q3,148,Sengologa,xkv,Kgalagadi,I
 r3,q3,149,Seyei,yey,Yeyi,I
 r3,q3,165,Creole,kea,Kabuverdianu,I
-r3,q3,180,AKAN,abr,Abron,I
 r3,q3,180,AKAN,aka,Akan,M
 r3,q3,180,AKAN,fat,Fanti,I
 r3,q3,180,AKAN,twi,Twi,I
-r3,q3,180,AKAN,wss,Wasa,I
 r3,q3,181,EWE,ewe,Ewe,I
 r3,q3,182,GA/DANGBE,ada,Adangme,I
 r3,q3,182,GA/DANGBE,gaa,Ga,I
@@ -1658,9 +1521,6 @@ r3,q3,242,chinois,cmn,Mandarin Chinese,I
 r3,q3,242,chinois,yue,Yue Chinese,I
 r3,q3,242,chinois,zho,Chinese,M
 r3,q3,243,comorien,swb,Maore Comorian,I
-r3,q3,243,comorien,wlc,Mwali Comorian,I
-r3,q3,243,comorien,wni,Ndzwani Comorian,I
-r3,q3,243,comorien,zdj,Ngazidja Comorian,I
 r3,q3,244,pakistanais,mul,Multiple languages,S
 r3,q3,260,Tumbuka,tum,Tumbuka,I
 r3,q3,261,Nkhonde,nyy,Nyakyusa-Ngonde,I
@@ -1687,31 +1547,12 @@ r3,q3,286,Malink,man,Mandingo,M
 r3,q3,286,Malink,mlq,Western Maninkakan,I
 r3,q3,286,Malink,mwk,Kita Maninkakan,I
 r3,q3,287,Khasonk,kao,Xaasongaxango,I
-r3,q3,288,Dogon,aqd,Ampari Dogon,I
-r3,q3,288,Dogon,dbg,Dogul Dom Dogon,I
-r3,q3,288,Dogon,dbt,Ben Tey Dogon,I
-r3,q3,288,Dogon,dbu,Bondum Dom Dogon,I
-r3,q3,288,Dogon,dbw,Bankan Tey Dogon,I
 r3,q3,288,Dogon,dds,Donno So Dogon,I
-r3,q3,288,Dogon,dgb,Bunoge Dogon,I
 r3,q3,288,Dogon,djm,Jamsay Dogon,I
-r3,q3,288,Dogon,dmb,Mombo Dogon,I
-r3,q3,288,Dogon,dti,Ana Tinga Dogon,I
-r3,q3,288,Dogon,dtk,Tene Kan Dogon,I
-r3,q3,288,Dogon,dtm,Tomo Kan Dogon,I
-r3,q3,288,Dogon,dto,Tommo So Dogon,I
 r3,q3,288,Dogon,dts,Toro So Dogon,I
-r3,q3,288,Dogon,dtt,Toro Tegu Dogon,I
-r3,q3,288,Dogon,dtu,Tebul Ure Dogon,I
-r3,q3,288,Dogon,dym,Yanda Dom Dogon,I
-r3,q3,288,Dogon,nzz,Nanga Dama Dogon,I
-r3,q3,288,Dogon,tde,Tiranige Diga Dogon,I
-r3,q3,289,Bobo,bbo,Northern Bobo Madaré,I
 r3,q3,289,Bobo,bmq,Bomu,I
-r3,q3,290,Bozo,boo,Tiemacèwè Bozo,I
 r3,q3,290,Bozo,boz,Tiéyaxo Bozo,I
 r3,q3,290,Bozo,bze,Jenaama Bozo,I
-r3,q3,290,Bozo,bzx,Kɛlɛngaxo Bozo,I
 r3,q3,291,Arabe,mey,Hassaniyya,I
 r3,q3,292,Maure,mey,Hassaniyya,I
 r3,q3,293,Kakolo,xkg,Kagoro,I
@@ -1752,7 +1593,6 @@ r3,q3,331,Other Kavango:Thimbukushu,mhw,Mbukushu,I
 r3,q3,332,Other Kavango:Rugririku,diu,Diriku,I
 r3,q3,338,Ndebele,nde,North Ndebele,I
 r3,q3,340,Hausa,hau,Hausa,I
-r3,q3,341,Igbo,agb,Legbo,I
 r3,q3,341,Igbo,ibo,Igbo,I
 r3,q3,342,Yoruba,yor,Yoruba,I
 r3,q3,343,Pidgin English,pcm,Nigerian Pidgin,I
@@ -1773,8 +1613,6 @@ r3,q3,353,Edo,bin,Bini,I
 r3,q3,354,Igala,igl,Igala,I
 r3,q3,355,Urhobo,urh,Urhobo,I
 r3,q3,356,Idoma,idu,Idoma,I
-r3,q3,357,Bassa,bsr,Bassa-Kontagora,I
-r3,q3,357,Bassa,buj,Basa-Gurmana,I
 r3,q3,357,Bassa,bzw,Basa (Nigeria),I
 r3,q3,358,Ikwere,ikw,Ikwere,I
 r3,q3,359,Ukwani,ukw,Ukwuani-Aboh-Ndoni,I
@@ -1893,7 +1731,6 @@ r3,q3,566,Korro,mgi,Lijili,I
 r3,q3,566,Korro,uji,Tanjijili,I
 r3,q3,567,Ogoni,ogo,Khana,I
 r3,q3,568,Mbembe,mfn,Cross River Mbembe,I
-r3,q3,568,Mbembe,nza,Tigon Mbembe,I
 r3,q3,569,Sayawa,say,Saya,I
 r3,q3,580,Itsekiri,its,Isekiri,I
 r3,q3,803,Tanchoni,lts,Tachoni,I
@@ -1979,14 +1816,11 @@ r4,Q103,184,Fulfude,ful,Fulah,M
 r4,Q103,185,Gulmacema,gux,Gourmanchéma,I
 r4,Q103,186,Gourounsi,gur,Farefare,I
 r4,Q103,187,Bobo,bbo,Northern Bobo Madaré,I
-r4,Q103,187,Bobo,bmq,Bomu,I
-r4,Q103,187,Bobo,box,Buamu,I
 r4,Q103,187,Bobo,bwq,Southern Bobo Madaré,I
 r4,Q103,188,Bissa,bib,Bissa,I
 r4,Q103,189,Dagari,dgi,Northern Dagara,I
 r4,Q103,190,Birifor,bfo,Malba Birifor,I
 r4,Q103,191,Lobi,lob,Lobi,I
-r4,Q103,192,Samo,knz,Kalamsé,I
 r4,Q103,192,Samo,sbd,Southern Samo,I
 r4,Q103,192,Samo,stj,Matya Samo,I
 r4,Q103,192,Samo,sym,Maya Samo,I
@@ -1998,20 +1832,17 @@ r4,Q103,195,Goin,cme,Cerma,I
 r4,Q103,196,Turka,tuz,Turka,I
 r4,Q103,197,Yanan,mos,Mossi,I
 r4,Q103,198,Marka,rkm,Marka,I
+r4,Q103,199,Bwamu,bmq,Bomu,I
 r4,Q103,199,Bwamu,box,Buamu,I
-r4,Q103,199,Bwamu,bwj,Láá Láá Bwamu,I
-r4,Q103,199,Bwamu,bwy,Cwi Bwamu,I
 r4,Q103,200,Karaboro,kza,Western Karaboro,I
 r4,Q103,200,Karaboro,xrb,Eastern Karaboro,I
 r4,Q103,201,Fuls,kfz,Koromfé,I
 r4,Q103,202,Sonra,hmb,Humburi Senni Songhay,I
 r4,Q103,220,Crioulo,kea,Kabuverdianu,I
 r4,Q103,221,Portugues,por,Portuguese,I
-r4,Q103,260,Akan,abr,Abron,I
 r4,Q103,260,Akan,aka,Akan,M
 r4,Q103,260,Akan,fat,Fanti,I
 r4,Q103,260,Akan,twi,Twi,I
-r4,Q103,260,Akan,wss,Wasa,I
 r4,Q103,261,Ewe,ewe,Ewe,I
 r4,Q103,262,Ga/Dangbe,adq,Adangbe,I
 r4,Q103,262,Ga/Dangbe,gaa,Ga,I
@@ -2130,9 +1961,6 @@ r4,Q103,422,Chinois,cmn,Mandarin Chinese,I
 r4,Q103,422,Chinois,yue,Yue Chinese,I
 r4,Q103,422,Chinois,zho,Chinese,M
 r4,Q103,423,Comorien,swb,Maore Comorian,I
-r4,Q103,423,Comorien,wlc,Mwali Comorian,I
-r4,Q103,423,Comorien,wni,Ndzwani Comorian,I
-r4,Q103,423,Comorien,zdj,Ngazidja Comorian,I
 r4,Q103,424,Indo-pakistanais,mul,Multiple languages,S
 r4,Q103,460,Tumbuka,tum,Tumbuka,I
 r4,Q103,461,Nkhonde,nyy,Nyakyusa-Ngonde,I
@@ -2155,31 +1983,12 @@ r4,Q103,477,Wiza,leb,Lala-Bisa,I
 r4,Q103,500,Arabe,mey,Hassaniyya,I
 r4,Q103,501,Bambara,bam,Bambara,I
 r4,Q103,502,Bella,ses,Koyraboro Senni Songhai,I
-r4,Q103,503,Bobo,bbo,Northern Bobo Madaré,I
 r4,Q103,503,Bobo,bmq,Bomu,I
-r4,Q103,504,Bozo,boo,Tiemacèwè Bozo,I
 r4,Q103,504,Bozo,boz,Tiéyaxo Bozo,I
 r4,Q103,504,Bozo,bze,Jenaama Bozo,I
-r4,Q103,504,Bozo,bzx,Kɛlɛngaxo Bozo,I
-r4,Q103,506,Dogon,aqd,Ampari Dogon,I
-r4,Q103,506,Dogon,dbg,Dogul Dom Dogon,I
-r4,Q103,506,Dogon,dbt,Ben Tey Dogon,I
-r4,Q103,506,Dogon,dbu,Bondum Dom Dogon,I
-r4,Q103,506,Dogon,dbw,Bankan Tey Dogon,I
 r4,Q103,506,Dogon,dds,Donno So Dogon,I
-r4,Q103,506,Dogon,dgb,Bunoge Dogon,I
 r4,Q103,506,Dogon,djm,Jamsay Dogon,I
-r4,Q103,506,Dogon,dmb,Mombo Dogon,I
-r4,Q103,506,Dogon,dti,Ana Tinga Dogon,I
-r4,Q103,506,Dogon,dtk,Tene Kan Dogon,I
-r4,Q103,506,Dogon,dtm,Tomo Kan Dogon,I
-r4,Q103,506,Dogon,dto,Tommo So Dogon,I
 r4,Q103,506,Dogon,dts,Toro So Dogon,I
-r4,Q103,506,Dogon,dtt,Toro Tegu Dogon,I
-r4,Q103,506,Dogon,dtu,Tebul Ure Dogon,I
-r4,Q103,506,Dogon,dym,Yanda Dom Dogon,I
-r4,Q103,506,Dogon,nzz,Nanga Dama Dogon,I
-r4,Q103,506,Dogon,tde,Tiranige Diga Dogon,I
 r4,Q103,507,Gana,bam,Bambara,I
 r4,Q103,508,Khassonke,kao,Xaasongaxango,I
 r4,Q103,509,Malinke,man,Mandingo,M
@@ -2234,19 +2043,11 @@ r4,Q103,587,Thimbukushu,mhw,Mbukushu,I
 r4,Q103,588,Silozi,loz,Lozi,I
 r4,Q103,589,Setswana,tsn,Tswana,I
 r4,Q103,590,Masubia,sbs,Subiya,I
-r4,Q103,591,San,hgm,Hai//om,I
-r4,Q103,591,San,knw,Kung-Ekoka,I
 r4,Q103,591,San,ktz,Ju/'hoan,I
-r4,Q103,591,San,naq,Khoekhoe,I
-r4,Q103,591,San,nhr,Naro,I
-r4,Q103,591,San,nmn,!Xóõ,I
-r4,Q103,591,San,vaj,Sekele,I
-r4,Q103,591,San,xuu,Kxoe,I
 r4,Q103,592,Mufwe,fwe,Fwe,I
 r4,Q103,593,Nyemba,kua,Kuanyama,I
 r4,Q103,594,Uumbundu,umb,Umbundu,I
 r4,Q103,620,Hausa,hau,Hausa,I
-r4,Q103,621,Igbo,agb,Legbo,I
 r4,Q103,621,Igbo,ibo,Igbo,I
 r4,Q103,622,Yoruba,yor,Yoruba,I
 r4,Q103,623,Pidgin English,pcm,Nigerian Pidgin,I
@@ -2261,11 +2062,7 @@ r4,Q103,629,Kanuri,kby,Manga Kanuri,I
 r4,Q103,629,Kanuri,knc,Central Kanuri,I
 r4,Q103,630,Tiv,tiv,Tiv,I
 r4,Q103,631,Nupe,nup,Nupe-Nupe-Tako,I
-r4,Q103,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ann,Obolo,I
 r4,Q103,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijc,Izon,I
-r4,Q103,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijn,Kalabari,I
-r4,Q103,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijs,Southeast Ijo,I
-r4,Q103,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ogo,Khana,I
 r4,Q103,633,Edo,bin,Bini,I
 r4,Q103,634,Igala,igl,Igala,I
 r4,Q103,635,Urhobo,urh,Urhobo,I
@@ -2425,9 +2222,7 @@ r4,Q103,860,Ndebele,nde,North Ndebele,I
 r4,Q103,861,Shona,sna,Shona,I
 r4,Q103,862,Venda,ven,Venda,I
 r4,Q103,863,Kalanga,kck,Kalanga,I
-r4,Q103,864,Tonga,ndc,Ndau,I
 r4,Q103,864,Tonga,toi,Tonga (Zambia),I
-r4,Q103,864,Tonga,tso,Tsonga,I
 r4,Q103,865,Nambya,nmq,Nambya,I
 r4,Q103,866,Nyanja,nya,Nyanja,I
 r4,Q103,995,Others,und,Undetermined,S
@@ -2473,14 +2268,11 @@ r4,Q114,184,Fulfude,ful,Fulah,M
 r4,Q114,185,Gulmacema,gux,Gourmanchéma,I
 r4,Q114,186,Gourounsi,gur,Farefare,I
 r4,Q114,187,Bobo,bbo,Northern Bobo Madaré,I
-r4,Q114,187,Bobo,bmq,Bomu,I
-r4,Q114,187,Bobo,box,Buamu,I
 r4,Q114,187,Bobo,bwq,Southern Bobo Madaré,I
 r4,Q114,188,Bissa,bib,Bissa,I
 r4,Q114,189,Dagari,dgi,Northern Dagara,I
 r4,Q114,190,Birifor,bfo,Malba Birifor,I
 r4,Q114,191,Lobi,lob,Lobi,I
-r4,Q114,192,Samo,knz,Kalamsé,I
 r4,Q114,192,Samo,sbd,Southern Samo,I
 r4,Q114,192,Samo,stj,Matya Samo,I
 r4,Q114,192,Samo,sym,Maya Samo,I
@@ -2492,20 +2284,17 @@ r4,Q114,195,Goin,cme,Cerma,I
 r4,Q114,196,Turka,tuz,Turka,I
 r4,Q114,197,Yanan,mos,Mossi,I
 r4,Q114,198,Marka,rkm,Marka,I
+r4,Q114,199,Bwamu,bmq,Bomu,I
 r4,Q114,199,Bwamu,box,Buamu,I
-r4,Q114,199,Bwamu,bwj,Láá Láá Bwamu,I
-r4,Q114,199,Bwamu,bwy,Cwi Bwamu,I
 r4,Q114,200,Karaboro,kza,Western Karaboro,I
 r4,Q114,200,Karaboro,xrb,Eastern Karaboro,I
 r4,Q114,201,Fuls,kfz,Koromfé,I
 r4,Q114,202,Sonra,hmb,Humburi Senni Songhay,I
 r4,Q114,220,Crioulo,kea,Kabuverdianu,I
 r4,Q114,221,Portugues,por,Portuguese,I
-r4,Q114,260,Akan,abr,Abron,I
 r4,Q114,260,Akan,aka,Akan,M
 r4,Q114,260,Akan,fat,Fanti,I
 r4,Q114,260,Akan,twi,Twi,I
-r4,Q114,260,Akan,wss,Wasa,I
 r4,Q114,261,Ewe,ewe,Ewe,I
 r4,Q114,262,Ga/Dangbe,adq,Adangbe,I
 r4,Q114,262,Ga/Dangbe,gaa,Ga,I
@@ -2624,9 +2413,6 @@ r4,Q114,422,Chinois,cmn,Mandarin Chinese,I
 r4,Q114,422,Chinois,yue,Yue Chinese,I
 r4,Q114,422,Chinois,zho,Chinese,M
 r4,Q114,423,Comorien,swb,Maore Comorian,I
-r4,Q114,423,Comorien,wlc,Mwali Comorian,I
-r4,Q114,423,Comorien,wni,Ndzwani Comorian,I
-r4,Q114,423,Comorien,zdj,Ngazidja Comorian,I
 r4,Q114,424,Indo-pakistanais,mul,Multiple languages,S
 r4,Q114,460,Tumbuka,tum,Tumbuka,I
 r4,Q114,461,Nkhonde,nyy,Nyakyusa-Ngonde,I
@@ -2649,31 +2435,12 @@ r4,Q114,477,Wiza,leb,Lala-Bisa,I
 r4,Q114,500,Arabe,mey,Hassaniyya,I
 r4,Q114,501,Bambara,bam,Bambara,I
 r4,Q114,502,Bella,ses,Koyraboro Senni Songhai,I
-r4,Q114,503,Bobo,bbo,Northern Bobo Madaré,I
 r4,Q114,503,Bobo,bmq,Bomu,I
-r4,Q114,504,Bozo,boo,Tiemacèwè Bozo,I
 r4,Q114,504,Bozo,boz,Tiéyaxo Bozo,I
 r4,Q114,504,Bozo,bze,Jenaama Bozo,I
-r4,Q114,504,Bozo,bzx,Kɛlɛngaxo Bozo,I
-r4,Q114,506,Dogon,aqd,Ampari Dogon,I
-r4,Q114,506,Dogon,dbg,Dogul Dom Dogon,I
-r4,Q114,506,Dogon,dbt,Ben Tey Dogon,I
-r4,Q114,506,Dogon,dbu,Bondum Dom Dogon,I
-r4,Q114,506,Dogon,dbw,Bankan Tey Dogon,I
 r4,Q114,506,Dogon,dds,Donno So Dogon,I
-r4,Q114,506,Dogon,dgb,Bunoge Dogon,I
 r4,Q114,506,Dogon,djm,Jamsay Dogon,I
-r4,Q114,506,Dogon,dmb,Mombo Dogon,I
-r4,Q114,506,Dogon,dti,Ana Tinga Dogon,I
-r4,Q114,506,Dogon,dtk,Tene Kan Dogon,I
-r4,Q114,506,Dogon,dtm,Tomo Kan Dogon,I
-r4,Q114,506,Dogon,dto,Tommo So Dogon,I
 r4,Q114,506,Dogon,dts,Toro So Dogon,I
-r4,Q114,506,Dogon,dtt,Toro Tegu Dogon,I
-r4,Q114,506,Dogon,dtu,Tebul Ure Dogon,I
-r4,Q114,506,Dogon,dym,Yanda Dom Dogon,I
-r4,Q114,506,Dogon,nzz,Nanga Dama Dogon,I
-r4,Q114,506,Dogon,tde,Tiranige Diga Dogon,I
 r4,Q114,507,Gana,bam,Bambara,I
 r4,Q114,508,Khassonke,kao,Xaasongaxango,I
 r4,Q114,509,Malinke,man,Mandingo,M
@@ -2728,19 +2495,11 @@ r4,Q114,587,Thimbukushu,mhw,Mbukushu,I
 r4,Q114,588,Silozi,loz,Lozi,I
 r4,Q114,589,Setswana,tsn,Tswana,I
 r4,Q114,590,Masubia,sbs,Subiya,I
-r4,Q114,591,San,hgm,Hai//om,I
-r4,Q114,591,San,knw,Kung-Ekoka,I
 r4,Q114,591,San,ktz,Ju/'hoan,I
-r4,Q114,591,San,naq,Khoekhoe,I
-r4,Q114,591,San,nhr,Naro,I
-r4,Q114,591,San,nmn,!Xóõ,I
-r4,Q114,591,San,vaj,Sekele,I
-r4,Q114,591,San,xuu,Kxoe,I
 r4,Q114,592,Mufwe,fwe,Fwe,I
 r4,Q114,593,Nyemba,kua,Kuanyama,I
 r4,Q114,594,Uumbundu,umb,Umbundu,I
 r4,Q114,620,Hausa,hau,Hausa,I
-r4,Q114,621,Igbo,agb,Legbo,I
 r4,Q114,621,Igbo,ibo,Igbo,I
 r4,Q114,622,Yoruba,yor,Yoruba,I
 r4,Q114,623,Pidgin English,pcm,Nigerian Pidgin,I
@@ -2755,11 +2514,7 @@ r4,Q114,629,Kanuri,kby,Manga Kanuri,I
 r4,Q114,629,Kanuri,knc,Central Kanuri,I
 r4,Q114,630,Tiv,tiv,Tiv,I
 r4,Q114,631,Nupe,nup,Nupe-Nupe-Tako,I
-r4,Q114,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ann,Obolo,I
 r4,Q114,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijc,Izon,I
-r4,Q114,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijn,Kalabari,I
-r4,Q114,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijs,Southeast Ijo,I
-r4,Q114,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ogo,Khana,I
 r4,Q114,633,Edo,bin,Bini,I
 r4,Q114,634,Igala,igl,Igala,I
 r4,Q114,635,Urhobo,urh,Urhobo,I
@@ -2919,9 +2674,7 @@ r4,Q114,860,Ndebele,nde,North Ndebele,I
 r4,Q114,861,Shona,sna,Shona,I
 r4,Q114,862,Venda,ven,Venda,I
 r4,Q114,863,Kalanga,kck,Kalanga,I
-r4,Q114,864,Tonga,ndc,Ndau,I
 r4,Q114,864,Tonga,toi,Tonga (Zambia),I
-r4,Q114,864,Tonga,tso,Tsonga,I
 r4,Q114,865,Nambya,nmq,Nambya,I
 r4,Q114,866,Nyanja,nya,Nyanja,I
 r4,Q114,995,Others,und,Undetermined,S
@@ -2967,14 +2720,11 @@ r4,Q3,184,Fulfude,ful,Fulah,M
 r4,Q3,185,Gulmacema,gux,Gourmanchéma,I
 r4,Q3,186,Gourounsi,gur,Farefare,I
 r4,Q3,187,Bobo,bbo,Northern Bobo Madaré,I
-r4,Q3,187,Bobo,bmq,Bomu,I
-r4,Q3,187,Bobo,box,Buamu,I
 r4,Q3,187,Bobo,bwq,Southern Bobo Madaré,I
 r4,Q3,188,Bissa,bib,Bissa,I
 r4,Q3,189,Dagari,dgi,Northern Dagara,I
 r4,Q3,190,Birifor,bfo,Malba Birifor,I
 r4,Q3,191,Lobi,lob,Lobi,I
-r4,Q3,192,Samo,knz,Kalamsé,I
 r4,Q3,192,Samo,sbd,Southern Samo,I
 r4,Q3,192,Samo,stj,Matya Samo,I
 r4,Q3,192,Samo,sym,Maya Samo,I
@@ -2986,20 +2736,17 @@ r4,Q3,195,Goin,cme,Cerma,I
 r4,Q3,196,Turka,tuz,Turka,I
 r4,Q3,197,Yanan,mos,Mossi,I
 r4,Q3,198,Marka,rkm,Marka,I
+r4,Q3,199,Bwamu,bmq,Bomu,I
 r4,Q3,199,Bwamu,box,Buamu,I
-r4,Q3,199,Bwamu,bwj,Láá Láá Bwamu,I
-r4,Q3,199,Bwamu,bwy,Cwi Bwamu,I
 r4,Q3,200,Karaboro,kza,Western Karaboro,I
 r4,Q3,200,Karaboro,xrb,Eastern Karaboro,I
 r4,Q3,201,Fuls,kfz,Koromfé,I
 r4,Q3,202,Sonra,hmb,Humburi Senni Songhay,I
 r4,Q3,220,Crioulo,kea,Kabuverdianu,I
 r4,Q3,221,Portugues,por,Portuguese,I
-r4,Q3,260,Akan,abr,Abron,I
 r4,Q3,260,Akan,aka,Akan,M
 r4,Q3,260,Akan,fat,Fanti,I
 r4,Q3,260,Akan,twi,Twi,I
-r4,Q3,260,Akan,wss,Wasa,I
 r4,Q3,261,Ewe,ewe,Ewe,I
 r4,Q3,262,Ga/Dangbe,adq,Adangbe,I
 r4,Q3,262,Ga/Dangbe,gaa,Ga,I
@@ -3118,9 +2865,6 @@ r4,Q3,422,Chinois,cmn,Mandarin Chinese,I
 r4,Q3,422,Chinois,yue,Yue Chinese,I
 r4,Q3,422,Chinois,zho,Chinese,M
 r4,Q3,423,Comorien,swb,Maore Comorian,I
-r4,Q3,423,Comorien,wlc,Mwali Comorian,I
-r4,Q3,423,Comorien,wni,Ndzwani Comorian,I
-r4,Q3,423,Comorien,zdj,Ngazidja Comorian,I
 r4,Q3,424,Indo-pakistanais,mul,Multiple languages,S
 r4,Q3,460,Tumbuka,tum,Tumbuka,I
 r4,Q3,461,Nkhonde,nyy,Nyakyusa-Ngonde,I
@@ -3143,31 +2887,12 @@ r4,Q3,477,Wiza,leb,Lala-Bisa,I
 r4,Q3,500,Arabe,mey,Hassaniyya,I
 r4,Q3,501,Bambara,bam,Bambara,I
 r4,Q3,502,Bella,ses,Koyraboro Senni Songhai,I
-r4,Q3,503,Bobo,bbo,Northern Bobo Madaré,I
 r4,Q3,503,Bobo,bmq,Bomu,I
-r4,Q3,504,Bozo,boo,Tiemacèwè Bozo,I
 r4,Q3,504,Bozo,boz,Tiéyaxo Bozo,I
 r4,Q3,504,Bozo,bze,Jenaama Bozo,I
-r4,Q3,504,Bozo,bzx,Kɛlɛngaxo Bozo,I
-r4,Q3,506,Dogon,aqd,Ampari Dogon,I
-r4,Q3,506,Dogon,dbg,Dogul Dom Dogon,I
-r4,Q3,506,Dogon,dbt,Ben Tey Dogon,I
-r4,Q3,506,Dogon,dbu,Bondum Dom Dogon,I
-r4,Q3,506,Dogon,dbw,Bankan Tey Dogon,I
 r4,Q3,506,Dogon,dds,Donno So Dogon,I
-r4,Q3,506,Dogon,dgb,Bunoge Dogon,I
 r4,Q3,506,Dogon,djm,Jamsay Dogon,I
-r4,Q3,506,Dogon,dmb,Mombo Dogon,I
-r4,Q3,506,Dogon,dti,Ana Tinga Dogon,I
-r4,Q3,506,Dogon,dtk,Tene Kan Dogon,I
-r4,Q3,506,Dogon,dtm,Tomo Kan Dogon,I
-r4,Q3,506,Dogon,dto,Tommo So Dogon,I
 r4,Q3,506,Dogon,dts,Toro So Dogon,I
-r4,Q3,506,Dogon,dtt,Toro Tegu Dogon,I
-r4,Q3,506,Dogon,dtu,Tebul Ure Dogon,I
-r4,Q3,506,Dogon,dym,Yanda Dom Dogon,I
-r4,Q3,506,Dogon,nzz,Nanga Dama Dogon,I
-r4,Q3,506,Dogon,tde,Tiranige Diga Dogon,I
 r4,Q3,507,Gana,bam,Bambara,I
 r4,Q3,508,Khassonke,kao,Xaasongaxango,I
 r4,Q3,509,Malinke,man,Mandingo,M
@@ -3223,19 +2948,11 @@ r4,Q3,587,Thimbukushu,mhw,Mbukushu,I
 r4,Q3,588,Silozi,loz,Lozi,I
 r4,Q3,589,Setswana,tsn,Tswana,I
 r4,Q3,590,Masubia,sbs,Subiya,I
-r4,Q3,591,San,hgm,Hai//om,I
-r4,Q3,591,San,knw,Kung-Ekoka,I
 r4,Q3,591,San,ktz,Ju/'hoan,I
-r4,Q3,591,San,naq,Khoekhoe,I
-r4,Q3,591,San,nhr,Naro,I
-r4,Q3,591,San,nmn,!Xóõ,I
-r4,Q3,591,San,vaj,Sekele,I
-r4,Q3,591,San,xuu,Kxoe,I
 r4,Q3,592,Mufwe,fwe,Fwe,I
 r4,Q3,593,Nyemba,kua,Kuanyama,I
 r4,Q3,594,Uumbundu,umb,Umbundu,I
 r4,Q3,620,Hausa,hau,Hausa,I
-r4,Q3,621,Igbo,agb,Legbo,I
 r4,Q3,621,Igbo,ibo,Igbo,I
 r4,Q3,622,Yoruba,yor,Yoruba,I
 r4,Q3,623,Pidgin English,pcm,Nigerian Pidgin,I
@@ -3250,11 +2967,7 @@ r4,Q3,629,Kanuri,kby,Manga Kanuri,I
 r4,Q3,629,Kanuri,knc,Central Kanuri,I
 r4,Q3,630,Tiv,tiv,Tiv,I
 r4,Q3,631,Nupe,nup,Nupe-Nupe-Tako,I
-r4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ann,Obolo,I
 r4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijc,Izon,I
-r4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijn,Kalabari,I
-r4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ijs,Southeast Ijo,I
-r4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,ogo,Khana,I
 r4,Q3,633,Edo,bin,Bini,I
 r4,Q3,634,Igala,igl,Igala,I
 r4,Q3,635,Urhobo,urh,Urhobo,I
@@ -3414,9 +3127,7 @@ r4,Q3,860,Ndebele,nde,North Ndebele,I
 r4,Q3,861,Shona,sna,Shona,I
 r4,Q3,862,Venda,ven,Venda,I
 r4,Q3,863,Kalanga,kck,Kalanga,I
-r4,Q3,864,Tonga,ndc,Ndau,I
 r4,Q3,864,Tonga,toi,Tonga (Zambia),I
-r4,Q3,864,Tonga,tso,Tsonga,I
 r4,Q3,865,Nambya,nmq,Nambya,I
 r4,Q3,866,Nyanja,nya,Nyanja,I
 r4,Q3,995,Others,und,Undetermined,S
@@ -3451,11 +3162,9 @@ r5,Q103,182,Fulfuldé,fuh,Western Niger Fulfulde,I
 r5,Q103,182,Fulfuldé,ful,Fulah,M
 r5,Q103,182,Fulfuldé,fuq,Central-Eastern Niger Fulfulde,I
 r5,Q103,220,Crioulo,kea,Kabuverdianu,I
-r5,Q103,260,Akan,abr,Abron,I
 r5,Q103,260,Akan,aka,Akan,M
 r5,Q103,260,Akan,fat,Fanti,I
 r5,Q103,260,Akan,twi,Twi,I
-r5,Q103,260,Akan,wss,Wasa,I
 r5,Q103,261,Ewe,ewe,Ewe,I
 r5,Q103,262,Ga/Dangbe,adq,Adangbe,I
 r5,Q103,262,Ga/Dangbe,gaa,Ga,I
@@ -3513,7 +3222,6 @@ r5,Q103,583,Oshiwambo,kua,Kuanyama,I
 r5,Q103,584,Otjiherero,her,Herero,I
 r5,Q103,585,Rukwangali,kwn,Kwangali,I
 r5,Q103,620,Hausa,hau,Hausa,I
-r5,Q103,621,Igbo,agb,Legbo,I
 r5,Q103,621,Igbo,ibo,Igbo,I
 r5,Q103,622,Yoruba,yor,Yoruba,I
 r5,Q103,623,Pidgin English,pcm,Nigerian Pidgin,I
@@ -3598,10 +3306,8 @@ r5,Q103,1340,Afan Oromo (Oromifa),orm,Oromo,M
 r5,Q103,1341,Amharic,amh,Amharic,I
 r5,Q103,1342,Somaligna,som,Somali,I
 r5,Q103,1343,Tigrigna,tir,Tigrinya,I
-r5,Q103,1500,Amazigh,tzm,Central Atlas Tamazight,I
 r5,Q103,1500,Amazigh,zgh,Standard Moroccan Tamazight,I
 r5,Q103,1580,Amazigh,tzm,Central Atlas Tamazight,I
-r5,Q103,1580,Amazigh,zgh,Standard Moroccan Tamazight,I
 r5,Q103,1620,siSwati,ssw,Swati,I
 r5,Q103,9995,Other,und,Undetermined,S
 r5,Q116,-1,Missing,und,Undetermined,S
@@ -3614,7 +3320,7 @@ r5,Q116,5,Arabic,ara,Arabic,M
 r5,Q116,5,Arabic,arb,Standard Arabic,I
 r5,Q116,10,Bassa,bas,Basa (Cameroon),I
 r5,Q116,10,Bassa,bsq,Bassa,I
-r5,Q116,10,Bassa,ngn,Ngwo,I
+r5,Q116,10,Bassa,bzw,Basa (Nigeria),I
 r5,Q116,15,Fulfuldé,fuh,Western Niger Fulfulde,I
 r5,Q116,15,Fulfuldé,ful,Fulah,M
 r5,Q116,15,Fulfuldé,fuq,Central-Eastern Niger Fulfulde,I
@@ -3644,13 +3350,10 @@ r5,Q116,183,Gulmacema,gux,Gourmanchéma,I
 r5,Q116,184,Gourounsi,gur,Farefare,I
 r5,Q116,185,Bissa,bib,Bissa,I
 r5,Q116,186,Bobo,bbo,Northern Bobo Madaré,I
-r5,Q116,186,Bobo,bmq,Bomu,I
-r5,Q116,186,Bobo,box,Buamu,I
 r5,Q116,186,Bobo,bwq,Southern Bobo Madaré,I
 r5,Q116,187,Birifor,bfo,Malba Birifor,I
 r5,Q116,188,Dagari,dgi,Northern Dagara,I
 r5,Q116,189,Lobi,lob,Lobi,I
-r5,Q116,190,Samo,knz,Kalamsé,I
 r5,Q116,190,Samo,sbd,Southern Samo,I
 r5,Q116,190,Samo,stj,Matya Samo,I
 r5,Q116,190,Samo,sym,Maya Samo,I
@@ -3663,20 +3366,17 @@ r5,Q116,191,Sénoufo,sep,Sìcìté Sénoufo,I
 r5,Q116,191,Sénoufo,seq,Senara Sénoufo,I
 r5,Q116,191,Sénoufo,sev,Nyarafolo Senoufo,I
 r5,Q116,191,Sénoufo,tgw,Tagwana Senoufo,I
+r5,Q116,192,Bwamu,bmq,Bomu,I
 r5,Q116,192,Bwamu,box,Buamu,I
-r5,Q116,192,Bwamu,bwj,Láá Láá Bwamu,I
-r5,Q116,192,Bwamu,bwy,Cwi Bwamu,I
 r5,Q116,193,Goin,cme,Cerma,I
 r5,Q116,194,Yanan,mos,Mossi,I
 r5,Q116,195,Marka,rkm,Marka,I
 r5,Q116,196,Kassena,xsm,Kasem,I
 r5,Q116,197,Fulsé,kfz,Koromfé,I
 r5,Q116,220,Crioulo,kea,Kabuverdianu,I
-r5,Q116,260,Akan,abr,Abron,I
 r5,Q116,260,Akan,aka,Akan,M
 r5,Q116,260,Akan,fat,Fanti,I
 r5,Q116,260,Akan,twi,Twi,I
-r5,Q116,260,Akan,wss,Wasa,I
 r5,Q116,261,Ewe,ewe,Ewe,I
 r5,Q116,262,Ga/Dangbe,adq,Adangbe,I
 r5,Q116,262,Ga/Dangbe,gaa,Ga,I
@@ -3717,9 +3417,7 @@ r5,Q116,311,Pokot,kln,Kalenjin,M
 r5,Q116,311,Pokot,pko,Pökoot,I
 r5,Q116,312,Turkana,tuv,Turkana,I
 r5,Q116,340,Sesotho,sot,Southern Sotho,I
-r5,Q116,380,Bassa,bas,Basa (Cameroon),I
 r5,Q116,380,Bassa,bsq,Bassa,I
-r5,Q116,380,Bassa,ngn,Ngwo,I
 r5,Q116,384,Gio,dnj,Dan,I
 r5,Q116,385,Gola,gol,Gola,I
 r5,Q116,386,Grebo,gbo,Northern Grebo,I
@@ -3756,9 +3454,6 @@ r5,Q116,422,Chinois,cmn,Mandarin Chinese,I
 r5,Q116,422,Chinois,yue,Yue Chinese,I
 r5,Q116,422,Chinois,zho,Chinese,M
 r5,Q116,423,Comorien,swb,Maore Comorian,I
-r5,Q116,423,Comorien,wlc,Mwali Comorian,I
-r5,Q116,423,Comorien,wni,Ndzwani Comorian,I
-r5,Q116,423,Comorien,zdj,Ngazidja Comorian,I
 r5,Q116,424,Indo-pakistanais,mul,Multiple languages,S
 r5,Q116,460,Chitumbuka,tum,Tumbuka,I
 r5,Q116,463,Chichewa,nya,Nyanja,I
@@ -3767,31 +3462,12 @@ r5,Q116,471,Chitonga,tog,Tonga (Nyasa),I
 r5,Q116,500,Arabe,mey,Hassaniyya,I
 r5,Q116,501,Bambara,bam,Bambara,I
 r5,Q116,502,Bella,ses,Koyraboro Senni Songhai,I
-r5,Q116,503,Bobo,bbo,Northern Bobo Madaré,I
 r5,Q116,503,Bobo,bmq,Bomu,I
-r5,Q116,504,Bozo,boo,Tiemacèwè Bozo,I
 r5,Q116,504,Bozo,boz,Tiéyaxo Bozo,I
 r5,Q116,504,Bozo,bze,Jenaama Bozo,I
-r5,Q116,504,Bozo,bzx,Kɛlɛngaxo Bozo,I
-r5,Q116,505,Dogon,aqd,Ampari Dogon,I
-r5,Q116,505,Dogon,dbg,Dogul Dom Dogon,I
-r5,Q116,505,Dogon,dbt,Ben Tey Dogon,I
-r5,Q116,505,Dogon,dbu,Bondum Dom Dogon,I
-r5,Q116,505,Dogon,dbw,Bankan Tey Dogon,I
 r5,Q116,505,Dogon,dds,Donno So Dogon,I
-r5,Q116,505,Dogon,dgb,Bunoge Dogon,I
 r5,Q116,505,Dogon,djm,Jamsay Dogon,I
-r5,Q116,505,Dogon,dmb,Mombo Dogon,I
-r5,Q116,505,Dogon,dti,Ana Tinga Dogon,I
-r5,Q116,505,Dogon,dtk,Tene Kan Dogon,I
-r5,Q116,505,Dogon,dtm,Tomo Kan Dogon,I
-r5,Q116,505,Dogon,dto,Tommo So Dogon,I
 r5,Q116,505,Dogon,dts,Toro So Dogon,I
-r5,Q116,505,Dogon,dtt,Toro Tegu Dogon,I
-r5,Q116,505,Dogon,dtu,Tebul Ure Dogon,I
-r5,Q116,505,Dogon,dym,Yanda Dom Dogon,I
-r5,Q116,505,Dogon,nzz,Nanga Dama Dogon,I
-r5,Q116,505,Dogon,tde,Tiranige Diga Dogon,I
 r5,Q116,506,Haoussa,hau,Hausa,I
 r5,Q116,507,Kakolo,xkg,Kagoro,I
 r5,Q116,508,Khassonké,kao,Xaasongaxango,I
@@ -3838,7 +3514,6 @@ r5,Q116,588,Silozi,loz,Lozi,I
 r5,Q116,589,Setswana,tsn,Tswana,I
 r5,Q116,590,Masubia,sbs,Subiya,I
 r5,Q116,620,Hausa,hau,Hausa,I
-r5,Q116,621,Igbo,agb,Legbo,I
 r5,Q116,621,Igbo,ibo,Igbo,I
 r5,Q116,622,Yoruba,yor,Yoruba,I
 r5,Q116,628,Ibibio,ibb,Ibibio,I
@@ -3853,9 +3528,7 @@ r5,Q116,634,Igala,igl,Igala,I
 r5,Q116,639,Idoma,idu,Idoma,I
 r5,Q116,642,Jukun,jbu,Jukun Takum,I
 r5,Q116,652,Bajju,kaj,Jju,I
-r5,Q116,659,Bassa,bas,Basa (Cameroon),I
-r5,Q116,659,Bassa,bsq,Bassa,I
-r5,Q116,659,Bassa,ngn,Ngwo,I
+r5,Q116,659,Bassa,bzw,Basa (Nigeria),I
 r5,Q116,660,Wolof,wol,Wolof,I
 r5,Q116,661,Pulaar/Toucouleur,fuc,Pulaar,I
 r5,Q116,661,Pulaar/Toucouleur,ful,Fulah,M
@@ -3995,8 +3668,6 @@ r5,Q116,1224,Douala,dua,Duala,I
 r5,Q116,1225,Babjoun,mis,Uncoded languages,S
 r5,Q116,1226,Banen,tvu,Tunen,I
 r5,Q116,1227,Bassa,bas,Basa (Cameroon),I
-r5,Q116,1227,Bassa,bsq,Bassa,I
-r5,Q116,1227,Bassa,ngn,Ngwo,I
 r5,Q116,1228,Bayangam,ken,Kenyang,I
 r5,Q116,1229,Eton,eto,Eton (Cameroon),I
 r5,Q116,1230,Kotoko,kot,Lagwan,I
@@ -4074,10 +3745,8 @@ r5,Q116,1348,Afarigna,aar,Afar,I
 r5,Q116,1349,Gamogna,gmv,Gamo,I
 r5,Q116,1358,Silte,stv,Silt'e,I
 r5,Q116,1363,Kembata,ktb,Kambaata,I
-r5,Q116,1500,Tamazight,tzm,Central Atlas Tamazight,I
 r5,Q116,1500,Tamazight,zgh,Standard Moroccan Tamazight,I
 r5,Q116,1580,Amazigh,tzm,Central Atlas Tamazight,I
-r5,Q116,1580,Amazigh,zgh,Standard Moroccan Tamazight,I
 r5,Q116,1620,siSwati,ssw,Swati,I
 r5,Q116,2620,Jaba,ldb,Dũya,I
 r5,Q116,2621,Koro,ahs,Ashe,I
@@ -4113,10 +3782,9 @@ r5,Q2,8,Amazigh,zgh,Standard Moroccan Tamazight,I
 r5,Q2,9,Bambara,bam,Bambara,I
 r5,Q2,10,Bassa,bas,Basa (Cameroon),I
 r5,Q2,10,Bassa,bsq,Bassa,I
-r5,Q2,10,Bassa,ngn,Ngwo,I
+r5,Q2,10,Bassa,bzw,Basa (Nigeria),I
 r5,Q2,11,Bobo,bbo,Northern Bobo Madaré,I
 r5,Q2,11,Bobo,bmq,Bomu,I
-r5,Q2,11,Bobo,box,Buamu,I
 r5,Q2,11,Bobo,bwq,Southern Bobo Madaré,I
 r5,Q2,12,Chichewa,nya,Nyanja,I
 r5,Q2,13,Dioula,dyu,Dyula,I
@@ -4155,7 +3823,8 @@ r5,Q2,32,Sénoufo,tgw,Tagwana Senoufo,I
 r5,Q2,33,Setswana,tsn,Tswana,I
 r5,Q2,34,Shangaan,tso,Tsonga,I
 r5,Q2,35,siSwati,ssw,Swati,I
-r5,Q2,36,Tonga,ndc,Ndau,I
+r5,Q2,36,Tonga,tog,Tonga (Nyasa),I
+r5,Q2,36,Tonga,toh,Gitonga,I
 r5,Q2,36,Tonga,toi,Tonga (Zambia),I
 r5,Q2,36,Tonga,tso,Tsonga,I
 r5,Q2,37,Vai,vai,Vai,I
@@ -4193,9 +3862,8 @@ r5,Q2,183,Gulmacema,gux,Gourmanchéma,I
 r5,Q2,184,Gourounsi,gur,Farefare,I
 r5,Q2,185,Bissa,bib,Bissa,I
 r5,Q2,186,Birifor,bfo,Malba Birifor,I
+r5,Q2,187,Bwamu,bmq,Bomu,I
 r5,Q2,187,Bwamu,box,Buamu,I
-r5,Q2,187,Bwamu,bwj,Láá Láá Bwamu,I
-r5,Q2,187,Bwamu,bwy,Cwi Bwamu,I
 r5,Q2,188,Dagari,dgi,Northern Dagara,I
 r5,Q2,189,Fulse,kfz,Koromfé,I
 r5,Q2,190,Goin,cme,Cerma,I
@@ -4204,7 +3872,6 @@ r5,Q2,191,Karaboro,xrb,Eastern Karaboro,I
 r5,Q2,192,Kassena,xsm,Kasem,I
 r5,Q2,193,Lobi,lob,Lobi,I
 r5,Q2,194,Marka,rkm,Marka,I
-r5,Q2,195,Samo,knz,Kalamsé,I
 r5,Q2,195,Samo,sbd,Southern Samo,I
 r5,Q2,195,Samo,stj,Matya Samo,I
 r5,Q2,195,Samo,sym,Maya Samo,I
@@ -4222,15 +3889,11 @@ r5,Q2,198,Toussian,tsp,Northern Toussian,I
 r5,Q2,198,Toussian,wib,Southern Toussian,I
 r5,Q2,199,Dafing,rkm,Marka,I
 r5,Q2,200,Bobo,bbo,Northern Bobo Madaré,I
-r5,Q2,200,Bobo,bmq,Bomu,I
-r5,Q2,200,Bobo,box,Buamu,I
 r5,Q2,200,Bobo,bwq,Southern Bobo Madaré,I
 r5,Q2,220,Crioulo,kea,Kabuverdianu,I
-r5,Q2,260,Akan,abr,Abron,I
 r5,Q2,260,Akan,aka,Akan,M
 r5,Q2,260,Akan,fat,Fanti,I
 r5,Q2,260,Akan,twi,Twi,I
-r5,Q2,260,Akan,wss,Wasa,I
 r5,Q2,261,Ewe,ewe,Ewe,I
 r5,Q2,262,Ga/Dangbe,adq,Adangbe,I
 r5,Q2,262,Ga/Dangbe,gaa,Ga,I
@@ -4317,9 +3980,7 @@ r5,Q2,322,Oroma,orm,Oromo,M
 r5,Q2,340,Sesotho,sot,Southern Sotho,I
 r5,Q2,341,Sephuthi,ssw,Swati,I
 r5,Q2,342,Sethepu,xho,Xhosa,I
-r5,Q2,380,Bassa,bas,Basa (Cameroon),I
 r5,Q2,380,Bassa,bsq,Bassa,I
-r5,Q2,380,Bassa,ngn,Ngwo,I
 r5,Q2,381,Belle,blh,Kuwaa,I
 r5,Q2,382,Dei,dee,Dewoin,I
 r5,Q2,383,Gbandi,bza,Bandi,I
@@ -4362,9 +4023,6 @@ r5,Q2,422,Chinois,cmn,Mandarin Chinese,I
 r5,Q2,422,Chinois,yue,Yue Chinese,I
 r5,Q2,422,Chinois,zho,Chinese,M
 r5,Q2,423,Comorien,swb,Maore Comorian,I
-r5,Q2,423,Comorien,wlc,Mwali Comorian,I
-r5,Q2,423,Comorien,wni,Ndzwani Comorian,I
-r5,Q2,423,Comorien,zdj,Ngazidja Comorian,I
 r5,Q2,424,Indo-pakistanais,mul,Multiple languages,S
 r5,Q2,460,Chitumbuka,tum,Tumbuka,I
 r5,Q2,461,Chinkhonde,nyy,Nyakyusa-Ngonde,I
@@ -4383,31 +4041,12 @@ r5,Q2,473,Chinyakyusa,nyy,Nyakyusa-Ngonde,I
 r5,Q2,500,Arabe,mey,Hassaniyya,I
 r5,Q2,501,Bambara,bam,Bambara,I
 r5,Q2,502,Bella,ses,Koyraboro Senni Songhai,I
-r5,Q2,503,Bobo,bbo,Northern Bobo Madaré,I
 r5,Q2,503,Bobo,bmq,Bomu,I
-r5,Q2,504,Bozo,boo,Tiemacèwè Bozo,I
 r5,Q2,504,Bozo,boz,Tiéyaxo Bozo,I
 r5,Q2,504,Bozo,bze,Jenaama Bozo,I
-r5,Q2,504,Bozo,bzx,Kɛlɛngaxo Bozo,I
-r5,Q2,505,Dogon,aqd,Ampari Dogon,I
-r5,Q2,505,Dogon,dbg,Dogul Dom Dogon,I
-r5,Q2,505,Dogon,dbt,Ben Tey Dogon,I
-r5,Q2,505,Dogon,dbu,Bondum Dom Dogon,I
-r5,Q2,505,Dogon,dbw,Bankan Tey Dogon,I
 r5,Q2,505,Dogon,dds,Donno So Dogon,I
-r5,Q2,505,Dogon,dgb,Bunoge Dogon,I
 r5,Q2,505,Dogon,djm,Jamsay Dogon,I
-r5,Q2,505,Dogon,dmb,Mombo Dogon,I
-r5,Q2,505,Dogon,dti,Ana Tinga Dogon,I
-r5,Q2,505,Dogon,dtk,Tene Kan Dogon,I
-r5,Q2,505,Dogon,dtm,Tomo Kan Dogon,I
-r5,Q2,505,Dogon,dto,Tommo So Dogon,I
 r5,Q2,505,Dogon,dts,Toro So Dogon,I
-r5,Q2,505,Dogon,dtt,Toro Tegu Dogon,I
-r5,Q2,505,Dogon,dtu,Tebul Ure Dogon,I
-r5,Q2,505,Dogon,dym,Yanda Dom Dogon,I
-r5,Q2,505,Dogon,nzz,Nanga Dama Dogon,I
-r5,Q2,505,Dogon,tde,Tiranige Diga Dogon,I
 r5,Q2,506,Haoussa,hau,Hausa,I
 r5,Q2,507,Kakolo,xkg,Kagoro,I
 r5,Q2,508,Khassonké,kao,Xaasongaxango,I
@@ -4465,7 +4104,6 @@ r5,Q2,588,Silozi,loz,Lozi,I
 r5,Q2,589,Setswana,tsn,Tswana,I
 r5,Q2,590,Masubia,sbs,Subiya,I
 r5,Q2,620,Hausa,hau,Hausa,I
-r5,Q2,621,Igbo,agb,Legbo,I
 r5,Q2,621,Igbo,ibo,Igbo,I
 r5,Q2,622,Yoruba,yor,Yoruba,I
 r5,Q2,623,Pidgin English,pcm,Nigerian Pidgin,I
@@ -4656,9 +4294,7 @@ r5,Q2,865,Manyika,mxc,Manyika,I
 r5,Q2,866,Ndau,ndc,Ndau,I
 r5,Q2,867,Venda,ven,Venda,I
 r5,Q2,868,Kalanga,kck,Kalanga,I
-r5,Q2,869,Tonga,ndc,Ndau,I
 r5,Q2,869,Tonga,toi,Tonga (Zambia),I
-r5,Q2,869,Tonga,tso,Tsonga,I
 r5,Q2,870,Vhitori,sna,Shona,I
 r5,Q2,871,Shangani,tso,Tsonga,I
 r5,Q2,872,Nambya,nmq,Nambya,I
@@ -4748,8 +4384,6 @@ r5,Q2,1232,Bangwa,nge,Ngemba,I
 r5,Q2,1232,Bangwa,nnz,Nda'nda',I
 r5,Q2,1233,Banso,lns,Lamnso',I
 r5,Q2,1234,Bassa,bas,Basa (Cameroon),I
-r5,Q2,1234,Bassa,bsq,Bassa,I
-r5,Q2,1234,Bassa,ngn,Ngwo,I
 r5,Q2,1235,Batanga,bdu,Oroko,I
 r5,Q2,1235,Batanga,bnm,Batanga,I
 r5,Q2,1235,Batanga,ckx,Caka,I
@@ -4877,12 +4511,9 @@ r5,Q2,1366,Mursi,muz,Mursi,I
 r5,Q2,1367,Nuwer,nus,Nuer,I
 r5,Q2,1368,Welene,wle,Wolane,I
 r5,Q2,1420,Amazigh,tzm,Central Atlas Tamazight,I
-r5,Q2,1420,Amazigh,zgh,Standard Moroccan Tamazight,I
-r5,Q2,1500,Amazigh,tzm,Central Atlas Tamazight,I
 r5,Q2,1500,Amazigh,zgh,Standard Moroccan Tamazight,I
 r5,Q2,1501,Hassaniya,mey,Hassaniyya,I
 r5,Q2,1580,Amazigh,tzm,Central Atlas Tamazight,I
-r5,Q2,1580,Amazigh,zgh,Standard Moroccan Tamazight,I
 r5,Q2,1620,siSwati,ssw,Swati,I
 r5,Q2,1621,Shangaan,tso,Tsonga,I
 r5,Q2,1622,Isizulu,zul,Zulu,I
@@ -4943,11 +4574,9 @@ r6,Q103,183,Gulmacema,gux,Gourmanchéma,I
 r6,Q103,184,Gourounsi,gur,Farefare,I
 r6,Q103,220,Crioulo,kea,Kabuverdianu,I
 r6,Q103,221,Português,por,Portuguese,I
-r6,Q103,260,Akan,abr,Abron,I
 r6,Q103,260,Akan,aka,Akan,M
 r6,Q103,260,Akan,fat,Fanti,I
 r6,Q103,260,Akan,twi,Twi,I
-r6,Q103,260,Akan,wss,Wasa,I
 r6,Q103,262,Ga/Dangbe,adq,Adangbe,I
 r6,Q103,262,Ga/Dangbe,gaa,Ga,I
 r6,Q103,263,Dagbani,dag,Dagbani,I
@@ -4973,9 +4602,7 @@ r6,Q103,304,Kalenjin,tec,Terik,I
 r6,Q103,304,Kalenjin,tuy,Tugen,I
 r6,Q103,305,Kisii,guz,Gusii,I
 r6,Q103,306,Meru/Samburu,mer,Meru,I
-r6,Q103,306,Meru/Samburu,saq,Samburu,I
 r6,Q103,307,Maasai / Samburu,mas,Masai,I
-r6,Q103,307,Maasai / Samburu,saq,Samburu,I
 r6,Q103,310,Somali,som,Somali,I
 r6,Q103,340,Sesotho,sot,Southern Sotho,I
 r6,Q103,380,Liberian English,lir,Liberian English,I
@@ -5008,7 +4635,6 @@ r6,Q103,543,Changana,tso,Tsonga,I
 r6,Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,I
 r6,Q103,582,Otjiherero,her,Herero,I
 r6,Q103,583,Rukwangali,kwn,Kwangali,I
-r6,Q103,621,Igbo,agb,Legbo,I
 r6,Q103,621,Igbo,ibo,Igbo,I
 r6,Q103,623,Pidgin English,pcm,Nigerian Pidgin,I
 r6,Q103,660,Wolof,wol,Wolof,I
@@ -5078,7 +4704,6 @@ r6,Q116,5,Arabic,arb,Standard Arabic,I
 r6,Q116,6,Adja,ajg,Aja (Benin),I
 r6,Q116,13,Bobo,bbo,Northern Bobo Madaré,I
 r6,Q116,13,Bobo,bmq,Bomu,I
-r6,Q116,13,Bobo,box,Buamu,I
 r6,Q116,13,Bobo,bwq,Southern Bobo Madaré,I
 r6,Q116,16,Ewe,ewe,Ewe,I
 r6,Q116,18,Fulfuldé,fuh,Western Niger Fulfulde,I
@@ -5107,17 +4732,14 @@ r6,Q116,181,Dioula,dyu,Dyula,I
 r6,Q116,183,Gulmacema,gux,Gourmanchéma,I
 r6,Q116,184,Gourounsi,gur,Farefare,I
 r6,Q116,185,Bissa,bib,Bissa,I
-r6,Q116,190,Samo,knz,Kalamsé,I
 r6,Q116,190,Samo,sbd,Southern Samo,I
 r6,Q116,190,Samo,stj,Matya Samo,I
 r6,Q116,190,Samo,sym,Maya Samo,I
 r6,Q116,220,Crioulo,kea,Kabuverdianu,I
 r6,Q116,221,Português,por,Portuguese,I
-r6,Q116,260,Akan,abr,Abron,I
 r6,Q116,260,Akan,aka,Akan,M
 r6,Q116,260,Akan,fat,Fanti,I
 r6,Q116,260,Akan,twi,Twi,I
-r6,Q116,260,Akan,wss,Wasa,I
 r6,Q116,262,Ga/Dangbe,adq,Adangbe,I
 r6,Q116,262,Ga/Dangbe,gaa,Ga,I
 r6,Q116,263,Dagbani,dag,Dagbani,I
@@ -5141,10 +4763,8 @@ r6,Q116,302,Luhya,lwg,Wanga,I
 r6,Q116,302,Luhya,nle,East Nyala,I
 r6,Q116,303,Kamba,kam,Kamba (Kenya),I
 r6,Q116,305,Kisii,guz,Gusii,I
-r6,Q116,306,Meru/Embu,ebu,Embu,I
 r6,Q116,306,Meru/Embu,mer,Meru,I
 r6,Q116,307,Maasai/Samburu,mas,Masai,I
-r6,Q116,307,Maasai/Samburu,saq,Samburu,I
 r6,Q116,310,Somali,som,Somali,I
 r6,Q116,340,Sesotho,sot,Southern Sotho,I
 r6,Q116,380,Bassa,bsq,Bassa,I
@@ -5184,25 +4804,9 @@ r6,Q116,464,Chiyao,yao,Yao,I
 r6,Q116,466,Chilomwe,lon,Malawi Lomwe,I
 r6,Q116,471,Chitonga,tog,Tonga (Nyasa),I
 r6,Q116,501,Bambara,bam,Bambara,I
-r6,Q116,506,Dogon,aqd,Ampari Dogon,I
-r6,Q116,506,Dogon,dbg,Dogul Dom Dogon,I
-r6,Q116,506,Dogon,dbt,Ben Tey Dogon,I
-r6,Q116,506,Dogon,dbu,Bondum Dom Dogon,I
-r6,Q116,506,Dogon,dbw,Bankan Tey Dogon,I
 r6,Q116,506,Dogon,dds,Donno So Dogon,I
-r6,Q116,506,Dogon,dgb,Bunoge Dogon,I
 r6,Q116,506,Dogon,djm,Jamsay Dogon,I
-r6,Q116,506,Dogon,dmb,Mombo Dogon,I
-r6,Q116,506,Dogon,dti,Ana Tinga Dogon,I
-r6,Q116,506,Dogon,dtk,Tene Kan Dogon,I
-r6,Q116,506,Dogon,dtm,Tomo Kan Dogon,I
-r6,Q116,506,Dogon,dto,Tommo So Dogon,I
 r6,Q116,506,Dogon,dts,Toro So Dogon,I
-r6,Q116,506,Dogon,dtt,Toro Tegu Dogon,I
-r6,Q116,506,Dogon,dtu,Tebul Ure Dogon,I
-r6,Q116,506,Dogon,dym,Yanda Dom Dogon,I
-r6,Q116,506,Dogon,nzz,Nanga Dama Dogon,I
-r6,Q116,506,Dogon,tde,Tiranige Diga Dogon,I
 r6,Q116,514,Peulh/Fulfude,ffm,Maasina Fulfulde,I
 r6,Q116,514,Peulh/Fulfude,ful,Fulah,M
 r6,Q116,516,Senufo,spp,Supyire Senoufo,I
@@ -5220,12 +4824,12 @@ r6,Q116,547,Makonde,kde,Makonde,I
 r6,Q116,548,Chuabo,chw,Chuwabu,I
 r6,Q116,550,Lomue,ngl,Lomwe,I
 r6,Q116,582,Nama/Damara,naq,Khoekhoe,I
+r6,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),kua,Kuanyama,I
 r6,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,I
 r6,Q116,584,Otjiherero,her,Herero,I
 r6,Q116,585,Rukwangali,kwn,Kwangali,I
 r6,Q116,586,Rugririku/Rumanyo,diu,Diriku,I
 r6,Q116,588,Silozi,loz,Lozi,I
-r6,Q116,621,Igbo,agb,Legbo,I
 r6,Q116,621,Igbo,ibo,Igbo,I
 r6,Q116,624,Efik,efi,Efik,I
 r6,Q116,625,Ebira,igb,Ebira,I
@@ -5389,8 +4993,6 @@ r6,Q2,8,Arabe,mey,Hassaniyya,I
 r6,Q2,9,Bambara,bam,Bambara,I
 r6,Q2,10,Bassa,bas,Basa (Cameroon),I
 r6,Q2,10,Bassa,bsq,Bassa,I
-r6,Q2,10,Bassa,ngn,Ngwo,I
-r6,Q2,11,Berber Language,cnu,Chenoua,I
 r6,Q2,11,Berber Language,kab,Kabyle,I
 r6,Q2,11,Berber Language,rif,Tarifit,I
 r6,Q2,11,Berber Language,shi,Tachelhit,I
@@ -5401,7 +5003,6 @@ r6,Q2,11,Berber Language,tzm,Central Atlas Tamazight,I
 r6,Q2,12,Bissa,bib,Bissa,I
 r6,Q2,13,Bobo,bbo,Northern Bobo Madaré,I
 r6,Q2,13,Bobo,bmq,Bomu,I
-r6,Q2,13,Bobo,box,Buamu,I
 r6,Q2,13,Bobo,bwq,Southern Bobo Madaré,I
 r6,Q2,14,Chewa,nya,Nyanja,I
 r6,Q2,15,Dioula,dyu,Dyula,I
@@ -5443,9 +5044,7 @@ r6,Q2,32,Tamasheq,taq,Tamasheq,I
 r6,Q2,32,Tamasheq,thv,Tahaggart Tamahaq,I
 r6,Q2,32,Tamasheq,tmh,Tamashek,M
 r6,Q2,32,Tamasheq,ttq,Tawallammat Tamajaq,I
-r6,Q2,33,Tonga,ndc,Ndau,I
 r6,Q2,33,Tonga,toi,Tonga (Zambia),I
-r6,Q2,33,Tonga,tso,Tsonga,I
 r6,Q2,34,Venda,ven,Venda,I
 r6,Q2,35,Yoruba,yor,Yoruba,I
 r6,Q2,102,Bariba,bba,Baatonum,I
@@ -5465,9 +5064,8 @@ r6,Q2,180,Mooré,mos,Mossi,I
 r6,Q2,183,Gulmacema,gux,Gourmanchéma,I
 r6,Q2,184,Gourounsi,gur,Farefare,I
 r6,Q2,186,Birifor,bfo,Malba Birifor,I
+r6,Q2,187,Bwamu,bmq,Bomu,I
 r6,Q2,187,Bwamu,box,Buamu,I
-r6,Q2,187,Bwamu,bwj,Láá Láá Bwamu,I
-r6,Q2,187,Bwamu,bwy,Cwi Bwamu,I
 r6,Q2,188,Dagari,dgi,Northern Dagara,I
 r6,Q2,189,Fulse,kfz,Koromfé,I
 r6,Q2,190,Goin,cme,Cerma,I
@@ -5475,18 +5073,15 @@ r6,Q2,191,Karaboro,kza,Western Karaboro,I
 r6,Q2,191,Karaboro,xrb,Eastern Karaboro,I
 r6,Q2,192,Kassena,xsm,Kasem,I
 r6,Q2,194,Marka,rkm,Marka,I
-r6,Q2,195,Samo,knz,Kalamsé,I
 r6,Q2,195,Samo,sbd,Southern Samo,I
 r6,Q2,195,Samo,stj,Matya Samo,I
 r6,Q2,195,Samo,sym,Maya Samo,I
 r6,Q2,197,Sonrai,hmb,Humburi Senni Songhay,I
 r6,Q2,220,Crioulo,kea,Kabuverdianu,I
 r6,Q2,221,Português,por,Portuguese,I
-r6,Q2,260,Akan,abr,Abron,I
 r6,Q2,260,Akan,aka,Akan,M
 r6,Q2,260,Akan,fat,Fanti,I
 r6,Q2,260,Akan,twi,Twi,I
-r6,Q2,260,Akan,wss,Wasa,I
 r6,Q2,262,Ga/Dangbe,adq,Adangbe,I
 r6,Q2,262,Ga/Dangbe,gaa,Ga,I
 r6,Q2,263,Dagbani,dag,Dagbani,I
@@ -5522,10 +5117,8 @@ r6,Q2,304,Kalenjin,spy,Sabaot,I
 r6,Q2,304,Kalenjin,tec,Terik,I
 r6,Q2,304,Kalenjin,tuy,Tugen,I
 r6,Q2,305,Kisii,guz,Gusii,I
-r6,Q2,306,Meru/Embu,ebu,Embu,I
 r6,Q2,306,Meru/Embu,mer,Meru,I
 r6,Q2,307,Maasai/Samburu,mas,Masai,I
-r6,Q2,307,Maasai/Samburu,saq,Samburu,I
 r6,Q2,308,Mijikenda,dig,Digo,I
 r6,Q2,308,Mijikenda,dug,Duruma,I
 r6,Q2,308,Mijikenda,nyf,Giryama,I
@@ -5589,30 +5182,12 @@ r6,Q2,470,Chisenga,nkv,Nyika (Malawi and Zambia),I
 r6,Q2,470,Chisenga,tum,Tumbuka,I
 r6,Q2,471,Chitonga,tog,Tonga (Nyasa),I
 r6,Q2,502,Bella,ses,Koyraboro Senni Songhai,I
-r6,Q2,504,Bozo,boo,Tiemacèwè Bozo,I
 r6,Q2,504,Bozo,boz,Tiéyaxo Bozo,I
 r6,Q2,504,Bozo,bze,Jenaama Bozo,I
-r6,Q2,504,Bozo,bzx,Kɛlɛngaxo Bozo,I
 r6,Q2,505,Dafing,rkm,Marka,I
-r6,Q2,506,Dogon,aqd,Ampari Dogon,I
-r6,Q2,506,Dogon,dbg,Dogul Dom Dogon,I
-r6,Q2,506,Dogon,dbt,Ben Tey Dogon,I
-r6,Q2,506,Dogon,dbu,Bondum Dom Dogon,I
-r6,Q2,506,Dogon,dbw,Bankan Tey Dogon,I
 r6,Q2,506,Dogon,dds,Donno So Dogon,I
-r6,Q2,506,Dogon,dgb,Bunoge Dogon,I
 r6,Q2,506,Dogon,djm,Jamsay Dogon,I
-r6,Q2,506,Dogon,dmb,Mombo Dogon,I
-r6,Q2,506,Dogon,dti,Ana Tinga Dogon,I
-r6,Q2,506,Dogon,dtk,Tene Kan Dogon,I
-r6,Q2,506,Dogon,dtm,Tomo Kan Dogon,I
-r6,Q2,506,Dogon,dto,Tommo So Dogon,I
 r6,Q2,506,Dogon,dts,Toro So Dogon,I
-r6,Q2,506,Dogon,dtt,Toro Tegu Dogon,I
-r6,Q2,506,Dogon,dtu,Tebul Ure Dogon,I
-r6,Q2,506,Dogon,dym,Yanda Dom Dogon,I
-r6,Q2,506,Dogon,nzz,Nanga Dama Dogon,I
-r6,Q2,506,Dogon,tde,Tiranige Diga Dogon,I
 r6,Q2,509,Kakolo,xkg,Kagoro,I
 r6,Q2,510,Khassonké,kao,Xaasongaxango,I
 r6,Q2,511,Malinké,kao,Xaasongaxango,I
@@ -5642,6 +5217,7 @@ r6,Q2,552,Nyungwe,nyu,Nyungwe,I
 r6,Q2,553,Xitswa,tsc,Tswa,I
 r6,Q2,581,German,deu,German,I
 r6,Q2,582,Nama/Damara,naq,Khoekhoe,I
+r6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),kua,Kuanyama,I
 r6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),ndo,Ndonga,I
 r6,Q2,584,Otjiherero,her,Herero,I
 r6,Q2,585,Rukwangali,kwn,Kwangali,I
@@ -5649,15 +5225,7 @@ r6,Q2,586,Rugririku/Rumanyo,diu,Diriku,I
 r6,Q2,587,Thimbukushu,mhw,Mbukushu,I
 r6,Q2,588,Silozi,loz,Lozi,I
 r6,Q2,590,Masubia,sbs,Subiya,I
-r6,Q2,591,San,hgm,Hai//om,I
-r6,Q2,591,San,knw,Kung-Ekoka,I
 r6,Q2,591,San,ktz,Ju/'hoan,I
-r6,Q2,591,San,naq,Khoekhoe,I
-r6,Q2,591,San,nhr,Naro,I
-r6,Q2,591,San,nmn,!Xóõ,I
-r6,Q2,591,San,vaj,Sekele,I
-r6,Q2,591,San,xuu,Kxoe,I
-r6,Q2,621,Igbo,agb,Legbo,I
 r6,Q2,621,Igbo,ibo,Igbo,I
 r6,Q2,623,Pidgin English,pcm,Nigerian Pidgin,I
 r6,Q2,624,Efik,efi,Efik,I

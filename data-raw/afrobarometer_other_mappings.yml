@@ -4,7 +4,12 @@
 - country: BF
   iso_639_3:
   - bwq
+  - bbo
+  wals_code:
+  - bbf
   lang_name: bobo
+  note: >-
+    Burkina Faso. Use Bobo for Mande languages.
 - country: BF
   iso_639_3:
   - bof
@@ -25,11 +30,17 @@
   - djm
   - dtm
   lang_name: dogon
+  wals_code:
+  - dds
+  - dts
 - country: BF
   iso_639_3:
   - djm
   - dtm
   lang_name: dogons
+  wals_code:
+  - dds
+  - dts
 - country: BF
   iso_639_3:
   - dos
@@ -646,8 +657,10 @@
   lang_name: bapoukou
 - country: CM
   iso_639_3:
-  - ngn
+  - bas
   lang_name: bassa
+  note: >-
+    Cameroon Bassa
 - country: CM
   iso_639_3:
   - nla
@@ -1286,6 +1299,7 @@
   iso_639_3:
   - kab
   lang_name: tamazight
+  note: Kabyle is most common berber in DZ
 - country: GA
   iso_639_3:
   - hau
@@ -1304,7 +1318,8 @@
   lang_name: ahanta
 - country: GH
   iso_639_3:
-  - aka
+  - fat
+  - twi
   lang_name: akan
 - country: GH
   iso_639_3:
@@ -2163,7 +2178,6 @@
 - country: MA
   iso_639_3:
   - zgh
-  - sjs
   lang_name: tamazight
 - country: MG
   iso_639_3:
@@ -2235,8 +2249,7 @@
   - nyy
   lang_name: chinkhonde
 - country: MW
-  iso_639_3:
-  - nyf
+  iso_639_3: null
   lang_name: chinyakyusa
 - country: MW
   iso_639_3:
@@ -2831,8 +2844,9 @@
   lang_name: tonga
 - country: MZ
   iso_639_3:
-  - txw
+  - twx
   lang_name: xiteu
+  note: Tewe
 - country: MZ
   iso_639_3:
   - tsc
@@ -2873,9 +2887,10 @@
   note: Umbundu
 - country: NA
   iso_639_3:
-  - nmn
+  - ktz
+  wals_name:
+  - juh
   lang_name: san
-  note: !Xoo goes by name Nusan
 - country: NA
   iso_639_3: null
   lang_name: shona
@@ -2929,8 +2944,9 @@
   lang_name: afizere
 - country: NG
   iso_639_3:
-  - ika
+  - ikk
   lang_name: agbor
+  note: Agbor is a dialect of Ika
 - country: NG
   iso_639_3: null
   lang_name: ahoada
@@ -3024,10 +3040,16 @@
   iso_639_3: null
   lang_name: bagwom
 - country: NG
-  iso_639_3: null
+  iso_639_3:
+  - kaj
+  wals_code:
+  - gwo
   lang_name: bajju
 - country: NG
-  iso_639_3: null
+  iso_639_3:
+  - kaj
+  wals_code:
+  - gwo
   lang_name: baju
 - country: NG
   iso_639_3: null
@@ -3051,8 +3073,12 @@
   iso_639_3: null
   lang_name: basange
 - country: NG
-  iso_639_3: null
+  iso_639_3:
+  - bzw
   lang_name: bassa
+  note: >-
+    Nigerian Basa
+
 - country: NG
   iso_639_3: null
   lang_name: bawaje
@@ -3325,6 +3351,10 @@
   iso_639_3:
   - iri
   lang_name: irigwe
+  wals_code:
+  - gwo
+  note: >-
+    Provide a close WALS match to avoid multi-genus error.
 - country: NG
   iso_639_3:
   - iso
@@ -3522,9 +3552,9 @@
 - country: NG
   iso_639_3:
   - mfn
-  - nza
   lang_name: mbembe
-  note: Mbembe
+  note: >-
+    Mbembe (mfn) distinct from Cameroonian Tigon Mbembe (nza)
 - country: NG
   iso_639_3: null
   lang_name: mbube

@@ -199,11 +199,16 @@
   wals_code: null
 - iso_639_3:
   - toi
+  - tog
   lang_id: 31
   lang_name: Tonga
   question:
   - language
-  wals_code: null
+  wals_code:
+  - toz
+  note: >-
+    Malawi and Zambia. Use both dialects for ISO. Use only Zambia
+    for WALS.
 - iso_639_3:
   - zul
   lang_id: 32
@@ -248,10 +253,8 @@
   - language
   wals_code: null
 - iso_639_3:
-  - abr
   - fat
   - twi
-  - wss
   lang_id: 41
   lang_name: Akan
   question:
@@ -493,13 +496,9 @@
   - language
   wals_code: null
 - iso_639_3:
-  - bib
-  - lig
+  - mis
   lang_id: 72
   lang_name: Wangara
-  note: 'Wangara are Mande speakers in Ghana.
-
-    https://en.wikipedia.org/wiki/Soninke_Wangara'
   question:
   - language
   wals_code: null
@@ -620,30 +619,18 @@
   - language
   wals_code: null
 - iso_639_3:
-  - aqd
-  - dbg
-  - dbt
-  - dbu
-  - dbw
   - dds
-  - dgb
   - djm
-  - dmb
-  - dti
-  - dtk
-  - dtm
-  - dto
   - dts
-  - dtt
-  - dtu
-  - dym
-  - nzz
-  - tde
   lang_id: 90
   lang_name: Dogon
   question:
   - language
-  wals_code: null
+  wals_code:
+  - dds
+  - jms
+  - tms
+  - dts
 - iso_639_3:
   - taq
   - ttq
@@ -653,23 +640,26 @@
   - language
   wals_code: null
 - iso_639_3:
-  - bbo
   - bmq
   lang_id: 92
   lang_name: Bobo
   question:
   - language
-  wals_code: null
+  wals_code:
+  - kfe
+  note: >-
+    Mali. Gur Language
 - iso_639_3:
-  - boo
   - boz
   - bze
-  - bzx
   lang_id: 93
   lang_name: Bozo
   question:
   - language
-  wals_code: null
+  wals_code:
+  - boz
+  note: >-
+    Mali. Mande language.
 - iso_639_3:
   - kao
   lang_id: 94
@@ -864,12 +854,17 @@
   - language
   wals_code: null
 - iso_639_3:
-  - kcf
+  - mis
   lang_id: 123
   lang_name: Ikan
   question:
   - language
   wals_code: null
+  note: >-
+    Ikan is alt name for Ukaan (kcf). If this is correct, then there
+    is no close WALS language. Ethnologue puts Ukaan in its own branch of
+    Niger-Congo/Atlantic-Congo/Volta-Congo/Benue-Congo/, with no other
+    languages. Alternatively, it could be Kaan (ldl).
 - iso_639_3:
   - ish
   lang_id: 124
@@ -1156,7 +1151,8 @@
   lang_name: Iregwe
   question:
   - language
-  wals_code: null
+  wals_code:
+  - gwo
 - iso_639_3:
   - izr
   lang_id: 165
@@ -1189,7 +1185,10 @@
   lang_name: Miango
   question:
   - language
-  wals_code: null
+  wals_code:
+  - gwo
+  note: >-
+    Miango is a dialect of Iri. It is most similar to Tyap / Gworok in WALS.
 - iso_639_3:
   - mis
   lang_id: 169

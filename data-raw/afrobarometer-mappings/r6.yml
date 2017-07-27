@@ -91,16 +91,21 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bas
   - bsq
-  - ngn
+  - bas
   lang_id: 10
   lang_name: Bassa
   question:
   - Q2
   wals_code: null
+  note: >-
+    In R6 used in Cameroon and Liberia. These are two distinct languages.
+    Use
+
+    - bas if Cameroon
+    - bsq if Liberia
+
 - iso_639_3:
-  - cnu
   - kab
   - rif
   - shi
@@ -109,27 +114,15 @@
   - tzm
   lang_id: 11
   lang_name: Berber Language
-  note: Berber is a language family (though it has an ISO-2/5 code of ber. Shawiya,
-    Shenwa, Tuareg, Tamahaq spoken in Algeria; Riffian, Shilha, Central Atlas Tamazight
-    spoken in Morocco
+  note: >-
+    Algeriba and Morocco. Included some of the most
+    common Berber languages. For WALS use
+    Middle Atlas Berber, which is included in the
+    200 language sample.
   question:
   - Q2
   wals_code:
-  - bch
-  - bfg
   - bma
-  - bmz
-  - bou
-  - brf
-  - bse
-  - bsi
-  - kbl
-  - tai
-  - tas
-  - tgh
-  - tsk
-  - tug
-  - zen
 - iso_639_3:
   - bib
   lang_id: 12
@@ -138,16 +131,33 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bbo
+  # mali
   - bmq
-  - box
+  # BF
+  - bbo
   - bwq
   lang_id: 13
   lang_name: Bobo
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - bbf
+  - kfe
+  note: >-
+    Used in both Mali and Burkina Faso but refer to unrelated langs.
+    In BF it is a Mande language, and in Mali it is Gur language.
+
+    ISO
+
+    - BF bbo and bwq  (Mande language)
+    - Mali Bomu (bmq) (Gur language)
+
+    WALS
+
+    - BF Bobo Mandare (bbf) is the Mande
+    - Mali Korofue (kfe) is closest Gur language
+
 - iso_639_3:
   - nya
   lang_id: 14
@@ -320,15 +330,15 @@
   wals_code:
   - tsk
 - iso_639_3:
-  - ndc
   - toi
-  - tso
   lang_id: 33
   lang_name: Tonga
   question:
   - Q2
   wals_code:
   - toz
+  note: >-
+    Zambia, Zimbabwe. Use Tonga in Zambia.
 - iso_639_3:
   - ven
   lang_id: 34
@@ -566,13 +576,15 @@
   wals_code: null
 - iso_639_3:
   - box
-  - bwj
-  - bwy
+  - bmq
   lang_id: 187
   lang_name: Bwamu
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - kfe
+  note: >-
+    Burkina Faso. Gur language.
 - iso_639_3:
   - dgi
   lang_id: 188
@@ -588,7 +600,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - knz
   - sbd
   - stj
   - sym
@@ -597,6 +608,11 @@
   question:
   - Q116
   wals_code: null
+  note: >-
+    There are several Burkina Faso Samo languages. Matya Samo (stj),
+    Maya Samo (sym) and Southern Samo (sbd) are widely spoken.
+    There is also Kalamse (knz) which has the Autonym Samo; but it
+    is distinct and unrelated to these.
 - iso_639_3:
   - cme
   lang_id: 190
@@ -627,7 +643,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - knz
   - sbd
   - stj
   - sym
@@ -663,10 +678,8 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - abr
-  - fat
   - twi
-  - wss
+  - fat
   lang_id: 260
   lang_name: Akan
   note: Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in
@@ -898,14 +911,18 @@
   wals_code: null
 - iso_639_3:
   - mer
-  - saq
   lang_id: 306
   lang_name: Meru/Samburu
   question:
   - Q103
   wals_code: null
+  note: >-
+    Meru is a dialect of Kimiiru and diff from Meru of Tanzania (rnk)
+
+    Meru (mer) and Samburu (saq) are distinct languages. Use only the
+    first mentioned language.
+
 - iso_639_3:
-  - ebu
   - mer
   lang_id: 306
   lang_name: Meru/Embu
@@ -913,23 +930,33 @@
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Meru is a dialect of Kimiiru and diff from Meru of Tanzania (rnk).
+
+    Meru (mer) and Embu (emu) are distinct languages. Use only the
+    first mentioned language.
+
 - iso_639_3:
   - mas
-  - saq
   lang_id: 307
   lang_name: Maasai / Samburu
   question:
   - Q103
   wals_code: null
+  note: >-
+    Maasai  (mer) and Samburu (saq) are distinct languages. Use only
+    the first mentioned language.
 - iso_639_3:
   - mas
-  - saq
   lang_id: 307
   lang_name: Maasai/Samburu
   question:
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Maasai  (mer) and Samburu (saq) are distinct languages. Use only
+    the first mentioned language.
 - iso_639_3:
   - dig
   - dug
@@ -1295,15 +1322,16 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - boo
   - boz
   - bze
-  - bzx
   lang_id: 504
   lang_name: Bozo
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - boz
+  note: >-
+    In Mali, use Mande languages for Bozo.
 - iso_639_3:
   - rkm
   lang_id: 505
@@ -1312,25 +1340,9 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - aqd
-  - dbg
-  - dbt
-  - dbu
-  - dbw
   - dds
-  - dgb
   - djm
-  - dmb
-  - dti
-  - dtk
-  - dtm
-  - dto
   - dts
-  - dtt
-  - dtu
-  - dym
-  - nzz
-  - tde
   lang_id: 506
   lang_name: Dogon
   question:
@@ -1338,9 +1350,13 @@
   - Q2
   wals_code:
   - dds
+  - dds
   - dts
   - jms
   - tms
+  note: >-
+    There are many Dogon languages. These seem to be some of the
+    most common.
 - iso_639_3:
   - xkg
   lang_id: 509
@@ -1573,6 +1589,7 @@
   wals_code: null
 - iso_639_3:
   - ndo
+  - kua
   lang_id: 583
   lang_name: Oshiwambo (Oshindonga/Oshikwanyama)
   question:
@@ -1627,27 +1644,22 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - hgm
-  - knw
   - ktz
-  - naq
-  - nhr
-  - nmn
-  - vaj
-  - xuu
   lang_id: 591
   lang_name: San
-  note: 'San speak Khosian: Naro, !Xoo, Kung-Ekoka, Kx''aull''ein and Kxoe'
+  note: >-
+
+    This can refer to various Khoe-san languages. Khoekoe (naq) is included
+    as Nama in Afrobarometer.
+
+    Ju|'hoansi is a recognized language, so it's used.
+
   question:
   - Q2
   wals_code:
   - juh
-  - kho
-  - kxo
-  - nro
-  - xun
+
 - iso_639_3:
-  - agb
   - ibo
   lang_id: 621
   lang_name: Igbo
@@ -2090,7 +2102,8 @@
   lang_name: Shangaan/Tsonga
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - tsn
 - iso_639_3:
   - ssw
   lang_id: 707
@@ -2665,7 +2678,8 @@
   question:
   - Q103
   - Q116
-  wals_code: null
+  wals_code:
+  - toz
 - iso_639_3:
   - kqn
   lang_id: 823
@@ -3880,7 +3894,8 @@
   note: Tsonga (Shangaan or Changana is a dialect)
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - tsn
 - iso_639_3:
   - aoa
   lang_id: 1660
@@ -3999,10 +4014,16 @@
   - kaj
   lang_id: 2620
   lang_name: Bajju
-  note: https://en.wikipedia.org/wiki/Bajju_people speak Jiu
   question:
   - Q116
-  wals_code: null
+  wals_code:
+  - gwo
+  note: >-
+
+    https://en.wikipedia.org/wiki/Bajju_people speak Jiu
+
+    WALS matches Jarawa (jar) and Gworok (gwo). Gworok corresponds
+    to ISO Tyap, which seems more similar.
 - iso_639_3:
   - anc
   lang_id: 2621

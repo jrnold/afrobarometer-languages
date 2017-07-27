@@ -29,7 +29,7 @@ r4,Q3OTHER,15,Balante,bjt,I,Balanta-Ganja,SN
 r4,Q3OTHER,14,BALAWA,,,,NG
 r4,Q3OTHER,5,BANDA,nfr,I,Nafaanra,GH
 r4,Q3OTHER,5,BASARE,bud,I,Ntcham,GH
-r4,Q3OTHER,14,BASSA,,,,NG
+r4,Q3OTHER,14,BASSA,bzw,I,Basa (Nigeria),NG
 r4,Q3OTHER,5,BASSELI,bud,I,Ntcham,GH
 r4,Q3OTHER,14,BAZANFARA,,,,NG
 r4,Q3OTHER,14,BEKWAIRA,,,,NG
@@ -250,7 +250,6 @@ r4,Q3OTHER,12,MATHEWE,twx,I,Tewe,MZ
 r4,Q3OTHER,12,MATSUA,tsc,I,Tswa,MZ
 r4,Q3OTHER,20,MAUNGWE,,,,ZW
 r4,Q3OTHER,14,MBEMBE,mfn,I,Cross River Mbembe,NG
-r4,Q3OTHER,14,MBEMBE,nza,I,Tigon Mbembe,NG
 r4,Q3OTHER,19,MBUNDA,mck,I,Mbunda,ZM
 r4,Q3OTHER,14,MICHICA,,,,NG
 r4,Q3OTHER,14,MINYAM,,,,NG
@@ -307,7 +306,7 @@ r4,Q3OTHER,6,Saboti,spy,I,Sabaot,KE
 r4,Q3OTHER,6,Saboti,kln,M,Kalenjin,KE
 r4,Q3OTHER,19,SALA,shq,I,Sala,ZM
 r4,Q3OTHER,11,Samogo,dux,I,Duungooma,ML
-r4,Q3OTHER,13,San,nmn,I,!Xóõ,NA
+r4,Q3OTHER,13,San,ktz,I,Ju/'hoan,NA
 r4,Q3OTHER,8,Sarpo,krn,I,Sapo,LR
 r4,Q3OTHER,2,Sebanderu,,,,BW
 r4,Q3OTHER,5,SEFWI,sfw,I,Sehwi,GH
@@ -358,7 +357,7 @@ r4,Q3OTHER,5,WAALA,wlx,I,Wali (Ghana),GH
 r4,Q3OTHER,14,WAJA,wja,I,Waja,NG
 r4,Q3OTHER,5,WASSA,wss,I,Wasa,GH
 r4,Q3OTHER,10,Wiza,,,,MW
-r4,Q3OTHER,12,XITEU,txw,,,MZ
+r4,Q3OTHER,12,XITEU,twx,I,Tewe,MZ
 r4,Q3OTHER,12,XITSUA,tsc,I,Tswa,MZ
 r4,Q3OTHER,14,YAKUR,yaz,I,Lokaa,NG
 r4,Q3OTHER,20,YAO,,,,ZW
@@ -429,11 +428,11 @@ r5,Q116OTHER,27,AHIZI,ahp,I,Aproumu Aizi,CI
 r5,Q116OTHER,24,ANYANGA,ayg,I,Ginyanga,TG
 r5,Q116OTHER,14,BABUR,bwr,I,Bura-Pabir,NG
 r5,Q116OTHER,14,BACHAMA,bcy,I,Bacama,NG
-r5,Q116OTHER,14,BAJJU,,,,NG
+r5,Q116OTHER,14,BAJJU,kaj,I,Jju,NG
 r5,Q116OTHER,26,BANDJOUN,bbj,I,Ghomálá',CM
 r5,Q116OTHER,26,BANEN,tvu,I,Tunen,CM
-r5,Q116OTHER,14,BASSA,,,,NG
-r5,Q116OTHER,26,BASSA,ngn,I,Ngwo,CM
+r5,Q116OTHER,14,BASSA,bzw,I,Basa (Nigeria),NG
+r5,Q116OTHER,26,BASSA,bas,I,Basa (Cameroon),CM
 r5,Q116OTHER,26,BAYANGAM,,,,CM
 r5,Q116OTHER,1,BOO,,,,BJ
 r5,Q116OTHER,14,BURAH,bwr,I,Bura-Pabir,NG
@@ -460,7 +459,6 @@ r5,Q116OTHER,19,NYIKA,nkv,I,Nyika (Malawi and Zambia),ZM
 r5,Q116OTHER,14,RON,cla,I,Ron,NG
 r5,Q116OTHER,18,RUFUMBIIRA,kin,I,Kinyarwanda,UG
 r5,Q116OTHER,14,SAYAWA,say,I,Saya,NG
-r5,Q116OTHER,33,TAMAZIGHT,sjs,,,MA
 r5,Q116OTHER,33,TAMAZIGHT,zgh,I,Standard Moroccan Tamazight,MA
 r5,Q116OTHER,27,TOURA,neb,I,Toura (Côte d'Ivoire),CI
 r5,Q116OTHER,5,WAALE,wlx,I,Wali (Ghana),GH
@@ -473,10 +471,12 @@ r5,Q2OTHER,27,ABOURE,abu,I,Abure,CI
 r5,Q2OTHER,24,ADELE,ade,I,Adele,TG
 r5,Q2OTHER,24,ADJA,ajg,I,Aja (Benin),TG
 r5,Q2OTHER,14,AFIZERE,izr,I,Izere,NG
-r5,Q2OTHER,14,AGBOR,ika,,,NG
+r5,Q2OTHER,14,AGBOR,ikk,I,Ika,NG
 r5,Q2OTHER,26,AGHEM,agq,I,Aghem,CM
 r5,Q2OTHER,27,AHIZI,ahp,I,Aproumu Aizi,CI
 r5,Q2OTHER,14,AHOADA,,,,NG
+r5,Q2OTHER,5,AKAN,fat,I,Fanti,GH
+r5,Q2OTHER,5,AKAN,twi,I,Twi,GH
 r5,Q2OTHER,5,AKAN,aka,M,Akan,GH
 r5,Q2OTHER,24,AKEBOU,keu,I,Akebu,TG
 r5,Q2OTHER,24,AKLOBO,,,,TG
@@ -518,7 +518,7 @@ r5,Q2OTHER,26,BAFOUSSAM,,,,CM
 r5,Q2OTHER,24,BAGO,bqg,I,Bago-Kusuntu,TG
 r5,Q2OTHER,14,BAGWOM,,,,NG
 r5,Q2OTHER,26,BAHAM,bbj,I,Ghomálá',CM
-r5,Q2OTHER,14,BAJJU,,,,NG
+r5,Q2OTHER,14,BAJJU,kaj,I,Jju,NG
 r5,Q2OTHER,14,BAKAMUKA,,,,NG
 r5,Q2OTHER,26,BAKASSI,,,,CM
 r5,Q2OTHER,18,BAKENYI,lke,I,Kenyi,UG
@@ -568,6 +568,7 @@ r5,Q2OTHER,5,BIRIFORI,biv,I,Southern Birifor,GH
 r5,Q2OTHER,14,BIROM,bom,I,Berom,NG
 r5,Q2OTHER,12,BITONGA,toh,I,Gitonga,MZ
 r5,Q2OTHER,26,BOBIS,,,,CM
+r5,Q2OTHER,3,BOBO,bbo,I,Northern Bobo Madaré,BF
 r5,Q2OTHER,3,BOBO,bwq,I,Southern Bobo Madaré,BF
 r5,Q2OTHER,20,BOCHA,mxc,I,Manyika,ZW
 r5,Q2OTHER,14,BOGOBARA,,,,NG
@@ -611,7 +612,7 @@ r5,Q2OTHER,16,CHINESE,zho,M,Chinese,ZA
 r5,Q2OTHER,12,CHINGONI,ngo,I,Ngoni,MZ
 r5,Q2OTHER,12,CHINGOZI,,,,MZ
 r5,Q2OTHER,12,CHINHUNGUE,mxc,I,Manyika,MZ
-r5,Q2OTHER,10,CHINYAKYUSA,nyf,I,Giryama,MW
+r5,Q2OTHER,10,CHINYAKYUSA,,,,MW
 r5,Q2OTHER,10,CHINYIKA,nkv,I,Nyika (Malawi and Zambia),MW
 r5,Q2OTHER,12,CHITAWALA,twl,I,Tawara,MZ
 r5,Q2OTHER,20,CHITAWALA,,,,ZW
@@ -1053,7 +1054,6 @@ r5,Q2OTHER,12,TACUANE,tke,I,Takwane,MZ
 r5,Q2OTHER,27,TAGBANA,tgw,I,Tagwana Senoufo,CI
 r5,Q2OTHER,5,TALENSI,gur,I,Farefare,GH
 r5,Q2OTHER,31,TAMAZIGHT,kab,I,Kabyle,DZ
-r5,Q2OTHER,33,TAMAZIGHT,sjs,,,MA
 r5,Q2OTHER,33,TAMAZIGHT,zgh,I,Standard Moroccan Tamazight,MA
 r5,Q2OTHER,14,TANGALE,tan,I,Tangale,NG
 r5,Q2OTHER,18,TANZANIAN,swh,I,Swahili (individual language),UG
@@ -1209,7 +1209,6 @@ r6,Q103OTHER,12,SOUSSOU,sus,I,Susu,GN
 r6,Q103OTHER,28,swazi,ssw,I,Swati,ZA
 r6,Q103OTHER,28,Swazi,ssw,I,Swati,ZA
 r6,Q103OTHER,28,SWAZI,ssw,I,Swati,ZA
-r6,Q103OTHER,20,Tamazight,sjs,,,MA
 r6,Q103OTHER,20,Tamazight,zgh,I,Standard Moroccan Tamazight,MA
 r6,Q103OTHER,21,tewe,twx,I,Tewe,MZ
 r6,Q103OTHER,12,TOMA,tod,I,Toma,GN
@@ -1229,10 +1228,10 @@ r6,Q103OTHER,28,XTSONGA,tso,I,Tsonga,ZA
 r6,Q103OTHER,30,Zulu,zul,I,Zulu,SZ
 r6,Q116OTHER,6,BAFOUSSAM,,,,CM
 r6,Q116OTHER,12,BAGA,bcg,I,Baga Pokur,GN
-r6,Q116OTHER,24,BAJJU,,,,NG
+r6,Q116OTHER,24,BAJJU,kaj,I,Jju,NG
 r6,Q116OTHER,6,BAMILEKE,,,,CM
 r6,Q116OTHER,24,BANDAWA,bcv,I,Shoo-Minda-Nye,NG
-r6,Q116OTHER,6,BASSA,ngn,I,Ngwo,CM
+r6,Q116OTHER,6,BASSA,bas,I,Basa (Cameroon),CM
 r6,Q116OTHER,6,BENE,bum,I,Bulu (Cameroon),CM
 r6,Q116OTHER,24,BIROM,bom,I,Berom,NG
 r6,Q116OTHER,24,BUJJA,,,,NG
@@ -1340,8 +1339,8 @@ r6,Q2OTHER,12,BAGA,bcg,I,Baga Pokur,GN
 r6,Q2OTHER,34,BAGUNGU,rub,I,Gungu,UG
 r6,Q2OTHER,6,Baham,bbj,I,Ghomálá',CM
 r6,Q2OTHER,6,BAHAM/BAFOUSSAM,bbj,I,Ghomálá',CM
-r6,Q2OTHER,24,BAJJU,,,,NG
-r6,Q2OTHER,24,BAJU,,,,NG
+r6,Q2OTHER,24,BAJJU,kaj,I,Jju,NG
+r6,Q2OTHER,24,BAJU,kaj,I,Jju,NG
 r6,Q2OTHER,13,Bajuni,swh,I,Swahili (individual language),KE
 r6,Q2OTHER,13,Bajuni,swa,M,Swahili (macrolanguage),KE
 r6,Q2OTHER,6,BAKOSI,bss,I,Akoose,CM
@@ -1415,7 +1414,7 @@ r6,Q2OTHER,21,CHEWE,nya,I,Nyanja,MZ
 r6,Q2OTHER,35,chikunda,kdn,I,Kunda,ZM
 r6,Q2OTHER,17,Chimambwe,,,,MW
 r6,Q2OTHER,17,Chindali,ndh,I,Ndali,MW
-r6,Q2OTHER,17,Chinyakyusa,nyf,I,Giryama,MW
+r6,Q2OTHER,17,Chinyakyusa,,,,MW
 r6,Q2OTHER,17,Chinyanja,nya,I,Nyanja,MW
 r6,Q2OTHER,17,Chinyika,nkv,I,Nyika (Malawi and Zambia),MW
 r6,Q2OTHER,17,Chinyungwe,,,,MW
@@ -1897,7 +1896,7 @@ r6,Q2OTHER,13,Sabaot,spy,I,Sabaot,KE
 r6,Q2OTHER,13,Sabaot,kln,M,Kalenjin,KE
 r6,Q2OTHER,35,sala,shq,I,Sala,ZM
 r6,Q2OTHER,11,Sampa,,,,GH
-r6,Q2OTHER,22,San,nmn,I,!Xóõ,NA
+r6,Q2OTHER,22,San,ktz,I,Ju/'hoan,NA
 r6,Q2OTHER,6,SARA,sba,I,Ngambay,CM
 r6,Q2OTHER,6,SAWA,dua,I,Duala,CM
 r6,Q2OTHER,24,SAYAWA,say,I,Saya,NG

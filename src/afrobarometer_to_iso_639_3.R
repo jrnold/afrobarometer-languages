@@ -149,10 +149,11 @@ iso_country_non_matches <-
                                         collapse = " "))
 stopifnot(nrow(iso_country_non_matches) == 0)
 
+
 # This generates YAML to add to misc_data exceptions
 # iso_country_non_matches %>%
 #   select(round, question, lang_id, lang_name, iso_639_3) %>%
-#   as.yaml(column.major = FALSE) %>% cat()
+#   yaml::as.yaml(column.major = FALSE) %>% cat()
 
 #' # Write Output
 afrobarometer_to_iso %>%

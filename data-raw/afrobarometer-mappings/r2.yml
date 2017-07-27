@@ -309,6 +309,8 @@
   - q83
   - q97
   wals_code: null
+  note: >-
+    Mozambique
 - iso_639_3:
   - kde
   lang_id: 88
@@ -510,10 +512,8 @@
   - q97
   wals_code: null
 - iso_639_3:
-  - abr
   - fat
   - twi
-  - wss
   lang_id: 120
   lang_name: Akan
   question:
@@ -650,6 +650,8 @@
   question:
   - q83
   wals_code: null
+  note: >-
+    Malawi
 - iso_639_3:
   - arb
   lang_id: 160
@@ -782,7 +784,6 @@
   - q97
   wals_code: null
 - iso_639_3:
-  - bbo
   - bmq
   lang_id: 174
   lang_name: Bobo
@@ -790,46 +791,37 @@
   - q110
   - q83
   - q97
-  wals_code: null
+  wals_code:
+  - kfe
+  note: >-
+    In Mali. Gur language.
 - iso_639_3:
-  - boo
   - boz
   - bze
-  - bzx
   lang_id: 175
   lang_name: Bozo
   question:
   - q110
   - q83
   - q97
-  wals_code: null
+  wals_code:
+  - boz
 - iso_639_3:
-  - aqd
-  - dbg
-  - dbt
-  - dbu
-  - dbw
   - dds
-  - dgb
   - djm
-  - dmb
-  - dti
-  - dtk
-  - dtm
-  - dto
   - dts
-  - dtt
-  - dtu
-  - dym
-  - nzz
-  - tde
   lang_id: 176
   lang_name: Dogon
   question:
   - q110
   - q83
   - q97
-  wals_code: null
+  wals_code:
+  - dds
+  - jms
+  - tms
+  - dts
+
 - iso_639_3:
   - taq
   - ttq
@@ -1085,7 +1077,6 @@
   - q97
   wals_code: null
 - iso_639_3:
-  - agb
   - ibo
   lang_id: 262
   lang_name: Igbo
@@ -1159,7 +1150,6 @@
   - q97
   wals_code: null
 - iso_639_3:
-  - idu
   - igl
   lang_id: 270
   lang_name: Igala/Idoma
@@ -1168,6 +1158,13 @@
   - q83
   - q97
   wals_code: null
+  note: >-
+    - Igala (igl) educational. 800,000. Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Defoid, Yoruboid, Igala
+    - Idoma (idu) developing. 600,000. De facto lang of provincial identity in
+        Kogi, Benue, and Enugu. Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Idomoid, Akweya, Etulo-Idoma, Idoma.
+
+    These are unrelated languages. Neither appears elsewhere in the coding.
+    Choose Igala since it comes first and has more speakers.
 - iso_639_3:
   - urh
   lang_id: 271
@@ -1289,7 +1286,10 @@
   lang_name: Tonga
   question:
   - q83
-  wals_code: null
+  wals_code:
+  - toz
+  note: >-
+    Zimbabwe
 - iso_639_3:
   - nse
   lang_id: 284
@@ -1373,7 +1373,10 @@
   - q110
   - q83
   - q97
-  wals_code: null
+  wals_code:
+  - toz
+  note: >-
+    Zambia
 - iso_639_3:
   - tum
   lang_id: 308

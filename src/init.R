@@ -100,6 +100,7 @@ env_bind_fns(IO,
     filenames <- file.path(dirname, str_c(rounds, ".yml"))
     map2(filenames, rounds,
          function(x, r) {
+           print(x)
            out <- read_yml(x)
            map(out, ~ c(.x, list(round = r)))
          }) %>%

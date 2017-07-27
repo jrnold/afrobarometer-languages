@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# exit if any command fails
+set -e
+
 run_r() {
   echo "Running $1"
   Rscript $1

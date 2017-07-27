@@ -332,17 +332,18 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - bbo
-  - bmq
-  - box
   - bwq
+  - bbo
   lang_id: 187
   lang_name: Bobo
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - bbf
+  note: >-
+    Burkina Faso, Mande Language.
 - iso_639_3:
   - bib
   lang_id: 188
@@ -380,7 +381,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - knz
   - sbd
   - stj
   - sym
@@ -450,15 +450,17 @@
   wals_code: null
 - iso_639_3:
   - box
-  - bwj
-  - bwy
+  - bmq
   lang_id: 199
   lang_name: Bwamu
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - kfe
+  note: >-
+    Burkina Faso. Gur language.
 - iso_639_3:
   - kza
   - xrb
@@ -507,10 +509,8 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - abr
   - fat
   - twi
-  - wss
   lang_id: 260
   lang_name: Akan
   question:
@@ -950,6 +950,9 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Used in Liberia. Liberian Bassa (bsq) different from Basa (bzw) of Nigeria
+    and Bassa (bas) of Cameroon.
 - iso_639_3:
   - blh
   lang_id: 381
@@ -1141,16 +1144,14 @@
   wals_code: null
 - iso_639_3:
   - swb
-  - wlc
-  - wni
-  - zdj
   lang_id: 423
   lang_name: Comorien
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - com
 - iso_639_3:
   - mul
   lang_id: 424
@@ -1270,6 +1271,8 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Malawi
 - iso_639_3:
   - kzn
   lang_id: 472
@@ -1354,7 +1357,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - bbo
   - bmq
   lang_id: 503
   lang_name: Bobo
@@ -1362,46 +1364,38 @@
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - kfe
+  note: >-
+    Mali. Gur languge.
 - iso_639_3:
-  - boo
   - boz
   - bze
-  - bzx
   lang_id: 504
   lang_name: Bozo
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - boz
+  note: >-
+    Mali. Mande language.
 - iso_639_3:
-  - aqd
-  - dbg
-  - dbt
-  - dbu
-  - dbw
   - dds
-  - dgb
   - djm
-  - dmb
-  - dti
-  - dtk
-  - dtm
-  - dto
   - dts
-  - dtt
-  - dtu
-  - dym
-  - nzz
-  - tde
   lang_id: 506
   lang_name: Dogon
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - dds
+  - jms
+  - tms
+  - dts
 - iso_639_3:
   - bam
   lang_id: 507
@@ -1601,6 +1595,8 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Mozambique
 - iso_639_3:
   - kde
   lang_id: 548
@@ -1850,21 +1846,15 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - hgm
-  - knw
   - ktz
-  - naq
-  - nhr
-  - nmn
-  - vaj
-  - xuu
   lang_id: 591
   lang_name: San
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - juh
 - iso_639_3:
   - fwe
   lang_id: 592
@@ -1903,7 +1893,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - agb
   - ibo
   lang_id: 621
   lang_name: Igbo
@@ -2006,11 +1995,7 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - ann
   - ijc
-  - ijn
-  - ijs
-  - ogo
   lang_id: 632
   lang_name: Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe
   question:
@@ -2018,6 +2003,19 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Languages
+
+    - ann Obolo (Andoni). Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Cross River, Delta Cross, Lower Cross, Obolo
+    - ijc Izon - Ijaw. Niger-Congo, Atlantic-Congo, Ijoid, Ijo, West Ijo
+    - ijn Kalabari (Ijo). Niger-Congo, Atlantic-Congo, Ijoid, Ijo, Eastern, Northeastern, Eastern
+    - ijs Southeast Ijo, dialect Nembe. Niger-Congo, Atlantic-Congo, Ijoid, Ijo, East.
+    - ogo Ogoni (ogo)  Ijoid/Ijo/West Ijo
+
+    Obolo is not an Ijoid language and unrelated to the others. Ijzon (Ijaw) is
+    a language of identity in Baylesa, Delta, Ondo and Edo states.
+    https://www.ethnologue.com/country/NG/status
+
 - iso_639_3:
   - bin
   lang_id: 633
@@ -3049,7 +3047,10 @@
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - toz
+  note: >-
+    Zambia
 - iso_639_3:
   - loz
   lang_id: 823
@@ -3309,16 +3310,17 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - ndc
   - toi
-  - tso
   lang_id: 864
   lang_name: Tonga
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+    - toz
+  note: >-
+    Zimbabwe
 - iso_639_3:
   - nmq
   lang_id: 865

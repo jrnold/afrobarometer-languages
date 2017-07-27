@@ -102,57 +102,39 @@ assert_that(nrow(filter(afrobarometer_other_to_iso,
                         !is.na(iso_scope),
                         !iso_scope %in% misc_data$iso$scopes$values)) == 0)
 
+#' All ISO 639-3 codes must be valid
+iso_lang_nonmatches <-
+  afrobarometer_other_to_iso %>%
+  filter(!is.na(iso_639_3)) %>%
+  anti_join(iso_langs, by = c("iso_639_3" = "Id"))
+stopifnot(nrow(iso_lang_nonmatches) == 0)
+
 #' known_iso_country_nonmatches <-
 #'   misc_data$iso$country_exceptions$values %>%
 #'   map_df(as_tibble)
-#'
-#' afrobarometer_lang_nonmatches <-
-#'   anti_join(afrobarometer_langs, afrobarometer_to_iso,
-#'             by = c("question", "lang_id"))
-#' stopifnot(nrow(afrobarometer_lang_nonmatches) == 0)
-#'
-#' #' There should be no missing ISO codes.
-#' #' Use the special codes: `und`, `mis`, or `mul` instead.
-#' stopifnot(all(!is.na(afrobarometer_to_iso$iso_639_3)))
-#'
-#' #' All ISO 639-3 codes must be valid
-#' iso_lang_nonmatches <-
-#'   afrobarometer_to_iso %>%
-#'   anti_join(iso_langs, by = c("iso_639_3" = "Id"))
-#' stopifnot(nrow(iso_lang_nonmatches) == 0)
-#'
-#' #' Check that the Afrobarometer countries in which
-#' #' the language is spoken is consistent with countries
-#' #' in which the Ethnologue records the language as being spoken.
-#' ethnologue_langidx <- IO$ethnologue %>%
-#'     select(LangID, CountryID) %>%
-#'     group_by(LangID) %>%
-#'     summarise(countries = list(sort(unique(CountryID))))
-#'
-#' known_iso_country_nonmatches <-
-#'   misc_data$iso$country_exceptions$values %>%
-#'   map_df(as_tibble)
-#'
-#' iso_country_non_matches <-
-#'   afrobarometer_to_iso %>%
-#'   # ignore macrolangs
-#'   filter(iso_scope %in% c("I")) %>%
-#'   # remove any known non-matche
-#'   anti_join(known_iso_country_nonmatches,
-#'             by = c("round", "question", "lang_id", "iso_639_3")) %>%
-#'   inner_join(select(mutate(filter(afrobarometer_langs,
-#'                                   !is.na(countries)),
-#'                           countries = str_split(countries, " +")),
-#'                    round, question, lang_id, countries),
-#'             by = c("round", "question", "lang_id")) %>%
-#'   inner_join(rename(ethnologue_langidx, ethnologue_countries = countries),
-#'              by = c(iso_639_3 = "LangID")) %>%
-#'   mutate(country_overlap =
-#'            map2_lgl(countries, ethnologue_countries, ~ any(.x %in% .y))) %>%
-#'   filter(!country_overlap) %>%
-#'   mutate(countries = map_chr(countries, paste, collapse = " "),
-#'          ethnologue_countries = map_chr(ethnologue_countries, paste,
-#'                                         collapse = " "))
+
+
+#' Check that the Afrobarometer countries in which
+#' the language is spoken is consistent with countries
+#' in which the Ethnologue records the language as being spoken.
+ethnologue_langidx <- IO$ethnologue %>%
+    select(iso_639_3 = LangID, iso_alpha2 = CountryID) %>%
+    distinct()
+
+known_country_nonmatches <-
+  misc_data$iso$other_country_nonmatches$values %>%
+  map_df(as_tibble)
+
+iso_country_non_matches <-
+  afrobarometer_other_to_iso %>%
+  # ignore macrolangs
+  filter(iso_scope %in% c("I")) %>%
+  # remove any known non-matche
+  anti_join(known_country_nonmatches,
+           by = c("round", "question", "country", "value")) %>%
+  # find any non-matches
+  anti_join(ethnologue_langidx, by = c("iso_639_3", "iso_alpha2"))
+
 #' stopifnot(nrow(iso_country_non_matches) == 0)
 #'
 #' # This generates YAML to add to misc_data exceptions

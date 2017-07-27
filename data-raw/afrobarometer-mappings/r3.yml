@@ -391,10 +391,8 @@
   wals_code:
   - por
 - iso_639_3:
-  - abr
   - fat
   - twi
-  - wss
   lang_id: 180
   lang_name: AKAN
   question:
@@ -833,14 +831,12 @@
   wals_code: null
 - iso_639_3:
   - swb
-  - wlc
-  - wni
-  - zdj
   lang_id: 243
   lang_name: comorien
   question:
   - q3
-  wals_code: null
+  wals_code:
+  - com
 - iso_639_3:
   - mul
   lang_id: 244
@@ -959,6 +955,8 @@
   - q114
   - q3
   wals_code: null
+  note: >-
+    Malawi Tonga
 - iso_639_3:
   - bam
   lang_id: 280
@@ -1062,34 +1060,21 @@
   - q114
   wals_code: null
 - iso_639_3:
-  - aqd
-  - dbg
-  - dbt
-  - dbu
-  - dbw
   - dds
-  - dgb
   - djm
-  - dmb
-  - dti
-  - dtk
-  - dtm
-  - dto
   - dts
-  - dtt
-  - dtu
-  - dym
-  - nzz
-  - tde
   lang_id: 288
   lang_name: Dogon
   question:
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_code:
+  - dds
+  - jms
+  - tms
+  - dts
 - iso_639_3:
-  - bbo
   - bmq
   lang_id: 289
   lang_name: Bobo
@@ -1097,18 +1082,22 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_code:
+  - kfe
+  note: >-
+    In Mali. Gur Language.
 - iso_639_3:
-  - boo
   - boz
   - bze
-  - bzx
   lang_id: 290
   lang_name: Bozo
   question:
   - q114
   - q3
-  wals_code: null
+  wals_code:
+  - boz
+  note: >-
+    In Mali, use Bozo for Mande and Bobo for Gur.
 - iso_639_3:
   - mey
   lang_id: 291
@@ -1254,6 +1243,8 @@
   - q114
   - q3
   wals_code: null
+  note: >-
+    Mozambique Tonga
 - iso_639_3:
   - kde
   lang_id: 307
@@ -1502,7 +1493,6 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - agb
   - ibo
   lang_id: 341
   lang_name: Igbo
@@ -1636,8 +1626,6 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - bsr
-  - buj
   - bzw
   lang_id: 357
   lang_name: Bassa
@@ -1645,6 +1633,16 @@
   - q114
   - q3
   wals_code: null
+  note: >-
+    This is the Nigerian Bassa.
+
+    - Bassa-Kontagora (bsr) is nearly extinct
+    - Basa-Gurmana (buj) has small number of speakers (< 2000)
+    - Basa (bzw) has 100,000+ speakers
+    - Basa-Gumna (bsl) has no known L1 speakers
+    - Cameroon language Basaa (bas) has 300+ speakers. These are
+      unrelated
+
 - iso_639_3:
   - ikw
   lang_id: 358
@@ -2083,7 +2081,10 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_code:
+  - toz
+  note: >-
+    Zambia.
 - iso_639_3:
   - loz
   lang_id: 423
@@ -2256,7 +2257,10 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_code:
+  - toz
+  note: >-
+    Zimbabwe
 - iso_639_3:
   - nuj
   lang_id: 500
@@ -2531,13 +2535,20 @@
   wals_code: null
 - iso_639_3:
   - mfn
-  - nza
   lang_id: 568
   lang_name: Mbembe
   question:
   - q114
   - q3
   wals_code: null
+  note: >-
+    Languages
+
+    - Cross River Mbembe (mfn) Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Jukunoid, Central, Jukun-Mbembe-Wurbo, Mbembe
+    - Tigon Mbembe (nza) Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Cross River, Delta Cross, Upper Cross, Central, East-West, Mbembe-Legbo, Mbembe
+
+    These are different. Tigon Mbembe is assoc with Cameroon.
+
 - iso_639_3:
   - say
   lang_id: 569

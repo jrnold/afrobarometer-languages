@@ -88,12 +88,26 @@ wals_non_african <-
   inner_join(afrobarometer_other_to_wals,
              select(wals, wals_code, macroarea),
              by = "wals_code") %>%
+  filter(!is.na(macroarea)) %>%
   filter(!wals_code %in% misc_data$wals$other_non_african$values) %>%
   filter(!(macroarea %in% "Africa"))
 if (nrow(wals_non_african) > 0) {
   print(wals_non_african, n = 100, width = 10000)
   stop("There exist unaccounted for non-African languages in the data:\n")
 }
+
+matches_unrelated_langs <-
+  afrobarometer_other_to_wals %>%
+  # remove WALS non-matches
+  filter(!is.na(wals_code)) %>%
+  # remove known errors
+  # anti_join(map_df(misc_data$wals$matches_unrelated_langs$values,
+  #                  as_tibble),
+  #           by = c("round", "question", "lang_id")) %>%
+  left_join(select(wals, wals_code, genus), by = "wals_code") %>%
+  group_by(round, question, country, value) %>%
+  summarise(n_genus = length(unique(genus))) %>%
+  filter(n_genus > 1)
 
 with(afrobarometer_other_to_wals, {
 
