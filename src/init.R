@@ -184,34 +184,24 @@ env_bind_fns(IO,
       select(one_of(vars))
   },
 
-  ethnologue_tree = function() {
-    get_edges <- function(x, name) {
-      subgroup_edges <- if (length(x[["subgroups"]])) {
-        map(names(x[["subgroups"]]), ~ tibble(from = name, to = .x))
-      } else {
-        NULL
-      }
-      lang_edges <- if (length(x[["languages"]])) {
-        map(names(x[["languages"]]), ~ tibble(from = name, to = .x))
-      } else {
-        NULL
-      }
-      if (length(x[["subgroups"]])) {
-        lower_edges <- map2_df(x[["subgroups"]],
-                               names(x[["subgroups"]]),
-                               get_edges)
-      } else {
-        lower_edges <- NULL
-      }
-      bind_rows(subgroup_edges, lang_edges, lower_edges)
-    }
-    path <- project_path("data-raw", "ethnologue-tree.json")
-    read_json(path) %>%
-      {map2(., names(.), get_edges)}
+  ethnologue_language_codes = function() {
+    path <- project_path("external", "ethnologue", "Language_Code_Data_20170221",
+                         "LanguageCodes.tab")
+    col_types <- cols(
+      LangID = col_character(),
+      CountryID = col_character(),
+      LangStatus = col_character(),
+      Name = col_character()
+    )
+    read_tsv(path, na = "", col_types = col_types) %>%
+      # patch Aka macrolang
+      filter(LangID != "aka") %>%
+      bind_rows(
+        tibble(LangID = c("twi", "fat"),
+               CountryID = "GH",
+               LangStatus = "L",
+               Name = c("Twi", "Fantse")))
   },
-  # map2_df(names(foo), foo,
-  # ~ tibble(family = str_replace(.x, "/subgroups/", ""), from = .y$from, to = .y$to)) %>%
-  # write_csv("ethnologue_tree.csv", na = "")
 
   afrobarometer_to_wals_countries = function() {
     path <- project_path("data-raw", "afrobarometer_to_wals_countries.csv")
