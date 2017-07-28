@@ -30,7 +30,7 @@ afrobarometer_to_iso <- IO$afrobarometer_to_iso
 wals <- IO$wals
 
 iso_to_wals <- IO$iso_to_wals %>%
-  select(iso_639_3 = iso_code, wals_code, distance)
+  select(iso_639_3 = iso_code, wals_code, distance, same_country)
 
 #' For any Afrobarometer languages without manual matches, the
 #' WALS code is found by
@@ -47,9 +47,12 @@ afrobarometer_to_wals_auto <-
   anti_join(afrobarometer_to_wals_manual,
             by = c("round", "question", "lang_id")) %>%
   inner_join(iso_to_wals, by = "iso_639_3") %>%
+  select(-iso_639_3) %>%
   # Keep WALS codes with best matches
   group_by(round, question, lang_id) %>%
   filter(distance == min(distance)) %>%
+  group_by(round, question, lang_id) %>%
+  filter(same_country == max(same_country)) %>%
   ungroup() %>%
   distinct() %>%
   mutate(auto = 1L)
@@ -74,7 +77,7 @@ afrobarometer_to_wals %<>%
                    countries),
             by = c("round", "question", "lang_id", "wals_code")) %>%
   select(round, question, countries, lang_id, lang_name, wals_code, wals_name,
-         auto, distance) %>%
+         auto, distance, same_country) %>%
   arrange(round, question, lang_id)
 
 

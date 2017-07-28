@@ -13,7 +13,7 @@ OUTPUT <- project_path("data", "afrobarometer_other_to_wals.csv")
 misc_data <- IO$misc_data
 
 iso_to_wals <- IO$iso_to_wals %>%
-  select(iso_639_3 = iso_code, wals_code, distance)
+  select(iso_639_3 = iso_code, wals_code, distance, same_country)
 
 wals <- IO$wals
 
@@ -50,10 +50,14 @@ afrobarometer_other_to_wals_auto <-
   anti_join(afrobarometer_other_to_wals_manual,
             by = c("country", "lang_name")) %>%
   inner_join(iso_to_wals, by = "iso_639_3") %>%
+  select(-iso_639_3) %>%
+  distinct() %>%
   group_by(country, lang_name) %>%
   filter(distance == min(distance)) %>%
+  group_by(country, lang_name) %>%
+  filter(same_country == max(same_country)) %>%
   ungroup() %>%
-  select(country, lang_name, wals_code, distance) %>%
+  select(country, lang_name, wals_code, distance, same_country) %>%
   distinct() %>%
   mutate(auto = 1L)
 
@@ -74,7 +78,7 @@ afrobarometer_other_to_wals <-
              afrobarometer_other_to_wals,
              by = c(iso_alpha2 = "country", "lang_name")) %>%
   select(round, question, country, value, iso_alpha2, wals_code,
-         wals_name, auto, distance) %>%
+         wals_name, auto, distance, same_country) %>%
   arrange(round, question, country, value)
 
 #' Check that all WALS codes are valid
