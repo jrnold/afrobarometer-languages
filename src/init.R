@@ -237,6 +237,68 @@ env_bind_fns(IO,
       distance = col_integer()
     )
     read_csv(gzfile(path), na = "", col_types = col_types)
+  },
+
+  afrobarometer_to_iso_country_nonmatches = function() {
+    path <- project_path("data-raw",
+                         "afrobarometer_to_iso_country_nonmatches.csv")
+    col_types <- cols(
+      round = col_character(),
+      question = col_character(),
+      lang_id = col_integer(),
+      lang_name = col_character(),
+      iso_alpha2 = col_character(),
+      iso_639_3 = col_character()
+    )
+    read_csv(path, na = "", col_types = col_types)
+  },
+
+  afrobarometer_to_iso_distant_matches = function() {
+    path <- project_path("data-raw",
+                         "afrobarometer_to_iso_distant_matches.csv")
+    col_types <- cols(
+      round = col_character(),
+      question = col_character(),
+      lang_id = col_integer(),
+      lang_name = col_character(),
+      iso_alpha2 = col_character(),
+      distance = col_integer()
+    )
+    read_csv(path, na = "", col_types = col_types)
+  },
+
+  afrobarometer_to_wals_country_nonmatches = function() {
+    path <- project_path("data-raw",
+                         "afrobarometer_to_wals_country_nonmatches.csv")
+    col_types <- cols(
+      round = col_character(),
+      question = col_character(),
+      lang_id = col_integer(),
+      iso_alpha2 = col_character(),
+      wals_code = col_character()
+    )
+    read_csv(path, na = "", col_types = col_types)
+  },
+
+  afrobarometer_other_to_iso_country_nonmatches = function() {
+    path <- project_path("data-raw",
+                         "afrobarometer_other_to_iso_country_nonmatches.csv")
+    col_types <- cols(
+      iso_alpha2 = col_character(),
+      value = col_character(),
+      iso_639_3 = col_character()
+    )
+    read_csv(path, na = "", col_types = col_types)
+  },
+  afrobarometer_other_to_wals_country_nonmatches = function() {
+    path <- project_path("data-raw",
+                         "afrobarometer_other_to_wals_country_nonmatches.csv")
+    col_types <- cols_only(
+      value = col_character(),
+      iso_alpha2 = col_character(),
+      wals_code = col_character()
+    )
+    read_csv(path, na = "", col_types = col_types)
   }
 
 )
@@ -259,10 +321,11 @@ env_bind_fns(IO, afrobarometer_langs = function() {
   path <- project_path("data", "afrobarometer_langs.csv")
   col_types <- cols(
     round = col_character(),
-    value = col_integer(),
     question = col_character(),
+    value = col_integer(),
     name = col_character(),
-    countries = col_character()
+    country = col_integer(),
+    iso_alpha2 = col_character()
   )
   read_csv(path, na = "", col_types = col_types)
 })
@@ -297,6 +360,8 @@ env_bind_fns(IO, afrobarometer_to_iso = function() {
     question = col_character(),
     lang_id = col_integer(),
     lang_name = col_character(),
+    country = col_integer(),
+    iso_alpha2 = col_character(),
     iso_639_3 = col_character(),
     iso_ref_name = col_character(),
     iso_scope = col_character()

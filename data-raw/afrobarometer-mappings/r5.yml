@@ -44,15 +44,41 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - ara
+    arq: [DZ]
+    acx: [KE]
+    ary: [MA]
+    apd: [SD]
+    aeb: [TN]
+    arz: [EG]
+  lang_id: 5
+  lang_name: Arabic
+  question:
+  - Q116
+  - Q2
+  wals_code:
+    amr: [MA, DZ]
+    atu: [TN, DZ]
+    arg: [KE]
+    abb: [SD]
+    aeg: [EG]
+
+  note: >-
+    Algeria (DZ), Kenya (KE), Morocco (MA), Sudan (SD),
+    Tunisia (TN). In WALS, Chaddic arabic for Sudan,
+    Gulf Arabic for Kenya. Morrocca and Tunisian for
+    Algeria.
+
+- iso_639_3:
   - arb
   lang_id: 5
   lang_name: Arabic
   question:
   - Q103
-  - Q116
-  - Q2
-  wals_code: null
+  wals_code:
+  - ams
+  note: >-
+    For survey, assume standard Arabic
+
 - iso_639_3:
   - ajg
   lang_id: 6
@@ -69,35 +95,42 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - tzm
-  - zgh
+    tzm: [MA]
+    zgh: [MA]
+    kab: [DZ]
   lang_id: 8
   lang_name: Amazigh
-  note: 'This is another name for Berber lanugages. - tzm: Central Atlas Tamazigh
-    - zgh: Tamazight, Standard Moroccan'
   question:
   - Q2
   wals_code: null
+  note: >-
+    Morocco (MA) and Algeria (DZ). Amazigh = Tamazight.
+    For Morocco use the similar Kabaye (kab)
 - iso_639_3:
-  - bam
+    bam: [CI, ML]
+    mnk: [SN]
   lang_id: 9
   lang_name: Bambara
   question:
   - Q2
   wals_code: null
+  note: >-
+    Ivory Coast (CI), Mali (ML), and Senegal (SN).
+    Bambara/Bmanankan (bam) of Mali and Ivory Coast. In Sengal it is
+    probably Mandinka - which is closely related.
 - iso_639_3:
-  - bsq
-  - bzw
-  - bas
+    bsq: [LR]
+    bzw: [NG]
+    bas: [CM]
   lang_id: 10
   lang_name: Bassa
   question:
   - Q116
   - Q2
   wals_code:
-  - kla
-  - bas
-  - duk
+    kla: [LR]
+    bas: [CM]
+    duk: [NG]
   note: >
     This includes three distinct languages from Cameroon, Liberia and
     Nigeria. Use the following
@@ -113,16 +146,16 @@
     - Nigeria: duk (Duka is closest)
 
 - iso_639_3:
-  - bmq
-  - bwq
-  - bbo
+    bmq: [ML]
+    bwq: [BF]
+    bbo: [BF]
   lang_id: 11
   lang_name: Bobo
   question:
   - Q2
   wals_code:
-  - bbf
-  - kfe
+    bbf: [BF]
+    kfe: [ML]
   note: >-
     Mali and Burkina Faso.
     These refer to distinct languages.
@@ -152,9 +185,9 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - fuh
-  - ful
-  - fuq
+    fuh: [BF]
+    ful: [NE]
+    fuq: [NE]
   lang_id: 15
   lang_name: Fulfuldé
   question:
@@ -162,6 +195,8 @@
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Burkina Faso (BF) and Niger (NE)
 - iso_639_3:
   - hau
   lang_id: 16
@@ -194,8 +229,10 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - kqs
-  - kss
+    kqs: [SL]
+    kss: [LR, SL]
+  note: >-
+    Liberia (LR) and  Sierra Leone (SR)
   lang_id: 20
   lang_name: Kissi
   question:
@@ -209,12 +246,16 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - kno
+    kno: [SL]
+    knu: [GN]
   lang_id: 22
   lang_name: Kono
   question:
   - Q2
   wals_code: null
+  note: >-
+    Guinea (GN) and Sierra Leone (SL). Kono (knu) of GN and
+    Kono (knu) of SL are different.
 - iso_639_3:
   - klu
   lang_id: 23
@@ -223,12 +264,16 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - lam
+    las: [TG]
+    lam: [ZM]
   lang_id: 24
   lang_name: Lamba
   question:
   - Q2
   wals_code: null
+  note: >-
+    Zambia (ZM) and Togo (TG). Lamba (lam) in Zambia and Lama (las)
+    in Togo are distinct languages.
 - iso_639_3:
   - lob
   lang_id: 25
@@ -237,13 +282,18 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - luo
+    luo: [KE]
+    ach: [UG]
   lang_id: 26
   lang_name: Luo
   question:
   - Q103
   - Q2
   wals_code: null
+  note: >-
+    Kenya (KE) and Uganda (UG). For Kenya use Luo. For Uganda, use
+    Acholi since it appears with same ID but different name.
+
 - iso_639_3:
   - mev
   lang_id: 27
@@ -268,14 +318,17 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - nbl
-  - nde
+    nbl: [ZA]
+    nde: [ZW, ZM]
   lang_id: 30
   lang_name: Ndebele
   question:
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    South Africa (ZA), Zimbabwe (ZW), and Zambia (ZM). nbl and
+    nde are distinct languages.
 - iso_639_3:
   - nya
   lang_id: 31
@@ -284,20 +337,24 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - dyi
-  - plr
-  - seb
-  - sef
-  - sen
-  - sep
-  - seq
-  - sev
-  - tgw
+    xrb: [BF]
+    kza: [BF]
+    plr: [CI]
+    sef: [CI]
+    seq: [BF]
+    sen: [BF]
+    seb: [CI]
+    sep: [BF]
+    dyi: [CI]
+    sev: [CI]
+    tgw: [CI]
   lang_id: 32
   lang_name: Sénoufo
   question:
   - Q2
   wals_code: null
+  note: >-
+    Burkina Faso and Ivory Coast. https://www.ethnologue.com/subgroups/senufo
 - iso_639_3:
   - tsn
   lang_id: 33
@@ -321,17 +378,16 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - toh
-  - toi
-  - tog
-  - tso
+    toi: [ZM, ZW]
+    tog: [MW]
+    tso: [ZA, SZ]
   lang_id: 36
   lang_name: Tonga
   question:
   - Q2
   wals_code: null
   note: >-
-    Malawi, Swazilang, South Africa, Zimbabwe, Zambia. This seems to
+    Malawi (MW), Swaziland (SZ), South Africa (ZA), Zimbabwe (ZW), Zambia (ZM). This seems to
     combine many T(s)onga languages.
 - iso_639_3:
   - vai
@@ -356,6 +412,8 @@
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Burkina Faso (BF), Nigeria (NG), and Togo (TG)
 - iso_639_3:
   - fon
   lang_id: 100
@@ -670,21 +728,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - dyi
-  - plr
-  - seb
-  - sef
-  - sen
-  - sep
-  - seq
-  - sev
-  - tgw
-  lang_id: 191
-  lang_name: Sénoufo
-  question:
-  - Q116
-  wals_code: null
-- iso_639_3:
   - kza
   - xrb
   lang_id: 191
@@ -761,21 +804,6 @@
   lang_name: Kassena
   question:
   - Q116
-  wals_code: null
-- iso_639_3:
-  - dyi
-  - plr
-  - seb
-  - sef
-  - sen
-  - sep
-  - seq
-  - sev
-  - tgw
-  lang_id: 196
-  lang_name: Sénoufo
-  question:
-  - Q2
   wals_code: null
 - iso_639_3:
   - kfz
@@ -1385,7 +1413,8 @@
   question:
   - Q103
   - Q116
-  wals_code: null
+  wals_code:
+  - eng
 - iso_639_3:
   - lir
   lang_id: 396
@@ -1394,7 +1423,8 @@
     as a separate entry.
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - eng
 - iso_639_3:
   - eng
   lang_id: 397
@@ -1403,7 +1433,7 @@
   - Q103
   wals_code: null
 - iso_639_3:
-  - lir
+  - krn
   lang_id: 397
   lang_name: Sapo
   question:
@@ -1441,7 +1471,6 @@
   wals_code: null
 - iso_639_3:
   - cmn
-  - yue
   lang_id: 422
   lang_name: Chinois
   note: French for Chinese. Use Cantonese and Mandarin. https://en.wikipedia.org/wiki/Chinese_people_in_Madagascar
@@ -1450,7 +1479,10 @@
   - Q2
   wals_code: null
 - iso_639_3:
+  - zdj
   - swb
+  - wni
+  - wlc
   lang_id: 423
   lang_name: Comorien
   question:
@@ -1723,13 +1755,17 @@
   - Q2
   wals_code: null
 - iso_639_3:
+  - myk
   - spp
+  - shz
   lang_id: 515
   lang_name: Senufo
   question:
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Mali Senoufo languages. https://www.ethnologue.com/subgroups/senufo
 - iso_639_3:
   - snk
   lang_id: 516
@@ -1760,7 +1796,6 @@
   wals_code: null
 - iso_639_3:
   - taq
-  - tmh
   - ttq
   lang_id: 518
   lang_name: Tamasheq
@@ -1769,6 +1804,8 @@
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Mali. Mali spoken Tamasheq langs.
 - iso_639_3:
   - dje
   lang_id: 519
@@ -2151,7 +2188,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - kau
   - kby
   - knc
   lang_id: 629
@@ -2160,6 +2196,8 @@
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Nigeria Kanuri only.
 - iso_639_3:
   - tiv
   lang_id: 630
@@ -2431,7 +2469,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - man
   - mnk
   lang_id: 663
   lang_name: Mandinka/Bambara
@@ -2488,15 +2525,6 @@
   lang_name: Afrikaans
   question:
   - Q103
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - nbl
-  - nde
-  lang_id: 701
-  lang_name: Ndebele
-  question:
   - Q116
   - Q2
   wals_code: null
@@ -3297,13 +3325,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - lam
-  lang_id: 831
-  lang_name: Lamba
-  question:
-  - Q116
-  wals_code: null
-- iso_639_3:
   - leb
   lang_id: 831
   lang_name: Bisa
@@ -3801,6 +3822,8 @@
   question:
   - Q2
   wals_code: null
+  note: >-
+    Sierra Leone (SL)
 - iso_639_3:
   - knk
   lang_id: 938
@@ -3845,13 +3868,15 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - kqs
-  - kss
+    kqs: [SL]
+    kss: [SL, LR]
   lang_id: 944
   lang_name: Kissi
   question:
   - Q2
   wals_code: null
+  note: >-
+    Sierra Leone (SL) and Liberia (LR).
 - iso_639_3:
   - hau
   lang_id: 1100
@@ -4917,14 +4942,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - kno
-  lang_id: 1309
-  lang_name: Kono
-  question:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
   - tod
   lang_id: 1310
   lang_name: Loma
@@ -5204,20 +5221,6 @@
   wals_code: null
 - iso_639_3:
   - tzm
-  lang_id: 1420
-  lang_name: Amazigh
-  question:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - zgh
-  lang_id: 1500
-  lang_name: Amazigh
-  question:
-  - Q103
-  - Q2
-  wals_code: null
-- iso_639_3:
   - zgh
   lang_id: 1500
   lang_name: Tamazight
@@ -5231,15 +5234,6 @@
   lang_id: 1501
   lang_name: Hassaniya
   question:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - tzm
-  lang_id: 1580
-  lang_name: Amazigh
-  question:
-  - Q103
-  - Q116
   - Q2
   wals_code: null
 - iso_639_3:

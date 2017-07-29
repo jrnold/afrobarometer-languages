@@ -35,7 +35,8 @@
   - q97
   wals_code: null
 - iso_639_3:
-  - swh
+    swh: [KE, TZ, BW, MZ, UG]
+    swc: [ZM]
   lang_id: 4
   lang_name: Kiswahili
   question:
@@ -43,6 +44,9 @@
   - q83
   - q97
   wals_code: null
+  note: >-
+    Kenya (KE), Tanzania (TZ), BW (Botswana), MZ (Mozambique), Uganda (UG),
+    and Zambia (ZM)
 - iso_639_3:
   - kea
   lang_id: 50
@@ -108,8 +112,8 @@
   - q97
   wals_code: null
 - iso_639_3:
-  - ach
-  - alz
+    luo: [KE]
+    ach: [UG]
   lang_id: 66
   lang_name: Luo
   question:
@@ -117,6 +121,8 @@
   - q83
   - q97
   wals_code: null
+  note: >-
+    Uganda. Use Ugandan languages in Luo sugroup
 - iso_639_3:
   - lgg
   lang_id: 67
@@ -653,14 +659,24 @@
   note: >-
     Malawi
 - iso_639_3:
-  - arb
+  - mey
   lang_id: 160
   lang_name: Arabic
   question:
   - q110
   - q83
+  wals_code: null
+  note: >-
+    Mali (ML).
+- iso_639_3:
+  - arb
+  lang_id: 160
+  lang_name: Arabic
+  question:
   - q97
   wals_code: null
+  note: >-
+    Standard arabic for interviews.
 - iso_639_3:
   - hau
   lang_id: 161
@@ -670,6 +686,8 @@
   - q83
   - q97
   wals_code: null
+  note: >-
+    Mali (ML). Hausa (hau) widely spoken in region.
 - iso_639_3:
   - ffm
   lang_id: 162
@@ -832,6 +850,8 @@
   - q83
   - q97
   wals_code: null
+  note: >-
+    Mali Tamasheq langs
 - iso_639_3:
   - mos
   lang_id: 178
@@ -1606,6 +1626,8 @@
   - q83
   - q97
   wals_code: null
+  note: >-
+    Kenya
 - iso_639_3:
   - mas
   - saq

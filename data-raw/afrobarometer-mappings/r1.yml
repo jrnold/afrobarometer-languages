@@ -19,6 +19,9 @@
   question:
   - language
   wals_code: null
+  note: >-
+    Malawi (MW) and Namibia (NA). Not spoken in either, but can't find another
+    lang.
 - iso_639_3:
   - swk
   lang_id: 4
@@ -26,6 +29,8 @@
   question:
   - language
   wals_code: null
+  note: >-
+    Malawi (MW) and Zambia (ZM). Not spoken in either.
 - iso_639_3:
   - naq
   lang_id: 5
@@ -33,6 +38,8 @@
   question:
   - language
   wals_code: null
+  note:: >-
+    Botswana (BW), Namibia (NA), Zambia (ZM), and Zimbabwe( ZM)
 - iso_639_3:
   - eng
   lang_id: 6
@@ -56,12 +63,16 @@
   - language
   wals_code: null
 - iso_639_3:
-  - nde
+    nde: [BW, ZW, ZM, "NA"]
+    nbl: [ZA, LS]
   lang_id: 9
   lang_name: Ndebele
   question:
   - language
   wals_code: null
+  note: >-
+    Zambia (ZM), South Africa (ZA), Namibia (NA), and Lesotho (LS),
+    Botswana (BW), and Zimbabwe (ZW).
 - iso_639_3:
   - kua
   lang_id: 10
@@ -112,14 +123,15 @@
   - language
   wals_code: null
 - iso_639_3:
-  - rng
-  - tsc
-  - tso
+    tsc: [ZW, ZA]
+    tso: [ZW, ZA]
   lang_id: 17
   lang_name: Shangaan/Tsonga/Ronga/Tswa
   question:
   - language
   wals_code: null
+  note: >-
+    South Africa (ZA) and Zimbabwe (ZW)
 - iso_639_3:
   - sna
   lang_id: 18
@@ -148,6 +160,8 @@
   question:
   - language
   wals_code: null
+  note: >-
+    Namibia (NA), South Africa (ZA), and Zimbabwe (ZW)
 - iso_639_3:
   - xho
   lang_id: 22
@@ -198,17 +212,15 @@
   - language
   wals_code: null
 - iso_639_3:
-  - toi
-  - tog
+    toi: [ZM]
+    tog: [MW]
   lang_id: 31
   lang_name: Tonga
   question:
   - language
-  wals_code:
-  - toz
+  wals_code: null
   note: >-
-    Malawi and Zambia. Use both dialects for ISO. Use only Zambia
-    for WALS.
+    Malawi (MW) and Zambia (ZM)
 - iso_639_3:
   - zul
   lang_id: 32
@@ -570,12 +582,16 @@
   - language
   wals_code: null
 - iso_639_3:
+  - shz
+  - myk
   - spp
   lang_id: 86
   lang_name: Senufo
   question:
   - language
   wals_code: null
+  note: >-
+    Mali Senufo.
 - iso_639_3:
   - snk
   lang_id: 87
@@ -621,6 +637,8 @@
   question:
   - language
   wals_code: null
+  note: >-
+    Mali spoken tamasheq
 - iso_639_3:
   - bmq
   lang_id: 92

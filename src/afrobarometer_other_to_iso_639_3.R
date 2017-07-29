@@ -69,10 +69,17 @@ afrobarometer_other_to_iso <-
          iso_ref_name, iso_alpha2)
 
 
-
 #'
 #' # Test Output Data
 #'
+
+# Primary Key
+assert_that(
+  nrow(distinct(afrobarometer_other_to_iso, round, question,
+                country, value, iso_639_3)) ==
+    nrow(afrobarometer_other_to_iso)
+)
+
 with(afrobarometer_other_to_iso, {
   assert_that(all(!is.na(round)))
   assert_that(is.character(round))
@@ -89,8 +96,9 @@ with(afrobarometer_other_to_iso, {
   assert_that(is.character(value))
 
   # Iso Code
+  assert_that(all(!is.na(iso_639_3)))
   assert_that(is.character(iso_639_3))
-  assert_that(all(str_detect(na.omit(iso_639_3), misc_data$iso$code_pattern)))
+  assert_that(all(str_detect(iso_639_3, misc_data$iso$code_pattern)))
 
   assert_that(is.character(iso_ref_name))
 
@@ -98,6 +106,7 @@ with(afrobarometer_other_to_iso, {
 
 })
 
+#' Check that ISO Scopes are valid
 assert_that(nrow(filter(afrobarometer_other_to_iso,
                         !is.na(iso_scope),
                         !iso_scope %in% misc_data$iso$scopes$values)) == 0)
@@ -109,28 +118,21 @@ iso_lang_nonmatches <-
   anti_join(iso_langs, by = c("iso_639_3" = "Id"))
 stopifnot(nrow(iso_lang_nonmatches) == 0)
 
-#' known_iso_country_nonmatches <-
-#'   misc_data$iso$country_exceptions$values %>%
-#'   map_df(as_tibble)
-
-
 #' Check that the Afrobarometer countries in which
 #' the language is spoken is consistent with countries
 #' in which the Ethnologue records the language as being spoken.
 ethnologue_langidx <- IO$ethnologue %>%
-    select(iso_639_3 = LangID, iso_alpha2 = CountryID) %>%
-    distinct()
-
-known_country_nonmatches <-
-  misc_data$iso$other_country_nonmatches$values %>%
-  map_df(as_tibble)
+  select(iso_639_3 = LangID, iso_alpha2 = CountryID) %>%
+  distinct() %>%
+  # patch for Akan split
+  bind_rows(tibble(iso_639_3 = c("fat", "twi"), iso_alpha2 = "GH"))
 
 iso_country_non_matches <-
   afrobarometer_other_to_iso %>%
   # ignore macrolangs
   filter(iso_scope %in% c("I")) %>%
   # remove any known non-matche
-  anti_join(known_country_nonmatches,
+  anti_join(IO$afrobarometer_other_to_iso_country_nonmatches,
             by = c("iso_alpha2", "value", "iso_639_3")) %>%
   # find any non-matches
   anti_join(ethnologue_langidx, by = c("iso_639_3", "iso_alpha2"))
@@ -140,15 +142,7 @@ if (nrow(iso_country_non_matches)) {
   stop("Some ISO languages appear in invalid countries")
 }
 
-# This generates YAML to add to misc_data exceptions
-# iso_country_non_matches %>%
-#   select(iso_alpha2, value, iso_639_3) %>%
-#   distinct() %>%
-#   yaml::as.yaml(column.major = FALSE) %>%
-#   cat()
-
-# Check that multi-matches are related languages
-
+#' If multiple matches check that they are relatively similar
 distant_matches <-
   afrobarometer_other_to_iso %>%
   # ignore macro-languages since they aren't in the ethnologue dist
@@ -157,7 +151,6 @@ distant_matches <-
   select(iso_alpha2, value, iso_639_3) %>%
   distinct() %>%
   # ignore known bad cases
-  # anti_join(known_distant_matches, by = c("round", "question", "lang_id")) %>%
   group_by(iso_alpha2, value) %>%
   do(as_tibble(tidyr::crossing(from = .$iso_639_3, to = .$iso_639_3))) %>%
   # filter self matches
@@ -174,7 +167,7 @@ distant_matches <-
 
 if (nrow(distant_matches) > 0) {
   print(distant_matches)
-  stop("Found multiple matches with seemingly unrelated ISO languages")
+  stop("Found linguistically dissimilar matches")
 }
 
 #' # Write Output

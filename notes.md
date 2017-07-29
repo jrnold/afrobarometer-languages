@@ -174,21 +174,72 @@ These are distinct languages
 In Malawi/Zambia: (N)Senga and Ngoni are names of several distinct languages and dialects including Nsenga (nse), Chichewa (nya), and Tumbuku (tum).
 
 
-> The longevity of the non-sex-based systems within Niger-Congo has implications for historical linguistics, since it shows that a minority system can maintain itself and develop in a variety of ways without adopting the majority scheme. Finally, for those interested in language and gender in the sociological sense, these direct reflections of biological sex in many languages, with the "control group" of languages with similar gender structures but without the sex component, should provide a valuable source of data.
+# Senoufu
+
+Languages of the Senufo subgroup
+
+---------------------- ------- -----------
+Karaboro, Eastern      xrb     BF
+Karaboro, Western      kza     BF
+Sénoufo, Palaka        plr     CI
+Nafaanra               nfr     GH
+Sénoufo, Cebaara       sef     CI
+Sénoufo, Senara        seq     BF
+Sénoufo, Syenara       shz     ML
+Sénoufo, Mamara        myk     ML
+Sénoufo, Nanerigé      sen     BF
+Sénoufo, Shempire      seb     CI
+Sénoufo, Sìcìté        sep     BF
+Sénoufo, Supyire       spp     ML
+Sénoufo, Djimini       dyi     CI
+Sénoufo, Nyarafolo     sev     CI
+Sénoufo, Tagwana       tgw     CI
+---------------------- ------- -----------
+
+# Swahili
+
+------------------------ -------- -----------------------
+Congo Swahili            swc      CD, ZM
+Swahili                  swh      KE, MZ, TZ, SO, UG, BI
+------------------------ -------- ------------------------
+
+# Arabic
+
+- Mali (ML): Hasanya Arabic (mey), Standard Arabic (arb)
+- Kenya (KE): Omani Spoken Arabic (acx)
+- Sudan (SD): Standard Arabic (arb), Sudanese Spoken Arabic (apd)
+- Tunisia (TN): Standard Arabic (arb), Tunisian Spoken Arabic (aeb)
+- Morocco (MA): Hassaniyaa Arabic (mey), Moroccan Spoken Arabic (ary), Standard Arabic (arb)
+- Algeria (DZ): Algerian Spoken (arq), Algerian Saharan Spoken (aao), Hassaniyaa Arabic (mey), Standard Arabic (arb)
+- Egypt (EG): Egyptian Spoken (arz), Algerian Spoken (arq), Eastern Egyptian Bedawi Spoken (avl), Gulf Spoken (afb), Moroccan Spoken (ary), Sa'idi Spoken (aec), Stanard (arb), Western Egyptian Bedawi Spoken (ayl)
 
 
-Number of Genders : http://wals.info/chapter/30
+# Berber Languages
 
-- Niger-Congo family
+Algeria and Morocco in Afrobarometer
 
-  - Only three have loste gender: Ewe, Igbo, and Yoruba
+The [Berber subgroup](https://www.ethnologue.com/subgroups/berber)
+with status >= 6.
 
-- Other families in Africa are "Gender hotbeds"
+------------------------ -------- -----------------------
+Chenoua                   cnu      DZ
+Kabyle                    kab      DZ
+Tachawit                  shy      DZ
+Tachelhit                 shi      DZ, MA
+Tagargrent                oua      DZ
+Tamahaq, Thaggart         thv      DZ
+Taznatit                  grr      DZ, MA
+Tumzabt                   mzb      DZ
+Ghomara                   gho      MA
+Senhaja Berber            sjs      MA
+Tamazight, Central Atlas  tzm      MA
+Tamazight, Std Moroccan   zgh      MA
+Tarafit                   rif      MA
+------------------------ -------- ------------------------
 
-  - Khoisan gender systems
-  - Afro-Asiatic
+In Algeria - Kabyle (Kab) would be the largest, followed
+by Tachawit (shy).
 
-    - Amharic
-    - Modern Standrd Arabic
-  - Nilo-Saharan is mixed, but none in the samle show gender
-  - Euope is predominantly gender
+In Morocco - Tamazight, Stnadard Moroccan (zgh),
+Tachelhit (shi), Tarafit (rif), and Tamazight, Central Atlas (tzm)
+are the largest.

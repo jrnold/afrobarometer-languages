@@ -288,6 +288,9 @@
   question:
   - q3
   wals_code: null
+  note: >-
+    Ethnologue doesn't indicate Hausa in ML, but
+    Hausa (hau) widely spoken in neighbors
 - iso_639_3:
   - ijj
   lang_id: 129
@@ -303,6 +306,8 @@
   question:
   - q3
   wals_code: null
+  note: >-
+    Burkina Faso (BF)
 - iso_639_3:
   - tsn
   lang_id: 140
@@ -495,6 +500,8 @@
   - q114
   - q3
   wals_code: null
+  note: >-
+    Kenya
 - iso_639_3: [bxk, nle, ida, lkb, lko, lks, rag, lri, lrm, nyd, lsm, lts, lto]
   lang_id: 202
   lang_name: Luhya
@@ -702,12 +709,15 @@
   - q103
   wals_code: null
 - iso_639_3:
-  - arb
+  - acx
   lang_id: 218
   lang_name: Arabic
   question:
   - q3
-  wals_code: null
+  wals_code:
+  - arg
+  note: >-
+    Kenya (KE). Arabic (omani, spoken)
 - iso_639_3:
   - rag
   lang_id: 219
@@ -727,19 +737,23 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - nso
+  - ssw
   lang_id: 221
   lang_name: Seputi
   question:
   - q103
   wals_code: null
+  note: >-
+    Lesotho (LS)
 - iso_639_3:
-  - nso
+  - ssw
   lang_id: 221
   lang_name: Sephuti
   question:
   - q3
   wals_code: null
+  note: >-
+    Lesotho (LS)
 - iso_639_3:
   - plt
   lang_id: 240
@@ -819,13 +833,17 @@
   - q3
   wals_code: null
 - iso_639_3:
+  - zdj
   - swb
+  - wni
+  - wlc
   lang_id: 243
   lang_name: comorien
   question:
   - q3
-  wals_code:
-  - com
+  wals_code: null
+  note: >-
+    Comorien is immmigrant lang of Madagascar https://www-ethnologue-com./country/MG
 - iso_639_3:
   - mul
   lang_id: 244
@@ -977,13 +995,17 @@
   - q3
   wals_code: null
 - iso_639_3:
+  - myk
   - spp
+  - shz
   lang_id: 282
   lang_name: Senufo
   question:
   - q114
   - q3
   wals_code: null
+  note: >-
+    Mali Senufo languages. https://www.ethnologue.com/subgroups/senufo
 - iso_639_3:
   - myk
   lang_id: 283
@@ -1161,6 +1183,8 @@
   - q114
   - q3
   wals_code: null
+  note: >-
+    Mali spoken Tamasheq
 - iso_639_3:
   - rkm
   lang_id: 298
@@ -1395,6 +1419,8 @@
   question:
   - q3
   wals_code: null
+  note: >-
+    Namibia (NA). Umbundu spoken in Angola.
 - iso_639_3:
   - mhw
   lang_id: 331
@@ -1557,6 +1583,8 @@
   - q114
   - q3
   wals_code: null
+  note: >-
+    Nigeria
 - iso_639_3:
   - tiv
   lang_id: 350
@@ -1710,20 +1738,22 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - bam
+  - mnk
   lang_id: 367
   lang_name: Bamabara
   question:
   - q103
   wals_code: null
 - iso_639_3:
-  - bam
+  - mnk
   lang_id: 367
   lang_name: Bambara
   question:
   - q114
   - q3
   wals_code: null
+  note: >-
+    Senegal. SN. Use closely related Mandinka for Senegal ()
 - iso_639_3:
   - bcb
   - bcz
@@ -1967,8 +1997,7 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - ach
-  - alz
+    - ach
   lang_id: 413
   lang_name: Luo
   question:
@@ -1976,6 +2005,8 @@
   - q114
   - q3
   wals_code: null
+  note: >-
+    Uganda (UG). Use Acholi.
 - iso_639_3:
   - lgg
   lang_id: 414
@@ -2127,6 +2158,8 @@
   question:
   - q3
   wals_code: null
+  note: >-
+    Malawi (MW). Nyamwanga spoken in ZM, TZ.
 - iso_639_3:
   - leb
   lang_id: 431
@@ -2177,6 +2210,8 @@
   question:
   - q3
   wals_code: null
+  note: >-
+    Zambia (ZM)
 - iso_639_3:
   - mck
   lang_id: 438
@@ -2676,10 +2711,11 @@
   - gex
   lang_id: 820
   lang_name: Gare
-  note: Garre language
   question:
   - q3
   wals_code: null
+  note: >-
+    Kenya. Garre spoken in Somalia.
 - iso_639_3:
   - sby
   lang_id: 860

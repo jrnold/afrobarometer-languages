@@ -1667,11 +1667,11 @@
   lang_name: ewe and fante
 - country: GH
   iso_639_3:
-  - aka
+  - fat
   lang_name: fante
 - country: GH
   iso_639_3:
-  - aka
+  - fat
   lang_name: fanti
 - country: GH
   iso_639_3:
@@ -1814,7 +1814,7 @@
   lang_name: kusasi
 - country: GH
   iso_639_3:
-  - aka
+  - twi
   lang_name: kwahu
 - country: GH
   iso_639_3:
@@ -2137,9 +2137,9 @@
   lang_name: arab
 - country: KE
   iso_639_3:
-  - arb
+  - acx
   wals_code:
-  - ams
+  - arg
   lang_name: arabic
 - country: KE
   iso_639_3:
@@ -2457,7 +2457,7 @@
   note: Ndali
 - country: MW
   iso_639_3:
-  - mis
+  - nde
   lang_name: chindebele
 - country: MW
   iso_639_3:
@@ -4249,7 +4249,7 @@
   lang_name: language inqasna
 - country: SL
   iso_639_3:
-  - ful
+  - fuf
   lang_name: fullah
 - country: SL
   iso_639_3:
@@ -4386,7 +4386,7 @@
   lang_name: isizulu
 - country: SZ
   iso_639_3:
-  - mis
+  - nbl
   lang_name: ndebele
 - country: SZ
   iso_639_3:
@@ -5596,7 +5596,7 @@
   lang_name: mumba
 - country: ZM
   iso_639_3:
-  - mis
+  - nde
   lang_name: ndebele
 - country: ZM
   iso_639_3:
@@ -5820,7 +5820,7 @@
   lang_name: shangwe
 - country: ZW
   iso_639_3:
-  - mis
+  - nde
   lang_name: shona & ndebele
 - country: ZW
   iso_639_3:

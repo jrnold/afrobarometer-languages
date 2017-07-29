@@ -392,9 +392,11 @@
   - Q3
   wals_code: null
 - iso_639_3:
+  - xrb
+  - kza
+  - seq
   - sen
   - sep
-  - seq
   lang_id: 193
   lang_name: Senoufo
   question:
@@ -402,6 +404,8 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Burfina Faso Senufo languages. https://www.ethnologue.com/subgroups/senufo
 - iso_639_3:
   - dje
   lang_id: 194
@@ -767,6 +771,8 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Kenya
 - iso_639_3: [bxk, nle, ida, lkb, lko, lks, rag, lri, lrm, nyd, lsm, lts, lto]
   lang_id: 302
   lang_name: Luhya
@@ -1071,7 +1077,8 @@
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - eng
 - iso_639_3:
   - krn
   lang_id: 397
@@ -1110,7 +1117,6 @@
   wals_code: null
 - iso_639_3:
   - cmn
-  - yue
   lang_id: 422
   lang_name: Chinois
   question:
@@ -1119,7 +1125,10 @@
   - Q3
   wals_code: null
 - iso_639_3:
+  - zdj
   - swb
+  - wni
+  - wlc
   lang_id: 423
   lang_name: Comorien
   question:
@@ -1299,7 +1308,9 @@
   - leb
   lang_id: 477
   lang_name: Wiza
-  note: Wiza listed as a dielect of Lala-Bisa, https://en.wikipedia.org/wiki/Lala-Bisa_language.
+  note: >-
+    Malawi (MW). Wiza listed as a dialect of Lala-Bisa.
+    Spoken widely in neighboring Zambia (ZM).
   question:
   - Q103
   - Q114
@@ -1460,7 +1471,6 @@
   wals_code: null
 - iso_639_3:
   - taq
-  - tmh
   - ttq
   lang_id: 516
   lang_name: Tamasheq
@@ -1469,6 +1479,8 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Mali spoken Tamasheq
 - iso_639_3:
   - hau
   lang_id: 518
@@ -1478,6 +1490,8 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Mali (ML). Hausa (hau) spoken widely in the region.
 - iso_639_3:
   - xkg
   lang_id: 520
@@ -1856,6 +1870,8 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Namibia (NA). Umbundu spoken in Angola.
 - iso_639_3:
   - hau
   lang_id: 620
@@ -1939,7 +1955,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - kau
   - kby
   - knc
   lang_id: 629
@@ -1949,6 +1964,8 @@
   - Q114
   - Q3
   wals_code: null
+  note: >-
+    Nigeria Kanuri languages.
 - iso_639_3:
   - tiv
   lang_id: 630

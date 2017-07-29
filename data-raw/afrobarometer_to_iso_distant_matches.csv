@@ -1,0 +1,18 @@
+round,question,lang_id,lang_name,iso_alpha2,distance
+r6,Q2,11,Berber Language,DZ,3
+r6,Q116,1500,Berber Language,MA,3
+r6,Q2,11,Berber Language,MA,3
+r2,q83,380,Kalejin,KE,3
+r2,q97,380,kalenjin,KE,3
+r2,q110,380,Kalenjin,KE,3
+r3,q103,206,Kalenjin,KE,3
+r3,q114,206,Kalenjin,KE,3
+r3,q3,206,Kalenjin,KE,3
+r4,Q103,304,Kalenjin,KE,3
+r4,Q114,304,Kalenjin,KE,3
+r4,Q3,304,Kalenjin,KE,3
+r5,Q103,304,Kalenjin,KE,3
+r5,Q116,304,Kalenjin,KE,3
+r5,Q2,304,Kalenjin,KE,3
+r6,Q103,304,Kalenjin,KE,3
+r6,Q2,304,Kalenjin,KE,3

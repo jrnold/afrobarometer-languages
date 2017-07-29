@@ -27,4 +27,6 @@ run_r src/afrobarometer_to_wals.R &
 run_r src/afrobarometer_other_to_wals.R &
 wait
 
+run_r src/wals_dist.R &
+
 python src/yaml2json.py data-raw/datapackage.yml data/datapackage.json

@@ -11,13 +11,13 @@ OUTPUT <- project_path("data", "afrobarometer_langs.csv")
 
 #' For an Afrobarometer Dataset summarize the languages
 lang_summary <- function(lang_var, country_var, .data) {
-  langs <- enframe(attr(.data[[lang_var]], "labels")) %>%
-    mutate(question = UQ(lang_var))
-  countries <- transmute(.data,
-                         countries = as.integer(UQ(sym(country_var))),
-                         value = as.integer(UQ(sym(lang_var)))) %>%
+  select(.data, one_of(lang_var, country_var)) %>%
+    transmute(country = as.integer(UQ(sym(country_var))),
+              value = as.integer(UQ(sym(lang_var))),
+              name = as.character(haven::as_factor(UQ(sym(lang_var)))),
+              question = UQ(lang_var)
+              ) %>%
     distinct()
-  left_join(langs, countries, by = "value")
 }
 
 # Miscellaneous data
@@ -43,16 +43,10 @@ afrobarometer_langs_r <- function(.round) {
 
 afrobarometer_langs <- map_df(IO$misc_data$afrobarometer$rounds, afrobarometer_langs_r) %>%
   left_join(afrobarometer_countries,
-            by = c("round", "countries" = "value")) %>%
+            by = c("round", "country" = "value")) %>%
   mutate(value = as.integer(value)) %>%
-  group_by(round, question, value, name) %>%
-  summarise(countries = list(sort(unique(iso_alpha2)))) %>%
-  mutate(countries = map_chr(countries, paste, collapse = " "),
-         countries = if_else(str_trim(countries) == "",
-                             NA_character_,
-                             countries)) %>%
-  select(round, question, value, name, countries) %>%
-  arrange(round, question, value)
+  select(round, question, value, name, country, iso_alpha2) %>%
+  arrange(round, question, value, iso_alpha2)
 
 with(afrobarometer_langs, {
   assert_that(all(!is.na(round)))
@@ -70,11 +64,20 @@ with(afrobarometer_langs, {
   assert_that(all(!is.na(name)))
   assert_that(is.character(name))
 
-  # Iso Code
-  assert_that(is.character(countries))
-  assert_that(all(str_detect(na.omit(countries),
-                             "[A-Z]{2}( [A-Z]{2})*")))
+  # country
+  assert_that(is.integer(country))
+  assert_that(all(!is.na(country)))
+
+  # ISO Country
+  assert_that(is.character(iso_alpha2))
+  assert_that(all(!is.na(iso_alpha2)))
+  assert_that(all(str_detect(iso_alpha2, "[A-Z]{2}")))
+
 })
+# unique keys are unique
+assert_that(nrow(distinct(afrobarometer_langs, round,
+                          question, value, country)) ==
+              nrow(afrobarometer_langs))
 
 #' Ouptut
 afrobarometer_langs %>%

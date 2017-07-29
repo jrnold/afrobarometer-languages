@@ -10,7 +10,7 @@ r4,Q3OTHER,14,AKWANDARA,mis,S,Uncoded languages,NG
 r4,Q3OTHER,14,ANDONI,ann,I,Obolo,NG
 r4,Q3OTHER,14,ANGAS,anc,I,Ngas,NG
 r4,Q3OTHER,14,ANKWAI,ank,I,Goemai,NG
-r4,Q3OTHER,6,Arabic,arb,I,Standard Arabic,KE
+r4,Q3OTHER,6,Arabic,acx,I,Omani Arabic,KE
 r4,Q3OTHER,6,Arabic,ara,M,Arabic,KE
 r4,Q3OTHER,14,ARAGO,ala,I,Alago,NG
 r4,Q3OTHER,18,Aringa,luc,I,Aringa,UG
@@ -89,6 +89,7 @@ r4,Q3OTHER,14,EJAGAM,etu,I,Ejagham,NG
 r4,Q3OTHER,14,ELEME,elm,I,Eleme,NG
 r4,Q3OTHER,14,EPEYE,ekp,I,Ekpeye,NG
 r4,Q3OTHER,14,EPIA,epi,I,Epie,NG
+r4,Q3OTHER,5,FANTI,fat,I,Fanti,GH
 r4,Q3OTHER,5,FANTI,aka,M,Akan,GH
 r4,Q3OTHER,5,FRAFRA,gur,I,Farefare,GH
 r4,Q3OTHER,6,Gabra,mis,S,Uncoded languages,KE
@@ -271,7 +272,7 @@ r4,Q3OTHER,10,Namwanga,mis,S,Uncoded languages,MW
 r4,Q3OTHER,5,NANUM,dag,I,Dagbani,GH
 r4,Q3OTHER,10,Ndali,ndh,I,Ndali,MW
 r4,Q3OTHER,20,NDAU,ndc,I,Ndau,ZW
-r4,Q3OTHER,19,NDEBELE,mis,S,Uncoded languages,ZM
+r4,Q3OTHER,19,NDEBELE,nde,I,North Ndebele,ZM
 r4,Q3OTHER,14,NDORO,ndr,I,Ndoola,NG
 r4,Q3OTHER,14,NEDERE,kmy,I,Koma,NG
 r4,Q3OTHER,19,NGUMBO,mis,S,Uncoded languages,ZM
@@ -411,7 +412,7 @@ r5,Q103OTHER,19,SENGA,tum,I,Tumbuka,ZM
 r5,Q103OTHER,7,SETHEPU,mis,S,Uncoded languages,LS
 r5,Q103OTHER,16,SHANGAAN,tso,I,Tsonga,ZA
 r5,Q103OTHER,22,SHERBRO,bun,I,Sherbro,SL
-r5,Q103OTHER,20,SHONA & NDEBELE,mis,S,Uncoded languages,ZW
+r5,Q103OTHER,20,SHONA & NDEBELE,nde,I,North Ndebele,ZW
 r5,Q103OTHER,16,SISWATI,ssw,I,Swati,ZA
 r5,Q103OTHER,6,SOMALI,som,I,Somali,KE
 r5,Q103OTHER,8,STANDARD ENGLISH,eng,I,English,LR
@@ -493,7 +494,7 @@ r5,Q2OTHER,14,ANGAS,anc,I,Ngas,NG
 r5,Q2OTHER,27,APPOLO,nzi,I,Nzima,CI
 r5,Q2OTHER,26,ARABE CHOA,shu,I,Chadian Arabic,CM
 r5,Q2OTHER,26,ARABE CHOA,ara,M,Arabic,CM
-r5,Q2OTHER,6,ARABIC,arb,I,Standard Arabic,KE
+r5,Q2OTHER,6,ARABIC,acx,I,Omani Arabic,KE
 r5,Q2OTHER,6,ARABIC,ara,M,Arabic,KE
 r5,Q2OTHER,18,ARINGA,luc,I,Aringa,UG
 r5,Q2OTHER,24,ASHANTI,mis,S,Uncoded languages,TG
@@ -607,7 +608,7 @@ r5,Q2OTHER,5,CHIMULLU,ncu,I,Chumburung,GH
 r5,Q2OTHER,10,CHINAMWANGA,mis,S,Uncoded languages,MW
 r5,Q2OTHER,10,CHINDALI,ndh,I,Ndali,MW
 r5,Q2OTHER,10,CHINDALII,ndh,I,Ndali,MW
-r5,Q2OTHER,10,CHINDEBELE,mis,S,Uncoded languages,MW
+r5,Q2OTHER,10,CHINDEBELE,nde,I,North Ndebele,MW
 r5,Q2OTHER,16,CHINESE,cmn,I,Mandarin Chinese,ZA
 r5,Q2OTHER,16,CHINESE,zho,M,Chinese,ZA
 r5,Q2OTHER,12,CHINGONI,ngo,I,Ngoni,MZ
@@ -653,6 +654,7 @@ r5,Q2OTHER,26,ESU,mis,S,Uncoded languages,CM
 r5,Q2OTHER,14,ETSAKO,ets,I,Yekhee,NG
 r5,Q2OTHER,14,EZI DELTA IGBO,ibo,I,Igbo,NG
 r5,Q2OTHER,14,FAKUN,mis,S,Uncoded languages,NG
+r5,Q2OTHER,5,FANTE,fat,I,Fanti,GH
 r5,Q2OTHER,5,FANTE,aka,M,Akan,GH
 r5,Q2OTHER,1,FODO,mis,S,Uncoded languages,BJ
 r5,Q2OTHER,24,FON,fon,I,Fon,TG
@@ -952,7 +954,7 @@ r5,Q2OTHER,1,NATIMBA,ntm,I,Nateni,BJ
 r5,Q2OTHER,5,NAWURT,mis,S,Uncoded languages,GH
 r5,Q2OTHER,14,NBULA,ndr,I,Ndoola,NG
 r5,Q2OTHER,26,NCHANG,mis,S,Uncoded languages,CM
-r5,Q2OTHER,19,NDEBELE,mis,S,Uncoded languages,ZM
+r5,Q2OTHER,19,NDEBELE,nde,I,North Ndebele,ZM
 r5,Q2OTHER,26,NDI,www,I,Wawa,CM
 r5,Q2OTHER,27,NEYO,wec,I,Wè Western,CI
 r5,Q2OTHER,24,NGAM-GAM,gng,I,Ngangam,TG
@@ -1148,6 +1150,7 @@ r6,Q103OTHER,32,FRANCAIS,fra,I,French,TG
 r6,Q103OTHER,12,FRANCAISE,fra,I,French,GN
 r6,Q103OTHER,11,french,fra,I,French,GH
 r6,Q103OTHER,33,French,fra,I,French,TN
+r6,Q103OTHER,27,FULLAH,fuf,I,Pular,SL
 r6,Q103OTHER,27,FULLAH,ful,M,Fulah,SL
 r6,Q103OTHER,6,GHEMBA,mis,S,Uncoded languages,CM
 r6,Q103OTHER,11,Gonja,gjn,I,Gonja,GH
@@ -1662,6 +1665,7 @@ r6,Q2OTHER,34,KUMAM,kdi,I,Kumam,UG
 r6,Q2OTHER,13,Kuria,kuj,I,Kuria,KE
 r6,Q2OTHER,11,Kusal,kus,I,Kusaal,GH
 r6,Q2OTHER,24,KUTEB,kub,I,Kutep,NG
+r6,Q2OTHER,11,Kwahu,twi,I,Twi,GH
 r6,Q2OTHER,11,Kwahu,aka,M,Akan,GH
 r6,Q2OTHER,6,LAKA,mis,S,Uncoded languages,CM
 r6,Q2OTHER,35,lambia,mis,S,Uncoded languages,ZM
@@ -1817,8 +1821,8 @@ r6,Q2OTHER,11,Nawuri,naw,I,Nawuri,GH
 r6,Q2OTHER,6,NCHANI,mis,S,Uncoded languages,CM
 r6,Q2OTHER,6,NCHANIH,mis,S,Uncoded languages,CM
 r6,Q2OTHER,24,NDALA,ndr,I,Ndoola,NG
-r6,Q2OTHER,35,ndebele,mis,S,Uncoded languages,ZM
-r6,Q2OTHER,30,Ndebele,mis,S,Uncoded languages,SZ
+r6,Q2OTHER,35,ndebele,nde,I,North Ndebele,ZM
+r6,Q2OTHER,30,Ndebele,nbl,I,South Ndebele,SZ
 r6,Q2OTHER,3,NDEBELE,nde,I,North Ndebele,BW
 r6,Q2OTHER,6,NGAMBAYE,mis,S,Uncoded languages,CM
 r6,Q2OTHER,24,NGAS,anc,I,Ngas,NG

@@ -48,17 +48,36 @@
   question:
   - Q116
   wals_code: null
+  note: >-
+    TZ only
+- iso_639_3:
+    arq: [DZ]
+    arz: [EG]
+    ary: [MA]
+    apd: [SD]
+    aeb: [TN]
+  lang_id: 5
+  lang_name: Arabic
+  question:
+    - Q116
+    - Q2
+  wals_code:
+    amr: [MA, DZ]
+    atu: [TN, DZ]
+    aeg: [EG]
+    abb: [SD]
+  note: >-
+    Algeria (DZ), Egypt (EG), Morocco (MA), Sudan (SD), and Tunisia (TN)
 - iso_639_3:
   - arb
   lang_id: 5
   lang_name: Arabic
-  note: Since this applies to all surveys, standard arabic is all I can use.
   question:
   - Q103
-  - Q116
-  - Q2
-  wals_code:
-  - ams
+  wals_code: null
+  note: >-
+    For survey, use standard arabic.
+
 - iso_639_3:
   - ajg
   lang_id: 6
@@ -79,7 +98,8 @@
   - mey
   lang_id: 8
   lang_name: Arabe
-  note: Hassanyi Arabic, the form of Maghrebi Arabic spoken in Mali
+  note: >-
+    Mali. Hassanyi Arabic, the form of Maghrebi Arabic spoken in Mali
   question:
   - Q2
   wals_code: null
@@ -91,15 +111,15 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bsq
-  - bas
+    bsq: [LR]
+    bas: [CM]
   lang_id: 10
   lang_name: Bassa
   question:
   - Q2
   wals_code:
-  - kla
-  - bas
+    kla: [LR]
+    bas: [CM]
   note: >-
     In R6 used in Cameroon and Liberia. These are two distinct languages.
     Use
@@ -113,29 +133,20 @@
     - kla if Liberia
 
 - iso_639_3:
-  - cnu
-  - shi
-  - tzm
-  - zgh
-  - kab
-  - tzm
-  - oua
-  - tjo
-  - grr
-  - mzb
-  - rif
-  - shy
-  - tia
-  - thv
+    kab: [DZ]
+    shy: [DZ]
+    zgh: [MA]
+    shi: [MA, DZ]
+    rif: [MA]
+    tzm: [MA]
   lang_id: 11
   lang_name: Berber Language
   note: >-
-    Algeria and Morocco. All DZ and MA languages in the
+    Algeria (DZ) and Morocco (MA). All DZ and MA languages in the
     Berber subgroup https://www.ethnologue.com/subgroups/berber
   question:
   - Q2
-  wals_code:
-  - bma
+  wals_code: null
 - iso_639_3:
   - bib
   lang_id: 12
@@ -144,19 +155,19 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  # mali
-  - bmq
+    # mali
+    bmq: [ML]
   # BF
-  - bbo
-  - bwq
+    bbo: [BF]
+    bwq: [BF]
   lang_id: 13
   lang_name: Bobo
   question:
   - Q116
   - Q2
   wals_code:
-  - bbf
-  - kfe
+    bbf: [BF]
+    kfe: [ML]
   note: >-
     Used in both Mali and Burkina Faso but refer to unrelated langs.
     In BF it is a Mande language, and in Mali it is Gur language.
@@ -204,17 +215,17 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - fuh
-  - fuq
+    fuh: [NE, BF]
+    fuq: [NE]
   lang_id: 18
   lang_name: Fulfuldé
   question:
   - Q103
   - Q116
   - Q2
-  wals_code:
-  - fbf
-  - fli
+  wals_code: null
+  note: >-
+    Burkina Faso (BF) and Niger (NE)
 - iso_639_3:
   - hau
   lang_id: 19
@@ -232,25 +243,27 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - bms
-  - kby
-  - knc
-  - krt
+    bms: [NE]
+    knc: [NE, NG]
+    kby: [NE, NG]
+    krt: [NE]
   lang_id: 21
   lang_name: Kanuri
   question:
   - Q2
   wals_code: null
-- iso_639_3:
-  - kqs
-  - kss
-  lang_id: 22
+  note: >-
+    Niger (NE) and Nigeria (NG). Macrolanguage https://www-ethnologue-com.offcampus.lib.washington.edu/language/kau
+- lang_id: 22
   lang_name: Kissi
   question:
   - Q2
-  wals_code:
-  - kis
-  - kss
+  wals_code: null
+  iso_639_3:
+    kqs: [SL]
+    kss: [LR, SL]
+  note: >-
+    Liberia (LR) and  Sierra Leone (SR)
 - iso_639_3:
   - lob
   lang_id: 23
@@ -280,13 +293,15 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - nbl
-  - nde
+    nbl: [ZA]
+    nde: [ZW]
   lang_id: 27
   lang_name: Ndebele
   question:
   - Q2
   wals_code: null
+  note: >-
+    Zimbabwe (ZW) and South Africa (ZA)
 - iso_639_3:
   - nya
   lang_id: 28
@@ -296,33 +311,35 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - fue
-  - fuh
+    fue: [BJ, TG]
+    fuh: [BJ]
   lang_id: 29
   lang_name: Peulh
   question:
   - Q2
-  wals_code:
-  - fgu
-  - fum
+  wals_code: null
+  note: >-
+    Benin (BJ) and Togo (TG)
 - iso_639_3:
-  - dyi
-  - plr
-  - seb
-  - sef
-  - sen
-  - sep
-  - seq
-  - sev
-  - tgw
+    xrb: [BF]
+    kza: [BF]
+    plr: [CI]
+    sef: [CI]
+    seq: [BF]
+    sen: [BF]
+    seb: [CI]
+    sep: [BF]
+    dyi: [CI]
+    sev: [CI]
+    tgw: [CI]
   lang_id: 30
   lang_name: Sénoufo
   question:
   - Q2
-  wals_code:
-  - dym
-  - nrg
-  - snd
+  wals_code: null
+  note: >-
+    Burkina Faso (BF) and Ivory Coast (CI). Use respective langs
+    for each from https://www.ethnologue.com/subgroups/senufo
 - iso_639_3:
   - tsn
   lang_id: 31
@@ -331,17 +348,20 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - taq
-  - thv
-  - ttq
+    taq: [ML]
+    thv: [NE]
+    ttq:  [NE, ML]
+    thz: [NE]
   lang_id: 32
   lang_name: Tamasheq
   question:
   - Q103
   - Q116
   - Q2
-  wals_code:
-  - tsk
+  wals_code: null
+  note: >-
+    Mali (ML) and Niger (NE).
+    Tamasheq Macrolang. http://www-01.sil.org/iso639-3/documentation.asp?id=tmh
 - iso_639_3:
   - toi
   lang_id: 33
@@ -414,9 +434,7 @@
   lang_name: Peulh
   question:
   - Q103
-  wals_code:
-  - fgu
-  - fum
+  wals_code: null
 - iso_639_3:
   - tbz
   lang_id: 105
@@ -736,11 +754,15 @@
   - mos
   lang_id: 266
   lang_name: Moshie
-  note: Moshi, Mossi, or Moore.
   question:
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Ghana. Ethnologue does not show Moore (Mossi, Moshie)
+    spoken in Ghana. It is closely
+    related to Mmpruli, Frafra, and Dagbanai, but these are all also
+    listed.
 - iso_639_3:
   - maw
   lang_id: 267
@@ -1052,7 +1074,7 @@
   question:
   - Q103
   wals_code:
-  - npi
+  - eng
 - iso_639_3:
   - bsq
   lang_id: 380
@@ -1176,7 +1198,7 @@
   question:
   - Q2
   wals_code:
-  - npi
+  - eng
 - iso_639_3:
   - plt
   lang_id: 420
@@ -1419,14 +1441,17 @@
   - Q2
   wals_code: null
 - iso_639_3:
+  - myk
   - spp
+  - shz
   lang_id: 516
   lang_name: Senufo
-  note: Senoufo or Supyire.
   question:
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Mali. https://www.ethnologue.com/subgroups/senufo
 - iso_639_3:
   - snk
   lang_id: 517
@@ -1992,9 +2017,7 @@
   question:
   - Q116
   - Q2
-  wals_code:
-  - bam
-  - mdk
+  wals_code: null
 - iso_639_3:
   - snk
   lang_id: 664
@@ -2106,8 +2129,7 @@
   lang_name: Shangaan/Tsonga
   question:
   - Q2
-  wals_code:
-  - tsn
+  wals_code: null
 - iso_639_3:
   - ssw
   lang_id: 707
@@ -2982,13 +3004,15 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - nso
+  - tsn
   lang_id: 872
   lang_name: Suthu
-  note: In ZW, probably north Sotho
   question:
   - Q2
   wals_code: null
+  note: >-
+    Zimbabwe (ZW). Tswana is more widely spoken in Zimbabwe and highly
+    intelligible with North and South Sotho https://www.ethnologue.com/language/tsn.
 - iso_639_3:
   - mfe
   lang_id: 900
@@ -3054,7 +3078,9 @@
   - fuf
   lang_id: 936
   lang_name: Fulla
-  note: Fula languag spoken in Guinea and Sierra Leonee
+  note: >-
+    Fula language spoken in Guinea and Sierra Leone. For WALS, use
+    the Guinea version.
   question:
   - Q2
   wals_code:
@@ -3209,8 +3235,7 @@
   lang_name: Gourma
   question:
   - Q2
-  wals_code:
-  - gut
+  wals_code: null
 - iso_639_3:
   - xon
   lang_id: 1153
@@ -3659,10 +3684,10 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - dyi
   - plr
-  - seb
   - sef
+  - seb
+  - dyi
   - sev
   - tgw
   lang_id: 1277
@@ -3670,6 +3695,8 @@
   question:
   - Q116
   wals_code: null
+  note: >-
+    Ivory Coast. Use Ivory Coast langs in https://www.ethnologue.com/subgroups/senufo
 - iso_639_3:
   - dnj
   lang_id: 1278
@@ -3896,8 +3923,7 @@
   note: Tsonga (Shangaan or Changana is a dialect)
   question:
   - Q2
-  wals_code:
-  - tsn
+  wals_code: null
 - iso_639_3:
   - aoa
   lang_id: 1660
