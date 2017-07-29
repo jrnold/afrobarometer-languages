@@ -4245,6 +4245,7 @@ cno,puk,prk,2,0
 cns,asm,tml,1,1
 cnt,cte,cnt,0,1
 cnu,bch,shy,1,1
+cnu,bfg,grr,1,1
 cnu,bmz,mzb,1,1
 cnu,bou,oua,1,1
 cnu,kbl,kab,1,1
@@ -7437,6 +7438,7 @@ ggt,kkv,khl,2,1
 ggu,bnq,nhb,1,1
 ggw,gog,ggw,0,1
 gha,bch,shy,2,0
+gha,bfg,grr,2,0
 gha,bmz,mzb,2,0
 gha,bou,oua,2,0
 gha,brf,rif,2,0
@@ -7895,8 +7897,7 @@ grq,kie,geb,2,1
 grq,mkr,msy,2,1
 grq,rao,rao,2,1
 grq,wtm,wax,2,1
-grr,bmz,mzb,1,1
-grr,bou,oua,1,1
+grr,bfg,grr,0,1
 grs,kmt,kmt,1,1
 grs,nim,nir,1,1
 grt,gar,grt,0,1
@@ -9656,6 +9657,7 @@ jbi,wan,xwk,1,1
 jbj,ard,jbj,0,1
 jbk,rum,klq,2,1
 jbn,bch,shy,2,0
+jbn,bfg,grr,2,0
 jbn,bmz,mzb,2,0
 jbn,bou,oua,2,0
 jbn,brf,rif,2,0
@@ -19903,6 +19905,7 @@ sdr,bho,bho,1,0
 sdr,mai,mai,1,0
 sdr,mgh,mag,1,0
 sds,bch,shy,2,0
+sds,bfg,grr,2,0
 sds,bmz,mzb,2,0
 sds,bou,oua,2,0
 sds,brf,rif,2,0
@@ -21940,6 +21943,7 @@ thy,mum,mzm,3,1
 thy,sle,ndi,3,1
 thz,tsk,taq,1,0
 tia,bch,shy,2,1
+tia,bfg,grr,2,1
 tia,bmz,mzb,2,1
 tia,bou,oua,2,1
 tic,mro,mor,1,1
@@ -22004,6 +22008,7 @@ tji,rgc,jya,2,1
 tjl,khn,kkh,1,1
 tjl,sha,shn,1,1
 tjn,jel,jek,2,1
+tjo,bfg,grr,1,1
 tjo,bmz,mzb,1,1
 tjo,bou,oua,1,1
 tjs,bai,bca,2,1

@@ -43,6 +43,7 @@ aar,bad,3
 aar,ban,3
 aar,bch,3
 aar,bej,3
+aar,bfg,3
 aar,bid,3
 aar,bln,3
 aar,blq,3
@@ -206,6 +207,7 @@ abb,bad,5
 abb,ban,5
 abb,bch,5
 abb,bej,5
+abb,bfg,5
 abb,bid,5
 abb,bln,5
 abb,blq,5
@@ -713,6 +715,7 @@ abe,bad,5
 abe,ban,5
 abe,bch,5
 abe,bej,5
+abe,bfg,5
 abe,bid,5
 abe,bln,5
 abe,blq,5
@@ -855,6 +858,7 @@ abh,bad,5
 abh,ban,5
 abh,bch,5
 abh,bej,5
+abh,bfg,5
 abh,bid,5
 abh,bln,5
 abh,blq,5
@@ -1199,6 +1203,7 @@ abo,atu,4
 abo,bad,4
 abo,ban,4
 abo,bch,4
+abo,bfg,4
 abo,bid,4
 abo,blq,4
 abo,bma,4
@@ -3382,6 +3387,7 @@ aeg,bad,5
 aeg,ban,5
 aeg,bch,5
 aeg,bej,5
+aeg,bfg,5
 aeg,bid,5
 aeg,bln,5
 aeg,blq,5
@@ -3524,6 +3530,7 @@ ael,bad,5
 ael,ban,5
 ael,bch,5
 ael,bej,5
+ael,bfg,5
 ael,bid,5
 ael,bln,5
 ael,blq,5
@@ -5725,6 +5732,7 @@ agw,atu,3
 agw,bad,3
 agw,ban,3
 agw,bch,3
+agw,bfg,3
 agw,bid,3
 agw,blq,3
 agw,bma,3
@@ -5898,6 +5906,7 @@ ahs,bad,5
 ahs,ban,5
 ahs,bch,5
 ahs,bej,5
+ahs,bfg,5
 ahs,bid,5
 ahs,bln,5
 ahs,blq,5
@@ -8830,6 +8839,7 @@ ako,bad,5
 ako,ban,5
 ako,bch,5
 ako,bej,5
+ako,bfg,5
 ako,bid,5
 ako,bln,5
 ako,blq,5
@@ -11961,6 +11971,7 @@ amh,bad,7
 amh,ban,7
 amh,bch,7
 amh,bej,7
+amh,bfg,7
 amh,bid,7
 amh,bln,7
 amh,blq,7
@@ -13587,6 +13598,7 @@ amr,bad,5
 amr,ban,5
 amr,bch,5
 amr,bej,5
+amr,bfg,5
 amr,bid,5
 amr,bln,5
 amr,blq,5
@@ -13729,6 +13741,7 @@ ams,bad,5
 ams,ban,5
 ams,bch,5
 ams,bej,5
+ams,bfg,5
 ams,bid,5
 ams,bln,5
 ams,blq,5
@@ -14245,6 +14258,7 @@ anc,atu,7
 anc,awn,7
 anc,bch,7
 anc,bej,7
+anc,bfg,7
 anc,bln,7
 anc,bma,7
 anc,bmz,7
@@ -14686,6 +14700,7 @@ anl,bad,5
 anl,ban,5
 anl,bch,5
 anl,bej,5
+anl,bfg,5
 anl,bid,5
 anl,bln,5
 anl,blq,5
@@ -15904,6 +15919,7 @@ apa,bad,5
 apa,ban,5
 apa,bch,5
 apa,bej,5
+apa,bfg,5
 apa,bid,5
 apa,bln,5
 apa,blq,5
@@ -16619,6 +16635,7 @@ arg,bad,5
 arg,ban,5
 arg,bch,5
 arg,bej,5
+arg,bfg,5
 arg,bid,5
 arg,bln,5
 arg,blq,5
@@ -16761,6 +16778,7 @@ arh,bad,5
 arh,ban,5
 arh,bch,5
 arh,bej,5
+arh,bfg,5
 arh,bid,5
 arh,bln,5
 arh,blq,5
@@ -17219,6 +17237,7 @@ arj,bad,5
 arj,ban,5
 arj,bch,5
 arj,bej,5
+arj,bfg,5
 arj,bid,5
 arj,bln,5
 arj,blq,5
@@ -17675,6 +17694,7 @@ arl,bad,5
 arl,ban,5
 arl,bch,5
 arl,bej,5
+arl,bfg,5
 arl,bid,5
 arl,bln,5
 arl,blq,5
@@ -17987,6 +18007,7 @@ arn,bad,5
 arn,ban,5
 arn,bch,5
 arn,bej,5
+arn,bfg,5
 arn,bid,5
 arn,bln,5
 arn,blq,5
@@ -18458,6 +18479,7 @@ arq,bad,5
 arq,ban,5
 arq,bch,5
 arq,bej,5
+arq,bfg,5
 arq,bid,5
 arq,bln,5
 arq,blq,5
@@ -18759,6 +18781,7 @@ ars,bad,5
 ars,ban,5
 ars,bch,5
 ars,bej,5
+ars,bfg,5
 ars,bid,5
 ars,bln,5
 ars,blq,5
@@ -18900,6 +18923,7 @@ arv,bad,5
 arv,ban,5
 arv,bch,5
 arv,bej,5
+arv,bfg,5
 arv,bid,5
 arv,bln,5
 arv,blq,5
@@ -20294,6 +20318,7 @@ asy,bad,5
 asy,ban,5
 asy,bch,5
 asy,bej,5
+asy,bfg,5
 asy,bid,5
 asy,bln,5
 asy,blq,5
@@ -21651,6 +21676,7 @@ atu,bad,5
 atu,ban,5
 atu,bch,5
 atu,bej,5
+atu,bfg,5
 atu,bid,5
 atu,bln,5
 atu,blq,5
@@ -24081,6 +24107,7 @@ awn,atu,4
 awn,bad,4
 awn,ban,4
 awn,bch,4
+awn,bfg,4
 awn,bid,4
 awn,blq,4
 awn,bma,4
@@ -25753,6 +25780,7 @@ bad,atu,6
 bad,awn,6
 bad,bch,6
 bad,bej,6
+bad,bfg,6
 bad,bln,6
 bad,bma,6
 bad,bmz,6
@@ -27922,6 +27950,7 @@ ban,atu,5
 ban,awn,5
 ban,bch,5
 ban,bej,5
+ban,bfg,5
 ban,bln,5
 ban,bma,5
 ban,bmz,5
@@ -30806,6 +30835,7 @@ bca,wrw,3
 bca,wry,3
 bca,yuk,3
 bca,ywr,3
+bch,bfg,2
 bch,bmz,2
 bch,bou,2
 bch,brf,2
@@ -32714,6 +32744,7 @@ bej,atu,3
 bej,bad,3
 bej,ban,3
 bej,bch,3
+bej,bfg,3
 bej,bid,3
 bej,blq,3
 bej,bma,3
@@ -34353,6 +34384,149 @@ bfd,tia,6
 bfd,vai,6
 bfd,wna,6
 bfd,xas,6
+bfg,bmz,1
+bfg,bou,1
+bfg,bch,2
+bfg,brf,2
+bfg,bma,3
+bfg,bse,3
+bfg,kbl,3
+bfg,tas,3
+bfg,bsi,4
+bfg,tai,4
+bfg,tgh,4
+bfg,tsk,4
+bfg,tug,4
+bfg,zen,4
+bfg,aar,5
+bfg,abb,5
+bfg,abe,5
+bfg,abh,5
+bfg,abo,5
+bfg,aeg,5
+bfg,ael,5
+bfg,agw,5
+bfg,ahs,5
+bfg,ako,5
+bfg,amh,5
+bfg,amr,5
+bfg,ams,5
+bfg,anc,5
+bfg,anl,5
+bfg,apa,5
+bfg,arg,5
+bfg,arh,5
+bfg,arj,5
+bfg,arl,5
+bfg,arn,5
+bfg,arq,5
+bfg,ars,5
+bfg,arv,5
+bfg,asy,5
+bfg,atu,5
+bfg,awn,5
+bfg,bad,5
+bfg,ban,5
+bfg,bej,5
+bfg,bid,5
+bfg,bln,5
+bfg,blq,5
+bfg,bpa,5
+bfg,brj,5
+bfg,brn,5
+bfg,bth,5
+bfg,bud,5
+bfg,bys,5
+bfg,chh,5
+bfg,cld,5
+bfg,cop,5
+bfg,dab,5
+bfg,dah,5
+bfg,dha,5
+bfg,dim,5
+bfg,diz,5
+bfg,dnw,5
+bfg,dug,5
+bfg,gam,5
+bfg,gdf,5
+bfg,gdr,5
+bfg,gim,5
+bfg,giz,5
+bfg,gnd,5
+bfg,goe,5
+bfg,gor,5
+bfg,gud,5
+bfg,hau,5
+bfg,hba,5
+bfg,hdi,5
+bfg,heb,5
+bfg,hmr,5
+bfg,hna,5
+bfg,hrr,5
+bfg,hrs,5
+bfg,irq,5
+bfg,jib,5
+bfg,kef,5
+bfg,kem,5
+bfg,ker,5
+bfg,kjr,5
+bfg,klb,5
+bfg,knk,5
+bfg,ktk,5
+bfg,kul,5
+bfg,kwm,5
+bfg,lag,5
+bfg,lam,5
+bfg,lel,5
+bfg,lmg,5
+bfg,mas,5
+bfg,mbr,5
+bfg,mda,5
+bfg,meh,5
+bfg,mgu,5
+bfg,mig,5
+bfg,miy,5
+bfg,mko,5
+bfg,mle,5
+bfg,mlg,5
+bfg,mlt,5
+bfg,mma,5
+bfg,moc,5
+bfg,mof,5
+bfg,mrg,5
+bfg,muh,5
+bfg,mup,5
+bfg,naa,5
+bfg,naj,5
+bfg,nap,5
+bfg,ngz,5
+bfg,nsy,5
+bfg,orb,5
+bfg,orh,5
+bfg,orw,5
+bfg,owc,5
+bfg,paa,5
+bfg,per,5
+bfg,pod,5
+bfg,qaf,5
+bfg,ren,5
+bfg,ron,5
+bfg,sao,5
+bfg,sid,5
+bfg,sod,5
+bfg,som,5
+bfg,soq,5
+bfg,ssh,5
+bfg,tan,5
+bfg,tbe,5
+bfg,ter,5
+bfg,tgr,5
+bfg,tig,5
+bfg,tmk,5
+bfg,uld,5
+bfg,wly,5
+bfg,yms,5
+bfg,zay,5
 bfi,bas,2
 bfi,bga,2
 bfi,bkn,2
@@ -37410,6 +37584,7 @@ bid,atu,6
 bid,awn,6
 bid,bch,6
 bid,bej,6
+bid,bfg,6
 bid,bln,6
 bid,bma,6
 bid,bmz,6
@@ -43646,6 +43821,7 @@ bln,atu,4
 bln,bad,4
 bln,ban,4
 bln,bch,4
+bln,bfg,4
 bln,bid,4
 bln,blq,4
 bln,bma,4
@@ -43813,6 +43989,7 @@ blq,atu,7
 blq,awn,7
 blq,bch,7
 blq,bej,7
+blq,bfg,7
 blq,bln,7
 blq,bma,7
 blq,bmz,7
@@ -44937,6 +45114,7 @@ blz,wna,6
 blz,xas,6
 bma,tas,1
 bma,bch,2
+bma,bfg,2
 bma,bmz,2
 bma,bou,2
 bma,brf,2
@@ -45934,6 +46112,7 @@ bmr,ygr,4
 bmr,yli,4
 bmr,yqy,4
 bmr,zim,4
+bmz,bfg,1
 bmz,bou,1
 bmz,bch,2
 bmz,brf,2
@@ -50959,6 +51138,7 @@ bos,ydl,5
 bos,ygn,5
 bos,ylt,5
 bos,zaz,5
+bou,bfg,1
 bou,bmz,1
 bou,bch,2
 bou,brf,2
@@ -51543,6 +51723,7 @@ bpa,atu,6
 bpa,awn,6
 bpa,bch,6
 bpa,bej,6
+bpa,bfg,6
 bpa,bln,6
 bpa,bma,6
 bpa,bmz,6
@@ -53021,6 +53202,7 @@ bre,ygn,4
 bre,ylt,4
 bre,zaz,4
 brf,bch,2
+brf,bfg,2
 brf,bmz,2
 brf,bou,2
 brf,bma,3
@@ -53246,6 +53428,7 @@ brj,atu,4
 brj,bad,4
 brj,ban,4
 brj,bch,4
+brj,bfg,4
 brj,bid,4
 brj,blq,4
 brj,bma,4
@@ -53683,6 +53866,7 @@ brn,atu,3
 brn,bad,3
 brn,ban,3
 brn,bch,3
+brn,bfg,3
 brn,bid,3
 brn,blq,3
 brn,bma,3
@@ -54136,6 +54320,7 @@ brz,zag,7
 brz,zar,7
 bse,tas,1
 bse,bch,2
+bse,bfg,2
 bse,bmz,2
 bse,bou,2
 bse,brf,2
@@ -54644,6 +54829,7 @@ bsh,vai,10
 bsh,wna,10
 bsh,xas,10
 bsi,bch,3
+bsi,bfg,3
 bsi,bma,3
 bsi,bmz,3
 bsi,bou,3
@@ -55431,6 +55617,7 @@ bth,bad,4
 bth,ban,4
 bth,bch,4
 bth,bej,4
+bth,bfg,4
 bth,bid,4
 bth,bln,4
 bth,blq,4
@@ -56759,6 +56946,7 @@ bud,atu,6
 bud,awn,6
 bud,bch,6
 bud,bej,6
+bud,bfg,6
 bud,bln,6
 bud,bma,6
 bud,bmz,6
@@ -61337,6 +61525,7 @@ bys,atu,4
 bys,bad,4
 bys,ban,4
 bys,bch,4
+bys,bfg,4
 bys,bid,4
 bys,blq,4
 bys,bma,4
@@ -63863,6 +64052,7 @@ chh,bad,7
 chh,ban,7
 chh,bch,7
 chh,bej,7
+chh,bfg,7
 chh,bid,7
 chh,bln,7
 chh,blq,7
@@ -66247,6 +66437,7 @@ cld,bad,7
 cld,ban,7
 cld,bch,7
 cld,bej,7
+cld,bfg,7
 cld,bid,7
 cld,bln,7
 cld,blq,7
@@ -68089,6 +68280,7 @@ cop,bad,2
 cop,ban,2
 cop,bch,2
 cop,bej,2
+cop,bfg,2
 cop,bid,2
 cop,bln,2
 cop,blq,2
@@ -72398,6 +72590,7 @@ dab,atu,5
 dab,awn,5
 dab,bch,5
 dab,bej,5
+dab,bfg,5
 dab,bln,5
 dab,bma,5
 dab,bmz,5
@@ -72759,6 +72952,7 @@ dah,atu,3
 dah,bad,3
 dah,ban,3
 dah,bch,3
+dah,bfg,3
 dah,bid,3
 dah,blq,3
 dah,bma,3
@@ -78219,6 +78413,7 @@ dha,atu,4
 dha,bad,4
 dha,ban,4
 dha,bch,4
+dha,bfg,4
 dha,bid,4
 dha,blq,4
 dha,bma,4
@@ -79718,6 +79913,7 @@ dim,bad,3
 dim,ban,3
 dim,bch,3
 dim,bej,3
+dim,bfg,3
 dim,bid,3
 dim,bln,3
 dim,blq,3
@@ -80477,6 +80673,7 @@ diz,bad,4
 diz,ban,4
 diz,bch,4
 diz,bej,4
+diz,bfg,4
 diz,bid,4
 diz,bln,4
 diz,blq,4
@@ -82944,6 +83141,7 @@ dnw,atu,6
 dnw,awn,6
 dnw,bch,6
 dnw,bej,6
+dnw,bfg,6
 dnw,bln,6
 dnw,bma,6
 dnw,bmz,6
@@ -85925,6 +86123,7 @@ dug,atu,4
 dug,bad,4
 dug,ban,4
 dug,bch,4
+dug,bfg,4
 dug,bid,4
 dug,blq,4
 dug,bma,4
@@ -103571,6 +103770,7 @@ gam,bad,8
 gam,ban,8
 gam,bch,8
 gam,bej,8
+gam,bfg,8
 gam,bid,8
 gam,bln,8
 gam,blq,8
@@ -106214,6 +106414,7 @@ gdf,atu,7
 gdf,awn,7
 gdf,bch,7
 gdf,bej,7
+gdf,bfg,7
 gdf,bln,7
 gdf,bma,7
 gdf,bmz,7
@@ -106775,6 +106976,7 @@ gdr,atu,4
 gdr,awn,4
 gdr,bch,4
 gdr,bej,4
+gdr,bfg,4
 gdr,bln,4
 gdr,bma,4
 gdr,bmz,4
@@ -108862,6 +109064,7 @@ gim,bad,7
 gim,ban,7
 gim,bch,7
 gim,bej,7
+gim,bfg,7
 gim,bid,7
 gim,bln,7
 gim,blq,7
@@ -109403,6 +109606,7 @@ giz,atu,5
 giz,awn,5
 giz,bch,5
 giz,bej,5
+giz,bfg,5
 giz,bln,5
 giz,bma,5
 giz,bmz,5
@@ -111332,6 +111536,7 @@ gnd,atu,6
 gnd,awn,6
 gnd,bch,6
 gnd,bej,6
+gnd,bfg,6
 gnd,bln,6
 gnd,bma,6
 gnd,bmz,6
@@ -111872,6 +112077,7 @@ goe,atu,7
 goe,awn,7
 goe,bch,7
 goe,bej,7
+goe,bfg,7
 goe,bln,7
 goe,bma,7
 goe,bmz,7
@@ -113180,6 +113386,7 @@ gor,atu,3
 gor,bad,3
 gor,ban,3
 gor,bch,3
+gor,bfg,3
 gor,bid,3
 gor,blq,3
 gor,bma,3
@@ -117002,6 +117209,7 @@ gud,atu,5
 gud,awn,5
 gud,bch,5
 gud,bej,5
+gud,bfg,5
 gud,bln,5
 gud,bma,5
 gud,bmz,5
@@ -122273,6 +122481,7 @@ hau,atu,5
 hau,awn,5
 hau,bch,5
 hau,bej,5
+hau,bfg,5
 hau,bln,5
 hau,bma,5
 hau,bmz,5
@@ -122861,6 +123070,7 @@ hba,bad,5
 hba,ban,5
 hba,bch,5
 hba,bej,5
+hba,bfg,5
 hba,bid,5
 hba,bln,5
 hba,blq,5
@@ -123058,6 +123268,7 @@ hdi,atu,6
 hdi,awn,6
 hdi,bch,6
 hdi,bej,6
+hdi,bfg,6
 hdi,bln,6
 hdi,bma,6
 hdi,bmz,6
@@ -123176,6 +123387,7 @@ heb,bad,5
 heb,ban,5
 heb,bch,5
 heb,bej,5
+heb,bfg,5
 heb,bid,5
 heb,bln,5
 heb,blq,5
@@ -125397,6 +125609,7 @@ hmr,bad,3
 hmr,ban,3
 hmr,bch,3
 hmr,bej,3
+hmr,bfg,3
 hmr,bid,3
 hmr,bln,3
 hmr,blq,3
@@ -125575,6 +125788,7 @@ hna,atu,5
 hna,awn,5
 hna,bch,5
 hna,bej,5
+hna,bfg,5
 hna,bln,5
 hna,bma,5
 hna,bmz,5
@@ -127379,6 +127593,7 @@ hrr,bad,7
 hrr,ban,7
 hrr,bch,7
 hrr,bej,7
+hrr,bfg,7
 hrr,bid,7
 hrr,bln,7
 hrr,blq,7
@@ -127521,6 +127736,7 @@ hrs,bad,4
 hrs,ban,4
 hrs,bch,4
 hrs,bej,4
+hrs,bfg,4
 hrs,bid,4
 hrs,bln,4
 hrs,blq,4
@@ -135677,6 +135893,7 @@ irq,atu,3
 irq,bad,3
 irq,ban,3
 irq,bch,3
+irq,bfg,3
 irq,bid,3
 irq,blq,3
 irq,bma,3
@@ -142038,6 +142255,7 @@ jib,bad,4
 jib,ban,4
 jib,bch,4
 jib,bej,4
+jib,bfg,4
 jib,bid,4
 jib,bln,4
 jib,blq,4
@@ -147663,6 +147881,7 @@ kbi,taq,5
 kbi,wuc,5
 kbi,xia,5
 kbl,bch,2
+kbl,bfg,2
 kbl,bma,2
 kbl,bmz,2
 kbl,bou,2
@@ -149426,6 +149645,7 @@ kef,bad,6
 kef,ban,6
 kef,bch,6
 kef,bej,6
+kef,bfg,6
 kef,bid,6
 kef,bln,6
 kef,blq,6
@@ -150232,6 +150452,7 @@ kem,atu,4
 kem,bad,4
 kem,ban,4
 kem,bch,4
+kem,bfg,4
 kem,bid,4
 kem,blq,4
 kem,bma,4
@@ -150805,6 +151026,7 @@ ker,atu,5
 ker,awn,5
 ker,bch,5
 ker,bej,5
+ker,bfg,5
 ker,bln,5
 ker,bma,5
 ker,bmz,5
@@ -157410,6 +157632,7 @@ kjr,bad,8
 kjr,ban,8
 kjr,bch,8
 kjr,bej,8
+kjr,bfg,8
 kjr,bid,8
 kjr,bln,8
 kjr,blq,8
@@ -160126,6 +160349,7 @@ klb,atu,6
 klb,awn,6
 klb,bch,6
 klb,bej,6
+klb,bfg,6
 klb,bln,6
 klb,bma,6
 klb,bmz,6
@@ -165124,6 +165348,7 @@ knk,atu,7
 knk,awn,7
 knk,bch,7
 knk,bej,7
+knk,bfg,7
 knk,bln,7
 knk,bma,7
 knk,bmz,7
@@ -175511,6 +175736,7 @@ ktk,atu,7
 ktk,awn,7
 ktk,bch,7
 ktk,bej,7
+ktk,bfg,7
 ktk,bln,7
 ktk,bma,7
 ktk,bmz,7
@@ -176924,6 +177150,7 @@ kul,bad,8
 kul,ban,8
 kul,bch,8
 kul,bej,8
+kul,bfg,8
 kul,bid,8
 kul,bln,8
 kul,blq,8
@@ -178721,6 +178948,7 @@ kwm,atu,7
 kwm,awn,7
 kwm,bch,7
 kwm,bej,7
+kwm,bfg,7
 kwm,bln,7
 kwm,bma,7
 kwm,bmz,7
@@ -182361,6 +182589,7 @@ lag,atu,7
 lag,awn,7
 lag,bch,7
 lag,bej,7
+lag,bfg,7
 lag,bln,7
 lag,bma,7
 lag,bmz,7
@@ -182975,6 +183204,7 @@ lam,atu,3
 lam,awn,3
 lam,bch,3
 lam,bej,3
+lam,bfg,3
 lam,bln,3
 lam,bma,3
 lam,bmz,3
@@ -186100,6 +186330,7 @@ lel,atu,6
 lel,awn,6
 lel,bch,6
 lel,bej,6
+lel,bfg,6
 lel,bln,6
 lel,bma,6
 lel,bmz,6
@@ -191465,6 +191696,7 @@ lmg,atu,6
 lmg,awn,6
 lmg,bch,6
 lmg,bej,6
+lmg,bfg,6
 lmg,bln,6
 lmg,bma,6
 lmg,bmz,6
@@ -202205,6 +202437,7 @@ mas,atu,3
 mas,awn,3
 mas,bch,3
 mas,bej,3
+mas,bfg,3
 mas,bln,3
 mas,bma,3
 mas,bmz,3
@@ -204905,6 +205138,7 @@ mbr,atu,5
 mbr,awn,5
 mbr,bch,5
 mbr,bej,5
+mbr,bfg,5
 mbr,bln,5
 mbr,bma,5
 mbr,bmz,5
@@ -205914,6 +206148,7 @@ mda,atu,5
 mda,awn,5
 mda,bch,5
 mda,bej,5
+mda,bfg,5
 mda,bln,5
 mda,bma,5
 mda,bmz,5
@@ -209411,6 +209646,7 @@ meh,bad,4
 meh,ban,4
 meh,bch,4
 meh,bej,4
+meh,bfg,4
 meh,bid,4
 meh,bln,4
 meh,blq,4
@@ -212398,6 +212634,7 @@ mgu,atu,5
 mgu,awn,5
 mgu,bch,5
 mgu,bej,5
+mgu,bfg,5
 mgu,bln,5
 mgu,bma,5
 mgu,bmz,5
@@ -213439,6 +213676,7 @@ mig,atu,6
 mig,awn,6
 mig,bch,6
 mig,bej,6
+mig,bfg,6
 mig,bln,6
 mig,bma,6
 mig,bmz,6
@@ -214949,6 +215187,7 @@ miy,atu,5
 miy,awn,5
 miy,bch,5
 miy,bej,5
+miy,bfg,5
 miy,bln,5
 miy,bma,5
 miy,bmz,5
@@ -217642,6 +217881,7 @@ mko,atu,5
 mko,awn,5
 mko,bch,5
 mko,bej,5
+mko,bfg,5
 mko,bln,5
 mko,bma,5
 mko,bmz,5
@@ -219374,6 +219614,7 @@ mle,bad,7
 mle,ban,7
 mle,bch,7
 mle,bej,7
+mle,bfg,7
 mle,bid,7
 mle,bln,7
 mle,blq,7
@@ -219546,6 +219787,7 @@ mlg,atu,7
 mlg,awn,7
 mlg,bch,7
 mlg,bej,7
+mlg,bfg,7
 mlg,bln,7
 mlg,bma,7
 mlg,bmz,7
@@ -219945,6 +220187,7 @@ mlt,bad,5
 mlt,ban,5
 mlt,bch,5
 mlt,bej,5
+mlt,bfg,5
 mlt,bid,5
 mlt,bln,5
 mlt,blq,5
@@ -220721,6 +220964,7 @@ mma,bad,6
 mma,ban,6
 mma,bch,6
 mma,bej,6
+mma,bfg,6
 mma,bid,6
 mma,bln,6
 mma,blq,6
@@ -227129,6 +227373,7 @@ moc,bad,6
 moc,ban,6
 moc,bch,6
 moc,bej,6
+moc,bfg,6
 moc,bid,6
 moc,bln,6
 moc,blq,6
@@ -227324,6 +227569,7 @@ mof,atu,5
 mof,awn,5
 mof,bch,5
 mof,bej,5
+mof,bfg,5
 mof,bln,5
 mof,bma,5
 mof,bmz,5
@@ -230219,6 +230465,7 @@ mrg,atu,6
 mrg,awn,6
 mrg,bch,6
 mrg,bej,6
+mrg,bfg,6
 mrg,bln,6
 mrg,bma,6
 mrg,bmz,6
@@ -236579,6 +236826,7 @@ muh,bad,7
 muh,ban,7
 muh,bch,7
 muh,bej,7
+muh,bfg,7
 muh,bid,7
 muh,bln,7
 muh,blq,7
@@ -237228,6 +237476,7 @@ mup,atu,7
 mup,awn,7
 mup,bch,7
 mup,bej,7
+mup,bfg,7
 mup,bln,7
 mup,bma,7
 mup,bmz,7
@@ -242307,6 +242556,7 @@ naa,bad,7
 naa,ban,7
 naa,bch,7
 naa,bej,7
+naa,bfg,7
 naa,bid,7
 naa,bln,7
 naa,blq,7
@@ -243093,6 +243343,7 @@ naj,bad,7
 naj,ban,7
 naj,bch,7
 naj,bej,7
+naj,bfg,7
 naj,bid,7
 naj,bln,7
 naj,blq,7
@@ -243974,6 +244225,7 @@ nap,bad,7
 nap,ban,7
 nap,bch,7
 nap,bej,7
+nap,bfg,7
 nap,bid,7
 nap,bln,7
 nap,blq,7
@@ -255071,6 +255323,7 @@ ngz,atu,6
 ngz,awn,6
 ngz,bch,6
 ngz,bej,6
+ngz,bfg,6
 ngz,bln,6
 ngz,bma,6
 ngz,bmz,6
@@ -264081,6 +264334,7 @@ nsy,bad,7
 nsy,ban,7
 nsy,bch,7
 nsy,bej,7
+nsy,bfg,7
 nsy,bid,7
 nsy,bln,7
 nsy,blq,7
@@ -272492,6 +272746,7 @@ orb,atu,4
 orb,bad,4
 orb,ban,4
 orb,bch,4
+orb,bfg,4
 orb,bid,4
 orb,blq,4
 orb,bma,4
@@ -272671,6 +272926,7 @@ orh,atu,4
 orh,bad,4
 orh,ban,4
 orh,bch,4
+orh,bfg,4
 orh,bid,4
 orh,blq,4
 orh,bma,4
@@ -273606,6 +273862,7 @@ orw,atu,4
 orw,bad,4
 orw,ban,4
 orw,bch,4
+orw,bfg,4
 orw,bid,4
 orw,blq,4
 orw,bma,4
@@ -274477,6 +274734,7 @@ owc,atu,4
 owc,bad,4
 owc,ban,4
 owc,bch,4
+owc,bfg,4
 owc,bid,4
 owc,blq,4
 owc,bma,4
@@ -274819,6 +275077,7 @@ paa,atu,5
 paa,awn,5
 paa,bch,5
 paa,bej,5
+paa,bfg,5
 paa,bln,5
 paa,bma,5
 paa,bmz,5
@@ -277156,6 +277415,7 @@ per,atu,7
 per,awn,7
 per,bch,7
 per,bej,7
+per,bfg,7
 per,bln,7
 per,bma,7
 per,bmz,7
@@ -281813,6 +282073,7 @@ pod,atu,7
 pod,awn,7
 pod,bch,7
 pod,bej,7
+pod,bfg,7
 pod,bln,7
 pod,bma,7
 pod,bmz,7
@@ -286695,6 +286956,7 @@ qaf,atu,4
 qaf,bad,4
 qaf,ban,4
 qaf,bch,4
+qaf,bfg,4
 qaf,bid,4
 qaf,blq,4
 qaf,bma,4
@@ -289653,6 +289915,7 @@ ren,atu,4
 ren,bad,4
 ren,ban,4
 ren,bch,4
+ren,bfg,4
 ren,bid,4
 ren,blq,4
 ren,bma,4
@@ -293679,6 +293942,7 @@ ron,atu,6
 ron,awn,6
 ron,bch,6
 ron,bej,6
+ron,bfg,6
 ron,bln,6
 ron,bma,6
 ron,bmz,6
@@ -298717,6 +298981,7 @@ sao,atu,4
 sao,bad,4
 sao,ban,4
 sao,bch,4
+sao,bfg,4
 sao,bid,4
 sao,blq,4
 sao,bma,4
@@ -305128,6 +305393,7 @@ sid,atu,4
 sid,bad,4
 sid,ban,4
 sid,bch,4
+sid,bfg,4
 sid,bid,4
 sid,blq,4
 sid,bma,4
@@ -312608,6 +312874,7 @@ sod,bad,7
 sod,ban,7
 sod,bch,7
 sod,bej,7
+sod,bfg,7
 sod,bid,7
 sod,bln,7
 sod,blq,7
@@ -312756,6 +313023,7 @@ som,atu,4
 som,bad,4
 som,ban,4
 som,bch,4
+som,bfg,4
 som,bid,4
 som,blq,4
 som,bma,4
@@ -313235,6 +313503,7 @@ soq,bad,4
 soq,ban,4
 soq,bch,4
 soq,bej,4
+soq,bfg,4
 soq,bid,4
 soq,bln,4
 soq,blq,4
@@ -315992,6 +316261,7 @@ ssh,bad,6
 ssh,ban,6
 ssh,bch,6
 ssh,bej,6
+ssh,bfg,6
 ssh,bid,6
 ssh,bln,6
 ssh,blq,6
@@ -322376,6 +322646,7 @@ tah,thw,14
 tah,tso,14
 tai,tsk,2
 tai,bch,3
+tai,bfg,3
 tai,bma,3
 tai,bmz,3
 tai,bou,3
@@ -323592,6 +323863,7 @@ tan,atu,7
 tan,awn,7
 tan,bch,7
 tan,bej,7
+tan,bfg,7
 tan,bln,7
 tan,bma,7
 tan,bmz,7
@@ -324050,6 +324322,7 @@ tar,wur,4
 tas,bma,1
 tas,bse,1
 tas,bch,2
+tas,bfg,2
 tas,bmz,2
 tas,bou,2
 tas,brf,2
@@ -325361,6 +325634,7 @@ tbe,bad,5
 tbe,ban,5
 tbe,bch,5
 tbe,bej,5
+tbe,bfg,5
 tbe,bid,5
 tbe,bln,5
 tbe,blq,5
@@ -327976,6 +328250,7 @@ ter,atu,6
 ter,awn,6
 ter,bch,6
 ter,bej,6
+ter,bfg,6
 ter,bln,6
 ter,bma,6
 ter,bmz,6
@@ -329175,6 +329450,7 @@ tgb,thw,5
 tgb,tso,5
 tgh,tsk,2
 tgh,bch,3
+tgh,bfg,3
 tgh,bma,3
 tgh,bmz,3
 tgh,bou,3
@@ -330633,6 +330909,7 @@ tgr,bad,5
 tgr,ban,5
 tgr,bch,5
 tgr,bej,5
+tgr,bfg,5
 tgr,bid,5
 tgr,bln,5
 tgr,blq,5
@@ -333106,6 +333383,7 @@ tig,bad,5
 tig,ban,5
 tig,bch,5
 tig,bej,5
+tig,bfg,5
 tig,bid,5
 tig,bln,5
 tig,blq,5
@@ -337354,6 +337632,7 @@ tmk,atu,6
 tmk,awn,6
 tmk,bch,6
 tmk,bej,6
+tmk,bfg,6
 tmk,bln,6
 tmk,bma,6
 tmk,bmz,6
@@ -346638,6 +346917,7 @@ tsk,tai,2
 tsk,tgh,2
 tsk,tug,2
 tsk,bch,3
+tsk,bfg,3
 tsk,bma,3
 tsk,bmz,3
 tsk,bou,3
@@ -349576,6 +349856,7 @@ tuc,sec,3
 tuc,sin,3
 tug,tsk,2
 tug,bch,3
+tug,bfg,3
 tug,bma,3
 tug,bmz,3
 tug,bou,3
@@ -352072,6 +352353,7 @@ uld,atu,5
 uld,awn,5
 uld,bch,5
 uld,bej,5
+uld,bfg,5
 uld,bln,5
 uld,bma,5
 uld,bmz,5
@@ -363040,6 +363322,7 @@ wly,bad,8
 wly,ban,8
 wly,bch,8
 wly,bej,8
+wly,bfg,8
 wly,bid,8
 wly,bln,8
 wly,blq,8
@@ -376603,6 +376886,7 @@ yms,bad,6
 yms,ban,6
 yms,bch,6
 yms,bej,6
+yms,bfg,6
 yms,bid,6
 yms,bln,6
 yms,blq,6
@@ -379820,6 +380104,7 @@ zay,bad,8
 zay,ban,8
 zay,bch,8
 zay,bej,8
+zay,bfg,8
 zay,bid,8
 zay,bln,8
 zay,blq,8
@@ -380102,6 +380387,7 @@ zch,mtp,2
 zch,olu,2
 zch,say,2
 zen,bch,2
+zen,bfg,2
 zen,bma,2
 zen,bmz,2
 zen,bou,2
