@@ -196,6 +196,18 @@ if (nrow(distant_matches) > 0) {
   stop("Found multiple matches with seemingly unrelated ISO languages")
 }
 
+consistent_mappings <-
+  afrobarometer_to_iso %>%
+  group_by(round, question, lang_name, iso_alpha2) %>%
+  summarise(iso_639_3 = str_c(iso_639_3, collapse = " ")) %>%
+  group_by(iso_alpha2, lang_name, iso_639_3) %>%
+  filter(length(unique(iso_639_3)) > 1) %>%
+  arrange(lang_name, iso_alpha2)
+if (nrow(consistent_mappings)) {
+  print(consistent_mappings)
+  stop("There are inconsistent mappings in the ISO 639-3 mappings")
+}
+
 #' # Write Output
 afrobarometer_to_iso %>%
   write_csv(path = OUTPUT, na = "")

@@ -1568,14 +1568,14 @@
   question:
   - q110
   wals_code:
-  - nan
+  - "nan"
 - iso_639_3: [eyo, sgc, enb, niq, oki, pko, spy, tec, tuy]
   lang_id: 380
   lang_name: Kalejin
   question:
   - q83
   wals_code:
-  - nan
+  - "nan"
 - iso_639_3: [eyo, sgc, enb, niq, oki, pko, spy, tec, tuy]
   lang_id: 380
   lang_name: kalenjin

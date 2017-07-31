@@ -2048,7 +2048,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q103OTHER,34,LUNYOLE,UG,rny,Runyankore,1,2,1,1
 6,Q103OTHER,34,LUNYOLE,UG,rru,Runyoro-Rutooro,1,2,1,1
 6,Q103OTHER,34,LUNYOLE,UG,tal,Talinga,1,2,1,1
-6,Q103OTHER,34,LUSAMIA,UG,luy,Luyia,1,0,1,0
+6,Q103OTHER,34,LUSAMIA,UG,luy,Luyia,0,0,,
 6,Q103OTHER,34,NGAKARIMAJONG,UG,kmj,Karimojong,1,0,1,1
 6,Q103OTHER,34,RUFUMBIRA,UG,kin,Kinyarwanda,1,0,1,0
 6,Q103OTHER,34,RUNYARWANDA,UG,kin,Kinyarwanda,1,0,1,0
@@ -3212,7 +3212,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q2OTHER,34,BAGUNGU,UG,rny,Runyankore,1,2,1,1
 6,Q2OTHER,34,BAGUNGU,UG,rru,Runyoro-Rutooro,1,2,1,1
 6,Q2OTHER,34,BAGUNGU,UG,tal,Talinga,1,2,1,1
-6,Q2OTHER,34,BALUYA,UG,luy,Luyia,1,0,1,0
+6,Q2OTHER,34,BALUYA,UG,luy,Luyia,0,0,,
 6,Q2OTHER,34,KAKWA,UG,bar,Bari,1,1,0,0
 6,Q2OTHER,34,KAKWA,UG,kuk,Kukú,1,1,0,0
 6,Q2OTHER,34,KINYARWANDA,UG,kin,Kinyarwanda,1,0,1,0

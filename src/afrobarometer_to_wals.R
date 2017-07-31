@@ -104,6 +104,29 @@ afrobarometer_to_wals %<>%
          in_wals_country) %>%
   arrange(round, question, lang_id, country, wals_code)
 
+with(afrobarometer_to_wals, {
+  assert_that(all(!is.na(round)))
+  assert_that(is_integerish(round))
+
+  assert_that(is.character(question))
+  assert_that(all(!is.na(question)))
+
+  # Lang Id
+  assert_that(is.integer(lang_id))
+  assert_that(all(lang_id >= -1 & lang_id <= 9999))
+
+  # Lang Name
+  assert_that(all(!is.na(lang_name)))
+  assert_that(is.character(lang_name))
+
+  # Wals code
+  assert_that(is.character(wals_code))
+  assert_that(all(str_detect(na.omit(wals_code), misc_data$wals$code_pattern)))
+
+  # Wals name
+  assert_that(is.character(wals_name))
+})
+
 #' Check that all WALS codes are valid
 #'
 #' wals_codes can be missing, but if non-missing must appear in WALS dataset
@@ -185,29 +208,18 @@ if (nrow(matches_unrelated_langs) > 0) {
   stop("Unrelated WALS languages detected")
 }
 
-with(afrobarometer_to_wals, {
-  assert_that(all(!is.na(round)))
-  assert_that(is_integerish(round))
+consistent_mappings <-
+  afrobarometer_to_wals %>%
+  group_by(round, question, lang_name, iso_alpha2) %>%
+  summarise(wals_code = str_c(wals_code, collapse = " ")) %>%
+  group_by(iso_alpha2, lang_name, wals_code) %>%
+  filter(length(unique(wals_code)) > 1) %>%
+  arrange(lang_name, iso_alpha2)
+if (nrow(consistent_mappings)) {
+  print(consistent_mappings)
+  stop("There are inconsistent mappings in the WALS mappings")
+}
 
-  assert_that(is.character(question))
-  assert_that(all(!is.na(question)))
-
-  # Lang Id
-  assert_that(is.integer(lang_id))
-  assert_that(all(lang_id >= -1 & lang_id <= 9999))
-
-  # Lang Name
-  assert_that(all(!is.na(lang_name)))
-  assert_that(is.character(lang_name))
-
-  # Wals code
-  assert_that(is.character(wals_code))
-  assert_that(all(str_detect(na.omit(wals_code), misc_data$wals$code_pattern)))
-
-  # Wals name
-  assert_that(is.character(wals_name))
-
-})
 
 #' Write output
 write_afrobarometer_to_wals <- function(x, path) {

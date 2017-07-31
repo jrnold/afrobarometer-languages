@@ -547,7 +547,7 @@
   - q114
   - q3
   wals_code:
-  - nan
+  - "nan"
 - iso_639_3:
   - mas
   - saq

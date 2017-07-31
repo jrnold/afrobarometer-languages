@@ -247,6 +247,17 @@ are the largest.
 
 # Multiple Languages
 
-In r2, r3, and r4 there are entries for multiple languages.
+In r2, r3, and r4 there are entries for multiple languages, e.g. Afrikaans and English, etc.
 These are often used only for the interview question. I assume that
 the first language is the one that is primarily used.
+
+
+# WALS Macrolanguage Matches
+
+A few WALS codes have macrolanguages as ISO codes. They are:
+
+- Luyia: luy
+- Nandi (Kalenjin)
+- Akan
+
+There were manually matched since often the Afrobarometer 

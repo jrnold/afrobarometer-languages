@@ -481,11 +481,21 @@
   - language
   wals_code: null
 - iso_639_3:
+  - cll
+  - ntr
+  - kdh
   - xsm
+  - mzw
+  - sig
+  - sil
+  - ssl
+  - tpm
+  - vag
   lang_id: 71
   lang_name: Grusi
   note: >-
-    Kasem is the most widely spoken Grusi lang in Ghana.
+    Ghana. All languages in Niger-Congo, Atlantic-Congo, North, Gur, Central, Southern, Grusi
+    subgroup spoken in Ghana with status >= 6a.
   question:
   - language
   wals_code: null

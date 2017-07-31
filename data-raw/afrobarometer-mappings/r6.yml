@@ -920,7 +920,7 @@
   - Q103
   - Q2
   wals_code:
-  - nan
+  - "nan"
 - iso_639_3:
   - guz
   lang_id: 305

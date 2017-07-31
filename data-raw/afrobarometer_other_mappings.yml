@@ -3122,61 +3122,61 @@
   iso_639_3:
   - yao
   lang_name: yao
-- country: NA
+- country: "NA"
   iso_639_3:
   - xuu
   lang_name: barakwena
-- country: NA
+- country: "NA"
   iso_639_3:
   - mis
   lang_name: kavango
-- country: NA
+- country: "NA"
   iso_639_3:
   - mis
   lang_name: mafwe
-- country: NA
+- country: "NA"
   iso_639_3:
   - mis
   lang_name: mhalangwe
-- country: NA
+- country: "NA"
   iso_639_3:
   - fwe
   lang_name: mufwe
   note: Fwe
-- country: NA
+- country: "NA"
   iso_639_3:
   - mis
   lang_name: nyemba
-- country: NA
+- country: "NA"
   iso_639_3:
   - umb
   lang_name: rumbundu
   note: Umbundu
-- country: NA
+- country: "NA"
   iso_639_3:
   - ktz
   wals_name:
   - juh
   lang_name: san
-- country: NA
+- country: "NA"
   iso_639_3:
   - mis
   lang_name: shona
-- country: NA
+- country: "NA"
   iso_639_3:
   - fwe
   lang_name: sifwe
   note: Fwe
-- country: NA
+- country: "NA"
   iso_639_3:
   - mis
   lang_name: totela
-- country: NA
+- country: "NA"
   iso_639_3:
   - umb
   lang_name: uumbundu
   note: Umbundu
-- country: NA
+- country: "NA"
   iso_639_3:
   - dhm
   lang_name: zembas
@@ -5108,6 +5108,8 @@
   lang_name: baluya
   note: >-
     Saamia is the primary Luyia language spoken in UG
+  wals_code:
+  - luy
 - country: UG
   iso_639_3:
   - keo
@@ -5255,6 +5257,8 @@
   - lsm
   lang_name: lusamia
   note: Saamia
+  wals_code:
+  - luy
 - country: UG
   iso_639_3:
   - apd

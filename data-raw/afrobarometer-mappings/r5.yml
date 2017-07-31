@@ -1112,7 +1112,7 @@
   - Q116
   - Q2
   wals_code:
-  - nan
+  - "nan"
 - iso_639_3:
   - guz
   lang_id: 305
@@ -3063,13 +3063,13 @@
   wals_code: null
 - iso_639_3:
   - lsm
-  - luy
   lang_id: 793
   lang_name: Lusamia
   question:
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - luy
 - iso_639_3:
   - gwr
   lang_id: 794

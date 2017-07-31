@@ -578,7 +578,7 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - any
+  - "any"
   lang_id: 267
   lang_name: Brosa
   note: Dialect of Anyin. https://www.ethnologue.com/country/GH/languages
@@ -651,10 +651,21 @@
   - Q3
   wals_code: null
 - iso_639_3:
+  - cll
+  - ntr
+  - kdh
   - xsm
+  - mzw
+  - sig
+  - sil
+  - ssl
+  - tpm
+  - vag
   lang_id: 275
   lang_name: Grussi
-  note: Kasem is the most widely spoken Grusi language in Ghana.
+  note: >-
+    Languages in Grusi subgroup (https://www.ethnologue.com/subgroups/southern-32)
+    spoken in Ghana with status >= 6a.
   question:
   - Q103
   - Q114
@@ -799,7 +810,7 @@
   - Q114
   - Q3
   wals_code:
-  - nan
+  - "nan"
 - iso_639_3:
   - guz
   lang_id: 305
@@ -2888,14 +2899,14 @@
   wals_code: null
 - iso_639_3:
   - lsm
-  - luy
   lang_id: 793
   lang_name: Lusamia
   question:
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - luy
 - iso_639_3:
   - gwr
   lang_id: 794

@@ -133,6 +133,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 1,language,69,Efutu,2,GH,nkn,Nkonya,1,2,1,1
 1,language,70,Senya,2,GH,cum,Chumburung,1,2,1,1
 1,language,70,Senya,2,GH,nkn,Nkonya,1,2,1,1
+1,language,71,Grusi,2,GH,tem,Tem,1,0,1,1
+1,language,71,Grusi,2,GH,tmp,Tampulma,1,0,1,1
+1,language,71,Grusi,2,GH,vag,Vagla,1,0,1,1
 1,language,71,Grusi,2,GH,xsm,Kàsim,1,0,1,1
 1,language,72,Wangara,2,GH,,,,,,
 1,language,73,Dagomba,2,GH,dgb,Dagbani,1,0,1,1
@@ -279,7 +282,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 1,language,181,Waja,7,NG,mum,Mumuye,1,4,1,1
 1,language,181,Waja,7,NG,sle,Samba Leko,1,4,1,1
 1,language,182,Jukun,7,NG,juk,Jukun,1,0,1,1
-1,language,183,Bayam,7,NG,,,,,,
+1,language,183,Bayam,7,NG,gbk,Gbaya Kara,1,0,1,0
 1,language,184,Shuwa Arab,7,NG,arn,Arabic (Borno Nigerian),1,0,1,1
 1,language,185,Ndochi,7,NG,,,,,,
 1,language,186,Kare Kare,7,NG,blq,Bole,1,2,1,1
@@ -518,9 +521,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q110,803,Mada,7,NG,mdz,Mada (in Nigeria),1,0,1,1
 2,q110,804,Ron,7,NG,ron,Ron,1,0,1,1
 2,q110,805,Gbagyi,7,NG,gbk,Gbaya Kara,1,0,1,0
-2,q110,806,Taba,7,NG,,,,,,
+2,q110,806,Taba,7,NG,kgm,Kagoma,1,2,1,1
 2,q110,808,Okun,7,NG,yor,Yoruba,1,0,1,1
-2,q110,809,Mgas,7,NG,,,,,,
+2,q110,809,Mgas,7,NG,anc,Angas,1,0,1,1
 2,q110,995,Other,2,GH,,,,,,
 2,q110,995,Other,7,NG,,,,,,
 2,q83,-1,Missing,4,MW,,,,,,
@@ -738,7 +741,10 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q83,276,Ikewere,7,NG,igb,Igbo,1,1,1,1
 2,q83,276,Ikewere,7,NG,izi,Izi,1,1,1,1
 2,q83,277,Gwari,7,NG,gwa,Gwari,1,0,1,1
-2,q83,278,Sidawa,7,NG,,,,,,
+2,q83,278,Sidawa,7,NG,bad,Bade,1,3,1,1
+2,q83,278,Sidawa,7,NG,miy,Miya,1,3,1,1
+2,q83,278,Sidawa,7,NG,ngz,Ngizim,1,3,1,1
+2,q83,278,Sidawa,7,NG,paa,Pa'a,1,3,1,1
 2,q83,279,Pidgin English,7,NG,npi,Nigerian Pidgin,1,0,1,1
 2,q83,280,Shona,12,ZW,krg,Karanga,1,0,1,1
 2,q83,280,Shona,12,ZW,shn,Shona,1,0,1,1
@@ -847,7 +853,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q83,806,Jaba,7,NG,kgm,Kagoma,1,2,1,1
 2,q83,807,Esan,7,NG,bni,Bini,1,1,1,1
 2,q83,807,Esan,7,NG,ora,Emai,1,1,1,1
-2,q83,809,Mgas,7,NG,,,,,,
+2,q83,809,Mgas,7,NG,anc,Angas,1,0,1,1
 2,q83,995,Other,1,BW,,,,,,
 2,q83,995,Other,2,GH,,,,,,
 2,q83,995,Other,7,NG,,,,,,
@@ -1033,19 +1039,19 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q97,392,Embu,14,KE,dbd,Dabida,1,2,1,1
 2,q97,392,Embu,14,KE,kba,Kamba,1,2,1,1
 2,q97,392,Embu,14,KE,kik,Kikuyu,1,2,1,1
-2,q97,393,English and Kikuyu,14,KE,,,,,,
-2,q97,394,English and Kamba,14,KE,,,,,,
-2,q97,395,English and Kiswahili,14,KE,,,,,,
-2,q97,396,Kiswahili and Kamba,14,KE,,,,,,
-2,q97,397,"English, Kiswahili, and Kamba",14,KE,,,,,,
-2,q97,398,"English, Kiswahili and Kikuyu",14,KE,,,,,,
-2,q97,399,"English, Kiswahili and Meru",14,KE,,,,,,
-2,q97,480,Kiswahili and Luhya,14,KE,,,,,,
-2,q97,481,"English, Kiswahili and Kalenjin",14,KE,,,,,,
-2,q97,482,Kiswahili and kalenjin,14,KE,,,,,,
-2,q97,483,English and Luo,14,KE,,,,,,
-2,q97,484,Kiswahili and Kikuyu,14,KE,,,,,,
-2,q97,806,Taba,7,NG,,,,,,
+2,q97,393,English and Kikuyu,14,KE,eng,English,1,0,1,0
+2,q97,394,English and Kamba,14,KE,eng,English,1,0,1,0
+2,q97,395,English and Kiswahili,14,KE,eng,English,1,0,1,0
+2,q97,396,Kiswahili and Kamba,14,KE,swa,Swahili,1,0,1,0
+2,q97,397,"English, Kiswahili, and Kamba",14,KE,eng,English,1,0,1,0
+2,q97,398,"English, Kiswahili and Kikuyu",14,KE,eng,English,1,0,1,0
+2,q97,399,"English, Kiswahili and Meru",14,KE,eng,English,1,0,1,0
+2,q97,480,Kiswahili and Luhya,14,KE,swa,Swahili,1,0,1,0
+2,q97,481,"English, Kiswahili and Kalenjin",14,KE,eng,English,1,0,1,0
+2,q97,482,Kiswahili and kalenjin,14,KE,swa,Swahili,1,0,1,0
+2,q97,483,English and Luo,14,KE,eng,English,1,0,1,0
+2,q97,484,Kiswahili and Kikuyu,14,KE,swa,Swahili,1,0,1,0
+2,q97,806,Taba,7,NG,kgm,Kagoma,1,2,1,1
 2,q97,807,Esan,7,NG,bni,Bini,1,1,1,1
 2,q97,807,Esan,7,NG,ora,Emai,1,1,1,1
 2,q97,995,Other,2,GH,,,,,,
@@ -1092,14 +1098,14 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q103,109,Zulu,14,ZA,zno,Zulu (Northern),1,0,1,1
 3,q103,109,Zulu,14,ZA,zso,Zulu (Southern),1,0,1,1
 3,q103,109,Zulu,14,ZA,zul,Zulu,1,0,1,1
-3,q103,110,English + Afrikaans,14,ZA,,,,,,
-3,q103,111,English + Ndebele,14,ZA,,,,,,
-3,q103,112,English + Xhosa,14,ZA,,,,,,
-3,q103,113,English + Pedi/N. Sotho,14,ZA,,,,,,
-3,q103,114,English + Sesotho/S. Sotho,14,ZA,,,,,,
-3,q103,115,English + Setswana,14,ZA,,,,,,
-3,q103,117,English + Venda,14,ZA,,,,,,
-3,q103,118,English + Zulu,14,ZA,,,,,,
+3,q103,110,English + Afrikaans,14,ZA,eng,English,1,0,1,0
+3,q103,111,English + Ndebele,14,ZA,eng,English,1,0,1,0
+3,q103,112,English + Xhosa,14,ZA,eng,English,1,0,1,0
+3,q103,113,English + Pedi/N. Sotho,14,ZA,eng,English,1,0,1,0
+3,q103,114,English + Sesotho/S. Sotho,14,ZA,eng,English,1,0,1,0
+3,q103,115,English + Setswana,14,ZA,eng,English,1,0,1,0
+3,q103,117,English + Venda,14,ZA,eng,English,1,0,1,0
+3,q103,118,English + Zulu,14,ZA,eng,English,1,0,1,0
 3,q103,120,Fon,1,BJ,fon,Fongbe,1,0,1,1
 3,q103,121,Adja,1,BJ,ajg,Ajagbe,1,0,1,1
 3,q103,122,Bariba,1,BJ,brb,Bariba,1,0,1,1
@@ -1138,8 +1144,8 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q103,213,Giriama,5,KE,dbd,Dabida,1,2,1,1
 3,q103,213,Giriama,5,KE,kba,Kamba,1,2,1,1
 3,q103,213,Giriama,5,KE,kik,Kikuyu,1,2,1,1
-3,q103,214,Kiswahili/Luhya,5,KE,,,,,,
-3,q103,215,English/Swahili,5,KE,,,,,,
+3,q103,214,Kiswahili/Luhya,5,KE,swa,Swahili,1,0,1,0
+3,q103,215,English/Swahili,5,KE,eng,English,1,0,1,0
 3,q103,216,Sabaot,5,KE,nan,Nandi,1,0,1,1
 3,q103,217,Burji,5,KE,brj,Burji,1,0,1,0
 3,q103,218,Kuria,5,KE,hya,Haya,1,2,1,0
@@ -1205,12 +1211,12 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q103,328,Setswana,11,NA,tsw,Tswana,1,0,1,0
 3,q103,331,Mbukushu/Thimbukushu,11,NA,kwn,Kwangali,1,2,0,1
 3,q103,331,Mbukushu/Thimbukushu,11,NA,sub,Subiya,1,2,0,1
-3,q103,332,English and Oshiwambo,11,NA,,,,,,
-3,q103,333,English and Afrikaans,11,NA,,,,,,
-3,q103,334,Afrikaans and Oshiwambo,11,NA,,,,,,
+3,q103,332,English and Oshiwambo,11,NA,umb,UMbundu,1,2,1,0
+3,q103,333,English and Afrikaans,11,NA,afr,Afrikaans,1,0,1,0
+3,q103,334,Afrikaans and Oshiwambo,11,NA,afr,Afrikaans,1,0,1,0
 3,q103,335,English and local languages,11,NA,eng,English,1,0,1,0
 3,q103,336,Afrikaans and local languages,11,NA,afr,Afrikaans,1,0,1,0
-3,q103,337,"English, Afrikaans and local languages",11,NA,,,,,,
+3,q103,337,"English, Afrikaans and local languages",11,NA,eng,English,1,0,1,0
 3,q103,338,More than one local language,11,NA,,,,,,
 3,q103,340,Hausa,12,NG,hau,Hausa,1,0,1,1
 3,q103,341,Igbo,12,NG,igb,Igbo,1,0,1,1
@@ -1686,7 +1692,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q3,394,Kiluguru,15,TZ,shm,Shambala,1,2,1,1
 3,q3,394,Kiluguru,15,TZ,swa,Swahili,1,2,1,1
 3,q3,395,Kifipa,15,TZ,nyh,Nyiha,1,2,1,1
-3,q3,396,Kimanyema,15,TZ,,,,,,
+3,q3,396,Kimanyema,15,TZ,nym,Nyamwezi,1,0,1,1
 3,q3,397,Kinyiramba,15,TZ,lgi,Langi,1,2,1,1
 3,q3,397,Kinyiramba,15,TZ,nym,Nyamwezi,1,2,1,1
 3,q3,397,Kinyiramba,15,TZ,rim,Rimi,1,2,1,1
@@ -2576,7 +2582,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q3,754,Kiluguru,17,TZ,shm,Shambala,1,2,1,1
 4,Q3,754,Kiluguru,17,TZ,swa,Swahili,1,2,1,1
 4,Q3,755,Kifipa,17,TZ,nyh,Nyiha,1,2,1,1
-4,Q3,756,Kimanyema,17,TZ,,,,,,
+4,Q3,756,Kimanyema,17,TZ,nym,Nyamwezi,1,0,1,1
 4,Q3,757,Kinyiramba,17,TZ,lgi,Langi,1,2,1,1
 4,Q3,757,Kinyiramba,17,TZ,nym,Nyamwezi,1,2,1,1
 4,Q3,757,Kinyiramba,17,TZ,rim,Rimi,1,2,1,1
@@ -2657,7 +2663,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q3,791,Madi,18,UG,mad,Ma'di,1,0,1,1
 4,Q3,792,Japhadhola,18,UG,acl,Acholi,1,2,1,1
 4,Q3,792,Japhadhola,18,UG,lan,Lango,1,2,1,1
-4,Q3,793,Lusamia,18,UG,luy,Luyia,1,0,1,0
+4,Q3,793,Lusamia,18,UG,luy,Luyia,0,0,,
 4,Q3,794,Lugwere,18,UG,lda,Luganda,1,2,1,1
 4,Q3,794,Lugwere,18,UG,nko,Nkore-Kiga,1,2,1,1
 4,Q3,794,Lugwere,18,UG,rny,Runyankore,1,2,1,1
@@ -2871,7 +2877,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q103,709,Zulu,16,ZA,zno,Zulu (Northern),1,0,1,1
 5,Q103,709,Zulu,16,ZA,zso,Zulu (Southern),1,0,1,1
 5,Q103,709,Zulu,16,ZA,zul,Zulu,1,0,1,1
-5,Q103,711,Mixed - English/Afrikaans,16,ZA,,,,,,
+5,Q103,711,Mixed - English/Afrikaans,16,ZA,afr,Afrikaans,1,0,1,1
 5,Q103,712,Tsonga,16,ZA,tsn,Tsonga,0,0,,
 5,Q103,780,Luganda,18,UG,lda,Luganda,1,0,1,1
 5,Q103,781,Runyankole-Rukiga,18,UG,rny,Runyankore,1,0,1,1
@@ -3125,7 +3131,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q116,791,Madi,18,UG,mad,Ma'di,1,0,1,1
 5,Q116,792,Japadhola,18,UG,acl,Acholi,1,2,1,1
 5,Q116,792,Japadhola,18,UG,lan,Lango,1,2,1,1
-5,Q116,793,Lusamia,18,UG,luy,Luyia,1,0,1,0
+5,Q116,793,Lusamia,18,UG,luy,Luyia,0,0,,
 5,Q116,794,Lugwere,18,UG,lda,Luganda,1,2,1,1
 5,Q116,794,Lugwere,18,UG,nko,Nkore-Kiga,1,2,1,1
 5,Q116,794,Lugwere,18,UG,rny,Runyankore,1,2,1,1
@@ -3190,7 +3196,8 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q116,1180,Kirundi,25,BI,rnd,Rundi,1,0,1,1
 5,Q116,1220,Foufoulde,26,CM,fua,Fula (Cameroonian),1,0,1,1
 5,Q116,1222,Ewondo,26,CM,ewo,Ewondo,1,0,1,1
-5,Q116,1225,Babjoun,26,CM,,,,,,
+5,Q116,1225,Babjoun,26,CM,fef,Fe'fe',1,1,1,1
+5,Q116,1225,Babjoun,26,CM,yem,Yemba,1,1,1,1
 5,Q116,1226,Banen,26,CM,tnn,Tunen,1,0,1,1
 5,Q116,1228,Bayangam,26,CM,kyg,Kenyang,1,0,1,1
 5,Q116,1229,Eton,26,CM,bas,Basaá,1,2,1,1
@@ -3241,7 +3248,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q116,1280,WOBE,27,CI,wob,Wobe,1,0,1,1
 5,Q116,1281,TOURA,27,CI,dan,Dan,1,1,1,1
 5,Q116,1281,TOURA,27,CI,dbw,Dan (Blowo),1,1,1,1
-5,Q116,1282,DAHOMEY,27,CI,,,,,,
+5,Q116,1282,DAHOMEY,27,CI,fon,Fongbe,1,0,1,0
 5,Q116,1283,ABOURE,27,CI,ayi,Anyi,1,2,1,1
 5,Q116,1283,ABOURE,27,CI,ble,Baule,1,2,1,1
 5,Q116,1284,AHIZI,27,CI,aiz,Aizi,1,0,1,1
@@ -3653,10 +3660,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,641,Nembe,14,NG,ijo,Ijo (Kolokuma),1,2,1,1
 5,Q2,642,Jukun,14,NG,juk,Jukun,1,0,1,1
 5,Q2,643,Okrika,14,NG,ijo,Ijo (Kolokuma),1,4,1,1
-5,Q2,644,Yakhor,14,NG,bni,Bini,1,1,1,1
-5,Q2,644,Yakhor,14,NG,ets,Etsako,1,1,1,1
-5,Q2,644,Yakhor,14,NG,gho,Ghotuo,1,1,1,1
-5,Q2,644,Yakhor,14,NG,ora,Emai,1,1,1,1
+5,Q2,644,Yakhor,14,NG,agb,Leggbó,1,2,1,1
 5,Q2,645,Ika,14,NG,igb,Igbo,1,1,1,1
 5,Q2,645,Ika,14,NG,izi,Izi,1,1,1,1
 5,Q2,646,Okpe,14,NG,iso,Isoko,1,1,1,1
@@ -3670,7 +3674,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,649,Migili,14,NG,kgm,Kagoma,0,0,,
 5,Q2,649,Migili,14,NG,mdz,Mada (in Nigeria),0,0,,
 5,Q2,649,Migili,14,NG,tok,Tarok,0,0,,
-5,Q2,650,Gbagyi,14,NG,gbk,Gbaya Kara,1,0,1,0
+5,Q2,650,Gbagyi,14,NG,gwa,Gwari,1,0,1,1
 5,Q2,651,Gwoza,14,NG,gdf,Guduf,1,0,1,1
 5,Q2,652,Bajju,14,NG,gwo,Gworok,0,0,,
 5,Q2,653,Ekpeye,14,NG,igb,Igbo,1,2,1,1
@@ -3733,7 +3737,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,754,Kiluguru,17,TZ,shm,Shambala,1,2,1,1
 5,Q2,754,Kiluguru,17,TZ,swa,Swahili,1,2,1,1
 5,Q2,755,Kifipa,17,TZ,nyh,Nyiha,1,2,1,1
-5,Q2,756,Kimanyema,17,TZ,,,,,,
+5,Q2,756,Kimanyema,17,TZ,nym,Nyamwezi,1,0,1,1
 5,Q2,757,Kinyiramba,17,TZ,lgi,Langi,1,2,1,1
 5,Q2,757,Kinyiramba,17,TZ,nym,Nyamwezi,1,2,1,1
 5,Q2,757,Kinyiramba,17,TZ,rim,Rimi,1,2,1,1
@@ -3808,7 +3812,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,791,Madi,18,UG,mad,Ma'di,1,0,1,1
 5,Q2,792,Japadhola,18,UG,acl,Acholi,1,2,1,1
 5,Q2,792,Japadhola,18,UG,lan,Lango,1,2,1,1
-5,Q2,793,Lusamia,18,UG,luy,Luyia,1,0,1,0
+5,Q2,793,Lusamia,18,UG,luy,Luyia,0,0,,
 5,Q2,794,Lugwere,18,UG,lda,Luganda,1,2,1,1
 5,Q2,794,Lugwere,18,UG,nko,Nkore-Kiga,1,2,1,1
 5,Q2,794,Lugwere,18,UG,rny,Runyankore,1,2,1,1
@@ -5010,7 +5014,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q2,754,Kiluguru,31,TZ,shm,Shambala,1,2,1,1
 6,Q2,754,Kiluguru,31,TZ,swa,Swahili,1,2,1,1
 6,Q2,755,Kifipa,31,TZ,nyh,Nyiha,1,2,1,1
-6,Q2,756,Kimanyema,31,TZ,,,,,,
+6,Q2,756,Kimanyema,31,TZ,nym,Nyamwezi,1,0,1,1
 6,Q2,757,Kinyiramba,31,TZ,lgi,Langi,1,2,1,1
 6,Q2,757,Kinyiramba,31,TZ,nym,Nyamwezi,1,2,1,1
 6,Q2,757,Kinyiramba,31,TZ,rim,Rimi,1,2,1,1

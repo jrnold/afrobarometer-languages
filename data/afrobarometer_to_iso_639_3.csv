@@ -109,6 +109,15 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,68,Gonja,2,GH,gjn,Gonja,I
 1,language,69,Efutu,2,GH,afu,Awutu,I
 1,language,70,Senya,2,GH,afu,Awutu,I
+1,language,71,Grusi,2,GH,cll,Chala,I
+1,language,71,Grusi,2,GH,kdh,Tem,I
+1,language,71,Grusi,2,GH,mzw,Deg,I
+1,language,71,Grusi,2,GH,ntr,Delo,I
+1,language,71,Grusi,2,GH,sig,Paasaal,I
+1,language,71,Grusi,2,GH,sil,Tumulung Sisaala,I
+1,language,71,Grusi,2,GH,ssl,Western Sisaala,I
+1,language,71,Grusi,2,GH,tpm,Tampulma,I
+1,language,71,Grusi,2,GH,vag,Vagla,I
 1,language,71,Grusi,2,GH,xsm,Kasem,I
 1,language,72,Wangara,2,GH,mis,Uncoded languages,S
 1,language,73,Dagomba,2,GH,dag,Dagbani,I
@@ -242,7 +251,8 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,180,Tangale,7,NG,tan,Tangale,I
 1,language,181,Waja,7,NG,wja,Waja,I
 1,language,182,Jukun,7,NG,jbu,Jukun Takum,I
-1,language,183,Bayam,7,NG,mis,Uncoded languages,S
+1,language,183,Bayam,7,NG,gba,Gbaya (Central African Republic),M
+1,language,183,Bayam,7,NG,gya,Northwest Gbaya,I
 1,language,184,Shuwa Arab,7,NG,ara,Arabic,M
 1,language,184,Shuwa Arab,7,NG,shu,Chadian Arabic,I
 1,language,185,Ndochi,7,NG,mis,Uncoded languages,S
@@ -472,9 +482,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q110,804,Ron,7,NG,cla,Ron,I
 2,q110,805,Gbagyi,7,NG,gba,Gbaya (Central African Republic),M
 2,q110,805,Gbagyi,7,NG,gya,Northwest Gbaya,I
-2,q110,806,Taba,7,NG,mis,Uncoded languages,S
+2,q110,806,Taba,7,NG,ldb,Dũya,I
 2,q110,808,Okun,7,NG,yor,Yoruba,I
-2,q110,809,Mgas,7,NG,mis,Uncoded languages,S
+2,q110,809,Mgas,7,NG,anc,Ngas,I
 2,q110,995,Other,2,GH,und,Undetermined,S
 2,q110,995,Other,7,NG,und,Undetermined,S
 2,q83,-1,Missing,14,KE,und,Undetermined,S
@@ -670,7 +680,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,276,Ikewere,7,NG,ikw,Ikwere,I
 2,q83,277,Gwari,7,NG,gbr,Gbagyi,I
 2,q83,277,Gwari,7,NG,gby,Gbari,I
-2,q83,278,Sidawa,7,NG,mis,Uncoded languages,S
+2,q83,278,Sidawa,7,NG,say,Saya,I
 2,q83,279,Pidgin English,7,NG,pcm,Nigerian Pidgin,I
 2,q83,280,Shona,12,ZW,sna,Shona,I
 2,q83,281,Ndebele,12,ZW,nde,North Ndebele,I
@@ -771,7 +781,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,805,Gbagyi,7,NG,gya,Northwest Gbaya,I
 2,q83,806,Jaba,7,NG,ldb,Dũya,I
 2,q83,807,Esan,7,NG,ish,Esan,I
-2,q83,809,Mgas,7,NG,mis,Uncoded languages,S
+2,q83,809,Mgas,7,NG,anc,Ngas,I
 2,q83,995,Other,1,BW,und,Undetermined,S
 2,q83,995,Other,2,GH,und,Undetermined,S
 2,q83,995,Other,14,KE,und,Undetermined,S
@@ -968,19 +978,23 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,390,Turkana,14,KE,tuv,Turkana,I
 2,q97,391,Meru/Kimeru,14,KE,mer,Meru,I
 2,q97,392,Embu,14,KE,ebu,Embu,I
-2,q97,393,English and Kikuyu,14,KE,mul,Multiple languages,S
-2,q97,394,English and Kamba,14,KE,mul,Multiple languages,S
-2,q97,395,English and Kiswahili,14,KE,mul,Multiple languages,S
-2,q97,396,Kiswahili and Kamba,14,KE,mul,Multiple languages,S
-2,q97,397,"English, Kiswahili, and Kamba",14,KE,mul,Multiple languages,S
-2,q97,398,"English, Kiswahili and Kikuyu",14,KE,mul,Multiple languages,S
-2,q97,399,"English, Kiswahili and Meru",14,KE,mul,Multiple languages,S
-2,q97,480,Kiswahili and Luhya,14,KE,mul,Multiple languages,S
-2,q97,481,"English, Kiswahili and Kalenjin",14,KE,mul,Multiple languages,S
-2,q97,482,Kiswahili and kalenjin,14,KE,mul,Multiple languages,S
-2,q97,483,English and Luo,14,KE,mul,Multiple languages,S
-2,q97,484,Kiswahili and Kikuyu,14,KE,mul,Multiple languages,S
-2,q97,806,Taba,7,NG,mis,Uncoded languages,S
+2,q97,393,English and Kikuyu,14,KE,eng,English,I
+2,q97,394,English and Kamba,14,KE,eng,English,I
+2,q97,395,English and Kiswahili,14,KE,eng,English,I
+2,q97,396,Kiswahili and Kamba,14,KE,swa,Swahili (macrolanguage),M
+2,q97,396,Kiswahili and Kamba,14,KE,swh,Swahili (individual language),I
+2,q97,397,"English, Kiswahili, and Kamba",14,KE,eng,English,I
+2,q97,398,"English, Kiswahili and Kikuyu",14,KE,eng,English,I
+2,q97,399,"English, Kiswahili and Meru",14,KE,eng,English,I
+2,q97,480,Kiswahili and Luhya,14,KE,swa,Swahili (macrolanguage),M
+2,q97,480,Kiswahili and Luhya,14,KE,swh,Swahili (individual language),I
+2,q97,481,"English, Kiswahili and Kalenjin",14,KE,eng,English,I
+2,q97,482,Kiswahili and kalenjin,14,KE,swa,Swahili (macrolanguage),M
+2,q97,482,Kiswahili and kalenjin,14,KE,swh,Swahili (individual language),I
+2,q97,483,English and Luo,14,KE,eng,English,I
+2,q97,484,Kiswahili and Kikuyu,14,KE,swa,Swahili (macrolanguage),M
+2,q97,484,Kiswahili and Kikuyu,14,KE,swh,Swahili (individual language),I
+2,q97,806,Taba,7,NG,ldb,Dũya,I
 2,q97,807,Esan,7,NG,ish,Esan,I
 2,q97,995,Other,2,GH,und,Undetermined,S
 2,q97,995,Other,14,KE,und,Undetermined,S
@@ -1027,14 +1041,14 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,107,Swazi,14,ZA,ssw,Swati,I
 3,q103,108,Venda,14,ZA,ven,Venda,I
 3,q103,109,Zulu,14,ZA,zul,Zulu,I
-3,q103,110,English + Afrikaans,14,ZA,mul,Multiple languages,S
-3,q103,111,English + Ndebele,14,ZA,mul,Multiple languages,S
-3,q103,112,English + Xhosa,14,ZA,mul,Multiple languages,S
-3,q103,113,English + Pedi/N. Sotho,14,ZA,mul,Multiple languages,S
-3,q103,114,English + Sesotho/S. Sotho,14,ZA,mul,Multiple languages,S
-3,q103,115,English + Setswana,14,ZA,mul,Multiple languages,S
-3,q103,117,English + Venda,14,ZA,mul,Multiple languages,S
-3,q103,118,English + Zulu,14,ZA,mul,Multiple languages,S
+3,q103,110,English + Afrikaans,14,ZA,eng,English,I
+3,q103,111,English + Ndebele,14,ZA,eng,English,I
+3,q103,112,English + Xhosa,14,ZA,eng,English,I
+3,q103,113,English + Pedi/N. Sotho,14,ZA,eng,English,I
+3,q103,114,English + Sesotho/S. Sotho,14,ZA,eng,English,I
+3,q103,115,English + Setswana,14,ZA,eng,English,I
+3,q103,117,English + Venda,14,ZA,eng,English,I
+3,q103,118,English + Zulu,14,ZA,eng,English,I
 3,q103,120,Fon,1,BJ,fon,Fon,I
 3,q103,121,Adja,1,BJ,ajg,Aja (Benin),I
 3,q103,122,Bariba,1,BJ,bba,Baatonum,I
@@ -1092,8 +1106,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,212,Gunya,5,KE,swa,Swahili (macrolanguage),M
 3,q103,212,Gunya,5,KE,swh,Swahili (individual language),I
 3,q103,213,Giriama,5,KE,nyf,Giryama,I
-3,q103,214,Kiswahili/Luhya,5,KE,mul,Multiple languages,S
-3,q103,215,English/Swahili,5,KE,mul,Multiple languages,S
+3,q103,214,Kiswahili/Luhya,5,KE,swa,Swahili (macrolanguage),M
+3,q103,214,Kiswahili/Luhya,5,KE,swh,Swahili (individual language),I
+3,q103,215,English/Swahili,5,KE,eng,English,I
 3,q103,216,Sabaot,5,KE,kln,Kalenjin,M
 3,q103,216,Sabaot,5,KE,spy,Sabaot,I
 3,q103,217,Burji,5,KE,bji,Burji,I
@@ -1162,12 +1177,12 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,327,Otjiherero,11,NA,her,Herero,I
 3,q103,328,Setswana,11,NA,tsn,Tswana,I
 3,q103,331,Mbukushu/Thimbukushu,11,NA,mhw,Mbukushu,I
-3,q103,332,English and Oshiwambo,11,NA,mul,Multiple languages,S
-3,q103,333,English and Afrikaans,11,NA,mul,Multiple languages,S
-3,q103,334,Afrikaans and Oshiwambo,11,NA,mul,Multiple languages,S
+3,q103,332,English and Oshiwambo,11,NA,kua,Kuanyama,I
+3,q103,333,English and Afrikaans,11,NA,afr,Afrikaans,I
+3,q103,334,Afrikaans and Oshiwambo,11,NA,afr,Afrikaans,I
 3,q103,335,English and local languages,11,NA,eng,English,I
 3,q103,336,Afrikaans and local languages,11,NA,afr,Afrikaans,I
-3,q103,337,"English, Afrikaans and local languages",11,NA,mul,Multiple languages,S
+3,q103,337,"English, Afrikaans and local languages",11,NA,eng,English,I
 3,q103,338,More than one local language,11,NA,mul,Multiple languages,S
 3,q103,340,Hausa,12,NG,hau,Hausa,I
 3,q103,341,Igbo,12,NG,ibo,Igbo,I
@@ -1642,7 +1657,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,393,Kigogo,15,TZ,gog,Gogo,I
 3,q3,394,Kiluguru,15,TZ,ruf,Luguru,I
 3,q3,395,Kifipa,15,TZ,fip,Fipa,I
-3,q3,396,Kimanyema,15,TZ,mis,Uncoded languages,S
+3,q3,396,Kimanyema,15,TZ,nym,Nyamwezi,I
 3,q3,397,Kinyiramba,15,TZ,nim,Nilamba,I
 3,q3,398,Kinyaturu,15,TZ,rim,Nyaturu,I
 3,q3,405,Akaramojonj,16,UG,kdj,Karamojong,I
@@ -2261,6 +2276,15 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,272,Kokonba,5,GH,xon,Konkomba,I
 4,Q3,273,Dagate,5,GH,dga,Southern Dagaare,I
 4,Q3,274,Kusasi/Kusaase,5,GH,kus,Kusaal,I
+4,Q3,275,Grussi,5,GH,cll,Chala,I
+4,Q3,275,Grussi,5,GH,kdh,Tem,I
+4,Q3,275,Grussi,5,GH,mzw,Deg,I
+4,Q3,275,Grussi,5,GH,ntr,Delo,I
+4,Q3,275,Grussi,5,GH,sig,Paasaal,I
+4,Q3,275,Grussi,5,GH,sil,Tumulung Sisaala,I
+4,Q3,275,Grussi,5,GH,ssl,Western Sisaala,I
+4,Q3,275,Grussi,5,GH,tpm,Tampulma,I
+4,Q3,275,Grussi,5,GH,vag,Vagla,I
 4,Q3,275,Grussi,5,GH,xsm,Kasem,I
 4,Q3,276,Sisila,5,GH,sil,Tumulung Sisaala,I
 4,Q3,276,Sisila,5,GH,ssl,Western Sisaala,I
@@ -2518,7 +2542,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,753,Kigogo,17,TZ,gog,Gogo,I
 4,Q3,754,Kiluguru,17,TZ,ruf,Luguru,I
 4,Q3,755,Kifipa,17,TZ,fip,Fipa,I
-4,Q3,756,Kimanyema,17,TZ,und,Undetermined,S
+4,Q3,756,Kimanyema,17,TZ,nym,Nyamwezi,I
 4,Q3,757,Kinyiramba,17,TZ,nim,Nilamba,I
 4,Q3,758,Kinyaturu,17,TZ,rim,Nyaturu,I
 4,Q3,759,Kibena,17,TZ,bez,Bena (Tanzania),I
@@ -2771,7 +2795,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q103,707,Swazi,16,ZA,ssw,Swati,I
 5,Q103,708,Venda,16,ZA,ven,Venda,I
 5,Q103,709,Zulu,16,ZA,zul,Zulu,I
-5,Q103,711,Mixed - English/Afrikaans,16,ZA,mul,Multiple languages,S
+5,Q103,711,Mixed - English/Afrikaans,16,ZA,afr,Afrikaans,I
 5,Q103,712,Tsonga,16,ZA,tso,Tsonga,I
 5,Q103,780,Luganda,18,UG,lug,Ganda,I
 5,Q103,781,Runyankole-Rukiga,18,UG,nyn,Nyankole,I
@@ -3100,7 +3124,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,1220,Foufoulde,26,CM,fub,Adamawa Fulfulde,I
 5,Q116,1220,Foufoulde,26,CM,ful,Fulah,M
 5,Q116,1222,Ewondo,26,CM,ewo,Ewondo,I
-5,Q116,1225,Babjoun,26,CM,mis,Uncoded languages,S
+5,Q116,1225,Babjoun,26,CM,bbj,Ghomálá',I
 5,Q116,1226,Banen,26,CM,tvu,Tunen,I
 5,Q116,1228,Bayangam,26,CM,ken,Kenyang,I
 5,Q116,1229,Eton,26,CM,eto,Eton (Cameroon),I
@@ -3128,7 +3152,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,1278,Sénoufo,27,CI,tgw,Tagwana Senoufo,I
 5,Q116,1280,WOBE,27,CI,wob,Wè Northern,I
 5,Q116,1281,TOURA,27,CI,neb,Toura (Côte d'Ivoire),I
-5,Q116,1282,DAHOMEY,27,CI,mis,Uncoded languages,S
+5,Q116,1282,DAHOMEY,27,CI,fon,Fon,I
 5,Q116,1283,ABOURE,27,CI,abu,Abure,I
 5,Q116,1284,AHIZI,27,CI,ahi,Tiagbamrin Aizi,I
 5,Q116,1284,AHIZI,27,CI,ahm,Mobumrin Aizi,I
@@ -3563,14 +3587,13 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,641,Nembe,14,NG,ijs,Southeast Ijo,I
 5,Q2,642,Jukun,14,NG,jbu,Jukun Takum,I
 5,Q2,643,Okrika,14,NG,okr,Kirike,I
-5,Q2,644,Yakhor,14,NG,ihi,Ihievbe,I
+5,Q2,644,Yakhor,14,NG,yaz,Lokaa,I
 5,Q2,645,Ika,14,NG,ikk,Ika,I
 5,Q2,646,Okpe,14,NG,oke,Okpe (Southwestern Edo),I
 5,Q2,647,Tarok,14,NG,yer,Tarok,I
 5,Q2,648,Ibaji,14,NG,igl,Igala,I
 5,Q2,649,Migili,14,NG,mgi,Lijili,I
-5,Q2,650,Gbagyi,14,NG,gba,Gbaya (Central African Republic),M
-5,Q2,650,Gbagyi,14,NG,gya,Northwest Gbaya,I
+5,Q2,650,Gbagyi,14,NG,gbr,Gbagyi,I
 5,Q2,651,Gwoza,14,NG,gdf,Guduf-Gava,I
 5,Q2,651,Gwoza,14,NG,ngs,Gvoko,I
 5,Q2,652,Bajju,14,NG,kaj,Jju,I
@@ -3611,7 +3634,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,753,Kigogo,17,TZ,gog,Gogo,I
 5,Q2,754,Kiluguru,17,TZ,ruf,Luguru,I
 5,Q2,755,Kifipa,17,TZ,fip,Fipa,I
-5,Q2,756,Kimanyema,17,TZ,mis,Uncoded languages,S
+5,Q2,756,Kimanyema,17,TZ,nym,Nyamwezi,I
 5,Q2,757,Kinyiramba,17,TZ,nim,Nilamba,I
 5,Q2,758,Kinyaturu,17,TZ,rim,Nyaturu,I
 5,Q2,759,Kibena,17,TZ,bez,Bena (Tanzania),I
@@ -4834,7 +4857,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,753,Kigogo,31,TZ,gog,Gogo,I
 6,Q2,754,Kiluguru,31,TZ,ruf,Luguru,I
 6,Q2,755,Kifipa,31,TZ,fip,Fipa,I
-6,Q2,756,Kimanyema,31,TZ,mis,Uncoded languages,S
+6,Q2,756,Kimanyema,31,TZ,nym,Nyamwezi,I
 6,Q2,757,Kinyiramba,31,TZ,nim,Nilamba,I
 6,Q2,758,Kinyaturu,31,TZ,rim,Nyaturu,I
 6,Q2,759,Kiarusha,31,TZ,mas,Masai,I
