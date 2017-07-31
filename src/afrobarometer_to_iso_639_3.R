@@ -85,7 +85,7 @@ afrobarometer_to_iso %<>%
 #'
 with(afrobarometer_to_iso, {
   assert_that(all(!is.na(round)))
-  assert_that(is.character(round))
+  assert_that(is_integerish(round))
   assert_that(seteq(unique(round), misc_data$afrobarometer$rounds))
 
   assert_that(is.character(question))

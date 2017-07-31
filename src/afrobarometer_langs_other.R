@@ -16,11 +16,15 @@ afrob_rounds <- misc_data$afrobarometer$rounds
 afrobarometer_countries <- IO$afrobarometer_countries
 
 afrobarometer_langs_other_r <- function(.round) {
-  misc_data <- IO$misc_data
-  lang_vars <- misc_data$afrobarometer$lang_other_variables$values[[.round]]
+  lang_vars <- IO$afrobarometer_lang_variables %>%
+    filter(round == UQ(.round), other) %>%
+    `[[`("name")
+
+  country_var <- IO$afrobarometer_country_variables %>%
+    filter(round == UQ(.round)) %>%
+    `[[`("name")
+
   if (length(lang_vars)) {
-    country_var <-
-      misc_data$afrobarometer$country_variables$values[[.round]]
     IO$afrobarometer(.round) %>%
       select(one_of(lang_vars), country = UQ(sym(country_var))) %>%
       mutate(country = as.integer(country)) %>%

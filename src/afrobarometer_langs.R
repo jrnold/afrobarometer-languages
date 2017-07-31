@@ -29,17 +29,18 @@ afrobarometer_countries <- IO$afrobarometer_countries %>%
 
 #' Create a dataset of all Afrobarometer datasets
 afrobarometer_langs_r <- function(.round) {
-  misc_data <- IO$misc_data
-  lang_vars <- map_chr(misc_data$afrobarometer$language_variables$values[[.round]], "name")
-  country_var <-
-    misc_data$afrobarometer$country_variables$values[[.round]]
+  lang_vars <- IO$afrobarometer_lang_variables %>%
+    filter(!as.logical(other), round == UQ(.round)) %>%
+    `[[`("name")
+  country_var <- IO$afrobarometer_country_variables %>%
+    filter(round == UQ(.round)) %>%
+    `[[`("name")
   map_df(lang_vars,
          lang_summary,
          .data = IO$afrobarometer(.round),
          country_var = country_var) %>%
     mutate(round = .round)
 }
-
 
 afrobarometer_langs <- map_df(IO$misc_data$afrobarometer$rounds, afrobarometer_langs_r) %>%
   left_join(afrobarometer_countries,
@@ -50,7 +51,7 @@ afrobarometer_langs <- map_df(IO$misc_data$afrobarometer$rounds, afrobarometer_l
 
 with(afrobarometer_langs, {
   assert_that(all(!is.na(round)))
-  assert_that(is.character(round))
+  assert_that(is_integerish(round))
   assert_that(seteq(unique(round), misc_data$afrobarometer$rounds))
 
   assert_that(is.character(question))

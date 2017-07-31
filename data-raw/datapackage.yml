@@ -46,11 +46,12 @@ resources:
       fields:
         - &round
           name: round
-          type: string
+          type: integer
           title: Afrobarometer round
           constraints:
             required: true
-            enum: ["r1", "r2", "r3", "r4", "r5", "r6"]
+            minimum: 1
+            maximum: 6
         - <<: &question
             name: question
             type: string
@@ -159,7 +160,7 @@ resources:
       fields:
         - name: iso_code
           type: string
-          label: ISO 639-3 Code From
+          label: "ISO 639-3 Code From"
           description: >-
             The ISO code of the language being mapped.
           constraints:
@@ -239,7 +240,7 @@ resources:
           Not all languages are mapped, so there can be missing values.
         constraints:
           required: true
-          pattern: "[a-z]{3}"
+          pattern: "^[a-z]{3}$"
       - &iso_ref_name
         name: iso_ref_name
         type: string
@@ -338,7 +339,6 @@ resources:
         contraints:
           required: false
 
-
   - path: afrobarometer_other_to_wals.csv
     name: afrobarometer_other_to_wals
     title: Afrobarometer "Other" Languages to WALS
@@ -381,13 +381,13 @@ resources:
           description: WALS langoid from.
           constraints:
             required: true
-            pattern: "[a-z]{2,3}"
+            pattern: "^[a-z]{2,3}$"
         - name: to
           type: string
           description: WALS langoid to
           constraints:
             required: true
-            pattern: "[a-z]{2,3}"
+            pattern: "^[a-z]{2,3}$"
         - name: distance
           type: integer
           description: >-
@@ -397,3 +397,59 @@ resources:
           constraints:
             required: true
             minimum: 1
+  - path: "afrobarometer_lang_variables.csv"
+    name: "afrobarometer_lang_variables"
+    <<: *csv
+    title: Afrobarometer Language Variables
+    description: >-
+      For each Afrobarometer round, the variables with the language of the
+      respondent, interview, or interviewer.
+    schema:
+      fields:
+      - *round
+      - name: name
+        label: Variable name
+        type: string
+        constraints:
+          required: true
+      - name: type
+        type: string
+        label: Language variable type
+        description: >-
+          Does the variable refer to the home language of the
+          the respondent, the language in which the interview
+          was conducted, or the home language of the interviewer.
+        constraints:
+          required: true
+          enum:
+          - respondent
+          - interview
+          - interviewer
+      - name: other
+        type: boolean
+        description: >-
+          Does the variable refer to the response if the
+          answer is "OTHER".
+        constraints:
+          required: true
+      primaryKey:
+      - round
+      - name
+  - path: "afrobarometer_country_variables.csv"
+    name: "afrobarometer_country_variables"
+    <<: *csv
+    title: Afrobarometer Country Variables
+    description: >-
+      For each Afrobarometer round, the variable name of the the country
+      of the respondent.
+    schema:
+      primaryKey:
+      - round
+      - name
+      fields:
+      - *round
+      - name: name
+        label: Variable name
+        type: string
+
+

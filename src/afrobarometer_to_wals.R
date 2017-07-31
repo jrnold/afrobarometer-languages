@@ -187,7 +187,7 @@ if (nrow(matches_unrelated_langs) > 0) {
 
 with(afrobarometer_to_wals, {
   assert_that(all(!is.na(round)))
-  assert_that(is.character(round))
+  assert_that(is_integerish(round))
 
   assert_that(is.character(question))
   assert_that(all(!is.na(question)))
