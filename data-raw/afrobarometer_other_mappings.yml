@@ -2271,6 +2271,8 @@
 - country: KE
   iso_639_3:
   - kcn
+  wals_code:
+  - nub
   lang_name: nubian
 - country: KE
   iso_639_3:
@@ -5362,6 +5364,8 @@
   iso_639_3:
   - kcn
   lang_name: nubian
+  wals_code:
+  - nub
   note: Nubi
 - country: UG
   iso_639_3:

@@ -516,7 +516,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 4,Q3OTHER,18,Lwamba,UG,mbl,Mbole,1,2,0,0
 4,Q3OTHER,18,Lwamba,UG,mit,Mituku,1,2,0,0
 4,Q3OTHER,18,Lwamba,UG,nng,Nyanga,1,2,0,0
-4,Q3OTHER,18,Nubian,UG,nub,Nubi,1,0,1,1
+4,Q3OTHER,18,Nubian,UG,nub,Nubi,0,0,,
 4,Q3OTHER,18,Rufumbira,UG,kin,Kinyarwanda,1,0,1,0
 4,Q3OTHER,18,Rulundi,UG,rnd,Rundi,1,0,1,0
 4,Q3OTHER,18,Runyarwanda,UG,kin,Kinyarwanda,1,0,1,0
@@ -887,7 +887,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 5,Q2OTHER,6,MBEERE,KE,dbd,Dabida,1,2,1,1
 5,Q2OTHER,6,MBEERE,KE,kba,Kamba,1,2,1,1
 5,Q2OTHER,6,MBEERE,KE,kik,Kikuyu,1,2,1,1
-5,Q2OTHER,6,NUBIAN,KE,nub,Nubi,1,0,1,0
+5,Q2OTHER,6,NUBIAN,KE,nub,Nubi,0,0,,
 5,Q2OTHER,6,OROMA,KE,orw,Oromo (Waata),1,1,1,1
 5,Q2OTHER,6,POKOMO,KE,dbd,Dabida,1,2,1,1
 5,Q2OTHER,6,POKOMO,KE,kba,Kamba,1,2,1,1

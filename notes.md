@@ -260,4 +260,22 @@ A few WALS codes have macrolanguages as ISO codes. They are:
 - Nandi (Kalenjin)
 - Akan
 
-There were manually matched since often the Afrobarometer 
+There were manually matched since often the Afrobarometer
+
+# Pidgin/Creole Languages
+
+For Pidgin/Creole languages, map to the African WALS language of
+the same lang root.
+
+--------------------------- ---- ---- ---------------- -------------
+Liberian English            lir       English          npi
+Nigerian English            pcm  npi  English
+Krio (Sierra Leone          kri       English          npi
+Cameroon Pidgin             wes       English          npi
+Angolar Creolo              aoa  ago  Portuguese
+Forro/Saotomese             cri  pri  Portuguese
+Kabuverdianu/Creolo         kea       Portuguese       ago,pri,gbc
+Guinea Bissea Creole        pov  gbc  Portuguese    
+Morisyen, Mauritian Creole  mfe  mcr  French
+Nubi                        kcn  nub  Arabic
+--------------------------- ---- ---- ---------------- -------------

@@ -5070,7 +5070,10 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,1501,Alhassania,20,MA,mey,Hassaniyya,I
 6,Q2,1540,Sudanese Arabic,29,SD,apd,Sudanese Arabic,I
 6,Q2,1540,Sudanese Arabic,29,SD,ara,Arabic,M
+6,Q2,1541,Nubian Language,29,SD,dgl,Andaandi,I
 6,Q2,1541,Nubian Language,29,SD,fia,Nobiin,I
+6,Q2,1541,Nubian Language,29,SD,mei,Midob,I
+6,Q2,1541,Nubian Language,29,SD,wll,Wali (Sudan),I
 6,Q2,1620,siSwati,30,SZ,ssw,Swati,I
 6,Q2,1621,Shangaan,30,SZ,tso,Tsonga,I
 6,Q2,1660,Creolo,25,ST,aoa,Angolar,I

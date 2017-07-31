@@ -56,7 +56,9 @@
   - q83
   - q97
   wals_code:
-  - por
+  - pri
+  - ago
+  - gbc
 - iso_639_3:
   - lug
   lang_id: 60
@@ -1273,7 +1275,8 @@
   question:
   - q83
   - q97
-  wals_code: null
+  wals_code:
+  - npi
 - iso_639_3:
   - sna
   lang_id: 280

@@ -394,7 +394,9 @@
   - q114
   - q3
   wals_code:
-  - por
+    - pri
+    - ago
+    - gbc
 - iso_639_3:
   - fat
   - twi
@@ -1540,7 +1542,8 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_code:
+  - npi
 - iso_639_3:
   - efi
   lang_id: 344

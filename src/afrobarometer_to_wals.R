@@ -74,6 +74,12 @@ afrobarometer_to_wals_auto <-
   # Prefer those in same country as the spoken lang
   group_by(round, question, valid_country, lang_id) %>%
   filter(same_country == max(same_country)) %>%
+  # Remove any unmatched creole langs
+  left_join(select(wals, wals_code, family),
+            by = "wals_code") %>%
+  filter(distance == 0 | family != "other") %>%
+  select(-family) %>%
+  # cleanup
   ungroup() %>%
   distinct() %>%
   mutate(auto = 1L)
@@ -94,8 +100,9 @@ afrobarometer_to_wals <-
 
 #' Add WALS info
 afrobarometer_to_wals %<>%
-  left_join(select(wals, wals_code, wals_name = Name),
+  left_join(select(wals, wals_code, wals_name = Name, family),
             by = "wals_code")
+
 
 #' Prep dataset
 afrobarometer_to_wals %<>%

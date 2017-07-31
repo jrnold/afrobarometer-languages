@@ -698,7 +698,9 @@
   - Q116
   - Q2
   wals_code:
-  - por
+  - pri
+  - ago
+  - gbc
 - iso_639_3:
   - por
   lang_id: 221
@@ -1074,7 +1076,7 @@
   question:
   - Q103
   wals_code:
-  - eng
+  - npi
 - iso_639_3:
   - bsq
   lang_id: 380
@@ -1198,7 +1200,7 @@
   question:
   - Q2
   wals_code:
-  - eng
+  - npi
 - iso_639_3:
   - plt
   lang_id: 420
@@ -1704,7 +1706,8 @@
   question:
   - Q103
   - Q2
-  wals_code: null
+  wals_code:
+  - npi
 - iso_639_3:
   - efi
   lang_id: 624
@@ -3022,7 +3025,8 @@
   - Q103
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - mcr
 - iso_639_3:
   - kri
   lang_id: 930
@@ -3031,7 +3035,8 @@
   - Q103
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - npi
 - iso_639_3:
   - men
   lang_id: 931
@@ -3301,7 +3306,8 @@
   question:
   - Q103
   - Q2
-  wals_code: null
+  wals_code:
+  - npi
 - iso_639_3:
   - ewo
   lang_id: 1222
@@ -3901,12 +3907,18 @@
   wals_code:
   - abb
 - iso_639_3:
+  - dgl
+  - mei
   - fia
+  - wll
   lang_id: 1541
   lang_name: Nubian Language
   question:
   - Q2
   wals_code: null
+  note: >-
+    https://www.ethnologue.com/subgroups/eastern-sudanic
+    Nubian subgroup languages spoken in Sudan.
 - iso_639_3:
   - ssw
   lang_id: 1620
@@ -3928,11 +3940,13 @@
   - aoa
   lang_id: 1660
   lang_name: Creolo
-  note: https://en.wikipedia.org/wiki/Angolar_Creole
+  note: >-
+    https://en.wikipedia.org/wiki/Angolar_Creole
   question:
   - Q103
   - Q2
-  wals_code: null
+  wals_code:
+  - ago
 - iso_639_3:
   - cri
   lang_id: 1661
@@ -3947,7 +3961,8 @@
   lang_name: Angolar
   question:
   - Q2
-  wals_code: null
+  wals_code:
+  - ago
 - iso_639_3:
   - fan
   lang_id: 1700

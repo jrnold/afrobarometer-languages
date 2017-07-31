@@ -855,7 +855,9 @@
   - Q116
   - Q2
   wals_code:
-  - por
+  - pri
+  - ago
+  - gbc
 - iso_639_3:
   - fat
   - twi
@@ -1414,7 +1416,7 @@
   - Q103
   - Q116
   wals_code:
-  - eng
+  - npi
 - iso_639_3:
   - lir
   lang_id: 396
@@ -1424,7 +1426,7 @@
   question:
   - Q2
   wals_code:
-  - eng
+  - npi
 - iso_639_3:
   - eng
   lang_id: 397
@@ -2150,7 +2152,8 @@
   question:
   - Q103
   - Q2
-  wals_code: null
+  wals_code:
+  - npi
 - iso_639_3:
   - efi
   lang_id: 624
@@ -3745,7 +3748,8 @@
   - Q103
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - mcr
 - iso_639_3:
   - bho
   lang_id: 901
@@ -3762,7 +3766,8 @@
   - Q103
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - npi
 - iso_639_3:
   - men
   lang_id: 931
@@ -4156,7 +4161,8 @@
   - Q103
   - Q116
   - Q2
-  wals_code: null
+  wals_code:
+  - npi
 - iso_639_3:
   - ewo
   lang_id: 1222

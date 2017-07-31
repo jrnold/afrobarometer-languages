@@ -378,7 +378,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q110,3,Portuguese,15,MZ,por,Portuguese,1,0,1,0
 2,q110,4,Kiswahili,9,TZ,swa,Swahili,1,0,1,1
 2,q110,4,Kiswahili,14,KE,swa,Swahili,1,0,1,0
-2,q110,50,Crioulo,13,CV,por,Portuguese,0,0,,
+2,q110,50,Crioulo,13,CV,ago,Angolar,0,0,,
+2,q110,50,Crioulo,13,CV,gbc,Guinea Bissau Crioulo,0,0,,
+2,q110,50,Crioulo,13,CV,pri,Príncipense,0,0,,
 2,q110,60,Luganda,10,UG,lda,Luganda,1,0,1,1
 2,q110,61,Lusoga,10,UG,lda,Luganda,1,2,1,1
 2,q110,61,Lusoga,10,UG,nko,Nkore-Kiga,1,2,1,1
@@ -567,7 +569,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q83,4,Kiswahili,11,ZM,swa,Swahili,1,2,0,0
 2,q83,4,Kiswahili,14,KE,swa,Swahili,1,0,1,0
 2,q83,4,Kiswahili,15,MZ,swa,Swahili,1,0,1,0
-2,q83,50,Crioulo,13,CV,por,Portuguese,0,0,,
+2,q83,50,Crioulo,13,CV,ago,Angolar,0,0,,
+2,q83,50,Crioulo,13,CV,gbc,Guinea Bissau Crioulo,0,0,,
+2,q83,50,Crioulo,13,CV,pri,Príncipense,0,0,,
 2,q83,60,Luganda,10,UG,lda,Luganda,1,0,1,1
 2,q83,61,Lusoga,10,UG,lda,Luganda,1,2,1,1
 2,q83,61,Lusoga,10,UG,nko,Nkore-Kiga,1,2,1,1
@@ -745,7 +749,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q83,278,Sidawa,7,NG,miy,Miya,1,3,1,1
 2,q83,278,Sidawa,7,NG,ngz,Ngizim,1,3,1,1
 2,q83,278,Sidawa,7,NG,paa,Pa'a,1,3,1,1
-2,q83,279,Pidgin English,7,NG,npi,Nigerian Pidgin,1,0,1,1
+2,q83,279,Pidgin English,7,NG,npi,Nigerian Pidgin,0,0,,
 2,q83,280,Shona,12,ZW,krg,Karanga,1,0,1,1
 2,q83,280,Shona,12,ZW,shn,Shona,1,0,1,1
 2,q83,281,Ndebele,12,ZW,klz,Kalanga,1,2,1,1
@@ -891,7 +895,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q97,3,Portuguese,16,SN,por,Portuguese,1,0,1,0
 2,q97,4,Kiswahili,9,TZ,swa,Swahili,1,0,1,1
 2,q97,4,Kiswahili,14,KE,swa,Swahili,1,0,1,0
-2,q97,50,Crioulo,13,CV,por,Portuguese,0,0,,
+2,q97,50,Crioulo,13,CV,ago,Angolar,0,0,,
+2,q97,50,Crioulo,13,CV,gbc,Guinea Bissau Crioulo,0,0,,
+2,q97,50,Crioulo,13,CV,pri,Príncipense,0,0,,
 2,q97,60,Luganda,10,UG,lda,Luganda,1,0,1,1
 2,q97,61,Lusoga,10,UG,lda,Luganda,1,2,1,1
 2,q97,61,Lusoga,10,UG,nko,Nkore-Kiga,1,2,1,1
@@ -1005,7 +1011,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q97,272,Ebira,7,NG,ebi,Ebira,1,0,1,1
 2,q97,273,Fulani,7,NG,fgo,Fulani (Gombe),1,0,1,1
 2,q97,277,Gwari,7,NG,gwa,Gwari,1,0,1,1
-2,q97,279,Pidgin English,7,NG,npi,Nigerian Pidgin,1,0,1,1
+2,q97,279,Pidgin English,7,NG,npi,Nigerian Pidgin,0,0,,
 2,q97,280,Shona,12,ZW,krg,Karanga,1,0,1,1
 2,q97,280,Shona,12,ZW,shn,Shona,1,0,1,1
 2,q97,281,Ndebele,12,ZW,klz,Kalanga,1,2,1,1
@@ -1119,7 +1125,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q103,127,Yoa,1,BJ,ntn,Nateni,1,2,1,1
 3,q103,127,Yoa,1,BJ,wwa,Waama,1,2,1,1
 3,q103,140,Setswana,2,BW,tsw,Tswana,1,0,1,1
-3,q103,165,Creole,3,CV,por,Portuguese,0,0,,
+3,q103,165,Creole,3,CV,ago,Angolar,0,0,,
+3,q103,165,Creole,3,CV,gbc,Guinea Bissau Crioulo,0,0,,
+3,q103,165,Creole,3,CV,pri,Príncipense,0,0,,
 3,q103,180,AKAN,4,GH,akn,Akan,1,0,1,1
 3,q103,181,EWE,4,GH,ewa,Ewe (Anglo),1,0,1,1
 3,q103,181,EWE,4,GH,ewe,Ewe,1,0,1,1
@@ -1221,7 +1229,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q103,340,Hausa,12,NG,hau,Hausa,1,0,1,1
 3,q103,341,Igbo,12,NG,igb,Igbo,1,0,1,1
 3,q103,342,Yoruba,12,NG,yor,Yoruba,1,0,1,1
-3,q103,343,Pidgin English,12,NG,npi,Nigerian Pidgin,1,0,1,1
+3,q103,343,Pidgin English,12,NG,npi,Nigerian Pidgin,0,0,,
 3,q103,360,Wolof,13,SN,wlf,Wolof,1,0,1,1
 3,q103,361,Pular,13,SN,fgu,Fula (Guinean),1,0,1,0
 3,q103,362,Serer,13,SN,fus,Fula (Senegal),1,2,1,1
@@ -1297,7 +1305,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q114,144,Sekalanga,2,BW,klz,Kalanga,1,0,1,1
 3,q114,145,Seherero,2,BW,her,Herero,1,0,1,1
 3,q114,147,Sebirwa,2,BW,stn,Sotho (Northern),1,1,0,0
-3,q114,165,Creole,3,CV,por,Portuguese,0,0,,
+3,q114,165,Creole,3,CV,ago,Angolar,0,0,,
+3,q114,165,Creole,3,CV,gbc,Guinea Bissau Crioulo,0,0,,
+3,q114,165,Creole,3,CV,pri,Príncipense,0,0,,
 3,q114,180,AKAN,4,GH,akn,Akan,1,0,1,1
 3,q114,181,EWE,4,GH,ewa,Ewe (Anglo),1,0,1,1
 3,q114,181,EWE,4,GH,ewe,Ewe,1,0,1,1
@@ -1357,7 +1367,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q114,340,Hausa,12,NG,hau,Hausa,1,0,1,1
 3,q114,341,Igbo,12,NG,igb,Igbo,1,0,1,1
 3,q114,342,Yoruba,12,NG,yor,Yoruba,1,0,1,1
-3,q114,343,Pidgin English,12,NG,npi,Nigerian Pidgin,1,0,1,1
+3,q114,343,Pidgin English,12,NG,npi,Nigerian Pidgin,0,0,,
 3,q114,344,Efik,12,NG,efi,Efik,1,0,1,1
 3,q114,345,Ebira,12,NG,ebi,Ebira,1,0,1,1
 3,q114,346,Fulani,12,NG,fgo,Fulani (Gombe),1,0,1,1
@@ -1484,7 +1494,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q3,147,Sebirwa,2,BW,stn,Sotho (Northern),1,1,0,0
 3,q3,148,Sengologa,2,BW,tsw,Tswana,1,2,1,1
 3,q3,149,Seyei,2,BW,yey,Yeyi,1,0,1,1
-3,q3,165,Creole,3,CV,por,Portuguese,0,0,,
+3,q3,165,Creole,3,CV,ago,Angolar,0,0,,
+3,q3,165,Creole,3,CV,gbc,Guinea Bissau Crioulo,0,0,,
+3,q3,165,Creole,3,CV,pri,Príncipense,0,0,,
 3,q3,180,AKAN,4,GH,akn,Akan,1,0,1,1
 3,q3,181,EWE,4,GH,ewa,Ewe (Anglo),1,0,1,1
 3,q3,181,EWE,4,GH,ewe,Ewe,1,0,1,1
@@ -1628,7 +1640,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q3,340,Hausa,12,NG,hau,Hausa,1,0,1,1
 3,q3,341,Igbo,12,NG,igb,Igbo,1,0,1,1
 3,q3,342,Yoruba,12,NG,yor,Yoruba,1,0,1,1
-3,q3,343,Pidgin English,12,NG,npi,Nigerian Pidgin,1,0,1,1
+3,q3,343,Pidgin English,12,NG,npi,Nigerian Pidgin,0,0,,
 3,q3,344,Efik,12,NG,efi,Efik,1,0,1,1
 3,q3,345,Ebira,12,NG,ebi,Ebira,1,0,1,1
 3,q3,346,Fulani,12,NG,fgo,Fulani (Gombe),1,0,1,1
@@ -1909,7 +1921,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q103,183,Dioula,3,BF,dyu,Dyula,1,0,1,1
 4,Q103,184,Fulfude,3,BF,fbf,Fula (Burkina Faso),1,0,1,1
 4,Q103,184,Fulfude,3,BF,fli,Ful (Liptako),1,0,1,1
-4,Q103,220,Crioulo,4,CV,por,Portuguese,0,0,,
+4,Q103,220,Crioulo,4,CV,ago,Angolar,0,0,,
+4,Q103,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0,0,,
+4,Q103,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 4,Q103,221,Portugues,4,CV,por,Portuguese,1,0,1,0
 4,Q103,260,Akan,5,GH,akn,Akan,1,0,1,1
 4,Q103,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
@@ -1926,7 +1940,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q103,304,Kalenjin,6,KE,nan,Nandi,0,0,,
 4,Q103,310,Somali,6,KE,som,Somali,1,0,1,0
 4,Q103,340,Sesotho,7,LS,ses,Sesotho,1,0,1,1
-4,Q103,396,Simple Liberian English,8,LR,eng,English,0,0,,
+4,Q103,396,Simple Liberian English,8,LR,npi,Nigerian Pidgin,0,0,,
 4,Q103,420,Official malagasy,9,MG,mal,Malagasy,1,0,1,1
 4,Q103,421,Malagasy with regional variation,9,MG,mal,Malagasy,1,1,1,1
 4,Q103,460,Tumbuka,10,MW,cic,Chichewa,1,2,1,1
@@ -1958,7 +1972,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q103,620,Hausa,14,NG,hau,Hausa,1,0,1,1
 4,Q103,621,Igbo,14,NG,igb,Igbo,1,0,1,1
 4,Q103,622,Yoruba,14,NG,yor,Yoruba,1,0,1,1
-4,Q103,623,Pidgin English,14,NG,npi,Nigerian Pidgin,1,0,1,1
+4,Q103,623,Pidgin English,14,NG,npi,Nigerian Pidgin,0,0,,
 4,Q103,660,Wolof,15,SN,wlf,Wolof,1,0,1,1
 4,Q103,661,Pulaar/Toucouleur,15,SN,fus,Fula (Senegal),1,0,1,1
 4,Q103,662,Serer,15,SN,fus,Fula (Senegal),1,2,1,1
@@ -2025,7 +2039,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q114,184,Fulfude,3,BF,fbf,Fula (Burkina Faso),1,0,1,1
 4,Q114,184,Fulfude,3,BF,fli,Ful (Liptako),1,0,1,1
 4,Q114,186,Gourounsi,3,BF,grn,Gurenne,1,0,1,0
-4,Q114,220,Crioulo,4,CV,por,Portuguese,0,0,,
+4,Q114,220,Crioulo,4,CV,ago,Angolar,0,0,,
+4,Q114,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0,0,,
+4,Q114,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 4,Q114,221,Portugues,4,CV,por,Portuguese,1,0,1,0
 4,Q114,260,Akan,5,GH,akn,Akan,1,0,1,1
 4,Q114,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
@@ -2058,7 +2074,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q114,392,Mandingo,8,LR,mka,Mauka,1,1,0,0
 4,Q114,392,Mandingo,8,LR,mnk,Maninka,1,1,0,0
 4,Q114,395,Vai,8,LR,vai,Vai,1,0,1,1
-4,Q114,396,Simple Liberian English,8,LR,eng,English,0,0,,
+4,Q114,396,Simple Liberian English,8,LR,npi,Nigerian Pidgin,0,0,,
 4,Q114,420,Official malagasy,9,MG,mal,Malagasy,1,0,1,1
 4,Q114,421,Malagasy with regional variation,9,MG,mal,Malagasy,1,1,1,1
 4,Q114,460,Tumbuka,10,MW,cic,Chichewa,1,2,1,1
@@ -2097,7 +2113,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q114,620,Hausa,14,NG,hau,Hausa,1,0,1,1
 4,Q114,621,Igbo,14,NG,igb,Igbo,1,0,1,1
 4,Q114,622,Yoruba,14,NG,yor,Yoruba,1,0,1,1
-4,Q114,623,Pidgin English,14,NG,npi,Nigerian Pidgin,1,0,1,1
+4,Q114,623,Pidgin English,14,NG,npi,Nigerian Pidgin,0,0,,
 4,Q114,624,Efik,14,NG,efi,Efik,1,0,1,1
 4,Q114,625,Ebira,14,NG,ebi,Ebira,1,0,1,1
 4,Q114,626,Fulani,14,NG,fgo,Fulani (Gombe),1,0,1,1
@@ -2298,7 +2314,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q3,201,Fuls,3,BF,kfe,Koromfe,1,0,1,1
 4,Q3,202,Sonra,3,BF,kch,Koyra Chiini,1,1,1,0
 4,Q3,202,Sonra,3,BF,kse,Koyraboro Senni,1,1,1,0
-4,Q3,220,Crioulo,4,CV,por,Portuguese,0,0,,
+4,Q3,220,Crioulo,4,CV,ago,Angolar,0,0,,
+4,Q3,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0,0,,
+4,Q3,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 4,Q3,221,Portugues,4,CV,por,Portuguese,1,0,1,0
 4,Q3,260,Akan,5,GH,akn,Akan,1,0,1,1
 4,Q3,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
@@ -2370,7 +2388,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q3,393,Mano,8,LR,man,Mano,1,0,1,1
 4,Q3,394,Mende,8,LR,mde,Mende,1,0,1,0
 4,Q3,395,Vai,8,LR,vai,Vai,1,0,1,1
-4,Q3,396,Simple Liberian English,8,LR,eng,English,0,0,,
+4,Q3,396,Simple Liberian English,8,LR,npi,Nigerian Pidgin,0,0,,
 4,Q3,397,Sarpo,8,LR,gue,Guere,1,1,0,0
 4,Q3,420,Official malagasy,9,MG,mal,Malagasy,1,0,1,1
 4,Q3,421,Malagasy with regional variation,9,MG,mal,Malagasy,1,1,1,1
@@ -2486,7 +2504,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q3,620,Hausa,14,NG,hau,Hausa,1,0,1,1
 4,Q3,621,Igbo,14,NG,igb,Igbo,1,0,1,1
 4,Q3,622,Yoruba,14,NG,yor,Yoruba,1,0,1,1
-4,Q3,623,Pidgin English,14,NG,npi,Nigerian Pidgin,1,0,1,1
+4,Q3,623,Pidgin English,14,NG,npi,Nigerian Pidgin,0,0,,
 4,Q3,624,Efik,14,NG,efi,Efik,1,0,1,1
 4,Q3,625,Ebira,14,NG,ebi,Ebira,1,0,1,1
 4,Q3,626,Fulani,14,NG,fgo,Fulani (Gombe),1,0,1,1
@@ -2693,7 +2711,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q3,801,Lwamba,18,UG,mbl,Mbole,1,2,0,0
 4,Q3,801,Lwamba,18,UG,mit,Mituku,1,2,0,0
 4,Q3,801,Lwamba,18,UG,nng,Nyanga,1,2,0,0
-4,Q3,802,Nubian,18,UG,nub,Nubi,1,0,1,1
+4,Q3,802,Nubian,18,UG,nub,Nubi,0,0,,
 4,Q3,803,Rufumbira,18,UG,kin,Kinyarwanda,1,0,1,0
 4,Q3,804,Runyarwanda,18,UG,kin,Kinyarwanda,1,0,1,0
 4,Q3,805,Sabiny,18,UG,seb,Sebei,1,0,1,1
@@ -2836,7 +2854,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q103,103,Dendi,1,BJ,zar,Zarma,1,1,0,0
 5,Q103,140,Setswana,2,BW,tsw,Tswana,1,0,1,1
 5,Q103,180,Mooré,3,BF,moo,Mooré,1,0,1,1
-5,Q103,220,Crioulo,4,CV,por,Portuguese,0,0,,
+5,Q103,220,Crioulo,4,CV,ago,Angolar,0,0,,
+5,Q103,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0,0,,
+5,Q103,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 5,Q103,260,Akan,5,GH,akn,Akan,1,0,1,1
 5,Q103,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
 5,Q103,261,Ewe,5,GH,ewe,Ewe,1,0,1,1
@@ -2847,7 +2867,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q103,303,Kamba,6,KE,kba,Kamba,1,0,1,1
 5,Q103,304,Kalenjin,6,KE,nan,Nandi,0,0,,
 5,Q103,340,Sesotho,7,LS,ses,Sesotho,1,0,1,1
-5,Q103,396,Liberian Simple English,8,LR,eng,English,0,0,,
+5,Q103,396,Liberian Simple English,8,LR,npi,Nigerian Pidgin,0,0,,
 5,Q103,420,"""Official"" Malagasy",9,MG,mal,Malagasy,1,0,1,1
 5,Q103,421,Malagasy dialect,9,MG,mal,Malagasy,1,1,1,1
 5,Q103,460,Chitumbuka,10,MW,cic,Chichewa,1,2,1,1
@@ -2863,7 +2883,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q103,584,Otjiherero,13,NA,her,Herero,1,0,1,1
 5,Q103,585,Rukwangali,13,NA,kwn,Kwangali,1,0,1,1
 5,Q103,621,Igbo,14,NG,igb,Igbo,1,0,1,1
-5,Q103,623,Pidgin English,14,NG,npi,Nigerian Pidgin,1,0,1,1
+5,Q103,623,Pidgin English,14,NG,npi,Nigerian Pidgin,0,0,,
 5,Q103,660,Wolof,15,SN,wlf,Wolof,1,0,1,1
 5,Q103,661,Pulaar/Toucouleur,15,SN,fus,Fula (Senegal),1,0,1,1
 5,Q103,665,Diola,15,SN,dio,Diola-Fogny,1,0,1,1
@@ -2913,8 +2933,8 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q103,860,Ndebele,20,ZW,shn,Shona,1,2,1,1
 5,Q103,861,Shona,20,ZW,krg,Karanga,1,0,1,1
 5,Q103,861,Shona,20,ZW,shn,Shona,1,0,1,1
-5,Q103,900,Creole,21,MU,mcr,Mauritian Creole,1,0,1,1
-5,Q103,930,Krio,22,SL,npi,Nigerian Pidgin,1,1,0,0
+5,Q103,900,Creole,21,MU,mcr,Mauritian Creole,0,0,,
+5,Q103,930,Krio,22,SL,npi,Nigerian Pidgin,0,0,,
 5,Q103,931,Mende,22,SL,mde,Mende,1,0,1,1
 5,Q103,932,Temne,22,SL,tne,Temne,1,0,1,1
 5,Q103,933,Limba,22,SL,tne,Temne,1,2,1,1
@@ -2929,7 +2949,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q103,1145,Nawdem (Losso),24,TG,ncm,Ncàm,1,2,1,1
 5,Q103,1180,Kirundi,25,BI,rnd,Rundi,1,0,1,1
 5,Q103,1220,Foufoulde,26,CM,fua,Fula (Cameroonian),1,0,1,1
-5,Q103,1221,Pidgin,26,CM,npi,Nigerian Pidgin,1,1,0,0
+5,Q103,1221,Pidgin,26,CM,npi,Nigerian Pidgin,0,0,,
 5,Q103,1222,Ewondo,26,CM,ewo,Ewondo,1,0,1,1
 5,Q103,1223,Bafang,26,CM,fef,Fe'fe',1,0,1,1
 5,Q103,1300,Soussou,28,GN,sus,Susu,1,0,1,1
@@ -3004,7 +3024,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q116,196,Kassena,3,BF,ksm,Kasem,1,0,1,1
 5,Q116,196,Kassena,3,BF,xsm,Kàsim,1,0,1,1
 5,Q116,197,Fulsé,3,BF,kfe,Koromfe,1,0,1,1
-5,Q116,220,Crioulo,4,CV,por,Portuguese,0,0,,
+5,Q116,220,Crioulo,4,CV,ago,Angolar,0,0,,
+5,Q116,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0,0,,
+5,Q116,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 5,Q116,260,Akan,5,GH,akn,Akan,1,0,1,1
 5,Q116,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
 5,Q116,261,Ewe,5,GH,ewe,Ewe,1,0,1,1
@@ -3173,9 +3195,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q116,865,Manyika,20,ZW,klz,Kalanga,1,2,1,1
 5,Q116,865,Manyika,20,ZW,krg,Karanga,1,2,1,1
 5,Q116,865,Manyika,20,ZW,shn,Shona,1,2,1,1
-5,Q116,900,Creole,21,MU,mcr,Mauritian Creole,1,0,1,1
+5,Q116,900,Creole,21,MU,mcr,Mauritian Creole,0,0,,
 5,Q116,901,Bhojpuri,21,MU,bho,Bhojpuri,1,0,1,0
-5,Q116,930,Krio,22,SL,npi,Nigerian Pidgin,1,1,0,0
+5,Q116,930,Krio,22,SL,npi,Nigerian Pidgin,0,0,,
 5,Q116,931,Mende,22,SL,mde,Mende,1,0,1,1
 5,Q116,932,Temne,22,SL,tne,Temne,1,0,1,1
 5,Q116,933,Limba,22,SL,tne,Temne,1,2,1,1
@@ -3470,7 +3492,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,198,Toussian,3,BF,tou,Toussian,1,0,1,1
 5,Q2,198,Toussian,3,BF,tow,Toussian (Win),1,0,1,1
 5,Q2,199,Dafing,3,BF,dyu,Dyula,1,2,0,1
-5,Q2,220,Crioulo,4,CV,por,Portuguese,0,0,,
+5,Q2,220,Crioulo,4,CV,ago,Angolar,0,0,,
+5,Q2,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0,0,,
+5,Q2,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 5,Q2,260,Akan,5,GH,akn,Akan,1,0,1,1
 5,Q2,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
 5,Q2,261,Ewe,5,GH,ewe,Ewe,1,0,1,1
@@ -3547,7 +3571,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,391,Lorma,8,LR,lma,Loma,1,0,1,1
 5,Q2,392,Mandingo,8,LR,mka,Mauka,1,1,0,0
 5,Q2,392,Mandingo,8,LR,mnk,Maninka,1,1,0,0
-5,Q2,396,Simple Liberian English,8,LR,eng,English,0,0,,
+5,Q2,396,Simple Liberian English,8,LR,npi,Nigerian Pidgin,0,0,,
 5,Q2,420,"""Official"" Malagasy",9,MG,mal,Malagasy,1,0,1,1
 5,Q2,421,Malagasy dialect,9,MG,mal,Malagasy,1,1,1,1
 5,Q2,460,Chitumbuka,10,MW,cic,Chichewa,1,2,1,1
@@ -3635,7 +3659,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,588,Silozi,13,NA,loz,Lozi,1,0,1,0
 5,Q2,590,Masubia,13,NA,sub,Subiya,1,0,1,1
 5,Q2,621,Igbo,14,NG,igb,Igbo,1,0,1,1
-5,Q2,623,Pidgin English,14,NG,npi,Nigerian Pidgin,1,0,1,1
+5,Q2,623,Pidgin English,14,NG,npi,Nigerian Pidgin,0,0,,
 5,Q2,624,Efik,14,NG,efi,Efik,1,0,1,1
 5,Q2,625,Ebira,14,NG,ebi,Ebira,1,0,1,1
 5,Q2,626,Fulani,14,NG,fgo,Fulani (Gombe),1,0,1,1
@@ -3912,9 +3936,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,875,Bocha,20,ZW,klz,Kalanga,1,2,1,1
 5,Q2,875,Bocha,20,ZW,krg,Karanga,1,2,1,1
 5,Q2,875,Bocha,20,ZW,shn,Shona,1,2,1,1
-5,Q2,900,Creole,21,MU,mcr,Mauritian Creole,1,0,1,1
+5,Q2,900,Creole,21,MU,mcr,Mauritian Creole,0,0,,
 5,Q2,901,Bhojpuri,21,MU,bho,Bhojpuri,1,0,1,0
-5,Q2,930,Krio,22,SL,npi,Nigerian Pidgin,1,1,0,0
+5,Q2,930,Krio,22,SL,npi,Nigerian Pidgin,0,0,,
 5,Q2,932,Temne,22,SL,tne,Temne,1,0,1,1
 5,Q2,933,Limba,22,SL,tne,Temne,1,2,1,1
 5,Q2,934,Loko,22,SL,lok,Loko,1,0,1,1
@@ -3951,7 +3975,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,1159,Aklobo,24,TG,kpo,Kposo,1,2,1,1
 5,Q2,1180,Kirundi,25,BI,rnd,Rundi,1,0,1,1
 5,Q2,1220,Foufoulde,26,CM,fua,Fula (Cameroonian),1,0,1,1
-5,Q2,1221,Pidgin,26,CM,npi,Nigerian Pidgin,1,1,0,0
+5,Q2,1221,Pidgin,26,CM,npi,Nigerian Pidgin,0,0,,
 5,Q2,1222,Ewondo,26,CM,ewo,Ewondo,1,0,1,1
 5,Q2,1223,Bafang,26,CM,fef,Fe'fe',1,0,1,1
 5,Q2,1224,Douala,26,CM,dua,Duala,1,0,1,1
@@ -4241,7 +4265,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q103,183,Gulmacema,4,BF,grm,Gurma,1,0,1,1
 6,Q103,183,Gulmacema,4,BF,gut,Gurma (Togo),1,0,1,1
 6,Q103,184,Gourounsi,4,BF,grn,Gurenne,1,0,1,0
-6,Q103,220,Crioulo,7,CV,por,Portuguese,0,0,,
+6,Q103,220,Crioulo,7,CV,ago,Angolar,0,0,,
+6,Q103,220,Crioulo,7,CV,gbc,Guinea Bissau Crioulo,0,0,,
+6,Q103,220,Crioulo,7,CV,pri,Príncipense,0,0,,
 6,Q103,221,Português,7,CV,por,Portuguese,1,0,1,0
 6,Q103,260,Akan,11,GH,akn,Akan,1,0,1,1
 6,Q103,262,Ga/Dangbe,11,GH,ga,Gã,0,0,,
@@ -4261,7 +4287,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q103,307,Maasai / Samburu,13,KE,maa,Maasai,1,0,1,1
 6,Q103,310,Somali,13,KE,som,Somali,1,0,1,0
 6,Q103,340,Sesotho,14,LS,ses,Sesotho,1,0,1,1
-6,Q103,380,Liberian English,15,LR,eng,English,0,0,,
+6,Q103,380,Liberian English,15,LR,npi,Nigerian Pidgin,0,0,,
 6,Q103,420,Malgache « officiel »,16,MG,mal,Malagasy,1,0,1,1
 6,Q103,421,Malgache avec spécificité régionale,16,MG,mal,Malagasy,1,1,1,1
 6,Q103,460,Chitumbuka,17,MW,cic,Chichewa,1,2,1,1
@@ -4279,7 +4305,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q103,582,Otjiherero,22,NA,her,Herero,1,0,1,1
 6,Q103,583,Rukwangali,22,NA,kwn,Kwangali,1,0,1,1
 6,Q103,621,Igbo,24,NG,igb,Igbo,0,0,,
-6,Q103,623,Pidgin English,24,NG,npi,Nigerian Pidgin,1,0,1,1
+6,Q103,623,Pidgin English,24,NG,npi,Nigerian Pidgin,0,0,,
 6,Q103,660,Wolof,26,SN,wlf,Wolof,1,0,1,1
 6,Q103,661,Pulaar/Toucouleur,26,SN,fus,Fula (Senegal),0,0,,
 6,Q103,665,Diola,26,SN,dio,Diola-Fogny,1,0,1,1
@@ -4317,8 +4343,8 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q103,860,Ndebele,36,ZW,krg,Karanga,1,2,1,1
 6,Q103,860,Ndebele,36,ZW,shn,Shona,1,2,1,1
 6,Q103,861,Shona,36,ZW,shn,Shona,0,0,,
-6,Q103,900,Creole,19,MU,mcr,Mauritian Creole,1,0,1,1
-6,Q103,930,Krio,27,SL,npi,Nigerian Pidgin,1,1,0,0
+6,Q103,900,Creole,19,MU,mcr,Mauritian Creole,0,0,,
+6,Q103,930,Krio,27,SL,npi,Nigerian Pidgin,0,0,,
 6,Q103,931,Mende,27,SL,mde,Mende,1,0,1,1
 6,Q103,932,Temne,27,SL,tne,Temne,1,0,1,1
 6,Q103,1100,Haoussa,23,NE,hau,Hausa,1,0,1,1
@@ -4329,7 +4355,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q103,1145,Nawdem (Losso),32,TG,ncm,Ncàm,1,2,1,1
 6,Q103,1180,Kirundi,5,BI,rnd,Rundi,1,0,1,1
 6,Q103,1220,Foufouldé,6,CM,fua,Fula (Cameroonian),0,0,,
-6,Q103,1221,Pidgin,6,CM,npi,Nigerian Pidgin,1,1,0,0
+6,Q103,1221,Pidgin,6,CM,npi,Nigerian Pidgin,0,0,,
 6,Q103,1222,Ewondo,6,CM,ewo,Ewondo,1,0,1,1
 6,Q103,1300,Soussou,12,GN,sus,Susu,1,0,1,1
 6,Q103,1302,Poular,12,GN,fgu,Fula (Guinean),0,0,,
@@ -4338,7 +4364,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q103,1312,Kissié,12,GN,kis,Kisi,1,1,0,1
 6,Q103,1312,Kissié,12,GN,kss,Kisi (Southern),1,1,0,1
 6,Q103,1620,siSwati,30,SZ,swt,Swati,1,0,1,1
-6,Q103,1660,Creolo,25,ST,ago,Angolar,1,0,1,1
+6,Q103,1660,Creolo,25,ST,ago,Angolar,0,0,,
 6,Q103,9995,Other,6,CM,,,,,,
 6,Q103,9995,Other,11,GH,,,,,,
 6,Q103,9995,Other,12,GN,,,,,,
@@ -4403,7 +4429,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q116,184,Gourounsi,4,BF,grn,Gurenne,1,0,1,0
 6,Q116,185,Bissa,4,BF,bis,Bisa,1,0,1,1
 6,Q116,190,Samo,4,BF,bis,Bisa,1,2,1,1
-6,Q116,220,Crioulo,7,CV,por,Portuguese,0,0,,
+6,Q116,220,Crioulo,7,CV,ago,Angolar,0,0,,
+6,Q116,220,Crioulo,7,CV,gbc,Guinea Bissau Crioulo,0,0,,
+6,Q116,220,Crioulo,7,CV,pri,Príncipense,0,0,,
 6,Q116,221,Português,7,CV,por,Portuguese,1,0,1,0
 6,Q116,260,Akan,11,GH,akn,Akan,1,0,1,1
 6,Q116,262,Ga/Dangbe,11,GH,ga,Gã,0,0,,
@@ -4576,8 +4604,8 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q116,865,Manyika,36,ZW,klz,Kalanga,1,2,1,1
 6,Q116,865,Manyika,36,ZW,krg,Karanga,1,2,1,1
 6,Q116,865,Manyika,36,ZW,shn,Shona,1,2,1,1
-6,Q116,900,Creole,19,MU,mcr,Mauritian Creole,1,0,1,1
-6,Q116,930,Krio,27,SL,npi,Nigerian Pidgin,1,1,0,0
+6,Q116,900,Creole,19,MU,mcr,Mauritian Creole,0,0,,
+6,Q116,930,Krio,27,SL,npi,Nigerian Pidgin,0,0,,
 6,Q116,931,Mende,27,SL,mde,Mende,1,0,1,1
 6,Q116,932,Temne,27,SL,tne,Temne,1,0,1,1
 6,Q116,933,Limba,27,SL,tne,Temne,1,2,1,1
@@ -4803,7 +4831,9 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q2,195,Samo,4,BF,bis,Bisa,1,2,1,1
 6,Q2,197,Sonrai,4,BF,kch,Koyra Chiini,1,1,1,0
 6,Q2,197,Sonrai,4,BF,kse,Koyraboro Senni,1,1,1,0
-6,Q2,220,Crioulo,7,CV,por,Portuguese,0,0,,
+6,Q2,220,Crioulo,7,CV,ago,Angolar,0,0,,
+6,Q2,220,Crioulo,7,CV,gbc,Guinea Bissau Crioulo,0,0,,
+6,Q2,220,Crioulo,7,CV,pri,Príncipense,0,0,,
 6,Q2,221,Português,7,CV,por,Portuguese,1,0,1,0
 6,Q2,260,Akan,11,GH,akn,Akan,1,0,1,1
 6,Q2,262,Ga/Dangbe,11,GH,ga,Gã,0,0,,
@@ -4863,7 +4893,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q2,392,Mandingo,15,LR,mka,Mauka,1,1,0,0
 6,Q2,392,Mandingo,15,LR,mnk,Maninka,1,1,0,0
 6,Q2,395,Vai,15,LR,vai,Vai,1,0,1,1
-6,Q2,396,Liberian English,15,LR,eng,English,0,0,,
+6,Q2,396,Liberian English,15,LR,npi,Nigerian Pidgin,0,0,,
 6,Q2,420,Malgache « officiel »,16,MG,mal,Malagasy,1,0,1,1
 6,Q2,421,Malgache avec spécificité régionale,16,MG,mal,Malagasy,1,1,1,1
 6,Q2,460,Chitumbuka,17,MW,cic,Chichewa,1,2,1,1
@@ -4925,7 +4955,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q2,590,Masubia,22,NA,sub,Subiya,1,0,1,1
 6,Q2,591,San,22,NA,juh,Ju|'hoan,0,0,,
 6,Q2,621,Igbo,24,NG,igb,Igbo,0,0,,
-6,Q2,623,Pidgin English,24,NG,npi,Nigerian Pidgin,1,0,1,1
+6,Q2,623,Pidgin English,24,NG,npi,Nigerian Pidgin,0,0,,
 6,Q2,624,Efik,24,NG,efi,Efik,1,0,1,1
 6,Q2,625,Ebira,24,NG,ebi,Ebira,1,0,1,1
 6,Q2,626,Fulani,24,NG,fgo,Fulani (Gombe),0,0,,
@@ -5171,8 +5201,8 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q2,870,Buja,36,ZW,shn,Shona,1,0,1,1
 6,Q2,871,Shangani,36,ZW,tsn,Tsonga,1,0,1,0
 6,Q2,872,Suthu,36,ZW,tsw,Tswana,1,0,1,0
-6,Q2,900,Creole,19,MU,mcr,Mauritian Creole,1,0,1,1
-6,Q2,930,Krio,27,SL,npi,Nigerian Pidgin,1,1,0,0
+6,Q2,900,Creole,19,MU,mcr,Mauritian Creole,0,0,,
+6,Q2,930,Krio,27,SL,npi,Nigerian Pidgin,0,0,,
 6,Q2,932,Temne,27,SL,tne,Temne,1,0,1,1
 6,Q2,933,Limba,27,SL,tne,Temne,1,2,1,1
 6,Q2,934,Loko,27,SL,lok,Loko,1,0,1,1
@@ -5208,7 +5238,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q2,1160,Tchpkossi (Anoufom),32,TG,anu,Anufo,1,0,1,1
 6,Q2,1180,Kirundi,5,BI,rnd,Rundi,1,0,1,1
 6,Q2,1220,Foufouldé,6,CM,fua,Fula (Cameroonian),0,0,,
-6,Q2,1221,Pidgin,6,CM,npi,Nigerian Pidgin,1,1,0,0
+6,Q2,1221,Pidgin,6,CM,npi,Nigerian Pidgin,0,0,,
 6,Q2,1222,Ewondo,6,CM,ewo,Ewondo,1,0,1,1
 6,Q2,1223,Bafang,6,CM,fef,Fe'fe',1,0,1,1
 6,Q2,1224,Douala,6,CM,dua,Duala,1,0,1,1
@@ -5322,12 +5352,14 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q2,1460,Egyptian Arabic,9,EG,aeg,Arabic (Egyptian),0,0,,
 6,Q2,1501,Alhassania,20,MA,ahs,Arabic (Bani-Hassan),1,0,1,0
 6,Q2,1540,Sudanese Arabic,29,SD,abb,Arabic (Abbéché Chad),0,0,,
+6,Q2,1541,Nubian Language,29,SD,mid,Midob,1,0,1,1
+6,Q2,1541,Nubian Language,29,SD,nbd,Nubian (Dongolese),1,0,1,1
 6,Q2,1541,Nubian Language,29,SD,nob,Nobiin,1,0,1,1
 6,Q2,1620,siSwati,30,SZ,swt,Swati,1,0,1,1
 6,Q2,1621,Shangaan,30,SZ,tsn,Tsonga,1,0,1,0
-6,Q2,1660,Creolo,25,ST,ago,Angolar,1,0,1,1
+6,Q2,1660,Creolo,25,ST,ago,Angolar,0,0,,
 6,Q2,1661,Forro,25,ST,pri,Príncipense,0,0,,
-6,Q2,1662,Angolar,25,ST,ago,Angolar,1,0,1,1
+6,Q2,1662,Angolar,25,ST,ago,Angolar,0,0,,
 6,Q2,1700,Fang,10,GA,bga,Benga,1,2,1,1
 6,Q2,1701,Punu/Mériè,10,GA,dma,Duma,1,2,1,1
 6,Q2,1701,Punu/Mériè,10,GA,mpo,Mpongwe,1,2,1,1

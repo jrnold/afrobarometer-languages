@@ -502,7 +502,9 @@
   - Q114
   - Q3
   wals_code:
-  - por
+  - pri
+  - ago
+  - gbc
 - iso_639_3:
   - por
   lang_id: 221
@@ -1089,7 +1091,7 @@
   - Q114
   - Q3
   wals_code:
-  - eng
+  - npi
 - iso_639_3:
   - krn
   lang_id: 397
@@ -1920,7 +1922,8 @@
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - npi
 - iso_639_3:
   - efi
   lang_id: 624
@@ -2990,7 +2993,8 @@
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - nub
 - iso_639_3:
   - kin
   lang_id: 803
