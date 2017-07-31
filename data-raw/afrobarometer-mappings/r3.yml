@@ -825,7 +825,6 @@
   wals_code: null
 - iso_639_3:
   - cmn
-  - yue
   lang_id: 242
   lang_name: chinois
   note: Chinese language.
@@ -845,12 +844,14 @@
   note: >-
     Comorien is immmigrant lang of Madagascar https://www-ethnologue-com./country/MG
 - iso_639_3:
-  - mul
+  - guj
   lang_id: 244
   lang_name: pakistanais
   question:
   - q3
   wals_code: null
+  note: >-
+    Madagascar
 - iso_639_3:
   - tum
   lang_id: 260
@@ -2687,12 +2688,15 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - mul
+  - guj
   lang_id: 817
   lang_name: Indian
   question:
   - q3
   wals_code: null
+  note: >-
+    Kenya (KE). Gujarati is most common Indian lang spoken in Kenya.
+    https://www.ethnologue.com/country/KE/languages
 - iso_639_3:
   - bji
   lang_id: 818

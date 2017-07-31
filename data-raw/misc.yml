@@ -26,6 +26,7 @@ wals:
       - bfg
       - tms
       - arg
+      - hin
   other_non_african:
     description: ""
     values:

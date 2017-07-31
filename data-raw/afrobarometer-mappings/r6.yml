@@ -2157,13 +2157,15 @@
   wals_code:
   - zul
 - iso_639_3:
-  - mul
+  - hin
   lang_id: 710
   lang_name: Asian/Indian
-  note: Multilple languages
   question:
   - Q2
   wals_code: null
+  note: >-
+    Ethnologue lists Hindi and Urdu. Hindi is the much more
+    common lang. https://www.ethnologue.com/country/ZA/languages
 - iso_639_3:
   - nyy
   lang_id: 740

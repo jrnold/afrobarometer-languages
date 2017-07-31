@@ -1518,7 +1518,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,243,comorien,7,MG,wlc,Mwali Comorian,I
 3,q3,243,comorien,7,MG,wni,Ndzwani Comorian,I
 3,q3,243,comorien,7,MG,zdj,Ngazidja Comorian,I
-3,q3,244,pakistanais,7,MG,mul,Multiple languages,S
+3,q3,244,pakistanais,7,MG,guj,Gujarati,I
 3,q3,260,Tumbuka,8,MW,tum,Tumbuka,I
 3,q3,261,Nkhonde,8,MW,nyy,Nyakyusa-Ngonde,I
 3,q3,262,Lambya,8,MW,lai,Lambya,I
@@ -1738,7 +1738,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,814,Tugen,5,KE,tuy,Tugen,I
 3,q3,815,Boran,5,KE,gax,Borana-Arsi-Guji Oromo,I
 3,q3,815,Boran,5,KE,orm,Oromo,M
-3,q3,817,Indian,5,KE,mul,Multiple languages,S
+3,q3,817,Indian,5,KE,guj,Gujarati,I
 3,q3,818,Burji,5,KE,bji,Burji,I
 3,q3,819,Kuria,5,KE,kuj,Kuria,I
 3,q3,820,Gare,5,KE,gex,Garre,I
@@ -2502,7 +2502,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,707,Swazi,16,ZA,ssw,Swati,I
 4,Q3,708,Venda,16,ZA,ven,Venda,I
 4,Q3,709,Zulu,16,ZA,zul,Zulu,I
-4,Q3,710,Asian/Indian,16,ZA,mul,Multiple languages,S
+4,Q3,710,Asian/Indian,16,ZA,hin,Hindi,I
 4,Q3,740,Kinyakyusa,17,TZ,nyy,Nyakyusa-Ngonde,I
 4,Q3,741,Kichaga,17,TZ,old,Mochi,I
 4,Q3,742,Kihaya,17,TZ,hay,Haya,I
@@ -3594,7 +3594,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,703,Pedi/Spedi/North Sotho,16,ZA,nso,Pedi,I
 5,Q2,704,Sesotho/Sotho/South Sotho,16,ZA,sot,Southern Sotho,I
 5,Q2,709,Zulu,16,ZA,zul,Zulu,I
-5,Q2,710,Asian/Other,16,ZA,mul,Multiple languages,S
+5,Q2,710,Asian/Other,16,ZA,hin,Hindi,I
 5,Q2,740,Kinyakyusa,17,TZ,nyy,Nyakyusa-Ngonde,I
 5,Q2,741,Kichaga,17,TZ,old,Mochi,I
 5,Q2,742,Kihaya,17,TZ,hay,Haya,I
@@ -4817,7 +4817,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,706,Shangaan/Tsonga,28,ZA,tso,Tsonga,I
 6,Q2,707,Swazi,28,ZA,ssw,Swati,I
 6,Q2,709,Zulu,28,ZA,zul,Zulu,I
-6,Q2,710,Asian/Indian,28,ZA,mul,Multiple languages,S
+6,Q2,710,Asian/Indian,28,ZA,hin,Hindi,I
 6,Q2,740,Kinyakyusa,31,TZ,nyy,Nyakyusa-Ngonde,I
 6,Q2,741,Kichaga,31,TZ,old,Mochi,I
 6,Q2,742,Kihaya,31,TZ,hay,Haya,I

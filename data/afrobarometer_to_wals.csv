@@ -1524,7 +1524,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q3,240,malgache officielle,7,MG,mal,Malagasy,1,0,1,1
 3,q3,241,langue régionale,7,MG,mal,Malagasy,1,1,1,1
 3,q3,243,comorien,7,MG,com,Comorian,1,0,1,0
-3,q3,244,pakistanais,7,MG,,,,,,
+3,q3,244,pakistanais,7,MG,guj,Gujarati,1,0,1,0
 3,q3,260,Tumbuka,8,MW,cic,Chichewa,1,2,1,1
 3,q3,261,Nkhonde,8,MW,nyh,Nyiha,1,2,1,0
 3,q3,262,Lambya,8,MW,bem,Bemba,1,2,0,0
@@ -1833,7 +1833,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q3,813,Kipsigis,5,KE,nan,Nandi,1,0,1,1
 3,q3,814,Tugen,5,KE,nan,Nandi,1,0,1,1
 3,q3,815,Boran,5,KE,orb,Oromo (Boraana),1,0,1,1
-3,q3,817,Indian,5,KE,,,,,,
+3,q3,817,Indian,5,KE,guj,Gujarati,1,0,1,0
 3,q3,818,Burji,5,KE,brj,Burji,1,0,1,0
 3,q3,819,Kuria,5,KE,hya,Haya,1,2,1,0
 3,q3,819,Kuria,5,KE,nbo,Nyambo,1,2,1,0
@@ -2542,7 +2542,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q3,709,Zulu,16,ZA,zno,Zulu (Northern),1,0,1,1
 4,Q3,709,Zulu,16,ZA,zso,Zulu (Southern),1,0,1,1
 4,Q3,709,Zulu,16,ZA,zul,Zulu,1,0,1,1
-4,Q3,710,Asian/Indian,16,ZA,,,,,,
+4,Q3,710,Asian/Indian,16,ZA,hin,Hindi,1,0,1,0
 4,Q3,740,Kinyakyusa,17,TZ,nyh,Nyiha,1,2,1,1
 4,Q3,741,Kichaga,17,TZ,cga,Chaga,1,0,1,1
 4,Q3,742,Kihaya,17,TZ,hya,Haya,1,0,1,1
@@ -3698,7 +3698,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,709,Zulu,16,ZA,zno,Zulu (Northern),1,0,1,1
 5,Q2,709,Zulu,16,ZA,zso,Zulu (Southern),1,0,1,1
 5,Q2,709,Zulu,16,ZA,zul,Zulu,1,0,1,1
-5,Q2,710,Asian/Other,16,ZA,,,,,,
+5,Q2,710,Asian/Other,16,ZA,hin,Hindi,1,0,1,0
 5,Q2,740,Kinyakyusa,17,TZ,nyh,Nyiha,1,2,1,1
 5,Q2,741,Kichaga,17,TZ,cga,Chaga,1,0,1,1
 5,Q2,742,Kihaya,17,TZ,hya,Haya,1,0,1,1
@@ -4975,7 +4975,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 6,Q2,706,Shangaan/Tsonga,28,ZA,tsn,Tsonga,1,0,1,1
 6,Q2,707,Swazi,28,ZA,swt,Swati,1,0,1,1
 6,Q2,709,Zulu,28,ZA,zul,Zulu,0,0,,
-6,Q2,710,Asian/Indian,28,ZA,,,,,,
+6,Q2,710,Asian/Indian,28,ZA,hin,Hindi,1,0,1,0
 6,Q2,740,Kinyakyusa,31,TZ,nyh,Nyiha,1,2,1,1
 6,Q2,741,Kichaga,31,TZ,cga,Chaga,1,0,1,1
 6,Q2,742,Kihaya,31,TZ,hya,Haya,1,0,1,1

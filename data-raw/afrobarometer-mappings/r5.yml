@@ -1491,14 +1491,15 @@
   wals_code:
   - com
 - iso_639_3:
-  - mul
+  - guj
   lang_id: 424
   lang_name: Indo-pakistanais
-  note: Multiple and unknown languages
   question:
   - Q116
   - Q2
   wals_code: null
+  note: >-
+    Madagascar
 - iso_639_3:
   - tum
   lang_id: 460
@@ -2601,7 +2602,7 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - mul
+  - hin
   lang_id: 710
   lang_name: Asian/Other
   note: Multiple languages.
