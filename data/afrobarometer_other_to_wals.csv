@@ -594,7 +594,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 5,Q103OTHER,1,DITAMARI,BJ,wwa,Waama,1,1,1,1
 5,Q103OTHER,1,PEULH,BJ,fbf,Fula (Burkina Faso),1,0,1,0
 5,Q103OTHER,1,PEULH,BJ,fli,Ful (Liptako),1,0,1,0
-5,Q103OTHER,6,ENG AND SWAHILI,KE,,,,,,
+5,Q103OTHER,6,ENG AND SWAHILI,KE,eng,English,1,0,1,0
 5,Q103OTHER,6,KISII,KE,gus,Gusii,1,0,1,1
 5,Q103OTHER,6,KURIA,KE,hya,Haya,1,2,1,0
 5,Q103OTHER,6,KURIA,KE,nbo,Nyambo,1,2,1,0
@@ -876,7 +876,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 5,Q2OTHER,6,GIRIAMA,KE,kba,Kamba,1,2,1,1
 5,Q2OTHER,6,GIRIAMA,KE,kik,Kikuyu,1,2,1,1
 5,Q2OTHER,6,GUJRATHI,KE,guj,Gujarati,1,0,1,0
-5,Q2OTHER,6,"HALF TAITA, HALF ZAI",KE,,,,,,
+5,Q2OTHER,6,"HALF TAITA, HALF ZAI",KE,dbd,Dabida,1,0,1,1
 5,Q2OTHER,6,HINDU,KE,hin,Hindi,1,0,1,0
 5,Q2OTHER,6,INDIAN,KE,guj,Gujarati,1,0,1,0
 5,Q2OTHER,6,KENYAN,KE,swa,Swahili,1,0,1,0
@@ -1173,7 +1173,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 5,Q2OTHER,17,KIHANGAZA,TZ,nbo,Nyambo,1,2,1,1
 5,Q2OTHER,17,KIIKIZU,TZ,hya,Haya,1,2,1,1
 5,Q2OTHER,17,KIIKIZU,TZ,nbo,Nyambo,1,2,1,1
-5,Q2OTHER,17,KIIRAQ,TZ,,,,,,
+5,Q2OTHER,17,KIIRAQ,TZ,irq,Iraqw,1,0,1,1
 5,Q2OTHER,17,KIJALUO,TZ,,,,,,
 5,Q2OTHER,17,KIJITA,TZ,hya,Haya,1,2,1,1
 5,Q2OTHER,17,KIJITA,TZ,nbo,Nyambo,1,2,1,1
@@ -1991,11 +1991,11 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q103OTHER,21,nhungue,MZ,sen,Sena,1,2,1,1
 6,Q103OTHER,21,OUTRA LINGUA,MZ,,,,,,
 6,Q103OTHER,21,outras linguas,MZ,,,,,,
-6,Q103OTHER,21,poetugues e xitsua,MZ,,,,,,
+6,Q103OTHER,21,poetugues e xitsua,MZ,por,Portuguese,1,0,1,0
 6,Q103OTHER,21,PORTUGUES E OUTRAS LINGUAS,MZ,por,Portuguese,1,0,1,0
-6,Q103OTHER,21,PORTUGUES E SENA,MZ,,,,,,
+6,Q103OTHER,21,PORTUGUES E SENA,MZ,por,Portuguese,1,0,1,0
 6,Q103OTHER,21,SENA,MZ,sen,Sena,1,0,1,1
-6,Q103OTHER,21,SENA E PORTUGUES,MZ,,,,,,
+6,Q103OTHER,21,SENA E PORTUGUES,MZ,sen,Sena,1,0,1,1
 6,Q103OTHER,21,tewe,MZ,rga,Ronga,1,2,1,1
 6,Q103OTHER,21,xitsua,MZ,rga,Ronga,1,2,1,1
 6,Q103OTHER,21,Xitsua,MZ,rga,Ronga,1,2,1,1
@@ -2596,7 +2596,8 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q2OTHER,11,Atweti,GH,,,,,,
 6,Q2OTHER,11,Avatime,GH,avt,Avatime,1,0,1,1
 6,Q2OTHER,11,Basari,GH,ncm,Ncàm,1,0,1,1
-6,Q2OTHER,11,Batoe,GH,,,,,,
+6,Q2OTHER,11,Batoe,GH,ewa,Ewe (Anglo),1,0,1,1
+6,Q2OTHER,11,Batoe,GH,ewe,Ewe,1,0,1,1
 6,Q2OTHER,11,Bimoba,GH,bmb,Bimoba,1,0,1,1
 6,Q2OTHER,11,Bissa,GH,bis,Bisa,1,0,1,1
 6,Q2OTHER,11,Bono,GH,akn,Akan,1,1,1,1
@@ -2607,7 +2608,8 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q2OTHER,11,Dagaari,GH,dga,Dagaare,1,0,1,1
 6,Q2OTHER,11,Deg-(Moo),GH,,,,,,
 6,Q2OTHER,11,Dolimuu,GH,,,,,,
-6,Q2OTHER,11,Ewe and Fante,GH,,,,,,
+6,Q2OTHER,11,Ewe and Fante,GH,ewa,Ewe (Anglo),1,0,1,1
+6,Q2OTHER,11,Ewe and Fante,GH,ewe,Ewe,1,0,1,1
 6,Q2OTHER,11,Frafra,GH,grn,Gurenne,1,0,1,1
 6,Q2OTHER,11,Gawu,GH,,,,,,
 6,Q2OTHER,11,Gekyode,GH,cum,Chumburung,1,1,1,1
@@ -2653,7 +2655,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q2OTHER,11,Sefwi,GH,anu,Anufo,1,1,1,1
 6,Q2OTHER,11,Sissali,GH,tmp,Tampulma,1,1,1,1
 6,Q2OTHER,11,Sissali,GH,vag,Vagla,1,1,1,1
-6,Q2OTHER,11,Someja,GH,,,,,,
+6,Q2OTHER,11,Someja,GH,ga,Gã,1,0,1,1
 6,Q2OTHER,11,Talensi,GH,grn,Gurenne,1,0,1,1
 6,Q2OTHER,11,Tampulma,GH,tmp,Tampulma,1,0,1,1
 6,Q2OTHER,11,Tapulsi,GH,tmp,Tampulma,1,0,1,1
@@ -3062,8 +3064,8 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q2OTHER,31,KIHANGAZA,TZ,nbo,Nyambo,1,2,1,1
 6,Q2OTHER,31,KIIKIZU,TZ,hya,Haya,1,2,1,1
 6,Q2OTHER,31,KIIKIZU,TZ,nbo,Nyambo,1,2,1,1
-6,Q2OTHER,31,KIIRAQ,TZ,,,,,,
-6,Q2OTHER,31,KIJAHIDIRI,TZ,,,,,,
+6,Q2OTHER,31,KIIRAQ,TZ,irq,Iraqw,1,0,1,1
+6,Q2OTHER,31,KIJAHIDIRI,TZ,irq,Iraqw,1,0,1,1
 6,Q2OTHER,31,KIJALUO,TZ,,,,,,
 6,Q2OTHER,31,KIJITA,TZ,hya,Haya,1,2,1,1
 6,Q2OTHER,31,KIJITA,TZ,nbo,Nyambo,1,2,1,1

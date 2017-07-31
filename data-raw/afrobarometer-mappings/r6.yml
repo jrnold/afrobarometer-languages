@@ -2288,12 +2288,10 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - mis
+  - nym
   lang_id: 756
   lang_name: Kimanyema
-  note: 'Manyema https://sw.wikipedia.org/wiki/Wamanyema.
-
-    Also spelled Maniema.'
+  note: 'Nyanyembe is a dialect of Nyamwezi'
   question:
   - Q2
   wals_code: null

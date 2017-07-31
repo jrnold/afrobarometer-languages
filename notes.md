@@ -243,3 +243,10 @@ by Tachawit (shy).
 In Morocco - Tamazight, Stnadard Moroccan (zgh),
 Tachelhit (shi), Tarafit (rif), and Tamazight, Central Atlas (tzm)
 are the largest.
+
+
+# Multiple Languages
+
+In r2, r3, and r4 there are entries for multiple languages.
+These are often used only for the interview question. I assume that
+the first language is the one that is primarily used.

@@ -1293,12 +1293,14 @@
   - language
   wals_code: null
 - iso_639_3:
-  - mis
+  - gya
   lang_id: 183
   lang_name: Bayam
   question:
   - language
   wals_code: null
+  note: >-
+    Gbayam has alt name Baya.
 - iso_639_3:
   - shu
   lang_id: 184

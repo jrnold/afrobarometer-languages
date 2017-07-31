@@ -1258,12 +1258,14 @@
   - q97
   wals_code: null
 - iso_639_3:
-  - mis
+  - say
   lang_id: 278
   lang_name: Sidawa
   question:
   - q83
   wals_code: null
+  note: >-
+    Segidi (Sigidawa) https://en.wikipedia.org/wiki/Languages_of_Nigeria
 - iso_639_3:
   - pcm
   lang_id: 279
@@ -1580,7 +1582,7 @@
   question:
   - q97
   wals_code:
-  - nan
+  - "nan"
 - iso_639_3:
   - kam
   lang_id: 381
@@ -1708,12 +1710,14 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 393
   lang_name: English and Kikuyu
   question:
   - q97
   wals_code: null
+  note: >-
+    English (eng), Kikuyu (kik)
 - iso_639_3:
   - kuj
   lang_id: 394
@@ -1722,12 +1726,14 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 394
   lang_name: English and Kamba
   question:
   - q97
   wals_code: null
+  note: >-
+    English (eng), Kamba (kam)
 - iso_639_3:
   - teo
   lang_id: 395
@@ -1736,12 +1742,14 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 395
   lang_name: English and Kiswahili
   question:
   - q97
   wals_code: null
+  note: >-
+    English (eng), Kiswahili (swh)
 - iso_639_3:
   - pko
   lang_id: 396
@@ -1750,12 +1758,14 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - mul
+  - swh
   lang_id: 396
   lang_name: Kiswahili and Kamba
   question:
   - q97
   wals_code: null
+  note: >-
+    Kamba (kam), Kiswhaili (swh)
 - iso_639_3:
   - swh
   lang_id: 397
@@ -1766,12 +1776,14 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 397
   lang_name: English, Kiswahili, and Kamba
   question:
   - q97
   wals_code: null
+  note: >-
+    English (eng), Kiswahili (swh), Kamba (kam)
 - iso_639_3:
   - tvs
   lang_id: 398
@@ -1781,12 +1793,14 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 398
   lang_name: English, Kiswahili and Kikuyu
   question:
   - q97
   wals_code: null
+  note: >-
+    English (eng), Kiswahili (swh), Kikuyu (kik)
 - iso_639_3:
   - guj
   lang_id: 399
@@ -1796,12 +1810,14 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 399
   lang_name: English, Kiswahili and Meru
   question:
   - q97
   wals_code: null
+  note: >-
+    English (eng), Kiswahili (swh), and Meru (mer)
 - iso_639_3:
   - mgr
   lang_id: 440
@@ -1860,40 +1876,44 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - mul
+  - swh
   lang_id: 480
   lang_name: Kiswahili and Luhya
   question:
   - q97
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 481
   lang_name: English, Kiswahili and Kalenjin
   question:
   - q97
   wals_code: null
 - iso_639_3:
-  - mul
+  - swh
   lang_id: 482
   lang_name: Kiswahili and kalenjin
   question:
   - q97
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 483
   lang_name: English and Luo
   question:
   - q97
   wals_code: null
+  note: >-
+    English (eng), Luo (luo)
 - iso_639_3:
-  - mul
+  - swh
   lang_id: 484
   lang_name: Kiswahili and Kikuyu
   question:
   - q97
   wals_code: null
+  note: >-
+    English (eng), Kikuyu (kik)
 - iso_639_3:
   - bom
   lang_id: 800
@@ -1944,13 +1964,15 @@
   - q83
   wals_code: null
 - iso_639_3:
-  - mis
+  - ldb
   lang_id: 806
   lang_name: Taba
   question:
   - q110
   - q97
   wals_code: null
+  note: >-
+    Assume it is Jaba
 - iso_639_3:
   - ldb
   lang_id: 806
@@ -1975,13 +1997,15 @@
   - q110
   wals_code: null
 - iso_639_3:
-  - mis
+  - anc
   lang_id: 809
   lang_name: Mgas
   question:
   - q110
   - q83
   wals_code: null
+  note: >-
+    Ngas
 - iso_639_3:
   - und
   lang_id: 995

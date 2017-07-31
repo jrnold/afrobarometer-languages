@@ -1531,8 +1531,10 @@
   note: Bassari is alt name for Ntcham
 - country: GH
   iso_639_3:
-  - mis
+  - ewe
   lang_name: batoe
+  note: >-
+    Mapped to Ewe for that person
 - country: GH
   iso_639_3:
   - mis
@@ -1563,6 +1565,8 @@
   iso_639_3:
   - abr
   lang_name: bono
+  note: >-
+    Dialect of Akan
 - country: GH
   iso_639_3:
   - mis
@@ -1663,7 +1667,7 @@
   lang_name: efutu
 - country: GH
   iso_639_3:
-  - mul
+  - ewe
   lang_name: ewe and fante
 - country: GH
   iso_639_3:
@@ -1946,7 +1950,7 @@
   lang_name: sissali
 - country: GH
   iso_639_3:
-  - mis
+  - gaa
   lang_name: someja
 - country: GH
   iso_639_3:
@@ -2171,7 +2175,7 @@
   lang_name: duruma
 - country: KE
   iso_639_3:
-  - mul
+  - eng
   lang_name: eng and swahili
 - country: KE
   iso_639_3:
@@ -2202,7 +2206,7 @@
   lang_name: gujrathi
 - country: KE
   iso_639_3:
-  - mul
+  - dav
   lang_name: half taita, half zai
 - country: KE
   iso_639_3:
@@ -3050,7 +3054,7 @@
   lang_name: outras linguas
 - country: MZ
   iso_639_3:
-  - mul
+  - por
   lang_name: poetugues e xitsua
 - country: MZ
   iso_639_3:
@@ -3058,7 +3062,7 @@
   lang_name: portugues e outras linguas
 - country: MZ
   iso_639_3:
-  - mul
+  - por
   lang_name: portugues e sena
 - country: MZ
   iso_639_3:
@@ -3070,7 +3074,7 @@
   lang_name: sena
 - country: MZ
   iso_639_3:
-  - mul
+  - seh
   lang_name: sena e portugues
 - country: MZ
   iso_639_3:
@@ -4650,7 +4654,7 @@
   lang_name: kiikizu
 - country: TZ
   iso_639_3:
-  - mis
+  - irk
   lang_name: kiiraq
 - country: TZ
   iso_639_3:
@@ -4658,7 +4662,7 @@
   lang_name: kiiraqi
 - country: TZ
   iso_639_3:
-  - mis
+  - irk
   lang_name: kijahidiri
 - country: TZ
   iso_639_3:

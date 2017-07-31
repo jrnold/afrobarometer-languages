@@ -2305,10 +2305,9 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - ihi
+  - yaz
   lang_id: 644
   lang_name: Yakhor
-  note: Ihievbe is the spoken in Iyakhora villages. https://www.ethnologue.com/country/ng/languages
   question:
   - Q2
   wals_code: null
@@ -2358,10 +2357,9 @@
   - mdz
   - tok
 - iso_639_3:
-  - gya
+  - gbr
   lang_id: 650
   lang_name: Gbagyi
-  note: Name close to Gbaya.
   question:
   - Q2
   wals_code: null
@@ -2610,10 +2608,9 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - mul
+  - afr
   lang_id: 711
   lang_name: Mixed - English/Afrikaans
-  note: Multiple languages
   question:
   - Q103
   wals_code: null
@@ -2755,7 +2752,7 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - mis
+  - nym
   lang_id: 756
   lang_name: Kimanyema
   question:
@@ -4188,12 +4185,14 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - mis
+  - bbj
   lang_id: 1225
   lang_name: Babjoun
   question:
   - Q116
   wals_code: null
+  note: >-
+    Banjoun (Bandjoun)
 - iso_639_3:
   - ksf
   lang_id: 1225
@@ -4732,7 +4731,7 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - mis
+  - fon
   lang_id: 1282
   lang_name: DAHOMEY
   note: Dohomey refers to Fon. https://en.wikipedia.org/wiki/Fon_people
@@ -5185,13 +5184,6 @@
   - sid
   note: >-
     For WALS code, match to Highland Cushitic language
-- iso_639_3:
-  - mis
-  lang_id: 1364
-  lang_name: Kore
-  question:
-  - Q2
-  wals_code: null
 - iso_639_3:
   - mpe
   lang_id: 1365

@@ -134,63 +134,63 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 110
   lang_name: English + Afrikaans
   question:
   - q103
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 111
   lang_name: English + Ndebele
   question:
   - q103
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 112
   lang_name: English + Xhosa
   question:
   - q103
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 113
   lang_name: English + Pedi/N. Sotho
   question:
   - q103
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 114
   lang_name: English + Sesotho/S. Sotho
   question:
   - q103
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 115
   lang_name: English + Setswana
   question:
   - q103
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 116
   lang_name: English + Shangaan
   question:
   - q103
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 117
   lang_name: English + Venda
   question:
   - q103
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 118
   lang_name: English + Zulu
   question:
@@ -617,7 +617,7 @@
   - q103
   wals_code: null
 - iso_639_3:
-  - mul
+  - luo
   lang_id: 212
   lang_name: Luo/English
   question:
@@ -645,7 +645,7 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - mul
+  - swh
   lang_id: 214
   lang_name: Kiswahili/Luhya
   question:
@@ -659,7 +659,7 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 215
   lang_name: English/Swahili
   question:
@@ -1437,12 +1437,14 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - mul
+  - kua
   lang_id: 332
   lang_name: English and Oshiwambo
   question:
   - q103
   wals_code: null
+  note: >-
+    Oshiwambo (kua)
 - iso_639_3:
   - diu
   lang_id: 332
@@ -1451,14 +1453,14 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - mul
+  - afr
   lang_id: 333
   lang_name: English and Afrikaans
   question:
   - q103
   wals_code: null
 - iso_639_3:
-  - mul
+  - afr
   lang_id: 334
   lang_name: Afrikaans and Oshiwambo
   question:
@@ -1478,13 +1480,17 @@
   question:
   - q103
   wals_code: null
+  note: >-
+    Afrikaans (afr)
 - iso_639_3:
-  - mul
+  - eng
   lang_id: 337
   lang_name: English, Afrikaans and local languages
   question:
   - q103
   wals_code: null
+  note: >-
+    English (eng), Afrikaans (afr)
 - iso_639_3:
   - mul
   lang_id: 338
@@ -1906,7 +1912,7 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - mis
+  - nym
   lang_id: 396
   lang_name: Kimanyema
   question:
@@ -2680,13 +2686,14 @@
   - q3
   wals_code: null
 - iso_639_3:
-  - mul
+  - gax
   lang_id: 816
   lang_name: Ethopian/Kenyan
-  note: Unclear which language(s) this is referring to
   question:
   - q3
   wals_code: null
+  note: >-
+    Borana is widely spoken Kenyan version of Oromo.
 - iso_639_3:
   - guj
   lang_id: 817

@@ -379,7 +379,7 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q103OTHER,1,BOO,mis,S,Uncoded languages,BJ
 5,Q103OTHER,26,DII,dur,I,Dii,CM
 5,Q103OTHER,1,DITAMARI,tbz,I,Ditammari,BJ
-5,Q103OTHER,6,ENG AND SWAHILI,mul,S,Multiple languages,KE
+5,Q103OTHER,6,ENG AND SWAHILI,eng,I,English,KE
 5,Q103OTHER,24,GANGAN,mis,S,Uncoded languages,TG
 5,Q103OTHER,24,GOURMA,gux,I,Gourmanchéma,TG
 5,Q103OTHER,26,GUIDAR,gid,I,Gidar,CM
@@ -682,7 +682,7 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,14,GWANDARA,gwn,I,Gwandara,NG
 5,Q2OTHER,14,GWARI,gbr,I,Gbagyi,NG
 5,Q2OTHER,14,GWOZA,mis,S,Uncoded languages,NG
-5,Q2OTHER,6,"HALF TAITA, HALF ZAI",mul,S,Multiple languages,KE
+5,Q2OTHER,6,"HALF TAITA, HALF ZAI",dav,I,Taita,KE
 5,Q2OTHER,5,HANGA,hag,I,Hanga,GH
 5,Q2OTHER,3,HAOUSSA,hau,I,Hausa,BF
 5,Q2OTHER,24,HAOUSSA,hau,I,Hausa,TG
@@ -748,7 +748,7 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,17,KIHA,haq,I,Ha,TZ
 5,Q2OTHER,17,KIHANGAZA,han,I,Hangaza,TZ
 5,Q2OTHER,17,KIIKIZU,ikz,I,Ikizu,TZ
-5,Q2OTHER,17,KIIRAQ,mis,S,Uncoded languages,TZ
+5,Q2OTHER,17,KIIRAQ,irk,I,Iraqw,TZ
 5,Q2OTHER,17,KIJALUO,mis,S,Uncoded languages,TZ
 5,Q2OTHER,17,KIJITA,jit,I,Jita,TZ
 5,Q2OTHER,17,KIKAGULU,kki,I,Kagulu,TZ
@@ -1196,13 +1196,13 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q103OTHER,21,OUTRA LINGUA,und,S,Undetermined,MZ
 6,Q103OTHER,21,outras linguas,und,S,Undetermined,MZ
 6,Q103OTHER,28,PEDI,nso,I,Pedi,ZA
-6,Q103OTHER,21,poetugues e xitsua,mul,S,Multiple languages,MZ
+6,Q103OTHER,21,poetugues e xitsua,por,I,Portuguese,MZ
 6,Q103OTHER,21,PORTUGUES E OUTRAS LINGUAS,por,I,Portuguese,MZ
-6,Q103OTHER,21,PORTUGUES E SENA,mul,S,Multiple languages,MZ
+6,Q103OTHER,21,PORTUGUES E SENA,por,I,Portuguese,MZ
 6,Q103OTHER,34,RUFUMBIRA,kin,I,Kinyarwanda,UG
 6,Q103OTHER,34,RUNYARWANDA,kin,I,Kinyarwanda,UG
 6,Q103OTHER,21,SENA,seh,I,Sena,MZ
-6,Q103OTHER,21,SENA E PORTUGUES,mul,S,Multiple languages,MZ
+6,Q103OTHER,21,SENA E PORTUGUES,seh,I,Sena,MZ
 6,Q103OTHER,26,SERERE,srr,I,Serer,SN
 6,Q103OTHER,28,Setsonga,tso,I,Tsonga,ZA
 6,Q103OTHER,11,Sissala,sil,I,Tumulung Sisaala,GH
@@ -1375,7 +1375,7 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,6,BATANGA,bnm,I,Batanga,CM
 6,Q2OTHER,6,BATCHAM,nnh,I,Ngiemboon,CM
 6,Q2OTHER,6,BATIBO,mgo,I,Meta',CM
-6,Q2OTHER,11,Batoe,mis,S,Uncoded languages,GH
+6,Q2OTHER,11,Batoe,ewe,I,Ewe,GH
 6,Q2OTHER,6,BATON,mis,S,Uncoded languages,CM
 6,Q2OTHER,24,BAWAJE,mis,S,Uncoded languages,NG
 6,Q2OTHER,6,BAWAN,mis,S,Uncoded languages,CM
@@ -1486,7 +1486,7 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,6,ESSIMBI,ags,I,Esimbi,CM
 6,Q2OTHER,6,ETENGA,mis,S,Uncoded languages,CM
 6,Q2OTHER,6,ETON,eto,I,Eton (Cameroon),CM
-6,Q2OTHER,11,Ewe and Fante,mul,S,Multiple languages,GH
+6,Q2OTHER,11,Ewe and Fante,ewe,I,Ewe,GH
 6,Q2OTHER,6,EWODI,dua,I,Duala,CM
 6,Q2OTHER,24,FAKAMA,mis,S,Uncoded languages,NG
 6,Q2OTHER,24,FAKAWA,mis,S,Uncoded languages,NG
@@ -1572,8 +1572,8 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,31,KIHA,haq,I,Ha,TZ
 6,Q2OTHER,31,KIHANGAZA,han,I,Hangaza,TZ
 6,Q2OTHER,31,KIIKIZU,ikz,I,Ikizu,TZ
-6,Q2OTHER,31,KIIRAQ,mis,S,Uncoded languages,TZ
-6,Q2OTHER,31,KIJAHIDIRI,mis,S,Uncoded languages,TZ
+6,Q2OTHER,31,KIIRAQ,irk,I,Iraqw,TZ
+6,Q2OTHER,31,KIJAHIDIRI,irk,I,Iraqw,TZ
 6,Q2OTHER,31,KIJALUO,mis,S,Uncoded languages,TZ
 6,Q2OTHER,31,KIJITA,jit,I,Jita,TZ
 6,Q2OTHER,31,KIKABWA,cwa,I,Kabwa,TZ
@@ -1932,7 +1932,7 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,6,SO'O,mis,S,Uncoded languages,CM
 6,Q2OTHER,2,SOLA,soy,I,Miyobe,BJ
 6,Q2OTHER,32,SOLA,soy,I,Miyobe,TG
-6,Q2OTHER,11,Someja,mis,S,Uncoded languages,GH
+6,Q2OTHER,11,Someja,gaa,I,Ga,GH
 6,Q2OTHER,6,SORO,mis,S,Uncoded languages,CM
 6,Q2OTHER,13,Suba,sxb,I,Suba,KE
 6,Q2OTHER,36,SUTHU,mis,S,Uncoded languages,ZW
