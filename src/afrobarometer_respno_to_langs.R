@@ -176,5 +176,5 @@ rlang::eval_tidy(quo({
 
 
 #' Write to output
-#afrobarometer_respno_to_langs %>%
-#   write_csv(path = OUTPUT, na = "")
+afrobarometer_respno_to_langs %>%
+   write_csv(path = OUTPUT, na = "")
