@@ -1,4 +1,17 @@
 from,to,distance
+aab,aoj,1
+aab,arp,1
+aab,xbi,2
+aab,au,3
+aab,kmz,3
+aab,mbo,3
+aab,nin,3
+aab,olo,3
+aab,one,3
+aab,uri,3
+aab,urt,3
+aab,wal,3
+aab,yil,3
 aar,dim,1
 aar,hmr,1
 aar,diz,2
@@ -569,6 +582,7 @@ abd,tiv,4
 abd,tki,4
 abd,tks,4
 abd,tmp,4
+abd,tms,4
 abd,tnn,4
 abd,tny,4
 abd,tok,4
@@ -2610,6 +2624,7 @@ adi,tiv,4
 adi,tki,4
 adi,tks,4
 adi,tmp,4
+adi,tms,4
 adi,tnn,4
 adi,tny,4
 adi,tok,4
@@ -4206,6 +4221,7 @@ agb,ssa,9
 agb,sup,9
 agb,tem,9
 agb,tmp,9
+agb,tms,9
 agb,tny,9
 agb,tou,9
 agb,tow,9
@@ -5208,6 +5224,7 @@ agh,ssa,8
 agh,sup,8
 agh,tem,8
 agh,tmp,8
+agh,tms,8
 agh,tny,8
 agh,tou,8
 agh,tow,8
@@ -6554,6 +6571,7 @@ aiz,tiv,3
 aiz,tki,3
 aiz,tks,3
 aiz,tmp,3
+aiz,tms,3
 aiz,tnn,3
 aiz,tny,3
 aiz,tok,3
@@ -7010,6 +7028,7 @@ ajg,tiv,5
 ajg,tki,5
 ajg,tks,5
 ajg,tmp,5
+ajg,tms,5
 ajg,tnn,5
 ajg,tny,5
 ajg,tok,5
@@ -7714,6 +7733,7 @@ aka,ssa,8
 aka,sup,8
 aka,tem,8
 aka,tmp,8
+aka,tms,8
 aka,tny,8
 aka,tou,8
 aka,tow,8
@@ -8690,6 +8710,7 @@ akn,tiv,7
 akn,tki,7
 akn,tks,7
 akn,tmp,7
+akn,tms,7
 akn,tnn,7
 akn,tny,7
 akn,tok,7
@@ -9409,6 +9430,7 @@ ald,tiv,4
 ald,tki,4
 ald,tks,4
 ald,tmp,4
+ald,tms,4
 ald,tnn,4
 ald,tny,4
 ald,tok,4
@@ -12991,6 +13013,7 @@ amo,ssa,5
 amo,sup,5
 amo,tem,5
 amo,tmp,5
+amo,tms,5
 amo,tny,5
 amo,tou,5
 amo,tow,5
@@ -15490,6 +15513,7 @@ anu,tiv,8
 anu,tki,8
 anu,tks,8
 anu,tmp,8
+anu,tms,8
 anu,tnn,8
 anu,tny,8
 anu,tok,8
@@ -15857,6 +15881,7 @@ ao,mnd,5
 ao,taq,5
 ao,wuc,5
 ao,xia,5
+aoj,aab,1
 aoj,arp,1
 aoj,xbi,2
 aoj,au,3
@@ -18416,6 +18441,7 @@ aro,see,9
 aro,sry,9
 aro,thw,9
 aro,tso,9
+arp,aab,1
 arp,aoj,1
 arp,xbi,2
 arp,au,3
@@ -21773,6 +21799,7 @@ au,olo,1
 au,wal,1
 au,yil,1
 au,urt,2
+au,aab,3
 au,aoj,3
 au,arp,3
 au,kmz,3
@@ -22559,6 +22586,7 @@ avk,tiv,4
 avk,tki,4
 avk,tks,4
 avk,tmp,4
+avk,tms,4
 avk,tnn,4
 avk,tny,4
 avk,tok,4
@@ -23016,6 +23044,7 @@ avt,tiv,4
 avt,tki,4
 avt,tks,4
 avt,tmp,4
+avt,tms,4
 avt,tnn,4
 avt,tny,4
 avt,tok,4
@@ -23979,6 +24008,7 @@ awk,ssa,5
 awk,sup,5
 awk,tem,5
 awk,tmp,5
+awk,tms,5
 awk,tny,5
 awk,tou,5
 awk,tow,5
@@ -24526,6 +24556,7 @@ ayi,tiv,8
 ayi,tki,8
 ayi,tks,8
 ayi,tmp,8
+ayi,tms,8
 ayi,tnn,8
 ayi,tny,8
 ayi,tok,8
@@ -25468,6 +25499,7 @@ bab,ssa,8
 bab,sup,8
 bab,tem,8
 bab,tmp,8
+bab,tms,8
 bab,tny,8
 bab,tou,8
 bab,tow,8
@@ -26165,6 +26197,7 @@ baf,ssa,8
 baf,sup,8
 baf,tem,8
 baf,tmp,8
+baf,tms,8
 baf,tny,8
 baf,tou,8
 baf,tow,8
@@ -27102,6 +27135,7 @@ bak,tik,9
 bak,tiv,9
 bak,tki,9
 bak,tks,9
+bak,tms,9
 bak,tnn,9
 bak,tok,9
 bak,toz,9
@@ -27841,6 +27875,7 @@ bam,tiv,12
 bam,tki,12
 bam,tks,12
 bam,tmp,12
+bam,tms,12
 bam,tne,12
 bam,tnn,12
 bam,tny,12
@@ -28434,6 +28469,7 @@ bas,ssa,8
 bas,sup,8
 bas,tem,8
 bas,tmp,8
+bas,tms,8
 bas,tny,8
 bas,tou,8
 bas,tow,8
@@ -29431,6 +29467,7 @@ bbf,tiv,6
 bbf,tki,6
 bbf,tks,6
 bbf,tmp,6
+bbf,tms,6
 bbf,tne,6
 bbf,tnn,6
 bbf,tny,6
@@ -29755,6 +29792,7 @@ bbl,ssa,8
 bbl,sup,8
 bbl,tem,8
 bbl,tmp,8
+bbl,tms,8
 bbl,tny,8
 bbl,tou,8
 bbl,tow,8
@@ -30430,6 +30468,7 @@ bbu,tik,6
 bbu,tiv,6
 bbu,tki,6
 bbu,tks,6
+bbu,tms,6
 bbu,tnn,6
 bbu,tok,6
 bbu,toz,6
@@ -31514,6 +31553,7 @@ bdu,ssa,8
 bdu,sup,8
 bdu,tem,8
 bdu,tmp,8
+bdu,tms,8
 bdu,tny,8
 bdu,tou,8
 bdu,tow,8
@@ -32299,6 +32339,7 @@ bee,ssa,8
 bee,sup,8
 bee,tem,8
 bee,tmp,8
+bee,tms,8
 bee,tny,8
 bee,tou,8
 bee,tow,8
@@ -33273,6 +33314,7 @@ bem,ssa,8
 bem,sup,8
 bem,tem,8
 bem,tmp,8
+bem,tms,8
 bem,tny,8
 bem,tou,8
 bem,tow,8
@@ -33885,6 +33927,7 @@ bet,tiv,5
 bet,tki,5
 bet,tks,5
 bet,tmp,5
+bet,tms,5
 bet,tnn,5
 bet,tny,5
 bet,tok,5
@@ -34313,6 +34356,7 @@ bfd,tiv,5
 bfd,tki,5
 bfd,tks,5
 bfd,tmp,5
+bfd,tms,5
 bfd,tnn,5
 bfd,tny,5
 bfd,tok,5
@@ -34816,6 +34860,7 @@ bfi,ssa,8
 bfi,sup,8
 bfi,tem,8
 bfi,tmp,8
+bfi,tms,8
 bfi,tny,8
 bfi,tou,8
 bfi,tow,8
@@ -35184,6 +35229,7 @@ bga,ssa,8
 bga,sup,8
 bga,tem,8
 bga,tmp,8
+bga,tms,8
 bga,tny,8
 bga,tou,8
 bga,tow,8
@@ -36313,6 +36359,7 @@ bgs,tiv,6
 bgs,tki,6
 bgs,tks,6
 bgs,tmp,6
+bgs,tms,6
 bgs,tnn,6
 bgs,tny,6
 bgs,tok,6
@@ -37431,6 +37478,7 @@ bia,ssa,8
 bia,sup,8
 bia,tem,8
 bia,tmp,8
+bia,tms,8
 bia,tny,8
 bia,tou,8
 bia,tow,8
@@ -39266,6 +39314,7 @@ bir,ssa,4
 bir,sup,4
 bir,tem,4
 bir,tmp,4
+bir,tms,4
 bir,tny,4
 bir,tou,4
 bir,tow,4
@@ -39678,6 +39727,7 @@ bis,tiv,5
 bis,tki,5
 bis,tks,5
 bis,tmp,5
+bis,tms,5
 bis,tne,5
 bis,tnn,5
 bis,tny,5
@@ -41542,6 +41592,7 @@ bkn,ssa,8
 bkn,sup,8
 bkn,tem,8
 bkn,tmp,8
+bkn,tms,8
 bkn,tny,8
 bkn,tou,8
 bkn,tow,8
@@ -42400,6 +42451,7 @@ bku,ssa,8
 bku,sup,8
 bku,tem,8
 bku,tmp,8
+bku,tms,8
 bku,tny,8
 bku,tou,8
 bku,tow,8
@@ -42951,6 +43003,7 @@ ble,tiv,8
 ble,tki,8
 ble,tks,8
 ble,tmp,8
+ble,tms,8
 ble,tnn,8
 ble,tny,8
 ble,tok,8
@@ -44665,6 +44718,7 @@ blu,ssa,8
 blu,sup,8
 blu,tem,8
 blu,tmp,8
+blu,tms,8
 blu,tny,8
 blu,tou,8
 blu,tow,8
@@ -45041,6 +45095,7 @@ blz,tiv,5
 blz,tki,5
 blz,tks,5
 blz,tmp,5
+blz,tms,5
 blz,tnn,5
 blz,tny,5
 blz,tok,5
@@ -45533,6 +45588,7 @@ bmb,tik,8
 bmb,tiv,8
 bmb,tki,8
 bmb,tks,8
+bmb,tms,8
 bmb,tnn,8
 bmb,tok,8
 bmb,toz,8
@@ -45911,6 +45967,7 @@ bmn,ssa,8
 bmn,sup,8
 bmn,tem,8
 bmn,tmp,8
+bmn,tms,8
 bmn,tny,8
 bmn,tou,8
 bmn,tow,8
@@ -46748,6 +46805,7 @@ bnd,tiv,8
 bnd,tki,8
 bnd,tks,8
 bnd,tmp,8
+bnd,tms,8
 bnd,tne,8
 bnd,tnn,8
 bnd,tny,8
@@ -47074,6 +47132,7 @@ bni,ssa,5
 bni,sup,5
 bni,tem,5
 bni,tmp,5
+bni,tms,5
 bni,tny,5
 bni,tou,5
 bni,tow,5
@@ -47598,6 +47657,7 @@ bnk,ssa,8
 bnk,sup,8
 bnk,tem,8
 bnk,tmp,8
+bnk,tms,8
 bnk,tny,8
 bnk,tou,8
 bnk,tow,8
@@ -48626,6 +48686,7 @@ bnq,tiv,6
 bnq,tki,6
 bnq,tks,6
 bnq,tmp,6
+bnq,tms,6
 bnq,tne,6
 bnq,tnn,6
 bnq,tny,6
@@ -49575,6 +49636,7 @@ bob,ssa,8
 bob,sup,8
 bob,tem,8
 bob,tmp,8
+bob,tms,8
 bob,tny,8
 bob,tou,8
 bob,tow,8
@@ -50291,6 +50353,7 @@ bok,tiv,5
 bok,tki,5
 bok,tks,5
 bok,tmp,5
+bok,tms,5
 bok,tne,5
 bok,tnn,5
 bok,tny,5
@@ -50615,6 +50678,7 @@ bol,ssa,8
 bol,sup,8
 bol,tem,8
 bol,tmp,8
+bol,tms,8
 bol,tny,8
 bol,tou,8
 bol,tow,8
@@ -51614,6 +51678,7 @@ boz,tiv,8
 boz,tki,8
 boz,tks,8
 boz,tmp,8
+boz,tms,8
 boz,tne,8
 boz,tnn,8
 boz,tny,8
@@ -52765,6 +52830,7 @@ brb,tik,4
 brb,tiv,4
 brb,tki,4
 brb,tks,4
+brb,tms,4
 brb,tnn,4
 brb,tok,4
 brb,toz,4
@@ -54749,6 +54815,7 @@ bsh,ssa,8
 bsh,sup,8
 bsh,tem,8
 bsh,tmp,8
+bsh,tms,8
 bsh,tny,8
 bsh,tou,8
 bsh,tow,8
@@ -55495,6 +55562,7 @@ bsr,tiv,5
 bsr,tki,5
 bsr,tks,5
 bsr,tmp,5
+bsr,tms,5
 bsr,tnn,5
 bsr,tny,5
 bsr,tok,5
@@ -56793,6 +56861,7 @@ bub,ssa,8
 bub,sup,8
 bub,tem,8
 bub,tmp,8
+bub,tms,8
 bub,tny,8
 bub,tou,8
 bub,tow,8
@@ -57938,6 +58007,7 @@ buj,ssa,8
 buj,sup,8
 buj,tem,8
 buj,tmp,8
+buj,tms,8
 buj,tny,8
 buj,tou,8
 buj,tow,8
@@ -58306,6 +58376,7 @@ buk,ssa,8
 buk,sup,8
 buk,tem,8
 buk,tmp,8
+buk,tms,8
 buk,tny,8
 buk,tou,8
 buk,tow,8
@@ -59281,6 +59352,7 @@ bus,tiv,5
 bus,tki,5
 bus,tks,5
 bus,tmp,5
+bus,tms,5
 bus,tne,5
 bus,tnn,5
 bus,tny,5
@@ -59933,6 +60005,7 @@ buw,ssa,8
 buw,sup,8
 buw,tem,8
 buw,tmp,8
+buw,tms,8
 buw,tny,8
 buw,tou,8
 buw,tow,8
@@ -60291,6 +60364,7 @@ buy,tik,7
 buy,tiv,7
 buy,tki,7
 buy,tks,7
+buy,tms,7
 buy,tnn,7
 buy,tok,7
 buy,toz,7
@@ -63272,6 +63346,7 @@ cga,ssa,8
 cga,sup,8
 cga,tem,8
 cga,tmp,8
+cga,tms,8
 cga,tny,8
 cga,tou,8
 cga,tow,8
@@ -65537,6 +65612,7 @@ cic,ssa,8
 cic,sup,8
 cic,tem,8
 cic,tmp,8
+cic,tms,8
 cic,tny,8
 cic,tou,8
 cic,tow,8
@@ -65904,6 +65980,7 @@ cil,ssa,8
 cil,sup,8
 cil,tem,8
 cil,tmp,8
+cil,tms,8
 cil,tny,8
 cil,tou,8
 cil,tow,8
@@ -68170,6 +68247,7 @@ com,ssa,8
 com,sup,8
 com,tem,8
 com,tmp,8
+com,tms,8
 com,tny,8
 com,tou,8
 com,tow,8
@@ -70147,6 +70225,7 @@ csk,tiv,8
 csk,tki,8
 csk,tks,8
 csk,tmp,8
+csk,tms,8
 csk,tnn,8
 csk,tny,8
 csk,tok,8
@@ -71207,6 +71286,7 @@ cum,tiv,7
 cum,tki,7
 cum,tks,7
 cum,tmp,7
+cum,tms,7
 cum,tnn,7
 cum,tny,7
 cum,tok,7
@@ -73402,6 +73482,7 @@ dan,tiv,7
 dan,tki,7
 dan,tks,7
 dan,tmp,7
+dan,tms,7
 dan,tne,7
 dan,tnn,7
 dan,tny,7
@@ -73978,6 +74059,7 @@ day,tik,6
 day,tiv,6
 day,tki,6
 day,tks,6
+day,tms,6
 day,tnn,6
 day,tok,6
 day,toz,6
@@ -74356,6 +74438,7 @@ dbd,ssa,8
 dbd,sup,8
 dbd,tem,8
 dbd,tmp,8
+dbd,tms,8
 dbd,tny,8
 dbd,tou,8
 dbd,tow,8
@@ -74938,6 +75021,7 @@ dbw,tiv,7
 dbw,tki,7
 dbw,tks,7
 dbw,tmp,7
+dbw,tms,7
 dbw,tne,7
 dbw,tnn,7
 dbw,tny,7
@@ -75649,6 +75733,7 @@ ddj,tiv,5
 ddj,tki,5
 ddj,tks,5
 ddj,tmp,5
+ddj,tms,5
 ddj,tnn,5
 ddj,tny,5
 ddj,tok,5
@@ -75748,6 +75833,7 @@ ddj,wna,7
 ddj,xas,7
 dds,dts,1
 dds,jms,1
+dds,tms,1
 dds,abd,2
 dds,adi,2
 dds,agb,2
@@ -76409,6 +76495,7 @@ def,tiv,3
 def,tki,3
 def,tks,3
 def,tmp,3
+def,tms,3
 def,tne,3
 def,tnn,3
 def,tny,3
@@ -76771,6 +76858,7 @@ deg,ssa,4
 deg,sup,4
 deg,tem,4
 deg,tmp,4
+deg,tms,4
 deg,tny,4
 deg,tou,4
 deg,tow,4
@@ -77298,6 +77386,7 @@ dga,tik,10
 dga,tiv,10
 dga,tki,10
 dga,tks,10
+dga,tms,10
 dga,tnn,10
 dga,tok,10
 dga,toz,10
@@ -77666,6 +77755,7 @@ dgb,tik,8
 dgb,tiv,8
 dgb,tki,8
 dgb,tks,8
+dgb,tms,8
 dgb,tnn,8
 dgb,tok,8
 dgb,toz,8
@@ -78243,6 +78333,7 @@ dgo,tik,7
 dgo,tiv,7
 dgo,tki,7
 dgo,tks,7
+dgo,tms,7
 dgo,tnn,7
 dgo,tok,7
 dgo,toz,7
@@ -80398,6 +80489,7 @@ dio,tiv,8
 dio,tki,8
 dio,tks,8
 dio,tmp,8
+dio,tms,8
 dio,tnn,8
 dio,tny,8
 dio,tok,8
@@ -82033,6 +82125,7 @@ dma,ssa,8
 dma,sup,8
 dma,tem,8
 dma,tmp,8
+dma,tms,8
 dma,tny,8
 dma,tou,8
 dma,tow,8
@@ -82866,6 +82959,7 @@ dng,ssa,8
 dng,sup,8
 dng,tem,8
 dng,tmp,8
+dng,tms,8
 dng,tny,8
 dng,tou,8
 dng,tow,8
@@ -83815,6 +83909,7 @@ dok,ssa,8
 dok,sup,8
 dok,tem,8
 dok,tmp,8
+dok,tms,8
 dok,tny,8
 dok,tou,8
 dok,tow,8
@@ -84406,6 +84501,7 @@ doy,tik,9
 doy,tiv,9
 doy,tki,9
 doy,tks,9
+doy,tms,9
 doy,tnn,9
 doy,tok,9
 doy,toz,9
@@ -85340,6 +85436,7 @@ dsh,ygn,7
 dsh,zaz,7
 dts,dds,1
 dts,jms,1
+dts,tms,1
 dts,abd,2
 dts,adi,2
 dts,agb,2
@@ -85995,6 +86092,7 @@ dua,ssa,8
 dua,sup,8
 dua,tem,8
 dua,tmp,8
+dua,tms,8
 dua,tny,8
 dua,tou,8
 dua,tow,8
@@ -86506,6 +86604,7 @@ duk,ssa,5
 duk,sup,5
 duk,tem,5
 duk,tmp,5
+duk,tms,5
 duk,tny,5
 duk,tou,5
 duk,tow,5
@@ -87640,6 +87739,7 @@ dym,tik,5
 dym,tiv,5
 dym,tki,5
 dym,tks,5
+dym,tms,5
 dym,tnn,5
 dym,tok,5
 dym,toz,5
@@ -88062,6 +88162,7 @@ dyu,tiv,12
 dyu,tki,12
 dyu,tks,12
 dyu,tmp,12
+dyu,tms,12
 dyu,tne,12
 dyu,tnn,12
 dyu,tny,12
@@ -88386,6 +88487,7 @@ ebi,ssa,4
 ebi,sup,4
 ebi,tem,4
 ebi,tmp,4
+ebi,tms,4
 ebi,tny,4
 ebi,tou,4
 ebi,tow,4
@@ -88876,6 +88978,7 @@ efi,ssa,7
 efi,sup,7
 efi,tem,7
 efi,tmp,7
+efi,tms,7
 efi,tny,7
 efi,tou,7
 efi,tow,7
@@ -89225,6 +89328,7 @@ ega,tiv,5
 ega,tki,5
 ega,tks,5
 ega,tmp,5
+ega,tms,5
 ega,tnn,5
 ega,tny,5
 ega,tok,5
@@ -89612,6 +89716,7 @@ egn,ssa,4
 egn,sup,4
 egn,tem,4
 egn,tmp,4
+egn,tms,4
 egn,tny,4
 egn,tou,4
 egn,tow,4
@@ -90102,6 +90207,7 @@ eja,ssa,5
 eja,sup,5
 eja,tem,5
 eja,tmp,5
+eja,tms,5
 eja,tny,5
 eja,tou,5
 eja,tow,5
@@ -90592,6 +90698,7 @@ eko,ssa,8
 eko,sup,8
 eko,tem,8
 eko,tmp,8
+eko,tms,8
 eko,tny,8
 eko,tou,8
 eko,tow,8
@@ -91856,6 +91963,7 @@ eny,ssa,8
 eny,sup,8
 eny,tem,8
 eny,tmp,8
+eny,tms,8
 eny,tny,8
 eny,tou,8
 eny,tow,8
@@ -92958,6 +93066,7 @@ ets,ssa,5
 ets,sup,5
 ets,tem,5
 ets,tmp,5
+ets,tms,5
 ets,tny,5
 ets,tou,5
 ets,tow,5
@@ -93363,6 +93472,7 @@ ewa,tiv,4
 ewa,tki,4
 ewa,tks,4
 ewa,tmp,4
+ewa,tms,4
 ewa,tnn,4
 ewa,tny,4
 ewa,tok,4
@@ -93730,6 +93840,7 @@ ewe,tiv,4
 ewe,tki,4
 ewe,tks,4
 ewe,tmp,4
+ewe,tms,4
 ewe,tnn,4
 ewe,tny,4
 ewe,tok,4
@@ -94117,6 +94228,7 @@ ewo,ssa,8
 ewo,sup,8
 ewo,tem,8
 ewo,tmp,8
+ewo,tms,8
 ewo,tny,8
 ewo,tou,8
 ewo,tow,8
@@ -94787,6 +94899,7 @@ fbf,tiv,7
 fbf,tki,7
 fbf,tks,7
 fbf,tmp,7
+fbf,tms,7
 fbf,tnn,7
 fbf,tny,7
 fbf,tok,7
@@ -95319,6 +95432,7 @@ fef,ssa,8
 fef,sup,8
 fef,tem,8
 fef,tmp,8
+fef,tms,8
 fef,tny,8
 fef,tou,8
 fef,tow,8
@@ -95694,6 +95808,7 @@ fgo,tiv,7
 fgo,tki,7
 fgo,tks,7
 fgo,tmp,7
+fgo,tms,7
 fgo,tnn,7
 fgo,tny,7
 fgo,tok,7
@@ -96062,6 +96177,7 @@ fgu,tiv,7
 fgu,tki,7
 fgu,tks,7
 fgu,tmp,7
+fgu,tms,7
 fgu,tnn,7
 fgu,tny,7
 fgu,tok,7
@@ -96760,6 +96876,7 @@ fio,ssa,8
 fio,sup,8
 fio,tem,8
 fio,tmp,8
+fio,tms,8
 fio,tny,8
 fio,tou,8
 fio,tow,8
@@ -97452,6 +97569,7 @@ fli,tiv,7
 fli,tki,7
 fli,tks,7
 fli,tmp,7
+fli,tms,7
 fli,tnn,7
 fli,tny,7
 fli,tok,7
@@ -97819,6 +97937,7 @@ fma,tiv,7
 fma,tki,7
 fma,tks,7
 fma,tmp,7
+fma,tms,7
 fma,tnn,7
 fma,tny,7
 fma,tok,7
@@ -98187,6 +98306,7 @@ fni,tiv,7
 fni,tki,7
 fni,tks,7
 fni,tmp,7
+fni,tms,7
 fni,tnn,7
 fni,tny,7
 fni,tok,7
@@ -98823,6 +98943,7 @@ fon,tiv,5
 fon,tki,5
 fon,tks,5
 fon,tmp,5
+fon,tms,5
 fon,tnn,5
 fon,tny,5
 fon,tok,5
@@ -100239,6 +100360,7 @@ fua,tiv,7
 fua,tki,7
 fua,tks,7
 fua,tmp,7
+fua,tms,7
 fua,tnn,7
 fua,tny,7
 fua,tok,7
@@ -100995,6 +101117,7 @@ fum,tiv,7
 fum,tki,7
 fum,tks,7
 fum,tmp,7
+fum,tms,7
 fum,tnn,7
 fum,tny,7
 fum,tok,7
@@ -101451,6 +101574,7 @@ fus,tiv,7
 fus,tki,7
 fus,tks,7
 fus,tmp,7
+fus,tms,7
 fus,tnn,7
 fus,tny,7
 fus,tok,7
@@ -102274,6 +102398,7 @@ fye,ssa,4
 fye,sup,4
 fye,tem,4
 fye,tmp,4
+fye,tms,4
 fye,tny,4
 fye,tou,4
 fye,tow,4
@@ -102623,6 +102748,7 @@ ga,tiv,4
 ga,tki,4
 ga,tks,4
 ga,tmp,4
+ga,tms,4
 ga,tnn,4
 ga,tny,4
 ga,tok,4
@@ -103170,6 +103296,7 @@ gad,ssa,4
 gad,sup,4
 gad,tem,4
 gad,tmp,4
+gad,tms,4
 gad,tny,4
 gad,tou,4
 gad,tow,4
@@ -105296,6 +105423,7 @@ gbb,tik,6
 gbb,tiv,6
 gbb,tki,6
 gbb,tks,6
+gbb,tms,6
 gbb,tnn,6
 gbb,tok,6
 gbb,toz,6
@@ -105864,6 +105992,7 @@ gbk,tik,6
 gbk,tiv,6
 gbk,tki,6
 gbk,tks,6
+gbk,tms,6
 gbk,tnn,6
 gbk,tok,6
 gbk,toz,6
@@ -106753,6 +106882,7 @@ gdi,tiv,5
 gdi,tki,5
 gdi,tks,5
 gdi,tmp,5
+gdi,tms,5
 gdi,tnn,5
 gdi,tny,5
 gdi,tok,5
@@ -108466,6 +108596,7 @@ gho,ssa,5
 gho,sup,5
 gho,tem,5
 gho,tmp,5
+gho,tms,5
 gho,tny,5
 gho,tou,5
 gho,tow,5
@@ -109442,6 +109573,7 @@ gir,tik,6
 gir,tiv,6
 gir,tki,6
 gir,tks,6
+gir,tms,6
 gir,tnn,6
 gir,tok,6
 gir,toz,6
@@ -112730,6 +112862,7 @@ gok,ssa,6
 gok,sup,6
 gok,tem,6
 gok,tmp,6
+gok,tms,6
 gok,tny,6
 gok,tou,6
 gok,tow,6
@@ -113106,6 +113239,7 @@ gol,tiv,5
 gol,tki,5
 gol,tks,5
 gol,tmp,5
+gol,tms,5
 gol,tnn,5
 gol,tny,5
 gol,tok,5
@@ -114087,6 +114221,7 @@ grb,tiv,5
 grb,tki,5
 grb,tks,5
 grb,tmp,5
+grb,tms,5
 grb,tnn,5
 grb,tny,5
 grb,tok,5
@@ -114876,6 +115011,7 @@ grm,tik,7
 grm,tiv,7
 grm,tki,7
 grm,tks,7
+grm,tms,7
 grm,tnn,7
 grm,tok,7
 grm,toz,7
@@ -115244,6 +115380,7 @@ grn,tik,8
 grn,tiv,8
 grn,tki,8
 grn,tks,8
+grn,tms,8
 grn,tnn,8
 grn,tok,8
 grn,toz,8
@@ -115666,6 +115803,7 @@ gro,tiv,6
 gro,tki,6
 gro,tks,6
 gro,tmp,6
+gro,tms,6
 gro,tne,6
 gro,tnn,6
 gro,tny,6
@@ -117549,6 +117687,7 @@ gue,tiv,5
 gue,tki,5
 gue,tks,5
 gue,tmp,5
+gue,tms,5
 gue,tnn,5
 gue,tny,5
 gue,tok,5
@@ -118799,6 +118938,7 @@ gun,ssa,8
 gun,sup,8
 gun,tem,8
 gun,tmp,8
+gun,tms,8
 gun,tny,8
 gun,tou,8
 gun,tow,8
@@ -119167,6 +119307,7 @@ gus,ssa,8
 gus,sup,8
 gus,tem,8
 gus,tmp,8
+gus,tms,8
 gus,tny,8
 gus,tou,8
 gus,tow,8
@@ -119524,6 +119665,7 @@ gut,tik,7
 gut,tiv,7
 gut,tki,7
 gut,tks,7
+gut,tms,7
 gut,tnn,7
 gut,tok,7
 gut,toz,7
@@ -120043,6 +120185,7 @@ guw,tiv,5
 guw,tki,5
 guw,tks,5
 guw,tmp,5
+guw,tms,5
 guw,tnn,5
 guw,tny,5
 guw,tok,5
@@ -120601,6 +120744,7 @@ gwa,ssa,5
 gwa,sup,5
 gwa,tem,5
 gwa,tmp,5
+gwa,tms,5
 gwa,tny,5
 gwa,tou,5
 gwa,tow,5
@@ -121142,6 +121286,7 @@ gwo,ssa,5
 gwo,sup,5
 gwo,tem,5
 gwo,tmp,5
+gwo,tms,5
 gwo,tny,5
 gwo,tou,5
 gwo,tow,5
@@ -123768,6 +123913,7 @@ heh,ssa,8
 heh,sup,8
 heh,tem,8
 heh,tmp,8
+heh,tms,8
 heh,tny,8
 heh,tou,8
 heh,tow,8
@@ -124141,6 +124287,7 @@ hem,ssa,8
 hem,sup,8
 hem,tem,8
 hem,tmp,8
+hem,tms,8
 hem,tny,8
 hem,tou,8
 hem,tow,8
@@ -124509,6 +124656,7 @@ her,ssa,8
 her,sup,8
 her,tem,8
 her,tmp,8
+her,tms,8
 her,tny,8
 her,tou,8
 her,tow,8
@@ -126146,6 +126294,7 @@ hnd,ssa,8
 hnd,sup,8
 hnd,tem,8
 hnd,tmp,8
+hnd,tms,8
 hnd,tny,8
 hnd,tou,8
 hnd,tow,8
@@ -127373,6 +127522,7 @@ hol,ssa,8
 hol,sup,8
 hol,tem,8
 hol,tmp,8
+hol,tms,8
 hol,tny,8
 hol,tou,8
 hol,tow,8
@@ -128545,6 +128695,7 @@ hya,ssa,8
 hya,sup,8
 hya,tem,8
 hya,tmp,8
+hya,tms,8
 hya,tny,8
 hya,tou,8
 hya,tow,8
@@ -129746,6 +129897,7 @@ ibi,ssa,7
 ibi,sup,7
 ibi,tem,7
 ibi,tmp,7
+ibi,tms,7
 ibi,tny,7
 ibi,tou,7
 ibi,tow,7
@@ -130957,6 +131109,7 @@ ido,ssa,6
 ido,sup,6
 ido,tem,6
 ido,tmp,6
+ido,tms,6
 ido,tny,6
 ido,tou,6
 ido,tow,6
@@ -131643,6 +131796,7 @@ ifm,ssa,8
 ifm,sup,8
 ifm,tem,8
 ifm,tmp,8
+ifm,tms,8
 ifm,tny,8
 ifm,tou,8
 ifm,tow,8
@@ -132338,6 +132492,7 @@ igb,ssa,4
 igb,sup,4
 igb,tem,4
 igb,tmp,4
+igb,tms,4
 igb,tny,4
 igb,tou,4
 igb,tow,4
@@ -132706,6 +132861,7 @@ ige,ssa,6
 ige,sup,6
 ige,tem,6
 ige,tmp,6
+ige,tms,6
 ige,tny,6
 ige,tou,6
 ige,tow,6
@@ -133350,6 +133506,7 @@ ijo,tiv,4
 ijo,tki,4
 ijo,tks,4
 ijo,tmp,4
+ijo,tms,4
 ijo,tne,4
 ijo,tnn,4
 ijo,tny,4
@@ -133815,6 +133972,7 @@ ila,ssa,8
 ila,sup,8
 ila,tem,8
 ila,tmp,8
+ila,tms,8
 ila,tny,8
 ila,tou,8
 ila,tow,8
@@ -136704,6 +136862,7 @@ ise,ssa,5
 ise,sup,5
 ise,tem,5
 ise,tmp,5
+ise,tms,5
 ise,tny,5
 ise,tou,5
 ise,tow,5
@@ -137565,6 +137724,7 @@ iso,ssa,4
 iso,sup,4
 iso,tem,4
 iso,tmp,4
+iso,tms,4
 iso,tny,4
 iso,tou,4
 iso,tow,4
@@ -140160,6 +140320,7 @@ izi,ssa,4
 izi,sup,4
 izi,tem,4
 izi,tmp,4
+izi,tms,4
 izi,tny,4
 izi,tou,4
 izi,tow,4
@@ -141216,6 +141377,7 @@ jar,ssa,6
 jar,sup,6
 jar,tem,6
 jar,tmp,6
+jar,tms,6
 jar,tny,6
 jar,tou,6
 jar,tow,6
@@ -142025,6 +142187,7 @@ jel,tiv,7
 jel,tki,7
 jel,tks,7
 jel,tmp,7
+jel,tms,7
 jel,tne,7
 jel,tnn,7
 jel,tny,7
@@ -142675,6 +142838,7 @@ jmo,zag,8
 jmo,zar,8
 jms,dds,1
 jms,dts,1
+jms,tms,1
 jms,abd,2
 jms,adi,2
 jms,agb,2
@@ -143517,6 +143681,7 @@ jom,tiv,5
 jom,tki,5
 jom,tks,5
 jom,tmp,5
+jom,tms,5
 jom,tne,5
 jom,tnn,5
 jom,tny,5
@@ -144034,6 +144199,7 @@ juk,ssa,6
 juk,sup,6
 juk,tem,6
 juk,tmp,6
+juk,tms,6
 juk,tny,6
 juk,tou,6
 juk,tow,6
@@ -145818,6 +145984,7 @@ kan,ssa,6
 kan,sup,6
 kan,tem,6
 kan,tmp,6
+kan,tms,6
 kan,tny,6
 kan,tou,6
 kan,tow,6
@@ -147655,6 +147822,7 @@ kba,ssa,8
 kba,sup,8
 kba,tem,8
 kba,tmp,8
+kba,tms,8
 kba,tny,8
 kba,tou,8
 kba,tow,8
@@ -149035,6 +149203,7 @@ kby,tik,7
 kby,tiv,7
 kby,tki,7
 kby,tks,7
+kby,tms,7
 kby,tnn,7
 kby,tok,7
 kby,toz,7
@@ -151497,6 +151666,7 @@ kfe,tik,6
 kfe,tiv,6
 kfe,tki,6
 kfe,tks,6
+kfe,tms,6
 kfe,tnn,6
 kfe,tok,6
 kfe,toz,6
@@ -151913,6 +152083,7 @@ kga,ssa,8
 kga,sup,8
 kga,tem,8
 kga,tmp,8
+kga,tms,8
 kga,tny,8
 kga,tou,8
 kga,tow,8
@@ -152289,6 +152460,7 @@ kgi,tiv,5
 kgi,tki,5
 kgi,tks,5
 kgi,tmp,5
+kgi,tms,5
 kgi,tnn,5
 kgi,tny,5
 kgi,tok,5
@@ -152771,6 +152943,7 @@ kgm,ssa,6
 kgm,sup,6
 kgm,tem,6
 kgm,tmp,6
+kgm,tms,6
 kgm,tny,6
 kgm,tou,6
 kgm,tow,6
@@ -153139,6 +153312,7 @@ kgr,ssa,8
 kgr,sup,8
 kgr,tem,8
 kgr,tmp,8
+kgr,tms,8
 kgr,tny,8
 kgr,tou,8
 kgr,tow,8
@@ -154994,6 +155168,7 @@ kik,ssa,8
 kik,sup,8
 kik,tem,8
 kik,tmp,8
+kik,tms,8
 kik,tny,8
 kik,tou,8
 kik,tow,8
@@ -155362,6 +155537,7 @@ kil,ssa,8
 kil,sup,8
 kil,tem,8
 kil,tmp,8
+kil,tms,8
 kil,tny,8
 kil,tou,8
 kil,tow,8
@@ -155852,6 +156028,7 @@ kin,ssa,8
 kin,sup,8
 kin,tem,8
 kin,tmp,8
+kin,tms,8
 kin,tny,8
 kin,tou,8
 kin,tow,8
@@ -156219,6 +156396,7 @@ kir,tik,6
 kir,tiv,6
 kir,tki,6
 kir,tks,6
+kir,tms,6
 kir,tnn,6
 kir,tok,6
 kir,toz,6
@@ -156604,6 +156782,7 @@ kis,tiv,6
 kis,tki,6
 kis,tks,6
 kis,tmp,6
+kis,tms,6
 kis,tnn,6
 kis,tny,6
 kis,tok,6
@@ -158010,6 +158189,7 @@ kkb,tik,7
 kkb,tiv,7
 kkb,tki,7
 kkb,tks,7
+kkb,tms,7
 kkb,tnn,7
 kkb,tok,7
 kkb,toz,7
@@ -158641,6 +158821,7 @@ kko,tiv,9
 kko,tki,9
 kko,tks,9
 kko,tmp,9
+kko,tms,9
 kko,tne,9
 kko,tnn,9
 kko,tny,9
@@ -160178,6 +160359,7 @@ kla,tiv,4
 kla,tki,4
 kla,tks,4
 kla,tmp,4
+kla,tms,4
 kla,tnn,4
 kla,tny,4
 kla,tok,4
@@ -161333,6 +161515,7 @@ klk,tik,8
 klk,tiv,8
 klk,tki,8
 klk,tks,8
+klk,tms,8
 klk,tnn,8
 klk,tok,8
 klk,toz,8
@@ -163147,6 +163330,7 @@ klz,ssa,8
 klz,sup,8
 klz,tem,8
 klz,tmp,8
+klz,tms,8
 klz,tny,8
 klz,tou,8
 klz,tow,8
@@ -163783,6 +163967,7 @@ kmi,ssa,8
 kmi,sup,8
 kmi,tem,8
 kmi,tmp,8
+kmi,tms,8
 kmi,tny,8
 kmi,tou,8
 kmi,tow,8
@@ -164679,6 +164864,7 @@ kmw,yny,4
 kmw,yuk,4
 kmw,yuw,4
 kmw,ywr,4
+kmz,aab,2
 kmz,aoj,2
 kmz,arp,2
 kmz,au,2
@@ -165185,6 +165371,7 @@ kni,tik,7
 kni,tiv,7
 kni,tki,7
 kni,tks,7
+kni,tms,7
 kni,tnn,7
 kni,tok,7
 kni,toz,7
@@ -166450,6 +166637,7 @@ koh,ssa,9
 koh,sup,9
 koh,tem,9
 koh,tmp,9
+koh,tms,9
 koh,tny,9
 koh,tou,9
 koh,tow,9
@@ -167195,6 +167383,7 @@ kon,ssa,8
 kon,sup,8
 kon,tem,8
 kon,tmp,8
+kon,tms,8
 kon,tny,8
 kon,tou,8
 kon,tow,8
@@ -168241,6 +168430,7 @@ kou,ssa,8
 kou,sup,8
 kou,tem,8
 kou,tmp,8
+kou,tms,8
 kou,tny,8
 kou,tou,8
 kou,tow,8
@@ -168599,6 +168789,7 @@ kow,tik,7
 kow,tiv,7
 kow,tki,7
 kow,tks,7
+kow,tms,7
 kow,tnn,7
 kow,tok,7
 kow,toz,7
@@ -168998,6 +169189,7 @@ kpa,ssa,5
 kpa,sup,5
 kpa,tem,5
 kpa,tmp,5
+kpa,tms,5
 kpa,tny,5
 kpa,tou,5
 kpa,tow,5
@@ -169410,6 +169602,7 @@ kpe,tiv,6
 kpe,tki,6
 kpe,tks,6
 kpe,tmp,6
+kpe,tms,6
 kpe,tne,6
 kpe,tnn,6
 kpe,tny,6
@@ -170349,6 +170542,7 @@ kpo,tiv,4
 kpo,tki,4
 kpo,tks,4
 kpo,tmp,4
+kpo,tms,4
 kpo,tnn,4
 kpo,tny,4
 kpo,tok,4
@@ -171937,6 +172131,7 @@ krg,ssa,8
 krg,sup,8
 krg,tem,8
 krg,tmp,8
+krg,tms,8
 krg,tny,8
 krg,tou,8
 krg,tow,8
@@ -173596,6 +173791,7 @@ ksm,tik,7
 ksm,tiv,7
 ksm,tki,7
 ksm,tks,7
+ksm,tms,7
 ksm,tnn,7
 ksm,tok,7
 ksm,toz,7
@@ -173964,6 +174160,7 @@ ksp,tik,6
 ksp,tiv,6
 ksp,tki,6
 ksp,tks,6
+ksp,tms,6
 ksp,tnn,6
 ksp,tok,6
 ksp,toz,6
@@ -174666,6 +174863,7 @@ kss,tiv,6
 kss,tki,6
 kss,tks,6
 kss,tmp,6
+kss,tms,6
 kss,tnn,6
 kss,tny,6
 kss,tok,6
@@ -175440,6 +175638,7 @@ kte,ssa,8
 kte,sup,8
 kte,tem,8
 kte,tmp,8
+kte,tms,8
 kte,tny,8
 kte,tou,8
 kte,tow,8
@@ -176135,6 +176334,7 @@ ktl,tiv,3
 ktl,tki,3
 ktl,tks,3
 ktl,tmp,3
+ktl,tms,3
 ktl,tne,3
 ktl,tnn,3
 ktl,tny,3
@@ -179306,6 +179506,7 @@ kwn,ssa,8
 kwn,sup,8
 kwn,tem,8
 kwn,tmp,8
+kwn,tms,8
 kwn,tny,8
 kwn,tou,8
 kwn,tow,8
@@ -180047,6 +180248,7 @@ kwy,ssa,8
 kwy,sup,8
 kwy,tem,8
 kwy,tmp,8
+kwy,tms,8
 kwy,tny,8
 kwy,tou,8
 kwy,tow,8
@@ -180580,6 +180782,7 @@ kyg,ssa,5
 kyg,sup,5
 kyg,tem,5
 kyg,tmp,5
+kyg,tms,5
 kyg,tny,5
 kyg,tou,5
 kyg,tow,5
@@ -181275,6 +181478,7 @@ kyo,ssa,8
 kyo,sup,8
 kyo,tem,8
 kyo,tmp,8
+kyo,tms,8
 kyo,tny,8
 kyo,tou,8
 kyo,tow,8
@@ -182477,6 +182681,7 @@ laf,tiv,4
 laf,tki,4
 laf,tks,4
 laf,tmp,4
+laf,tms,4
 laf,tne,4
 laf,tnn,4
 laf,tny,4
@@ -184324,6 +184529,7 @@ lbu,ssa,8
 lbu,sup,8
 lbu,tem,8
 lbu,tmp,8
+lbu,tms,8
 lbu,tny,8
 lbu,tou,8
 lbu,tow,8
@@ -184741,6 +184947,7 @@ lda,ssa,8
 lda,sup,8
 lda,tem,8
 lda,tmp,8
+lda,tms,8
 lda,tny,8
 lda,tou,8
 lda,tow,8
@@ -185281,6 +185488,7 @@ ldo,ssa,8
 ldo,sup,8
 ldo,tem,8
 ldo,tmp,8
+ldo,tms,8
 ldo,tny,8
 ldo,tou,8
 ldo,tow,8
@@ -185738,6 +185946,7 @@ leb,ssa,8
 leb,sup,8
 leb,tem,8
 leb,tmp,8
+leb,tms,8
 leb,tny,8
 leb,tou,8
 leb,tow,8
@@ -186177,6 +186386,7 @@ leg,ssa,8
 leg,sup,8
 leg,tem,8
 leg,tmp,8
+leg,tms,8
 leg,tny,8
 leg,tou,8
 leg,tow,8
@@ -188398,6 +188608,7 @@ lgi,ssa,8
 lgi,sup,8
 lgi,tem,8
 lgi,tmp,8
+lgi,tms,8
 lgi,tny,8
 lgi,tou,8
 lgi,tow,8
@@ -189593,6 +189804,7 @@ lin,ssa,8
 lin,sup,8
 lin,tem,8
 lin,tmp,8
+lin,tms,8
 lin,tny,8
 lin,tou,8
 lin,tow,8
@@ -190788,6 +191000,7 @@ llm,tiv,6
 llm,tki,6
 llm,tks,6
 llm,tmp,6
+llm,tms,6
 llm,tnn,6
 llm,tny,6
 llm,tok,6
@@ -191219,6 +191432,7 @@ lma,tiv,7
 lma,tki,7
 lma,tks,7
 lma,tmp,7
+lma,tms,7
 lma,tne,7
 lma,tnn,7
 lma,tny,7
@@ -191543,6 +191757,7 @@ lmb,ssa,8
 lmb,sup,8
 lmb,tem,8
 lmb,tmp,8
+lmb,tms,8
 lmb,tny,8
 lmb,tou,8
 lmb,tow,8
@@ -193328,6 +193543,7 @@ lnd,tik,8
 lnd,tiv,8
 lnd,tki,8
 lnd,tks,8
+lnd,tms,8
 lnd,tnn,8
 lnd,tok,8
 lnd,toz,8
@@ -194038,6 +194254,7 @@ lns,ssa,8
 lns,sup,8
 lns,tem,8
 lns,tmp,8
+lns,tms,8
 lns,tny,8
 lns,tou,8
 lns,tow,8
@@ -194713,6 +194930,7 @@ lob,tik,4
 lob,tiv,4
 lob,tki,4
 lob,tks,4
+lob,tms,4
 lob,tnn,4
 lob,tok,4
 lob,toz,4
@@ -195135,6 +195353,7 @@ lok,tiv,8
 lok,tki,8
 lok,tks,8
 lok,tmp,8
+lok,tms,8
 lok,tne,8
 lok,tnn,8
 lok,tny,8
@@ -196286,6 +196505,7 @@ loz,ssa,8
 loz,sup,8
 loz,tem,8
 loz,tmp,8
+loz,tms,8
 loz,tny,8
 loz,tou,8
 loz,tow,8
@@ -197318,6 +197538,7 @@ lua,tik,6
 lua,tiv,6
 lua,tki,6
 lua,tks,6
+lua,tms,6
 lua,tnn,6
 lua,tok,6
 lua,toz,6
@@ -197696,6 +197917,7 @@ luc,ssa,8
 luc,sup,8
 luc,tem,8
 luc,tmp,8
+luc,tms,8
 luc,tny,8
 luc,tou,8
 luc,tow,8
@@ -198958,6 +199180,7 @@ luv,ssa,8
 luv,sup,8
 luv,tem,8
 luv,tmp,8
+luv,tms,8
 luv,tny,8
 luv,tou,8
 luv,tow,8
@@ -199500,6 +199723,7 @@ luy,ssa,8
 luy,sup,8
 luy,tem,8
 luy,tmp,8
+luy,tms,8
 luy,tny,8
 luy,tou,8
 luy,tow,8
@@ -199858,6 +200082,7 @@ lye,tik,7
 lye,tiv,7
 lye,tki,7
 lye,tks,7
+lye,tms,7
 lye,tnn,7
 lye,tok,7
 lye,toz,7
@@ -200226,6 +200451,7 @@ ma,tik,7
 ma,tiv,7
 ma,tki,7
 ma,tks,7
+ma,tms,7
 ma,tnn,7
 ma,tok,7
 ma,toz,7
@@ -202002,6 +202228,7 @@ man,tiv,7
 man,tki,7
 man,tks,7
 man,tmp,7
+man,tms,7
 man,tne,7
 man,tnn,7
 man,tny,7
@@ -203121,6 +203348,7 @@ maw,tiv,10
 maw,tki,10
 maw,tks,10
 maw,tmp,10
+maw,tms,10
 maw,tne,10
 maw,tnn,10
 maw,tny,10
@@ -203490,6 +203718,7 @@ mba,tik,7
 mba,tiv,7
 mba,tki,7
 mba,tks,7
+mba,tms,7
 mba,tnn,7
 mba,tok,7
 mba,toz,7
@@ -203868,6 +204097,7 @@ mbe,ssa,8
 mbe,sup,8
 mbe,tem,8
 mbe,tmp,8
+mbe,tms,8
 mbe,tny,8
 mbe,tou,8
 mbe,tow,8
@@ -204237,6 +204467,7 @@ mbi,ssa,8
 mbi,sup,8
 mbi,tem,8
 mbi,tmp,8
+mbi,tms,8
 mbi,tny,8
 mbi,tou,8
 mbi,tow,8
@@ -204605,6 +204836,7 @@ mbl,ssa,8
 mbl,sup,8
 mbl,tem,8
 mbl,tmp,8
+mbl,tms,8
 mbl,tny,8
 mbl,tou,8
 mbl,tow,8
@@ -204963,6 +205195,7 @@ mbm,tik,7
 mbm,tiv,7
 mbm,tki,7
 mbm,tks,7
+mbm,tms,7
 mbm,tnn,7
 mbm,tok,7
 mbm,toz,7
@@ -205052,6 +205285,7 @@ mbm,tia,9
 mbm,vai,9
 mbm,wna,9
 mbm,xas,9
+mbo,aab,2
 mbo,aoj,2
 mbo,arp,2
 mbo,au,2
@@ -205689,6 +205923,7 @@ mbz,ssa,8
 mbz,sup,8
 mbz,tem,8
 mbz,tmp,8
+mbz,tms,8
 mbz,tny,8
 mbz,tou,8
 mbz,tow,8
@@ -206710,6 +206945,7 @@ mde,tiv,8
 mde,tki,8
 mde,tks,8
 mde,tmp,8
+mde,tms,8
 mde,tne,8
 mde,tnn,8
 mde,tny,8
@@ -207024,6 +207260,7 @@ mdg,tik,8
 mdg,tiv,8
 mdg,tki,8
 mdg,tks,8
+mdg,tms,8
 mdg,tnn,8
 mdg,tok,8
 mdg,toz,8
@@ -207445,6 +207682,7 @@ mdk,tiv,10
 mdk,tki,10
 mdk,tks,10
 mdk,tmp,10
+mdk,tms,10
 mdk,tne,10
 mdk,tnn,10
 mdk,tny,10
@@ -207929,6 +208167,7 @@ mdo,tik,6
 mdo,tiv,6
 mdo,tki,6
 mdo,tks,6
+mdo,tms,6
 mdo,tnn,6
 mdo,tok,6
 mdo,toz,6
@@ -208646,6 +208885,7 @@ mdu,tik,9
 mdu,tiv,9
 mdu,tki,9
 mdu,tks,9
+mdu,tms,9
 mdu,tnn,9
 mdu,tok,9
 mdu,toz,9
@@ -209024,6 +209264,7 @@ mdw,ssa,8
 mdw,sup,8
 mdw,tem,8
 mdw,tmp,8
+mdw,tms,8
 mdw,tny,8
 mdw,tou,8
 mdw,tow,8
@@ -209392,6 +209633,7 @@ mdz,ssa,6
 mdz,sup,6
 mdz,tem,6
 mdz,tmp,6
+mdz,tms,6
 mdz,tny,6
 mdz,tou,6
 mdz,tow,6
@@ -210656,6 +210898,7 @@ mga,tik,7
 mga,tiv,7
 mga,tki,7
 mga,tks,7
+mga,tms,7
 mga,tnn,7
 mga,tok,7
 mga,toz,7
@@ -211704,6 +211947,7 @@ mgk,ssa,8
 mgk,sup,8
 mgk,tem,8
 mgk,tmp,8
+mgk,tms,8
 mgk,tny,8
 mgk,tou,8
 mgk,tow,8
@@ -212392,6 +212636,7 @@ mgo,ssa,8
 mgo,sup,8
 mgo,tem,8
 mgo,tmp,8
+mgo,tms,8
 mgo,tny,8
 mgo,tou,8
 mgo,tow,8
@@ -213401,6 +213646,7 @@ mhu,ssa,8
 mhu,sup,8
 mhu,tem,8
 mhu,tmp,8
+mhu,tms,8
 mhu,tny,8
 mhu,tou,8
 mhu,tow,8
@@ -215034,6 +215280,7 @@ mit,ssa,8
 mit,sup,8
 mit,tem,8
 mit,tmp,8
+mit,tms,8
 mit,tny,8
 mit,tou,8
 mit,tow,8
@@ -215809,6 +216056,7 @@ mjk,tiv,5
 mjk,tki,5
 mjk,tks,5
 mjk,tmp,5
+mjk,tms,5
 mjk,tnn,5
 mjk,tny,5
 mjk,tok,5
@@ -216213,6 +216461,7 @@ mka,tiv,12
 mka,tki,12
 mka,tks,12
 mka,tmp,12
+mka,tms,12
 mka,tne,12
 mka,tnn,12
 mka,tny,12
@@ -216544,6 +216793,7 @@ mkd,ssa,8
 mkd,sup,8
 mkd,tem,8
 mkd,tmp,8
+mkd,tms,8
 mkd,tny,8
 mkd,tou,8
 mkd,tow,8
@@ -217272,6 +217522,7 @@ mkg,tiv,10
 mkg,tki,10
 mkg,tks,10
 mkg,tmp,10
+mkg,tms,10
 mkg,tne,10
 mkg,tnn,10
 mkg,tny,10
@@ -217736,6 +217987,7 @@ mkn,tiv,5
 mkn,tki,5
 mkn,tks,5
 mkn,tmp,5
+mkn,tms,5
 mkn,tnn,5
 mkn,tny,5
 mkn,tok,5
@@ -218238,6 +218490,7 @@ mkq,ssa,8
 mkq,sup,8
 mkq,tem,8
 mkq,tmp,8
+mkq,tms,8
 mkq,tny,8
 mkq,tou,8
 mkq,tow,8
@@ -219091,6 +219344,7 @@ mkz,ssa,8
 mkz,sup,8
 mkz,tem,8
 mkz,tmp,8
+mkz,tms,8
 mkz,tny,8
 mkz,tou,8
 mkz,tow,8
@@ -219459,6 +219713,7 @@ mla,ssa,7
 mla,sup,7
 mla,tem,7
 mla,tmp,7
+mla,tms,7
 mla,tny,7
 mla,tou,7
 mla,tow,7
@@ -221675,6 +221930,7 @@ mmi,tik,8
 mmi,tiv,8
 mmi,tki,8
 mmi,tks,8
+mmi,tms,8
 mmi,tnn,8
 mmi,tok,8
 mmi,toz,8
@@ -222383,6 +222639,7 @@ mmp,tik,8
 mmp,tiv,8
 mmp,tki,8
 mmp,tks,8
+mmp,tms,8
 mmp,tnn,8
 mmp,tok,8
 mmp,toz,8
@@ -223484,6 +223741,7 @@ mmw,ssa,8
 mmw,sup,8
 mmw,tem,8
 mmw,tmp,8
+mmw,tms,8
 mmw,tny,8
 mmw,tou,8
 mmw,tow,8
@@ -224964,6 +225222,7 @@ mnk,tiv,11
 mnk,tki,11
 mnk,tks,11
 mnk,tmp,11
+mnk,tms,11
 mnk,tne,11
 mnk,tnn,11
 mnk,tny,11
@@ -226923,6 +227182,7 @@ mnz,tik,9
 mnz,tiv,9
 mnz,tki,9
 mnz,tks,9
+mnz,tms,9
 mnz,tnn,9
 mnz,tok,9
 mnz,toz,9
@@ -228601,6 +228861,7 @@ moo,tik,8
 moo,tiv,8
 moo,tki,8
 moo,tks,8
+moo,tms,8
 moo,tnn,8
 moo,tok,8
 moo,toz,8
@@ -229643,6 +229904,7 @@ mpo,ssa,8
 mpo,sup,8
 mpo,tem,8
 mpo,tmp,8
+mpo,tms,8
 mpo,tny,8
 mpo,tou,8
 mpo,tow,8
@@ -231719,6 +231981,7 @@ mro,tiv,5
 mro,tki,5
 mro,tks,5
 mro,tmp,5
+mro,tms,5
 mro,tne,5
 mro,tnn,5
 mro,tny,5
@@ -233521,6 +233784,7 @@ msk,tiv,5
 msk,tki,5
 msk,tks,5
 msk,tmp,5
+msk,tms,5
 msk,tne,5
 msk,tnn,5
 msk,tny,5
@@ -235062,6 +235326,7 @@ mtb,ssa,8
 mtb,sup,8
 mtb,tem,8
 mtb,tmp,8
+mtb,tms,8
 mtb,tny,8
 mtb,tou,8
 mtb,tow,8
@@ -236207,6 +236472,7 @@ mua,ssa,8
 mua,sup,8
 mua,tem,8
 mua,tmp,8
+mua,tms,8
 mua,tny,8
 mua,tou,8
 mua,tow,8
@@ -236575,6 +236841,7 @@ mud,ssa,7
 mud,sup,7
 mud,tem,7
 mud,tmp,7
+mud,tms,7
 mud,tny,7
 mud,tou,7
 mud,tow,7
@@ -237220,6 +237487,7 @@ mum,tik,7
 mum,tiv,7
 mum,tki,7
 mum,tks,7
+mum,tms,7
 mum,tnn,7
 mum,tok,7
 mum,toz,7
@@ -239232,6 +239500,7 @@ mwe,ssa,8
 mwe,sup,8
 mwe,tem,8
 mwe,tmp,8
+mwe,tms,8
 mwe,tny,8
 mwe,tou,8
 mwe,tow,8
@@ -241271,6 +241540,7 @@ myg,tik,9
 myg,tiv,9
 myg,tki,9
 myg,tks,9
+myg,tms,9
 myg,tnn,9
 myg,tok,9
 myg,toz,9
@@ -243052,6 +243322,7 @@ naf,tik,5
 naf,tiv,5
 naf,tki,5
 naf,tks,5
+naf,tms,5
 naf,tnn,5
 naf,tok,5
 naf,toz,5
@@ -245657,6 +245928,7 @@ nbe,ssa,8
 nbe,sup,8
 nbe,tem,8
 nbe,tmp,8
+nbe,tms,8
 nbe,tny,8
 nbe,tou,8
 nbe,tow,8
@@ -246421,6 +246693,7 @@ nbm,tik,9
 nbm,tiv,9
 nbm,tki,9
 nbm,tks,9
+nbm,tms,9
 nbm,tnn,9
 nbm,tok,9
 nbm,toz,9
@@ -246799,6 +247072,7 @@ nbo,ssa,8
 nbo,sup,8
 nbo,tem,8
 nbo,tmp,8
+nbo,tms,8
 nbo,tny,8
 nbo,tou,8
 nbo,tow,8
@@ -247218,6 +247492,7 @@ ncm,tik,8
 ncm,tiv,8
 ncm,tki,8
 ncm,tks,8
+ncm,tms,8
 ncm,tnn,8
 ncm,tok,8
 ncm,toz,8
@@ -247596,6 +247871,7 @@ ndb,ssa,8
 ndb,sup,8
 ndb,tem,8
 ndb,tmp,8
+ndb,tms,8
 ndb,tny,8
 ndb,tou,8
 ndb,tow,8
@@ -247964,6 +248240,7 @@ nde,ssa,8
 nde,sup,8
 nde,tem,8
 nde,tmp,8
+nde,tms,8
 nde,tny,8
 nde,tou,8
 nde,tow,8
@@ -248322,6 +248599,7 @@ ndg,tik,8
 ndg,tiv,8
 ndg,tki,8
 ndg,tks,8
+ndg,tms,8
 ndg,tnn,8
 ndg,tok,8
 ndg,toz,8
@@ -248690,6 +248968,7 @@ ndi,tik,5
 ndi,tiv,5
 ndi,tki,5
 ndi,tks,5
+ndi,tms,5
 ndi,tnn,5
 ndi,tok,5
 ndi,toz,5
@@ -249228,6 +249507,7 @@ ndo,ssa,8
 ndo,sup,8
 ndo,tem,8
 ndo,tmp,8
+ndo,tms,8
 ndo,tny,8
 ndo,tou,8
 ndo,tow,8
@@ -249920,6 +250200,7 @@ ndt,tiv,4
 ndt,tki,4
 ndt,tks,4
 ndt,tmp,4
+ndt,tms,4
 ndt,tnn,4
 ndt,tny,4
 ndt,tok,4
@@ -250280,6 +250561,7 @@ ndu,ssa,8
 ndu,sup,8
 ndu,tem,8
 ndu,tmp,8
+ndu,tms,8
 ndu,tny,8
 ndu,tou,8
 ndu,tow,8
@@ -251721,6 +252003,7 @@ ney,tiv,4
 ney,tki,4
 ney,tks,4
 ney,tmp,4
+ney,tms,4
 ney,tnn,4
 ney,tny,4
 ney,tok,4
@@ -252120,6 +252403,7 @@ ngb,tik,6
 ngb,tiv,6
 ngb,tki,6
 ngb,tks,6
+ngb,tms,6
 ngb,tnn,6
 ngb,tok,6
 ngb,toz,6
@@ -252814,6 +253098,7 @@ nge,ssa,8
 nge,sup,8
 nge,tem,8
 nge,tmp,8
+nge,tms,8
 nge,tny,8
 nge,tou,8
 nge,tow,8
@@ -254228,6 +254513,7 @@ ngo,ssa,8
 ngo,sup,8
 ngo,tem,8
 ngo,tmp,8
+ngo,tms,8
 ngo,tny,8
 ngo,tou,8
 ngo,tow,8
@@ -256354,6 +256640,7 @@ nin,olo,1
 nin,wal,1
 nin,yil,1
 nin,urt,2
+nin,aab,3
 nin,aoj,3
 nin,arp,3
 nin,kmz,3
@@ -257508,6 +257795,7 @@ nke,ssa,6
 nke,sup,6
 nke,tem,6
 nke,tmp,6
+nke,tms,6
 nke,tny,6
 nke,tou,6
 nke,tow,6
@@ -258017,6 +258305,7 @@ nkn,tiv,7
 nkn,tki,7
 nkn,tks,7
 nkn,tmp,7
+nkn,tms,7
 nkn,tnn,7
 nkn,tny,7
 nkn,tok,7
@@ -258404,6 +258693,7 @@ nko,ssa,8
 nko,sup,8
 nko,tem,8
 nko,tmp,8
+nko,tms,8
 nko,tny,8
 nko,tou,8
 nko,tow,8
@@ -260644,6 +260934,7 @@ nng,ssa,8
 nng,sup,8
 nng,tem,8
 nng,tmp,8
+nng,tms,8
 nng,tny,8
 nng,tou,8
 nng,tow,8
@@ -261440,6 +261731,7 @@ nnn,tik,7
 nnn,tiv,7
 nnn,tki,7
 nnn,tks,7
+nnn,tms,7
 nnn,tnn,7
 nnn,tok,7
 nnn,toz,7
@@ -262181,6 +262473,7 @@ non,ssa,5
 non,sup,5
 non,tem,5
 non,tmp,5
+non,tms,5
 non,tny,5
 non,tou,5
 non,tow,5
@@ -262557,6 +262850,7 @@ noo,tiv,4
 noo,tki,4
 noo,tks,4
 noo,tmp,4
+noo,tms,4
 noo,tnn,4
 noo,tny,4
 noo,tok,4
@@ -263474,6 +263768,7 @@ nrg,tik,5
 nrg,tiv,5
 nrg,tki,5
 nrg,tks,5
+nrg,tms,5
 nrg,tnn,5
 nrg,tok,5
 nrg,toz,5
@@ -264174,6 +264469,7 @@ nse,ssa,8
 nse,sup,8
 nse,tem,8
 nse,tmp,8
+nse,tms,8
 nse,tny,8
 nse,tou,8
 nse,tow,8
@@ -265030,6 +265326,7 @@ ntn,tik,7
 ntn,tiv,7
 ntn,tki,7
 ntn,tks,7
+ntn,tms,7
 ntn,tnn,7
 ntn,tok,7
 ntn,toz,7
@@ -265408,6 +265705,7 @@ nto,ssa,8
 nto,sup,8
 nto,tem,8
 nto,tmp,8
+nto,tms,8
 nto,tny,8
 nto,tou,8
 nto,tow,8
@@ -266416,6 +266714,7 @@ nup,ssa,5
 nup,sup,5
 nup,tem,5
 nup,tmp,5
+nup,tms,5
 nup,tny,5
 nup,tou,5
 nup,tow,5
@@ -267394,6 +267693,7 @@ nyh,ssa,8
 nyh,sup,8
 nyh,tem,8
 nyh,tmp,8
+nyh,tms,8
 nyh,tny,8
 nyh,tou,8
 nyh,tow,8
@@ -268314,6 +268614,7 @@ nym,ssa,8
 nym,sup,8
 nym,tem,8
 nym,tmp,8
+nym,tms,8
 nym,tny,8
 nym,tou,8
 nym,tow,8
@@ -269152,6 +269453,7 @@ nza,tik,6
 nza,tiv,6
 nza,tki,6
 nza,tks,6
+nza,tms,6
 nza,tnn,6
 nza,tok,6
 nza,toz,6
@@ -269712,6 +270014,7 @@ obg,ssa,5
 obg,sup,5
 obg,tem,5
 obg,tmp,5
+obg,tms,5
 obg,tny,5
 obg,tou,5
 obg,tow,5
@@ -270084,6 +270387,7 @@ obo,ssa,6
 obo,sup,6
 obo,tem,6
 obo,tmp,6
+obo,tms,6
 obo,tny,6
 obo,tou,6
 obo,tow,6
@@ -270685,6 +270989,7 @@ ogb,ssa,5
 ogb,sup,5
 ogb,tem,5
 ogb,tmp,5
+ogb,tms,5
 ogb,tny,5
 ogb,tou,5
 ogb,tow,5
@@ -271568,6 +271873,7 @@ oku,ssa,8
 oku,sup,8
 oku,tem,8
 oku,tmp,8
+oku,tms,8
 oku,tny,8
 oku,tou,8
 oku,tow,8
@@ -271968,6 +272274,7 @@ olo,nin,1
 olo,wal,1
 olo,yil,1
 olo,urt,2
+olo,aab,3
 olo,aoj,3
 olo,arp,3
 olo,kmz,3
@@ -272144,6 +272451,7 @@ ond,onn,2
 ond,snc,2
 ond,wya,3
 ond,tus,4
+one,aab,3
 one,aoj,3
 one,arp,3
 one,au,3
@@ -272618,6 +272926,7 @@ ora,ssa,5
 ora,sup,5
 ora,tem,5
 ora,tmp,5
+ora,tms,5
 ora,tny,5
 ora,tou,5
 ora,tow,5
@@ -273349,6 +273658,7 @@ ori,tiv,3
 ori,tki,3
 ori,tks,3
 ori,tmp,3
+ori,tms,3
 ori,tne,3
 ori,tnn,3
 ori,tny,3
@@ -274592,6 +274902,7 @@ otr,tiv,7
 otr,tki,7
 otr,tks,7
 otr,tmp,7
+otr,tms,7
 otr,tne,7
 otr,tnn,7
 otr,tny,7
@@ -280058,6 +280369,7 @@ plr,tiv,4
 plr,tki,4
 plr,tks,4
 plr,tmp,4
+plr,tms,4
 plr,tnn,4
 plr,tny,4
 plr,tok,4
@@ -281056,6 +281368,7 @@ png,ssa,8
 png,sup,8
 png,tem,8
 png,tmp,8
+png,tms,8
 png,tny,8
 png,tou,8
 png,tow,8
@@ -282431,6 +282744,7 @@ pog,ssa,8
 pog,sup,8
 pog,tem,8
 pog,tmp,8
+pog,tms,8
 pog,tny,8
 pog,tou,8
 pog,tow,8
@@ -283987,6 +284301,7 @@ pre,ssa,8
 pre,sup,8
 pre,tem,8
 pre,tmp,8
+pre,tms,8
 pre,tny,8
 pre,tou,8
 pre,tow,8
@@ -288801,6 +289116,7 @@ ras,tiv,3
 ras,tki,3
 ras,tks,3
 ras,tmp,3
+ras,tms,3
 ras,tne,3
 ras,tnn,3
 ras,tny,3
@@ -290342,6 +290658,7 @@ rga,ssa,8
 rga,sup,8
 rga,tem,8
 rga,tmp,8
+rga,tms,8
 rga,tny,8
 rga,tou,8
 rga,tow,8
@@ -291364,6 +291681,7 @@ rim,ssa,8
 rim,sup,8
 rim,tem,8
 rim,tmp,8
+rim,tms,8
 rim,tny,8
 rim,tou,8
 rim,tow,8
@@ -292712,6 +293030,7 @@ rnd,ssa,8
 rnd,sup,8
 rnd,tem,8
 rnd,tmp,8
+rnd,tms,8
 rnd,tny,8
 rnd,tou,8
 rnd,tow,8
@@ -293617,6 +293936,7 @@ rny,ssa,8
 rny,sup,8
 rny,tem,8
 rny,tmp,8
+rny,tms,8
 rny,tny,8
 rny,tou,8
 rny,tow,8
@@ -295389,6 +295709,7 @@ rru,ssa,8
 rru,sup,8
 rru,tem,8
 rru,tmp,8
+rru,tms,8
 rru,tny,8
 rru,tou,8
 rru,tow,8
@@ -301634,6 +301955,7 @@ sen,ssa,8
 sen,sup,8
 sen,tem,8
 sen,tmp,8
+sen,tms,8
 sen,tny,8
 sen,tou,8
 sen,tow,8
@@ -302073,6 +302395,7 @@ ses,ssa,8
 ses,sup,8
 ses,tem,8
 ses,tmp,8
+ses,tms,8
 ses,tny,8
 ses,tou,8
 ses,tow,8
@@ -302476,6 +302799,7 @@ sge,ssa,8
 sge,sup,8
 sge,tem,8
 sge,tmp,8
+sge,tms,8
 sge,tny,8
 sge,tou,8
 sge,tow,8
@@ -302844,6 +303168,7 @@ sgl,ssa,8
 sgl,sup,8
 sgl,tem,8
 sgl,tmp,8
+sgl,tms,8
 sgl,tny,8
 sgl,tou,8
 sgl,tow,8
@@ -303547,6 +303872,7 @@ sgu,ssa,8
 sgu,sup,8
 sgu,tem,8
 sgu,tmp,8
+sgu,tms,8
 sgu,tny,8
 sgu,tou,8
 sgu,tow,8
@@ -304474,6 +304800,7 @@ shm,ssa,8
 shm,sup,8
 shm,tem,8
 shm,tmp,8
+shm,tms,8
 shm,tny,8
 shm,tou,8
 shm,tow,8
@@ -304841,6 +305168,7 @@ shn,ssa,8
 shn,sup,8
 shn,tem,8
 shn,tmp,8
+shn,tms,8
 shn,tny,8
 shn,tou,8
 shn,tow,8
@@ -308024,6 +308352,7 @@ skm,ssa,8
 skm,sup,8
 skm,tem,8
 skm,tmp,8
+skm,tms,8
 skm,tny,8
 skm,tou,8
 skm,tow,8
@@ -308425,6 +308754,7 @@ sku,ssa,8
 sku,sup,8
 sku,tem,8
 sku,tmp,8
+sku,tms,8
 sku,tny,8
 sku,tou,8
 sku,tow,8
@@ -309293,6 +309623,7 @@ sle,tik,6
 sle,tiv,6
 sle,tki,6
 sle,tks,6
+sle,tms,6
 sle,tnn,6
 sle,tok,6
 sle,toz,6
@@ -310787,6 +311118,7 @@ sme,tiv,3
 sme,tki,3
 sme,tks,3
 sme,tmp,3
+sme,tms,3
 sme,tnn,3
 sme,tny,3
 sme,tok,3
@@ -311442,6 +311774,7 @@ snd,tik,5
 snd,tiv,5
 snd,tki,5
 snd,tks,5
+snd,tms,5
 snd,tnn,5
 snd,tok,5
 snd,toz,5
@@ -312356,6 +312689,7 @@ snn,tiv,7
 snn,tki,7
 snn,tks,7
 snn,tmp,7
+snn,tms,7
 snn,tne,7
 snn,tnn,7
 snn,tny,7
@@ -316128,6 +316462,7 @@ ssa,tik,7
 ssa,tiv,7
 ssa,tki,7
 ssa,tks,7
+ssa,tms,7
 ssa,tnn,7
 ssa,tok,7
 ssa,toz,7
@@ -316826,6 +317161,7 @@ stn,ssa,8
 stn,sup,8
 stn,tem,8
 stn,tmp,8
+stn,tms,8
 stn,tny,8
 stn,tou,8
 stn,tow,8
@@ -317204,6 +317540,7 @@ sub,ssa,8
 sub,sup,8
 sub,tem,8
 sub,tmp,8
+sub,tms,8
 sub,tny,8
 sub,tou,8
 sub,tow,8
@@ -318617,6 +318954,7 @@ sup,tik,5
 sup,tiv,5
 sup,tki,5
 sup,tks,5
+sup,tms,5
 sup,tnn,5
 sup,tok,5
 sup,toz,5
@@ -319356,6 +319694,7 @@ sus,tiv,6
 sus,tki,6
 sus,tks,6
 sus,tmp,6
+sus,tms,6
 sus,tne,6
 sus,tnn,6
 sus,tny,6
@@ -320066,6 +320405,7 @@ swa,ssa,8
 swa,sup,8
 swa,tem,8
 swa,tmp,8
+swa,tms,8
 swa,tny,8
 swa,tou,8
 swa,tow,8
@@ -320962,6 +321302,7 @@ swt,ssa,8
 swt,sup,8
 swt,tem,8
 swt,tmp,8
+swt,tms,8
 swt,tny,8
 swt,tou,8
 swt,tow,8
@@ -323564,6 +323905,7 @@ tal,ssa,8
 tal,sup,8
 tal,tem,8
 tal,tmp,8
+tal,tms,8
 tal,tny,8
 tal,tou,8
 tal,tow,8
@@ -326784,6 +327126,7 @@ tbw,ssa,8
 tbw,sup,8
 tbw,tem,8
 tbw,tmp,8
+tbw,tms,8
 tbw,tny,8
 tbw,tou,8
 tbw,tow,8
@@ -327676,6 +328019,7 @@ tem,tik,7
 tem,tiv,7
 tem,tki,7
 tem,tks,7
+tem,tms,7
 tem,tnn,7
 tem,tok,7
 tem,toz,7
@@ -328697,6 +329041,7 @@ tet,ssa,8
 tet,sup,8
 tet,tem,8
 tet,tmp,8
+tet,tms,8
 tet,tny,8
 tet,tou,8
 tet,tow,8
@@ -330658,6 +331003,7 @@ tgo,ssa,8
 tgo,sup,8
 tgo,tem,8
 tgo,tmp,8
+tgo,tms,8
 tgo,tny,8
 tgo,tou,8
 tgo,tow,8
@@ -332954,6 +333300,7 @@ tia,tiv,3
 tia,tki,3
 tia,tks,3
 tia,tmp,3
+tia,tms,3
 tia,tne,3
 tia,tnn,3
 tia,tny,3
@@ -333764,6 +334111,7 @@ tik,ssa,5
 tik,sup,5
 tik,tem,5
 tik,tmp,5
+tik,tms,5
 tik,tny,5
 tik,tou,5
 tik,tow,5
@@ -334921,6 +335269,7 @@ tiv,ssa,5
 tiv,sup,5
 tiv,tem,5
 tiv,tmp,5
+tiv,tms,5
 tiv,tny,5
 tiv,tou,5
 tiv,tow,5
@@ -335774,6 +336123,7 @@ tki,ssa,8
 tki,sup,8
 tki,tem,8
 tki,tmp,8
+tki,tms,8
 tki,tny,8
 tki,tou,8
 tki,tow,8
@@ -336181,6 +336531,7 @@ tks,ssa,8
 tks,sup,8
 tks,tem,8
 tks,tmp,8
+tks,tms,8
 tks,tny,8
 tks,tou,8
 tks,tow,8
@@ -338544,6 +338895,7 @@ tmp,tik,7
 tmp,tiv,7
 tmp,tki,7
 tmp,tks,7
+tmp,tms,7
 tmp,tnn,7
 tmp,tok,7
 tmp,toz,7
@@ -338680,6 +339032,375 @@ tmr,mun,4
 tmr,rem,4
 tmr,sor,4
 tmr,stl,4
+tms,dds,1
+tms,dts,1
+tms,jms,1
+tms,abd,2
+tms,adi,2
+tms,agb,2
+tms,agh,2
+tms,aiz,2
+tms,ajg,2
+tms,aka,2
+tms,akn,2
+tms,ald,2
+tms,amo,2
+tms,anu,2
+tms,avk,2
+tms,avt,2
+tms,awk,2
+tms,ayi,2
+tms,bab,2
+tms,baf,2
+tms,bak,2
+tms,bas,2
+tms,bbl,2
+tms,bbu,2
+tms,bdu,2
+tms,bee,2
+tms,bem,2
+tms,bet,2
+tms,bfi,2
+tms,bga,2
+tms,bia,2
+tms,bir,2
+tms,bkn,2
+tms,bku,2
+tms,ble,2
+tms,blu,2
+tms,bmb,2
+tms,bmn,2
+tms,bni,2
+tms,bnk,2
+tms,bob,2
+tms,bol,2
+tms,brb,2
+tms,bsh,2
+tms,bub,2
+tms,buj,2
+tms,buk,2
+tms,buw,2
+tms,buy,2
+tms,cga,2
+tms,cic,2
+tms,cil,2
+tms,com,2
+tms,cum,2
+tms,day,2
+tms,dbd,2
+tms,ddj,2
+tms,deg,2
+tms,dga,2
+tms,dgb,2
+tms,dgo,2
+tms,dma,2
+tms,dng,2
+tms,dok,2
+tms,doy,2
+tms,dua,2
+tms,duk,2
+tms,dym,2
+tms,ebi,2
+tms,efi,2
+tms,ega,2
+tms,egn,2
+tms,eja,2
+tms,eko,2
+tms,eny,2
+tms,ets,2
+tms,ewa,2
+tms,ewe,2
+tms,ewo,2
+tms,fef,2
+tms,fio,2
+tms,fon,2
+tms,fye,2
+tms,ga,2
+tms,gad,2
+tms,gbb,2
+tms,gbk,2
+tms,gdi,2
+tms,gho,2
+tms,gir,2
+tms,gok,2
+tms,grb,2
+tms,grm,2
+tms,grn,2
+tms,gue,2
+tms,gun,2
+tms,gus,2
+tms,gut,2
+tms,guw,2
+tms,gwa,2
+tms,gwo,2
+tms,heh,2
+tms,hem,2
+tms,her,2
+tms,hnd,2
+tms,hol,2
+tms,hya,2
+tms,ibi,2
+tms,ido,2
+tms,ifm,2
+tms,igb,2
+tms,ige,2
+tms,ila,2
+tms,ise,2
+tms,iso,2
+tms,izi,2
+tms,jar,2
+tms,juk,2
+tms,kan,2
+tms,kba,2
+tms,kby,2
+tms,kfe,2
+tms,kga,2
+tms,kgm,2
+tms,kgr,2
+tms,kik,2
+tms,kil,2
+tms,kin,2
+tms,kir,2
+tms,kkb,2
+tms,kla,2
+tms,klk,2
+tms,klz,2
+tms,kmi,2
+tms,kni,2
+tms,koh,2
+tms,kon,2
+tms,kou,2
+tms,kow,2
+tms,kpa,2
+tms,kpo,2
+tms,krg,2
+tms,ksm,2
+tms,ksp,2
+tms,kte,2
+tms,kwn,2
+tms,kwy,2
+tms,kyg,2
+tms,kyo,2
+tms,lbu,2
+tms,lda,2
+tms,ldo,2
+tms,leb,2
+tms,leg,2
+tms,lgi,2
+tms,lin,2
+tms,llm,2
+tms,lmb,2
+tms,lnd,2
+tms,lns,2
+tms,lob,2
+tms,loz,2
+tms,lua,2
+tms,luc,2
+tms,luv,2
+tms,luy,2
+tms,lye,2
+tms,ma,2
+tms,mba,2
+tms,mbe,2
+tms,mbi,2
+tms,mbl,2
+tms,mbm,2
+tms,mbz,2
+tms,mdg,2
+tms,mdo,2
+tms,mdu,2
+tms,mdw,2
+tms,mdz,2
+tms,mga,2
+tms,mgk,2
+tms,mgo,2
+tms,mhu,2
+tms,mit,2
+tms,mkd,2
+tms,mkq,2
+tms,mkz,2
+tms,mla,2
+tms,mmi,2
+tms,mmp,2
+tms,mmw,2
+tms,mnz,2
+tms,moo,2
+tms,mpo,2
+tms,mtb,2
+tms,mua,2
+tms,mud,2
+tms,mum,2
+tms,mwe,2
+tms,myg,2
+tms,naf,2
+tms,nbe,2
+tms,nbm,2
+tms,nbo,2
+tms,ncm,2
+tms,ndb,2
+tms,nde,2
+tms,ndg,2
+tms,ndi,2
+tms,ndo,2
+tms,ndu,2
+tms,ney,2
+tms,ngb,2
+tms,nge,2
+tms,ngo,2
+tms,nke,2
+tms,nkn,2
+tms,nko,2
+tms,nng,2
+tms,nnn,2
+tms,non,2
+tms,nrg,2
+tms,nse,2
+tms,ntn,2
+tms,nto,2
+tms,nup,2
+tms,nyh,2
+tms,nym,2
+tms,nza,2
+tms,obg,2
+tms,obo,2
+tms,ogb,2
+tms,oku,2
+tms,ora,2
+tms,png,2
+tms,pog,2
+tms,pre,2
+tms,rga,2
+tms,rim,2
+tms,rnd,2
+tms,rny,2
+tms,rru,2
+tms,sen,2
+tms,ses,2
+tms,sge,2
+tms,sgl,2
+tms,sgu,2
+tms,shm,2
+tms,shn,2
+tms,skm,2
+tms,sku,2
+tms,sle,2
+tms,sme,2
+tms,snd,2
+tms,ssa,2
+tms,stn,2
+tms,sub,2
+tms,sup,2
+tms,swa,2
+tms,swt,2
+tms,tal,2
+tms,tbw,2
+tms,tem,2
+tms,tet,2
+tms,tgo,2
+tms,tik,2
+tms,tiv,2
+tms,tki,2
+tms,tks,2
+tms,tmp,2
+tms,tnn,2
+tms,tny,2
+tms,tok,2
+tms,tou,2
+tms,tow,2
+tms,toz,2
+tms,tpr,2
+tms,tsn,2
+tms,tsw,2
+tms,umb,2
+tms,urh,2
+tms,vag,2
+tms,vat,2
+tms,ven,2
+tms,vif,2
+tms,wmn,2
+tms,wob,2
+tms,wwa,2
+tms,xho,2
+tms,xsm,2
+tms,yak,2
+tms,yao,2
+tms,yba,2
+tms,yem,2
+tms,yey,2
+tms,ygd,2
+tms,ykm,2
+tms,yns,2
+tms,yor,2
+tms,zan,2
+tms,zno,2
+tms,zso,2
+tms,zul,2
+tms,bfd,3
+tms,bgs,3
+tms,blz,3
+tms,bsr,3
+tms,csk,3
+tms,def,3
+tms,dio,3
+tms,fbf,3
+tms,fgo,3
+tms,fgu,3
+tms,fli,3
+tms,fma,3
+tms,fni,3
+tms,fua,3
+tms,fum,3
+tms,fus,3
+tms,gol,3
+tms,ijo,3
+tms,kgi,3
+tms,kis,3
+tms,kss,3
+tms,mjk,3
+tms,mkn,3
+tms,ndt,3
+tms,noo,3
+tms,plr,3
+tms,tne,3
+tms,wlf,3
+tms,bam,4
+tms,bbf,4
+tms,bis,4
+tms,bnd,4
+tms,bnq,4
+tms,bok,4
+tms,boz,4
+tms,bus,4
+tms,dan,4
+tms,dbw,4
+tms,dyu,4
+tms,gro,4
+tms,jel,4
+tms,jom,4
+tms,kko,4
+tms,kpe,4
+tms,ktl,4
+tms,laf,4
+tms,lma,4
+tms,lok,4
+tms,man,4
+tms,maw,4
+tms,mde,4
+tms,mdk,4
+tms,mka,4
+tms,mkg,4
+tms,mnk,4
+tms,mro,4
+tms,msk,4
+tms,ori,4
+tms,otr,4
+tms,ras,4
+tms,snn,4
+tms,sus,4
+tms,tia,4
+tms,vai,4
+tms,wna,4
+tms,xas,4
 tmu,dri,2
 tmu,lur,2
 tmu,prs,2
@@ -339308,6 +340029,7 @@ tne,tiv,6
 tne,tki,6
 tne,tks,6
 tne,tmp,6
+tne,tms,6
 tne,tnn,6
 tne,tny,6
 tne,tok,6
@@ -340490,6 +341212,7 @@ tnn,ssa,8
 tnn,sup,8
 tnn,tem,8
 tnn,tmp,8
+tnn,tms,8
 tnn,tny,8
 tnn,tou,8
 tnn,tow,8
@@ -341799,6 +342522,7 @@ tny,tik,5
 tny,tiv,5
 tny,tki,5
 tny,tks,5
+tny,tms,5
 tny,tnn,5
 tny,tok,5
 tny,toz,5
@@ -342513,6 +343237,7 @@ tok,ssa,4
 tok,sup,4
 tok,tem,4
 tok,tmp,4
+tok,tms,4
 tok,tny,4
 tok,tou,4
 tok,tow,4
@@ -343585,6 +344310,7 @@ tou,tik,4
 tou,tiv,4
 tou,tki,4
 tou,tks,4
+tou,tms,4
 tou,tnn,4
 tou,tok,4
 tou,toz,4
@@ -343952,6 +344678,7 @@ tow,tik,4
 tow,tiv,4
 tow,tki,4
 tow,tks,4
+tow,tms,4
 tow,tnn,4
 tow,tok,4
 tow,toz,4
@@ -344330,6 +345057,7 @@ toz,ssa,8
 toz,sup,8
 toz,tem,8
 toz,tmp,8
+toz,tms,8
 toz,tny,8
 toz,tou,8
 toz,tow,8
@@ -344805,6 +345533,7 @@ tpr,tik,8
 tpr,tiv,8
 tpr,tki,8
 tpr,tks,8
+tpr,tms,8
 tpr,tnn,8
 tpr,tok,8
 tpr,toz,8
@@ -347381,6 +348110,7 @@ tsn,ssa,8
 tsn,sup,8
 tsn,tem,8
 tsn,tmp,8
+tsn,tms,8
 tsn,tny,8
 tsn,tou,8
 tsn,tow,8
@@ -348474,6 +349204,7 @@ tsw,ssa,8
 tsw,sup,8
 tsw,tem,8
 tsw,tmp,8
+tsw,tms,8
 tsw,tny,8
 tsw,tou,8
 tsw,tow,8
@@ -353345,6 +354076,7 @@ umb,ssa,8
 umb,sup,8
 umb,tem,8
 umb,tmp,8
+umb,tms,8
 umb,tny,8
 umb,tou,8
 umb,tow,8
@@ -354689,6 +355421,7 @@ urh,ssa,4
 urh,sup,4
 urh,tem,4
 urh,tmp,4
+urh,tms,4
 urh,tny,4
 urh,tou,4
 urh,tow,4
@@ -354768,6 +355501,7 @@ urh,tia,6
 urh,vai,6
 urh,wna,6
 urh,xas,6
+uri,aab,2
 uri,aoj,2
 uri,arp,2
 uri,au,2
@@ -355194,6 +355928,7 @@ urt,nin,2
 urt,olo,2
 urt,wal,2
 urt,yil,2
+urt,aab,3
 urt,aoj,3
 urt,arp,3
 urt,kmz,3
@@ -356088,6 +356823,7 @@ vag,tik,7
 vag,tiv,7
 vag,tki,7
 vag,tks,7
+vag,tms,7
 vag,tnn,7
 vag,tok,7
 vag,toz,7
@@ -356510,6 +357246,7 @@ vai,tiv,8
 vai,tki,8
 vai,tks,8
 vai,tmp,8
+vai,tms,8
 vai,tne,8
 vai,tnn,8
 vai,tny,8
@@ -356989,6 +357726,7 @@ vat,tiv,4
 vat,tki,4
 vat,tks,4
 vat,tmp,4
+vat,tms,4
 vat,tnn,4
 vat,tny,4
 vat,tok,4
@@ -357548,6 +358286,7 @@ ven,ssa,8
 ven,sup,8
 ven,tem,8
 ven,tmp,8
+ven,tms,8
 ven,tny,8
 ven,tou,8
 ven,tow,8
@@ -357986,6 +358725,7 @@ vif,ssa,8
 vif,sup,8
 vif,tem,8
 vif,tmp,8
+vif,tms,8
 vif,tny,8
 vif,tou,8
 vif,tow,8
@@ -359078,6 +359818,7 @@ wal,nin,1
 wal,olo,1
 wal,yil,1
 wal,urt,2
+wal,aab,3
 wal,aoj,3
 wal,arp,3
 wal,kmz,3
@@ -362253,6 +362994,7 @@ wlf,tiv,6
 wlf,tki,6
 wlf,tks,6
 wlf,tmp,6
+wlf,tms,6
 wlf,tnn,6
 wlf,tny,6
 wlf,tok,6
@@ -363846,6 +364588,7 @@ wmn,tiv,5
 wmn,tki,5
 wmn,tks,5
 wmn,tmp,5
+wmn,tms,5
 wmn,tnn,5
 wmn,tny,5
 wmn,tok,5
@@ -364597,6 +365340,7 @@ wna,tiv,6
 wna,tki,6
 wna,tks,6
 wna,tmp,6
+wna,tms,6
 wna,tne,6
 wna,tnn,6
 wna,tny,6
@@ -365035,6 +365779,7 @@ wob,tiv,5
 wob,tki,5
 wob,tks,5
 wob,tmp,5
+wob,tms,5
 wob,tnn,5
 wob,tny,5
 wob,tok,5
@@ -367894,6 +368639,7 @@ wwa,tik,7
 wwa,tiv,7
 wwa,tki,7
 wwa,tks,7
+wwa,tms,7
 wwa,tnn,7
 wwa,tok,7
 wwa,toz,7
@@ -368974,6 +369720,7 @@ xas,tiv,10
 xas,tki,10
 xas,tks,10
 xas,tmp,10
+xas,tms,10
 xas,tne,10
 xas,tnn,10
 xas,tny,10
@@ -369018,6 +369765,7 @@ xav,krh,2
 xav,kyp,2
 xav,pnx,2
 xav,xok,2
+xbi,aab,2
 xbi,aoj,2
 xbi,arp,2
 xbi,au,3
@@ -369328,6 +370076,7 @@ xho,ssa,8
 xho,sup,8
 xho,tem,8
 xho,tmp,8
+xho,tms,8
 xho,tny,8
 xho,tou,8
 xho,tow,8
@@ -369984,6 +370733,7 @@ xsm,tik,7
 xsm,tiv,7
 xsm,tki,7
 xsm,tks,7
+xsm,tms,7
 xsm,tnn,7
 xsm,tok,7
 xsm,toz,7
@@ -370434,6 +371184,7 @@ yak,ssa,8
 yak,sup,8
 yak,tem,8
 yak,tmp,8
+yak,tms,8
 yak,tny,8
 yak,tou,8
 yak,tow,8
@@ -370933,6 +371684,7 @@ yao,ssa,8
 yao,sup,8
 yao,tem,8
 yao,tmp,8
+yao,tms,8
 yao,tny,8
 yao,tou,8
 yao,tow,8
@@ -371986,6 +372738,7 @@ yba,ssa,8
 yba,sup,8
 yba,tem,8
 yba,tmp,8
+yba,tms,8
 yba,tny,8
 yba,tou,8
 yba,tow,8
@@ -373082,6 +373835,7 @@ yem,ssa,8
 yem,sup,8
 yem,tem,8
 yem,tmp,8
+yem,tms,8
 yem,tny,8
 yem,tou,8
 yem,tow,8
@@ -373465,6 +374219,7 @@ yey,ssa,8
 yey,sup,8
 yey,tem,8
 yey,tmp,8
+yey,tms,8
 yey,tny,8
 yey,tou,8
 yey,tow,8
@@ -373823,6 +374578,7 @@ ygd,tik,7
 ygd,tiv,7
 ygd,tki,7
 ygd,tks,7
+ygd,tms,7
 ygd,tnn,7
 ygd,tok,7
 ygd,toz,7
@@ -374517,6 +375273,7 @@ yil,nin,1
 yil,olo,1
 yil,wal,1
 yil,urt,2
+yil,aab,3
 yil,aoj,3
 yil,arp,3
 yil,kmz,3
@@ -375131,6 +375888,7 @@ ykm,tik,5
 ykm,tiv,5
 ykm,tki,5
 ykm,tks,5
+ykm,tms,5
 ykm,tnn,5
 ykm,tok,5
 ykm,toz,5
@@ -377613,6 +378371,7 @@ yns,ssa,8
 yns,sup,8
 yns,tem,8
 yns,tmp,8
+yns,tms,8
 yns,tny,8
 yns,tou,8
 yns,tow,8
@@ -378141,6 +378900,7 @@ yor,ssa,5
 yor,sup,5
 yor,tem,5
 yor,tmp,5
+yor,tms,5
 yor,tny,5
 yor,tou,5
 yor,tow,5
@@ -379772,6 +380532,7 @@ zan,tik,6
 zan,tiv,6
 zan,tki,6
 zan,tks,6
+zan,tms,6
 zan,tnn,6
 zan,tok,6
 zan,toz,6
@@ -381111,6 +381872,7 @@ zno,ssa,8
 zno,sup,8
 zno,tem,8
 zno,tmp,8
+zno,tms,8
 zno,tny,8
 zno,tou,8
 zno,tow,8
@@ -381572,6 +382334,7 @@ zso,ssa,8
 zso,sup,8
 zso,tem,8
 zso,tmp,8
+zso,tms,8
 zso,tny,8
 zso,tou,8
 zso,tow,8
@@ -382048,6 +382811,7 @@ zul,ssa,8
 zul,sup,8
 zul,tem,8
 zul,tmp,8
+zul,tms,8
 zul,tny,8
 zul,tou,8
 zul,tow,8

@@ -6,7 +6,7 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,14,AHUDA,mis,S,Uncoded languages,NG
 4,Q3OTHER,14,AKA,mis,S,Uncoded languages,NG
 4,Q3OTHER,18,Akumu,mis,S,Uncoded languages,UG
-4,Q3OTHER,14,AKWANDARA,mis,S,Uncoded languages,NG
+4,Q3OTHER,14,AKWANDARA,gwn,I,Gwandara,NG
 4,Q3OTHER,14,ANDONI,ann,I,Obolo,NG
 4,Q3OTHER,14,ANGAS,anc,I,Ngas,NG
 4,Q3OTHER,14,ANKWAI,ank,I,Goemai,NG
@@ -121,7 +121,7 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,14,JUKUN DONGA,jbu,I,Jukun Takum,NG
 4,Q3OTHER,3,KADO,mis,S,Uncoded languages,BF
 4,Q3OTHER,14,KAGORO,kcg,I,Tyap,NG
-4,Q3OTHER,14,KAGORU,mis,S,Uncoded languages,NG
+4,Q3OTHER,14,KAGORU,kcg,I,Tyap,NG
 4,Q3OTHER,17,KAKAGURU,mis,S,Uncoded languages,TZ
 4,Q3OTHER,11,Kakolo,xkg,I,Kagoro,ML
 4,Q3OTHER,18,Kakwa,keo,I,Kakwa,UG
@@ -1586,7 +1586,7 @@ round,question,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,31,KIKINGA,zga,I,Kinga,TZ
 6,Q2OTHER,31,KIKONONGO,kcz,I,Konongo,TZ
 6,Q2OTHER,31,KIKWAYA,kya,I,Kwaya,TZ
-6,Q2OTHER,24,KILBA BABAR,mis,S,Uncoded languages,NG
+6,Q2OTHER,24,KILBA BABAR,bwr,I,Bura-Pabir,NG
 6,Q2OTHER,31,KILONGO,mis,S,Uncoded languages,TZ
 6,Q2OTHER,31,KIMAKUNDUCHI,mis,S,Uncoded languages,TZ
 6,Q2OTHER,31,KIMAKUWA,mis,S,Uncoded languages,TZ

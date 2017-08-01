@@ -3242,11 +3242,12 @@
   lang_name: akumazi
 - country: NG
   iso_639_3:
-  - mis
+  - gwn
   lang_name: akwandara
+  note: >-
+    Gwandara
 - country: NG
   iso_639_3:
-  - ala
   - ala
   lang_name: alago
 - country: NG
@@ -3751,6 +3752,8 @@
   iso_639_3:
   - mis
   lang_name: kagara
+  note: >-
+    Kagara is a location.
 - country: NG
   iso_639_3:
   - kdm
@@ -3761,8 +3764,10 @@
   lang_name: kagoro
 - country: NG
   iso_639_3:
-  - mis
+  - kcg
   lang_name: kagoru
+  note: >-
+    Kagoro
 - country: NG
   iso_639_3:
   - mis
@@ -3817,8 +3822,10 @@
   lang_name: khana
 - country: NG
   iso_639_3:
-  - mis
+  - bwr
   lang_name: kilba babar
+  note: >-
+    Bura-Pabir has alt-name Babur
 - country: NG
   iso_639_3:
   - juo
@@ -3906,10 +3913,15 @@
   iso_639_3:
   - mis
   lang_name: mbube
+  note: >-
+    Two langs named Mbube, Mbe (bfo) and Utugwang-Irungene-Afrike (afe),
+    but one is Bantoid and the other is Cross-River
 - country: NG
   iso_639_3:
   - mis
   lang_name: michica
+  note: >-
+    Michika is an LGA
 - country: NG
   iso_639_3:
   - mis

@@ -205,7 +205,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 4,Q3OTHER,14,AFIKPO,NG,igb,Igbo,1,0,1,1
 4,Q3OTHER,14,AHUDA,NG,,,,,,
 4,Q3OTHER,14,AKA,NG,,,,,,
-4,Q3OTHER,14,AKWANDARA,NG,,,,,,
+4,Q3OTHER,14,AKWANDARA,NG,hau,Hausa,1,1,1,1
 4,Q3OTHER,14,ANDONI,NG,obo,Obolo,1,0,1,1
 4,Q3OTHER,14,ANGAS,NG,anc,Angas,1,0,1,1
 4,Q3OTHER,14,ANKWAI,NG,goe,Goemai,1,0,1,1
@@ -270,7 +270,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 4,Q3OTHER,14,JUKUN,NG,juk,Jukun,1,0,1,1
 4,Q3OTHER,14,JUKUN DONGA,NG,juk,Jukun,1,0,1,1
 4,Q3OTHER,14,KAGORO,NG,gwo,Gworok,1,0,1,1
-4,Q3OTHER,14,KAGORU,NG,,,,,,
+4,Q3OTHER,14,KAGORU,NG,gwo,Gworok,1,0,1,1
 4,Q3OTHER,14,KALABARI,NG,ijo,Ijo (Kolokuma),1,4,1,1
 4,Q3OTHER,14,KAMBARI,NG,awk,Akwa,1,2,1,1
 4,Q3OTHER,14,KAMBARI,NG,duk,Duka,1,2,1,1
@@ -2933,7 +2933,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q2OTHER,24,KALABARI,NG,ijo,Ijo (Kolokuma),1,4,1,1
 6,Q2OTHER,24,KATAF,NG,gwo,Gworok,1,0,1,1
 6,Q2OTHER,24,KATONGU,NG,,,,,,
-6,Q2OTHER,24,KILBA BABAR,NG,,,,,,
+6,Q2OTHER,24,KILBA BABAR,NG,bpa,Bura-Pabir,1,0,1,1
 6,Q2OTHER,24,KONA,NG,juk,Jukun,1,2,0,1
 6,Q2OTHER,24,KUTEB,NG,kpa,Kpan,1,2,1,1
 6,Q2OTHER,24,LANTA,NG,,,,,,

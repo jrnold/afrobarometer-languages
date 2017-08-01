@@ -16,8 +16,7 @@ aag,olo,ong,2,1
 aag,urt,urt,2,1
 aag,wal,van,2,1
 aag,yil,yll,2,1
-aah,aoj,aoj,1,1
-aah,arp,ape,1,1
+aah,aab,aah,0,1
 aai,gap,pwg,1,1
 aak,ape,apz,1,1
 aak,bry,byr,1,1
@@ -969,6 +968,7 @@ aol,mng,mqy,1,1
 aol,ngd,nxg,1,1
 aol,sik,ski,1,1
 aom,omi,aom,0,1
+aon,aab,aah,1,1
 aon,aoj,aoj,1,1
 aon,arp,ape,1,1
 aor,ark,akr,1,1
@@ -1050,6 +1050,7 @@ aqc,arc,aqc,0,1
 aqd,dds,dds,1,1
 aqd,dts,dts,1,1
 aqd,jms,djm,1,1
+aqd,tms,dto,1,1
 aqg,ise,its,2,1
 aqg,yor,yor,2,1
 aqm,tmg,tcg,1,1
@@ -1332,6 +1333,7 @@ aui,mnv,mvn,2,1
 aui,taw,tbo,2,1
 aui,wed,wed,2,1
 auj,bsi,siz,2,0
+auk,aab,aah,3,1
 auk,aoj,aoj,3,1
 auk,arp,ape,3,1
 auk,au,avt,3,1
@@ -2121,6 +2123,7 @@ beu,woi,woi,2,1
 bev,bet,bev,0,1
 bew,meb,bew,0,1
 bex,jmo,bex,0,1
+bey,aab,aah,3,1
 bey,aoj,aoj,3,1
 bey,arp,ape,3,1
 bey,au,avt,3,1
@@ -4799,6 +4802,7 @@ dbf,iau,tmu,1,1
 dbg,dds,dds,1,1
 dbg,dts,dts,1,1
 dbg,jms,djm,1,1
+dbg,tms,dto,1,1
 dbi,bir,bom,2,1
 dbi,fye,pym,2,1
 dbi,gwo,kcg,2,1
@@ -4818,13 +4822,16 @@ dbr,som,som,1,1
 dbt,dds,dds,1,1
 dbt,dts,dts,1,1
 dbt,jms,djm,1,1
+dbt,tms,dto,1,1
 dbu,dds,dds,1,1
 dbu,dts,dts,1,1
 dbu,jms,djm,1,1
+dbu,tms,dto,1,1
 dbv,amo,amo,3,1
 dbw,dds,dds,1,1
 dbw,dts,dts,1,1
 dbw,jms,djm,1,1
+dbw,tms,dto,1,1
 dby,edo,etr,1,1
 dby,kll,bco,1,1
 dcc,kkn,knn,2,1
@@ -4959,6 +4966,7 @@ dga,dga,dga,0,1
 dgb,dds,dds,1,1
 dgb,dts,dts,1,1
 dgb,jms,djm,1,1
+dgb,tms,dto,1,1
 dgc,dca,dgc,0,1
 dgd,dga,dga,1,0
 dge,nnk,nnk,2,1
@@ -5375,6 +5383,7 @@ dma,dma,dma,0,1
 dmb,dds,dds,1,1
 dmb,dts,dts,1,1
 dmb,jms,djm,1,1
+dmb,tms,dto,1,1
 dmc,ame,aey,2,1
 dmc,bau,bbd,2,1
 dmc,grs,gyb,2,1
@@ -5757,25 +5766,28 @@ dth,uhi,urf,1,1
 dti,dds,dds,1,1
 dti,dts,dts,1,1
 dti,jms,djm,1,1
+dti,tms,dto,1,1
 dtk,dds,dds,1,1
 dtk,dts,dts,1,1
 dtk,jms,djm,1,1
+dtk,tms,dto,1,1
 dtm,dds,dds,1,1
 dtm,dts,dts,1,1
 dtm,jms,djm,1,1
+dtm,tms,dto,1,1
 dtn,gmz,guk,1,1
-dto,dds,dds,1,1
-dto,dts,dts,1,1
-dto,jms,djm,1,1
+dto,tms,dto,0,1
 dtp,tat,txx,3,1
 dtr,tat,txx,2,1
 dts,dts,dts,0,1
 dtt,dds,dds,1,1
 dtt,dts,dts,1,1
 dtt,jms,djm,1,1
+dtt,tms,dto,1,1
 dtu,dds,dds,1,1
 dtu,dts,dts,1,1
 dtu,jms,djm,1,1
+dtu,tms,dto,1,1
 dty,nep,dty,0,1
 dua,dua,dua,0,1
 dub,bhi,bhb,1,1
@@ -5927,6 +5939,7 @@ dyi,dym,dyi,0,1
 dym,dds,dds,1,1
 dym,dts,dts,1,1
 dym,jms,djm,1,1
+dym,tms,dto,1,1
 dyn,abn,ard,2,1
 dyn,adn,adt,2,1
 dyn,agt,lnj,2,1
@@ -12281,6 +12294,7 @@ lkh,skk,sip,1,0
 lki,kji,kmr,1,0
 lki,krd,kmr,1,0
 lkj,iba,iba,1,1
+lkl,aab,aah,3,1
 lkl,aoj,aoj,3,1
 lkl,arp,ape,3,1
 lkl,au,avt,3,1
@@ -14023,6 +14037,7 @@ mka,wna,wan,2,1
 mka,wob,wob,2,1
 mkb,ass,asm,1,1
 mkb,hlb,hlb,1,1
+mkc,aab,aah,3,1
 mkc,aoj,aoj,3,1
 mkc,arp,ape,3,1
 mkc,au,avt,3,1
@@ -17397,6 +17412,7 @@ nzy,klk,xuo,2,1
 nzz,dds,dds,1,1
 nzz,dts,dts,1,1
 nzz,jms,djm,1,1
+nzz,tms,dto,1,1
 oaa,ork,oaa,0,1
 oac,orc,oac,0,1
 obk,btk,obk,0,1
@@ -19300,6 +19316,7 @@ rhg,ass,asm,1,0
 rhg,bec,ctg,1,0
 rhg,ben,ben,1,0
 rhg,hlb,hlb,1,0
+rhp,aab,aah,3,1
 rhp,aoj,aoj,3,1
 rhp,arp,ape,3,1
 rhp,au,avt,3,1
@@ -21534,6 +21551,7 @@ tdd,lu,khb,1,1
 tde,dds,dds,1,1
 tde,dts,dts,1,1
 tde,jms,djm,1,1
+tde,tms,dto,1,1
 tdf,hln,hal,1,0
 tdf,hre,hre,1,0
 tdf,jeh,jeh,1,0
@@ -24814,6 +24832,7 @@ wih,knc,uwa,1,1
 wih,pak,pkn,1,1
 wih,wmu,wim,1,1
 wih,wn,wig,1,1
+wii,aab,aah,3,1
 wii,aoj,aoj,3,1
 wii,arp,ape,3,1
 wii,au,avt,3,1

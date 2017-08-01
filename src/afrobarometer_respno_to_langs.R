@@ -12,9 +12,12 @@ afrobarometer_to_wals <- IO$afrobarometer_to_wals
 
 afrobarometer_other_to_wals <- IO$afrobarometer_other_to_wals
 
-afrobarometer_to_iso <- IO$afrobarometer_to_iso
+afrobarometer_to_iso <- IO$afrobarometer_to_iso %>%
+  filter(iso_scope != "M")
 
-afrobarometer_other_to_iso <- IO$afrobarometer_other_to_iso
+afrobarometer_other_to_iso <- IO$afrobarometer_other_to_iso %>%
+  # don't include the macrolanguages here
+  filter(iso_scope != "M")
 
 # Afrobarometer respondent ID variables
 respondent_variables <- IO$afrobarometer_respno_variables
