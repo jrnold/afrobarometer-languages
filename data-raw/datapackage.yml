@@ -452,4 +452,63 @@ resources:
         label: Variable name
         type: string
 
+  - path: "afrobarometer_respno_to_langs.csv"
+    name: "afrobarometer_respno_to_langs.csv"
+    title: "Afrobarometer Observations to Language Codes"
+    <<: *csv
+    description: >-
+      Mappings from Afrobarometer observations to
+      ISO 639-3 and WALS language codes.
+    schema:
+      primaryKey:
+      - round
+      - respno
+      - variable
+      fields:
+      - *round
+      - name: respno
+        title: Afrobarometer ID
+        description: >-
+          Observation ID in the Afrobarometer dataset.
+          The variable that this is associated with varies with rounds.
+        constraints:
+          required: true
+          pattern: "^([0-9]+|([A-Z]|[a-z]){3}[0-9]{3,4}[`.N]?)$"
+      - name: variable
+        title: Language variable
+        constraints:
+          required: true
+          enum:
+            - interview
+            - interviewer
+            - respondent
+      - name: iso_639_3
+        title: ISO 639-3 codes
+        type: string
+        constraints:
+          required: true
+          pattern: "^[a-z]{3}(,[a-z]{3})*$"
+      - name: wals_code
+        title: WALS codes
+        type: string
+        constraints:
+          required: false
+          pattern: "^[a-z]{2,3}(,[a-z]{2,3})*$"
 
+  - path: "afrobarometer_respno_variables.csv"
+    name: afrobarometer_respno_variables
+    title: "Afrobarometer Respondent ID variables"
+    <<: *csv
+    description: >-
+      Names of the respondent ID variable in each
+      Afrobarometer round dataset.
+    schema:
+      primaryKey:
+        - round
+      fields:
+        - *round
+        - name: name
+          title: Variable name
+          type: string
+          constraints:
+            required: false

@@ -101,8 +101,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 1,language,41,Akan,2,GH,akn,Akan,1,0,1,1
 1,language,42,Dangaare,2,GH,dga,Dagaare,1,0,1,1
 1,language,43,Dagbane,2,GH,dgb,Dagbani,1,0,1,1
-1,language,44,Ewe,2,GH,ewa,Ewe (Anglo),1,0,1,1
-1,language,44,Ewe,2,GH,ewe,Ewe,1,0,1,1
+1,language,44,Ewe,2,GH,ewe,Ewe,0,0,,
 1,language,45,Ga,2,GH,ga,Gã,1,0,1,1
 1,language,46,Hausa,2,GH,hau,Hausa,1,0,1,0
 1,language,47,Frafra,2,GH,grn,Gurenne,1,0,1,1
@@ -430,8 +429,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q110,109,Zulu,8,ZA,zul,Zulu,1,0,1,1
 2,q110,120,Akan,2,GH,akn,Akan,1,0,1,1
 2,q110,121,Dagbani,2,GH,dgb,Dagbani,1,0,1,1
-2,q110,122,Ewe,2,GH,ewa,Ewe (Anglo),1,0,1,1
-2,q110,122,Ewe,2,GH,ewe,Ewe,1,0,1,1
+2,q110,122,Ewe,2,GH,ewe,Ewe,0,0,,
 2,q110,123,Ga,2,GH,ga,Gã,1,0,1,1
 2,q110,124,Hausa,2,GH,hau,Hausa,1,0,1,0
 2,q110,140,Tumbuka,4,MW,cic,Chichewa,1,2,1,1
@@ -643,8 +641,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q83,109,Zulu,8,ZA,zul,Zulu,1,0,1,1
 2,q83,120,Akan,2,GH,akn,Akan,1,0,1,1
 2,q83,121,Dagbani,2,GH,dgb,Dagbani,1,0,1,1
-2,q83,122,Ewe,2,GH,ewa,Ewe (Anglo),1,0,1,1
-2,q83,122,Ewe,2,GH,ewe,Ewe,1,0,1,1
+2,q83,122,Ewe,2,GH,ewe,Ewe,0,0,,
 2,q83,123,Ga,2,GH,ga,Gã,1,0,1,1
 2,q83,124,Hausa,2,GH,hau,Hausa,1,0,1,0
 2,q83,140,Tumbuka,4,MW,cic,Chichewa,1,2,1,1
@@ -964,8 +961,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 2,q97,109,Zulu,8,ZA,zul,Zulu,1,0,1,1
 2,q97,120,Akan,2,GH,akn,Akan,1,0,1,1
 2,q97,121,Dagbani,2,GH,dgb,Dagbani,1,0,1,1
-2,q97,122,Ewe,2,GH,ewa,Ewe (Anglo),1,0,1,1
-2,q97,122,Ewe,2,GH,ewe,Ewe,1,0,1,1
+2,q97,122,Ewe,2,GH,ewe,Ewe,0,0,,
 2,q97,123,Ga,2,GH,ga,Gã,1,0,1,1
 2,q97,124,Hausa,2,GH,hau,Hausa,1,0,1,0
 2,q97,140,Tumbuka,4,MW,cic,Chichewa,1,2,1,1
@@ -1129,8 +1125,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q103,165,Creole,3,CV,gbc,Guinea Bissau Crioulo,0,0,,
 3,q103,165,Creole,3,CV,pri,Príncipense,0,0,,
 3,q103,180,AKAN,4,GH,akn,Akan,1,0,1,1
-3,q103,181,EWE,4,GH,ewa,Ewe (Anglo),1,0,1,1
-3,q103,181,EWE,4,GH,ewe,Ewe,1,0,1,1
+3,q103,181,EWE,4,GH,ewe,Ewe,0,0,,
 3,q103,182,GA,4,GH,ga,Gã,1,0,1,1
 3,q103,183,DAGBANI,4,GH,dgb,Dagbani,1,0,1,1
 3,q103,184,HUSA,4,GH,hau,Hausa,1,0,1,0
@@ -1309,8 +1304,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q114,165,Creole,3,CV,gbc,Guinea Bissau Crioulo,0,0,,
 3,q114,165,Creole,3,CV,pri,Príncipense,0,0,,
 3,q114,180,AKAN,4,GH,akn,Akan,1,0,1,1
-3,q114,181,EWE,4,GH,ewa,Ewe (Anglo),1,0,1,1
-3,q114,181,EWE,4,GH,ewe,Ewe,1,0,1,1
+3,q114,181,EWE,4,GH,ewe,Ewe,0,0,,
 3,q114,182,GA,4,GH,ga,Gã,1,0,1,1
 3,q114,183,DAGBANI,4,GH,dgb,Dagbani,1,0,1,1
 3,q114,185,OTHER,4,GH,,,,,,
@@ -1498,8 +1492,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 3,q3,165,Creole,3,CV,gbc,Guinea Bissau Crioulo,0,0,,
 3,q3,165,Creole,3,CV,pri,Príncipense,0,0,,
 3,q3,180,AKAN,4,GH,akn,Akan,1,0,1,1
-3,q3,181,EWE,4,GH,ewa,Ewe (Anglo),1,0,1,1
-3,q3,181,EWE,4,GH,ewe,Ewe,1,0,1,1
+3,q3,181,EWE,4,GH,ewe,Ewe,0,0,,
 3,q3,182,GA/DANGBE,4,GH,ga,Gã,1,0,1,1
 3,q3,183,Other Northern Languages,4,GH,,,,,,
 3,q3,184,DAGBANI,4,GH,dgb,Dagbani,1,0,1,1
@@ -1926,8 +1919,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q103,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 4,Q103,221,Portugues,4,CV,por,Portuguese,1,0,1,0
 4,Q103,260,Akan,5,GH,akn,Akan,1,0,1,1
-4,Q103,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
-4,Q103,261,Ewe,5,GH,ewe,Ewe,1,0,1,1
+4,Q103,261,Ewe,5,GH,ewe,Ewe,0,0,,
 4,Q103,262,Ga/Dangbe,5,GH,ga,Gã,1,0,1,1
 4,Q103,263,Dagbani,5,GH,dgb,Dagbani,1,0,1,1
 4,Q103,264,Hausa,5,GH,hau,Hausa,1,0,1,0
@@ -2044,8 +2036,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q114,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 4,Q114,221,Portugues,4,CV,por,Portuguese,1,0,1,0
 4,Q114,260,Akan,5,GH,akn,Akan,1,0,1,1
-4,Q114,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
-4,Q114,261,Ewe,5,GH,ewe,Ewe,1,0,1,1
+4,Q114,261,Ewe,5,GH,ewe,Ewe,0,0,,
 4,Q114,262,Ga/Dangbe,5,GH,ga,Gã,1,0,1,1
 4,Q114,263,Dagbani,5,GH,dgb,Dagbani,1,0,1,1
 4,Q114,265,Nzema,5,GH,anu,Anufo,1,2,1,1
@@ -2319,8 +2310,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 4,Q3,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 4,Q3,221,Portugues,4,CV,por,Portuguese,1,0,1,0
 4,Q3,260,Akan,5,GH,akn,Akan,1,0,1,1
-4,Q3,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
-4,Q3,261,Ewe,5,GH,ewe,Ewe,1,0,1,1
+4,Q3,261,Ewe,5,GH,ewe,Ewe,0,0,,
 4,Q3,262,Ga/Dangbe,5,GH,ga,Gã,1,0,1,1
 4,Q3,263,Dagbani,5,GH,dgb,Dagbani,1,0,1,1
 4,Q3,264,Hausa,5,GH,hau,Hausa,1,0,1,0
@@ -2858,8 +2848,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q103,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0,0,,
 5,Q103,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 5,Q103,260,Akan,5,GH,akn,Akan,1,0,1,1
-5,Q103,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
-5,Q103,261,Ewe,5,GH,ewe,Ewe,1,0,1,1
+5,Q103,261,Ewe,5,GH,ewe,Ewe,0,0,,
 5,Q103,262,Ga/Dangbe,5,GH,ga,Gã,1,0,1,1
 5,Q103,263,Dagbani,5,GH,dgb,Dagbani,1,0,1,1
 5,Q103,300,Kikuyu,6,KE,kik,Kikuyu,1,0,1,1
@@ -3028,8 +3017,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q116,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0,0,,
 5,Q116,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 5,Q116,260,Akan,5,GH,akn,Akan,1,0,1,1
-5,Q116,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
-5,Q116,261,Ewe,5,GH,ewe,Ewe,1,0,1,1
+5,Q116,261,Ewe,5,GH,ewe,Ewe,0,0,,
 5,Q116,262,Ga/Dangbe,5,GH,ga,Gã,1,0,1,1
 5,Q116,263,Dagbani,5,GH,dgb,Dagbani,1,0,1,1
 5,Q116,265,Dagare,5,GH,dga,Dagaare,1,0,1,1
@@ -3496,8 +3484,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto,dis
 5,Q2,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0,0,,
 5,Q2,220,Crioulo,4,CV,pri,Príncipense,0,0,,
 5,Q2,260,Akan,5,GH,akn,Akan,1,0,1,1
-5,Q2,261,Ewe,5,GH,ewa,Ewe (Anglo),1,0,1,1
-5,Q2,261,Ewe,5,GH,ewe,Ewe,1,0,1,1
+5,Q2,261,Ewe,5,GH,ewe,Ewe,0,0,,
 5,Q2,262,Ga/Dangbe,5,GH,ga,Gã,1,0,1,1
 5,Q2,263,Dagbani,5,GH,dgb,Dagbani,1,0,1,1
 5,Q2,265,Dagaree,5,GH,dga,Dagaare,1,0,1,1

@@ -2030,7 +2030,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q103OTHER,30,Zulu,SZ,zno,Zulu (Northern),1,0,1,0
 6,Q103OTHER,30,Zulu,SZ,zso,Zulu (Southern),1,0,1,0
 6,Q103OTHER,30,Zulu,SZ,zul,Zulu,1,0,1,0
-6,Q103OTHER,32,EWE,TG,ewe,Ewe,1,0,1,1
+6,Q103OTHER,32,EWE,TG,ewe,Ewe,0,0,,
 6,Q103OTHER,32,FRANCAIS,TG,fre,French,1,0,1,0
 6,Q103OTHER,32,KABYE,TG,kby,Kabiyé,1,0,1,1
 6,Q103OTHER,33,French,TN,fre,French,1,0,1,0
@@ -2596,8 +2596,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q2OTHER,11,Atweti,GH,,,,,,
 6,Q2OTHER,11,Avatime,GH,avt,Avatime,1,0,1,1
 6,Q2OTHER,11,Basari,GH,ncm,Ncàm,1,0,1,1
-6,Q2OTHER,11,Batoe,GH,ewa,Ewe (Anglo),1,0,1,1
-6,Q2OTHER,11,Batoe,GH,ewe,Ewe,1,0,1,1
+6,Q2OTHER,11,Batoe,GH,ewe,Ewe,0,0,,
 6,Q2OTHER,11,Bimoba,GH,bmb,Bimoba,1,0,1,1
 6,Q2OTHER,11,Bissa,GH,bis,Bisa,1,0,1,1
 6,Q2OTHER,11,Bono,GH,akn,Akan,1,1,1,1
@@ -2608,8 +2607,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q2OTHER,11,Dagaari,GH,dga,Dagaare,1,0,1,1
 6,Q2OTHER,11,Deg-(Moo),GH,,,,,,
 6,Q2OTHER,11,Dolimuu,GH,,,,,,
-6,Q2OTHER,11,Ewe and Fante,GH,ewa,Ewe (Anglo),1,0,1,1
-6,Q2OTHER,11,Ewe and Fante,GH,ewe,Ewe,1,0,1,1
+6,Q2OTHER,11,Ewe and Fante,GH,ewe,Ewe,0,0,,
 6,Q2OTHER,11,Frafra,GH,grn,Gurenne,1,0,1,1
 6,Q2OTHER,11,Gawu,GH,,,,,,
 6,Q2OTHER,11,Gekyode,GH,cum,Chumburung,1,1,1,1

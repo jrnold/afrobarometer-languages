@@ -532,7 +532,8 @@
   - Q103
   - Q114
   - Q3
-  wals_code: null
+  wals_code:
+  - ewe
 - iso_639_3:
   - ada
   - gaa

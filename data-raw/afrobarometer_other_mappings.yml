@@ -1535,6 +1535,8 @@
   lang_name: batoe
   note: >-
     Mapped to Ewe for that person
+  wals_code:
+  - ewe
 - country: GH
   iso_639_3:
   - mis
@@ -1669,6 +1671,8 @@
   iso_639_3:
   - ewe
   lang_name: ewe and fante
+  wals_code:
+  - ewe
 - country: GH
   iso_639_3:
   - fat
@@ -4454,6 +4458,8 @@
   iso_639_3:
   - ewe
   lang_name: ewe
+  wals_code:
+  - ewe
 - country: TG
   iso_639_3:
   - fon

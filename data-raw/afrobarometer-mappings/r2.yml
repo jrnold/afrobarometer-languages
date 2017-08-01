@@ -546,7 +546,8 @@
   - q110
   - q83
   - q97
-  wals_code: null
+  wals_code:
+  - ewe
 - iso_639_3:
   - gaa
   lang_id: 123

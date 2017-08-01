@@ -187,7 +187,8 @@ env_bind_fns(IO,
                         col_types =
                         cols_only(
                            wals_code = col_character(),
-                           iso_code = col_character()
+                           iso_code = col_character(),
+                           macroarea = col_character()
                          ))
     path <- project_path("external", "wals", "language.csv")
     wals <- read_csv(path,
@@ -198,9 +199,11 @@ env_bind_fns(IO,
                      ), na = "") %>%
       left_join(select(updates,
                        wals_code,
-                       iso_code_new = iso_code),
+                       iso_code_new = iso_code,
+                       macroarea_new = macroarea),
                 by = "wals_code") %>%
-      mutate(iso_code = coalesce(iso_code_new, iso_code)) %>%
+      mutate(iso_code = coalesce(iso_code_new, iso_code),
+             macroarea = coalesce(macroarea_new, macroarea)) %>%
       select(one_of(vars))
   },
 
@@ -317,6 +320,83 @@ env_bind_fns(IO,
       value = col_character(),
       iso_alpha2 = col_character(),
       wals_code = col_character()
+    )
+    read_csv(path, na = "", col_types = col_types)
+  },
+
+  afrobarometer_to_wals = function() {
+    path <- project_path("data", "afrobarometer_to_wals.csv")
+    col_types <- cols(
+      round = col_integer(),
+      question = col_character(),
+      lang_id = col_integer(),
+      lang_name = col_character(),
+      country = col_integer(),
+      iso_alpha2 = col_character(),
+      wals_code = col_character(),
+      wals_name = col_character(),
+      auto = col_integer(),
+      distance = col_integer(),
+      same_country = col_integer(),
+      in_wals_country = col_integer()
+    )
+    read_csv(path, na = "", col_types = col_types)
+  },
+
+  afrobarometer_other_to_wals = function() {
+    path <- project_path("data", "afrobarometer_other_to_wals.csv")
+    col_types <- cols(
+      round = col_integer(),
+      question = col_character(),
+      country = col_integer(),
+      value = col_character(),
+      iso_alpha2 = col_character(),
+      wals_code = col_character(),
+      wals_name = col_character(),
+      auto = col_integer(),
+      distance = col_integer(),
+      same_country = col_integer(),
+      in_wals_country = col_integer()
+    )
+    read_csv(path, na = "", col_types = col_types)
+  },
+
+  afrobarometer_to_iso = function() {
+    path <- project_path("data", "afrobarometer_to_iso_639_3.csv")
+    col_types <-cols(
+      round = col_integer(),
+      question = col_character(),
+      country = col_integer(),
+      value = col_character(),
+      iso_639_3 = col_character(),
+      iso_scope = col_character(),
+      iso_ref_name = col_character(),
+      iso_alpha2 = col_character()
+    )
+
+    read_csv(path, na = "", col_types = col_types)
+  },
+
+  afrobarometer_other_to_iso = function() {
+    path <- project_path("data", "afrobarometer_other_to_iso_639_3.csv")
+    col_types <- cols(
+      round = col_integer(),
+      question = col_character(),
+      country = col_integer(),
+      value = col_character(),
+      iso_639_3 = col_character(),
+      iso_scope = col_character(),
+      iso_ref_name = col_character(),
+      iso_alpha2 = col_character()
+    )
+    read_csv(path, na = "", col_types = col_types)
+  },
+
+  afrobarometer_respno_variables = function() {
+    path <- project_path("data", "afrobarometer_respno_variables.csv")
+    col_types <- cols(
+      round = col_integer(),
+      name = col_character()
     )
     read_csv(path, na = "", col_types = col_types)
   }
