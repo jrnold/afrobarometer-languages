@@ -121,10 +121,10 @@ respno_to_langs_round <- function(.round) {
   full_join(
     to_wals %>%
       group_by(respno, variable) %>%
-      summarise(wals_code = str_c(wals_code, collapse = ",")),
+      summarise(wals_code = str_c(wals_code, collapse = " ")),
     to_iso %>%
       group_by(respno, variable) %>%
-      summarise(iso_639_3 = str_c(iso_639_3, collapse = ",")),
+      summarise(iso_639_3 = str_c(iso_639_3, collapse = " ")),
     by = c("respno", "variable")
   ) %>%
     mutate(round = UQ(.round))
@@ -159,14 +159,15 @@ rlang::eval_tidy(quo({
 
   assert_that(all(!is.na(respno)))
   assert_that(is.character(respno))
+  # pattern that matches all the respno
   assert_that(all(str_detect(respno, "^([0-9]+|([A-Z]|[a-z]){3}[0-9]{3,4}[`.N]?)$")))
 
   assert_that(all(!is.na(iso_639_3)))
   assert_that(is.character(iso_639_3))
-  assert_that(all(str_detect(iso_639_3, "^[a-z]{3}(,[a-z]{3})*$")))
+  assert_that(all(str_detect(iso_639_3, "^[a-z]{3}( [a-z]{3})*$")))
 
   assert_that(is.character(wals_code))
-  assert_that(all(str_detect(na.omit(wals_code), "^[a-z]{2,3}(,[a-z]{2,3})*$")))
+  assert_that(all(str_detect(na.omit(wals_code), "^[a-z]{2,3}( [a-z]{2,3})*$")))
 
 }), data = afrobarometer_respno_to_langs)
 
