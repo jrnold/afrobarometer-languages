@@ -97,12 +97,14 @@ respno_to_langs_round <- function(.round) {
                variable = question, country, value, iso_639_3),
       lang_vars = lang_vars[["other"]]
     )
+
     if (!is.null(to_iso_other)) {
-      to_wals <- bind_rows(
+      to_iso <- bind_rows(
         to_iso,
-        anti_join(to_iso_other, to_wals, by = "respno")
+        anti_join(to_iso_other, to_iso, by = "respno")
       )
     }
+
     to_wals_other <- f(
       x = "wals_code",
       mapping =
@@ -110,6 +112,7 @@ respno_to_langs_round <- function(.round) {
                variable = question, country, value, wals_code),
       lang_vars = lang_vars[["other"]]
     )
+
     if (!is.null(to_wals_other)) {
       to_wals <- bind_rows(
         to_wals,
@@ -173,5 +176,5 @@ rlang::eval_tidy(quo({
 
 
 #' Write to output
-afrobarometer_respno_to_langs %>%
-  write_csv(path = OUTPUT, na = "")
+#afrobarometer_respno_to_langs %>%
+#   write_csv(path = OUTPUT, na = "")
