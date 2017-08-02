@@ -1,0 +1,100 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "http://example.com/example.json",
+    "items": {
+        "id": "/items",
+        "properties": {
+          "lang_id": {
+            "type": "integer",
+            "minimum": -1,
+            "maximum": 9999,
+            "exclusiveMinimum": false,
+            "exclusiveMaximum": false
+          },
+          "lang_name": {
+            "type": "string"
+          },
+          "question": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^(language|[Qq][0-9]+)$"
+            }
+          },
+          "iso_639_3": {
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^[a-z]{3}$"
+                },
+                "minItems": 1
+              },
+              {
+                "type": "object",
+                "patternProperties": {
+                  "^[a-z][a-z][a-z]$": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "pattern": "^[A-Z]{2}$"
+                    }
+                  }
+                },
+                "additionalProperties": false,
+                "minProperties": 1
+              }
+            ]
+          },
+          "wals_code": {
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^[a-z]{2,3}$"
+                }
+              },
+              {
+                "type": "object",
+                "patternProperties": {
+                  "^[a-z][a-z][a-z]?$": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "pattern": "^[A-Z]{2}$"
+                    }
+                  }
+                },
+                "additionalProperties": false
+              },
+              {"type": "null"}
+            ]
+          },
+          "note": {
+            "anyOf": [
+              {"type": "null"},
+              {"type": "string"}
+            ]
+          },
+          "glottolog": {
+            "anyOf": [
+              {"type": "null"},
+              {
+                "type": "string",
+                "pattern": "^[a-z]{4}[0-9]{4}$"
+              }
+            ]
+          }
+        },
+        "required": [
+            "lang_id",
+            "question",
+            "iso_639_3"
+        ],
+        "type": "object",
+        "additionalProperties": false
+    },
+    "type": "array"
+}
