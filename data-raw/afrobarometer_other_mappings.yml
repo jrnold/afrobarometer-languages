@@ -3161,7 +3161,7 @@
 - country: "NA"
   iso_639_3:
   - ktz
-  wals_name:
+  wals_code:
   - juh
   lang_name: san
 - country: "NA"
@@ -3706,6 +3706,7 @@
   lang_name: jarawa
   wals_code:
   - jar
+  glottocode: jara1263
 - country: NG
   iso_639_3:
   - jen
@@ -5130,6 +5131,7 @@
     Saamia is the primary Luyia language spoken in UG
   wals_code:
   - luy
+  glottocode: luyi1234
 - country: UG
   iso_639_3:
   - keo

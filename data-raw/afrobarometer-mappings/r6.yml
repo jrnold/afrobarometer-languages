@@ -77,7 +77,7 @@
   wals_code: null
   note: >-
     For survey, use standard arabic.
-
+  glottocode: stan1318
 - iso_639_3:
   - ajg
   lang_id: 6
@@ -147,6 +147,7 @@
   question:
   - Q2
   wals_code: null
+  glottocode: berb1260
 - iso_639_3:
   - bib
   lang_id: 12
@@ -226,6 +227,7 @@
   wals_code: null
   note: >-
     Burkina Faso (BF) and Niger (NE)
+  glottocode: fula1269
 - iso_639_3:
   - hau
   lang_id: 19
@@ -334,6 +336,7 @@
     tgw: [CI]
   lang_id: 30
   lang_name: Sénoufo
+  glottocode: senu1239
   question:
   - Q2
   wals_code: null
@@ -733,6 +736,7 @@
   - Q2
   wals_code:
   - ga
+  glottocode: gada1257
 - iso_639_3:
   - dag
   lang_id: 263
@@ -905,6 +909,7 @@
   - luy
   note: >-
     Luhya is an ISO 639-3 macrolanguage. Include its component languages.
+  glottocode: luyi1234
 - iso_639_3:
   - kam
   lang_id: 303
@@ -923,6 +928,7 @@
   - Q2
   wals_code:
   - "nan"
+  glottocode: kale1246
 - iso_639_3:
   - guz
   lang_id: 305
@@ -1077,6 +1083,7 @@
   - Q103
   wals_code:
   - npi
+  glottocode: libe1240
 - iso_639_3:
   - bsq
   lang_id: 380
@@ -1118,6 +1125,7 @@
   - Q2
   wals_code:
   - dan
+  glottocode: dann1241
 - iso_639_3:
   - gol
   lang_id: 385
@@ -1201,6 +1209,7 @@
   - Q2
   wals_code:
   - npi
+  glottocode: libe1240
 - iso_639_3:
   - plt
   lang_id: 420
@@ -1454,6 +1463,7 @@
   wals_code: null
   note: >-
     Mali. https://www.ethnologue.com/subgroups/senufo
+  glottocode: nort3254
 - iso_639_3:
   - snk
   lang_id: 517
@@ -1888,7 +1898,7 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - geg
+  - mzm
   lang_id: 648
   lang_name: Mumuye
   question:
@@ -3701,6 +3711,7 @@
   question:
   - Q116
   wals_code: null
+  glottocode: senu1239
   note: >-
     Ivory Coast. Use Ivory Coast langs in https://www.ethnologue.com/subgroups/senufo
 - iso_639_3:
@@ -3711,6 +3722,7 @@
   - Q2
   wals_code:
   - dan
+  glottocode: dann1241
 - iso_639_3:
   - dyi
   lang_id: 1279
@@ -3889,6 +3901,7 @@
   note: >-
     Morocco Only. Moroccan languages in the Berber subgroup.
     https://www.ethnologue.com/subgroups/berber
+  glottocode: berb1260
 - iso_639_3:
   - mey
   lang_id: 1501
@@ -3916,6 +3929,7 @@
   question:
   - Q2
   wals_code: null
+  glottocode: nubi1251
   note: >-
     https://www.ethnologue.com/subgroups/eastern-sudanic
     Nubian subgroup languages spoken in Sudan.

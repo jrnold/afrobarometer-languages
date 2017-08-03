@@ -78,7 +78,7 @@
   - ams
   note: >-
     For survey, assume standard Arabic
-
+  glottocode: stan1318
 - iso_639_3:
   - ajg
   lang_id: 6
@@ -350,6 +350,7 @@
     tgw: [CI]
   lang_id: 32
   lang_name: Sénoufo
+  glottocode: senu1239
   question:
   - Q2
   wals_code: null
@@ -468,7 +469,6 @@
 - iso_639_3:
   - fue
   - fuh
-  - ful
   lang_id: 106
   lang_name: Peulh
   question:
@@ -533,9 +533,8 @@
   - kck
   lang_id: 144
   lang_name: Ikalanga/Sekala
-  notes: 'Alt name for Kalanga https://www.ethnologue.com/language/kck
-
-    '
+  note: >-
+    Alt name for Kalanga https://www.ethnologue.com/language/kck
   question:
   - Q2
   wals_code: null
@@ -620,7 +619,6 @@
   wals_code: null
 - iso_639_3:
   - fuh
-  - ful
   - fuq
   lang_id: 182
   lang_name: Fulfuldé
@@ -888,6 +886,7 @@
   - Q116
   - Q2
   wals_code: null
+  glottocode: gada1257
 - iso_639_3:
   - dag
   lang_id: 263
@@ -1098,6 +1097,7 @@
   - Q2
   wals_code:
   - luy
+  glottocode: luyi1234
 - iso_639_3:
   - kam
   lang_id: 303
@@ -1116,6 +1116,7 @@
   - Q2
   wals_code:
   - "nan"
+  glottocode: kale1246
 - iso_639_3:
   - guz
   lang_id: 305
@@ -1169,7 +1170,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - kln
   - pko
   lang_id: 311
   lang_name: Pokot
@@ -1239,7 +1239,6 @@
   wals_code: null
 - iso_639_3:
   - gax
-  - orm
   lang_id: 320
   lang_name: Borana
   question:
@@ -1316,6 +1315,7 @@
   - Q116
   - Q2
   wals_code: null
+  glottocode: dann1241
 - iso_639_3:
   - gol
   lang_id: 385
@@ -1327,7 +1327,6 @@
 - iso_639_3:
   - gbo
   - gec
-  - grb
   - grj
   - grv
   - gry
@@ -1346,7 +1345,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - kpe
   - xpe
   lang_id: 388
   lang_name: Kpelle
@@ -1418,6 +1416,7 @@
   - Q116
   wals_code:
   - npi
+  glottocode: libe1240
 - iso_639_3:
   - lir
   lang_id: 396
@@ -1428,6 +1427,7 @@
   - Q2
   wals_code:
   - npi
+  glottocode: libe1240
 - iso_639_3:
   - eng
   lang_id: 397
@@ -1707,7 +1707,6 @@
   wals_code: null
 - iso_639_3:
   - kao
-  - man
   - mlq
   - mwk
   lang_id: 509
@@ -1770,6 +1769,7 @@
   wals_code: null
   note: >-
     Mali Senoufo languages. https://www.ethnologue.com/subgroups/senufo
+  glottocode: nort3254
 - iso_639_3:
   - snk
   lang_id: 516
@@ -1785,9 +1785,8 @@
   - Q116
   - Q2
   wals_code: null
-- Note: 'Alt name for Songhay languages. https://www.ethnologue.com/country/ML/languages
-
-    '
+- note: >-
+    Alt name for Songhay languages. https://www.ethnologue.com/country/ML/languages
   iso_639_3:
   - hmb
   - khq
@@ -2171,7 +2170,6 @@
   wals_code: null
 - iso_639_3:
   - fub
-  - ful
   lang_id: 626
   lang_name: Fulani
   question:
@@ -2455,7 +2453,6 @@
   wals_code: null
 - iso_639_3:
   - fuc
-  - ful
   lang_id: 661
   lang_name: Pulaar/Toucouleur
   question:
@@ -2507,6 +2504,7 @@
 - iso_639_3:
   - bcb
   - bcz
+  glottocode: bain1261
   lang_id: 667
   lang_name: Bainouk
   note: https://en.wikipedia.org/wiki/Banyum_language
@@ -3813,7 +3811,6 @@
   wals_code: null
 - iso_639_3:
   - fuf
-  - ful
   lang_id: 936
   lang_name: Fulla
   question:
@@ -3837,7 +3834,6 @@
   wals_code: null
 - iso_639_3:
   - emk
-  - man
   lang_id: 939
   lang_name: Madingo
   question:
@@ -3901,7 +3897,6 @@
   wals_code: null
 - iso_639_3:
   - fuh
-  - ful
   - fuq
   lang_id: 1102
   lang_name: Fulfuldé
@@ -4408,7 +4403,6 @@
   - Q2
   wals_code: null
 - iso_639_3:
-  - gba
   - gya
   lang_id: 1242
   lang_name: Gbaya
@@ -4701,6 +4695,16 @@
   - Q116
   - Q2
   wals_code: null
+  glottocode: senu1239
+  note: >-
+    Ivory Coast (CI)
+
+    - dyi,plr,sev,tgw Senufo/South Senoufu
+    - sef Senufo/Central Senoufu
+
+    Shempire Senoufo (seb) (http://glottolog.org/resource/languoid/id/shem1239) was
+    retired.
+
 - iso_639_3:
   - dnj
   lang_id: 1279
@@ -4709,6 +4713,7 @@
   - Q116
   - Q2
   wals_code: null
+  glottocode: dann1241
 - iso_639_3:
   - wob
   lang_id: 1280
@@ -4835,7 +4840,6 @@
   wals_code: null
 - iso_639_3:
   - fuf
-  - ful
   lang_id: 1301
   lang_name: Poular
   question:
@@ -4854,7 +4858,6 @@
   wals_code: null
 - iso_639_3:
   - emk
-  - man
   lang_id: 1302
   lang_name: Maninka
   question:
@@ -4862,7 +4865,6 @@
   wals_code: null
 - iso_639_3:
   - fuf
-  - ful
   lang_id: 1302
   lang_name: Poular
   question:
@@ -4910,7 +4912,6 @@
   wals_code: null
 - iso_639_3:
   - emk
-  - man
   lang_id: 1305
   lang_name: Maninka
   question:
@@ -5355,6 +5356,7 @@
   wals_code: null
   note: >-
     http://www-01.sil.org/iso639-3/documentation.asp?id=jar
+  glottocode: jara1263
 - iso_639_3:
   - cla
   lang_id: 2630

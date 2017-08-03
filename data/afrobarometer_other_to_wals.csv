@@ -193,7 +193,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 4,Q3OTHER,13,Mufwe,NA,kwn,Kwangali,1,2,1,1
 4,Q3OTHER,13,Mufwe,NA,sub,Subiya,1,2,1,1
 4,Q3OTHER,13,Nyemba,NA,,,,,,
-4,Q3OTHER,13,San,NA,juh,Ju|'hoan,1,0,1,1
+4,Q3OTHER,13,San,NA,juh,Ju|'hoan,0,0,,
 4,Q3OTHER,13,Sifwe,NA,kwn,Kwangali,1,2,1,1
 4,Q3OTHER,13,Sifwe,NA,sub,Subiya,1,2,1,1
 4,Q3OTHER,13,Totela,NA,,,,,,
@@ -2868,7 +2868,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto,distance,same_c
 6,Q2OTHER,22,Mafwe,NA,,,,,,
 6,Q2OTHER,22,Mhalangwe,NA,,,,,,
 6,Q2OTHER,22,Nyemba,NA,,,,,,
-6,Q2OTHER,22,San,NA,juh,Ju|'hoan,1,0,1,1
+6,Q2OTHER,22,San,NA,juh,Ju|'hoan,0,0,,
 6,Q2OTHER,22,Sifwe,NA,kwn,Kwangali,1,2,1,1
 6,Q2OTHER,22,Sifwe,NA,sub,Subiya,1,2,1,1
 6,Q2OTHER,22,Totela,NA,,,,,,

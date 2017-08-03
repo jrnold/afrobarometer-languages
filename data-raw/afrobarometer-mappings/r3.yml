@@ -434,6 +434,7 @@
   question:
   - q3
   wals_code: null
+  glottocode: gada1257
 - iso_639_3:
   - dag
   lang_id: 183
@@ -514,6 +515,7 @@
   - q3
   wals_code:
   - luy
+  glottocode: luyi1234
 - iso_639_3:
   - kam
   lang_id: 203
@@ -551,6 +553,7 @@
   - q3
   wals_code:
   - "nan"
+  glottocode: kale1246
 - iso_639_3:
   - mas
   - saq
@@ -1010,6 +1013,7 @@
   wals_code: null
   note: >-
     Mali Senufo languages. https://www.ethnologue.com/subgroups/senufo
+  glottocode: nort3254
 - iso_639_3:
   - myk
   lang_id: 283
@@ -1775,6 +1779,7 @@
   - q114
   - q3
   wals_code: null
+  glottocode: bain1261
 - iso_639_3:
   - bsc
   lang_id: 369

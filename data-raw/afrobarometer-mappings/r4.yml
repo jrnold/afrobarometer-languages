@@ -100,7 +100,6 @@
 - iso_639_3:
   - fue
   - fuh
-  - ful
   lang_id: 106
   lang_name: Peulh
   question:
@@ -544,6 +543,7 @@
   - Q114
   - Q3
   wals_code: null
+  glottocode: gada1257
 - iso_639_3:
   - dag
   lang_id: 263
@@ -665,6 +665,7 @@
   - tpm
   - vag
   lang_id: 275
+  glottocode: grus1239
   lang_name: Grussi
   note: >-
     Languages in Grusi subgroup (https://www.ethnologue.com/subgroups/southern-32)
@@ -796,6 +797,7 @@
   - Q3
   wals_code:
   - luy
+  glottocode: luyi1234
 - iso_639_3:
   - kam
   lang_id: 303
@@ -814,6 +816,7 @@
   - Q3
   wals_code:
   - "nan"
+  glottocode: kale1246
 - iso_639_3:
   - guz
   lang_id: 305
@@ -874,7 +877,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - kln
   - pko
   lang_id: 311
   lang_name: Pokot
@@ -977,6 +979,7 @@
   - Q114
   - Q3
   wals_code: null
+  glottocode: dann1241
 - iso_639_3:
   - gol
   lang_id: 385
@@ -989,7 +992,6 @@
 - iso_639_3:
   - gbo
   - gec
-  - grb
   - grj
   - grv
   - gry
@@ -1010,7 +1012,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - kpe
   - xpe
   lang_id: 388
   lang_name: Kpelle
@@ -1093,6 +1094,7 @@
   - Q3
   wals_code:
   - npi
+  glottocode: libe1240
 - iso_639_3:
   - krn
   lang_id: 397
@@ -1945,7 +1947,6 @@
   wals_code: null
 - iso_639_3:
   - fub
-  - ful
   lang_id: 626
   lang_name: Fulani
   question:
@@ -2267,7 +2268,6 @@
   wals_code: null
 - iso_639_3:
   - fuc
-  - ful
   lang_id: 661
   lang_name: Pulaar/Toucouleur
   question:
@@ -2285,7 +2285,6 @@
   - Q3
   wals_code: null
 - iso_639_3:
-  - man
   - mnk
   lang_id: 663
   lang_name: Mandinka/Bambara
@@ -2325,6 +2324,7 @@
   - bcb
   - bcz
   lang_id: 667
+  glottocode: bain1261
   lang_name: Bainouk
   question:
   - Q103

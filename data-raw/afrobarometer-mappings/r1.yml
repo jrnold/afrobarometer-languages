@@ -38,7 +38,7 @@
   question:
   - language
   wals_code: null
-  note:: >-
+  note: >-
     Botswana (BW), Namibia (NA), Zambia (ZM), and Zimbabwe( ZM)
 - iso_639_3:
   - eng
@@ -494,6 +494,7 @@
   - vag
   lang_id: 71
   lang_name: Grusi
+  glottocode: grus1239
   note: >-
     Ghana. All languages in Niger-Congo, Atlantic-Congo, North, Gur, Central, Southern, Grusi
     subgroup spoken in Ghana with status >= 6a.
@@ -598,6 +599,7 @@
   - spp
   lang_id: 86
   lang_name: Senufo
+  glottocode: nort3254
   question:
   - language
   wals_code: null
@@ -1274,6 +1276,7 @@
   - language
   wals_code:
   - jar
+  glottocode: jara1263
 - iso_639_3:
   - kcg
   lang_id: 179
