@@ -8,12 +8,7 @@ run_r() {
   Rscript $1
 }
 
-
-
-run_r src/download_afrobarometer.R &
-run_r src/download_wals.R &
-run_r src/download_iso.R &
-run_r src/download_ethnologue.R &
+run_r src/download.R &
 wait
 
 run_r src/afrobarometer_lang_variables.R &
@@ -33,6 +28,8 @@ wait
 
 run_r src/afrobarometer_to_wals.R &
 run_r src/afrobarometer_other_to_wals.R &
+run_r src/afrobarometer_to_glottolog.R &
+run_r src/afrobarometer_other_to_glottolog.R &
 wait
 
 run_r src/afrobarometer_respno_to_langs.R

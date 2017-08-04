@@ -754,6 +754,181 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
+      "path": "afrobarometer_to_glottolog.csv",
+      "name": "afrobarometer_to_glottolog",
+      "title": "Afrobarometer Languages to Glottolog mappings",
+      "description": "The Glottolog associated with Afrobarometer languages.",
+      "schema": {
+        "fields": [
+          {
+            "name": "round",
+            "type": "integer",
+            "title": "Afrobarometer round",
+            "constraints": {
+              "required": true,
+              "minimum": 1,
+              "maximum": 6
+            }
+          },
+          {
+            "name": "question",
+            "type": "string",
+            "title": "Afrobarometer survey question/variable",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "language",
+                "q83",
+                "q97",
+                "q110",
+                "q3",
+                "q103",
+                "q114",
+                "Q3",
+                "Q103",
+                "Q114",
+                "Q2",
+                "Q116"
+              ]
+            }
+          },
+          {
+            "type": "integer",
+            "title": "Afrobarometer language value",
+            "description": "The integer value of the language in the Afrobarometer dataset, e.g. `1, 2, ....`",
+            "constraints": {
+              "required": true,
+              "minimum": -1,
+              "maximum": 9999
+            },
+            "name": "lang_id"
+          },
+          {
+            "type": "string",
+            "title": "Afrobarometer language name",
+            "description": "The labels of the language variable in the Afrobarometer dataset, for example, `\"English\", \"French\", ...`.",
+            "constraints": {
+              "required": true
+            },
+            "name": "lang_name"
+          },
+          {
+            "name": "country",
+            "types": "integer",
+            "title": "Country",
+            "description": "The country in which the language appears. This is the integer value of the country in the Afrobarometer survey's `country` variable.",
+            "constraints": {
+              "required": true,
+              "minimum": 1,
+              "maximum": 36
+            }
+          },
+          {
+            "name": "iso_alpha2",
+            "types": "integer",
+            "title": "Country",
+            "description": "A two-letter country abbreviation (ISO 3166 alpha-2) for the Afrobarometer country in which the language appears. Unlike the Afrobarometer country variables this is consistent across rounds.",
+            "constraints": {
+              "required": true,
+              "minimum": 1,
+              "maximum": 36
+            }
+          },
+          {
+            "name": "glottocode",
+            "type": "string",
+            "title": "Glottolog",
+            "description": "The Glottolog languoid identifier",
+            "constraints": {
+              "required": false,
+              "pattern": "^[a-z0-9]{4}[0-9]{4}$"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "path": "afrobarometer_other_to_glottolog.csv",
+      "name": "afrobarometer_other_to_glottolog",
+      "title": "Afrobarometer \"Other\" Languages to Glottolog",
+      "description": "The Glottolog languages associated with the Afrobarometer \"Other\" languages.",
+      "schema": {
+        "fields": [
+          {
+            "name": "round",
+            "type": "integer",
+            "title": "Afrobarometer round",
+            "constraints": {
+              "required": true,
+              "minimum": 1,
+              "maximum": 6
+            }
+          },
+          {
+            "name": "question",
+            "type": "string",
+            "title": "Afrobarometer survey question/variable",
+            "constraints": {
+              "required": true,
+              "enum": [
+                "Q2OTHER",
+                "Q3OTHER",
+                "Q103OTHER",
+                "Q116OTHER"
+              ]
+            }
+          },
+          {
+            "name": "country",
+            "types": "integer",
+            "title": "Country",
+            "description": "The country in which the language appears. This is the integer value of the country in the Afrobarometer survey's `country` variable.",
+            "constraints": {
+              "required": true,
+              "minimum": 1,
+              "maximum": 36
+            }
+          },
+          {
+            "label": "Language name",
+            "type": "string",
+            "description": "Language name. This is the value of the \"other\" language variable.",
+            "constraints": {
+              "required": true
+            },
+            "name": "value"
+          },
+          {
+            "name": "iso_alpha2",
+            "types": "integer",
+            "title": "Country",
+            "description": "A two-letter country abbreviation (ISO 3166 alpha-2) for the Afrobarometer country in which the language appears. Unlike the Afrobarometer country variables this is consistent across rounds.",
+            "constraints": {
+              "required": true,
+              "minimum": 1,
+              "maximum": 36
+            }
+          },
+          {
+            "name": "glottocode",
+            "type": "string",
+            "title": "Glottolog",
+            "description": "The Glottolog languoid identifier",
+            "constraints": {
+              "required": false,
+              "pattern": "^[a-z0-9]{4}[0-9]{4}$"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
       "path": "wals_dist.csv",
       "name": "wals_dist",
       "title": "Ethnologue Linguistic Distances Between WALS langoids",
@@ -886,7 +1061,7 @@
       "path": "afrobarometer_respno_to_langs.csv",
       "name": "afrobarometer_respno_to_langs.csv",
       "title": "Afrobarometer Observations to Language Codes",
-      "description": "Mappings from Afrobarometer observations to ISO 639-3 and WALS language codes.",
+      "description": "Mappings from Afrobarometer observations for all language variables (respondent home language, interview language, and interviewer home language) to ISO 639-3, WALS, and Glottolog language identifiers.",
       "schema": {
         "primaryKey": [
           "round",
@@ -941,6 +1116,15 @@
             "constraints": {
               "required": false,
               "pattern": "^[a-z]{2,3}(,[a-z]{2,3})*$"
+            }
+          },
+          {
+            "name": "glottocode",
+            "title": "Glottocode",
+            "type": "string",
+            "constraints": {
+              "required": false,
+              "pattern": "^[a-z0-9]{4}[0-9]{4}$"
             }
           }
         ]

@@ -363,6 +363,54 @@ resources:
         - *same_country
         - *in_wals_country
 
+  - path: afrobarometer_to_glottolog.csv
+    name: afrobarometer_to_glottolog
+    title: Afrobarometer Languages to Glottolog mappings
+    description: >-
+      The Glottolog associated with Afrobarometer languages.
+    <<: *csv
+    schema:
+      fields:
+      - *round
+      - <<: *question
+        constraints:
+          required: true
+          enum: *question_variables
+      - <<: *lang_id
+        name: lang_id
+      - <<: *lang_name
+        name: lang_name
+      - *country
+      - *iso_alpha2
+      - &glottocode
+        name: glottocode
+        type: string
+        title: Glottolog
+        description: >-
+          The Glottolog languoid identifier
+        constraints:
+          required: false
+          pattern: "^[a-z0-9]{4}[0-9]{4}$"
+
+  - path: afrobarometer_other_to_glottolog.csv
+    name: afrobarometer_other_to_glottolog
+    title: Afrobarometer "Other" Languages to Glottolog
+    description: >-
+      The Glottolog languages associated with the Afrobarometer "Other" languages.
+    <<: *csv
+    schema:
+      fields:
+        - *round
+        - <<: *question
+          constraints:
+            required: true
+            enum: *question_variables_other
+        - *country
+        - <<: *lang_other
+          name: value
+        - *iso_alpha2
+        - *glottocode
+
   - path: wals_dist.csv
     name: wals_dist
     title: Ethnologue Linguistic Distances Between WALS langoids
@@ -457,8 +505,9 @@ resources:
     title: "Afrobarometer Observations to Language Codes"
     <<: *csv
     description: >-
-      Mappings from Afrobarometer observations to
-      ISO 639-3 and WALS language codes.
+      Mappings from Afrobarometer observations for all language variables
+      (respondent home language, interview language, and interviewer home
+      language) to ISO 639-3, WALS, and Glottolog language identifiers.
     schema:
       primaryKey:
       - round
@@ -494,6 +543,12 @@ resources:
         constraints:
           required: false
           pattern: "^[a-z]{2,3}(,[a-z]{2,3})*$"
+      - name: glottocode
+        title: Glottocode
+        type: string
+        constraints:
+          required: false
+          pattern: "^[a-z0-9]{4}[0-9]{4}$"
 
   - path: "afrobarometer_respno_variables.csv"
     name: afrobarometer_respno_variables

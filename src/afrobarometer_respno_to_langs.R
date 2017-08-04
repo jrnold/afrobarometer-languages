@@ -19,20 +19,25 @@ afrobarometer_other_to_iso <- IO$afrobarometer_other_to_iso %>%
   # don't include the macrolanguages here
   filter(iso_scope != "M")
 
+afrobarometer_to_glottolog <- IO$afrobarometer_to_glottolog
+
+afrobarometer_other_to_glottolog <- IO$afrobarometer_other_to_glottolog
+
+
 # Afrobarometer respondent ID variables
 respondent_variables <- IO$afrobarometer_respno_variables
 
 map_lang_vars <- function(.data, x, mappings, lang_vars,
                           country_var, respno_var) {
-  if (length(lang_vars)) {
+  if (nrow(lang_vars)) {
     out <- select(.data, one_of(c(respno_var, country_var,
-                                  names(lang_vars)))) %>%
+                                  lang_vars$variable))) %>%
       rename(country = UQ(sym(country_var)),
              respno = UQ(sym(respno_var))) %>%
       mutate(country = as.integer(country),
              respno = as.character(respno)) %>%
       # need this to drop attributes and avoid warnings
-      mutate_at(vars(one_of(names(lang_vars))),
+      mutate_at(vars(one_of(lang_vars$variable)),
                 function(.x) {
                   attributes(.x) <- NULL
                   .x
@@ -40,13 +45,13 @@ map_lang_vars <- function(.data, x, mappings, lang_vars,
       # conver to long
       gather(variable, value, -respno, -country) %>%
       filter(is.integer(value) | value != "") %>%
-      # add WALS codes
-      left_join(mappings,
-                by = c("variable", "value", "country")) %>%
+      left_join(mappings, by = c("variable", "value", "country")) %>%
       select(respno, country, variable, UQ(sym(x))) %>%
       filter(!is.na(UQ(sym(x)))) %>%
-      # convert variable names to type (interview, respondent)
-      mutate(variable = UQ(lang_vars)[variable])
+      left_join(select(lang_vars, variable, type),
+                by = "variable") %>%
+      select(-variable) %>%
+      rename(variable = type)
     out
   }
 }
@@ -55,11 +60,8 @@ respno_to_langs_round <- function(.round) {
   .data <- IO$afrobarometer(.round)
 
   lang_vars <- language_variables %>%
-    filter(round == UQ(.round))
-  lang_vars <- list("default" =
-                      deframe(select(filter(lang_vars, !other), name, type)),
-                    "other" =
-                      deframe(select(filter(lang_vars, other), name, type)))
+    filter(round == UQ(.round)) %>%
+    select(variable = name, type, other)
 
   respno_var <- respondent_variables %>%
     filter(round == UQ(.round)) %>%
@@ -79,7 +81,7 @@ respno_to_langs_round <- function(.round) {
     mapping =
       select(filter(afrobarometer_to_wals, round == UQ(.round)),
              variable = question, country, value = lang_id, wals_code),
-    lang_vars = lang_vars[["default"]]
+    lang_vars = filter(lang_vars, !other)
   )
 
   to_iso <- f(
@@ -88,23 +90,32 @@ respno_to_langs_round <- function(.round) {
      select(filter(afrobarometer_to_iso, round == UQ(.round)),
             variable = question, country,
             value = lang_id, iso_639_3),
-    lang_vars = lang_vars[["default"]]
+    lang_vars = filter(lang_vars, !other)
   )
 
-  if (length(lang_vars[["other"]])) {
+  to_glottolog <- f(
+    x = "glottocode",
+    mapping =
+      select(filter(afrobarometer_to_glottolog, round == UQ(.round)),
+             variable = question, country,
+             value = lang_id, glottocode),
+    lang_vars = filter(lang_vars, !other)
+  )
+
+  if (nrow(lang_vars)) {
     to_iso_other <- f(
       x = "iso_639_3",
       mapping =
         select(filter(afrobarometer_other_to_iso,
                       round == UQ(.round)),
                variable = question, country, value, iso_639_3),
-      lang_vars = lang_vars[["other"]]
+      lang_vars = filter(lang_vars, other)
     )
 
     if (!is.null(to_iso_other)) {
       to_iso <- bind_rows(
         to_iso,
-        anti_join(to_iso_other, to_iso, by = "respno")
+        anti_join(to_iso_other, to_iso, by = c("respno", "variable"))
       )
     }
 
@@ -113,13 +124,29 @@ respno_to_langs_round <- function(.round) {
       mapping =
         select(filter(afrobarometer_other_to_wals, round == UQ(.round)),
                variable = question, country, value, wals_code),
-      lang_vars = lang_vars[["other"]]
+      lang_vars = filter(lang_vars, other)
     )
 
     if (!is.null(to_wals_other)) {
       to_wals <- bind_rows(
         to_wals,
-        anti_join(to_wals_other, to_wals, by = "respno")
+        anti_join(to_wals_other, to_wals, by = c("respno", "variable"))
+      )
+    }
+
+    to_glottolog_other <- f(
+      x = "glottocode",
+      mapping =
+        select(filter(afrobarometer_other_to_glottolog, round == UQ(.round)),
+               variable = question, country, value, glottocode),
+      lang_vars = filter(lang_vars, other)
+    )
+
+    if (!is.null(to_glottolog_other)) {
+      to_glottolog <- bind_rows(
+        to_glottolog,
+        anti_join(to_glottolog_other, to_glottolog,
+                  by = c("respno", "variable"))
       )
     }
   }
@@ -132,13 +159,14 @@ respno_to_langs_round <- function(.round) {
       group_by(respno, variable) %>%
       summarise(iso_639_3 = str_c(iso_639_3, collapse = " ")),
     by = c("respno", "variable")
-  ) %>%
+    ) %>%
+    full_join(to_glottolog, by = c("respno", "variable")) %>%
     mutate(round = UQ(.round))
 }
 
 respno_to_langs <- function() {
   map_df(1:6, respno_to_langs_round) %>%
-    select(round, respno, variable, iso_639_3, wals_code) %>%
+    select(round, respno, variable, iso_639_3, wals_code, glottocode) %>%
     arrange(round, variable, respno)
 }
 
@@ -175,7 +203,11 @@ rlang::eval_tidy(quo({
   assert_that(is.character(wals_code))
   assert_that(all(str_detect(na.omit(wals_code), "^[a-z]{2,3}( [a-z]{2,3})*$")))
 
+  assert_that(is.character(glottocode))
+  assert_that(all(str_detect(na.omit(glottocode), "^[a-z0-9]{4}[0-9]{4}$")))
+
 }), data = afrobarometer_respno_to_langs)
+
 
 
 #' Write to output

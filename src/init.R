@@ -134,10 +134,10 @@ env_bind_fns(IO,
 
   # ISO Data
   iso_639_3_codes = function() {
-    path <- project_path("external",
-                         "iso-639-3",
-                         "iso-639-3_Code_Tables_20170217",
-                         "iso-639-3_20170202.tab")
+    description <- project_path("external",
+                                "iso-639-3_Code_Tables_20170217.zip")
+    filename <- paste("iso-639-3_Code_Tables_20170217",
+                      "iso-639-3_20170202.tab", sep = "/")
     col_types = cols(
       Id = col_character(),
       Part2B = col_character(),
@@ -148,34 +148,23 @@ env_bind_fns(IO,
       Ref_Name = col_character(),
       Comment = col_character()
     )
-    read_tsv(path, na = "", col_types = col_types)
+    read_tsv(unz(description, filename), na = "", col_types = col_types)
   },
 
   iso_639_3_macrolanguages = function() {
-    path <- project_path("external",
-                        "iso-639-3",
-                        "iso-639-3_Code_Tables_20170217",
-                        "iso-639-3-macrolanguages_20170131.tab")
+    description <- project_path("external",
+                                "iso-639-3_Code_Tables_20170217.zip")
+    filename <- paste("iso-639-3_Code_Tables_20170217",
+                      "iso-639-3-macrolanguages_20170131.tab", sep = "/")
     col_types <- cols(
       M_Id = col_character(),
       I_Id = col_character(),
       I_Status = col_character()
     )
-    read_tsv(path, na = "", col_types = col_types)
+    read_tsv(unz(description, filename), na = "", col_types = col_types)
   },
 
-  # Ethnologue data
-  ethnologue = function() {
-    path <- project_path("external", "ethnologue", "Language_Code_Data_20170221",
-                         "LanguageIndex.tab")
-    col_types <- cols(
-      LangID = col_character(),
-      CountryID = col_character(),
-      NameType = col_character(),
-      Name = col_character()
-    )
-    read_tsv(path, na = "", col_types = col_types)
-  },
+
 
   # WALS
   # WALS data with ISO updates applied and only language level data
@@ -190,8 +179,9 @@ env_bind_fns(IO,
                            iso_code = col_character(),
                            macroarea = col_character()
                          ))
-    path <- project_path("external", "wals", "language.csv")
-    wals <- read_csv(path,
+    description <- project_path("external", "wals-language.csv.zip")
+    filename <- "language.csv"
+    wals <- read_csv(unz(description, filename),
                      col_types = cols(
                        .default = col_character(),
                        latitude = col_double(),
@@ -207,16 +197,31 @@ env_bind_fns(IO,
       select(one_of(vars))
   },
 
+
+
+  # Ethnologue data
+  ethnologue = function() {
+    description <- project_path("external", "Language_Code_Data_20170221.zip")
+    filename <- "LanguageIndex.tab"
+    col_types <- cols(
+      LangID = col_character(),
+      CountryID = col_character(),
+      NameType = col_character(),
+      Name = col_character()
+    )
+    read_tsv(unz(description, filename), na = "", col_types = col_types)
+  },
+
   ethnologue_language_codes = function() {
-    path <- project_path("external", "ethnologue", "Language_Code_Data_20170221",
-                         "LanguageCodes.tab")
+    description <- project_path("external", "Language_Code_Data_20170221.zip")
+    filename <- "LanguageCodes.tab"
     col_types <- cols(
       LangID = col_character(),
       CountryID = col_character(),
       LangStatus = col_character(),
       Name = col_character()
     )
-    read_tsv(path, na = "", col_types = col_types) %>%
+    read_tsv(unz(description, filename), na = "", col_types = col_types) %>%
       # patch Aka macrolang
       filter(LangID != "aka") %>%
       bind_rows(
@@ -363,7 +368,7 @@ env_bind_fns(IO,
 
   afrobarometer_to_iso = function() {
     path <- project_path("data", "afrobarometer_to_iso_639_3.csv")
-    col_types <-cols(
+    col_types <- cols(
       round = col_integer(),
       question = col_character(),
       country = col_integer(),
@@ -399,8 +404,90 @@ env_bind_fns(IO,
       name = col_character()
     )
     read_csv(path, na = "", col_types = col_types)
-  }
+  },
 
+  glottolog_languoids = function() {
+    description <- project_path("external", "glottolog",
+                                "glottolog-languoid.csv.zip")
+    filename <- "languoid.csv"
+    col_types <- cols(
+      bookkeeping = col_character(),
+      child_dialect_count = col_integer(),
+      child_family_count = col_integer(),
+      child_language_count = col_integer(),
+      description = col_character(),
+      family_pk = col_integer(),
+      father_pk = col_integer(),
+      hid = col_character(),
+      id = col_character(),
+      jsondata = col_character(),
+      latitude = col_double(),
+      level = col_character(),
+      longitude = col_double(),
+      markup_description = col_character(),
+      name = col_character(),
+      newick = col_character(),
+      pk = col_integer(),
+      status = col_character()
+    )
+    read_csv(unz(description, filename), col_types = col_types, na = "")
+  },
+
+  glottolog_resourcemap = function() {
+    resource2df <- function(x) {
+      if (length(x$identifiers)) {
+        out <- map_df(x$identifiers, as_tibble)
+        out$glottocode <- x$id
+        out
+      }
+    }
+
+    read_json(project_path("external", "glottolog", "resourcemap.json"),
+              simplifyVector = FALSE) %>%
+      `[[`("resources") %>%
+      map_df(resource2df)
+  },
+
+  glottolog_descendants = function() {
+    path <- project_path("external", "glottolog", "tree-glottolog.json")
+    walk_tree <- function(x, level = 0L, env = rlang::new_environment()) {
+      glottocode <- x[["glottocode"]]
+      descendants <- flatten_chr(map(x[["children"]], walk_tree,
+                                     level = level + 1L, env = env))
+      env[[glottocode]] <- list(
+        descendants = c(glottocode, descendants),
+        level = level
+      )
+      c(glottocode, descendants)
+    }
+
+    env <- rlang::new_environment()
+    glottolog_tree <-
+      read_json(path, simplifyVector = FALSE) %>%
+      walk(walk_tree, level = 0, env = env)
+
+    map_df(ls(env),
+           function(i) {
+             out <- as.tibble(env[[i]])
+             out[["node"]] <- i
+             out
+           })
+  },
+
+  glottolog_lang_geo = function() {
+    path <- project_path("external", "glottolog",
+                         "languages-and-dialects-geo.csv")
+    col_types = cols(
+      glottocode = col_character(),
+      name = col_character(),
+      isocodes = col_character(),
+      level = col_character(),
+      macroarea = col_character(),
+      latitude = col_double(),
+      longitude = col_double()
+    )
+    read_csv(path, col_types = col_types, na = "")
+  }
 )
 
 .afrobarometer <- function(.round) {
@@ -409,8 +496,10 @@ env_bind_fns(IO,
          "r2" = list("external", "afrobarometer", "merged_r2_data.sav"),
          "r3" = list("external", "afrobarometer", "merged_r3_data.sav"),
          "r4" = list("external", "afrobarometer", "merged_r4_data.sav"),
-         "r5" = list("external", "afrobarometer", "merged-round-5-data-34-countries-2011-2013-last-update-july-2015.sav"),
-         "r6" = list("external", "afrobarometer", "merged_r6_data_2016_36countries2.sav")) %>%
+         "r5" = list("external", "afrobarometer",
+                     "merged-round-5-data-34-countries-2011-2013-last-update-july-2015.sav"),
+         "r6" = list("external", "afrobarometer",
+                     "merged_r6_data_2016_36countries2.sav")) %>%
     map_chr(function(x) invoke(project_path, x))
   read_sav(paths[[str_c("r", .round)]])
 }
@@ -483,6 +572,48 @@ env_bind_fns(IO, afrobarometer_other_to_iso = function() {
   )
   read_csv(path, na = "", col_types = col_types)
 })
+
+env_bind_fns(IO, afrobarometer_to_glottolog = function() {
+  path <- project_path("data", "afrobarometer_to_glottolog.csv")
+  col_types <- cols(
+    round = col_integer(),
+    question = col_character(),
+    lang_id = col_integer(),
+    lang_name = col_character(),
+    country = col_integer(),
+    iso_alpha2 = col_character(),
+    glottocode = col_character()
+  )
+  read_csv(path, na = "", col_types = col_types)
+})
+
+env_bind_fns(IO, afrobarometer_other_to_glottolog = function() {
+  path <- project_path("data", "afrobarometer_other_to_glottolog.csv")
+  col_types <- cols(
+    round = col_integer(),
+    question = col_character(),
+    value = col_character(),
+    iso_alpha2 = col_character(),
+    country = col_integer(),
+    glottocode = col_character()
+  )
+  read_csv(path, na = "", col_types = col_types)
+})
+
+
+#' Glottolog to ISO matches
+#'
+#' - ISO codes in a list
+glottolog_to_iso <- function() {
+  IO$glottolog_descendants %>%
+    inner_join(filter(glottolog_resourcemap, type == "iso639-3") %>%
+                 select(glottocode, iso_639_3 = identifier),
+               by = c("descendants" = "glottocode")) %>%
+    filter(!is.na(iso_639_3)) %>%
+    select(iso_639_3, glottocode = node, level) %>%
+    group_by(glottocode) %>%
+    mutate(isocodes = list(unique(iso_639_3)))
+}
 
 
 #' Misc functions
