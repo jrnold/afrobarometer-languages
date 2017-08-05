@@ -1,0 +1,16 @@
+Package: jrnold..afrobarometer.languages
+Title: Dependencies for Afrobarometer Languages Project
+Authors@R: c(person("Jeffrey", "Arnold", email = "jeffrey.arnold@gmail.com",
+                    role = c("aut", "cre")))
+Description: R package dependencies for jrnold/afrobarometer-languages.
+Version: 0.0.1
+Imports:
+  assertthat,
+  httr,
+  magrittr,
+  rlang,
+  rprojroot,
+  tidyverse,
+  urltools,
+  yaml
+Depends: R (>= 3.4.0)

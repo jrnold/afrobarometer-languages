@@ -5,6 +5,7 @@ suppressPackageStartupMessages({
   library("stringr")
   library("assertthat")
   library("rlang")
+  library("httr")
 })
 
 #'

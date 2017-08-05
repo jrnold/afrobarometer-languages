@@ -42,7 +42,8 @@ afrobarometer_langs_r <- function(.round) {
     mutate(round = .round)
 }
 
-afrobarometer_langs <- map_df(IO$misc_data$afrobarometer$rounds, afrobarometer_langs_r) %>%
+afrobarometer_langs <- map_df(IO$misc_data$afrobarometer$rounds,
+                              afrobarometer_langs_r) %>%
   left_join(afrobarometer_countries,
             by = c("round", "country" = "value")) %>%
   mutate(value = as.integer(value)) %>%

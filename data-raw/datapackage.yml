@@ -390,7 +390,7 @@ resources:
           The Glottolog languoid identifier
         constraints:
           required: false
-          pattern: "^[a-z0-9]{4}[0-9]{4}$"
+          pattern: "^([a-z0-9]{4}[0-9]{4})?$"
 
   - path: afrobarometer_other_to_glottolog.csv
     name: afrobarometer_other_to_glottolog

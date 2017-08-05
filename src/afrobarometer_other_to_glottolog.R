@@ -90,14 +90,14 @@ if (nrow(to_glottolog_langmiss)) {
 }
 
 #' All Afrobarometer codes should be acounted for
-afrobarometer_to_glottolog_nonmatches <-
+to_glottolog_nonmatches <-
   IO$afrobarometer_langs_other %>%
   anti_join(filter(IO$afrobarometer_other_to_iso, iso_scope == "S"),
             by = c("round", "question", "value", "country")) %>%
   anti_join(afrobarometer_to_glottolog,
             by = c("round", "question", "value", "country"))
-if (nrow(afrobarometer_to_glottolog_nonmatches)) {
-  print(afrobarometer_to_glottolog_nonmatches)
+if (nrow(to_glottolog_nonmatches)) {
+  print(to_glottolog_nonmatches)
   stop("Unaccounted for non-matches found")
 }
 

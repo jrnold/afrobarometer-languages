@@ -40,7 +40,7 @@ afrobarometer_other_to_iso <- IO$afrobarometer_other_mappings %>%
     }
   }) %>%
   distinct() %>%
-  {
+  { # Exclude Linting
     bind_rows(.,
               inner_join(., iso_macrolangs,
                         by = c("iso_639_3" = "I_Id")) %>%
@@ -122,7 +122,7 @@ stopifnot(nrow(iso_lang_nonmatches) == 0)
 #' the language is spoken is consistent with countries
 #' in which the Ethnologue records the language as being spoken.
 ethnologue_langidx <- IO$ethnologue %>%
-  select(iso_639_3 = LangID, iso_alpha2 = CountryID) %>%
+  select(iso_639_3 = LangID, iso_alpha2 = CountryID) %>% # Exclude Linting
   distinct() %>%
   # patch for Akan split
   bind_rows(tibble(iso_639_3 = c("fat", "twi"), iso_alpha2 = "GH"))
@@ -132,7 +132,7 @@ iso_country_non_matches <-
   # ignore macrolangs
   filter(iso_scope %in% c("I")) %>%
   # remove any known non-matche
-  anti_join(IO$afrobarometer_other_to_iso_country_nonmatches,
+  anti_join(IO[["afrobarometer_other_to_iso_country_nonmatches"]],
             by = c("iso_alpha2", "value", "iso_639_3")) %>%
   # find any non-matches
   anti_join(ethnologue_langidx, by = c("iso_639_3", "iso_alpha2"))

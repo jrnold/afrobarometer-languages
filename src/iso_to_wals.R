@@ -32,7 +32,7 @@ ethnologue_distances <- bind_rows(
   left_join(select(ethnologue_language_codes,
                    to = LangID, country_to = CountryID),
             by = "to") %>%
-  mutate(same_country = coalesce((country_from == country_to), FALSE)) %>%
+  mutate(same_country = coalesce(country_from == country_to, FALSE)) %>%
   select(from, to, distance, same_country)
 
 #' Recently retired ISO langs

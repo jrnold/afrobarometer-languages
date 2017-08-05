@@ -37,7 +37,8 @@ afrobarometer_langs_other_r <- function(.round) {
   }
 }
 
-afrobarometer_langs_other <- map_df(IO$misc_data$afrobarometer$rounds, afrobarometer_langs_other_r) %>%
+afrobarometer_langs_other <- map_df(IO$misc_data$afrobarometer$rounds,
+                                    afrobarometer_langs_other_r) %>%
   left_join(afrobarometer_countries,
             by = c("round", "country" = "value")) %>%
   select(round, question, country, value, iso_alpha2) %>%

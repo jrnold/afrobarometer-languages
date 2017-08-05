@@ -37,7 +37,6 @@ def load_yaml(filename):
         out = yaml.load(f)
     return out
 
-
 def main():
     with open("data-raw/mappings.schema", 'r') as f:
         schema = json.load(f)
@@ -62,9 +61,6 @@ def main():
     except ConstructorError as e:
         print(e)
     jsonschema.validate(data, schema)
-
-
-
 
 if __name__ == "__main__":
   main()

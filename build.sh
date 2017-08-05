@@ -9,7 +9,7 @@ run_r() {
 }
 
 run_r src/download.R &
-wait
+python src/validate_mappings.py &
 
 run_r src/afrobarometer_lang_variables.R &
 run_r src/afrobarometer_country_variables.R &
@@ -33,6 +33,8 @@ run_r src/afrobarometer_other_to_glottolog.R &
 wait
 
 run_r src/afrobarometer_respno_to_langs.R
-wait
 
 python src/yaml2json.py data-raw/datapackage.yml data/datapackage.json
+
+goodtables data-raw/datapackage.yml data/datapackage.json
+wait

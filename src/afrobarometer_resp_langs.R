@@ -24,7 +24,7 @@ afrobarometer_filenames <- list("merged_r1_data.sav",
             "merged_r2_data.sav",
             "merged_r3_data.sav",
             "merged_r4_data.sav",
-            "merged-round-5-data-34-countries-2011-2013-last-update-july-2015.sav",
+            "merged-round-5-data-34-countries-2011-2013-last-update-july-2015.sav", # Exclude Linting
             "merged_r6_data_2016_36countries2.sav") %>%
   map_chr(~ project_path("external", "afrobarometer", .x))
 
