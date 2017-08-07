@@ -1358,16 +1358,6 @@
   variables:
   - q83
   wals_code: null
-- glottocodes: gbag1256
-  iso_639_3:
-  - gbr
-  - gby
-  lang_id: 274
-  lang_name: Gwari
-  note: Alt name for Gbari and Gbagyi https://www.ethnologue.com/country/NG/languages
-  variables:
-  - q97
-  wals_code: null
 - glottocodes: kala1381
   iso_639_3:
   - ijn
@@ -2274,26 +2264,6 @@
   - und
   lang_id: 995
   lang_name: Other
-  variables:
-  - q110
-  - q83
-  - q97
-  wals_code: null
-- glottocodes: null
-  iso_639_3:
-  - und
-  lang_id: 998
-  lang_name: Refused
-  variables:
-  - q110
-  - q83
-  - q97
-  wals_code: null
-- glottocodes: null
-  iso_639_3:
-  - und
-  lang_id: 999
-  lang_name: Don't know
   variables:
   - q110
   - q83

@@ -285,25 +285,6 @@
   - Q114
   - Q3
   wals_code: null
-- iso_639_3:
-  - afr
-  lang_id: 150
-  lang_name: Seburu
-  note: Name for Afrikaans
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code: null
-- iso_639_3:
-  - naq
-  lang_id: 151
-  lang_name: Sekgothu
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code: null
 - glottocodes: tswa1237
   iso_639_3:
   - two
@@ -1028,15 +1009,6 @@
   - Q114
   - Q3
   wals_code: null
-- iso_639_3:
-  - ssw
-  lang_id: 341
-  lang_name: Sephuti
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code: null
 - glottocodes: xhos1239
   iso_639_3:
   - xho
@@ -1255,38 +1227,6 @@
   - Q114
   - Q3
   wals_code: null
-- iso_639_3:
-  - cmn
-  lang_id: 422
-  lang_name: Chinois
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code: null
-- iso_639_3:
-  - zdj
-  - swb
-  - wni
-  - wlc
-  lang_id: 423
-  lang_name: Comorien
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code:
-  - com
-- iso_639_3:
-  - guj
-  lang_id: 424
-  lang_name: Indo-pakistanais
-  note: Madagascar.
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code: null
 - glottocodes: tumb1250
   iso_639_3:
   - tum
@@ -1440,16 +1380,6 @@
   - Q114
   - Q3
   wals_code: null
-- iso_639_3:
-  - kdn
-  lang_id: 475
-  lang_name: Chikunda
-  note: Alt name for Kunda.
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code: null
 - glottocodes: nyam1275
   iso_639_3:
   - mwn
@@ -1543,16 +1473,6 @@
   - jms
   - tms
   - dts
-- iso_639_3:
-  - bam
-  lang_id: 507
-  lang_name: Gana
-  note: Gana people speak Bambara. https://www.ethnologue.com/language/bam
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code: null
 - glottocodes: xaas1235
   iso_639_3:
   - kao
@@ -1822,15 +1742,6 @@
   - Q114
   - Q3
   wals_code: null
-- iso_639_3:
-  - llb
-  lang_id: 554
-  lang_name: Lolo
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code: null
 - glottocodes: lomw1241
   iso_639_3:
   - ngl
@@ -1879,16 +1790,6 @@
   lang_id: 559
   lang_name: Shona
   note: In MZ SHona refers to Ndau. https://www.ethnologue.com/country/MZ/languages
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code: null
-- iso_639_3:
-  - tke
-  lang_id: 560
-  lang_name: Tacuane
-  note: Takwane
   variables:
   - Q103
   - Q114
@@ -3682,16 +3583,6 @@
   - und
   lang_id: 995
   lang_name: Others
-  variables:
-  - Q103
-  - Q114
-  - Q3
-  wals_code: null
-- glottocodes: null
-  iso_639_3:
-  - und
-  lang_id: 998
-  lang_name: Refused
   variables:
   - Q103
   - Q114

@@ -196,13 +196,6 @@
   variables:
   - q103
   wals_code: null
-- iso_639_3:
-  - eng
-  lang_id: 116
-  lang_name: English + Shangaan
-  variables:
-  - q103
-  wals_code: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -508,13 +501,6 @@
   variables:
   - q103
   wals_code: null
-- iso_639_3:
-  - hau
-  lang_id: 184
-  lang_name: HAUSA
-  variables:
-  - q114
-  wals_code: null
 - glottocodes: dagb1246
   iso_639_3:
   - dag
@@ -685,13 +671,6 @@
   variables:
   - q103
   wals_code: null
-- iso_639_3:
-  - rag
-  lang_id: 211
-  lang_name: Maragoli
-  variables:
-  - q114
-  wals_code: null
 - glottocodes: poko1263
   iso_639_3:
   - pko
@@ -708,13 +687,6 @@
   note: Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
   variables:
   - q103
-  wals_code: null
-- iso_639_3:
-  - luo
-  lang_id: 212
-  lang_name: Luo/English
-  variables:
-  - q114
   wals_code: null
 - glottocodes: turk1308
   iso_639_3:
@@ -936,14 +908,6 @@
   variables:
   - q3
   wals_code: null
-- iso_639_3:
-  - cmn
-  lang_id: 242
-  lang_name: chinois
-  note: Chinese language.
-  variables:
-  - q3
-  wals_code: null
 - glottocodes: como1260
   iso_639_3:
   - zdj
@@ -1067,16 +1031,6 @@
   - q114
   - q3
   wals_code: null
-- iso_639_3:
-  - tum
-  lang_id: 270
-  lang_name: Senga
-  note: Malawi
-  variables:
-  - q103
-  - q114
-  - q3
-  wals_code: null
 - glottocodes: tong1321
   iso_639_3:
   - tog
@@ -1105,13 +1059,6 @@
   lang_name: Peuhl/Fulfulde
   variables:
   - q103
-  wals_code: null
-- iso_639_3:
-  - ffm
-  lang_id: 281
-  lang_name: Peuhl / Fulfuldé
-  variables:
-  - q114
   wals_code: null
 - glottocodes: maas1239
   iso_639_3:
@@ -1196,13 +1143,6 @@
   variables:
   - q103
   - q3
-  wals_code: null
-- iso_639_3:
-  - kao
-  lang_id: 287
-  lang_name: Khasonké
-  variables:
-  - q114
   wals_code: null
 - glottocodes: dogo1299
   iso_639_3:
@@ -1294,15 +1234,6 @@
   variables:
   - q103
   - q3
-  wals_code: null
-- iso_639_3:
-  - hmb
-  - khq
-  - ses
-  lang_id: 295
-  lang_name: Sonrhaï
-  variables:
-  - q114
   wals_code: null
 - glottocodes: koyr1242
   iso_639_3:
@@ -1917,13 +1848,6 @@
   - q103
   - q3
   wals_code: null
-- iso_639_3:
-  - snk
-  lang_id: 364
-  lang_name: Soninke
-  variables:
-  - q114
-  wals_code: null
 - glottocodes: jola1263
   iso_639_3:
   - dyo
@@ -1968,15 +1892,6 @@
   - bcz
   lang_id: 368
   lang_name: Bainouk
-  variables:
-  - q103
-  - q114
-  - q3
-  wals_code: null
-- iso_639_3:
-  - bsc
-  lang_id: 369
-  lang_name: Bassari
   variables:
   - q103
   - q114
@@ -2507,15 +2422,6 @@
   - q114
   - q3
   wals_code: null
-- iso_639_3:
-  - ven
-  lang_id: 442
-  lang_name: Venda
-  variables:
-  - q103
-  - q114
-  - q3
-  wals_code: null
 - glottocodes: kala1384
   iso_639_3:
   - kck
@@ -2679,14 +2585,6 @@
   - q114
   - q3
   wals_code: null
-- iso_639_3:
-  - cla
-  lang_id: 551
-  lang_name: Ron
-  variables:
-  - q114
-  - q3
-  wals_code: null
 - glottocodes: goem1240
   iso_639_3:
   - ank
@@ -2802,14 +2700,6 @@
   - ige
   lang_id: 563
   lang_name: Igede
-  variables:
-  - q114
-  - q3
-  wals_code: null
-- iso_639_3:
-  - pym
-  lang_id: 564
-  lang_name: Pyem
   variables:
   - q114
   - q3
@@ -2953,13 +2843,6 @@
   variables:
   - q3
   wals_code: null
-- iso_639_3:
-  - eyo
-  lang_id: 812
-  lang_name: Keiyo
-  variables:
-  - q3
-  wals_code: null
 - glottocodes: kips1239
   iso_639_3:
   - sgc
@@ -2983,14 +2866,6 @@
   lang_name: Boran
   variables:
   - q103
-  - q3
-  wals_code: null
-- iso_639_3:
-  - gax
-  lang_id: 816
-  lang_name: Ethopian/Kenyan
-  note: Borana is widely spoken Kenyan version of Oromo.
-  variables:
   - q3
   wals_code: null
 - glottocodes: guja1252
@@ -3092,21 +2967,5 @@
   variables:
   - q103
   - q114
-  - q3
-  wals_code: null
-- glottocodes: null
-  iso_639_3:
-  - und
-  lang_id: 998
-  lang_name: Refused
-  variables:
-  - q3
-  wals_code: null
-- glottocodes: null
-  iso_639_3:
-  - und
-  lang_id: 999
-  lang_name: Don't know
-  variables:
   - q3
   wals_code: null

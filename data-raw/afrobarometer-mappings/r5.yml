@@ -563,15 +563,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - yor
-  lang_id: 104
-  lang_name: Yoruba
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
 - glottocodes: dita1238
   iso_639_3:
   - tbz
@@ -702,14 +693,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - afr
-  lang_id: 150
-  lang_name: Afrikaans/Seburu
-  note: Seburu is a name for Afrikaans
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: nama1264
   iso_639_3:
   - naq
@@ -748,16 +731,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - fuh
-  - fuq
-  lang_id: 182
-  lang_name: Fulfuldé
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
 - glottocodes: gour1243
   iso_639_3:
   - gux
@@ -785,16 +758,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - bwq
-  - bbo
-  lang_id: 186
-  lang_name: Bobo
-  note: Burkina Faso. Bobo is Mande.
-  variables:
-  - Q116
-  wals_code:
-  - bbf
 - glottocodes: malb1235
   iso_639_3:
   - bfo
@@ -802,13 +765,6 @@
   lang_name: Birifor
   variables:
   - Q2
-  wals_code: null
-- iso_639_3:
-  - bfo
-  lang_id: 187
-  lang_name: Birifor
-  variables:
-  - Q116
   wals_code: null
 - glottocodes: bwam1247
   iso_639_3:
@@ -846,15 +802,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - sbd
-  - stj
-  - sym
-  lang_id: 190
-  lang_name: Samo
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: cerm1238
   iso_639_3:
   - cme
@@ -891,28 +838,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - cme
-  lang_id: 193
-  lang_name: Goin
-  variables:
-  - Q116
-  wals_code: null
-- iso_639_3:
-  - lob
-  lang_id: 193
-  lang_name: Lobi
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - mos
-  lang_id: 194
-  lang_name: Yanan
-  note: Yana is a dialect of Moore. https://www.ethnologue.com/country/BF/languages
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: mark1256
   iso_639_3:
   - rkm
@@ -920,13 +845,6 @@
   lang_name: Marka
   variables:
   - Q2
-  wals_code: null
-- iso_639_3:
-  - rkm
-  lang_id: 195
-  lang_name: Marka
-  variables:
-  - Q116
   wals_code: null
 - glottocodes: mand1437
   iso_639_3:
@@ -980,16 +898,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - bwq
-  - bbo
-  lang_id: 200
-  lang_name: Bobo
-  note: Burkina Faso. Gur language.
-  variables:
-  - Q2
-  wals_code:
-  - bbf
 - glottocodes: kabu1256
   iso_639_3:
   - kea
@@ -1041,15 +949,6 @@
   - dag
   lang_id: 263
   lang_name: Dagbani
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - hau
-  lang_id: 264
-  lang_name: Hausa
   variables:
   - Q103
   - Q116
@@ -1193,13 +1092,6 @@
   - maw
   lang_id: 278
   lang_name: Mampruli
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - xon
-  lang_id: 279
-  lang_name: Konkomba
   variables:
   - Q2
   wals_code: null
@@ -1490,16 +1382,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - bsq
-  lang_id: 380
-  lang_name: Bassa
-  note: Liberia Bassa
-  variables:
-  - Q116
-  - Q2
-  wals_code:
-  - kla
 - glottocodes: kuwa1247
   iso_639_3:
   - blh
@@ -1618,13 +1500,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - men
-  lang_id: 394
-  lang_name: Mende
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: vaii1241
   iso_639_3:
   - vai
@@ -1655,20 +1530,6 @@
   - Q2
   wals_code:
   - npi
-- iso_639_3:
-  - eng
-  lang_id: 397
-  lang_name: Standard English
-  variables:
-  - Q103
-  wals_code: null
-- iso_639_3:
-  - krn
-  lang_id: 397
-  lang_name: Sapo
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: plat1254
   iso_639_3:
   - plt
@@ -1698,36 +1559,6 @@
     rather than Madagascar.'
   variables:
   - Q103
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - cmn
-  lang_id: 422
-  lang_name: Chinois
-  note: French for Chinese. Use Cantonese and Mandarin. https://en.wikipedia.org/wiki/Chinese_people_in_Madagascar
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - zdj
-  - swb
-  - wni
-  - wlc
-  lang_id: 423
-  lang_name: Comorien
-  variables:
-  - Q116
-  - Q2
-  wals_code:
-  - com
-- iso_639_3:
-  - guj
-  lang_id: 424
-  lang_name: Indo-pakistanais
-  note: Madagascar
-  variables:
   - Q116
   - Q2
   wals_code: null
@@ -1860,14 +1691,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - mey
-  lang_id: 500
-  lang_name: Arabe
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
 - glottocodes: bamb1269
   iso_639_3:
   - bam
@@ -1925,14 +1748,6 @@
   - jms
   - tms
   - dts
-- iso_639_3:
-  - hau
-  lang_id: 506
-  lang_name: Haoussa
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
 - glottocodes: kago1248
   iso_639_3:
   - xkg
@@ -1976,14 +1791,6 @@
   - myk
   lang_id: 511
   lang_name: Mianka
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - mos
-  lang_id: 512
-  lang_name: Mossi
   variables:
   - Q116
   - Q2
@@ -2061,15 +1868,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - dje
-  lang_id: 519
-  lang_name: Zerma
-  note: Similar to alt name Adzerma for Zarmaci. https://www.ethnologue.com/country/ML/languages
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
 - glottocodes: makh1264
   iso_639_3:
   - vmw
@@ -2090,15 +1888,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - ndc
-  lang_id: 542
-  lang_name: Ndau
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
 - glottocodes: tson1249
   iso_639_3:
   - tso
@@ -2106,20 +1895,6 @@
   lang_name: Changana
   variables:
   - Q103
-  - Q116
-  wals_code: null
-- iso_639_3:
-  - nya
-  lang_id: 543
-  lang_name: Nyanja
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - nya
-  lang_id: 544
-  lang_name: Nyanja
-  variables:
   - Q116
   wals_code: null
 - glottocodes: tson1249
@@ -2174,13 +1949,6 @@
   lang_name: Ajaua
   variables:
   - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - nya
-  lang_id: 550
-  lang_name: Chichewa
-  variables:
   - Q2
   wals_code: null
 - glottocodes: barw1243
@@ -2291,15 +2059,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - afr
-  lang_id: 580
-  lang_name: Afrikaans
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
 - glottocodes: stan1295
   iso_639_3:
   - deu
@@ -2383,14 +2142,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - tsn
-  lang_id: 589
-  lang_name: Setswana
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
 - glottocodes: subi1246
   iso_639_3:
   - sbs
@@ -2400,29 +2151,11 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - hau
-  lang_id: 620
-  lang_name: Hausa
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
 - glottocodes: nucl1417
   iso_639_3:
   - ibo
   lang_id: 621
   lang_name: Igbo
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - yor
-  lang_id: 622
-  lang_name: Yoruba
   variables:
   - Q103
   - Q116
@@ -2748,15 +2481,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - bzw
-  lang_id: 659
-  lang_name: Bassa
-  note: Nigerian Bassa. different from bas (CM) or bsq (LR)
-  variables:
-  - Q116
-  wals_code:
-  - duk
 - glottocodes: nucl1347
   iso_639_3:
   - wol
@@ -2960,13 +2684,6 @@
   - Q103
   wals_code:
   - tsn
-- iso_639_3:
-  - ssw
-  lang_id: 713
-  lang_name: Siswati
-  variables:
-  - Q103
-  wals_code: null
 - glottocodes: nyak1260
   iso_639_3:
   - nyy
@@ -3135,21 +2852,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - haq
-  lang_id: 760
-  lang_name: Kiha
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - han
-  lang_id: 761
-  lang_name: Kihangaza
-  note: Alt name for Hangaza. https://www.ethnologue.com/country/TZ/languages
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: iraq1241
   iso_639_3:
   - irk
@@ -3275,21 +2977,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - haq
-  lang_id: 777
-  lang_name: Kiha
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - han
-  lang_id: 778
-  lang_name: Kihangaza
-  note: Alt name for Hangaza
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: iraq1241
   iso_639_3:
   - irk
@@ -3390,13 +3077,6 @@
   - Q103
   - Q116
   - Q2
-  wals_code: null
-- iso_639_3:
-  - luo
-  lang_id: 788
-  lang_name: Luo
-  variables:
-  - Q103
   wals_code: null
 - glottocodes: acol1236
   iso_639_3:
@@ -3724,14 +3404,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - kdn
-  - nya
-  lang_id: 830
-  lang_name: Kunda
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: lund1266
   iso_639_3:
   - lun
@@ -3747,13 +3419,6 @@
   lang_name: Bisa
   variables:
   - Q2
-  wals_code: null
-- iso_639_3:
-  - mgr
-  lang_id: 832
-  lang_name: Lungu
-  variables:
-  - Q116
   wals_code: null
 - glottocodes: nkoy1244
   iso_639_3:
@@ -3780,13 +3445,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - toi
-  lang_id: 834
-  lang_name: Tokaleya
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: lenj1248
   iso_639_3:
   - leh
@@ -3794,13 +3452,6 @@
   lang_name: Lenje
   variables:
   - Q2
-  wals_code: null
-- iso_639_3:
-  - auh
-  lang_id: 835
-  lang_name: Ushi
-  variables:
-  - Q116
   wals_code: null
 - glottocodes: nsen1242
   iso_639_3:
@@ -3811,13 +3462,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - tap
-  lang_id: 836
-  lang_name: Tabwa
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: soli1239
   iso_639_3:
   - sby
@@ -3825,13 +3469,6 @@
   lang_name: Soli
   variables:
   - Q2
-  wals_code: null
-- iso_639_3:
-  - mwn
-  lang_id: 837
-  lang_name: Namwanga
-  variables:
-  - Q116
   wals_code: null
 - glottocodes: ilaa1246
   iso_639_3:
@@ -3841,13 +3478,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - lun
-  lang_id: 838
-  lang_name: Lunda
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: aush1241
   iso_639_3:
   - auh
@@ -3856,27 +3486,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - leb
-  lang_id: 839
-  lang_name: Bisa
-  variables:
-  - Q116
-  wals_code: null
-- iso_639_3:
-  - cjk
-  lang_id: 839
-  lang_name: Chokwe
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - nka
-  lang_id: 840
-  lang_name: Nkoya
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: mbun1249
   iso_639_3:
   - mck
@@ -3884,13 +3493,6 @@
   lang_name: Mbunda
   variables:
   - Q2
-  wals_code: null
-- iso_639_3:
-  - mgr
-  lang_id: 841
-  lang_name: Mambwe
-  variables:
-  - Q116
   wals_code: null
 - glottocodes: tumb1253
   iso_639_3:
@@ -3901,13 +3503,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - leh
-  lang_id: 842
-  lang_name: Lenje
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: lala1264
   iso_639_3:
   - leb
@@ -3915,28 +3510,6 @@
   lang_name: Lala
   variables:
   - Q2
-  wals_code: null
-- iso_639_3:
-  - nse
-  lang_id: 843
-  lang_name: Ngoni
-  note: Zambia. Could be a dialect of several langs.
-  variables:
-  - Q116
-  wals_code: null
-- iso_639_3:
-  - lam
-  lang_id: 843
-  lang_name: Lamba
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - sby
-  lang_id: 844
-  lang_name: Soli
-  variables:
-  - Q116
   wals_code: null
 - glottocodes: mamb1296
   iso_639_3:
@@ -3953,14 +3526,6 @@
   lang_name: Ila
   variables:
   - Q116
-  wals_code: null
-- iso_639_3:
-  - nih
-  - nkv
-  lang_id: 845
-  lang_name: Nyika
-  variables:
-  - Q2
   wals_code: null
 - glottocodes: cent2285
   iso_639_3:
@@ -4005,14 +3570,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - bem
-  lang_id: 850
-  lang_name: Chishinga
-  note: Dialect of Bemba. https://www.ethnologue.com/country/ZM/languages
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: taab1238
   iso_639_3:
   - tap
@@ -4039,13 +3596,6 @@
   - Q103
   - Q116
   wals_code: null
-- iso_639_3:
-  - nde
-  lang_id: 860
-  lang_name: SiNdebele
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: shon1251
   iso_639_3:
   - sna
@@ -4055,13 +3605,6 @@
   - Q103
   - Q116
   - Q2
-  wals_code: null
-- iso_639_3:
-  - ndc
-  lang_id: 862
-  lang_name: Ndau
-  variables:
-  - Q103
   wals_code: null
 - glottocodes: shon1251
   iso_639_3:
@@ -4099,21 +3642,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - ndc
-  lang_id: 866
-  lang_name: Ndau
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - ven
-  lang_id: 867
-  lang_name: Venda
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: kala1384
   iso_639_3:
   - kck
@@ -4122,28 +3650,12 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - toi
-  lang_id: 869
-  lang_name: Tonga
-  note: Zimbabwe Tonga.
-  variables:
-  - Q2
-  wals_code:
-  - toz
 - glottocodes: shon1251
   iso_639_3:
   - sna
   lang_id: 870
   lang_name: Vhitori
   note: Is it a Karange dialect of Shona?
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - tso
-  lang_id: 871
-  lang_name: Shangani
   variables:
   - Q2
   wals_code: null
@@ -4267,14 +3779,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - kno
-  lang_id: 937
-  lang_name: Kono
-  note: Sierra Leone (SL)
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: kura1250
   iso_639_3:
   - knk
@@ -4291,13 +3795,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - vai
-  lang_id: 940
-  lang_name: Vai
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: susu1250
   iso_639_3:
   - sus
@@ -4306,30 +3803,11 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - klu
-  lang_id: 942
-  lang_name: Kru
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: yalu1240
   iso_639_3:
   - yal
   lang_id: 943
   lang_name: Yalunka
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-    kqs:
-    - SL
-    kss:
-    - SL
-    - LR
-  lang_id: 944
-  lang_name: Kissi
-  note: Sierra Leone (SL) and Liberia (LR).
   variables:
   - Q2
   wals_code: null
@@ -4353,16 +3831,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - fuh
-  - fuq
-  lang_id: 1102
-  lang_name: Fulfuldé
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
 - glottocodes: tuar1240
   iso_639_3:
   - thv
@@ -4380,14 +3848,6 @@
   lang_id: 1104
   lang_name: Béri béri
   note: Name for Kanuri, Central. https://www.ethnologue.com/country/NE/languages
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - gux
-  lang_id: 1105
-  lang_name: Gourmantchéma
   variables:
   - Q116
   - Q2
@@ -4469,27 +3929,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - lam
-  lang_id: 1146
-  lang_name: Lama (Lamba)
-  variables:
-  - Q116
-  wals_code: null
-- iso_639_3:
-  - lam
-  lang_id: 1146
-  lang_name: Lamba
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - ife
-  lang_id: 1147
-  lang_name: Ifè (Ana)
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: ifee1241
   iso_639_3:
   - ife
@@ -4516,26 +3955,12 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - bud
-  lang_id: 1149
-  lang_name: N’Tcha (Bassar)
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: ntch1242
   iso_639_3:
   - bud
   lang_id: 1149
   lang_name: Bassar
   note: Alt name for Ntcham
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - fon
-  lang_id: 1151
-  lang_name: Fon
   variables:
   - Q2
   wals_code: null
@@ -4563,13 +3988,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - xon
-  lang_id: 1155
-  lang_name: Konkomba
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: ngan1299
   iso_639_3:
   - gng
@@ -4583,13 +4001,6 @@
   - aks
   lang_id: 1157
   lang_name: Tchamba
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - hau
-  lang_id: 1158
-  lang_name: Haoussa
   variables:
   - Q2
   wals_code: null
@@ -4704,15 +4115,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - bas
-  lang_id: 1227
-  lang_name: Bassa
-  note: Cameroon Bassa
-  variables:
-  - Q116
-  wals_code:
-  - bas
 - glottocodes: medu1238
   iso_639_3:
   - byv
@@ -4840,15 +4242,6 @@
   variables:
   - Q116
   wals_code: null
-- iso_639_3:
-  - bas
-  lang_id: 1234
-  lang_name: Bassa
-  note: Cameroon Bassa
-  variables:
-  - Q2
-  wals_code:
-  - bas
 - glottocodes: bata1285
   iso_639_3:
   - bnm
@@ -4929,13 +4322,6 @@
   - giz
   lang_id: 1244
   lang_name: Guiziga
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - hau
-  lang_id: 1245
-  lang_name: Haoussa
   variables:
   - Q2
   wals_code: null
@@ -5049,13 +4435,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - dyu
-  lang_id: 1260
-  lang_name: Dioula
-  variables:
-  - Q103
-  wals_code: null
 - glottocodes: abee1242
   iso_639_3:
   - aba
@@ -5107,14 +4486,6 @@
   - avi
   lang_id: 1265
   lang_name: Avikam
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - bam
-  lang_id: 1266
-  lang_name: Bambara
   variables:
   - Q116
   - Q2
@@ -5194,14 +4565,6 @@
   - ted
   lang_id: 1275
   lang_name: Kroumen
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - lob
-  lang_id: 1276
-  lang_name: Lobi
   variables:
   - Q116
   - Q2
@@ -5475,13 +4838,6 @@
   - Q116
   - Q2
   wals_code: null
-- iso_639_3:
-  - mku
-  lang_id: 1306
-  lang_name: Konianké
-  variables:
-  - Q116
-  wals_code: null
 - glottocodes: kony1250
   iso_639_3:
   - mku
@@ -5496,14 +4852,6 @@
   - gkp
   lang_id: 1307
   lang_name: Kpelé
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - mev
-  lang_id: 1308
-  lang_name: Mano
   variables:
   - Q116
   - Q2
@@ -5563,225 +4911,6 @@
   variables:
   - Q2
   wals_code: null
-- iso_639_3:
-  - gax
-  lang_id: 1340
-  lang_name: Afan Oromo (Oromifa)
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - amh
-  lang_id: 1341
-  lang_name: Amharic
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - som
-  lang_id: 1342
-  lang_name: Somaligna
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - tir
-  lang_id: 1343
-  lang_name: Tigrigna
-  variables:
-  - Q103
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - sid
-  lang_id: 1344
-  lang_name: Sidamingna
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - sgw
-  lang_id: 1345
-  lang_name: Guragigna
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - wal
-  lang_id: 1346
-  lang_name: Welaitigna
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - hdy
-  lang_id: 1347
-  lang_name: Hadiyagna
-  note: Match WALS to other Highland Cushitic Language
-  variables:
-  - Q116
-  - Q2
-  wals_code:
-  - sid
-- iso_639_3:
-  - aar
-  lang_id: 1348
-  lang_name: Afarigna
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - gmv
-  lang_id: 1349
-  lang_name: Gamogna
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - awn
-  lang_id: 1350
-  lang_name: Agew
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - anu
-  lang_id: 1351
-  lang_name: Agnwak
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - alw
-  lang_id: 1352
-  lang_name: Alaba
-  note: Match WALS to other Highland Cushitic
-  variables:
-  - Q2
-  wals_code:
-  - sid
-- iso_639_3:
-  - agj
-  lang_id: 1353
-  lang_name: Argoba
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - awn
-  lang_id: 1354
-  lang_name: Awi
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - bcq
-  lang_id: 1355
-  lang_name: Bench
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - wti
-  lang_id: 1356
-  lang_name: Berta
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - drs
-  lang_id: 1357
-  lang_name: Gedeo
-  variables:
-  - Q2
-  wals_code:
-  - sid
-- iso_639_3:
-  - stv
-  lang_id: 1358
-  lang_name: Silte
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - gof
-  lang_id: 1359
-  lang_name: Gofa
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - guk
-  lang_id: 1360
-  lang_name: Gumz
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - har
-  lang_id: 1361
-  lang_name: Harari
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - kbr
-  lang_id: 1362
-  lang_name: Kaffa
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - ktb
-  lang_id: 1363
-  lang_name: Kembata
-  note: For WALS code, match to Highland Cushitic language
-  variables:
-  - Q116
-  - Q2
-  wals_code:
-  - sid
-- iso_639_3:
-  - mpe
-  lang_id: 1365
-  lang_name: Mejenger
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - muz
-  lang_id: 1366
-  lang_name: Mursi
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - nus
-  lang_id: 1367
-  lang_name: Nuwer
-  variables:
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - wle
-  lang_id: 1368
-  lang_name: Welene
-  variables:
-  - Q2
-  wals_code: null
 - glottocodes: cent2194
   iso_639_3:
   - tzm
@@ -5808,13 +4937,6 @@
   variables:
   - Q103
   - Q116
-  - Q2
-  wals_code: null
-- iso_639_3:
-  - tso
-  lang_id: 1621
-  lang_name: Shangaan
-  variables:
   - Q2
   wals_code: null
 - glottocodes: zulu1248
@@ -6091,15 +5213,6 @@
   - und
   lang_id: 9995
   lang_name: Others
-  variables:
-  - Q116
-  - Q2
-  wals_code: null
-- glottocodes: null
-  iso_639_3:
-  - und
-  lang_id: 9998
-  lang_name: Refused
   variables:
   - Q116
   - Q2

@@ -168,14 +168,6 @@
   variables:
   - language
   wals_code: null
-- glottocodes: swah1254
-  iso_639_3:
-  - swh
-  lang_id: 19
-  lang_name: Swahili
-  variables:
-  - language
-  wals_code: null
 - glottocodes: swat1243
   iso_639_3:
   - ssw
