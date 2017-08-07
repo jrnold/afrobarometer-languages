@@ -2662,9 +2662,9 @@
   wals_code:
   - arg
 - country: KE
-  glottocode: null
+  glottocode: guja1252
   iso_639_3:
-  - und
+  - guj
   lang_name: asian south
 - country: KE
   glottocode: swah1253
@@ -3198,10 +3198,12 @@
   - mis
   lang_name: chigorongozi
 - country: MZ
-  glottocode: null
+  glottocode: many1258
   iso_639_3:
-  - mis
+  - mxc
   lang_name: chimanica
+  note: >-
+    Manika
 - country: MZ
   glottocode: null
   iso_639_3:
@@ -6722,14 +6724,14 @@
   lang_name: tanzanian
   note: National language is Swahili
 - country: ZA
-  glottocode: null
+  glottocode: hind1269
   iso_639_3:
-  - und
+  - hin
   lang_name: asian
 - country: ZA
-  glottocode: null
+  glottocode: hind1269
   iso_639_3:
-  - und
+  - hin
   lang_name: asian/indian
 - country: ZA
   glottocode: bulg1262
@@ -7121,10 +7123,12 @@
   - mis
   lang_name: malawian
 - country: ZW
-  glottocode: null
+  glottocode: many1258
   iso_639_3:
-  - mis
+  - mxc
   lang_name: manica (mozambican)
+  note: >-
+    Manika
 - country: ZW
   glottocode: many1258
   iso_639_3:
@@ -7146,10 +7150,12 @@
   - mis
   lang_name: mlemba
 - country: ZW
-  glottocode: null
+  glottocode: port1283
   iso_639_3:
-  - mis
+  - por
   lang_name: mozambican
+  note: >-
+    Portuguese is official lang of Mozambique
 - country: ZW
   glottocode: null
   iso_639_3:
@@ -7186,20 +7192,24 @@
   - mis
   lang_name: nleya zambia
 - country: ZW
-  glottocode: null
+  glottocode: chew1246
   iso_639_3:
-  - mis
+  - nya
   lang_name: nyaho (chawa)
+  note: >-
+    Chewa is a dialect of Nyanja
 - country: ZW
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: nyanja
 - country: ZW
-  glottocode: null
+  glottocode: nyas1241
   iso_639_3:
-  - mis
+  - nya
   lang_name: nyasaland
+  note: >-
+    Nyasa is a dialect of Nyanja
 - country: ZW
   glottocode: tson1249
   iso_639_3:
@@ -7221,14 +7231,16 @@
   - mis
   lang_name: sidombe
 - country: ZW
-  glottocode: null
+  glottocode: pedi1238
   iso_639_3:
-  - mis
+  - nso
   lang_name: sotho
+  note: >-
+    More likey Northern Sotho in Zimbabwe
 - country: ZW
-  glottocode: null
+  glottocode: pedi1238
   iso_639_3:
-  - mis
+  - nso
   lang_name: suthu
 - country: ZW
   glottocode: null
@@ -7256,9 +7268,9 @@
   - xho
   lang_name: xhosa
 - country: ZW
-  glottocode: null
+  glottocode: yaoo1241
   iso_639_3:
-  - mis
+  - yao
   lang_name: yao
 - country: ZW
   glottocode: shon1251
