@@ -13,7 +13,7 @@ afrobarometer_langs_other <-
   mutate(lang_name = str_to_lower(value))
 
 # Manual Glottocode Matches from the mappings
-to_glottocodes_manual <-
+to_glottocodes <-
   IO$afrobarometer_other_mappings %>%
   map_df(function(.x) {
     if (!is.null(.x[["glottocode"]])) {
@@ -28,35 +28,13 @@ to_glottocodes_manual <-
 
 glottolog_to_iso_ <- glottolog_to_iso()
 
-to_glottocodes_auto <-
-  IO$afrobarometer_other_to_iso %>%
-  filter(iso_scope == "I") %>%
-  select(round, question, country, iso_alpha2, value, iso_639_3) %>%
-  # remove languages that are already matched
-  anti_join(to_glottocodes_manual, by = c("value", "iso_alpha2")) %>%
-  group_by(round, question, iso_alpha2, value) %>%
-  mutate(isocodes_from = list(unique(iso_639_3))) %>%
-  # Join with Glottolog matches
-  left_join(glottolog_to_iso_, by = "iso_639_3") %>%
-  mutate(all_matched = map2_lgl(isocodes_from, isocodes, ~ all(.x %in% .y))) %>%
-  # Keep things that match all
-  filter(all_matched) %>%
-  group_by(round, question, iso_alpha2, value) %>%
-  filter(level == max(level)) %>%
-  select(round, question, iso_alpha2, value, glottocode) %>%
-  distinct()
-
 # All matches
 afrobarometer_to_glottolog <-
   IO$afrobarometer_langs_other %>%
-  left_join(
-    bind_rows(
-      to_glottocodes_manual,
-      to_glottocodes_auto
-    ),
-    by = c("round", "question", "value", "iso_alpha2")) %>%
-    select(round, question, value, iso_alpha2, country, glottocode) %>%
-    arrange(round, question, value, country)
+  left_join(to_glottocodes,
+            by = c("round", "question", "value", "iso_alpha2")) %>%
+  select(round, question, value, iso_alpha2, country, glottocode) %>%
+  arrange(round, question, value, country)
 
 #'
 #' # Test data

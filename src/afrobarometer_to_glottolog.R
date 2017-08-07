@@ -4,35 +4,36 @@ OUTPUT <- project_path("data", "afrobarometer_to_glottolog.csv")
 
 glottolog_languoids <- IO$glottolog_languoids
 
-glottolog_resourcemap <- IO$glottolog_resourcemap
-
 glottolog_lang_geo <- IO$glottolog_lang_geo
 
 # Manual Glottocode Matches from the mappings
-to_glottocodes_manual <-
+to_glottocodes <-
   IO$afrobarometer_mappings %>%
   map_df(function(.x) {
-    if (!is.null(.x[["glottocode"]])) {
+    if (!is.null(.x[["glottocodes"]])) {
       # it shouldn't be empty but if it is, continue
-      if (is.null(names(.x[["glottocode"]]))) {
+      if (is.null(names(.x[["glottocodes"]]))) {
         # if no names, then all countries
-        out <- tidyr::crossing(question = .x[["question"]],
-                               glottocode = as.character(.x[["glottocode"]]))
+        out <- tidyr::crossing(question = .x[["variables"]],
+                               glottocode = as.character(.x[["glottocodes"]]))
         out$valid_country <- NA_character_
       } else {
-        glottocodes <- .x[["glottocode"]]
+        glottocodes <- .x[["glottocodes"]]
         out <- map2_df(names(glottocodes),
                        glottocodes,
-                       ~ tibble(glottocode = as.character(.x), valid_country = .y))
-        out <- tidyr::crossing(out, question = .x[["question"]])
+                       ~ tibble(glottocode = .y,
+                                valid_country = as.character(.x)))
+        out <- tidyr::crossing(out, question = .x[["variables"]])
       }
-      if (nrow(out) == 0) {
-        print(out)
-      }
-      out[["lang_id"]] <- .x$lang_id
-      out[["round"]] <- .x$round
-      out
+    } else {
+      print(.x)
+      out <- tidyr::crossing(question = .x[["variables"]])
+      out[["valid_country"]] <- NA_character_
+      out[["glottocode"]] <- NA_character_
     }
+    out[["lang_id"]] <- .x$lang_id
+    out[["round"]] <- .x$round
+    out
   }) %>%
   left_join(select(IO$afrobarometer_langs,
                     round, question, lang_id = value, iso_alpha2),
@@ -40,34 +41,12 @@ to_glottocodes_manual <-
   filter(is.na(valid_country) | (valid_country == iso_alpha2)) %>%
   select(-valid_country)
 
-to_glottocodes_auto <-
-  IO$afrobarometer_to_iso %>%
-  # remove languages that are already matched
-  anti_join(to_glottocodes_manual,
-            by = c("round", "lang_id", "question")) %>%
-  filter(iso_scope == "I") %>%
-  select(round, lang_id, question, iso_alpha2, iso_639_3) %>%
-  group_by(round, lang_id, question, iso_alpha2) %>%
-  mutate(isocodes_from = list(unique(iso_639_3))) %>%
-  # Join with Glottolog matches
-  left_join(glottolog_to_iso(), by = "iso_639_3") %>%
-  mutate(all_matched = map2_lgl(isocodes_from, isocodes, ~ all(.x %in% .y))) %>%
-  # Keep things that match all
-  filter(all_matched) %>%
-  group_by(round, lang_id, question, iso_alpha2) %>%
-  filter(level == max(level)) %>%
-  select(round, lang_id, question, iso_alpha2, glottocode) %>%
-  distinct()
-
 # All matches
 afrobarometer_to_glottolog <-
   left_join(
     select(IO$afrobarometer_langs, round,
            lang_id = value, question, iso_alpha2, country, lang_name = name),
-    bind_rows(
-      to_glottocodes_auto,
-      to_glottocodes_manual
-    ),
+    to_glottocodes,
     by = c("round", "question", "lang_id", "iso_alpha2")) %>%
   select(round, question, lang_id, lang_name, country, iso_alpha2, glottocode) %>%
   arrange(round, question, lang_id, country)
