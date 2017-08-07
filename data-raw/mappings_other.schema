@@ -72,7 +72,7 @@
               {"type": "null"},
               {
                 "type": "string",
-                "pattern": "^[a-z]{4}[0-9]{4}$"
+                "pattern": "^[a-z0-9]{4}[0-9]{4}$"
               }
             ]
           }
@@ -80,7 +80,8 @@
         "required": [
             "lang_name",
             "country",
-            "iso_639_3"
+            "iso_639_3",
+            "glottocode"
         ],
         "type": "object",
         "additionalProperties": false
