@@ -841,7 +841,7 @@
             "description": "The Glottolog languoid identifier",
             "constraints": {
               "required": false,
-              "pattern": "^[a-z0-9]{4}[0-9]{4}$"
+              "pattern": "^([a-z0-9]{4}[0-9]{4})?$"
             }
           }
         ]
@@ -919,7 +919,7 @@
             "description": "The Glottolog languoid identifier",
             "constraints": {
               "required": false,
-              "pattern": "^[a-z0-9]{4}[0-9]{4}$"
+              "pattern": "^([a-z0-9]{4}[0-9]{4})?$"
             }
           }
         ]
