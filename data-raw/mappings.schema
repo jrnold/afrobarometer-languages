@@ -104,7 +104,8 @@
         "required": [
             "lang_id",
             "variables",
-            "iso_639_3"
+            "iso_639_3",
+            "glottocodes"
         ],
         "type": "object",
         "additionalProperties": false
