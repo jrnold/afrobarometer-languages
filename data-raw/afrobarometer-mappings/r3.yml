@@ -2,444 +2,618 @@
   - und
   lang_id: -1
   lang_name: Missing
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - LS
+    - MW
+    - ZW
+    - MZ
+    - ZA
+    - BJ
+    - SN
+    - NG
+    - GH
+    - ZM
+    - NA
+    - KE
+    - BW
+    - UG
+  iso_639_3:
   - eng
   lang_id: 1
   lang_name: English
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1290:
+    - MG
+    - ML
+    - BJ
+    - SN
+    - UG
+  iso_639_3:
   - fra
   lang_id: 2
   lang_name: French
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    port1283:
+    - UG
+    - CV
+    - MZ
+    - ZA
+  iso_639_3:
   - por
   lang_id: 3
   lang_name: Portuguese
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    swah1253:
+    - TZ
+    - MZ
+    - KE
+    - MW
+    - UG
+  iso_639_3:
   - swh
   lang_id: 4
   lang_name: Kiswahili
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    afri1274:
+    - ZA
+  iso_639_3:
   - afr
   lang_id: 100
   lang_name: Afrikaans
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    sout2808:
+    - ZA
+  iso_639_3:
   - nbl
   lang_id: 101
   lang_name: Ndebele
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    xhos1239:
+    - ZA
+  iso_639_3:
   - xho
   lang_id: 102
   lang_name: Xhosa
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    pedi1238:
+    - ZA
+  iso_639_3:
   - nso
   lang_id: 103
   lang_name: Pedi/Spedi/ North Sotho
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    sout2807:
+    - ZA
+  iso_639_3:
   - sot
   lang_id: 104
   lang_name: Sesotho/Sotho/ South Sotho
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tswa1253:
+    - ZA
+  iso_639_3:
   - tsn
   lang_id: 105
   lang_name: Setswana/ Tswana
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tson1249:
+    - ZA
+  iso_639_3:
   - tso
   lang_id: 106
   lang_name: Shangaan
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    swat1243:
+    - ZA
+  iso_639_3:
   - ssw
   lang_id: 107
   lang_name: Swazi
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    vend1245:
+    - ZA
+  iso_639_3:
   - ven
   lang_id: 108
   lang_name: Venda
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    zulu1248:
+    - ZA
+  iso_639_3:
   - zul
   lang_id: 109
   lang_name: Zulu
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - ZA
+  iso_639_3:
   - eng
   lang_id: 110
   lang_name: English + Afrikaans
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - ZA
+  iso_639_3:
   - eng
   lang_id: 111
   lang_name: English + Ndebele
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - ZA
+  iso_639_3:
   - eng
   lang_id: 112
   lang_name: English + Xhosa
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - ZA
+  iso_639_3:
   - eng
   lang_id: 113
   lang_name: English + Pedi/N. Sotho
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - ZA
+  iso_639_3:
   - eng
   lang_id: 114
   lang_name: English + Sesotho/S. Sotho
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - ZA
+  iso_639_3:
   - eng
   lang_id: 115
   lang_name: English + Setswana
-  question:
+  variables:
   - q103
   wals_code: null
 - iso_639_3:
   - eng
   lang_id: 116
   lang_name: English + Shangaan
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - ZA
+  iso_639_3:
   - eng
   lang_id: 117
   lang_name: English + Venda
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - ZA
+  iso_639_3:
   - eng
   lang_id: 118
   lang_name: English + Zulu
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    fonn1241:
+    - BJ
+  iso_639_3:
   - fon
   lang_id: 120
   lang_name: Fon
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ajab1235:
+    - BJ
+  iso_639_3:
   - ajg
   lang_id: 121
   lang_name: Adja
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    baat1238:
+    - BJ
+  iso_639_3:
   - bba
   lang_id: 122
   lang_name: Bariba
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    dend1243:
+    - BJ
+  iso_639_3:
   - ddn
   lang_id: 123
   lang_name: Dendi
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    yoru1245:
+    - BJ
+  iso_639_3:
   - yor
   lang_id: 124
   lang_name: Yoruba
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    dita1238:
+    - BJ
+  iso_639_3:
   - tbz
   lang_id: 125
   lang_name: Otamari
-  question:
+  variables:
   - q103
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    dita1238:
+    - BJ
+  iso_639_3:
   - tbz
   lang_id: 125
   lang_name: Ditamari
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    fula1264:
+    - BJ
+  iso_639_3:
   - fue
   - fuh
   lang_id: 126
   lang_name: Peulh
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    yomm1242:
+    - BJ
+  iso_639_3:
   - pil
   lang_id: 127
   lang_name: Yoa
-  question:
+  variables:
   - q103
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    yomm1242:
+    - BJ
+  iso_639_3:
   - pil
   lang_id: 127
   lang_name: Yom
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    haus1257:
+    - BJ
+  iso_639_3:
   - hau
   lang_id: 128
   lang_name: Haoussa
-  question:
+  note: Ethnologue doesn't indicate Hausa in ML, but Hausa (hau) widely spoken in
+    neighbors
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Ethnologue doesn't indicate Hausa in ML, but
-    Hausa (hau) widely spoken in neighbors
-- iso_639_3:
+- glottocodes:
+    edei1245:
+    - BJ
+  iso_639_3:
   - ijj
   lang_id: 129
   lang_name: Ide
   note: Ede Ije language? https://www.ethnologue.com/country/BJ/languages
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    lama1275:
+    - BJ
+  iso_639_3:
   - las
   lang_id: 130
   lang_name: Lamba
-  question:
+  note: Burkina Faso (BF)
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Burkina Faso (BF)
-- iso_639_3:
+- glottocodes:
+    tswa1253:
+    - BW
+  iso_639_3:
   - tsn
   lang_id: 140
   lang_name: Setswana
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tsoa1238:
+    - BW
+  iso_639_3:
   - hio
   lang_id: 141
   lang_name: Sesarwa
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kgal1244:
+    - BW
+  iso_639_3:
   - xkv
   lang_id: 142
   lang_name: Sekgaladi
   note: Alt name for Kgalagadi. https://www.ethnologue.com/country/BW/languages
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    subi1246:
+    - BW
+  iso_639_3:
   - sbs
   lang_id: 143
   lang_name: Sesobea
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kala1384:
+    - BW
+  iso_639_3:
   - kck
   lang_id: 144
   lang_name: Sekalanga
   note: Alt name for Kalanga
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    here1253:
+    - BW
+  iso_639_3:
   - her
   lang_id: 145
   lang_name: Seherero
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mbuk1240:
+    - BW
+  iso_639_3:
   - mhw
   lang_id: 146
   lang_name: Sembukushu
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    birw1238:
+    - BW
+  iso_639_3:
   - brl
   lang_id: 147
   lang_name: Sebirwa
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kgal1244:
+    - BW
+  iso_639_3:
   - xkv
   lang_id: 148
   lang_name: Sengologa
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    yeyi1239:
+    - BW
+  iso_639_3:
   - yey
   lang_id: 149
   lang_name: Seyei
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kabu1256:
+    - CV
+  iso_639_3:
   - kea
   lang_id: 165
   lang_name: Creole
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code:
-    - pri
-    - ago
-    - gbc
-- iso_639_3:
+  - pri
+  - ago
+  - gbc
+- glottocodes:
+    akan1250:
+    - GH
+  iso_639_3:
   - fat
   - twi
   lang_id: 180
   lang_name: AKAN
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ewee1241:
+    - GH
+  iso_639_3:
   - ewe
   lang_id: 181
   lang_name: EWE
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code:
   - ewe
-- iso_639_3:
+- glottocodes:
+    gaaa1244:
+    - GH
+  iso_639_3:
   - gaa
   lang_id: 182
   lang_name: GA
-  question:
+  variables:
   - q103
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    gada1257:
+    - GH
+  iso_639_3:
   - ada
   - gaa
   lang_id: 182
   lang_name: GA/DANGBE
   note: Both Ga and Dangme languages.
-  question:
+  variables:
   - q3
   wals_code: null
-  glottocode: gada1257
-- iso_639_3:
+- glottocodes:
+    dagb1246:
+    - GH
+  iso_639_3:
   - dag
   lang_id: 183
   lang_name: DAGBANI
-  question:
+  variables:
   - q103
   - q114
   wals_code: null
@@ -447,341 +621,471 @@
   - mul
   lang_id: 183
   lang_name: Other Northern Languages
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    haus1257:
+    - GH
+  iso_639_3:
   - hau
   lang_id: 184
   lang_name: HUSA
-  question:
+  variables:
   - q103
   wals_code: null
 - iso_639_3:
   - hau
   lang_id: 184
   lang_name: HAUSA
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    dagb1246:
+    - GH
+  iso_639_3:
   - dag
   lang_id: 184
   lang_name: DAGBANI
-  question:
+  variables:
   - q3
   wals_code: null
 - iso_639_3:
   - und
   lang_id: 185
   lang_name: OTHER
-  question:
+  variables:
   - q103
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    sout2789:
+    - GH
+  iso_639_3:
   - dga
   lang_id: 185
   lang_name: DAGAARE
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kiku1240:
+    - KE
+  iso_639_3:
   - kik
   lang_id: 200
   lang_name: Kikuyu
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    luok1236:
+    - KE
+  iso_639_3:
   - luo
   lang_id: 201
   lang_name: Luo
-  question:
+  note: Kenya
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-  note: >-
-    Kenya
-- iso_639_3: [bxk, nle, ida, lkb, lko, lks, rag, lri, lrm, nyd, lsm, lts, lto]
+- glottocodes:
+    luyi1234:
+    - KE
+  iso_639_3:
+  - bxk
+  - nle
+  - ida
+  - lkb
+  - lko
+  - lks
+  - rag
+  - lri
+  - lrm
+  - nyd
+  - lsm
+  - lts
+  - lto
   lang_id: 202
   lang_name: Luhya
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code:
   - luy
-  glottocode: luyi1234
-- iso_639_3:
+- glottocodes:
+    kamb1297:
+    - KE
+  iso_639_3:
   - kam
   lang_id: 203
   lang_name: Kamba
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    cent2274:
+    - KE
+  iso_639_3:
   - ebu
   - mer
   lang_id: 204
   lang_name: Meru/Embu
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    gusi1247:
+    - KE
+  iso_639_3:
   - guz
   lang_id: 205
   lang_name: Kisii
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3: [eyo, sgc, enb, niq, oki, pko, spy, tec, tuy]
+- glottocodes:
+    kale1246:
+    - KE
+  iso_639_3:
+  - eyo
+  - sgc
+  - enb
+  - niq
+  - oki
+  - pko
+  - spy
+  - tec
+  - tuy
   lang_id: 206
   lang_name: Kalenjin
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code:
-  - "nan"
-  glottocode: kale1246
-- iso_639_3:
+  - nan
+- glottocodes:
+    nucl1431:
+    - KE
+  iso_639_3:
   - mas
   - saq
   lang_id: 207
   lang_name: Masai/Samburu
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    miji1238:
+    - KE
+  iso_639_3:
   - dig
   - dug
   - nyf
   lang_id: 208
   lang_name: Mijikenda
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tait1250:
+    - KE
+  iso_639_3:
   - dav
   lang_id: 209
   lang_name: Taita
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    soma1255:
+    - KE
+  iso_639_3:
   - som
   lang_id: 210
   lang_name: Somali
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    miji1238:
+    - KE
+  iso_639_3:
   - dig
   - dug
   - nyf
   lang_id: 211
   lang_name: Mijikenda
-  question:
+  variables:
   - q103
   wals_code: null
 - iso_639_3:
   - rag
   lang_id: 211
   lang_name: Maragoli
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    poko1263:
+    - KE
+  iso_639_3:
   - pko
   lang_id: 211
   lang_name: Pokot
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    swah1253:
+    - KE
+  iso_639_3:
   - swh
   lang_id: 212
   lang_name: Gunya
   note: Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
-  question:
+  variables:
   - q103
   wals_code: null
 - iso_639_3:
   - luo
   lang_id: 212
   lang_name: Luo/English
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    turk1308:
+    - KE
+  iso_639_3:
   - tuv
   lang_id: 212
   lang_name: Turkana
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    giry1241:
+    - KE
+  iso_639_3:
   - nyf
   lang_id: 213
   lang_name: Giriama
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    digo1243:
+    - KE
+  iso_639_3:
   - dig
   lang_id: 213
   lang_name: Digo
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    swah1253:
+    - KE
+  iso_639_3:
   - swh
   lang_id: 214
   lang_name: Kiswahili/Luhya
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    giry1241:
+    - KE
+  iso_639_3:
   - nyf
   lang_id: 214
   lang_name: Giriama
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - KE
+  iso_639_3:
   - eng
   lang_id: 215
   lang_name: English/Swahili
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    duru1249:
+    - KE
+  iso_639_3:
   - dug
   lang_id: 215
   lang_name: Duruma
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    saba1262:
+    - KE
+  iso_639_3:
   - spy
   lang_id: 216
   lang_name: Sabaot
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    chon1287:
+    - KE
+  iso_639_3:
   - coh
   lang_id: 216
   lang_name: Chonyi
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    burj1242:
+    - KE
+  iso_639_3:
   - bji
   lang_id: 217
   lang_name: Burji
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    swah1253:
+    - KE
+  iso_639_3:
   - swh
   lang_id: 217
   lang_name: Gunya
   note: Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kuri1259:
+    - KE
+  iso_639_3:
   - kuj
   lang_id: 218
   lang_name: Kuria
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    oman1239:
+    - KE
+  iso_639_3:
   - acx
   lang_id: 218
   lang_name: Arabic
-  question:
+  note: Kenya (KE). Arabic (omani, spoken)
+  variables:
   - q3
   wals_code:
   - arg
-  note: >-
-    Kenya (KE). Arabic (omani, spoken)
-- iso_639_3:
+- glottocodes:
+    logo1258:
+    - KE
+  iso_639_3:
   - rag
   lang_id: 219
   lang_name: Maragoli
   note: Alt name for Lulogooli. https://www.ethnologue.com/country/KE/languages
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    sout2807:
+    - LS
+  iso_639_3:
   - sot
   lang_id: 220
   lang_name: Sesotho
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    swat1243:
+    - LS
+  iso_639_3:
   - ssw
   lang_id: 221
   lang_name: Seputi
-  question:
+  note: Lesotho (LS)
+  variables:
   - q103
   wals_code: null
-  note: >-
-    Lesotho (LS)
-- iso_639_3:
+- glottocodes:
+    swat1243:
+    - LS
+  iso_639_3:
   - ssw
   lang_id: 221
   lang_name: Sephuti
-  question:
+  note: Lesotho (LS)
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Lesotho (LS)
-- iso_639_3:
+- glottocodes:
+    plat1254:
+    - MG
+  iso_639_3:
   - plt
   lang_id: 240
   lang_name: malg officiel
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    plat1254:
+    - MG
+  iso_639_3:
   - plt
   lang_id: 240
   lang_name: malagasy officiel
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    plat1254:
+    - MG
+  iso_639_3:
   - plt
   lang_id: 240
   lang_name: malgache officielle
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mala1537:
+    - MG
+  iso_639_3:
   - bhr
   - bmm
   - bzc
@@ -794,10 +1098,13 @@
   - xmw
   lang_id: 241
   lang_name: dialect malg
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mala1537:
+    - MG
+  iso_639_3:
   - bhr
   - bmm
   - bzc
@@ -810,10 +1117,13 @@
   - xmw
   lang_id: 241
   lang_name: dialecte
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mala1537:
+    - MG
+  iso_639_3:
   - bhr
   - bmm
   - bzc
@@ -826,7 +1136,7 @@
   - xmw
   lang_id: 241
   lang_name: langue régionale
-  question:
+  variables:
   - q3
   wals_code: null
 - iso_639_3:
@@ -834,118 +1144,152 @@
   lang_id: 242
   lang_name: chinois
   note: Chinese language.
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    como1260:
+    - MG
+  iso_639_3:
   - zdj
   - swb
   - wni
   - wlc
   lang_id: 243
   lang_name: comorien
-  question:
+  note: Comorien is immmigrant lang of Madagascar https://www-ethnologue-com./country/MG
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Comorien is immmigrant lang of Madagascar https://www-ethnologue-com./country/MG
-- iso_639_3:
+- glottocodes:
+    guja1252:
+    - MG
+  iso_639_3:
   - guj
   lang_id: 244
   lang_name: pakistanais
-  question:
+  note: Madagascar
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Madagascar
-- iso_639_3:
+- glottocodes:
+    tumb1250:
+    - MW
+  iso_639_3:
   - tum
   lang_id: 260
   lang_name: Tumbuka
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyak1260:
+    - MW
+  iso_639_3:
   - nyy
   lang_id: 261
   lang_name: Nkhonde
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    lamb1272:
+    - MW
+  iso_639_3:
   - lai
   lang_id: 262
   lang_name: Lambya
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyan1308:
+    - MW
+  iso_639_3:
   - nya
   lang_id: 263
   lang_name: Chewa
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    yaoo1241:
+    - MW
+  iso_639_3:
   - yao
   lang_id: 264
   lang_name: Yao
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tumb1253:
+    - MW
+  iso_639_3:
   - nya
   - tum
   lang_id: 265
   lang_name: Ngoni
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mala1256:
+    - MW
+  iso_639_3:
   - lon
   lang_id: 266
   lang_name: Lomwe
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyan1308:
+    - MW
+  iso_639_3:
   - nya
   lang_id: 267
   lang_name: Manga'nja
   note: Alt name of Chichewa. https://www.ethnologue.com/country/MW/languages
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mala1475:
+    - MW
+  iso_639_3:
   - swk
   lang_id: 268
   lang_name: Sena
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ndal1241:
+    - MW
+  iso_639_3:
   - ndh
   lang_id: 269
   lang_name: Sukwa
-  question:
+  variables:
   - q103
   - q114
   - q3
@@ -954,120 +1298,153 @@
   - tum
   lang_id: 270
   lang_name: Senga
-  question:
+  note: Malawi
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-  note: Malawi
-- iso_639_3:
+- glottocodes:
+    tong1321:
+    - MW
+  iso_639_3:
   - tog
   lang_id: 271
   lang_name: Tonga
-  question:
+  note: Malawi Tonga
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-  note: >-
-    Malawi Tonga
-- iso_639_3:
+- glottocodes:
+    bamb1269:
+    - ML
+  iso_639_3:
   - bam
   lang_id: 280
   lang_name: Bambara
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    maas1239:
+    - ML
+  iso_639_3:
   - ffm
   lang_id: 281
   lang_name: Peuhl/Fulfulde
-  question:
+  variables:
   - q103
   wals_code: null
 - iso_639_3:
   - ffm
   lang_id: 281
   lang_name: Peuhl / Fulfuldé
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    maas1239:
+    - ML
+  iso_639_3:
   - ffm
   lang_id: 281
   lang_name: Peugl/Fulfulde
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nort3254:
+    - ML
+  iso_639_3:
   - myk
   - spp
   - shz
   lang_id: 282
   lang_name: Senufo
-  question:
+  note: Mali Senufo languages. https://www.ethnologue.com/subgroups/senufo
+  variables:
   - q114
   - q3
   wals_code: null
-  note: >-
-    Mali Senufo languages. https://www.ethnologue.com/subgroups/senufo
-  glottocode: nort3254
-- iso_639_3:
+- glottocodes:
+    mama1271:
+    - ML
+  iso_639_3:
   - myk
   lang_id: 283
   lang_name: Mianka
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    moss1236:
+    - ML
+  iso_639_3:
   - mos
   lang_id: 284
   lang_name: Mossi
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    soni1259:
+    - ML
+  iso_639_3:
   - snk
   lang_id: 285
   lang_name: Sonink
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    soni1259:
+    - ML
+  iso_639_3:
   - snk
   lang_id: 285
   lang_name: Soninké
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    west2499:
+    - ML
+  iso_639_3:
   - mlq
   - mwk
   lang_id: 286
   lang_name: Malink
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    west2499:
+    - ML
+  iso_639_3:
   - mlq
   - mwk
   lang_id: 286
   lang_name: Malinké
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    xaas1235:
+    - ML
+  iso_639_3:
   - kao
   lang_id: 287
   lang_name: Khasonk
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
@@ -1075,16 +1452,19 @@
   - kao
   lang_id: 287
   lang_name: Khasonké
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    dogo1299:
+    - ML
+  iso_639_3:
   - dds
   - djm
   - dts
   lang_id: 288
   lang_name: Dogon
-  question:
+  variables:
   - q103
   - q114
   - q3
@@ -1093,73 +1473,92 @@
   - jms
   - tms
   - dts
-- iso_639_3:
+- glottocodes:
+    bomu1247:
+    - ML
+  iso_639_3:
   - bmq
   lang_id: 289
   lang_name: Bobo
-  question:
+  note: In Mali. Gur Language.
+  variables:
   - q103
   - q114
   - q3
   wals_code:
   - kfe
-  note: >-
-    In Mali. Gur Language.
-- iso_639_3:
+- glottocodes:
+    nucl1444:
+    - ML
+  iso_639_3:
   - boz
   - bze
   lang_id: 290
   lang_name: Bozo
-  question:
+  note: In Mali, use Bozo for Mande and Bobo for Gur.
+  variables:
   - q114
   - q3
   wals_code:
   - boz
-  note: >-
-    In Mali, use Bozo for Mande and Bobo for Gur.
-- iso_639_3:
+- glottocodes:
+    hass1238:
+    - ML
+  iso_639_3:
   - mey
   lang_id: 291
   lang_name: Arabe
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    hass1238:
+    - ML
+  iso_639_3:
   - mey
   lang_id: 292
   lang_name: Maure
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kago1248:
+    - ML
+  iso_639_3:
   - xkg
   lang_id: 293
   lang_name: Kakolo
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    duun1242:
+    - ML
+  iso_639_3:
   - dux
   lang_id: 294
   lang_name: Samoko
   note: Alt name for Duungooma. https://www.ethnologue.com/country/ML/languages
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    song1307:
+    - ML
+  iso_639_3:
   - hmb
   - khq
   - ses
   lang_id: 295
   lang_name: Sonrha
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
@@ -1169,561 +1568,746 @@
   - ses
   lang_id: 295
   lang_name: Sonrhaï
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    koyr1242:
+    - ML
+  iso_639_3:
   - ses
   lang_id: 296
   lang_name: Bella
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tuar1240:
+    - ML
+  iso_639_3:
   - taq
   - ttq
   lang_id: 297
   lang_name: Tamasheq
-  question:
+  note: Mali spoken Tamasheq
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-  note: >-
-    Mali spoken Tamasheq
-- iso_639_3:
+- glottocodes:
+    mark1256:
+    - ML
+  iso_639_3:
   - rkm
   lang_id: 298
   lang_name: Dafing
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    makh1264:
+    - MZ
+  iso_639_3:
   - vmw
   lang_id: 300
   lang_name: Makua
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nucl1396:
+    - MZ
+  iso_639_3:
   - seh
   lang_id: 301
   lang_name: Sena
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ndau1241:
+    - MZ
+  iso_639_3:
   - ndc
   lang_id: 302
   lang_name: Ndau
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyan1308:
+    - MZ
+  iso_639_3:
   - nya
   lang_id: 303
   lang_name: Nyanja
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tson1249:
+    - MZ
+  iso_639_3:
   - tso
   lang_id: 304
   lang_name: Changana
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    chop1243:
+    - MZ
+  iso_639_3:
   - cce
   lang_id: 305
   lang_name: Chope
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    gito1238:
+    - MZ
+  iso_639_3:
   - toh
   lang_id: 306
   lang_name: Bitonga
-  question:
+  note: Mozambique Tonga
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-  note: >-
-    Mozambique Tonga
-- iso_639_3:
+- glottocodes:
+    mako1251:
+    - MZ
+  iso_639_3:
   - kde
   lang_id: 307
   lang_name: Makonde
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    chuw1238:
+    - MZ
+  iso_639_3:
   - chw
   lang_id: 308
   lang_name: Chuabo
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    yaoo1241:
+    - MZ
+  iso_639_3:
   - yao
   lang_id: 309
   lang_name: Ajua
   note: Alt name of Yao is Ajawa. https://www.ethnologue.com/country/MZ/languages
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mwan1247:
+    - MZ
+  iso_639_3:
   - wmw
   lang_id: 310
   lang_name: Quimuane
   note: Quimuane is alt name for Mwani. https://www.ethnologue.com/country/MZ/languages
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mwan1247:
+    - MZ
+  iso_639_3:
   - wmw
   lang_id: 311
   lang_name: Muaui
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    many1258:
+    - MZ
+  iso_639_3:
   - mxc
   lang_id: 312
   lang_name: Nhungue
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mwan1247:
+    - MZ
+  iso_639_3:
   - wmw
   lang_id: 312
   lang_name: Quimuane
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nama1264:
+    - NA
+  iso_639_3:
   - naq
   lang_id: 320
   lang_name: Nama/Damara
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    afri1274:
+    - NA
+  iso_639_3:
   - afr
   lang_id: 321
   lang_name: Afrikaans
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kwan1273:
+    - NA
+  iso_639_3:
   - kwn
   lang_id: 322
   lang_name: Rukwangali
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    lozi1239:
+    - NA
+  iso_639_3:
   - loz
   lang_id: 323
   lang_name: Silozi
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    subi1246:
+    - NA
+  iso_639_3:
   - sbs
   lang_id: 324
   lang_name: Masubia
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1295:
+    - NA
+  iso_639_3:
   - deu
   lang_id: 325
   lang_name: German
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code:
   - ger
-- iso_639_3:
+- glottocodes:
+    kuan1247:
+    - NA
+  iso_639_3:
   - kua
   lang_id: 326
   lang_name: Oshiwambo
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    here1253:
+    - NA
+  iso_639_3:
   - her
   lang_id: 327
   lang_name: Otjiherero
-  question:
+  variables:
   - q103
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    here1253:
+    - NA
+  iso_639_3:
   - her
   lang_id: 327
   lang_name: Okjiherero
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tswa1253:
+    - NA
+  iso_639_3:
   - tsn
   lang_id: 328
   lang_name: Setswana
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    port1283:
+    - NA
+  iso_639_3:
   - por
   lang_id: 329
   lang_name: Angolan:Portuguese
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    umbu1257:
+    - NA
+  iso_639_3:
   - umb
   lang_id: 330
   lang_name: Angolan:Rumbundu
-  question:
+  note: Namibia (NA). Umbundu spoken in Angola.
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Namibia (NA). Umbundu spoken in Angola.
-- iso_639_3:
+- glottocodes:
+    mbuk1240:
+    - NA
+  iso_639_3:
   - mhw
   lang_id: 331
   lang_name: Mbukushu/Thimbukushu
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mbuk1240:
+    - NA
+  iso_639_3:
   - mhw
   lang_id: 331
   lang_name: Other Kavango:Thimbukushu
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kuan1247:
+    - NA
+  iso_639_3:
   - kua
   lang_id: 332
   lang_name: English and Oshiwambo
-  question:
+  note: Oshiwambo (kua)
+  variables:
   - q103
   wals_code: null
-  note: >-
-    Oshiwambo (kua)
-- iso_639_3:
+- glottocodes:
+    diri1252:
+    - NA
+  iso_639_3:
   - diu
   lang_id: 332
   lang_name: Other Kavango:Rugririku
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    afri1274:
+    - NA
+  iso_639_3:
   - afr
   lang_id: 333
   lang_name: English and Afrikaans
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    afri1274:
+    - NA
+  iso_639_3:
   - afr
   lang_id: 334
   lang_name: Afrikaans and Oshiwambo
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - NA
+  iso_639_3:
   - eng
   lang_id: 335
   lang_name: English and local languages
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    afri1274:
+    - NA
+  iso_639_3:
   - afr
   lang_id: 336
   lang_name: Afrikaans and local languages
-  question:
+  note: Afrikaans (afr)
+  variables:
   - q103
   wals_code: null
-  note: >-
-    Afrikaans (afr)
-- iso_639_3:
+- glottocodes:
+    stan1293:
+    - NA
+  iso_639_3:
   - eng
   lang_id: 337
   lang_name: English, Afrikaans and local languages
-  question:
+  note: English (eng), Afrikaans (afr)
+  variables:
   - q103
   wals_code: null
-  note: >-
-    English (eng), Afrikaans (afr)
 - iso_639_3:
   - mul
   lang_id: 338
   lang_name: More than one local language
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nort2795:
+    - NA
+  iso_639_3:
   - nde
   lang_id: 338
   lang_name: Ndebele
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    haus1257:
+    - NG
+  iso_639_3:
   - hau
   lang_id: 340
   lang_name: Hausa
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nucl1417:
+    - NG
+  iso_639_3:
   - ibo
   lang_id: 341
   lang_name: Igbo
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    yoru1245:
+    - NG
+  iso_639_3:
   - yor
   lang_id: 342
   lang_name: Yoruba
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nige1257:
+    - NG
+  iso_639_3:
   - pcm
   lang_id: 343
   lang_name: Pidgin English
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code:
   - npi
-- iso_639_3:
+- glottocodes:
+    efik1245:
+    - NG
+  iso_639_3:
   - efi
   lang_id: 344
   lang_name: Efik
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ebir1243:
+    - NG
+  iso_639_3:
   - igb
   lang_id: 345
   lang_name: Ebira
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    adam1253:
+    - NG
+  iso_639_3:
   - fub
   lang_id: 346
   lang_name: Fulani
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    isok1239:
+    - NG
+  iso_639_3:
   - iso
   lang_id: 347
   lang_name: Isoko
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ibib1240:
+    - NG
+  iso_639_3:
   - ibb
   lang_id: 348
   lang_name: Ibibio
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kanu1281:
+    - NG
+  iso_639_3:
   - kby
   - knc
   lang_id: 349
   lang_name: Kanuri
-  question:
+  note: Nigeria
+  variables:
   - q114
   - q3
   wals_code: null
-  note: >-
-    Nigeria
-- iso_639_3:
+- glottocodes:
+    tivv1240:
+    - NG
+  iso_639_3:
   - tiv
   lang_id: 350
   lang_name: Tiv
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nupe1254:
+    - NG
+  iso_639_3:
   - nup
   lang_id: 351
   lang_name: Nupe
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ijoo1239:
+    - NG
+  iso_639_3:
   - ijc
   - ijs
   lang_id: 352
   lang_name: Ijaw
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    bini1246:
+    - NG
+  iso_639_3:
   - bin
   lang_id: 353
   lang_name: Edo
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    igal1242:
+    - NG
+  iso_639_3:
   - igl
   lang_id: 354
   lang_name: Igala
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    urho1239:
+    - NG
+  iso_639_3:
   - urh
   lang_id: 355
   lang_name: Urhobo
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    idom1241:
+    - NG
+  iso_639_3:
   - idu
   lang_id: 356
   lang_name: Idoma
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    basa1282:
+    - NG
+  iso_639_3:
   - bzw
   lang_id: 357
   lang_name: Bassa
-  question:
+  note: Nigerian Bassa
+  variables:
   - q114
   - q3
   wals_code:
   - duk
-  note: Nigerian Bassa
-- iso_639_3:
+- glottocodes:
+    ikwe1242:
+    - NG
+  iso_639_3:
   - ikw
   lang_id: 358
   lang_name: Ikwere
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ukwu1241:
+    - NG
+  iso_639_3:
   - ukw
   lang_id: 359
   lang_name: Ukwani
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nucl1347:
+    - SN
+  iso_639_3:
   - wol
   lang_id: 360
   lang_name: Wolof
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    pula1262:
+    - SN
+  iso_639_3:
   - fuf
   lang_id: 361
   lang_name: Pular
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    sere1260:
+    - SN
+  iso_639_3:
   - srr
   lang_id: 362
   lang_name: Serer
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mand1436:
+    - SN
+  iso_639_3:
   - mnk
   lang_id: 363
   lang_name: Mandinka
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    soni1259:
+    - SN
+  iso_639_3:
   - snk
   lang_id: 364
   lang_name: Sonike
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
@@ -1731,533 +2315,714 @@
   - snk
   lang_id: 364
   lang_name: Soninke
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    jola1263:
+    - SN
+  iso_639_3:
   - dyo
   lang_id: 365
   lang_name: Diola
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mand1419:
+    - SN
+  iso_639_3:
   - mfv
   lang_id: 366
   lang_name: Manjack
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mand1436:
+    - SN
+  iso_639_3:
   - mnk
   lang_id: 367
   lang_name: Bamabara
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mand1436:
+    - SN
+  iso_639_3:
   - mnk
   lang_id: 367
   lang_name: Bambara
-  question:
+  note: Senegal. SN. Use closely related Mandinka for Senegal ()
+  variables:
   - q114
   - q3
   wals_code: null
-  note: >-
-    Senegal. SN. Use closely related Mandinka for Senegal ()
-- iso_639_3:
+- glottocodes:
+    bain1261:
+    - SN
+  iso_639_3:
   - bcb
   - bcz
   lang_id: 368
   lang_name: Bainouk
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-  glottocode: bain1261
 - iso_639_3:
   - bsc
   lang_id: 369
   lang_name: Bassari
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyak1260:
+    - TZ
+  iso_639_3:
   - nyy
   lang_id: 380
   lang_name: Kinyakyusa
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    moch1256:
+    - TZ
+  iso_639_3:
   - old
   lang_id: 381
   lang_name: Kichaga
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    haya1250:
+    - TZ
+  iso_639_3:
   - hay
   lang_id: 382
   lang_name: Kihaya
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ngon1269:
+    - TZ
+  iso_639_3:
   - ngo
   lang_id: 383
   lang_name: Kingoni
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kere1283:
+    - TZ
+  iso_639_3:
   - ked
   lang_id: 384
   lang_name: Kikwere
-  question:
+  note: Kerewe (Ked) and Kikwere (cwe) spoken in TZ, but Kerewe (ked) has more speakers
+    and is 6a vs. 6b.
+  variables:
   - q114
   - q3
   wals_code: null
-  note: >-
-    Kerewe (Ked) and Kikwere (cwe) spoken in TZ, but
-    Kerewe (ked) has more speakers and is 6a vs. 6b.
-- iso_639_3:
+- glottocodes:
+    asut1235:
+    - TZ
+  iso_639_3:
   - asa
   lang_id: 385
   lang_name: Kipare
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    hehe1240:
+    - TZ
+  iso_639_3:
   - heh
   lang_id: 386
   lang_name: Kihehe
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mako1251:
+    - TZ
+  iso_639_3:
   - kde
   lang_id: 387
   lang_name: Kimakonde
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyam1276:
+    - TZ
+  iso_639_3:
   - nym
   lang_id: 388
   lang_name: Kinyamwezi
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    suku1261:
+    - TZ
+  iso_639_3:
   - suk
   lang_id: 389
   lang_name: Kisukuma
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    masa1300:
+    - TZ
+  iso_639_3:
   - mas
   lang_id: 390
   lang_name: Kimasai
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    rwaa1238:
+    - TZ
+  iso_639_3:
   - rwk
   lang_id: 391
   lang_name: Kimeru
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kuri1259:
+    - TZ
+  iso_639_3:
   - kuj
   lang_id: 392
   lang_name: Kikurya
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    gogo1263:
+    - TZ
+  iso_639_3:
   - gog
   lang_id: 393
   lang_name: Kigogo
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    lugu1238:
+    - TZ
+  iso_639_3:
   - ruf
   lang_id: 394
   lang_name: Kiluguru
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    fipa1238:
+    - TZ
+  iso_639_3:
   - fip
   lang_id: 395
   lang_name: Kifipa
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyam1276:
+    - TZ
+  iso_639_3:
   - nym
   lang_id: 396
   lang_name: Kimanyema
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nila1242:
+    - TZ
+  iso_639_3:
   - nim
   lang_id: 397
   lang_name: Kinyiramba
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyat1246:
+    - TZ
+  iso_639_3:
   - rim
   lang_id: 398
   lang_name: Kinyaturu
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kara1483:
+    - UG
+  iso_639_3:
   - kdj
   lang_id: 405
   lang_name: Akaramojonj
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    alur1250:
+    - UG
+  iso_639_3:
   - alz
   lang_id: 406
   lang_name: Alur
-  question:
+  variables:
   - q103
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    alur1250:
+    - UG
+  iso_639_3:
   - alz
   lang_id: 406
   lang_name: Akur
   note: Should be "Alur"
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    teso1249:
+    - UG
+  iso_639_3:
   - teo
   lang_id: 407
   lang_name: Ateso
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    adho1243:
+    - UG
+  iso_639_3:
   - adh
   lang_id: 408
   lang_name: Japadhola
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    alur1250:
+    - UG
+  iso_639_3:
   - alz
   lang_id: 409
   lang_name: Jonam
   note: Dialect of Alur. https://www.ethnologue.com/country/UG/languages
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kakw1240:
+    - UG
+  iso_639_3:
   - keo
   lang_id: 410
   lang_name: Kakwa
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kuma1275:
+    - UG
+  iso_639_3:
   - kdi
   lang_id: 411
   lang_name: Kumam
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kups1238:
+    - UG
+  iso_639_3:
   - kpz
   lang_id: 412
   lang_name: Kuksabin
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
-    - ach
+- glottocodes:
+    acol1236:
+    - UG
+  iso_639_3:
+  - ach
   lang_id: 413
   lang_name: Luo
-  question:
+  note: Uganda (UG). Use Acholi.
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-  note: >-
-    Uganda (UG). Use Acholi.
-- iso_639_3:
+- glottocodes:
+    lugb1240:
+    - UG
+  iso_639_3:
   - lgg
   lang_id: 414
   lang_name: Lugbara
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    gwer1238:
+    - UG
+  iso_639_3:
   - gwr
   lang_id: 415
   lang_name: Lugwere
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    sout2827:
+    - UG
+  iso_639_3:
   - mhi
   - snm
   lang_id: 416
   lang_name: Madi
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    gand1255:
+    - UG
+  iso_639_3:
   - lug
   lang_id: 417
   lang_name: Luganda
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    masa1299:
+    - UG
+  iso_639_3:
   - myx
   lang_id: 418
   lang_name: Lumasaba
-  question:
+  variables:
   - q103
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    masa1299:
+    - UG
+  iso_639_3:
   - myx
   lang_id: 418
   lang_name: Lugishu/Lumasaba
   note: Alt names for Masaaba. https://www.ethnologue.com/country/UG/languages
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    soga1242:
+    - UG
+  iso_639_3:
   - xog
   lang_id: 419
   lang_name: Lusoga
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    bemb1257:
+    - ZM
+  iso_639_3:
   - bem
   lang_id: 420
   lang_name: Bemba
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyan1308:
+    - ZM
+  iso_639_3:
   - nya
   lang_id: 421
   lang_name: Nyanja
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tong1318:
+    - ZM
+  iso_639_3:
   - toi
   lang_id: 422
   lang_name: Tonga
-  question:
+  note: Zambia.
+  variables:
   - q103
   - q114
   - q3
   wals_code:
   - toz
-  note: >-
-    Zambia.
-- iso_639_3:
+- glottocodes:
+    lozi1239:
+    - ZM
+  iso_639_3:
   - loz
   lang_id: 423
   lang_name: Lozi
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyan1308:
+    - ZM
+  iso_639_3:
   - nya
   lang_id: 424
   lang_name: Chewa
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nsen1242:
+    - ZM
+  iso_639_3:
   - nse
   lang_id: 425
   lang_name: Nsenga
-  question:
+  note: Zambia
+  variables:
   - q114
   - q3
   wals_code: null
-  note: Zambia
-- iso_639_3:
+- glottocodes:
+    tumb1250:
+    - ZM
+  iso_639_3:
   - tum
   lang_id: 426
   lang_name: Tumbuka
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kaon1241:
+    - ZM
+  iso_639_3:
   - kqn
   lang_id: 427
   lang_name: Kaonda
-  question:
+  variables:
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kaon1241:
+    - ZM
+  iso_639_3:
   - kqn
   lang_id: 427
   lang_name: Kaonde
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    luva1239:
+    - ZM
+  iso_639_3:
   - lue
   lang_id: 428
   lang_name: Luvale
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyam1275:
+    - ZM
+  iso_639_3:
   - mwn
   lang_id: 429
   lang_name: Namwanga
-  question:
+  note: Malawi (MW). Nyamwanga spoken in ZM, TZ.
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Malawi (MW). Nyamwanga spoken in ZM, TZ.
-- iso_639_3:
+- glottocodes:
+    lala1264:
+    - ZM
+  iso_639_3:
   - leb
   lang_id: 431
   lang_name: Bisa
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ilaa1246:
+    - ZM
+  iso_639_3:
   - ilb
   lang_id: 432
   lang_name: lla
   note: Typo. This should be "Ila".
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyan1308:
+    - ZM
+  iso_639_3:
   - nya
   lang_id: 433
   lang_name: Nkaya
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mamb1296:
+    - ZM
+  iso_639_3:
   - mgr
   lang_id: 434
   lang_name: Mambwe
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    lund1266:
+    - ZM
+  iso_639_3:
   - lun
   lang_id: 435
   lang_name: Lunda
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    lenj1248:
+    - ZM
+  iso_639_3:
   - leh
   lang_id: 436
   lang_name: Lenje
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    lamb1271:
+    - ZM
+  iso_639_3:
   - lam
   lang_id: 437
   lang_name: Lamba
-  question:
+  note: Zambia (ZM)
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Zambia (ZM)
-- iso_639_3:
+- glottocodes:
+    mbun1249:
+    - ZM
+  iso_639_3:
   - mck
   lang_id: 438
   lang_name: Mbunda
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nsen1242:
+    - ZM
+  iso_639_3:
   - nse
   lang_id: 439
   lang_name: Ngoni
-  question:
+  note: In Zambia, Ngoni is dialect of Nsenga but also Chichewa.
+  variables:
   - q3
   wals_code: null
-  note: >-
-    In Zambia, Ngoni is dialect of Nsenga but also Chichewa.
-- iso_639_3:
+- glottocodes:
+    nort2795:
+    - ZW
+  iso_639_3:
   - nde
   lang_id: 440
   lang_name: Ndebele
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    shon1251:
+    - ZW
+  iso_639_3:
   - sna
   lang_id: 441
   lang_name: Shona
-  question:
+  variables:
   - q103
   - q114
   - q3
@@ -2266,154 +3031,207 @@
   - ven
   lang_id: 442
   lang_name: Venda
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kala1384:
+    - ZW
+  iso_639_3:
   - kck
   lang_id: 443
   lang_name: Kalanga
-  question:
+  variables:
   - q103
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tong1318:
+    - ZW
+  iso_639_3:
   - toi
   lang_id: 444
   lang_name: Tonga
-  question:
+  note: Zimbabwe
+  variables:
   - q103
   - q114
   - q3
   wals_code:
   - toz
-  note: >-
-    Zimbabwe
-- iso_639_3:
+- glottocodes:
+    nyol1238:
+    - UG
+  iso_639_3:
   - nuj
   lang_id: 500
   lang_name: Lunyoli
   note: Alt name for Nyole. https://www.ethnologue.com/country/UG/languages
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kiny1244:
+    - UG
+  iso_639_3:
   - kin
   lang_id: 501
   lang_name: Rufumbia
   note: Alt name for Fumbira. https://www.ethnologue.com/country/UG/languages
-  question:
+  variables:
   - q103
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kiny1244:
+    - UG
+  iso_639_3:
   - kin
   lang_id: 501
   lang_name: Rufumbira
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyan1307:
+    - UG
+  iso_639_3:
   - nyn
   lang_id: 502
   lang_name: Ruhororo
   note: Hororo is a dialect of Nyankore. https://www.ethnologue.com/country/UG/languages
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    chig1238:
+    - UG
+  iso_639_3:
   - cgg
   lang_id: 503
   lang_name: Rukiga
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    konz1239:
+    - UG
+  iso_639_3:
   - koo
   lang_id: 504
   lang_name: Rukonzo
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kiny1244:
+    - UG
+  iso_639_3:
   - kin
   lang_id: 505
   lang_name: Runyarwanda
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyor1247:
+    - UG
+  iso_639_3:
   - nyo
   - ttj
   lang_id: 506
   lang_name: Runyoro - Rutooro
   note: Both Tooro and Nyoro, which are very similar. https://www.ethnologue.com/country/UG/languages
-  question:
+  variables:
   - q103
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyor1246:
+    - UG
+  iso_639_3:
   - nyo
   lang_id: 506
   lang_name: Runyoro
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyor1246:
+    - UG
+  iso_639_3:
   - nyo
   lang_id: 507
   lang_name: Rutagwenda
   note: Dialect of Nyoro. https://www.ethnologue.com/country/UG/languages
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    toor1238:
+    - UG
+  iso_639_3:
   - ttj
   lang_id: 508
   lang_name: Rutooro
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    amba1263:
+    - UG
+  iso_639_3:
   - rwm
   lang_id: 509
   lang_name: Rwamba
   note: Alt name for Amba. https://www.ethnologue.com/country/UG/languages
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nkor1241:
+    - UG
+  iso_639_3:
   - cgg
   - nyn
   lang_id: 510
   lang_name: Runyankole - Rukiga
-  question:
+  variables:
   - q103
   - q114
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyan1307:
+    - UG
+  iso_639_3:
   - nyn
   lang_id: 510
   lang_name: Runyankole
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    saam1283:
+    - UG
+  iso_639_3:
   - lsm
   lang_id: 511
   lang_name: Samia
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    anaa1238:
+    - NG
+  iso_639_3:
   - anw
   lang_id: 550
   lang_name: Anang
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
@@ -2421,24 +3239,31 @@
   - cla
   lang_id: 551
   lang_name: Ron
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    goem1240:
+    - NG
+  iso_639_3:
   - ank
   lang_id: 552
   lang_name: Geomai
   note: Goemai
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kada1284:
+    - NG
+  iso_639_3:
   - kad
   lang_id: 553
   lang_name: Kadara
-  question:
+  note: Provide WALS codes to include Platoid, and exclude Bantoid genus.
+  variables:
   - q114
   - q3
   wals_code:
@@ -2448,88 +3273,116 @@
   - kgm
   - mdz
   - tok
-  note: >-
-    Provide WALS codes to include Platoid, and exclude Bantoid genus.
-- iso_639_3:
+- glottocodes:
+    fyam1238:
+    - NG
+  iso_639_3:
   - pym
   lang_id: 554
   lang_name: Pyam
   note: Fyam
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kohu1244:
+    - NG
+  iso_639_3:
   - bcs
   lang_id: 555
   lang_name: Bahumono
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    boky1238:
+    - NG
+  iso_639_3:
   - bky
   lang_id: 556
   lang_name: Boki
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    loka1252:
+    - NG
+  iso_639_3:
   - yaz
   lang_id: 557
   lang_name: Yakurr
   note: A dialect of Lokaa. https://www.ethnologue.com/country/NG/languages
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    esan1238:
+    - NG
+  iso_639_3:
   - ish
   lang_id: 558
   lang_name: Esan
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    vagh1247:
+    - NG
+  iso_639_3:
   - bij
   lang_id: 559
   lang_name: Bijim
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    ekpe1253:
+    - NG
+  iso_639_3:
   - ekp
   lang_id: 560
   lang_name: Ekpeye
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    idun1241:
+    - NG
+  iso_639_3:
   - ldb
   lang_id: 561
   lang_name: Jaba
   note: Alt name for Duya
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    bero1242:
+    - NG
+  iso_639_3:
   - bom
   lang_id: 562
   lang_name: Birom
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    iged1239:
+    - NG
+  iso_639_3:
   - ige
   lang_id: 563
   lang_name: Igede
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
@@ -2537,160 +3390,214 @@
   - pym
   lang_id: 564
   lang_name: Pyem
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    taro1263:
+    - NG
+  iso_639_3:
   - yer
   lang_id: 565
   lang_name: Taroh
   note: Tarok
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    koro1301:
+    - NG
+  iso_639_3:
   - ahs
   - ldb
   - bqv
-  - "yes"
+  - 'yes'
   lang_id: 566
   lang_name: Korro
-  note: 'https://www.ethnologue.com/subgroups/koro'
-  question:
+  note: https://www.ethnologue.com/subgroups/koro
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    khan1278:
+    - NG
+  iso_639_3:
   - ogo
   lang_id: 567
   lang_name: Ogoni
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    cros1244:
+    - NG
+  iso_639_3:
   - mfn
   lang_id: 568
   lang_name: Mbembe
-  question:
+  note: 'Languages
+
+    - Cross River Mbembe (mfn) Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo,
+    Jukunoid, Central, Jukun-Mbembe-Wurbo, Mbembe - Tigon Mbembe (nza) Niger-Congo,
+    Atlantic-Congo, Volta-Congo, Benue-Congo, Cross River, Delta Cross, Upper Cross,
+    Central, East-West, Mbembe-Legbo, Mbembe
+
+    These are different. Tigon Mbembe is assoc with Cameroon.'
+  variables:
   - q114
   - q3
   wals_code: null
-  note: >-
-    Languages
-
-    - Cross River Mbembe (mfn) Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Jukunoid, Central, Jukun-Mbembe-Wurbo, Mbembe
-    - Tigon Mbembe (nza) Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Cross River, Delta Cross, Upper Cross, Central, East-West, Mbembe-Legbo, Mbembe
-
-    These are different. Tigon Mbembe is assoc with Cameroon.
-
-- iso_639_3:
+- glottocodes:
+    saya1246:
+    - NG
+  iso_639_3:
   - say
   lang_id: 569
   lang_name: Sayawa
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    isek1239:
+    - NG
+  iso_639_3:
   - its
   lang_id: 580
   lang_name: Itsekiri
-  question:
+  variables:
   - q114
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tach1242:
+    - KE
+  iso_639_3:
   - lts
   lang_id: 803
   lang_name: Tanchoni
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    buku1249:
+    - KE
+  iso_639_3:
   - bxk
   lang_id: 804
   lang_name: Bukusu
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nyor1244:
+    - KE
+  iso_639_3:
   - nyd
   lang_id: 805
   lang_name: Nyore
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mara1392:
+    - KE
+  iso_639_3:
   - lrm
   lang_id: 806
   lang_name: Marama
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    saba1262:
+    - KE
+  iso_639_3:
   - spy
   lang_id: 807
   lang_name: Sabaot
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    wang1294:
+    - KE
+  iso_639_3:
   - lwg
   lang_id: 808
   lang_name: Wanga
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kabr1240:
+    - KE
+  iso_639_3:
   - lkb
   lang_id: 809
   lang_name: Kabarasi
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    east2409:
+    - KE
+  iso_639_3:
   - nle
   lang_id: 810
   lang_name: Nyala
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tsot1241:
+    - KE
+  iso_639_3:
   - lto
   lang_id: 811
   lang_name: Vatsotso
-  question:
+  variables:
   - q3
   wals_code: null
 - iso_639_3:
   - eyo
   lang_id: 812
   lang_name: Keiyo
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kips1239:
+    - KE
+  iso_639_3:
   - sgc
   lang_id: 813
   lang_name: Kipsigis
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tuge1241:
+    - KE
+  iso_639_3:
   - tuy
   lang_id: 814
   lang_name: Tugen
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    bora1271:
+    - KE
+  iso_639_3:
   - gax
   lang_id: 815
   lang_name: Boran
-  question:
+  variables:
   - q103
   - q3
   wals_code: null
@@ -2698,99 +3605,128 @@
   - gax
   lang_id: 816
   lang_name: Ethopian/Kenyan
-  question:
+  note: Borana is widely spoken Kenyan version of Oromo.
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Borana is widely spoken Kenyan version of Oromo.
-- iso_639_3:
+- glottocodes:
+    guja1252:
+    - KE
+  iso_639_3:
   - guj
   lang_id: 817
   lang_name: Indian
-  question:
+  note: Kenya (KE). Gujarati is most common Indian lang spoken in Kenya. https://www.ethnologue.com/country/KE/languages
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Kenya (KE). Gujarati is most common Indian lang spoken in Kenya.
-    https://www.ethnologue.com/country/KE/languages
-- iso_639_3:
+- glottocodes:
+    burj1242:
+    - KE
+  iso_639_3:
   - bji
   lang_id: 818
   lang_name: Burji
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    kuri1259:
+    - KE
+  iso_639_3:
   - kuj
   lang_id: 819
   lang_name: Kuria
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    garr1259:
+    - KE
+  iso_639_3:
   - gex
   lang_id: 820
   lang_name: Gare
-  question:
+  note: Kenya. Garre spoken in Somalia.
+  variables:
   - q3
   wals_code: null
-  note: >-
-    Kenya. Garre spoken in Somalia.
-- iso_639_3:
+- glottocodes:
+    soli1239:
+    - ZM
+  iso_639_3:
   - sby
   lang_id: 860
   lang_name: Soli
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    nsen1242:
+    - ZM
+  iso_639_3:
   - nse
   lang_id: 861
   lang_name: Senga
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    chok1245:
+    - ZM
+  iso_639_3:
   - cjk
   lang_id: 862
   lang_name: Chokwe
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    luch1239:
+    - ZM
+  iso_639_3:
   - lch
   lang_id: 863
   lang_name: Luchazi
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    mash1267:
+    - ZM
+  iso_639_3:
   - mho
   lang_id: 864
   lang_name: Kwamashi
   note: Mashi
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    tong1318:
+    - ZM
+  iso_639_3:
   - toi
   lang_id: 865
   lang_name: Tokaleya
-  question:
+  variables:
   - q3
   wals_code: null
-- iso_639_3:
+- glottocodes:
+    lala1264:
+    - ZM
+  iso_639_3:
   - leb
   lang_id: 866
   lang_name: Lala
-  question:
+  variables:
   - q3
   wals_code: null
 - iso_639_3:
   - und
   lang_id: 995
   lang_name: Other
-  question:
+  variables:
   - q103
   - q114
   - q3
@@ -2799,13 +3735,13 @@
   - und
   lang_id: 998
   lang_name: Refused
-  question:
+  variables:
   - q3
   wals_code: null
 - iso_639_3:
   - und
   lang_id: 999
   lang_name: Don't know
-  question:
+  variables:
   - q3
   wals_code: null

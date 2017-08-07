@@ -2,6 +2,7 @@
   iso_639_3:
   - mis
   lang_name: bella
+  glottocode: null
 - country: BF
   iso_639_3:
   - bwq
@@ -27,6 +28,7 @@
   iso_639_3:
   - mis
   lang_name: docces
+  glottocode: null
 - country: BF
   iso_639_3:
   - djm
@@ -55,6 +57,7 @@
   iso_639_3:
   - mis
   lang_name: donsin
+  glottocode: null
 - country: BF
   iso_639_3:
     - cpo
@@ -71,14 +74,17 @@
   iso_639_3:
   - mis
   lang_name: kado
+  glottocode: null
 - country: BF
   iso_639_3:
   - mis
   lang_name: karaboro
+  glottocode: null
 - country: BF
   iso_639_3:
   - mis
   lang_name: karakan
+  glottocode: null
 - country: BF
   iso_639_3:
   - kqm

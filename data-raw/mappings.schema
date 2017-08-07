@@ -14,7 +14,7 @@
           "lang_name": {
             "type": "string"
           },
-          "question": {
+          "variables": {
             "type": "array",
             "items": {
               "type": "string",
@@ -54,7 +54,8 @@
                 "items": {
                   "type": "string",
                   "pattern": "^[a-z]{2,3}$"
-                }
+              },
+              "minItems": 1
               },
               {
                 "type": "object",
@@ -64,7 +65,8 @@
                     "items": {
                       "type": "string",
                       "pattern": "^[A-Z]{2}$"
-                    }
+                  },
+                  "minItems": 1
                   }
                 },
                 "additionalProperties": false
@@ -78,19 +80,30 @@
               {"type": "string"}
             ]
           },
-          "glottocode": {
+          "glottocodes": {
             "anyOf": [
               {"type": "null"},
               {
                 "type": "string",
-                "pattern": "^[a-z]{4}[0-9]{4}$"
+                "pattern": "^[a-z0-9]{4}[0-9]{4}$"
+              },
+              {
+                "type": "object",
+                "patternProperties": {
+                  "^[A-Z]{2}$": {
+                      "type": "string",
+                      "pattern": "^[a-z0-9]{4}[0-9]{4}$"
+                   }
+                },
+                "additionalProperties": false,
+                "minProperties": 1
               }
             ]
           }
         },
         "required": [
             "lang_id",
-            "question",
+            "variables",
             "iso_639_3"
         ],
         "type": "object",
