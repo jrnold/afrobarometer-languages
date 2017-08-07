@@ -1,4 +1,5 @@
-- iso_639_3:
+- glottocodes: null
+  iso_639_3:
   - und
   lang_id: -1
   lang_name: Missing
@@ -7,22 +8,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    stan1293:
-    - LR
-    - LS
-    - MW
-    - ZW
-    - MZ
-    - ZA
-    - BF
-    - NG
-    - GH
-    - ZM
-    - NA
-    - KE
-    - BW
-    - UG
+- glottocodes: stan1293
   iso_639_3:
   - eng
   lang_id: 1
@@ -32,14 +18,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    stan1290:
-    - MG
-    - BF
-    - ML
-    - BJ
-    - SN
-    - UG
+- glottocodes: stan1290
   iso_639_3:
   - fra
   lang_id: 2
@@ -49,12 +28,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    port1283:
-    - NA
-    - ZA
-    - MZ
-    - UG
+- glottocodes: port1283
   iso_639_3:
   - por
   lang_id: 3
@@ -64,11 +38,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    swah1253:
-    - KE
-    - TZ
-    - UG
+- glottocodes: swah1253
   iso_639_3:
   - swh
   lang_id: 4
@@ -78,9 +48,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    fonn1241:
-    - BJ
+- glottocodes: fonn1241
   iso_639_3:
   - fon
   lang_id: 100
@@ -90,9 +58,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ajab1235:
-    - BJ
+- glottocodes: ajab1235
   iso_639_3:
   - ajg
   lang_id: 101
@@ -102,9 +68,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    baat1238:
-    - BJ
+- glottocodes: baat1238
   iso_639_3:
   - bba
   lang_id: 102
@@ -114,9 +78,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    dend1243:
-    - BJ
+- glottocodes: dend1243
   iso_639_3:
   - ddn
   lang_id: 103
@@ -126,9 +88,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    yoru1245:
-    - BJ
+- glottocodes: yoru1245
   iso_639_3:
   - yor
   lang_id: 104
@@ -138,9 +98,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    dita1238:
-    - BJ
+- glottocodes: dita1238
   iso_639_3:
   - tbz
   lang_id: 105
@@ -150,9 +108,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    fula1264:
-    - BJ
+- glottocodes: fula1264
   iso_639_3:
   - fue
   - fuh
@@ -163,9 +119,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    yomm1242:
-    - BJ
+- glottocodes: yomm1242
   iso_639_3:
   - pil
   lang_id: 107
@@ -175,9 +129,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    gunn1250:
-    - BJ
+- glottocodes: gunn1250
   iso_639_3:
   - guw
   lang_id: 108
@@ -188,9 +140,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    genn1243:
-    - BJ
+- glottocodes: genn1243
   iso_639_3:
   - gej
   lang_id: 109
@@ -200,9 +150,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    edei1244:
-    - BJ
+- glottocodes: edei1244
   iso_639_3:
   - idd
   lang_id: 110
@@ -212,9 +160,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    edec1238:
-    - BJ
+- glottocodes: edec1238
   iso_639_3:
   - cbj
   lang_id: 111
@@ -229,9 +175,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    waam1244:
-    - BJ
+- glottocodes: waam1244
   iso_639_3:
   - wwa
   lang_id: 112
@@ -241,9 +185,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tswa1253:
-    - BW
+- glottocodes: tswa1253
   iso_639_3:
   - tsn
   lang_id: 140
@@ -253,9 +195,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tsoa1238:
-    - BW
+- glottocodes: tsoa1238
   iso_639_3:
   - hio
   lang_id: 141
@@ -265,9 +205,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kgal1244:
-    - BW
+- glottocodes: kgal1244
   iso_639_3:
   - xkv
   lang_id: 142
@@ -277,9 +215,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    subi1246:
-    - BW
+- glottocodes: subi1246
   iso_639_3:
   - sbs
   lang_id: 143
@@ -289,9 +225,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kala1384:
-    - BW
+- glottocodes: kala1384
   iso_639_3:
   - kck
   lang_id: 144
@@ -301,9 +235,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    here1253:
-    - BW
+- glottocodes: here1253
   iso_639_3:
   - her
   lang_id: 145
@@ -313,9 +245,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mbuk1240:
-    - BW
+- glottocodes: mbuk1240
   iso_639_3:
   - mhw
   lang_id: 146
@@ -325,9 +255,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    birw1238:
-    - BW
+- glottocodes: birw1238
   iso_639_3:
   - brl
   lang_id: 147
@@ -337,9 +265,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kgal1244:
-    - BW
+- glottocodes: kgal1244
   iso_639_3:
   - xkv
   lang_id: 148
@@ -349,9 +275,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    yeyi1239:
-    - BW
+- glottocodes: yeyi1239
   iso_639_3:
   - yey
   lang_id: 149
@@ -380,9 +304,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tswa1237:
-    - BW
+- glottocodes: tswa1237
   iso_639_3:
   - two
   lang_id: 152
@@ -392,9 +314,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    moss1236:
-    - BF
+- glottocodes: moss1236
   iso_639_3:
   - mos
   lang_id: 182
@@ -404,9 +324,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    dyul1238:
-    - BF
+- glottocodes: dyul1238
   iso_639_3:
   - dyu
   lang_id: 183
@@ -416,9 +334,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    west2454:
-    - BF
+- glottocodes: west2454
   iso_639_3:
   - fuh
   lang_id: 184
@@ -428,9 +344,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    gour1243:
-    - BF
+- glottocodes: gour1243
   iso_639_3:
   - gux
   lang_id: 185
@@ -440,9 +354,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    fare1241:
-    - BF
+- glottocodes: fare1241
   iso_639_3:
   - gur
   lang_id: 186
@@ -452,9 +364,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bobo1253:
-    - BF
+- glottocodes: bobo1253
   iso_639_3:
   - bwq
   - bbo
@@ -467,9 +377,7 @@
   - Q3
   wals_code:
   - bbf
-- glottocodes:
-    biss1248:
-    - BF
+- glottocodes: biss1248
   iso_639_3:
   - bib
   lang_id: 188
@@ -479,9 +387,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nort2780:
-    - BF
+- glottocodes: nort2780
   iso_639_3:
   - dgi
   lang_id: 189
@@ -491,9 +397,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    malb1235:
-    - BF
+- glottocodes: malb1235
   iso_639_3:
   - bfo
   lang_id: 190
@@ -503,9 +407,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lobi1245:
-    - BF
+- glottocodes: lobi1245
   iso_639_3:
   - lob
   lang_id: 191
@@ -515,9 +417,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mand1437:
-    - BF
+- glottocodes: mand1437
   iso_639_3:
   - sbd
   - stj
@@ -529,9 +429,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    senu1239:
-    - BF
+- glottocodes: senu1239
   iso_639_3:
   - xrb
   - kza
@@ -546,9 +444,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    zarm1239:
-    - BF
+- glottocodes: zarm1239
   iso_639_3:
   - dje
   lang_id: 194
@@ -558,9 +454,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    cerm1238:
-    - BF
+- glottocodes: cerm1238
   iso_639_3:
   - cme
   lang_id: 195
@@ -570,9 +464,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    turk1306:
-    - BF
+- glottocodes: turk1306
   iso_639_3:
   - tuz
   lang_id: 196
@@ -582,9 +474,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    moss1236:
-    - BF
+- glottocodes: moss1236
   iso_639_3:
   - mos
   lang_id: 197
@@ -595,9 +485,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mark1256:
-    - BF
+- glottocodes: mark1256
   iso_639_3:
   - rkm
   lang_id: 198
@@ -607,9 +495,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bwam1247:
-    - BF
+- glottocodes: bwam1247
   iso_639_3:
   - box
   - bmq
@@ -622,9 +508,7 @@
   - Q3
   wals_code:
   - kfe
-- glottocodes:
-    kara1479:
-    - BF
+- glottocodes: kara1479
   iso_639_3:
   - kza
   - xrb
@@ -635,9 +519,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    koro1298:
-    - BF
+- glottocodes: koro1298
   iso_639_3:
   - kfz
   lang_id: 201
@@ -647,9 +529,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    humb1243:
-    - BF
+- glottocodes: humb1243
   iso_639_3:
   - hmb
   lang_id: 202
@@ -659,9 +539,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kabu1256:
-    - CV
+- glottocodes: kabu1256
   iso_639_3:
   - kea
   lang_id: 220
@@ -674,9 +552,7 @@
   - pri
   - ago
   - gbc
-- glottocodes:
-    port1283:
-    - CV
+- glottocodes: port1283
   iso_639_3:
   - por
   lang_id: 221
@@ -686,9 +562,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    akan1250:
-    - GH
+- glottocodes: akan1250
   iso_639_3:
   - fat
   - twi
@@ -699,9 +573,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ewee1241:
-    - GH
+- glottocodes: ewee1241
   iso_639_3:
   - ewe
   lang_id: 261
@@ -712,9 +584,7 @@
   - Q3
   wals_code:
   - ewe
-- glottocodes:
-    gada1257:
-    - GH
+- glottocodes: gada1257
   iso_639_3:
   - ada
   - gaa
@@ -725,9 +595,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    dagb1246:
-    - GH
+- glottocodes: dagb1246
   iso_639_3:
   - dag
   lang_id: 263
@@ -737,9 +605,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    haus1257:
-    - GH
+- glottocodes: haus1257
   iso_639_3:
   - hau
   lang_id: 264
@@ -749,9 +615,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nzim1238:
-    - GH
+- glottocodes: nzim1238
   iso_639_3:
   - nzi
   lang_id: 265
@@ -761,9 +625,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    wasa1244:
-    - GH
+- glottocodes: wasa1244
   iso_639_3:
   - wss
   lang_id: 266
@@ -773,9 +635,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    anyi1245:
-    - GH
+- glottocodes: anyi1245
   iso_639_3:
   - any
   lang_id: 267
@@ -786,9 +646,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sehw1238:
-    - GH
+- glottocodes: sehw1238
   iso_639_3:
   - sfw
   lang_id: 268
@@ -798,9 +656,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sout2789:
-    - GH
+- glottocodes: sout2789
   iso_639_3:
   - dga
   lang_id: 269
@@ -810,9 +666,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    konn1242:
-    - GH
+- glottocodes: konn1242
   iso_639_3:
   - kma
   lang_id: 270
@@ -822,9 +676,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    fare1241:
-    - GH
+- glottocodes: fare1241
   iso_639_3:
   - gur
   lang_id: 271
@@ -834,9 +686,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    konk1269:
-    - GH
+- glottocodes: konk1269
   iso_639_3:
   - xon
   lang_id: 272
@@ -846,9 +696,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sout2789:
-    - GH
+- glottocodes: sout2789
   iso_639_3:
   - dga
   lang_id: 273
@@ -858,9 +706,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kusa1250:
-    - GH
+- glottocodes: kusa1250
   iso_639_3:
   - kus
   lang_id: 274
@@ -870,9 +716,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    grus1239:
-    - GH
+- glottocodes: grus1239
   iso_639_3:
   - cll
   - ntr
@@ -894,9 +738,7 @@
   - Q3
   wals_code:
   - xsm
-- glottocodes:
-    sisa1248:
-    - GH
+- glottocodes: sisa1248
   iso_639_3:
   - sil
   - ssl
@@ -907,9 +749,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    wali1263:
-    - GH
+- glottocodes: wali1263
   iso_639_3:
   - wlx
   lang_id: 277
@@ -919,9 +759,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mamp1244:
-    - GH
+- glottocodes: mamp1244
   iso_639_3:
   - maw
   lang_id: 278
@@ -931,9 +769,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    fare1241:
-    - GH
+- glottocodes: fare1241
   iso_639_3:
   - gur
   lang_id: 279
@@ -943,9 +779,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mamp1244:
-    - GH
+- glottocodes: mamp1244
   iso_639_3:
   - maw
   lang_id: 280
@@ -955,9 +789,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    fare1241:
-    - GH
+- glottocodes: fare1241
   iso_639_3:
   - gur
   lang_id: 281
@@ -967,9 +799,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    buli1254:
-    - GH
+- glottocodes: buli1254
   iso_639_3:
   - bwu
   lang_id: 282
@@ -979,9 +809,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kase1253:
-    - GH
+- glottocodes: kase1253
   iso_639_3:
   - xsm
   lang_id: 283
@@ -991,9 +819,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sout2790:
-    - GH
+- glottocodes: sout2790
   iso_639_3:
   - biv
   lang_id: 284
@@ -1003,9 +829,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ntch1242:
-    - GH
+- glottocodes: ntch1242
   iso_639_3:
   - bud
   lang_id: 285
@@ -1016,9 +840,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kiku1240:
-    - KE
+- glottocodes: kiku1240
   iso_639_3:
   - kik
   lang_id: 300
@@ -1028,9 +850,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    luok1236:
-    - KE
+- glottocodes: luok1236
   iso_639_3:
   - luo
   lang_id: 301
@@ -1041,9 +861,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    luyi1234:
-    - KE
+- glottocodes: luyi1234
   iso_639_3:
   - bxk
   - nle
@@ -1066,9 +884,7 @@
   - Q3
   wals_code:
   - luy
-- glottocodes:
-    kamb1297:
-    - KE
+- glottocodes: kamb1297
   iso_639_3:
   - kam
   lang_id: 303
@@ -1078,9 +894,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kale1246:
-    - KE
+- glottocodes: kale1246
   iso_639_3:
   - eyo
   - sgc
@@ -1099,9 +913,7 @@
   - Q3
   wals_code:
   - nan
-- glottocodes:
-    gusi1247:
-    - KE
+- glottocodes: gusi1247
   iso_639_3:
   - guz
   lang_id: 305
@@ -1111,9 +923,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    cent2274:
-    - KE
+- glottocodes: cent2274
   iso_639_3:
   - ebu
   - mer
@@ -1124,9 +934,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nucl1431:
-    - KE
+- glottocodes: nucl1431
   iso_639_3:
   - mas
   - saq
@@ -1137,9 +945,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nort3232:
-    - KE
+- glottocodes: nort3232
   iso_639_3:
   - coh
   - dug
@@ -1152,9 +958,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tait1250:
-    - KE
+- glottocodes: tait1250
   iso_639_3:
   - dav
   lang_id: 309
@@ -1164,9 +968,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    soma1255:
-    - KE
+- glottocodes: soma1255
   iso_639_3:
   - som
   lang_id: 310
@@ -1176,9 +978,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    poko1263:
-    - KE
+- glottocodes: poko1263
   iso_639_3:
   - pko
   lang_id: 311
@@ -1188,9 +988,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    turk1308:
-    - KE
+- glottocodes: turk1308
   iso_639_3:
   - tuv
   lang_id: 312
@@ -1200,9 +998,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    teso1249:
-    - KE
+- glottocodes: teso1249
   iso_639_3:
   - teo
   lang_id: 313
@@ -1212,9 +1008,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bora1271:
-    - KE
+- glottocodes: bora1271
   iso_639_3:
   - gax
   lang_id: 314
@@ -1224,9 +1018,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sout2807:
-    - LS
+- glottocodes: sout2807
   iso_639_3:
   - sot
   lang_id: 340
@@ -1245,9 +1037,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    xhos1239:
-    - LS
+- glottocodes: xhos1239
   iso_639_3:
   - xho
   lang_id: 342
@@ -1257,9 +1047,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nucl1418:
-    - LR
+- glottocodes: nucl1418
   iso_639_3:
   - bsq
   lang_id: 380
@@ -1272,9 +1060,7 @@
   - Q3
   wals_code:
   - kla
-- glottocodes:
-    kuwa1247:
-    - LR
+- glottocodes: kuwa1247
   iso_639_3:
   - blh
   lang_id: 381
@@ -1284,9 +1070,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    band1352:
-    - LR
+- glottocodes: band1352
   iso_639_3:
   - bza
   lang_id: 383
@@ -1296,9 +1080,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    dann1241:
-    - LR
+- glottocodes: dann1241
   iso_639_3:
   - dnj
   lang_id: 384
@@ -1308,9 +1090,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    gola1255:
-    - LR
+- glottocodes: gola1255
   iso_639_3:
   - gol
   lang_id: 385
@@ -1320,9 +1100,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    greb1256:
-    - LR
+- glottocodes: greb1256
   iso_639_3:
   - gbo
   - gec
@@ -1336,9 +1114,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sout2778:
-    - LR
+- glottocodes: sout2778
   iso_639_3:
   - kss
   lang_id: 387
@@ -1348,9 +1124,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    libe1247:
-    - LR
+- glottocodes: libe1247
   iso_639_3:
   - xpe
   lang_id: 388
@@ -1360,9 +1134,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    weea1234:
-    - LR
+- glottocodes: weea1234
   iso_639_3:
   - kqo
   - krw
@@ -1373,9 +1145,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    klao1243:
-    - LR
+- glottocodes: klao1243
   iso_639_3:
   - klu
   lang_id: 390
@@ -1385,9 +1155,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    loma1260:
-    - LR
+- glottocodes: loma1260
   iso_639_3:
   - lom
   lang_id: 391
@@ -1397,9 +1165,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    many1261:
-    - LR
+- glottocodes: many1261
   iso_639_3:
   - mzj
   lang_id: 392
@@ -1409,9 +1175,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mann1248:
-    - LR
+- glottocodes: mann1248
   iso_639_3:
   - mev
   lang_id: 393
@@ -1421,9 +1185,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mend1266:
-    - LR
+- glottocodes: mend1266
   iso_639_3:
   - men
   lang_id: 394
@@ -1433,9 +1195,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    vaii1241:
-    - LR
+- glottocodes: vaii1241
   iso_639_3:
   - vai
   lang_id: 395
@@ -1445,9 +1205,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    libe1240:
-    - LR
+- glottocodes: libe1240
   iso_639_3:
   - lir
   lang_id: 396
@@ -1458,9 +1216,7 @@
   - Q3
   wals_code:
   - npi
-- glottocodes:
-    sapo1251:
-    - LR
+- glottocodes: sapo1251
   iso_639_3:
   - krn
   lang_id: 397
@@ -1470,9 +1226,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    plat1254:
-    - MG
+- glottocodes: plat1254
   iso_639_3:
   - plt
   lang_id: 420
@@ -1482,9 +1236,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mala1537:
-    - MG
+- glottocodes: mala1537
   iso_639_3:
   - bhr
   - bmm
@@ -1535,9 +1287,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tumb1250:
-    - MW
+- glottocodes: tumb1250
   iso_639_3:
   - tum
   lang_id: 460
@@ -1547,9 +1297,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyak1260:
-    - MW
+- glottocodes: nyak1260
   iso_639_3:
   - nyy
   lang_id: 461
@@ -1559,9 +1307,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lamb1272:
-    - MW
+- glottocodes: lamb1272
   iso_639_3:
   - lai
   lang_id: 462
@@ -1571,9 +1317,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyan1308:
-    - MW
+- glottocodes: nyan1308
   iso_639_3:
   - nya
   lang_id: 463
@@ -1583,9 +1327,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    yaoo1241:
-    - MW
+- glottocodes: yaoo1241
   iso_639_3:
   - yao
   lang_id: 464
@@ -1595,9 +1337,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    zulu1248:
-    - MW
+- glottocodes: zulu1248
   iso_639_3:
   - zul
   lang_id: 465
@@ -1607,9 +1347,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mala1256:
-    - MW
+- glottocodes: mala1256
   iso_639_3:
   - lon
   lang_id: 466
@@ -1620,9 +1358,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyan1308:
-    - MW
+- glottocodes: nyan1308
   iso_639_3:
   - nya
   lang_id: 467
@@ -1632,9 +1368,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mala1475:
-    - MW
+- glottocodes: mala1475
   iso_639_3:
   - swk
   lang_id: 468
@@ -1644,9 +1378,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ndal1241:
-    - MW
+- glottocodes: ndal1241
   iso_639_3:
   - ndh
   lang_id: 469
@@ -1657,9 +1389,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tumb1250:
-    - MW
+- glottocodes: tumb1250
   iso_639_3:
   - tum
   lang_id: 470
@@ -1669,9 +1399,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tong1321:
-    - MW
+- glottocodes: tong1321
   iso_639_3:
   - tog
   lang_id: 471
@@ -1682,9 +1410,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    koko1267:
-    - MW
+- glottocodes: koko1267
   iso_639_3:
   - kzn
   lang_id: 472
@@ -1694,9 +1420,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ndal1241:
-    - MW
+- glottocodes: ndal1241
   iso_639_3:
   - ndh
   lang_id: 473
@@ -1706,9 +1430,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyik1246:
-    - MW
+- glottocodes: nyik1246
   iso_639_3:
   - nkv
   lang_id: 474
@@ -1728,9 +1450,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyam1275:
-    - MW
+- glottocodes: nyam1275
   iso_639_3:
   - mwn
   lang_id: 476
@@ -1740,9 +1460,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lala1264:
-    - MW
+- glottocodes: lala1264
   iso_639_3:
   - leb
   lang_id: 477
@@ -1754,9 +1472,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    hass1238:
-    - ML
+- glottocodes: hass1238
   iso_639_3:
   - mey
   lang_id: 500
@@ -1766,9 +1482,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bamb1269:
-    - ML
+- glottocodes: bamb1269
   iso_639_3:
   - bam
   lang_id: 501
@@ -1778,9 +1492,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    koyr1242:
-    - ML
+- glottocodes: koyr1242
   iso_639_3:
   - ses
   lang_id: 502
@@ -1790,9 +1502,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bomu1247:
-    - ML
+- glottocodes: bomu1247
   iso_639_3:
   - bmq
   lang_id: 503
@@ -1804,9 +1514,7 @@
   - Q3
   wals_code:
   - kfe
-- glottocodes:
-    nucl1444:
-    - ML
+- glottocodes: nucl1444
   iso_639_3:
   - boz
   - bze
@@ -1819,9 +1527,7 @@
   - Q3
   wals_code:
   - boz
-- glottocodes:
-    dogo1299:
-    - ML
+- glottocodes: dogo1299
   iso_639_3:
   - dds
   - djm
@@ -1847,9 +1553,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    xaas1235:
-    - ML
+- glottocodes: xaas1235
   iso_639_3:
   - kao
   lang_id: 508
@@ -1860,9 +1564,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kita1249:
-    - ML
+- glottocodes: kita1249
   iso_639_3:
   - mlg
   - mwk
@@ -1873,9 +1575,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    hass1238:
-    - ML
+- glottocodes: hass1238
   iso_639_3:
   - mey
   lang_id: 510
@@ -1885,9 +1585,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    moss1236:
-    - ML
+- glottocodes: moss1236
   iso_639_3:
   - mos
   lang_id: 511
@@ -1897,9 +1595,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    maas1239:
-    - ML
+- glottocodes: maas1239
   iso_639_3:
   - ffm
   lang_id: 512
@@ -1909,9 +1605,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mama1271:
-    - ML
+- glottocodes: mama1271
   iso_639_3:
   - myk
   lang_id: 513
@@ -1921,9 +1615,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    soni1259:
-    - ML
+- glottocodes: soni1259
   iso_639_3:
   - snk
   lang_id: 514
@@ -1933,9 +1625,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    song1307:
-    - ML
+- glottocodes: song1307
   iso_639_3:
   - hmb
   - khq
@@ -1947,9 +1637,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tuar1240:
-    - ML
+- glottocodes: tuar1240
   iso_639_3:
   - taq
   - ttq
@@ -1961,9 +1649,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    haus1257:
-    - ML
+- glottocodes: haus1257
   iso_639_3:
   - hau
   lang_id: 518
@@ -1974,9 +1660,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kago1248:
-    - ML
+- glottocodes: kago1248
   iso_639_3:
   - xkg
   lang_id: 520
@@ -1986,9 +1670,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    duun1242:
-    - ML
+- glottocodes: duun1242
   iso_639_3:
   - dux
   lang_id: 522
@@ -1998,9 +1680,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    zarm1239:
-    - ML
+- glottocodes: zarm1239
   iso_639_3:
   - dje
   lang_id: 525
@@ -2010,9 +1690,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    makh1264:
-    - MZ
+- glottocodes: makh1264
   iso_639_3:
   - vmw
   lang_id: 541
@@ -2022,9 +1700,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nucl1396:
-    - MZ
+- glottocodes: nucl1396
   iso_639_3:
   - seh
   lang_id: 542
@@ -2034,9 +1710,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ndau1241:
-    - MZ
+- glottocodes: ndau1241
   iso_639_3:
   - ndc
   lang_id: 543
@@ -2046,9 +1720,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyan1308:
-    - MZ
+- glottocodes: nyan1308
   iso_639_3:
   - nya
   lang_id: 544
@@ -2058,9 +1730,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tson1249:
-    - MZ
+- glottocodes: tson1249
   iso_639_3:
   - tso
   lang_id: 545
@@ -2070,9 +1740,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    chop1243:
-    - MZ
+- glottocodes: chop1243
   iso_639_3:
   - cce
   lang_id: 546
@@ -2082,9 +1750,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    gito1238:
-    - MZ
+- glottocodes: gito1238
   iso_639_3:
   - toh
   lang_id: 547
@@ -2095,9 +1761,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mako1251:
-    - MZ
+- glottocodes: mako1251
   iso_639_3:
   - kde
   lang_id: 548
@@ -2107,9 +1771,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    chuw1238:
-    - MZ
+- glottocodes: chuw1238
   iso_639_3:
   - chw
   lang_id: 549
@@ -2119,9 +1781,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    yaoo1241:
-    - MZ
+- glottocodes: yaoo1241
   iso_639_3:
   - yao
   lang_id: 550
@@ -2132,9 +1792,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyan1308:
-    - MZ
+- glottocodes: nyan1308
   iso_639_3:
   - nya
   lang_id: 551
@@ -2144,9 +1802,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tewe1238:
-    - MZ
+- glottocodes: tewe1238
   iso_639_3:
   - twx
   lang_id: 552
@@ -2156,9 +1812,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    koti1238:
-    - MZ
+- glottocodes: koti1238
   iso_639_3:
   - eko
   lang_id: 553
@@ -2177,9 +1831,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lomw1241:
-    - MZ
+- glottocodes: lomw1241
   iso_639_3:
   - ngl
   lang_id: 555
@@ -2189,9 +1841,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    many1258:
-    - MZ
+- glottocodes: many1258
   iso_639_3:
   - mxc
   lang_id: 556
@@ -2202,9 +1852,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tswa1255:
-    - MZ
+- glottocodes: tswa1255
   iso_639_3:
   - tsc
   lang_id: 557
@@ -2215,9 +1863,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    rong1268:
-    - MZ
+- glottocodes: rong1268
   iso_639_3:
   - rng
   lang_id: 558
@@ -2227,9 +1873,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ndau1241:
-    - MZ
+- glottocodes: ndau1241
   iso_639_3:
   - ndc
   lang_id: 559
@@ -2250,9 +1894,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tewe1238:
-    - MZ
+- glottocodes: tewe1238
   iso_639_3:
   - twx
   lang_id: 561
@@ -2262,9 +1904,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tswa1255:
-    - MZ
+- glottocodes: tswa1255
   iso_639_3:
   - tsc
   lang_id: 562
@@ -2274,9 +1914,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mwan1247:
-    - MZ
+- glottocodes: mwan1247
   iso_639_3:
   - wmw
   lang_id: 563
@@ -2284,9 +1922,7 @@
   variables:
   - Q3
   wals_code: null
-- glottocodes:
-    afri1274:
-    - NA
+- glottocodes: afri1274
   iso_639_3:
   - afr
   lang_id: 580
@@ -2296,9 +1932,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    stan1295:
-    - NA
+- glottocodes: stan1295
   iso_639_3:
   - deu
   lang_id: 581
@@ -2309,9 +1943,7 @@
   - Q3
   wals_code:
   - ger
-- glottocodes:
-    nama1264:
-    - NA
+- glottocodes: nama1264
   iso_639_3:
   - naq
   lang_id: 582
@@ -2321,9 +1953,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kuan1247:
-    - NA
+- glottocodes: kuan1247
   iso_639_3:
   - kua
   lang_id: 583
@@ -2333,9 +1963,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    here1253:
-    - NA
+- glottocodes: here1253
   iso_639_3:
   - her
   lang_id: 584
@@ -2345,9 +1973,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kwan1273:
-    - NA
+- glottocodes: kwan1273
   iso_639_3:
   - kwn
   lang_id: 585
@@ -2357,9 +1983,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    diri1252:
-    - NA
+- glottocodes: diri1252
   iso_639_3:
   - diu
   lang_id: 586
@@ -2370,9 +1994,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mbuk1240:
-    - NA
+- glottocodes: mbuk1240
   iso_639_3:
   - mhw
   lang_id: 587
@@ -2382,9 +2004,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lozi1239:
-    - NA
+- glottocodes: lozi1239
   iso_639_3:
   - loz
   lang_id: 588
@@ -2394,9 +2014,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tswa1253:
-    - NA
+- glottocodes: tswa1253
   iso_639_3:
   - tsn
   lang_id: 589
@@ -2406,9 +2024,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    subi1246:
-    - NA
+- glottocodes: subi1246
   iso_639_3:
   - sbs
   lang_id: 590
@@ -2418,9 +2034,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    juho1239:
-    - NA
+- glottocodes: juho1239
   iso_639_3:
   - ktz
   lang_id: 591
@@ -2431,9 +2045,7 @@
   - Q3
   wals_code:
   - juh
-- glottocodes:
-    fwee1238:
-    - NA
+- glottocodes: fwee1238
   iso_639_3:
   - fwe
   lang_id: 592
@@ -2443,9 +2055,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kuan1247:
-    - NA
+- glottocodes: kuan1247
   iso_639_3:
   - kua
   lang_id: 593
@@ -2456,9 +2066,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    umbu1257:
-    - NA
+- glottocodes: umbu1257
   iso_639_3:
   - umb
   lang_id: 594
@@ -2469,9 +2077,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    haus1257:
-    - NG
+- glottocodes: haus1257
   iso_639_3:
   - hau
   lang_id: 620
@@ -2481,9 +2087,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nucl1417:
-    - NG
+- glottocodes: nucl1417
   iso_639_3:
   - ibo
   lang_id: 621
@@ -2493,9 +2097,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    yoru1245:
-    - NG
+- glottocodes: yoru1245
   iso_639_3:
   - yor
   lang_id: 622
@@ -2505,9 +2107,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nige1257:
-    - NG
+- glottocodes: nige1257
   iso_639_3:
   - pcm
   lang_id: 623
@@ -2518,9 +2118,7 @@
   - Q3
   wals_code:
   - npi
-- glottocodes:
-    efik1245:
-    - NG
+- glottocodes: efik1245
   iso_639_3:
   - efi
   lang_id: 624
@@ -2530,9 +2128,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ebir1243:
-    - NG
+- glottocodes: ebir1243
   iso_639_3:
   - igb
   lang_id: 625
@@ -2542,9 +2138,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    adam1253:
-    - NG
+- glottocodes: adam1253
   iso_639_3:
   - fub
   lang_id: 626
@@ -2554,9 +2148,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    isok1239:
-    - NG
+- glottocodes: isok1239
   iso_639_3:
   - iso
   lang_id: 627
@@ -2566,9 +2158,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ibib1240:
-    - NG
+- glottocodes: ibib1240
   iso_639_3:
   - ibb
   lang_id: 628
@@ -2578,9 +2168,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kanu1281:
-    - NG
+- glottocodes: kanu1281
   iso_639_3:
   - kby
   - knc
@@ -2592,9 +2180,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tivv1240:
-    - NG
+- glottocodes: tivv1240
   iso_639_3:
   - tiv
   lang_id: 630
@@ -2604,9 +2190,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nupe1254:
-    - NG
+- glottocodes: nupe1254
   iso_639_3:
   - nup
   lang_id: 631
@@ -2616,9 +2200,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    izon1238:
-    - NG
+- glottocodes: izon1238
   iso_639_3:
   - ijc
   lang_id: 632
@@ -2638,9 +2220,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bini1246:
-    - NG
+- glottocodes: bini1246
   iso_639_3:
   - bin
   lang_id: 633
@@ -2650,9 +2230,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    igal1242:
-    - NG
+- glottocodes: igal1242
   iso_639_3:
   - igl
   lang_id: 634
@@ -2662,9 +2240,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    urho1239:
-    - NG
+- glottocodes: urho1239
   iso_639_3:
   - urh
   lang_id: 635
@@ -2674,9 +2250,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    idom1241:
-    - NG
+- glottocodes: idom1241
   iso_639_3:
   - idu
   lang_id: 636
@@ -2686,9 +2260,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    anaa1238:
-    - NG
+- glottocodes: anaa1238
   iso_639_3:
   - anw
   lang_id: 637
@@ -2698,9 +2270,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ikwe1242:
-    - NG
+- glottocodes: ikwe1242
   iso_639_3:
   - ikw
   lang_id: 638
@@ -2710,9 +2280,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    idom1241:
-    - NG
+- glottocodes: idom1241
   iso_639_3:
   - idu
   lang_id: 639
@@ -2722,9 +2290,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    esan1238:
-    - NG
+- glottocodes: esan1238
   iso_639_3:
   - ish
   lang_id: 640
@@ -2734,9 +2300,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    iged1239:
-    - NG
+- glottocodes: iged1239
   iso_639_3:
   - ige
   lang_id: 643
@@ -2746,9 +2310,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bura1292:
-    - NG
+- glottocodes: bura1292
   iso_639_3:
   - bwr
   lang_id: 644
@@ -2758,9 +2320,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bura1296:
-    - NG
+- glottocodes: bura1296
   iso_639_3:
   - mfl
   - mfm
@@ -2772,9 +2332,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nort2775:
-    - NG
+- glottocodes: nort2775
   iso_639_3:
   - gya
   lang_id: 646
@@ -2784,9 +2342,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    loka1252:
-    - NG
+- glottocodes: loka1252
   iso_639_3:
   - yaz
   lang_id: 647
@@ -2797,9 +2353,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    loka1252:
-    - NG
+- glottocodes: loka1252
   iso_639_3:
   - yaz
   lang_id: 648
@@ -2810,9 +2364,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    eggo1239:
-    - NG
+- glottocodes: eggo1239
   iso_639_3:
   - ego
   lang_id: 649
@@ -2822,9 +2374,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tyap1238:
-    - NG
+- glottocodes: tyap1238
   iso_639_3:
   - kcg
   lang_id: 650
@@ -2835,9 +2385,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    abua1244:
-    - NG
+- glottocodes: abua1244
   iso_639_3:
   - abn
   lang_id: 651
@@ -2847,9 +2395,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sout2774:
-    - NG
+- glottocodes: sout2774
   iso_639_3:
   - ijs
   lang_id: 652
@@ -2862,9 +2408,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    elem1253:
-    - NG
+- glottocodes: elem1253
   iso_639_3:
   - elm
   lang_id: 653
@@ -2874,9 +2418,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nucl1240:
-    - NG
+- glottocodes: nucl1240
   iso_639_3:
   - mzm
   lang_id: 654
@@ -2886,9 +2428,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ejag1239:
-    - NG
+- glottocodes: ejag1239
   iso_639_3:
   - etu
   lang_id: 655
@@ -2898,9 +2438,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nucl1696:
-    - NG
+- glottocodes: nucl1696
   iso_639_3:
   - tan
   lang_id: 656
@@ -2910,9 +2448,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ogbi1239:
-    - NG
+- glottocodes: ogbi1239
   iso_639_3:
   - ogb
   lang_id: 657
@@ -2922,9 +2458,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    khan1278:
-    - NG
+- glottocodes: khan1278
   iso_639_3:
   - ogo
   lang_id: 658
@@ -2934,9 +2468,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    juku1254:
-    - NG
+- glottocodes: juku1254
   iso_639_3:
   - jbu
   lang_id: 659
@@ -2946,9 +2478,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nucl1347:
-    - SN
+- glottocodes: nucl1347
   iso_639_3:
   - wol
   lang_id: 660
@@ -2958,9 +2488,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    pula1263:
-    - SN
+- glottocodes: pula1263
   iso_639_3:
   - fuc
   lang_id: 661
@@ -2970,9 +2498,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sere1260:
-    - SN
+- glottocodes: sere1260
   iso_639_3:
   - srr
   lang_id: 662
@@ -2982,9 +2508,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mand1436:
-    - SN
+- glottocodes: mand1436
   iso_639_3:
   - mnk
   lang_id: 663
@@ -2994,9 +2518,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    soni1259:
-    - SN
+- glottocodes: soni1259
   iso_639_3:
   - snk
   lang_id: 664
@@ -3006,9 +2528,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    jola1263:
-    - SN
+- glottocodes: jola1263
   iso_639_3:
   - dyo
   lang_id: 665
@@ -3018,9 +2538,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mand1419:
-    - SN
+- glottocodes: mand1419
   iso_639_3:
   - mfv
   lang_id: 666
@@ -3030,9 +2548,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bain1261:
-    - SN
+- glottocodes: bain1261
   iso_639_3:
   - bcb
   - bcz
@@ -3043,9 +2559,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bass1258:
-    - SN
+- glottocodes: bass1258
   iso_639_3:
   - bsc
   lang_id: 668
@@ -3055,9 +2569,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    hass1238:
-    - SN
+- glottocodes: hass1238
   iso_639_3:
   - mey
   lang_id: 669
@@ -3067,9 +2579,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    afri1274:
-    - ZA
+- glottocodes: afri1274
   iso_639_3:
   - afr
   lang_id: 700
@@ -3079,9 +2589,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sout2808:
-    - ZA
+- glottocodes: sout2808
   iso_639_3:
   - nbl
   lang_id: 701
@@ -3091,9 +2599,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    xhos1239:
-    - ZA
+- glottocodes: xhos1239
   iso_639_3:
   - xho
   lang_id: 702
@@ -3103,9 +2609,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    pedi1238:
-    - ZA
+- glottocodes: pedi1238
   iso_639_3:
   - nso
   lang_id: 703
@@ -3115,9 +2619,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sout2807:
-    - ZA
+- glottocodes: sout2807
   iso_639_3:
   - sot
   lang_id: 704
@@ -3127,9 +2629,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tswa1253:
-    - ZA
+- glottocodes: tswa1253
   iso_639_3:
   - tsn
   lang_id: 705
@@ -3139,9 +2639,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tson1249:
-    - ZA
+- glottocodes: tson1249
   iso_639_3:
   - tso
   lang_id: 706
@@ -3151,9 +2649,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    swat1243:
-    - ZA
+- glottocodes: swat1243
   iso_639_3:
   - ssw
   lang_id: 707
@@ -3163,9 +2659,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    vend1245:
-    - ZA
+- glottocodes: vend1245
   iso_639_3:
   - ven
   lang_id: 708
@@ -3175,9 +2669,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    zulu1248:
-    - ZA
+- glottocodes: zulu1248
   iso_639_3:
   - zul
   lang_id: 709
@@ -3187,9 +2679,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    hind1269:
-    - ZA
+- glottocodes: hind1269
   iso_639_3:
   - hin
   lang_id: 710
@@ -3199,9 +2689,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyak1260:
-    - TZ
+- glottocodes: nyak1260
   iso_639_3:
   - nyy
   lang_id: 740
@@ -3211,9 +2699,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    moch1256:
-    - TZ
+- glottocodes: moch1256
   iso_639_3:
   - old
   lang_id: 741
@@ -3223,9 +2709,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    haya1250:
-    - TZ
+- glottocodes: haya1250
   iso_639_3:
   - hay
   lang_id: 742
@@ -3235,9 +2719,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ngon1269:
-    - TZ
+- glottocodes: ngon1269
   iso_639_3:
   - ngo
   lang_id: 743
@@ -3247,9 +2729,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kere1283:
-    - TZ
+- glottocodes: kere1283
   iso_639_3:
   - ked
   lang_id: 744
@@ -3259,9 +2739,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    asut1235:
-    - TZ
+- glottocodes: asut1235
   iso_639_3:
   - asa
   lang_id: 745
@@ -3271,9 +2749,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    hehe1240:
-    - TZ
+- glottocodes: hehe1240
   iso_639_3:
   - heh
   lang_id: 746
@@ -3283,9 +2759,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mako1251:
-    - TZ
+- glottocodes: mako1251
   iso_639_3:
   - kde
   lang_id: 747
@@ -3295,9 +2769,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyam1276:
-    - TZ
+- glottocodes: nyam1276
   iso_639_3:
   - nym
   lang_id: 748
@@ -3307,9 +2779,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    suku1261:
-    - TZ
+- glottocodes: suku1261
   iso_639_3:
   - suk
   lang_id: 749
@@ -3319,9 +2789,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    masa1300:
-    - TZ
+- glottocodes: masa1300
   iso_639_3:
   - mas
   lang_id: 750
@@ -3331,9 +2799,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kuri1259:
-    - TZ
+- glottocodes: kuri1259
   iso_639_3:
   - kuj
   lang_id: 752
@@ -3343,9 +2809,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    gogo1263:
-    - TZ
+- glottocodes: gogo1263
   iso_639_3:
   - gog
   lang_id: 753
@@ -3355,9 +2819,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lugu1238:
-    - TZ
+- glottocodes: lugu1238
   iso_639_3:
   - ruf
   lang_id: 754
@@ -3367,9 +2829,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    fipa1238:
-    - TZ
+- glottocodes: fipa1238
   iso_639_3:
   - fip
   lang_id: 755
@@ -3379,9 +2839,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyam1276:
-    - TZ
+- glottocodes: nyam1276
   iso_639_3:
   - nym
   lang_id: 756
@@ -3391,9 +2849,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nila1242:
-    - TZ
+- glottocodes: nila1242
   iso_639_3:
   - nim
   lang_id: 757
@@ -3403,9 +2859,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyat1246:
-    - TZ
+- glottocodes: nyat1246
   iso_639_3:
   - rim
   lang_id: 758
@@ -3415,9 +2869,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bena1262:
-    - TZ
+- glottocodes: bena1262
   iso_639_3:
   - bez
   lang_id: 759
@@ -3427,9 +2879,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    haaa1252:
-    - TZ
+- glottocodes: haaa1252
   iso_639_3:
   - haq
   lang_id: 760
@@ -3439,9 +2889,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    hang1260:
-    - TZ
+- glottocodes: hang1260
   iso_639_3:
   - han
   lang_id: 761
@@ -3451,9 +2899,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    iraq1241:
-    - TZ
+- glottocodes: iraq1241
   iso_639_3:
   - irk
   lang_id: 762
@@ -3463,9 +2909,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    luok1236:
-    - TZ
+- glottocodes: luok1236
   iso_639_3:
   - luo
   lang_id: 763
@@ -3475,9 +2919,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    jita1239:
-    - TZ
+- glottocodes: jita1239
   iso_639_3:
   - jit
   lang_id: 764
@@ -3487,9 +2929,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nucl1379:
-    - TZ
+- glottocodes: nucl1379
   iso_639_3:
   - zga
   lang_id: 765
@@ -3499,9 +2939,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mate1258:
-    - TZ
+- glottocodes: mate1258
   iso_639_3:
   - mgv
   lang_id: 766
@@ -3511,9 +2949,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mwer1248:
-    - TZ
+- glottocodes: mwer1248
   iso_639_3:
   - mwe
   lang_id: 767
@@ -3523,9 +2959,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ndal1241:
-    - TZ
+- glottocodes: ndal1241
   iso_639_3:
   - ndh
   lang_id: 768
@@ -3535,9 +2969,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nden1249:
-    - TZ
+- glottocodes: nden1249
   iso_639_3:
   - dne
   lang_id: 769
@@ -3547,9 +2979,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyam1277:
-    - TZ
+- glottocodes: nyam1277
   iso_639_3:
   - now
   lang_id: 770
@@ -3559,9 +2989,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    pogo1243:
-    - TZ
+- glottocodes: pogo1243
   iso_639_3:
   - poy
   lang_id: 771
@@ -3571,9 +2999,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sham1280:
-    - TZ
+- glottocodes: sham1280
   iso_639_3:
   - ksb
   lang_id: 772
@@ -3583,9 +3009,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    yaoo1241:
-    - TZ
+- glottocodes: yaoo1241
   iso_639_3:
   - yao
   lang_id: 773
@@ -3595,9 +3019,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    zara1247:
-    - TZ
+- glottocodes: zara1247
   iso_639_3:
   - zaj
   lang_id: 774
@@ -3607,9 +3029,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    zigu1242:
-    - TZ
+- glottocodes: zigu1242
   iso_639_3:
   - ziw
   lang_id: 775
@@ -3619,9 +3039,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    zinz1238:
-    - TZ
+- glottocodes: zinz1238
   iso_639_3:
   - zin
   lang_id: 776
@@ -3631,9 +3049,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lang1320:
-    - TZ
+- glottocodes: lang1320
   iso_639_3:
   - lag
   lang_id: 777
@@ -3643,9 +3059,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    gand1255:
-    - UG
+- glottocodes: gand1255
   iso_639_3:
   - lug
   lang_id: 780
@@ -3655,9 +3069,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyan1307:
-    - UG
+- glottocodes: nyan1307
   iso_639_3:
   - nyn
   lang_id: 781
@@ -3667,9 +3079,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyor1246:
-    - UG
+- glottocodes: nyor1246
   iso_639_3:
   - nyo
   lang_id: 782
@@ -3680,9 +3090,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    soga1242:
-    - UG
+- glottocodes: soga1242
   iso_639_3:
   - xog
   lang_id: 783
@@ -3692,9 +3100,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    masa1299:
-    - UG
+- glottocodes: masa1299
   iso_639_3:
   - myx
   lang_id: 784
@@ -3704,9 +3110,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    konz1239:
-    - UG
+- glottocodes: konz1239
   iso_639_3:
   - koo
   lang_id: 785
@@ -3716,9 +3120,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyol1238:
-    - UG
+- glottocodes: nyol1238
   iso_639_3:
   - nuj
   lang_id: 786
@@ -3728,9 +3130,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    teso1249:
-    - UG
+- glottocodes: teso1249
   iso_639_3:
   - teo
   lang_id: 787
@@ -3740,9 +3140,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    acol1236:
-    - UG
+- glottocodes: acol1236
   iso_639_3:
   - ach
   lang_id: 788
@@ -3752,9 +3150,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    alur1250:
-    - UG
+- glottocodes: alur1250
   iso_639_3:
   - alz
   lang_id: 789
@@ -3764,9 +3160,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lugb1240:
-    - UG
+- glottocodes: lugb1240
   iso_639_3:
   - lgg
   lang_id: 790
@@ -3776,9 +3170,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    sout2827:
-    - UG
+- glottocodes: sout2827
   iso_639_3:
   - mhi
   - snm
@@ -3789,9 +3181,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    adho1243:
-    - UG
+- glottocodes: adho1243
   iso_639_3:
   - adh
   lang_id: 792
@@ -3802,9 +3192,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    saam1283:
-    - UG
+- glottocodes: saam1283
   iso_639_3:
   - lsm
   lang_id: 793
@@ -3815,9 +3203,7 @@
   - Q3
   wals_code:
   - luy
-- glottocodes:
-    gwer1238:
-    - UG
+- glottocodes: gwer1238
   iso_639_3:
   - gwr
   lang_id: 794
@@ -3827,9 +3213,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    chig1238:
-    - UG
+- glottocodes: chig1238
   iso_639_3:
   - cgg
   lang_id: 795
@@ -3839,9 +3223,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    toor1238:
-    - UG
+- glottocodes: toor1238
   iso_639_3:
   - ttj
   lang_id: 796
@@ -3851,9 +3233,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lang1324:
-    - UG
+- glottocodes: lang1324
   iso_639_3:
   - laj
   lang_id: 797
@@ -3863,9 +3243,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kakw1240:
-    - UG
+- glottocodes: kakw1240
   iso_639_3:
   - keo
   lang_id: 798
@@ -3875,9 +3253,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kuma1275:
-    - UG
+- glottocodes: kuma1275
   iso_639_3:
   - kdi
   lang_id: 799
@@ -3887,9 +3263,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ruul1235:
-    - UG
+- glottocodes: ruul1235
   iso_639_3:
   - ruc
   lang_id: 800
@@ -3900,9 +3274,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    amba1263:
-    - UG
+- glottocodes: amba1263
   iso_639_3:
   - rwm
   lang_id: 801
@@ -3913,9 +3285,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nubi1253:
-    - UG
+- glottocodes: nubi1253
   iso_639_3:
   - kcn
   lang_id: 802
@@ -3927,9 +3297,7 @@
   - Q3
   wals_code:
   - nub
-- glottocodes:
-    kiny1244:
-    - UG
+- glottocodes: kiny1244
   iso_639_3:
   - kin
   lang_id: 803
@@ -3939,9 +3307,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kiny1244:
-    - UG
+- glottocodes: kiny1244
   iso_639_3:
   - kin
   lang_id: 804
@@ -3951,9 +3317,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kups1238:
-    - UG
+- glottocodes: kups1238
   iso_639_3:
   - kpz
   lang_id: 805
@@ -3964,9 +3328,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    bemb1257:
-    - ZM
+- glottocodes: bemb1257
   iso_639_3:
   - bem
   lang_id: 820
@@ -3976,9 +3338,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyan1308:
-    - ZM
+- glottocodes: nyan1308
   iso_639_3:
   - nya
   lang_id: 821
@@ -3988,9 +3348,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tong1318:
-    - ZM
+- glottocodes: tong1318
   iso_639_3:
   - toi
   lang_id: 822
@@ -4002,9 +3360,7 @@
   - Q3
   wals_code:
   - toz
-- glottocodes:
-    lozi1239:
-    - ZM
+- glottocodes: lozi1239
   iso_639_3:
   - loz
   lang_id: 823
@@ -4014,9 +3370,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyan1308:
-    - ZM
+- glottocodes: nyan1308
   iso_639_3:
   - nya
   lang_id: 824
@@ -4026,9 +3380,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nsen1242:
-    - ZM
+- glottocodes: nsen1242
   iso_639_3:
   - nse
   lang_id: 825
@@ -4039,9 +3391,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tumb1250:
-    - ZM
+- glottocodes: tumb1250
   iso_639_3:
   - tum
   lang_id: 826
@@ -4051,9 +3401,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kaon1241:
-    - ZM
+- glottocodes: kaon1241
   iso_639_3:
   - kqn
   lang_id: 827
@@ -4063,9 +3411,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    luva1239:
-    - ZM
+- glottocodes: luva1239
   iso_639_3:
   - lue
   lang_id: 828
@@ -4075,9 +3421,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyam1275:
-    - ZM
+- glottocodes: nyam1275
   iso_639_3:
   - mwn
   lang_id: 829
@@ -4087,9 +3431,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lund1266:
-    - ZM
+- glottocodes: lund1266
   iso_639_3:
   - lun
   lang_id: 830
@@ -4099,9 +3441,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lala1264:
-    - ZM
+- glottocodes: lala1264
   iso_639_3:
   - leb
   lang_id: 831
@@ -4111,9 +3451,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nkoy1244:
-    - ZM
+- glottocodes: nkoy1244
   iso_639_3:
   - nka
   lang_id: 832
@@ -4123,9 +3461,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mamb1296:
-    - ZM
+- glottocodes: mamb1296
   iso_639_3:
   - mgr
   lang_id: 833
@@ -4135,9 +3471,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lenj1248:
-    - ZM
+- glottocodes: lenj1248
   iso_639_3:
   - leh
   lang_id: 834
@@ -4147,9 +3481,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nsen1242:
-    - ZM
+- glottocodes: nsen1242
   iso_639_3:
   - nse
   lang_id: 835
@@ -4160,9 +3492,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    soli1239:
-    - ZM
+- glottocodes: soli1239
   iso_639_3:
   - sby
   lang_id: 836
@@ -4172,9 +3502,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    ilaa1246:
-    - ZM
+- glottocodes: ilaa1246
   iso_639_3:
   - ilb
   lang_id: 837
@@ -4184,9 +3512,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tumb1253:
-    - ZM
+- glottocodes: tumb1253
   iso_639_3:
   - kdn
   - nya
@@ -4197,9 +3523,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lala1264:
-    - ZM
+- glottocodes: lala1264
   iso_639_3:
   - leb
   lang_id: 839
@@ -4209,9 +3533,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    lamb1271:
-    - ZM
+- glottocodes: lamb1271
   iso_639_3:
   - lam
   lang_id: 840
@@ -4221,9 +3543,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mamb1296:
-    - ZM
+- glottocodes: mamb1296
   iso_639_3:
   - mgr
   lang_id: 841
@@ -4233,9 +3553,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    cent2285:
-    - ZM
+- glottocodes: cent2285
   iso_639_3:
   - nih
   - nkv
@@ -4246,9 +3564,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nsen1242:
-    - ZM
+- glottocodes: nsen1242
   iso_639_3:
   - nse
   lang_id: 843
@@ -4259,9 +3575,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tong1318:
-    - ZM
+- glottocodes: tong1318
   iso_639_3:
   - toi
   lang_id: 844
@@ -4271,9 +3585,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    aush1241:
-    - ZM
+- glottocodes: aush1241
   iso_639_3:
   - auh
   lang_id: 845
@@ -4283,9 +3595,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    mbun1249:
-    - ZM
+- glottocodes: mbun1249
   iso_639_3:
   - mck
   lang_id: 846
@@ -4295,9 +3605,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nort2795:
-    - ZW
+- glottocodes: nort2795
   iso_639_3:
   - nde
   lang_id: 860
@@ -4307,9 +3615,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    shon1251:
-    - ZW
+- glottocodes: shon1251
   iso_639_3:
   - sna
   lang_id: 861
@@ -4319,9 +3625,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    vend1245:
-    - ZW
+- glottocodes: vend1245
   iso_639_3:
   - ven
   lang_id: 862
@@ -4331,9 +3635,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    kala1384:
-    - ZW
+- glottocodes: kala1384
   iso_639_3:
   - kck
   lang_id: 863
@@ -4343,9 +3645,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    tong1318:
-    - ZW
+- glottocodes: tong1318
   iso_639_3:
   - toi
   lang_id: 864
@@ -4357,9 +3657,7 @@
   - Q3
   wals_code:
   - toz
-- glottocodes:
-    namb1291:
-    - ZW
+- glottocodes: namb1291
   iso_639_3:
   - nmq
   lang_id: 865
@@ -4369,9 +3667,7 @@
   - Q114
   - Q3
   wals_code: null
-- glottocodes:
-    nyan1308:
-    - ZW
+- glottocodes: nyan1308
   iso_639_3:
   - nya
   lang_id: 866
@@ -4381,7 +3677,8 @@
   - Q114
   - Q3
   wals_code: null
-- iso_639_3:
+- glottocodes: null
+  iso_639_3:
   - und
   lang_id: 995
   lang_name: Others
@@ -4390,7 +3687,8 @@
   - Q114
   - Q3
   wals_code: null
-- iso_639_3:
+- glottocodes: null
+  iso_639_3:
   - und
   lang_id: 998
   lang_name: Refused
