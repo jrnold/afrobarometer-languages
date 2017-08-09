@@ -4,136 +4,195 @@ library("tidyverse")
 library("geosphere")
 source("src/init.R")
 
-glottolog_tree <- read_json("external/glottolog/tree-glottolog.json")
+glottolog_tree <-
+  read_json("external/glottolog/tree-glottolog.json",
+            simplifyVector = FALSE)
 
-glottolog_edges <- function(tree) {
-  # Add edges
-  env <- rlang::new_environment()
-  get_edges <- function(x) {
-    from <- x[["glottocode"]]
-    children <- map_chr(x[["children"]], get_edges)
-    if (length(children)) {
-      env[[from]] <- tibble(from = from, to = children)
-    }
-    from
-  }
-  # Add top level root
-  env[["root0000"]] <- tibble(from = "root0000",
-                              to = map_chr(glottolog_tree, "glottocode"))
-  # Add other edges
-  bind_rows(as_list(walk(tree, get_edges)))
+#glottolog_tree <- glottolog_tree
+
+simplify_tree <- function(x) {
+  list(x[["glottocode"]], map(sort_glotto(x[["children"]]), simplify_tree))
 }
 
-# Add edges
+# Add additional information
+languoid_info <- select(IO$glottolog_languoids,
+                        glottocode = id,
+                        iso_639_3 = hid,
+                        latitude, longitude,
+                        level, status, bookkeeping)
+
+macroarea_lookup <- select(IO$glottolog_lang_geo, glottocode, macroarea) %>%
+  filter(!is.na(macroarea)) %>%
+  (function(x) set_names(x$macroarea, x$glottocode))()
+
+geo_lookup <- select(languoid_info, glottocode, latitude, longitude) %>%
+  filter(!is.na(latitude), !is.na(longitude)) %>%
+  group_by(glottocode) %>%
+  summarise(xy = list(matrix(c(longitude, latitude), ncol = 2))) %>%
+  (function(x) set_names(x$xy, x$glottocode))()
+
+wals_genus_path <- function(x) {
+  replacements <- list(
+    "genus/bororoan" = "genus/bororo",
+    "genus/jingpho" =  "genus/jinghpo",
+    "genus/guaymiic" = "genus/guaymi",
+    "genus/coresiouan" = "genus/siouan",
+    "genus/warayic" = "genus/warayic"
+  )
+
+  iconv(x, to = "ASCII//TRANSLIT") %>%
+    str_to_lower() %>%
+    str_replace_all("[^a-z]", "") %>%
+    str_c("genus", ., sep = "/") %>%
+    recode(splice(replacements))
+}
+
+wals_genus <- IO$wals %>%
+  select(genus, wals_code) %>%
+  mutate(identifier = wals_genus_path(genus)) %>%
+  select(-genus)
+
+wals_family_path <- function(x) {
+  iconv(x, to = "ASCII//TRANSLIT") %>%
+  str_to_lower() %>%
+    str_replace_all("[^a-z]", "") %>%
+    str_c("family", ., sep = "/")
+}
+
+wals_family <- IO$wals %>%
+  select(family, wals_code) %>%
+  mutate(identifier = wals_family_path(family)) %>%
+  select(-family)
+
+# Lookup Identifiers: WALS_Codes, ISO 639-3
+resourcemap <- IO$glottolog_resourcemap
+
+wals_lookup <-
+  filter(resourcemap, type == "wals") %>%
+  left_join(bind_rows(wals_family, wals_genus),
+            by = "identifier") %>%
+  mutate(wals_code = coalesce(wals_code, identifier)) %>%
+  select(-identifier) %>%
+  group_by(glottocode) %>%
+  summarise(wals_codes = list(sort(unique(wals_code)))) %>%
+  (function(x) {set_names(x$wals_codes, x$glottocode)})()
+
+iso_lookup <- filter(resourcemap, type == "iso639-3",
+                      str_detect(identifier, "^[a-z]{3}$")) %>%
+  group_by(glottocode) %>%
+  summarise(identifier = list(identifier)) %>%
+  (function(x) {set_names(x$identifier, x$glottocode)})()
+
+# sort list by glottocode
+sort_glotto <- function(x) x[order(map_chr(x, "glottocode"))]
+
+# Walk the glottolog tree to build data
 env <- rlang::new_environment()
-walk_glottolog <- function(x, depth = 1, ancestors = character(), family = NULL) {
+env$.i <- 0
+walk_glottolog <- function(x,
+                           depth = 1,
+                           ancestors = character(),
+                           family = NULL) {
   glottocode <- x[["glottocode"]]
   if (depth == 1) {
     family <- glottocode
   }
-  descendants <- map(x[["children"]],
+  # Save and iterate depth first indicator
+  i <- env$.i <- env$.i + 1
+  descendants <- map(sort_glotto(x[["children"]]),
                      walk_glottolog,
                      depth = depth + 1,
                      family = family,
-                     ancestors = c(glottocode, ancestors)) %>%
-    flatten_chr()
+                     ancestors = c(glottocode, ancestors))
+
+  descendants_glotto <- flatten_chr(map(descendants, "glottocodes"))
+
+  wals_codes <- unique(c(wals_lookup[[glottocode]],
+                         flatten_chr(map(descendants, "wals_codes")))) %>%
+    sort()
+  iso_codes <- unique(c(iso_lookup[[glottocode]],
+                        flatten_chr(map(descendants, "iso_codes")))) %>%
+    sort()
+
+
+  macroarea <- c(macroarea_lookup[glottocode],
+                 flatten_chr(map(descendants, "macroarea"))) %>%
+    na.omit() %>%
+    unique() %>%
+    sort()
+
+  geo <- geo_lookup[[glottocode]]
+  if (is.null(geo)) {
+    desc_geo <- invoke(rbind, map(descendants, "geo"))
+    if (!is.null(desc_geo)) {
+      if (nrow(desc_geo) > 1) {
+        geo <- geosphere::geomean(desc_geo)
+      }
+    }
+  }
+
   env[[glottocode]] <-
     tibble(glottocode = glottocode,
-           name = x[["name"]],
+           parent = if (length(ancestors)) ancestors[[1]] else NA_character_,
+           children = list(map_chr(x[["children"]], "glottocode")),
            ancestors = list(ancestors),
-           descendants = list(descendants),
+           descendants = list(descendants_glotto),
+           iso_639_3 = list(iso_codes),
+           wals_codes = list(wals_codes),
+           longitude = if (!is.null(geo)) geo[1, 1] else NA_real_,
+           latitude = if (!is.null(geo)) geo[1, 2] else NA_real_,
+           macroarea = list(macroarea),
+           i = i,
            depth = depth,
            family = family,
            is_family = (depth == 1),
            is_leaf = (!length(x[["children"]])))
-  c(glottocode, descendants)
+
+  list(glottocodes = c(glottocode, descendants_glotto),
+       iso_codes = iso_codes,
+       wals_codes = wals_codes,
+       macroarea = macroarea,
+       geo = geo)
 }
-# Add other edges
+
+# Walk tree using DFS.
+# - Fill in data in env()
+# - Add data from descendants
 walk(glottolog_tree, walk_glottolog)
-languoids <- as_list(env) %>% bind_rows()
-rm(env)
+rm(.i, envir = env)
 
-# Add additional information
-languoids <- left_join(languoids,
-          select(IO$glottolog_languoids,
-                 glottocode = id,
-                 iso_639_3 = hid,
-                 latitude, longitude,
-                 level, status, bookkeeping),
-          by = "glottocode")
+# A second pass through the tree to fill in missing values
+# inherited from ancestors
+fill_descendants <- function(x, parent = NULL) {
+  glottocode <- x[["glottocode"]]
+  if (!is.null(parent)) {
+    parent_data <- env[[parent]]
+    .data <- env[[glottocode]]
 
-geomean2 <- function(longitude, latitude) {
-  if (length(longitude) > 1) {
-    out <- as.numeric(geomean(cbind(longitude, latitude)))
-    list(tibble(longitude = out[1], latitude = out[2]))
-  } else {
-    list(tibble(longitude = longitude, latitude = latitude))
+    for (i in c("latitude", "longitude")) {
+      if (is.na(.data[[i]])) {
+        .data[[i]] <- parent_data[[i]]
+      }
+    }
+    for (i in c("iso_639_3", "wals_codes", "macroarea")) {
+      if (!length(.data[[i]][[1]])) {
+        .data[[i]] <- parent_data[[i]]
+      }
+    }
+    env[[glottocode]] <- .data
   }
+  walk(x[["children"]], fill_descendants, parent = glottocode)
 }
+walk(glottolog_tree, fill_descendants)
 
-# calculate latitude and longitude for all
-distances2 <-
-  filter(languoids, is.na(latitude), is.na(longitude)) %>%
-  select(glottocode, descendants) %>%
-  unnest() %>%
-  inner_join(select(filter(languoids,
-                          !is.na(latitude), !is.na(longitude)),
-                   glottocode, latitude, longitude),
-            by = c(descendants = "glottocode")) %>%
-  group_by(glottocode) %>%
-  summarise(xy = geomean2(longitude, latitude)) %>% unnest()
+# Data to data frame
 
-languoids <-
-  left_join(languoids, distances2,
-          by = "glottocode") %>%
-  mutate(latitude = coalesce(latitude.x, latitude.y),
-         longitude = coalesce(longitude.x, longitude.y)) %>%
-  select(-matches("\\.[xy]$"))
+languoids <- as.list(env) %>% bind_rows()
 
+family <- "kxaa1236"
 
-# calculate patrial distance
-languoid_dists <-
-  inner_join(select(languoids, from = glottocode, family,
-                 ancestors_from = ancestors),
-            select(languoids, to = glottocode, family,
-                 ancestors_to = ancestors),
-            by = "family") %>%
-  filter(to != from) %>%
-  mutate(distance = length(setdiff(ancestors_from, ancestors_to)),
-         common = list(union(ancestors_from, ancestors_to))) %>%
-  select(from, to, distance, common)
-
-
-# All WALS match an ISO code,
-# Not all glottocodes have a WALS
-#
-# 1. WALS distances using glottoces
-# 2. For all glottocodes find the closest WALS language(s)
-glottocode_to_wals1 <- select(IO$wals, from = glottocode, wals_code) %>%
-  mutate(to = glottocode, distance = 0)
-
-glottocode_to_wals2 <-
-  select(languoids_dists, from, to, distance) %>%
-  anti_join(glottocode_to_wals1, by = "from") %>%
-  inner_join(select(filter(IO$wals, !is.na(glottocode)),
-                    glottocode, wals_code),
-             by = c(to = "glottocode")) %>%
-  group_by(from) %>%
-  filter(distance == min(distance))
-
-glottocode_to_wals <- bind_rows(glottocode_to_wals1,
-                                glottocode_to_wals2)
-
-glottocode_to_iso_639 <-
-  select(languoid_dists, from, to, distance) %>%
-  # remove those that already have iso_639_codes
-  anti_join(filter(languoids, !is.na(iso_639_3)),
-            by = c(from = "glottocode")) %>%
-  inner_join(select(filter(languoids, !is.na(iso_639_3)),
-                    to = glottocode, iso_639_3),
-             by = "to") %>%
-  group_by(from) %>%
-  filter(distance == min(distance)) %>%
-  bind_rows(select(filter(languoids, !is.na(iso_639_3)),
-                   from = glottocode, iso_639_3) %>%
-              mutate(to = glottocode, distance = 0))
+filter(languoids, family == UQ(family)) %>%
+  mutate(wals_codes = map_chr(wals_codes, paste0, collapse = " "),
+         iso_639_3 = map_chr(iso_639_3, paste0, collapse = " ")) %>%
+  select(depth, glottocode, parent, iso_639_3, wals_codes, latitude, longitude) %>%
+  arrange(-depth)
