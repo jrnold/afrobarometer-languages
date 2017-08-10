@@ -4,6 +4,8 @@ library("tidyverse")
 library("geosphere")
 source("src/init.R")
 
+OUTPUT <- project_path("data", "glottolog.csv")
+
 glottolog_tree <-
   read_json("external/glottolog/tree-glottolog.json",
             simplifyVector = FALSE)
@@ -144,9 +146,7 @@ walk_glottolog <- function(x,
            macroarea = list(macroarea),
            i = i,
            depth = depth,
-           family = family,
-           is_family = (depth == 1),
-           is_leaf = (!length(x[["children"]])))
+           family = family)
 
   list(glottocodes = c(glottocode, descendants_glotto),
        iso_codes = iso_codes,
@@ -196,3 +196,23 @@ filter(languoids, family == UQ(family)) %>%
          iso_639_3 = map_chr(iso_639_3, paste0, collapse = " ")) %>%
   select(depth, glottocode, parent, iso_639_3, wals_codes, latitude, longitude) %>%
   arrange(-depth)
+
+#' Merge other info
+languoid_meta <- select(IO$glottolog_languoids,
+                        name,
+                        glottocode = id,
+                        level,
+                        bookkeeping)
+
+languoids <-
+  left_join(languoids, languoid_meta, by = "glottocode") %>%
+  mutate_at(vars(iso_639_3, wals_codes, ancestors, children, descendants),
+            funs(map_chr(., paste0, collapse = " "))) %>%
+  # since macroarea can have spaces, use ; delim
+  mutate_at(vars(macroarea),
+            funs(map_chr(., paste0, collapse = ";"))) %>%
+  select(glottocode, name, level, depth, family, parent, ancestors,
+         children, descendants, iso_639_3, wals_codes,
+         macroarea, latitude, longitude, bookkeeping)
+
+write_csv(OUTPUT, na = "")
