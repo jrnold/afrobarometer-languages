@@ -52,13 +52,16 @@ resources:
             required: true
             minimum: 1
             maximum: 6
-        - <<: &question
-            name: question
+        - <<: &variable
+            name: variable
             type: string
-            title: Afrobarometer survey question/variable
+            title: Variable
+            description: >-
+              Afrobarometer survey variable name; case sensitive, as it
+              appears in the SPSS dataset.
           constraints:
             required: true
-            enum: &question_variables
+            enum: &variable_enum
             - language
             - q83
             - q97
@@ -121,15 +124,15 @@ resources:
     title: "Afrobarometer 'Other' Languages"
     description: >-
       Languages mentioned in the text responses after answering "other" to
-      a language question.
+      a language variable.
     <<: *csv
     schema:
       fields:
         - *round
-        - <<: *question
+        - <<: *variable
           constraints:
             required: true
-            enum: &question_variables_other
+            enum: &variable_enum_other
             - Q2OTHER
             - Q3OTHER
             - Q103OTHER
@@ -221,10 +224,10 @@ resources:
     schema:
       fields:
       - *round
-      - <<: *question
+      - <<: *variable
         constraints:
           required: true
-          enum: *question_variables
+          enum: *variable_enum
       - <<: *lang_id
         name: lang_id
       - <<: *lang_name
@@ -272,10 +275,10 @@ resources:
     schema:
       fields:
       - *round
-      - <<: *question
+      - <<: *variable
         constraints:
           required: true
-          enum: *question_variables_other
+          enum: *variable_enum_other
       - *country
       - <<: *lang_other
         name: value
@@ -293,10 +296,10 @@ resources:
     schema:
       fields:
       - *round
-      - <<: *question
+      - <<: *variable
         constraints:
           required: true
-          enum: *question_variables
+          enum: *variable_enum
       - <<: *lang_id
         name: lang_id
       - <<: *lang_name
@@ -348,10 +351,10 @@ resources:
     schema:
       fields:
         - *round
-        - <<: *question
+        - <<: *variable
           constraints:
             required: true
-            enum: *question_variables_other
+            enum: *variable_enum_other
         - *country
         - <<: *lang_other
           name: value
@@ -372,10 +375,10 @@ resources:
     schema:
       fields:
       - *round
-      - <<: *question
+      - <<: *variable
         constraints:
           required: true
-          enum: *question_variables
+          enum: *variable_enum
       - <<: *lang_id
         name: lang_id
       - <<: *lang_name
@@ -401,10 +404,10 @@ resources:
     schema:
       fields:
         - *round
-        - <<: *question
+        - <<: *variable
           constraints:
             required: true
-            enum: *question_variables_other
+            enum: *variable_enum_other
         - *country
         - <<: *lang_other
           name: value

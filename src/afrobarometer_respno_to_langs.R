@@ -80,7 +80,7 @@ respno_to_langs_round <- function(.round) {
     x = "wals_code",
     mapping =
       select(filter(afrobarometer_to_wals, round == UQ(.round)),
-             variable = question, country, value = lang_id, wals_code),
+             variable, country, value = lang_id, wals_code),
     lang_vars = filter(lang_vars, !other)
   )
 
@@ -88,7 +88,7 @@ respno_to_langs_round <- function(.round) {
     x = "iso_639_3",
     mapping =
      select(filter(afrobarometer_to_iso, round == UQ(.round)),
-            variable = question, country,
+            variable, country,
             value = lang_id, iso_639_3),
     lang_vars = filter(lang_vars, !other)
   )
@@ -97,7 +97,7 @@ respno_to_langs_round <- function(.round) {
     x = "glottocode",
     mapping =
       select(filter(afrobarometer_to_glottolog, round == UQ(.round)),
-             variable = question, country,
+             variable, country,
              value = lang_id, glottocode),
     lang_vars = filter(lang_vars, !other)
   )
@@ -108,7 +108,7 @@ respno_to_langs_round <- function(.round) {
       mapping =
         select(filter(afrobarometer_other_to_iso,
                       round == UQ(.round)),
-               variable = question, country, value, iso_639_3),
+               variable, country, value, iso_639_3),
       lang_vars = filter(lang_vars, other)
     )
 
@@ -123,7 +123,7 @@ respno_to_langs_round <- function(.round) {
       x = "wals_code",
       mapping =
         select(filter(afrobarometer_other_to_wals, round == UQ(.round)),
-               variable = question, country, value, wals_code),
+               variable, country, value, wals_code),
       lang_vars = filter(lang_vars, other)
     )
 
@@ -138,7 +138,7 @@ respno_to_langs_round <- function(.round) {
       x = "glottocode",
       mapping =
         select(filter(afrobarometer_other_to_glottolog, round == UQ(.round)),
-               variable = question, country, value, glottocode),
+               variable, country, value, glottocode),
       lang_vars = filter(lang_vars, other)
     )
 

@@ -1,4 +1,4 @@
-round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_scope
+round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_scope
 1,language,1,Afrikaans,1,BW,afr,Afrikaans,I
 1,language,1,Afrikaans,6,NA,afr,Afrikaans,I
 1,language,1,Afrikaans,8,ZA,afr,Afrikaans,I
@@ -3830,6 +3830,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,1271,Gouro,27,CI,goa,Guro,I
 5,Q2,1273,Guéré,27,CI,gxx,Wè Southern,I
 5,Q2,1273,Guéré,27,CI,wec,Wè Western,I
+5,Q2,1274,Koulango,27,CI,kzc,Bondoukou Kulango,I
 5,Q2,1274,Koulango,27,CI,nku,Bouna Kulango,I
 5,Q2,1275,Kroumen,27,CI,pye,Pye Krumen,I
 5,Q2,1275,Kroumen,27,CI,ted,Tepo Krumen,I
@@ -3850,6 +3851,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,1301,Baga,28,GN,bcg,Baga Pokur,I
 5,Q2,1301,Baga,28,GN,bmd,Baga Manduri,I
 5,Q2,1301,Baga,28,GN,bsp,Baga Sitemu,I
+5,Q2,1301,Baga,28,GN,ldm,Landoma,I
 5,Q2,1302,Poular,28,GN,fuf,Pular,I
 5,Q2,1302,Poular,28,GN,ful,Fulah,M
 5,Q2,1303,Djalounké,28,GN,yal,Yalunka,I
@@ -5046,6 +5048,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,1271,Gouro,8,CI,goa,Guro,I
 6,Q2,1272,Guéré,8,CI,gxx,Wè Southern,I
 6,Q2,1272,Guéré,8,CI,wec,Wè Western,I
+6,Q2,1273,Koulango,8,CI,kzc,Bondoukou Kulango,I
 6,Q2,1273,Koulango,8,CI,nku,Bouna Kulango,I
 6,Q2,1274,Kroumen,8,CI,pye,Pye Krumen,I
 6,Q2,1274,Kroumen,8,CI,ted,Tepo Krumen,I

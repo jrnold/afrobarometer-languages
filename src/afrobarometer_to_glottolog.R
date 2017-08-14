@@ -14,7 +14,7 @@ to_glottocodes <-
       # it shouldn't be empty but if it is, continue
       if (is.null(names(.x[["glottocodes"]]))) {
         # if no names, then all countries
-        out <- tidyr::crossing(question = .x[["variables"]],
+        out <- tidyr::crossing(variable = .x[["variables"]],
                                glottocode = as.character(.x[["glottocodes"]]))
         out$valid_country <- NA_character_
       } else {
@@ -23,11 +23,10 @@ to_glottocodes <-
                        glottocodes,
                        ~ tibble(glottocode = .y,
                                 valid_country = as.character(.x)))
-        out <- tidyr::crossing(out, question = .x[["variables"]])
+        out <- tidyr::crossing(out, variable = .x[["variables"]])
       }
     } else {
-      print(.x)
-      out <- tidyr::crossing(question = .x[["variables"]])
+      out <- tidyr::crossing(variable = .x[["variables"]])
       out[["valid_country"]] <- NA_character_
       out[["glottocode"]] <- NA_character_
     }
@@ -36,8 +35,8 @@ to_glottocodes <-
     out
   }) %>%
   left_join(select(IO$afrobarometer_langs,
-                    round, question, lang_id = value, iso_alpha2),
-             by = c("round", "question", "lang_id")) %>%
+                    round, variable, lang_id = value, iso_alpha2),
+             by = c("round", "variable", "lang_id")) %>%
   filter(is.na(valid_country) | (valid_country == iso_alpha2)) %>%
   select(-valid_country)
 
@@ -45,11 +44,11 @@ to_glottocodes <-
 afrobarometer_to_glottolog <-
   left_join(
     select(IO$afrobarometer_langs, round,
-           lang_id = value, question, iso_alpha2, country, lang_name = name),
+           lang_id = value, variable, iso_alpha2, country, lang_name = name),
     to_glottocodes,
-    by = c("round", "question", "lang_id", "iso_alpha2")) %>%
-  select(round, question, lang_id, lang_name, country, iso_alpha2, glottocode) %>%
-  arrange(round, question, lang_id, country)
+    by = c("round", "variable", "lang_id", "iso_alpha2")) %>%
+  select(round, variable, lang_id, lang_name, country, iso_alpha2, glottocode) %>%
+  arrange(round, variable, lang_id, country)
 
 #'
 #' # Test data
@@ -59,7 +58,7 @@ assert_that(nrow(afrobarometer_to_glottolog) ==
 
 #' check primary key
 assert_that(nrow(distinct(afrobarometer_to_glottolog,
-                          round, question, lang_id, country))
+                          round, variable, lang_id, country))
             == nrow(afrobarometer_to_glottolog))
 
 #' all glottolog langs should be valid
@@ -76,7 +75,7 @@ if (nrow(invalid_glottocode)) {
 to_glottolog_langmiss <-
   afrobarometer_to_glottolog %>%
   anti_join(IO$afrobarometer_langs,
-            by = c("round", "question", "lang_id" = "value", "country"))
+            by = c("round", "variable", "lang_id" = "value", "country"))
 if (nrow(to_glottolog_langmiss)) {
   print(to_glottolog_langmiss)
   stop("Invalid Afrobarometer languages found")
@@ -86,9 +85,9 @@ if (nrow(to_glottolog_langmiss)) {
 to_glottolog_nonmatches <-
   IO$afrobarometer_langs %>%
   anti_join(filter(IO$afrobarometer_to_iso, iso_scope == "S"),
-            by = c("round", "question", "value" = "lang_id", "country")) %>%
+            by = c("round", "variable", "value" = "lang_id", "country")) %>%
   anti_join(afrobarometer_to_glottolog,
-            by = c("round", "question", "value" = "lang_id", "country"))
+            by = c("round", "variable", "value" = "lang_id", "country"))
 if (nrow(to_glottolog_nonmatches)) {
   print(to_glottolog_nonmatches)
   stop("Unaccounted for non-matches found")
@@ -104,7 +103,7 @@ glottolog_non_african <-
     filter(!glottocode %in% IO$misc_data$glottolog$non_african)
 if (nrow(glottolog_non_african)) {
   print(select(macroarea, glottolog_non_african, glottocode,  lang_name,
-               round, question, lang_id))
+               round, variable, lang_id))
   stop("Non-African Glottolog languages found")
 }
 

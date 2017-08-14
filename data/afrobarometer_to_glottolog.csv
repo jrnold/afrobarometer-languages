@@ -1,4 +1,4 @@
-round,question,lang_id,lang_name,country,iso_alpha2,glottocode
+round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 1,language,1,Afrikaans,1,BW,afri1274
 1,language,1,Afrikaans,6,NA,afri1274
 1,language,1,Afrikaans,8,ZA,afri1274
@@ -74,7 +74,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,glottocode
 1,language,33,Lomwe,4,MW,mala1256
 1,language,34,Tumbuka,4,MW,tumb1250
 1,language,35,Yao,4,MW,yaoo1241
-1,language,37,Nkhonde,4,MW,nyak1260
+1,language,37,Nkhonde,4,MW,nkon1246
 1,language,38,Lambya,4,MW,lamb1272
 1,language,41,Akan,2,GH,akan1250
 1,language,42,Dangaare,2,GH,sout2789
@@ -483,7 +483,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,glottocode
 2,q83,123,Ga,2,GH,gaaa1244
 2,q83,124,Hausa,2,GH,haus1257
 2,q83,140,Tumbuka,4,MW,tumb1250
-2,q83,141,Nkhonde,4,MW,nyak1260
+2,q83,141,Nkhonde,4,MW,nkon1246
 2,q83,143,Chewa,4,MW,nyan1308
 2,q83,144,Yao,4,MW,yaoo1241
 2,q83,145,Ngoni,4,MW,tumb1253
@@ -1163,7 +1163,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,glottocode
 3,q3,243,comorien,7,MG,como1260
 3,q3,244,pakistanais,7,MG,guja1252
 3,q3,260,Tumbuka,8,MW,tumb1250
-3,q3,261,Nkhonde,8,MW,nyak1260
+3,q3,261,Nkhonde,8,MW,nkon1246
 3,q3,262,Lambya,8,MW,lamb1272
 3,q3,263,Chewa,8,MW,nyan1308
 3,q3,264,Yao,8,MW,yaoo1241
@@ -1786,7 +1786,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q3,420,Official malagasy,9,MG,plat1254
 4,Q3,421,Malagasy with regional variation,9,MG,mala1537
 4,Q3,460,Tumbuka,10,MW,tumb1250
-4,Q3,461,Nkhonde,10,MW,nyak1260
+4,Q3,461,Nkhonde,10,MW,nkon1246
 4,Q3,462,Lambya,10,MW,lamb1272
 4,Q3,463,Chewa,10,MW,nyan1308
 4,Q3,464,Yao,10,MW,yaoo1241
@@ -2927,7 +2927,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q2,1270,Godié,27,CI,godi1239
 5,Q2,1271,Gouro,27,CI,guro1248
 5,Q2,1273,Guéré,27,CI,guer1240
-5,Q2,1274,Koulango,27,CI,boun1243
+5,Q2,1274,Koulango,27,CI,kula1277
 5,Q2,1275,Kroumen,27,CI,ivor1240
 5,Q2,1279,Yacouba,27,CI,dann1241
 5,Q2,1280,Wobe,27,CI,weno1238
@@ -2941,7 +2941,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q2,1288,Mbatto,27,CI,mbat1247
 5,Q2,1289,Mahouka,27,CI,maho1249
 5,Q2,1300,Soussou,28,GN,susu1250
-5,Q2,1301,Baga,28,GN,atla1278
+5,Q2,1301,Baga,28,GN,temn1245
 5,Q2,1302,Poular,28,GN,pula1262
 5,Q2,1303,Djalounké,28,GN,yalu1240
 5,Q2,1304,Diakanké,28,GN,jaha1245
@@ -3250,7 +3250,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q116,420,Malgache « officiel »,16,MG,plat1254
 6,Q116,421,Malgache avec spécificité régionale,16,MG,mala1537
 6,Q116,460,Chitumbuka,17,MW,tumb1250
-6,Q116,461,Chinkhonde,17,MW,nyak1260
+6,Q116,461,Chinkhonde,17,MW,nkon1246
 6,Q116,463,Chichewa,17,MW,nyan1308
 6,Q116,464,Chiyao,17,MW,yaoo1241
 6,Q116,466,Chilomwe,17,MW,mala1256
@@ -3584,7 +3584,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q2,420,Malgache « officiel »,16,MG,plat1254
 6,Q2,421,Malgache avec spécificité régionale,16,MG,mala1537
 6,Q2,460,Chitumbuka,17,MW,tumb1250
-6,Q2,461,Chinkhonde,17,MW,nyak1260
+6,Q2,461,Chinkhonde,17,MW,nkon1246
 6,Q2,462,Chilambya,17,MW,lamb1272
 6,Q2,463,Chichewa,17,MW,nyan1308
 6,Q2,464,Chiyao,17,MW,yaoo1241
@@ -3851,7 +3851,7 @@ round,question,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q2,1270,Godié,8,CI,godi1239
 6,Q2,1271,Gouro,8,CI,guro1248
 6,Q2,1272,Guéré,8,CI,guer1240
-6,Q2,1273,Koulango,8,CI,boun1243
+6,Q2,1273,Koulango,8,CI,kula1277
 6,Q2,1274,Kroumen,8,CI,ivor1240
 6,Q2,1278,Yacouba,8,CI,dann1241
 6,Q2,1279,Djimini,8,CI,djim1235

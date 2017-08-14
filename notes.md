@@ -244,6 +244,14 @@ In Morocco - Tamazight, Stnadard Moroccan (zgh),
 Tachelhit (shi), Tarafit (rif), and Tamazight, Central Atlas (tzm)
 are the largest.
 
+# Fali
+
+Multiple languages named Fali in Cameroon and Nigeria, some of which are unrelated.
+Different from North Fali [fll], Fali of Baissa [fah], or Fali [fli] of Nigeria and Cameroon, which is Chadic.
+
+Also, Glottlog places North and South Fali as unclassified [Volta-Congo languages](http://glottolog.org/resource/languoid/id/fali1285).
+Ethnologue puts North and South Fali in the [Adamawa subgroup](https://www.ethnologue.com/subgroups/adamawa).
+
 
 # Multiple Languages
 

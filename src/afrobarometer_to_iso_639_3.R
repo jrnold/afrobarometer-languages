@@ -34,20 +34,20 @@ afrobarometer_to_iso <- IO$afrobarometer_mappings %>%
       if (!is.null(.x[["iso_639_3"]])) {
         if (is.null(names(.x[["iso_639_3"]]))) {
           # if no names, then all countries
-          out <- tidyr::crossing(question = .x[["question"]],
+          out <- tidyr::crossing(variable = .x[["variables"]],
                                  iso_639_3 = .x[["iso_639_3"]])
         } else {
           iso_codes <- .x[["iso_639_3"]]
           out <- map2_df(names(iso_codes), iso_codes,
                          ~ tibble(iso_639_3 = .x, country = .y))
-          out <- tidyr::crossing(out, question = .x[["question"]])
+          out <- tidyr::crossing(out, variable = .x[["variables"]])
         }
         out[["lang_id"]] <- .x$lang_id
         out[["round"]] <- .x$round
         out
       } else {
-        stop("iso_639_3 key is not found: round ", .x$round, ", question ",
-             .x$question, " lang_id ", .x$lang_id)
+        stop("iso_639_3 key is not found: round ", .x$round, ", variable ",
+             .x$variable, " lang_id ", .x$lang_id)
       }
     }) %>%
   {bind_rows(.,
@@ -70,15 +70,15 @@ afrobarometer_to_iso %<>%
 
 #' Add Additional info from Afrobarometer
 afrobarometer_to_iso %<>%
-  right_join(select(afrobarometer_langs, round, question, lang_id, lang_name,
+  right_join(select(afrobarometer_langs, round, variable, lang_id, lang_name,
                     country, iso_alpha2),
-            by = c("round", "question", "lang_id")) %>%
+            by = c("round", "variable", "lang_id")) %>%
   # Filter country non-matches
   filter(is.na(valid_country) | valid_country == iso_alpha2) %>%
   select(-valid_country) %>%
-  select(round, question, lang_id, lang_name, country, iso_alpha2,
+  select(round, variable, lang_id, lang_name, country, iso_alpha2,
          iso_639_3, iso_ref_name, iso_scope) %>%
-  arrange(round, question, lang_id, iso_alpha2, iso_639_3)
+  arrange(round, variable, lang_id, iso_alpha2, iso_639_3)
 
 #'
 #' # Test Output Data
@@ -88,8 +88,8 @@ with(afrobarometer_to_iso, {
   assert_that(is_integerish(round))
   assert_that(seteq(unique(round), misc_data$afrobarometer$rounds))
 
-  assert_that(is.character(question))
-  assert_that(all(!is.na(question)))
+  assert_that(is.character(variable))
+  assert_that(all(!is.na(variable)))
 
   # Lang Id
   assert_that(is.integer(lang_id))
@@ -125,12 +125,12 @@ with(afrobarometer_to_iso, {
 # all afrobarometer langs should appear
 afrobarometer_lang_nonmatches <-
   anti_join(afrobarometer_langs, afrobarometer_to_iso,
-            by = c("question", "lang_id", "country"))
+            by = c("variable", "lang_id", "country"))
 stopifnot(nrow(afrobarometer_lang_nonmatches) == 0)
 
 # check primary keys
 assert_that(
-  nrow(distinct(afrobarometer_to_iso, round, question,
+  nrow(distinct(afrobarometer_to_iso, round, variable,
                 lang_id, country, iso_639_3)) ==
     nrow(afrobarometer_to_iso)
 )
@@ -159,7 +159,7 @@ iso_country_non_matches <-
          !iso_639_3 %in% IGNORE_LANGS) %>%
   # remove any known non-matches
   anti_join(IO$afrobarometer_to_iso_country_nonmatches,
-            by = c("round", "question", "lang_id", "iso_alpha2",
+            by = c("round", "variable", "lang_id", "iso_alpha2",
                    "iso_639_3")) %>%
   anti_join(ethnologue_langidx,
             by = c(iso_639_3 = "LangID", iso_alpha2 = "CountryID"))
@@ -167,7 +167,7 @@ iso_country_non_matches <-
 stopifnot(nrow(iso_country_non_matches) == 0)
 # This generates YAML to add to misc_data exceptions
 # iso_country_non_matches %>%
-#   select(round, question, lang_id, lang_name, iso_639_3) %>%
+#   select(round, variable, lang_id, lang_name, iso_639_3) %>%
 #   yaml::as.yaml(column.major = FALSE) %>% cat()
 
 distant_matches <-
@@ -176,8 +176,8 @@ distant_matches <-
   filter(iso_scope == "I") %>%
   # ignore known bad cases
   anti_join(IO$afrobarometer_to_iso_distant_matches,
-            by = c("round", "question", "lang_id", "iso_alpha2")) %>%
-  group_by(round, question, lang_id, lang_name, iso_alpha2) %>%
+            by = c("round", "variable", "lang_id", "iso_alpha2")) %>%
+  group_by(round, variable, lang_id, lang_name, iso_alpha2) %>%
   do(as_tibble(tidyr::crossing(from = .$iso_639_3, to = .$iso_639_3))) %>%
   # filter self matches
   filter(from != to) %>%
@@ -185,7 +185,7 @@ distant_matches <-
   left_join(IO$ethnologue_distances, by = c("from", "to")) %>%
   # set an arbitrarily large distance for non-family matches
   mutate(distance = if_else(is.na(distance), 1000L, distance)) %>%
-  group_by(round, question, lang_id, lang_name, iso_alpha2) %>%
+  group_by(round, variable, lang_id, lang_name, iso_alpha2) %>%
   summarise(distance = max(distance)) %>%
   arrange(desc(distance), lang_name, iso_alpha2, round) %>%
   # Most matches are 2 and below
@@ -198,7 +198,7 @@ if (nrow(distant_matches) > 0) {
 
 consistent_mappings <-
   afrobarometer_to_iso %>%
-  group_by(round, question, lang_name, iso_alpha2) %>%
+  group_by(round, variable, lang_name, iso_alpha2) %>%
   summarise(iso_639_3 = str_c(iso_639_3, collapse = " ")) %>%
   group_by(iso_alpha2, lang_name, iso_639_3) %>%
   filter(length(unique(iso_639_3)) > 1) %>%

@@ -65,7 +65,7 @@ afrobarometer_other_to_iso <-
   left_join(afrobarometer_langs_other,
             afrobarometer_other_to_iso,
             by = c("iso_alpha2" = "country", "lang_name")) %>%
-  select(round, question, country, value, iso_639_3, iso_scope,
+  select(round, variable, country, value, iso_639_3, iso_scope,
          iso_ref_name, iso_alpha2)
 
 
@@ -75,7 +75,7 @@ afrobarometer_other_to_iso <-
 
 # Primary Key
 assert_that(
-  nrow(distinct(afrobarometer_other_to_iso, round, question,
+  nrow(distinct(afrobarometer_other_to_iso, round, variable,
                 country, value, iso_639_3)) ==
     nrow(afrobarometer_other_to_iso)
 )
@@ -85,8 +85,8 @@ with(afrobarometer_other_to_iso, {
   assert_that(is_integerish(round))
   assert_that(all(unique(round) %in% misc_data$afrobarometer$rounds))
 
-  assert_that(is.character(question))
-  assert_that(all(!is.na(question)))
+  assert_that(is.character(variable))
+  assert_that(all(!is.na(variable)))
 
   assert_that(all(!is.na(country)))
   assert_that(is.integer(country))

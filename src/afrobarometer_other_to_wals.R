@@ -26,59 +26,53 @@ afrobarometer_langs_other <-
   mutate(lang_name = str_to_lower(value))
 
 #' Afrobarometer Mappings
-other_to_wals_manual <-
+to_wals_manual <-
   IO$afrobarometer_other_mappings %>%
   map_df(function(.x) {
-    if (!is.null(.x[["wals_code"]])) {
-      out <- tidyr::crossing(country = .x[["country"]],
+    if (!is.null(.x[["wals_codes"]])) {
+      out <- tidyr::crossing(iso_alpha2 = .x[["country"]],
 
-                             wals_code = .x[["wals_code"]])
-      out[["lang_name"]] <- .x$lang_name
+                             wals_code = .x[["wals_codes"]])
+      out[["standardized_name"]] <- str_to_lower(.x$lang_name)
       out
     }
   }) %>%
-  select(country, lang_name, wals_code) %>%
-  distinct() %>%
-  mutate(auto = 0L, distance = 0L)
+  select(iso_alpha2, standardized_name, wals_code) %>%
+  left_join(IO$afrobarometer_langs_other,
+            by = c("standardized_name", "iso_alpha2")) %>%
+  select(round, variable, value, country, wals_code) %>%
+  mutate(auto = 0L)
 
-other_to_wals_auto <-
-  IO$afrobarometer_other_to_iso %>%
-  filter(iso_scope %in% "I") %>%
-  mutate(lang_name = str_to_lower(value)) %>%
-  select(country = iso_alpha2, lang_name, iso_639_3) %>%
-  # there can multiples of the above
-  distinct() %>%
-  # remove those already accounted for
-  anti_join(other_to_wals_manual,
-            by = c("country", "lang_name")) %>%
-  inner_join(iso_to_wals, by = "iso_639_3") %>%
-  select(-iso_639_3) %>%
-  distinct() %>%
-  # minimize linguistic dist
-  group_by(country, lang_name) %>%
-  filter(distance == min(distance)) %>%
-  # prefer within country
-  left_join(select(wals, wals_code, wals_countries = countrycodes),
+# mappings to fill in remaining Afrobarometer to WALS mappings
+to_wals_auto <-
+  IO$glottolog %>%
+  select(glottocode, wals_codes) %>%
+  inner_join(select(IO$afrobarometer_other_to_glottolog,
+                    round, variable, value, country, iso_alpha2,
+                    glottocode),
+             by = "glottocode") %>%
+  mutate(standardized_name = str_to_lower(value)) %>%
+  anti_join(to_wals_manual, by = c("round", "variable", "value", "country")) %>%
+  mutate(wals_codes = str_split(wals_codes, " "), auto = 1L) %>%
+  unnest(wals_codes) %>%
+  rename(wals_code = wals_codes) %>%
+  # Filter by countries
+  left_join(select(IO$wals, wals_code, countrycodes, genus),
             by = "wals_code") %>%
-  mutate(in_wals_country = map2_int(country, wals_countries,
-                                    ~ if_else(is.null(.y), 0L,
-                                              as.integer(.x %in% .y)))) %>%
-  select(-wals_countries) %>%
-  group_by(country, lang_name) %>%
-  filter(in_wals_country == max(in_wals_country)) %>%
-  # prefer same country as orig
-  group_by(country, lang_name) %>%
-  filter(same_country == max(same_country)) %>%
+  # I should always handle Creoles separately
+  filter(genus != "Creoles and Pidgins") %>%
+  # Prefer matches within country
+  # mutate(in_country = str_detect(countrycodes, iso_alpha2)) %>%
+  # group_by(round, variable, lang_id, country) %>%
+  # filter(in_country == max(in_country)) %>%
   ungroup() %>%
-  select(country, lang_name, wals_code, distance, same_country,
-         in_wals_country) %>%
-  distinct() %>%
+  select(round, variable, value, country, wals_code) %>%
   mutate(auto = 1L)
 
 #' Combine the auto and manual matches
 afrobarometer_other_to_wals <-
-  bind_rows(other_to_wals_manual,
-            other_to_wals_auto) %>%
+  bind_rows(to_wals_manual,
+            to_wals_auto) %>%
   distinct()
 
 #' Add WALS names
@@ -86,15 +80,14 @@ afrobarometer_other_to_wals %<>%
   left_join(select(wals, wals_code, wals_name = Name),
             by = "wals_code")
 
-#' Merge with Original
+# Ensure that all Afrobarometer Languages are accounted for
 afrobarometer_other_to_wals <-
-  # Outer join to ensure that all Afrobarometer Languages are accounted for
   left_join(afrobarometer_langs_other,
              afrobarometer_other_to_wals,
-             by = c(iso_alpha2 = "country", "lang_name")) %>%
-  select(round, question, country, value, iso_alpha2, wals_code,
-         wals_name, auto, distance, same_country, in_wals_country) %>%
-  arrange(round, question, country, value)
+             by = c("round", "variable", "country", "value")) %>%
+  select(round, variable, country, value, iso_alpha2, wals_code,
+         wals_name, auto) %>%
+  arrange(round, variable, country, value)
 
 #'
 #' # Tests
@@ -103,7 +96,7 @@ afrobarometer_other_to_wals <-
 # check primary key
 assert_that(
   nrow(distinct(afrobarometer_other_to_wals,
-                round, question, country, value, wals_code)) ==
+                round, variable, country, value, wals_code)) ==
     nrow(afrobarometer_other_to_wals)
 )
 
@@ -113,8 +106,8 @@ with(afrobarometer_other_to_wals, {
   assert_that(all(!is.na(round)))
   assert_that(is_integerish(round))
 
-  assert_that(is.character(question))
-  assert_that(all(!is.na(question)))
+  assert_that(is.character(variable))
+  assert_that(all(!is.na(variable)))
 
   # Lang Id
   assert_that(all(!is.na(country)))
@@ -137,8 +130,6 @@ with(afrobarometer_other_to_wals, {
   assert_that(is.character(wals_name))
   assert_that(all(is.na(wals_code) | !is.na(auto)))
   assert_that(all(na.omit(auto) %in% c(0, 1)))
-
-  assert_that(all(is.na(distance) | distance >= 0))
   assert_that(all(is.na(auto) | auto %in% c(1, 0)))
 
 })
@@ -187,7 +178,7 @@ matches_unrelated_langs <-
   # remove WALS non-matches
   filter(!is.na(wals_code)) %>%
   left_join(select(wals, wals_code, genus), by = "wals_code") %>%
-  group_by(round, question, country, value) %>%
+  group_by(round, variable, country, value) %>%
   summarise(n_genus = length(unique(genus))) %>%
   filter(n_genus > 1)
 

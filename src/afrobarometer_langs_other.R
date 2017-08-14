@@ -30,19 +30,20 @@ afrobarometer_langs_other_r <- function(.round) {
       mutate(country = as.integer(country)) %>%
       mutate_at(vars(one_of(lang_vars)),
                 funs(as.character)) %>%
-      gather(question, value, -country) %>%
+      gather(variable, value, -country) %>%
       filter(value != "") %>%
-      count(country, question, value) %>%
+      count(country, variable, value) %>%
       mutate(round = !!.round)
   }
 }
 
 afrobarometer_langs_other <- map_df(IO$misc_data$afrobarometer$rounds,
                                     afrobarometer_langs_other_r) %>%
-  left_join(afrobarometer_countries,
+  left_join(select(afrobarometer_countries, round, value, iso_alpha2),
             by = c("round", "country" = "value")) %>%
-  select(round, question, country, value, iso_alpha2) %>%
-  arrange(round, question, value)
+  mutate(standardized_name = str_to_lower(value)) %>%
+  select(round, variable, country, value, iso_alpha2, standardized_name, n) %>%
+  arrange(round, variable, value)
 
 afrobarometer_langs_other %>%
   write_csv(OUTPUT, na = "")

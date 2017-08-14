@@ -15,7 +15,7 @@ lang_summary <- function(lang_var, country_var, .data) {
     transmute(country = as.integer(UQ(sym(country_var))),
               value = as.integer(UQ(sym(lang_var))),
               name = as.character(haven::as_factor(UQ(sym(lang_var)))),
-              question = UQ(lang_var)
+              variable = UQ(lang_var)
               ) %>%
     distinct()
 }
@@ -47,16 +47,16 @@ afrobarometer_langs <- map_df(IO$misc_data$afrobarometer$rounds,
   left_join(afrobarometer_countries,
             by = c("round", "country" = "value")) %>%
   mutate(value = as.integer(value)) %>%
-  select(round, question, value, name, country, iso_alpha2) %>%
-  arrange(round, question, value, iso_alpha2)
+  select(round, variable, value, name, country, iso_alpha2) %>%
+  arrange(round, variable, value, iso_alpha2)
 
 with(afrobarometer_langs, {
   assert_that(all(!is.na(round)))
   assert_that(is_integerish(round))
   assert_that(seteq(unique(round), misc_data$afrobarometer$rounds))
 
-  assert_that(is.character(question))
-  assert_that(all(!is.na(question)))
+  assert_that(is.character(variable))
+  assert_that(all(!is.na(variable)))
 
   # Lang Id
   assert_that(is.integer(value))
@@ -78,7 +78,7 @@ with(afrobarometer_langs, {
 })
 # unique keys are unique
 assert_that(nrow(distinct(afrobarometer_langs, round,
-                          question, value, country)) ==
+                          variable, value, country)) ==
               nrow(afrobarometer_langs))
 
 #' Ouptut

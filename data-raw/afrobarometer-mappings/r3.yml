@@ -7,7 +7,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -17,7 +17,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1290
   iso_639_3:
   - fra
@@ -27,7 +27,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: port1283
   iso_639_3:
   - por
@@ -37,7 +37,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: swah1253
   iso_639_3:
   - swh
@@ -47,7 +47,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: afri1274
   iso_639_3:
   - afr
@@ -57,7 +57,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: sout2808
   iso_639_3:
   - nbl
@@ -67,7 +67,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: xhos1239
   iso_639_3:
   - xho
@@ -77,7 +77,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: pedi1238
   iso_639_3:
   - nso
@@ -87,7 +87,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: sout2807
   iso_639_3:
   - sot
@@ -97,7 +97,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tswa1253
   iso_639_3:
   - tsn
@@ -107,7 +107,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tson1249
   iso_639_3:
   - tso
@@ -117,7 +117,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: swat1243
   iso_639_3:
   - ssw
@@ -127,7 +127,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: vend1245
   iso_639_3:
   - ven
@@ -137,7 +137,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: zulu1248
   iso_639_3:
   - zul
@@ -147,7 +147,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -155,7 +155,7 @@
   lang_name: English + Afrikaans
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -163,7 +163,7 @@
   lang_name: English + Ndebele
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -171,7 +171,7 @@
   lang_name: English + Xhosa
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -179,7 +179,7 @@
   lang_name: English + Pedi/N. Sotho
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -187,7 +187,7 @@
   lang_name: English + Sesotho/S. Sotho
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -195,7 +195,7 @@
   lang_name: English + Setswana
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -203,7 +203,7 @@
   lang_name: English + Venda
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -211,7 +211,7 @@
   lang_name: English + Zulu
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: fonn1241
   iso_639_3:
   - fon
@@ -221,7 +221,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ajab1235
   iso_639_3:
   - ajg
@@ -231,7 +231,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: baat1238
   iso_639_3:
   - bba
@@ -241,7 +241,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: dend1243
   iso_639_3:
   - ddn
@@ -251,7 +251,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: yoru1245
   iso_639_3:
   - yor
@@ -261,7 +261,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: dita1238
   iso_639_3:
   - tbz
@@ -270,7 +270,7 @@
   variables:
   - q103
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: dita1238
   iso_639_3:
   - tbz
@@ -278,7 +278,7 @@
   lang_name: Ditamari
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: fula1264
   iso_639_3:
   - fue
@@ -289,7 +289,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: yomm1242
   iso_639_3:
   - pil
@@ -298,7 +298,7 @@
   variables:
   - q103
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: yomm1242
   iso_639_3:
   - pil
@@ -306,7 +306,7 @@
   lang_name: Yom
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: haus1257
   iso_639_3:
   - hau
@@ -316,7 +316,7 @@
     neighbors
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: edei1245
   iso_639_3:
   - ijj
@@ -325,7 +325,7 @@
   note: Ede Ije language? https://www.ethnologue.com/country/BJ/languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: lama1275
   iso_639_3:
   - las
@@ -334,7 +334,7 @@
   note: Burkina Faso (BF)
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tswa1253
   iso_639_3:
   - tsn
@@ -344,7 +344,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tsoa1238
   iso_639_3:
   - hio
@@ -352,7 +352,7 @@
   lang_name: Sesarwa
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kgal1244
   iso_639_3:
   - xkv
@@ -361,7 +361,7 @@
   note: Alt name for Kgalagadi. https://www.ethnologue.com/country/BW/languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: subi1246
   iso_639_3:
   - sbs
@@ -369,7 +369,7 @@
   lang_name: Sesobea
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kala1384
   iso_639_3:
   - kck
@@ -379,7 +379,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: here1253
   iso_639_3:
   - her
@@ -388,7 +388,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mbuk1240
   iso_639_3:
   - mhw
@@ -396,7 +396,7 @@
   lang_name: Sembukushu
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: birw1238
   iso_639_3:
   - brl
@@ -405,7 +405,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kgal1244
   iso_639_3:
   - xkv
@@ -413,7 +413,7 @@
   lang_name: Sengologa
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: yeyi1239
   iso_639_3:
   - yey
@@ -421,7 +421,7 @@
   lang_name: Seyei
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kabu1256
   iso_639_3:
   - kea
@@ -431,7 +431,7 @@
   - q103
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - pri
   - ago
   - gbc
@@ -445,7 +445,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ewee1241
   iso_639_3:
   - ewe
@@ -455,7 +455,7 @@
   - q103
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - ewe
 - glottocodes: gaaa1244
   iso_639_3:
@@ -465,7 +465,7 @@
   variables:
   - q103
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: gada1257
   iso_639_3:
   - ada
@@ -475,7 +475,7 @@
   note: Both Ga and Dangme languages.
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: dagb1246
   iso_639_3:
   - dag
@@ -484,7 +484,7 @@
   variables:
   - q103
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: null
   iso_639_3:
   - mul
@@ -492,7 +492,7 @@
   lang_name: Other Northern Languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: haus1257
   iso_639_3:
   - hau
@@ -500,7 +500,7 @@
   lang_name: HUSA
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: dagb1246
   iso_639_3:
   - dag
@@ -508,7 +508,7 @@
   lang_name: DAGBANI
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: null
   iso_639_3:
   - und
@@ -517,7 +517,7 @@
   variables:
   - q103
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: sout2789
   iso_639_3:
   - dga
@@ -525,7 +525,7 @@
   lang_name: DAGAARE
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kiku1240
   iso_639_3:
   - kik
@@ -535,7 +535,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: luok1236
   iso_639_3:
   - luo
@@ -546,7 +546,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: luyi1234
   iso_639_3:
   - bxk
@@ -568,7 +568,7 @@
   - q103
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - luy
 - glottocodes: kamb1297
   iso_639_3:
@@ -579,7 +579,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: cent2274
   iso_639_3:
   - ebu
@@ -590,7 +590,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: gusi1247
   iso_639_3:
   - guz
@@ -600,7 +600,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kale1246
   iso_639_3:
   - eyo
@@ -618,7 +618,7 @@
   - q103
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - nan
 - glottocodes: nucl1431
   iso_639_3:
@@ -629,7 +629,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: miji1238
   iso_639_3:
   - dig
@@ -640,7 +640,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tait1250
   iso_639_3:
   - dav
@@ -650,7 +650,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: soma1255
   iso_639_3:
   - som
@@ -660,7 +660,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: miji1238
   iso_639_3:
   - dig
@@ -670,7 +670,7 @@
   lang_name: Mijikenda
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: poko1263
   iso_639_3:
   - pko
@@ -678,7 +678,7 @@
   lang_name: Pokot
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: swah1253
   iso_639_3:
   - swh
@@ -687,7 +687,7 @@
   note: Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: turk1308
   iso_639_3:
   - tuv
@@ -695,7 +695,7 @@
   lang_name: Turkana
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: giry1241
   iso_639_3:
   - nyf
@@ -703,7 +703,7 @@
   lang_name: Giriama
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: digo1243
   iso_639_3:
   - dig
@@ -711,7 +711,7 @@
   lang_name: Digo
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: swah1253
   iso_639_3:
   - swh
@@ -719,7 +719,7 @@
   lang_name: Kiswahili/Luhya
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: giry1241
   iso_639_3:
   - nyf
@@ -727,7 +727,7 @@
   lang_name: Giriama
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -735,7 +735,7 @@
   lang_name: English/Swahili
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: duru1249
   iso_639_3:
   - dug
@@ -743,7 +743,7 @@
   lang_name: Duruma
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: saba1262
   iso_639_3:
   - spy
@@ -751,7 +751,7 @@
   lang_name: Sabaot
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: chon1287
   iso_639_3:
   - coh
@@ -759,7 +759,7 @@
   lang_name: Chonyi
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: burj1242
   iso_639_3:
   - bji
@@ -767,7 +767,7 @@
   lang_name: Burji
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: swah1253
   iso_639_3:
   - swh
@@ -776,7 +776,7 @@
   note: Dialect of Swahili. https://www.ethnologue.com/country/KE/languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kuri1259
   iso_639_3:
   - kuj
@@ -784,7 +784,7 @@
   lang_name: Kuria
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: oman1239
   iso_639_3:
   - acx
@@ -793,7 +793,7 @@
   note: Kenya (KE). Arabic (omani, spoken)
   variables:
   - q3
-  wals_code:
+  wals_codes:
   - arg
 - glottocodes: logo1258
   iso_639_3:
@@ -804,7 +804,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: sout2807
   iso_639_3:
   - sot
@@ -814,7 +814,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: swat1243
   iso_639_3:
   - ssw
@@ -823,7 +823,7 @@
   note: Lesotho (LS)
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: swat1243
   iso_639_3:
   - ssw
@@ -832,7 +832,7 @@
   note: Lesotho (LS)
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: plat1254
   iso_639_3:
   - plt
@@ -840,7 +840,7 @@
   lang_name: malg officiel
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: plat1254
   iso_639_3:
   - plt
@@ -848,7 +848,7 @@
   lang_name: malagasy officiel
   variables:
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: plat1254
   iso_639_3:
   - plt
@@ -856,7 +856,7 @@
   lang_name: malgache officielle
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mala1537
   iso_639_3:
   - bhr
@@ -873,7 +873,7 @@
   lang_name: dialect malg
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: mala1537
   iso_639_3:
   - bhr
@@ -890,7 +890,7 @@
   lang_name: dialecte
   variables:
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: mala1537
   iso_639_3:
   - bhr
@@ -907,7 +907,7 @@
   lang_name: langue régionale
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: como1260
   iso_639_3:
   - zdj
@@ -919,7 +919,7 @@
   note: Comorien is immmigrant lang of Madagascar https://www-ethnologue-com./country/MG
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: guja1252
   iso_639_3:
   - guj
@@ -928,7 +928,7 @@
   note: Madagascar
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tumb1250
   iso_639_3:
   - tum
@@ -938,8 +938,8 @@
   - q103
   - q114
   - q3
-  wals_code: null
-- glottocodes: nyak1260
+  wals_codes: null
+- glottocodes: nkon1246
   iso_639_3:
   - nyy
   lang_id: 261
@@ -948,7 +948,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: lamb1272
   iso_639_3:
   - lai
@@ -958,7 +958,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyan1308
   iso_639_3:
   - nya
@@ -968,7 +968,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: yaoo1241
   iso_639_3:
   - yao
@@ -978,7 +978,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tumb1253
   iso_639_3:
   - nya
@@ -989,7 +989,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mala1256
   iso_639_3:
   - lon
@@ -999,7 +999,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyan1308
   iso_639_3:
   - nya
@@ -1010,7 +1010,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mala1475
   iso_639_3:
   - swk
@@ -1020,7 +1020,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ndal1241
   iso_639_3:
   - ndh
@@ -1030,7 +1030,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tong1321
   iso_639_3:
   - tog
@@ -1041,7 +1041,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: bamb1269
   iso_639_3:
   - bam
@@ -1051,7 +1051,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: maas1239
   iso_639_3:
   - ffm
@@ -1059,7 +1059,7 @@
   lang_name: Peuhl/Fulfulde
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: maas1239
   iso_639_3:
   - ffm
@@ -1067,7 +1067,7 @@
   lang_name: Peugl/Fulfulde
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nort3254
   iso_639_3:
   - myk
@@ -1079,7 +1079,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mama1271
   iso_639_3:
   - myk
@@ -1089,7 +1089,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: moss1236
   iso_639_3:
   - mos
@@ -1098,7 +1098,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: soni1259
   iso_639_3:
   - snk
@@ -1107,7 +1107,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: soni1259
   iso_639_3:
   - snk
@@ -1115,7 +1115,7 @@
   lang_name: Soninké
   variables:
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: west2499
   iso_639_3:
   - mlq
@@ -1125,7 +1125,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: west2499
   iso_639_3:
   - mlq
@@ -1134,7 +1134,7 @@
   lang_name: Malinké
   variables:
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: xaas1235
   iso_639_3:
   - kao
@@ -1143,7 +1143,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: dogo1299
   iso_639_3:
   - dds
@@ -1155,7 +1155,7 @@
   - q103
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - dds
   - jms
   - tms
@@ -1170,7 +1170,7 @@
   - q103
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - kfe
 - glottocodes: nucl1444
   iso_639_3:
@@ -1182,7 +1182,7 @@
   variables:
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - boz
 - glottocodes: hass1238
   iso_639_3:
@@ -1192,7 +1192,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: hass1238
   iso_639_3:
   - mey
@@ -1202,7 +1202,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kago1248
   iso_639_3:
   - xkg
@@ -1212,7 +1212,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: duun1242
   iso_639_3:
   - dux
@@ -1223,7 +1223,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: song1307
   iso_639_3:
   - hmb
@@ -1234,7 +1234,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: koyr1242
   iso_639_3:
   - ses
@@ -1244,7 +1244,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tuar1240
   iso_639_3:
   - taq
@@ -1256,7 +1256,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mark1256
   iso_639_3:
   - rkm
@@ -1265,7 +1265,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: makh1264
   iso_639_3:
   - vmw
@@ -1275,7 +1275,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nucl1396
   iso_639_3:
   - seh
@@ -1285,7 +1285,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ndau1241
   iso_639_3:
   - ndc
@@ -1295,7 +1295,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyan1308
   iso_639_3:
   - nya
@@ -1305,7 +1305,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tson1249
   iso_639_3:
   - tso
@@ -1315,7 +1315,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: chop1243
   iso_639_3:
   - cce
@@ -1325,7 +1325,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: gito1238
   iso_639_3:
   - toh
@@ -1336,7 +1336,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mako1251
   iso_639_3:
   - kde
@@ -1346,7 +1346,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: chuw1238
   iso_639_3:
   - chw
@@ -1356,7 +1356,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: yaoo1241
   iso_639_3:
   - yao
@@ -1367,7 +1367,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mwan1247
   iso_639_3:
   - wmw
@@ -1377,7 +1377,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mwan1247
   iso_639_3:
   - wmw
@@ -1385,7 +1385,7 @@
   lang_name: Muaui
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: many1258
   iso_639_3:
   - mxc
@@ -1394,7 +1394,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mwan1247
   iso_639_3:
   - wmw
@@ -1402,7 +1402,7 @@
   lang_name: Quimuane
   variables:
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: nama1264
   iso_639_3:
   - naq
@@ -1412,7 +1412,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: afri1274
   iso_639_3:
   - afr
@@ -1422,7 +1422,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kwan1273
   iso_639_3:
   - kwn
@@ -1432,7 +1432,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: lozi1239
   iso_639_3:
   - loz
@@ -1442,7 +1442,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: subi1246
   iso_639_3:
   - sbs
@@ -1452,7 +1452,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1295
   iso_639_3:
   - deu
@@ -1462,7 +1462,7 @@
   - q103
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - ger
 - glottocodes: kuan1247
   iso_639_3:
@@ -1473,7 +1473,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: here1253
   iso_639_3:
   - her
@@ -1482,7 +1482,7 @@
   variables:
   - q103
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: here1253
   iso_639_3:
   - her
@@ -1490,7 +1490,7 @@
   lang_name: Okjiherero
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tswa1253
   iso_639_3:
   - tsn
@@ -1500,7 +1500,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: port1283
   iso_639_3:
   - por
@@ -1508,7 +1508,7 @@
   lang_name: Angolan:Portuguese
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: umbu1257
   iso_639_3:
   - umb
@@ -1517,7 +1517,7 @@
   note: Namibia (NA). Umbundu spoken in Angola.
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mbuk1240
   iso_639_3:
   - mhw
@@ -1525,7 +1525,7 @@
   lang_name: Mbukushu/Thimbukushu
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: mbuk1240
   iso_639_3:
   - mhw
@@ -1533,7 +1533,7 @@
   lang_name: Other Kavango:Thimbukushu
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kuan1247
   iso_639_3:
   - kua
@@ -1542,7 +1542,7 @@
   note: Oshiwambo (kua)
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: diri1252
   iso_639_3:
   - diu
@@ -1550,7 +1550,7 @@
   lang_name: Other Kavango:Rugririku
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: afri1274
   iso_639_3:
   - afr
@@ -1558,7 +1558,7 @@
   lang_name: English and Afrikaans
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: afri1274
   iso_639_3:
   - afr
@@ -1566,7 +1566,7 @@
   lang_name: Afrikaans and Oshiwambo
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -1574,7 +1574,7 @@
   lang_name: English and local languages
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: afri1274
   iso_639_3:
   - afr
@@ -1583,7 +1583,7 @@
   note: Afrikaans (afr)
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: stan1293
   iso_639_3:
   - eng
@@ -1592,7 +1592,7 @@
   note: English (eng), Afrikaans (afr)
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: null
   iso_639_3:
   - mul
@@ -1600,7 +1600,7 @@
   lang_name: More than one local language
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: nort2795
   iso_639_3:
   - nde
@@ -1608,7 +1608,7 @@
   lang_name: Ndebele
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: haus1257
   iso_639_3:
   - hau
@@ -1618,7 +1618,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nucl1417
   iso_639_3:
   - ibo
@@ -1628,7 +1628,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: yoru1245
   iso_639_3:
   - yor
@@ -1638,7 +1638,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nige1257
   iso_639_3:
   - pcm
@@ -1648,7 +1648,7 @@
   - q103
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - npi
 - glottocodes: efik1245
   iso_639_3:
@@ -1658,7 +1658,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ebir1243
   iso_639_3:
   - igb
@@ -1667,7 +1667,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: adam1253
   iso_639_3:
   - fub
@@ -1676,7 +1676,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: isok1239
   iso_639_3:
   - iso
@@ -1685,7 +1685,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ibib1240
   iso_639_3:
   - ibb
@@ -1694,7 +1694,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kanu1281
   iso_639_3:
   - kby
@@ -1705,7 +1705,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tivv1240
   iso_639_3:
   - tiv
@@ -1714,7 +1714,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nupe1254
   iso_639_3:
   - nup
@@ -1723,7 +1723,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ijoo1239
   iso_639_3:
   - ijc
@@ -1733,7 +1733,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: bini1246
   iso_639_3:
   - bin
@@ -1742,7 +1742,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: igal1242
   iso_639_3:
   - igl
@@ -1751,7 +1751,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: urho1239
   iso_639_3:
   - urh
@@ -1760,7 +1760,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: idom1241
   iso_639_3:
   - idu
@@ -1769,7 +1769,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: basa1282
   iso_639_3:
   - bzw
@@ -1779,7 +1779,7 @@
   variables:
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - duk
 - glottocodes: ikwe1242
   iso_639_3:
@@ -1789,7 +1789,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ukwu1241
   iso_639_3:
   - ukw
@@ -1798,7 +1798,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nucl1347
   iso_639_3:
   - wol
@@ -1808,7 +1808,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: pula1262
   iso_639_3:
   - fuf
@@ -1818,7 +1818,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: sere1260
   iso_639_3:
   - srr
@@ -1828,7 +1828,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mand1436
   iso_639_3:
   - mnk
@@ -1838,7 +1838,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: soni1259
   iso_639_3:
   - snk
@@ -1847,7 +1847,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: jola1263
   iso_639_3:
   - dyo
@@ -1857,7 +1857,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mand1419
   iso_639_3:
   - mfv
@@ -1867,7 +1867,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mand1436
   iso_639_3:
   - mnk
@@ -1875,7 +1875,7 @@
   lang_name: Bamabara
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: mand1436
   iso_639_3:
   - mnk
@@ -1885,7 +1885,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: bain1261
   iso_639_3:
   - bcb
@@ -1896,7 +1896,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyak1260
   iso_639_3:
   - nyy
@@ -1905,7 +1905,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: moch1256
   iso_639_3:
   - old
@@ -1914,7 +1914,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: haya1250
   iso_639_3:
   - hay
@@ -1923,7 +1923,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ngon1269
   iso_639_3:
   - ngo
@@ -1932,7 +1932,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kere1283
   iso_639_3:
   - ked
@@ -1943,7 +1943,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: asut1235
   iso_639_3:
   - asa
@@ -1952,7 +1952,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: hehe1240
   iso_639_3:
   - heh
@@ -1961,7 +1961,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mako1251
   iso_639_3:
   - kde
@@ -1970,7 +1970,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyam1276
   iso_639_3:
   - nym
@@ -1979,7 +1979,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: suku1261
   iso_639_3:
   - suk
@@ -1988,7 +1988,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: masa1300
   iso_639_3:
   - mas
@@ -1997,7 +1997,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: rwaa1238
   iso_639_3:
   - rwk
@@ -2006,7 +2006,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kuri1259
   iso_639_3:
   - kuj
@@ -2015,7 +2015,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: gogo1263
   iso_639_3:
   - gog
@@ -2024,7 +2024,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: lugu1238
   iso_639_3:
   - ruf
@@ -2033,7 +2033,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: fipa1238
   iso_639_3:
   - fip
@@ -2042,7 +2042,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyam1276
   iso_639_3:
   - nym
@@ -2051,7 +2051,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nila1242
   iso_639_3:
   - nim
@@ -2060,7 +2060,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyat1246
   iso_639_3:
   - rim
@@ -2069,7 +2069,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kara1483
   iso_639_3:
   - kdj
@@ -2077,7 +2077,7 @@
   lang_name: Akaramojonj
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: alur1250
   iso_639_3:
   - alz
@@ -2086,7 +2086,7 @@
   variables:
   - q103
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: alur1250
   iso_639_3:
   - alz
@@ -2095,7 +2095,7 @@
   note: Should be "Alur"
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: teso1249
   iso_639_3:
   - teo
@@ -2105,7 +2105,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: adho1243
   iso_639_3:
   - adh
@@ -2113,7 +2113,7 @@
   lang_name: Japadhola
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: alur1250
   iso_639_3:
   - alz
@@ -2122,7 +2122,7 @@
   note: Dialect of Alur. https://www.ethnologue.com/country/UG/languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kakw1240
   iso_639_3:
   - keo
@@ -2130,7 +2130,7 @@
   lang_name: Kakwa
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kuma1275
   iso_639_3:
   - kdi
@@ -2138,7 +2138,7 @@
   lang_name: Kumam
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kups1238
   iso_639_3:
   - kpz
@@ -2146,7 +2146,7 @@
   lang_name: Kuksabin
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: acol1236
   iso_639_3:
   - ach
@@ -2157,7 +2157,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: lugb1240
   iso_639_3:
   - lgg
@@ -2167,7 +2167,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: gwer1238
   iso_639_3:
   - gwr
@@ -2175,7 +2175,7 @@
   lang_name: Lugwere
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: sout2827
   iso_639_3:
   - mhi
@@ -2185,7 +2185,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: gand1255
   iso_639_3:
   - lug
@@ -2195,7 +2195,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: masa1299
   iso_639_3:
   - myx
@@ -2204,7 +2204,7 @@
   variables:
   - q103
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: masa1299
   iso_639_3:
   - myx
@@ -2213,7 +2213,7 @@
   note: Alt names for Masaaba. https://www.ethnologue.com/country/UG/languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: soga1242
   iso_639_3:
   - xog
@@ -2223,7 +2223,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: bemb1257
   iso_639_3:
   - bem
@@ -2233,7 +2233,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyan1308
   iso_639_3:
   - nya
@@ -2243,7 +2243,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tong1318
   iso_639_3:
   - toi
@@ -2254,7 +2254,7 @@
   - q103
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - toz
 - glottocodes: lozi1239
   iso_639_3:
@@ -2265,7 +2265,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyan1308
   iso_639_3:
   - nya
@@ -2274,7 +2274,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nsen1242
   iso_639_3:
   - nse
@@ -2284,7 +2284,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tumb1250
   iso_639_3:
   - tum
@@ -2292,7 +2292,7 @@
   lang_name: Tumbuka
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kaon1241
   iso_639_3:
   - kqn
@@ -2300,7 +2300,7 @@
   lang_name: Kaonda
   variables:
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: kaon1241
   iso_639_3:
   - kqn
@@ -2308,7 +2308,7 @@
   lang_name: Kaonde
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: luva1239
   iso_639_3:
   - lue
@@ -2317,7 +2317,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyam1275
   iso_639_3:
   - mwn
@@ -2326,7 +2326,7 @@
   note: Malawi (MW). Nyamwanga spoken in ZM, TZ.
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: lala1264
   iso_639_3:
   - leb
@@ -2334,7 +2334,7 @@
   lang_name: Bisa
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ilaa1246
   iso_639_3:
   - ilb
@@ -2343,7 +2343,7 @@
   note: Typo. This should be "Ila".
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyan1308
   iso_639_3:
   - nya
@@ -2351,7 +2351,7 @@
   lang_name: Nkaya
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mamb1296
   iso_639_3:
   - mgr
@@ -2359,7 +2359,7 @@
   lang_name: Mambwe
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: lund1266
   iso_639_3:
   - lun
@@ -2367,7 +2367,7 @@
   lang_name: Lunda
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: lenj1248
   iso_639_3:
   - leh
@@ -2375,7 +2375,7 @@
   lang_name: Lenje
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: lamb1271
   iso_639_3:
   - lam
@@ -2384,7 +2384,7 @@
   note: Zambia (ZM)
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mbun1249
   iso_639_3:
   - mck
@@ -2392,7 +2392,7 @@
   lang_name: Mbunda
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nsen1242
   iso_639_3:
   - nse
@@ -2401,7 +2401,7 @@
   note: In Zambia, Ngoni is dialect of Nsenga but also Chichewa.
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nort2795
   iso_639_3:
   - nde
@@ -2411,7 +2411,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: shon1251
   iso_639_3:
   - sna
@@ -2421,7 +2421,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kala1384
   iso_639_3:
   - kck
@@ -2431,7 +2431,7 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tong1318
   iso_639_3:
   - toi
@@ -2442,7 +2442,7 @@
   - q103
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - toz
 - glottocodes: nyol1238
   iso_639_3:
@@ -2452,7 +2452,7 @@
   note: Alt name for Nyole. https://www.ethnologue.com/country/UG/languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kiny1244
   iso_639_3:
   - kin
@@ -2461,7 +2461,7 @@
   note: Alt name for Fumbira. https://www.ethnologue.com/country/UG/languages
   variables:
   - q103
-  wals_code: null
+  wals_codes: null
 - glottocodes: kiny1244
   iso_639_3:
   - kin
@@ -2469,7 +2469,7 @@
   lang_name: Rufumbira
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyan1307
   iso_639_3:
   - nyn
@@ -2478,7 +2478,7 @@
   note: Hororo is a dialect of Nyankore. https://www.ethnologue.com/country/UG/languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: chig1238
   iso_639_3:
   - cgg
@@ -2487,7 +2487,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: konz1239
   iso_639_3:
   - koo
@@ -2495,7 +2495,7 @@
   lang_name: Rukonzo
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kiny1244
   iso_639_3:
   - kin
@@ -2503,7 +2503,7 @@
   lang_name: Runyarwanda
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyor1247
   iso_639_3:
   - nyo
@@ -2514,7 +2514,7 @@
   variables:
   - q103
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyor1246
   iso_639_3:
   - nyo
@@ -2522,7 +2522,7 @@
   lang_name: Runyoro
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyor1246
   iso_639_3:
   - nyo
@@ -2531,7 +2531,7 @@
   note: Dialect of Nyoro. https://www.ethnologue.com/country/UG/languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: toor1238
   iso_639_3:
   - ttj
@@ -2540,7 +2540,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: amba1263
   iso_639_3:
   - rwm
@@ -2549,7 +2549,7 @@
   note: Alt name for Amba. https://www.ethnologue.com/country/UG/languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nkor1241
   iso_639_3:
   - cgg
@@ -2559,7 +2559,7 @@
   variables:
   - q103
   - q114
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyan1307
   iso_639_3:
   - nyn
@@ -2567,7 +2567,7 @@
   lang_name: Runyankole
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: saam1283
   iso_639_3:
   - lsm
@@ -2575,7 +2575,7 @@
   lang_name: Samia
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: anaa1238
   iso_639_3:
   - anw
@@ -2584,7 +2584,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: goem1240
   iso_639_3:
   - ank
@@ -2594,7 +2594,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kada1284
   iso_639_3:
   - kad
@@ -2604,7 +2604,7 @@
   variables:
   - q114
   - q3
-  wals_code:
+  wals_codes:
   - bir
   - fye
   - gwo
@@ -2620,7 +2620,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kohu1244
   iso_639_3:
   - bcs
@@ -2629,7 +2629,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: boky1238
   iso_639_3:
   - bky
@@ -2638,7 +2638,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: loka1252
   iso_639_3:
   - yaz
@@ -2648,7 +2648,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: esan1238
   iso_639_3:
   - ish
@@ -2657,7 +2657,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: vagh1247
   iso_639_3:
   - bij
@@ -2666,7 +2666,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: ekpe1253
   iso_639_3:
   - ekp
@@ -2675,7 +2675,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: idun1241
   iso_639_3:
   - ldb
@@ -2685,7 +2685,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: bero1242
   iso_639_3:
   - bom
@@ -2694,7 +2694,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: iged1239
   iso_639_3:
   - ige
@@ -2703,7 +2703,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: taro1263
   iso_639_3:
   - yer
@@ -2713,7 +2713,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: koro1301
   iso_639_3:
   - ahs
@@ -2726,7 +2726,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: khan1278
   iso_639_3:
   - ogo
@@ -2735,7 +2735,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: cros1244
   iso_639_3:
   - mfn
@@ -2752,7 +2752,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: saya1246
   iso_639_3:
   - say
@@ -2761,7 +2761,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: isek1239
   iso_639_3:
   - its
@@ -2770,7 +2770,7 @@
   variables:
   - q114
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tach1242
   iso_639_3:
   - lts
@@ -2778,7 +2778,7 @@
   lang_name: Tanchoni
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: buku1249
   iso_639_3:
   - bxk
@@ -2786,7 +2786,7 @@
   lang_name: Bukusu
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nyor1244
   iso_639_3:
   - nyd
@@ -2794,7 +2794,7 @@
   lang_name: Nyore
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mara1392
   iso_639_3:
   - lrm
@@ -2802,7 +2802,7 @@
   lang_name: Marama
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: saba1262
   iso_639_3:
   - spy
@@ -2810,7 +2810,7 @@
   lang_name: Sabaot
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: wang1294
   iso_639_3:
   - lwg
@@ -2818,7 +2818,7 @@
   lang_name: Wanga
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kabr1240
   iso_639_3:
   - lkb
@@ -2826,7 +2826,7 @@
   lang_name: Kabarasi
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: east2409
   iso_639_3:
   - nle
@@ -2834,7 +2834,7 @@
   lang_name: Nyala
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tsot1241
   iso_639_3:
   - lto
@@ -2842,7 +2842,7 @@
   lang_name: Vatsotso
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kips1239
   iso_639_3:
   - sgc
@@ -2850,7 +2850,7 @@
   lang_name: Kipsigis
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tuge1241
   iso_639_3:
   - tuy
@@ -2858,7 +2858,7 @@
   lang_name: Tugen
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: bora1271
   iso_639_3:
   - gax
@@ -2867,7 +2867,7 @@
   variables:
   - q103
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: guja1252
   iso_639_3:
   - guj
@@ -2876,7 +2876,7 @@
   note: Kenya (KE). Gujarati is most common Indian lang spoken in Kenya. https://www.ethnologue.com/country/KE/languages
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: burj1242
   iso_639_3:
   - bji
@@ -2884,7 +2884,7 @@
   lang_name: Burji
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: kuri1259
   iso_639_3:
   - kuj
@@ -2892,7 +2892,7 @@
   lang_name: Kuria
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: garr1259
   iso_639_3:
   - gex
@@ -2901,7 +2901,7 @@
   note: Kenya. Garre spoken in Somalia.
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: soli1239
   iso_639_3:
   - sby
@@ -2909,7 +2909,7 @@
   lang_name: Soli
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: nsen1242
   iso_639_3:
   - nse
@@ -2917,7 +2917,7 @@
   lang_name: Senga
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: chok1245
   iso_639_3:
   - cjk
@@ -2925,7 +2925,7 @@
   lang_name: Chokwe
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: luch1239
   iso_639_3:
   - lch
@@ -2933,7 +2933,7 @@
   lang_name: Luchazi
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: mash1267
   iso_639_3:
   - mho
@@ -2942,7 +2942,7 @@
   note: Mashi
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: tong1318
   iso_639_3:
   - toi
@@ -2950,7 +2950,7 @@
   lang_name: Tokaleya
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: lala1264
   iso_639_3:
   - leb
@@ -2958,7 +2958,7 @@
   lang_name: Lala
   variables:
   - q3
-  wals_code: null
+  wals_codes: null
 - glottocodes: null
   iso_639_3:
   - und
@@ -2968,4 +2968,4 @@
   - q103
   - q114
   - q3
-  wals_code: null
+  wals_codes: null

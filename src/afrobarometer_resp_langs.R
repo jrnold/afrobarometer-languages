@@ -35,10 +35,10 @@ afrobarometer_langs_r <-
            other = FALSE) {
   .data <- haven::read_sav(filenames[.round])
   afrob_to_wals <- if (other) {
-    select(afrob_to_wals, round, variable = question,
+    select(afrob_to_wals, round, variable,
            country, value, wals_code)
   } else {
-    select(afrob_to_wals, round, variable = question,
+    select(afrob_to_wals, round, variable,
            country, value = lang_id, wals_code)
   } %>%
     filter(round == UQ(.round))

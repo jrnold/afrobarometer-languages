@@ -1,4 +1,4 @@
-round,question,value,iso_alpha2,country,glottocode
+round,variable,value,iso_alpha2,country,glottocode
 4,Q3OTHER,ABI,NG,14,
 4,Q3OTHER,ABUA,NG,14,abua1244
 4,Q3OTHER,ADUN,NG,14,cros1244
@@ -248,7 +248,7 @@ round,question,value,iso_alpha2,country,glottocode
 4,Q3OTHER,MICHICA,NG,14,
 4,Q3OTHER,MINYAM,NG,14,
 4,Q3OTHER,MOSSI,GH,5,moss1236
-4,Q3OTHER,MOZAMBICAN,ZW,20,port1283
+4,Q3OTHER,MOZAMBICAN,ZW,20,
 4,Q3OTHER,MUANI,MZ,12,mwan1247
 4,Q3OTHER,MUAUNI,MZ,12,mwan1247
 4,Q3OTHER,Mufwe,NA,13,fwee1238

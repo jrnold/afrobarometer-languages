@@ -24,7 +24,7 @@ to_glottocodes <-
     }
   }) %>%
   left_join(afrobarometer_langs_other, by = c("lang_name", "iso_alpha2")) %>%
-  select(round, question, value, iso_alpha2, glottocode)
+  select(round, variable, value, iso_alpha2, glottocode)
 
 glottolog_to_iso_ <- glottolog_to_iso()
 
@@ -32,9 +32,9 @@ glottolog_to_iso_ <- glottolog_to_iso()
 afrobarometer_to_glottolog <-
   IO$afrobarometer_langs_other %>%
   left_join(to_glottocodes,
-            by = c("round", "question", "value", "iso_alpha2")) %>%
-  select(round, question, value, iso_alpha2, country, glottocode) %>%
-  arrange(round, question, value, country)
+            by = c("round", "variable", "value", "iso_alpha2")) %>%
+  select(round, variable, value, iso_alpha2, country, glottocode) %>%
+  arrange(round, variable, value, country)
 
 #'
 #' # Test data
@@ -44,7 +44,7 @@ assert_that(nrow(afrobarometer_to_glottolog) ==
 
 #' check primary key
 assert_that(nrow(distinct(afrobarometer_to_glottolog,
-                          round, question, value, country))
+                          round, variable, value, country))
             == nrow(afrobarometer_to_glottolog))
 
 #' all glottolog langs should be valid
@@ -61,7 +61,7 @@ if (nrow(invalid_glottocode)) {
 to_glottolog_langmiss <-
   afrobarometer_to_glottolog %>%
   anti_join(IO$afrobarometer_langs_other,
-            by = c("round", "question", "value", "country"))
+            by = c("round", "variable", "value", "country"))
 if (nrow(to_glottolog_langmiss)) {
   print(to_glottolog_langmiss)
   stop("Invalid afrobaromter languages found")
@@ -71,9 +71,9 @@ if (nrow(to_glottolog_langmiss)) {
 to_glottolog_nonmatches <-
   IO$afrobarometer_langs_other %>%
   anti_join(filter(IO$afrobarometer_other_to_iso, iso_scope == "S"),
-            by = c("round", "question", "value", "country")) %>%
+            by = c("round", "variable", "value", "country")) %>%
   anti_join(afrobarometer_to_glottolog,
-            by = c("round", "question", "value", "country"))
+            by = c("round", "variable", "value", "country"))
 if (nrow(to_glottolog_nonmatches)) {
   print(to_glottolog_nonmatches)
   stop("Unaccounted for non-matches found")

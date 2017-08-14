@@ -3,6 +3,7 @@
   iso_639_3:
   - mis
   lang_name: bella
+  wals_codes: null
 - country: BF
   glottocode: bobo1253
   iso_639_3:
@@ -10,35 +11,39 @@
   - bbo
   lang_name: bobo
   note: Burkina Faso. Use Bobo for Mande languages.
-  wals_code:
+  wals_codes:
   - bbf
 - country: BF
   glottocode: bolo1266
   iso_639_3:
   - bof
   lang_name: bolon
+  wals_codes: null
 - country: BF
   glottocode: mark1256
   iso_639_3:
   - rkm
   lang_name: dafing
+  wals_codes: null
 - country: BF
   glottocode: zarm1239
   iso_639_3:
   - dje
   lang_name: djerma
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: docces
+  wals_codes: null
 - country: BF
   glottocode: plai1257
   iso_639_3:
   - djm
   - dtm
   lang_name: dogon
-  wals_code:
+  wals_codes:
   - dds
   - dts
 - country: BF
@@ -47,7 +52,7 @@
   - djm
   - dtm
   lang_name: dogons
-  wals_code:
+  wals_codes:
   - dds
   - dts
 - country: BF
@@ -55,2770 +60,3300 @@
   iso_639_3:
   - dos
   lang_name: dogose
+  wals_codes: null
 - country: BF
   glottocode: dogo1295
   iso_639_3:
   - dos
   lang_name: dogosse
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: donsin
+  wals_codes: null
 - country: BF
   glottocode: kpee1234
   iso_639_3:
   - cpo
   lang_name: forgeron (noumou)
+  wals_codes: null
 - country: BF
   glottocode: koro1298
   iso_639_3:
   - kfz
   lang_name: fulse
+  wals_codes: null
 - country: BF
   glottocode: haus1257
   iso_639_3:
   - hau
   lang_name: haoussa
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kado
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: karaboro
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: karakan
+  wals_codes: null
 - country: BF
   glottocode: khis1238
   iso_639_3:
   - kqm
   lang_name: komono
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mandarai
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mionga
+  wals_codes: null
 - country: BF
   glottocode: phui1238
   iso_639_3:
   - pug
   lang_name: pougouli
+  wals_codes: null
 - country: BF
   glottocode: seek1238
   iso_639_3:
   - sos
   lang_name: sambla
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: sissaba
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tamacheck
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: toussian
+  wals_codes: null
 - country: BF
   glottocode: turk1306
   iso_639_3:
   - tuz
   lang_name: turka
+  wals_codes: null
 - country: BF
   glottocode: viem1243
   iso_639_3:
   - vig
   lang_name: vigue
+  wals_codes: null
 - country: BF
   glottocode: null
   iso_639_3:
   - mis
   lang_name: yanan
+  wals_codes: null
 - country: BJ
   glottocode: bial1238
   iso_639_3:
   - beh
   lang_name: biali
+  wals_codes: null
 - country: BJ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: boo
+  wals_codes: null
 - country: BJ
   glottocode: dita1238
   iso_639_3:
   - tbz
   lang_name: ditamari
+  wals_codes: null
 - country: BJ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: fodo
+  wals_codes: null
 - country: BJ
   glottocode: haus1257
   iso_639_3:
   - hau
   lang_name: haoussa
+  wals_codes: null
 - country: BJ
   glottocode: haus1257
   iso_639_3:
   - hau
   lang_name: houssa
+  wals_codes: null
 - country: BJ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kotocoli
+  wals_codes: null
 - country: BJ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: koura
+  wals_codes: null
 - country: BJ
   glottocode: nate1242
   iso_639_3:
   - ntm
   lang_name: natimba
+  wals_codes: null
 - country: BJ
   glottocode: west2454
   iso_639_3:
   - fuh
   lang_name: peulh
+  wals_codes: null
 - country: BJ
   glottocode: miyo1238
   iso_639_3:
   - soy
   lang_name: sola
+  wals_codes: null
 - country: BJ
   glottocode: waam1244
   iso_639_3:
   - wwa
   lang_name: waama
+  wals_codes: null
 - country: BJ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: zerma
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mokaa
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: morotsi
+  wals_codes: null
 - country: BW
   glottocode: nort2795
   iso_639_3:
   - nde
   lang_name: ndebele
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: parakarungu
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: sebanderu
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: sebolongwe
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: segxereku
+  wals_codes: null
 - country: BW
   glottocode: tswa1253
   iso_639_3:
   - tsn
   lang_name: sekhurutsi
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: sekolong
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: senajwa
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: senanjwa
+  wals_codes: null
 - country: BW
   glottocode: pedi1238
   iso_639_3:
   - nso
   lang_name: sepedi
+  wals_codes: null
 - country: BW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: seshona
+  wals_codes: null
 - country: BW
   glottocode: sout2807
   iso_639_3:
   - sot
   lang_name: sesotho
+  wals_codes: null
 - country: BW
   glottocode: nort2795
   iso_639_3:
   - nde
   lang_name: setebele
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: setlharo
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: setlharwa
+  wals_codes: null
 - country: BW
   glottocode: tswa1237
   iso_639_3:
   - two
   lang_name: setswapong
+  wals_codes: null
 - country: BW
   glottocode: here1253
   iso_639_3:
   - her
   lang_name: sexhereko
+  wals_codes: null
 - country: BW
   glottocode: xhos1239
   iso_639_3:
   - xho
   lang_name: sexhosa
+  wals_codes: null
 - country: BW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: sezezuru
   note: Zezuru
+  wals_codes: null
 - country: BW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: sezuru
   note: Zezuru
+  wals_codes: null
 - country: BW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: shona
+  wals_codes: null
 - country: BW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: shona/sezuru
+  wals_codes: null
 - country: BW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tjimbanderu
+  wals_codes: null
 - country: BW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: zezuru
+  wals_codes: null
 - country: CI
   glottocode: abid1235
   iso_639_3:
   - abi
   lang_name: abidji
+  wals_codes: null
 - country: CI
   glottocode: abur1243
   iso_639_3:
   - abu
   lang_name: aboure
+  wals_codes: null
 - country: CI
   glottocode: apro1235
   iso_639_3:
   - ahp
   lang_name: ahizi
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: alladjan
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: andoh
+  wals_codes: null
 - country: CI
   glottocode: nzim1238
   iso_639_3:
   - nzi
   lang_name: appolo
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bacoue
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bakoue
+  wals_codes: null
 - country: CI
   glottocode: bakw1243
   iso_639_3:
   - bjw
   lang_name: bakwe
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: dahomey
+  wals_codes: null
 - country: CI
   glottocode: djim1235
   iso_639_3:
   - dyi
   lang_name: djimini
+  wals_codes: null
 - country: CI
   glottocode: ebri1238
   iso_639_3:
   - ebr
   lang_name: ebrie
+  wals_codes: null
 - country: CI
   glottocode: egaa1242
   iso_639_3:
   - ega
   lang_name: ega
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ehotile
+  wals_codes: null
 - country: CI
   glottocode: gagu1242
   iso_639_3:
   - ggu
   lang_name: gagou
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gain
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gnanboua
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gniaboua
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gnideboua
+  wals_codes: null
 - country: CI
   glottocode: kodi1246
   iso_639_3:
   - kwp
   lang_name: kodia
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: komonon
+  wals_codes: null
 - country: CI
   glottocode: koro1306
   iso_639_3:
   - kfo
   lang_name: koro
+  wals_codes: null
 - country: CI
   glottocode: kouy1238
   iso_639_3:
   - kyf
   lang_name: kouya
+  wals_codes: null
 - country: CI
   glottocode: nyab1255
   iso_639_3:
   - nwb
   lang_name: kouzie
+  wals_codes: null
 - country: CI
   glottocode: koya1253
   iso_639_3:
   - kga
   lang_name: koyaka
+  wals_codes: null
 - country: CI
   glottocode: krob1245
   iso_639_3:
   - kxb
   lang_name: krobou
+  wals_codes: null
 - country: CI
   glottocode: mbat1247
   iso_639_3:
   - gwa
   lang_name: m'batto
+  wals_codes: null
 - country: CI
   glottocode: maho1249
   iso_639_3:
   - mxx
   lang_name: mahohka
   note: Mahouka dialect
+  wals_codes: null
 - country: CI
   glottocode: maho1249
   iso_639_3:
   - mxx
   lang_name: mahouka
+  wals_codes: null
 - country: CI
   glottocode: mbat1247
   iso_639_3:
   - gwa
   lang_name: mbatto
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - und
   lang_name: naturalise
   note: Not sure what this refers to
+  wals_codes: null
 - country: CI
   glottocode: wewe1238
   iso_639_3:
   - wec
   lang_name: neyo
+  wals_codes: null
 - country: CI
   glottocode: woje1238
   iso_639_3:
   - jod
   lang_name: odienneka
+  wals_codes: null
 - country: CI
   glottocode: maas1239
   iso_639_3:
   - ffm
   lang_name: peulh
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: samoro
+  wals_codes: null
 - country: CI
   glottocode: koya1253
   iso_639_3:
   - kga
   lang_name: siaka
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: sokouya
+  wals_codes: null
 - country: CI
   glottocode: tagw1240
   iso_639_3:
   - tgw
   lang_name: tagbana
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tagbanan
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: teninka
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tour
+  wals_codes: null
 - country: CI
   glottocode: tour1242
   iso_639_3:
   - neb
   lang_name: toura
+  wals_codes: null
 - country: CI
   glottocode: wann1242
   iso_639_3:
   - wan
   lang_name: wan
+  wals_codes: null
 - country: CI
   glottocode: weno1238
   iso_639_3:
   - wob
   lang_name: wobe
+  wals_codes: null
 - country: CI
   glottocode: woro1256
   iso_639_3:
   - jud
   lang_name: worodougou
+  wals_codes: null
 - country: CI
   glottocode: yaou1238
   iso_639_3:
   - yre
   lang_name: yaoure
+  wals_codes: null
 - country: CI
   glottocode: null
   iso_639_3:
   - mis
   lang_name: zinninga
+  wals_codes: null
 - country: CM
   glottocode: bank1256
   iso_639_3:
   - abb
   lang_name: abo
+  wals_codes: null
 - country: CM
   glottocode: aghe1239
   iso_639_3:
   - agq
   lang_name: aghem
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: akosse
+  wals_codes: null
 - country: CM
   glottocode: ambe1247
   iso_639_3:
   - ael
   lang_name: ambele
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ambo-batibo
+  wals_codes: null
 - country: CM
   glottocode: chad1249
   iso_639_3:
   - shu
   lang_name: arabe
-  wals_code:
+  wals_codes:
   - abb
 - country: CM
   glottocode: chad1249
   iso_639_3:
   - shu
   lang_name: arabe choa
-  wals_code:
+  wals_codes:
   - abb
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ashem
+  wals_codes: null
 - country: CM
   glottocode: ipul1238
   iso_639_3:
   - ass
   lang_name: asumb0
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: babadjon
+  wals_codes: null
 - country: CM
   glottocode: ngom1271
   iso_639_3:
   - nla
   lang_name: babadjou
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: babanjou
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: babis
+  wals_codes: null
 - country: CM
   glottocode: vute1244
   iso_639_3:
   - vut
   lang_name: baboute
+  wals_codes: null
 - country: CM
   glottocode: veng1238
   iso_639_3:
   - bav
   lang_name: babungo
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bachiotia
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: badenkop
+  wals_codes: null
 - country: CM
   glottocode: koon1245
   iso_639_3:
   - ozm
   lang_name: badjoue
+  wals_codes: null
 - country: CM
   glottocode: fefe1239
   iso_639_3:
   - fmp
   lang_name: bafang
+  wals_codes: null
 - country: CM
   glottocode: bafa1249
   iso_639_3:
   - bfj
   lang_name: bafanji
+  wals_codes: null
 - country: CM
   glottocode: bafa1247
   iso_639_3:
   - bwt
   lang_name: bafaw
+  wals_codes: null
 - country: CM
   glottocode: mmen1238
   iso_639_3:
   - bfm
   lang_name: bafmen
+  wals_codes: null
 - country: CM
   glottocode: bafa1247
   iso_639_3:
   - bwt
   lang_name: bafo
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bafounda
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bafoussam
+  wals_codes: null
 - country: CM
   glottocode: ghom1247
   iso_639_3:
   - bbj
   lang_name: baham
+  wals_codes: null
 - country: CM
   glottocode: ghom1247
   iso_639_3:
   - bbj
   lang_name: baham/bafoussam
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bakassi
+  wals_codes: null
 - country: CM
   glottocode: bako1249
   iso_639_3:
   - bkh
   lang_name: bakoko
+  wals_codes: null
 - country: CM
   glottocode: akoo1248
   iso_639_3:
   - bss
   lang_name: bakosi
+  wals_codes: null
 - country: CM
   glottocode: akoo1248
   iso_639_3:
   - bss
   lang_name: bakossi
+  wals_codes: null
 - country: CM
   glottocode: mokp1239
   iso_639_3:
   - bri
   lang_name: bakwari
+  wals_codes: null
 - country: CM
   glottocode: mokp1239
   iso_639_3:
   - bri
   lang_name: bakwere
+  wals_codes: null
 - country: CM
   glottocode: mokp1239
   iso_639_3:
   - bri
   lang_name: bakweri
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: balati
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: balcweri
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: baleng
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: balengou
+  wals_codes: null
 - country: CM
   glottocode: mung1266
   iso_639_3:
   - mhk
   lang_name: bali
+  wals_codes: null
 - country: CM
   glottocode: mung1266
   iso_639_3:
   - mhk
   lang_name: bali nyonga
+  wals_codes: null
 - country: CM
   glottocode: bamu1254
   iso_639_3:
   - bqt
   lang_name: balikumbat
   note: Bamukumbat
+  wals_codes: null
 - country: CM
   glottocode: mung1266
   iso_639_3:
   - mhk
   lang_name: balinyongya
+  wals_codes: null
 - country: CM
   glottocode: bafa1247
   iso_639_3:
   - bwt
   lang_name: balong
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: baloundo
+  wals_codes: null
 - country: CM
   glottocode: tuki1240
   iso_639_3:
   - bag
   lang_name: bambele
+  wals_codes: null
 - country: CM
   glottocode: bamb1266
   iso_639_3:
   - baw
   lang_name: bambili
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bamedjou
+  wals_codes: null
 - country: CM
   glottocode: ghom1247
   iso_639_3:
   - bbj
   lang_name: bameka
   note: Dialect of Ghomala
+  wals_codes: null
 - country: CM
   glottocode: mend1261
   iso_639_3:
   - mfd
   lang_name: bamenda
+  wals_codes: null
 - country: CM
   glottocode: meng1264
   iso_639_3:
   - xmg
   lang_name: bamendjing
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bamendjou
+  wals_codes: null
 - country: CM
   glottocode: kens1251
   iso_639_3:
   - ndb
   lang_name: bamessing
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bamileke
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bamougoum
+  wals_codes: null
 - country: CM
   glottocode: mund1327
   iso_639_3:
   - mnf
   lang_name: bamumbu
+  wals_codes: null
 - country: CM
   glottocode: ghom1247
   iso_639_3:
   - bbj
   lang_name: bandjoun
+  wals_codes: null
 - country: CM
   glottocode: tune1261
   iso_639_3:
   - tvu
   lang_name: banen
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bangou
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: banossi
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: banvele
+  wals_codes: null
 - country: CM
   glottocode: baba1264
   iso_639_3:
   - bbw
   lang_name: bapa
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bapoukou
+  wals_codes: null
 - country: CM
   glottocode: basa1284
   iso_639_3:
   - bas
   lang_name: bassa
   note: Cameroon Bassa
+  wals_codes: null
 - country: CM
   glottocode: ngom1271
   iso_639_3:
   - nla
   lang_name: basso
+  wals_codes: null
 - country: CM
   glottocode: bata1314
   iso_639_3:
   - bta
   lang_name: bata
+  wals_codes: null
 - country: CM
   glottocode: bata1285
   iso_639_3:
   - bnm
   lang_name: batanga
+  wals_codes: null
 - country: CM
   glottocode: ngie1241
   iso_639_3:
   - nnh
   lang_name: batcham
+  wals_codes: null
 - country: CM
   glottocode: meta1238
   iso_639_3:
   - mgo
   lang_name: batibo
+  wals_codes: null
 - country: CM
   glottocode: ghom1247
   iso_639_3:
   - bbj
   lang_name: batie
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: batomow
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: baton
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bawan
+  wals_codes: null
 - country: CM
   glottocode: nort2775
   iso_639_3:
   - gya
   lang_name: baya
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bayangam
+  wals_codes: null
 - country: CM
   glottocode: befa1241
   iso_639_3:
   - bby
   lang_name: befang
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: belibonachi
+  wals_codes: null
 - country: CM
   glottocode: bulu1251
   iso_639_3:
   - bum
   lang_name: bene
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: benegun
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bengwi
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: besa
+  wals_codes: null
 - country: CM
   glottocode: komc1235
   iso_639_3:
   - bkm
   lang_name: bikom
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bobis
+  wals_codes: null
 - country: CM
   glottocode: bonk1243
   iso_639_3:
   - bvg
   lang_name: bongken
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bouda
+  wals_codes: null
 - country: CM
   glottocode: mund1328
   iso_639_3:
   - boe
   lang_name: bu
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: buda
+  wals_codes: null
 - country: CM
   glottocode: bulu1251
   iso_639_3:
   - bum
   lang_name: bulu
+  wals_codes: null
 - country: CM
   glottocode: mbum1254
   iso_639_3:
   - mdd
   lang_name: bum
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: choua
+  wals_codes: null
 - country: CM
   glottocode: nucl1683
   iso_639_3:
   - dbq
   lang_name: daba
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: dbo
+  wals_codes: null
 - country: CM
   glottocode: diii1241
   iso_639_3:
   - dur
   lang_name: dii
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: djanch
+  wals_codes: null
 - country: CM
   glottocode: njye1238
   iso_639_3:
   - njy
   lang_name: djem
+  wals_codes: null
 - country: CM
   glottocode: diii1241
   iso_639_3:
   - dur
   lang_name: dourou
+  wals_codes: null
 - country: CM
   glottocode: yemb1246
   iso_639_3:
   - ybb
   lang_name: dschang
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: du
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: edjagham
+  wals_codes: null
 - country: CM
   glottocode: ejag1239
   iso_639_3:
   - etu
   lang_name: ejagam
+  wals_codes: null
 - country: CM
   glottocode: ejag1239
   iso_639_3:
   - etu
   lang_name: ejagham
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ejaka
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ejakam
+  wals_codes: null
 - country: CM
   glottocode: esim1238
   iso_639_3:
   - ags
   lang_name: elam eguo
   note: Elam  Equao
+  wals_codes: null
 - country: CM
   glottocode: esim1238
   iso_639_3:
   - ags
   lang_name: elam equ0
   note: Elam Equo
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: elam equo
+  wals_codes: null
 - country: CM
   glottocode: esim1238
   iso_639_3:
   - ags
   lang_name: esimbi
+  wals_codes: null
 - country: CM
   glottocode: esim1238
   iso_639_3:
   - ags
   lang_name: essimbi
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: esu
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: etenga
+  wals_codes: null
 - country: CM
   glottocode: eton1253
   iso_639_3:
   - eto
   lang_name: eton
+  wals_codes: null
 - country: CM
   glottocode: dual1243
   iso_639_3:
   - dua
   lang_name: ewodi
+  wals_codes: null
 - country: CM
   glottocode: fang1246
   iso_639_3:
   - fan
   lang_name: fang
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: foulbe
+  wals_codes: null
 - country: CM
   glottocode: adam1253
   iso_639_3:
   - fub
   lang_name: fulami
+  wals_codes: null
 - country: CM
   glottocode: adam1253
   iso_639_3:
   - fub
   lang_name: fulane
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gabsiki
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ghemba
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ghomala
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gizzigare
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gouife
+  wals_codes: null
 - country: CM
   glottocode: gida1247
   iso_639_3:
   - gid
   lang_name: guidar
+  wals_codes: null
 - country: CM
   glottocode: haus1257
   iso_639_3:
   - hau
   lang_name: haoussa
+  wals_codes: null
 - country: CM
   glottocode: mina1276
   iso_639_3:
   - hna
   lang_name: hina
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ibo
+  wals_codes: null
 - country: CM
   glottocode: isuf1235
   iso_639_3:
   - szv
   lang_name: isu
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: jukum
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kambu
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kangyang
+  wals_codes: null
 - country: CM
   glottocode: cent2050
   iso_639_3:
   - knc
   lang_name: kanouri
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: keyka
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: klum
+  wals_codes: null
 - country: CM
   glottocode: mfum1238
   iso_639_3:
   - nfu
   lang_name: kom
+  wals_codes: null
 - country: CM
   glottocode: kosh1246
   iso_639_3:
   - kid
   lang_name: koshin
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kotoko
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: laka
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: lambo
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: lebialem
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: lele
+  wals_codes: null
 - country: CM
   glottocode: noma1260
   iso_639_3:
   - lem
   lang_name: lemande
+  wals_codes: null
 - country: CM
   glottocode: limb1268
   iso_639_3:
   - lmp
   lang_name: limbum
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: limbun
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: lutu
+  wals_codes: null
 - country: CM
   glottocode: kwas1243
   iso_639_3:
   - nmg
   lang_name: mabi
+  wals_codes: null
 - country: CM
   glottocode: mada1293
   iso_639_3:
   - mxu
   lang_name: mada
+  wals_codes: null
 - country: CM
   glottocode: mafa1239
   iso_639_3:
   - maf
   lang_name: mafa
+  wals_codes: null
 - country: CM
   glottocode: mali1280
   iso_639_3:
   - mzd
   lang_name: malimba
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mambila
+  wals_codes: null
 - country: CM
   glottocode: wand1278
   iso_639_3:
   - mfi
   lang_name: mandara
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mandoua
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: manguissa
+  wals_codes: null
 - country: CM
   glottocode: masa1322
   iso_639_3:
   - mcn
   lang_name: massa
+  wals_codes: null
 - country: CM
   glottocode: tuki1240
   iso_639_3:
   - bag
   lang_name: mba vele
   note: Bamvele
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mbamois
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mbamoise
+  wals_codes: null
 - country: CM
   glottocode: bako1249
   iso_639_3:
   - bkh
   lang_name: mbang
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mbe mbe
+  wals_codes: null
 - country: CM
   glottocode: yamb1251
   iso_639_3:
   - yam
   lang_name: mbem
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mbesah
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mbessa
+  wals_codes: null
 - country: CM
   glottocode: mboc1235
   iso_639_3:
   - mbo
   lang_name: mbo
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mbo'o
+  wals_codes: null
 - country: CM
   glottocode: nige1253
   iso_639_3:
   - fuv
   lang_name: mbororo
+  wals_codes: null
 - country: CM
   glottocode: mbum1254
   iso_639_3:
   - mdd
   lang_name: mboum
+  wals_codes: null
 - country: CM
   glottocode: ngam1267
   iso_639_3:
   - nbv
   lang_name: mbu
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: medoumba
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mefewele
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mefi
+  wals_codes: null
 - country: CM
   glottocode: naki1238
   iso_639_3:
   - mff
   lang_name: mekaf
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mendakwe
+  wals_codes: null
 - country: CM
   glottocode: piny1238
   iso_639_3:
   - pny
   lang_name: menka
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mesagie
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: meta
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: metsa
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: metu
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mezima
+  wals_codes: null
 - country: CM
   glottocode: mpon1254
   iso_639_3:
   - mgg
   lang_name: mezime
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: misanje
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mockbie
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: moghagno
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: monghaka
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: moudani
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: moudini
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mougoum
+  wals_codes: null
 - country: CM
   glottocode: mund1325
   iso_639_3:
   - mua
   lang_name: moundang
+  wals_codes: null
 - country: CM
   glottocode: musg1254
   iso_639_3:
   - mug
   lang_name: mousgoum
+  wals_codes: null
 - country: CM
   glottocode: musg1254
   iso_639_3:
   - mug
   lang_name: mousgoun
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mozeuille
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mpongo
+  wals_codes: null
 - country: CM
   glottocode: nyon1241
   iso_639_3:
   - muo
   lang_name: mubako
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mudele
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mugaka
+  wals_codes: null
 - country: CM
   glottocode: mund1327
   iso_639_3:
   - mnf
   lang_name: mundani
+  wals_codes: null
 - country: CM
   glottocode: musg1254
   iso_639_3:
   - mug
   lang_name: musgum
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nchang
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nchani
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nchanih
+  wals_codes: null
 - country: CM
   glottocode: wawa1246
   iso_639_3:
   - www
   lang_name: ndi
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ngambaye
+  wals_codes: null
 - country: CM
   glottocode: ngem1255
   iso_639_3:
   - nge
   lang_name: ngemba
+  wals_codes: null
 - country: CM
   glottocode: ngie1242
   iso_639_3:
   - ngj
   lang_name: ngi
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ngoa
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ngobale
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ngou
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nguo
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ngwoh
+  wals_codes: null
 - country: CM
   glottocode: ngie1241
   iso_639_3:
   - nnh
   lang_name: ngyemboon
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nkambe
+  wals_codes: null
 - country: CM
   glottocode: mend1261
   iso_639_3:
   - mfd
   lang_name: nkwen
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nlimbom
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nnaga eboko
+  wals_codes: null
 - country: CM
   glottocode: noon1243
   iso_639_3:
   - nhu
   lang_name: noni
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nsie
+  wals_codes: null
 - country: CM
   glottocode: lamn1239
   iso_639_3:
   - lns
   lang_name: nso
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ntem
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ntenako
+  wals_codes: null
 - country: CM
   glottocode: fang1246
   iso_639_3:
   - fan
   lang_name: ntoumou
+  wals_codes: null
 - country: CM
   glottocode: ngwe1238
   iso_639_3:
   - nwe
   lang_name: nweh
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nyem nyem
+  wals_codes: null
 - country: CM
   glottocode: nyok1243
   iso_639_3:
   - nvo
   lang_name: nyokon
+  wals_codes: null
 - country: CM
   glottocode: koon1245
   iso_639_3:
   - ozm
   lang_name: nzime
+  wals_codes: null
 - country: CM
   glottocode: ejag1239
   iso_639_3:
   - etu
   lang_name: obang
+  wals_codes: null
 - country: CM
   glottocode: okuu1243
   iso_639_3:
   - oku
   lang_name: oku
+  wals_codes: null
 - country: CM
   glottocode: orok1266
   iso_639_3:
   - bdu
   lang_name: oroko
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: oshe
+  wals_codes: null
 - country: CM
   glottocode: ngos1238
   iso_639_3:
   - nsh
   lang_name: oshie
+  wals_codes: null
 - country: CM
   glottocode: adam1253
   iso_639_3:
   - fub
   lang_name: peulh
+  wals_codes: null
 - country: CM
   glottocode: piny1238
   iso_639_3:
   - pny
   lang_name: pinyin
+  wals_codes: null
 - country: CM
   glottocode: tuki1240
   iso_639_3:
   - bag
   lang_name: sanaga
+  wals_codes: null
 - country: CM
   glottocode: ngam1268
   iso_639_3:
   - sba
   lang_name: sara
+  wals_codes: null
 - country: CM
   glottocode: dual1243
   iso_639_3:
   - dua
   lang_name: sawa
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: so'o
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: soro
+  wals_codes: null
 - country: CM
   glottocode: yemb1246
   iso_639_3:
   - ybb
   lang_name: tchang
+  wals_codes: null
 - country: CM
   glottocode: tika1246
   iso_639_3:
   - tik
   lang_name: tikar
+  wals_codes: null
 - country: CM
   glottocode: wand1278
   iso_639_3:
   - mfi
   lang_name: wandala
+  wals_codes: null
 - country: CM
   glottocode: wehh1238
   iso_639_3:
   - weh
   lang_name: weh
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: wibum
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: widikum
+  wals_codes: null
 - country: CM
   glottocode: limb1268
   iso_639_3:
   - lmp
   lang_name: wimbum
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: womela
+  wals_codes: null
 - country: CM
   glottocode: yang1293
   iso_639_3:
   - yav
   lang_name: yambassa
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: yamben
+  wals_codes: null
 - country: CM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: yebekol
+  wals_codes: null
 - country: CM
   glottocode: zulg1242
   iso_639_3:
   - gnd
   lang_name: zoulgo
+  wals_codes: null
 - country: DZ
   glottocode: kaby1243
   iso_639_3:
   - kab
   lang_name: tamazight
   note: Kabyle is most common berber in DZ
+  wals_codes: null
 - country: GA
   glottocode: haus1257
   iso_639_3:
   - hau
   lang_name: haoussa
+  wals_codes: null
 - country: GH
   glottocode: adan1247
   iso_639_3:
   - ada
   lang_name: ada
+  wals_codes: null
 - country: GH
   glottocode: adel1244
   iso_639_3:
   - ade
   lang_name: adele
+  wals_codes: null
 - country: GH
   glottocode: ahan1243
   iso_639_3:
   - aha
   lang_name: ahanta
+  wals_codes: null
 - country: GH
   glottocode: akan1250
   iso_639_3:
   - fat
   - twi
   lang_name: akan
+  wals_codes: null
 - country: GH
   glottocode: giky1238
   iso_639_3:
   - acd
   lang_name: akyode
+  wals_codes: null
 - country: GH
   glottocode: anyi1245
   iso_639_3:
   - any
   lang_name: anyinam
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: assin
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: atweti
+  wals_codes: null
 - country: GH
   glottocode: avat1244
   iso_639_3:
   - avn
   lang_name: avatime
+  wals_codes: null
 - country: GH
   glottocode: awut1241
   iso_639_3:
   - afu
   lang_name: awutu
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ayigbe
+  wals_codes: null
 - country: GH
   glottocode: nafa1258
   iso_639_3:
   - nfr
   lang_name: banda
+  wals_codes: null
 - country: GH
   glottocode: ntch1242
   iso_639_3:
   - bud
   lang_name: basare
+  wals_codes: null
 - country: GH
   glottocode: ntch1242
   iso_639_3:
   - bud
   lang_name: basari
+  wals_codes: null
 - country: GH
   glottocode: ntch1242
   iso_639_3:
   - bud
   lang_name: basseli
   note: Bassari is alt name for Ntcham
+  wals_codes: null
 - country: GH
   glottocode: ewee1241
   iso_639_3:
   - ewe
   lang_name: batoe
   note: Mapped to Ewe for that person
-  wals_code:
+  wals_codes:
   - ewe
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: battor
+  wals_codes: null
 - country: GH
   glottocode: bimo1239
   iso_639_3:
   - bim
   lang_name: bemuba
   note: Bimobda
+  wals_codes: null
 - country: GH
   glottocode: bimo1239
   iso_639_3:
   - bim
   lang_name: bimoba
+  wals_codes: null
 - country: GH
   glottocode: sout2790
   iso_639_3:
   - biv
   lang_name: birifori
+  wals_codes: null
 - country: GH
   glottocode: biss1248
   iso_639_3:
   - bib
   lang_name: bisab
   note: Bisa
+  wals_codes: null
 - country: GH
   glottocode: biss1248
   iso_639_3:
   - bib
   lang_name: bissa
+  wals_codes: null
 - country: GH
   glottocode: abro1238
   iso_639_3:
   - abr
   lang_name: bono
   note: Dialect of Akan
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: brefo
+  wals_codes: null
 - country: GH
   glottocode: anyi1245
   iso_639_3:
   - any
   lang_name: brosa
+  wals_codes: null
 - country: GH
   glottocode: lele1264
   iso_639_3:
   - lef
   lang_name: buem
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: buile
+  wals_codes: null
 - country: GH
   glottocode: buli1254
   iso_639_3:
   - bwu
   lang_name: builsa
+  wals_codes: null
 - country: GH
   glottocode: buli1254
   iso_639_3:
   - bwu
   lang_name: bule
   note: Buli
+  wals_codes: null
 - country: GH
   glottocode: buli1254
   iso_639_3:
   - bwu
   lang_name: buli
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: busanga
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: buzanga
+  wals_codes: null
 - country: GH
   glottocode: ntch1242
   iso_639_3:
   - bud
   lang_name: chamba
   note: Ntcham
+  wals_codes: null
 - country: GH
   glottocode: chum1261
   iso_639_3:
   - ncu
   lang_name: chimullu
   note: Nchimmuru is alt name fo Chumburung
+  wals_codes: null
 - country: GH
   glottocode: anuf1239
   iso_639_3:
   - cko
   lang_name: chokosi
+  wals_codes: null
 - country: GH
   glottocode: anuf1239
   iso_639_3:
   - cko
   lang_name: chukusi
   note: Chakosi is alt name for Anufo
+  wals_codes: null
 - country: GH
   glottocode: sout2789
   iso_639_3:
   - dga
   lang_name: dagaare
+  wals_codes: null
 - country: GH
   glottocode: sout2789
   iso_639_3:
   - dga
   lang_name: dagaari
+  wals_codes: null
 - country: GH
   glottocode: sout2789
   iso_639_3:
   - dga
   lang_name: dagaarti
+  wals_codes: null
 - country: GH
   glottocode: sout2789
   iso_639_3:
   - dga
   lang_name: dagate
   note: Dagati is alt name for Southern Dagaare
+  wals_codes: null
 - country: GH
   glottocode: dagb1246
   iso_639_3:
   - dag
   lang_name: dagomba
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: deg-(moo)
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: dibebi
+  wals_codes: null
 - country: GH
   glottocode: wali1263
   iso_639_3:
   - wlx
   lang_name: dolime
   note: Dolimi is dialect of Wali
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: dolimuu
+  wals_codes: null
 - country: GH
   glottocode: awut1241
   iso_639_3:
   - afu
   lang_name: efutu
+  wals_codes: null
 - country: GH
   glottocode: ewee1241
   iso_639_3:
   - ewe
   lang_name: ewe and fante
-  wals_code:
+  wals_codes:
   - ewe
 - country: GH
   glottocode: fant1241
   iso_639_3:
   - fat
   lang_name: fante
+  wals_codes: null
 - country: GH
   glottocode: fant1241
   iso_639_3:
   - fat
   lang_name: fanti
+  wals_codes: null
 - country: GH
   glottocode: fare1241
   iso_639_3:
   - gur
   lang_name: frafra
+  wals_codes: null
 - country: GH
   glottocode: stan1290
   iso_639_3:
   - fra
   lang_name: french
+  wals_codes: null
 - country: GH
   glottocode: maas1239
   iso_639_3:
   - ffm
   lang_name: fulani
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gawu
+  wals_codes: null
 - country: GH
   glottocode: giky1238
   iso_639_3:
   - acd
   lang_name: gekyode
   note: Gikyode
+  wals_codes: null
 - country: GH
   glottocode: gonj1241
   iso_639_3:
   - gjn
   lang_name: gonja
+  wals_codes: null
 - country: GH
   glottocode: bimo1239
   iso_639_3:
   - bim
   lang_name: gruma
+  wals_codes: null
 - country: GH
   glottocode: fare1241
   iso_639_3:
   - gur
   lang_name: gruni
   note: A Gur language. Use Farfare.
+  wals_codes: null
 - country: GH
   glottocode: kase1253
   iso_639_3:
   - xsm
   lang_name: grushi
   note: Grusi
+  wals_codes: null
 - country: GH
   glottocode: kase1253
   iso_639_3:
   - xsm
   lang_name: grushie
+  wals_codes: null
 - country: GH
   glottocode: kase1253
   iso_639_3:
   - xsm
   lang_name: grussi
+  wals_codes: null
 - country: GH
   glottocode: guaa1238
   iso_639_3:
   - gwx
   lang_name: guan
+  wals_codes: null
 - country: GH
   glottocode: bimo1239
   iso_639_3:
   - bim
   lang_name: guruma
   note: Gruma.
+  wals_codes: null
 - country: GH
   glottocode: fare1241
   iso_639_3:
   - gur
   lang_name: guruni
   note: Gurune is alt name for Farefare
+  wals_codes: null
 - country: GH
   glottocode: hang1258
   iso_639_3:
   - hag
   lang_name: hanga
+  wals_codes: null
 - country: GH
   glottocode: krac1238
   iso_639_3:
   - kye
   lang_name: kaakye
   note: Kaayki is autonum for Krache
+  wals_codes: null
 - country: GH
   glottocode: buli1254
   iso_639_3:
   - bwu
   lang_name: kanjaga
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kasari
+  wals_codes: null
 - country: GH
   glottocode: kase1253
   iso_639_3:
   - xsm
   lang_name: kasem
+  wals_codes: null
 - country: GH
   glottocode: kase1253
   iso_639_3:
   - xsm
   lang_name: kasena
+  wals_codes: null
 - country: GH
   glottocode: kase1253
   iso_639_3:
   - xsm
   lang_name: kasina
   note: Kasem has alt name Kasena
+  wals_codes: null
 - country: GH
   glottocode: konk1269
   iso_639_3:
   - xon
   lang_name: kokomba
   note: Konkomba
+  wals_codes: null
 - country: GH
   glottocode: konk1269
   iso_639_3:
   - xon
   lang_name: konkoba
   note: Konkomba
+  wals_codes: null
 - country: GH
   glottocode: konk1269
   iso_639_3:
   - xon
   lang_name: konkomba
+  wals_codes: null
 - country: GH
   glottocode: temm1241
   iso_639_3:
   - kdh
   lang_name: kotokoli
+  wals_codes: null
 - country: GH
   glottocode: temm1241
   iso_639_3:
   - kdh
   lang_name: kotokoli/chamba
+  wals_codes: null
 - country: GH
   glottocode: krac1238
   iso_639_3:
   - kye
   lang_name: krachi
+  wals_codes: null
 - country: GH
   glottocode: krac1238
   iso_639_3:
   - kye
   lang_name: krakyi
   note: Krache
+  wals_codes: null
 - country: GH
   glottocode: adan1247
   iso_639_3:
   - ada
   lang_name: krobo
+  wals_codes: null
 - country: GH
   glottocode: kusa1250
   iso_639_3:
   - kus
   lang_name: kusaasi
+  wals_codes: null
 - country: GH
   glottocode: kusa1250
   iso_639_3:
   - kus
   lang_name: kusal
   note: Kusaal
+  wals_codes: null
 - country: GH
   glottocode: kusa1250
   iso_639_3:
   - kus
   lang_name: kusasi
+  wals_codes: null
 - country: GH
   glottocode: twii1234
   iso_639_3:
   - twi
   lang_name: kwahu
+  wals_codes: null
 - country: GH
   glottocode: konk1269
   iso_639_3:
   - xon
   lang_name: lakpakaw
   note: Alt names for Konbomba are Lipakpaanl and Bipakpam
+  wals_codes: null
 - country: GH
   glottocode: lart1238
   iso_639_3:
   - lar
   lang_name: larteh
+  wals_codes: null
 - country: GH
   glottocode: sekp1241
   iso_639_3:
   - lip
   lang_name: lekpekpe
   note: Sekpele
+  wals_codes: null
 - country: GH
   glottocode: konk1269
   iso_639_3:
   - xon
   lang_name: likpakpaln
   note: Likpakpaanl is alt name for Konbomba
+  wals_codes: null
 - country: GH
   glottocode: logb1245
   iso_639_3:
   - lgq
   lang_name: logba
+  wals_codes: null
 - country: GH
   glottocode: mamp1244
   iso_639_3:
   - maw
   lang_name: mampruli
+  wals_codes: null
 - country: GH
   glottocode: mamp1244
   iso_639_3:
   - maw
   lang_name: mamprusi
+  wals_codes: null
 - country: GH
   glottocode: degg1238
   iso_639_3:
   - mzw
   lang_name: mo
+  wals_codes: null
 - country: GH
   glottocode: moss1236
   iso_639_3:
   - mos
   lang_name: moshie
+  wals_codes: null
 - country: GH
   glottocode: moss1236
   iso_639_3:
   - mos
   lang_name: mossi
+  wals_codes: null
 - country: GH
   glottocode: fare1241
   iso_639_3:
   - gur
   lang_name: nabdam
+  wals_codes: null
 - country: GH
   glottocode: nafa1258
   iso_639_3:
   - nfr
   lang_name: nafana
+  wals_codes: null
 - country: GH
   glottocode: chum1261
   iso_639_3:
   - ncu
   lang_name: nahumuru
   note: Nchumburu, Nchummuru
+  wals_codes: null
 - country: GH
   glottocode: fare1241
   iso_639_3:
   - gur
   lang_name: nankan
   note: Nankani is dialect of Farefare
+  wals_codes: null
 - country: GH
   glottocode: fare1241
   iso_639_3:
   - gur
   lang_name: nankani
+  wals_codes: null
 - country: GH
   glottocode: dagb1246
   iso_639_3:
   - dag
   lang_name: nanum
   note: Nanuni (Nanumba) dialect of Dagbani
+  wals_codes: null
 - country: GH
   glottocode: dagb1246
   iso_639_3:
   - dag
   lang_name: nanumba
+  wals_codes: null
 - country: GH
   glottocode: nawu1242
   iso_639_3:
   - naw
   lang_name: nawuri
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nawurt
+  wals_codes: null
 - country: GH
   glottocode: kula1277
   iso_639_3:
-  - kzc
   - nku
   lang_name: nkura
   note: Nkuraeng dialect of Kulango
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nusu
+  wals_codes: null
 - country: GH
   glottocode: nzim1238
   iso_639_3:
   - nzi
   lang_name: nzema
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: okre
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: sampa
+  wals_codes: null
 - country: GH
   glottocode: sehw1238
   iso_639_3:
   - sfw
   lang_name: sefwi
+  wals_codes: null
 - country: GH
   glottocode: sisa1248
   iso_639_3:
   - sil
   - ssl
   lang_name: sisaala
+  wals_codes: null
 - country: GH
   glottocode: sisa1248
   iso_639_3:
   - sil
   - ssl
   lang_name: sisila
+  wals_codes: null
 - country: GH
   glottocode: sisa1248
   iso_639_3:
   - sil
   - ssl
   lang_name: sissala
+  wals_codes: null
 - country: GH
   glottocode: sisa1248
   iso_639_3:
   - sil
   - ssl
   lang_name: sissali
+  wals_codes: null
 - country: GH
   glottocode: gaaa1244
   iso_639_3:
   - gaa
   lang_name: someja
+  wals_codes: null
 - country: GH
   glottocode: fare1241
   iso_639_3:
   - gur
   lang_name: talensi
+  wals_codes: null
 - country: GH
   glottocode: tamp1252
   iso_639_3:
   - tpm
   lang_name: tampulma
+  wals_codes: null
 - country: GH
   glottocode: tamp1252
   iso_639_3:
   - tpm
   lang_name: tapulsi
   note: Tampulma has names Tamprusi, Tampole
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: timbru
+  wals_codes: null
 - country: GH
   glottocode: tamp1252
   iso_639_3:
   - tpm
   lang_name: tombolon
   note: Tampolem is name for Tampulma
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: wa dormu
+  wals_codes: null
 - country: GH
   glottocode: wali1263
   iso_639_3:
   - wlx
   lang_name: waala
   note: Wali
+  wals_codes: null
 - country: GH
   glottocode: wali1263
   iso_639_3:
   - wlx
   lang_name: waale
   note: Wali
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: wangara
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: wangra
+  wals_codes: null
 - country: GH
   glottocode: wasa1244
   iso_639_3:
   - wss
   lang_name: wassa
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: wulisa
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: zabrama
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: zamrama
+  wals_codes: null
 - country: GH
   glottocode: null
   iso_639_3:
   - mis
   lang_name: zugu
+  wals_codes: null
 - country: GN
   glottocode: baga1275
   iso_639_3:
   - bcg
   lang_name: baga
+  wals_codes: null
 - country: GN
   glottocode: pula1262
   iso_639_3:
   - fuf
   lang_name: bassano foula
+  wals_codes: null
 - country: GN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: beka
+  wals_codes: null
 - country: GN
   glottocode: jaha1245
   iso_639_3:
   - jad
   lang_name: diakanke
   note: Diakkanke is name for Jahanka
+  wals_codes: null
 - country: GN
   glottocode: stan1290
   iso_639_3:
   - fra
   lang_name: francais
+  wals_codes: null
 - country: GN
   glottocode: stan1290
   iso_639_3:
   - fra
   lang_name: francaise
+  wals_codes: null
 - country: GN
   glottocode: guin1254
   iso_639_3:
   - gkp
   lang_name: guerze
+  wals_codes: null
 - country: GN
   glottocode: guin1254
   iso_639_3:
   - gkp
   lang_name: gurerze
   note: Gerze/Guerze is name for Guinea Kpelle
+  wals_codes: null
 - country: GN
   glottocode: kaka1265
   iso_639_3:
   - kke
   lang_name: kakabhe
   note: Kakabe
+  wals_codes: null
 - country: GN
   glottocode: nort2765
   iso_639_3:
   - kqs
   lang_name: kissi
+  wals_codes: null
 - country: GN
   glottocode: kono1267
   iso_639_3:
   - knu
   lang_name: kono
+  wals_codes: null
 - country: GN
   glottocode: kono1267
   iso_639_3:
   - knu
   lang_name: konon
   note: Kono
+  wals_codes: null
 - country: GN
   glottocode: kura1250
   iso_639_3:
   - knk
   lang_name: kouranko
   note: Kuranko
+  wals_codes: null
 - country: GN
   glottocode: land1256
   iso_639_3:
   - ldm
   lang_name: landouma
   note: Landoma
+  wals_codes: null
 - country: GN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: manian
+  wals_codes: null
 - country: GN
   glottocode: mann1248
   iso_639_3:
   - mev
   lang_name: mano
+  wals_codes: null
 - country: GN
   glottocode: mixi1241
   iso_639_3:
   - mfg
   lang_name: miguiforet
   note: Mixifore is alt name for Mogofin
+  wals_codes: null
 - country: GN
   glottocode: mixi1241
   iso_639_3:
   - mfg
   lang_name: mikhifore
   note: Mixifore is alt name for Mogofin
+  wals_codes: null
 - country: GN
   glottocode: mixi1241
   iso_639_3:
   - mfg
   lang_name: mikifore
+  wals_codes: null
 - country: GN
   glottocode: nalu1240
   iso_639_3:
   - naj
   lang_name: nallou
   note: Nalu
+  wals_codes: null
 - country: GN
   glottocode: susu1250
   iso_639_3:
   - sus
   lang_name: soussou
+  wals_codes: null
 - country: GN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tcheddere
+  wals_codes: null
 - country: GN
   glottocode: toma1245
   iso_639_3:
   - tod
   lang_name: toma
+  wals_codes: null
 - country: GN
   glottocode: toma1245
   iso_639_3:
   - tod
   lang_name: toma mania
+  wals_codes: null
 - country: GN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: touba
+  wals_codes: null
 - country: GN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: wome
+  wals_codes: null
 - country: KE
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ajuran
+  wals_codes: null
 - country: KE
   glottocode: stan1318
   iso_639_3:
   - arb
   lang_name: arab
-  wals_code:
+  wals_codes:
   - abb
 - country: KE
   glottocode: oman1239
   iso_639_3:
   - acx
   lang_name: arabic
-  wals_code:
+  wals_codes:
   - arg
 - country: KE
   glottocode: guja1252
   iso_639_3:
   - guj
   lang_name: asian south
+  wals_codes: null
 - country: KE
   glottocode: swah1253
   iso_639_3:
   - swh
   lang_name: bajun
+  wals_codes: null
 - country: KE
   glottocode: swah1253
   iso_639_3:
   - swh
   lang_name: bajuni
+  wals_codes: null
 - country: KE
   glottocode: bora1271
   iso_639_3:
   - gax
   lang_name: borana
+  wals_codes: null
 - country: KE
   glottocode: digo1243
   iso_639_3:
   - dig
   lang_name: digo
+  wals_codes: null
 - country: KE
   glottocode: null
   iso_639_3:
   - mis
   lang_name: dinka
+  wals_codes: null
 - country: KE
   glottocode: duru1249
   iso_639_3:
   - dug
   lang_name: duruma
+  wals_codes: null
 - country: KE
   glottocode: stan1293
   iso_639_3:
   - eng
   lang_name: eng and swahili
+  wals_codes: null
 - country: KE
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gabra
   note: Location of Gabra mentioned for Borana
+  wals_codes: null
 - country: KE
   glottocode: swah1253
   iso_639_3:
   - swh
   lang_name: garre
   note: Ngare dielect of Swahili
+  wals_codes: null
 - country: KE
   glottocode: giry1241
   iso_639_3:
   - nyf
   lang_name: giriama
+  wals_codes: null
 - country: KE
   glottocode: guja1252
   iso_639_3:
   - guj
   lang_name: gujarat
   note: Gujarati
+  wals_codes: null
 - country: KE
   glottocode: guja1252
   iso_639_3:
   - guj
   lang_name: gujarati
+  wals_codes: null
 - country: KE
   glottocode: guja1252
   iso_639_3:
   - guj
   lang_name: gujrathi
+  wals_codes: null
 - country: KE
   glottocode: tait1250
   iso_639_3:
   - dav
   lang_name: half taita, half zai
+  wals_codes: null
 - country: KE
   glottocode: hind1269
   iso_639_3:
   - hin
   lang_name: hindu
+  wals_codes: null
 - country: KE
   glottocode: guja1252
   iso_639_3:
   - guj
   lang_name: indian
   note: Assume Gujarati since it seems common
+  wals_codes: null
 - country: KE
   glottocode: swah1253
   iso_639_3:
   - swh
   lang_name: kenyan
   note: Swahili is official language
+  wals_codes: null
 - country: KE
   glottocode: kips1239
   iso_639_3:
   - sgc
   lang_name: kipsigis
+  wals_codes: null
 - country: KE
   glottocode: kiku1240
   iso_639_3:
   - kik
   lang_name: kirinyaga
   note: Gikuyu
+  wals_codes: null
 - country: KE
   glottocode: gusi1247
   iso_639_3:
   - guz
   lang_name: kisii
+  wals_codes: null
 - country: KE
   glottocode: kuri1259
   iso_639_3:
   - kuj
   lang_name: kuria
+  wals_codes: null
 - country: KE
   glottocode: mara1393
   iso_639_3:
   - lri
   lang_name: marachi
+  wals_codes: null
 - country: KE
   glottocode: logo1258
   iso_639_3:
   - rag
   lang_name: maragoli
+  wals_codes: null
 - country: KE
   glottocode: masa1300
   iso_639_3:
   - mas
   lang_name: masai
+  wals_codes: null
 - country: KE
   glottocode: embu1241
   iso_639_3:
   - ebu
   lang_name: mbeere
+  wals_codes: null
 - country: KE
   glottocode: orma1241
   iso_639_3:
   - orc
   lang_name: munyaya
   note: Orma has dialect Munyo spoken by Munyo Yaya group.
+  wals_codes: null
 - country: KE
   glottocode: nand1266
   iso_639_3:
   - niq
   lang_name: nandi
+  wals_codes: null
 - country: KE
   glottocode: nubi1253
   iso_639_3:
   - kcn
   lang_name: nubi
+  wals_codes: [nub]
 - country: KE
   glottocode: nubi1253
   iso_639_3:
   - kcn
   lang_name: nubian
-  wals_code:
+  wals_codes:
   - nub
 - country: KE
   glottocode: kiny1244
@@ -2826,1807 +3361,2146 @@
   - kin
   lang_name: nyarwanda
   note: Kinnyarwanda
+  wals_codes: null
 - country: KE
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nyasa
+  wals_codes: null
 - country: KE
   glottocode: okie1245
   iso_639_3:
   - oki
   lang_name: ogiek
+  wals_codes: null
 - country: KE
   glottocode: orma1241
   iso_639_3:
   - orc
   lang_name: oroma
   note: Orma
+  wals_codes: null
 - country: KE
   glottocode: poko1261
   iso_639_3:
   - pkb
   lang_name: pokomo
+  wals_codes: null
 - country: KE
   glottocode: poko1263
   iso_639_3:
   - pko
   lang_name: pokot
+  wals_codes: null
 - country: KE
   glottocode: panj1256
   iso_639_3:
   - pan
   lang_name: punjabi
+  wals_codes: null
 - country: KE
   glottocode: rend1243
   iso_639_3:
   - rel
   lang_name: rendile
+  wals_codes: null
 - country: KE
   glottocode: rend1243
   iso_639_3:
   - rel
   lang_name: rendille
+  wals_codes: null
 - country: KE
   glottocode: saba1262
   iso_639_3:
   - spy
   lang_name: sabaot
+  wals_codes: null
 - country: KE
   glottocode: saba1262
   iso_639_3:
   - spy
   lang_name: saboti
+  wals_codes: null
 - country: KE
   glottocode: null
   iso_639_3:
   - mis
   lang_name: shelshel
+  wals_codes: null
 - country: KE
   glottocode: soma1255
   iso_639_3:
   - som
   lang_name: somali
+  wals_codes: null
 - country: KE
   glottocode: suba1238
   iso_639_3:
   - sxb
   lang_name: suba
+  wals_codes: null
 - country: KE
   glottocode: swah1253
   iso_639_3:
   - swh
   lang_name: swahili
+  wals_codes: null
 - country: KE
   glottocode: teso1249
   iso_639_3:
   - teo
   lang_name: teso
+  wals_codes: null
 - country: KE
   glottocode: thar1283
   iso_639_3:
   - thk
   lang_name: tharaka
+  wals_codes: null
 - country: KE
   glottocode: idak1243
   iso_639_3:
   - ida
   lang_name: tiriki
+  wals_codes: null
 - country: KE
   glottocode: turk1308
   iso_639_3:
   - tuv
   lang_name: turkana
+  wals_codes: null
 - country: KE
   glottocode: soma1255
   iso_639_3:
   - som
   lang_name: wardei
+  wals_codes: null
 - country: LR
   glottocode: sapo1251
   iso_639_3:
   - krn
   lang_name: sapo
+  wals_codes: null
 - country: LR
   glottocode: sapo1251
   iso_639_3:
   - krn
   lang_name: sarpo
+  wals_codes: null
 - country: LR
   glottocode: stan1293
   iso_639_3:
   - eng
   lang_name: standard english
+  wals_codes: null
 - country: LS
   glottocode: xhos1239
   iso_639_3:
   - xho
   lang_name: isixhoza
+  wals_codes: null
 - country: LS
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mzema
+  wals_codes: null
 - country: LS
   glottocode: null
   iso_639_3:
   - mis
   lang_name: sethepu
+  wals_codes: null
 - country: LS
   glottocode: xhos1239
   iso_639_3:
   - xho
   lang_name: xhosa
+  wals_codes: null
 - country: LS
   glottocode: xhos1239
   iso_639_3:
   - xho
   lang_name: zhoza
+  wals_codes: null
 - country: MA
   glottocode: hass1238
   iso_639_3:
   - mey
   lang_name: hassaniya
+  wals_codes: null
 - country: MA
   glottocode: stan1324
   iso_639_3:
   - zgh
   lang_name: tamazight
+  wals_codes: null
 - country: MG
   glottocode: nort3196
   iso_639_3:
   - bzc
   - bmm
   lang_name: betsimisaraka
+  wals_codes: null
 - country: MG
   glottocode: plat1254
   iso_639_3:
   - plt
   lang_name: tanala
+  wals_codes: null
 - country: ML
   glottocode: mark1256
   iso_639_3:
   - rkm
   lang_name: dafing
+  wals_codes: null
 - country: ML
   glottocode: null
   iso_639_3:
   - mis
   lang_name: diaka
+  wals_codes: null
 - country: ML
   glottocode: haus1257
   iso_639_3:
   - hau
   lang_name: haoussa
+  wals_codes: null
 - country: ML
   glottocode: kago1248
   iso_639_3:
   - xkg
   lang_name: kakolo
+  wals_codes: null
 - country: ML
   glottocode: moss1236
   iso_639_3:
   - mos
   lang_name: mossi
+  wals_codes: null
 - country: ML
   glottocode: duun1242
   iso_639_3:
   - dux
   lang_name: samogo
+  wals_codes: null
 - country: ML
   glottocode: zarm1239
   iso_639_3:
   - dje
   lang_name: zerma
   note: Adzerma and Djerma are names for Zarmaci
+  wals_codes: null
 - country: MU
   glottocode: bhoj1244
   iso_639_3:
   - bho
   lang_name: bhojpuri
+  wals_codes: null
 - country: MW
   glottocode: lamb1272
   iso_639_3:
   - lai
   lang_name: chilambya
   note: Lambya
+  wals_codes: null
 - country: MW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chimambwe
+  wals_codes: null
 - country: MW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chinamwanga
+  wals_codes: null
 - country: MW
   glottocode: ndal1241
   iso_639_3:
   - ndh
   lang_name: chindali
   note: Ndali
+  wals_codes: null
 - country: MW
   glottocode: ndal1241
   iso_639_3:
   - ndh
   lang_name: chindalii
   note: Ndali
+  wals_codes: null
 - country: MW
   glottocode: nort2795
   iso_639_3:
   - nde
   lang_name: chindebele
+  wals_codes: null
 - country: MW
   glottocode: nyak1260
   iso_639_3:
   - nyy
   lang_name: chinkhonde
+  wals_codes: null
 - country: MW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chinyakyusa
+  wals_codes: null
 - country: MW
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: chinyanja
+  wals_codes: null
 - country: MW
   glottocode: nyik1246
   iso_639_3:
   - nkv
   lang_name: chinyika
+  wals_codes: null
 - country: MW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chinyungwe
+  wals_codes: null
 - country: MW
   glottocode: swah1253
   iso_639_3:
   - swh
   lang_name: chiswahili
+  wals_codes: null
 - country: MW
   glottocode: tong1321
   iso_639_3:
   - tog
   lang_name: chitonga
+  wals_codes: null
 - country: MW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chiwandya
+  wals_codes: null
 - country: MW
   glottocode: yaoo1241
   iso_639_3:
   - yao
   lang_name: chiyao
+  wals_codes: null
 - country: MW
   glottocode: koko1267
   iso_639_3:
   - kzn
   lang_name: khokhola
+  wals_codes: null
 - country: MW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: namwanga
+  wals_codes: null
 - country: MW
   glottocode: ndal1241
   iso_639_3:
   - ndh
   lang_name: ndali
+  wals_codes: null
 - country: MW
   glottocode: nyik1246
   iso_639_3:
   - nkv
   lang_name: nyika
+  wals_codes: null
 - country: MW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: wiza
+  wals_codes: null
 - country: MZ
   glottocode: gito1238
   iso_639_3:
   - toh
   lang_name: bitonga
+  wals_codes: null
 - country: MZ
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: chaewa
+  wals_codes: null
 - country: MZ
   glottocode: chop1243
   iso_639_3:
   - cce
   lang_name: chape
   note: Chopi
+  wals_codes: null
 - country: MZ
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: chechewa
+  wals_codes: null
 - country: MZ
   glottocode: nucl1396
   iso_639_3:
   - seh
   lang_name: chena
   note: Sena
+  wals_codes: null
 - country: MZ
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: cheua
+  wals_codes: null
 - country: MZ
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: chewa
+  wals_codes: null
 - country: MZ
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: chewe
+  wals_codes: null
 - country: MZ
   glottocode: barw1243
   iso_639_3:
   - bwg
   lang_name: chibarue
   note: Barwe
+  wals_codes: null
 - country: MZ
   glottocode: barw1243
   iso_639_3:
   - bwg
   lang_name: chibaure
   note: Barwe
+  wals_codes: null
 - country: MZ
   glottocode: barw1243
   iso_639_3:
   - bwg
   lang_name: chiburue
   note: Barwe
+  wals_codes: null
 - country: MZ
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: chichewa
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chigorongozi
+  wals_codes: null
 - country: MZ
   glottocode: many1258
   iso_639_3:
   - mxc
   lang_name: chimanica
-  note: >-
-    Manika
+  note: Manika
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chimarenge
+  wals_codes: null
 - country: MZ
   glottocode: ngon1269
   iso_639_3:
   - ngo
   lang_name: chingoni
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chingozi
+  wals_codes: null
 - country: MZ
   glottocode: many1258
   iso_639_3:
   - mxc
   lang_name: chinhungue
   note: Hungwe
+  wals_codes: null
 - country: MZ
   glottocode: tawa1270
   iso_639_3:
   - twl
   lang_name: chitawala
   note: Tawara/Tawala
+  wals_codes: null
 - country: MZ
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: chitcheiwa
   note: Chichewa
+  wals_codes: null
 - country: MZ
   glottocode: tewe1238
   iso_639_3:
   - twx
   lang_name: chiteue
   note: Tewe
+  wals_codes: null
 - country: MZ
   glottocode: tewe1238
   iso_639_3:
   - twx
   lang_name: chitewe
   note: Tewe
+  wals_codes: null
 - country: MZ
   glottocode: tewe1238
   iso_639_3:
   - twx
   lang_name: chiteye
   note: Tewe
+  wals_codes: null
 - country: MZ
   glottocode: tswa1255
   iso_639_3:
   - tsc
   lang_name: chitsua
   note: Tswa
+  wals_codes: null
 - country: MZ
   glottocode: tswa1255
   iso_639_3:
   - tsc
   lang_name: chitswa
   note: Tswa
+  wals_codes: null
 - country: MZ
   glottocode: tswa1255
   iso_639_3:
   - tsc
   lang_name: chitxua
   note: Tswa
+  wals_codes: null
 - country: MZ
   glottocode: tewe1238
   iso_639_3:
   - twx
   lang_name: chiute
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chona
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chongo
+  wals_codes: null
 - country: MZ
   glottocode: chop1243
   iso_639_3:
   - cce
   lang_name: chope
   note: Chopi
+  wals_codes: null
 - country: MZ
   glottocode: chuw1238
   iso_639_3:
   - chw
   lang_name: chuabo
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chutcua
+  wals_codes: null
 - country: MZ
   glottocode: koti1238
   iso_639_3:
   - eko
   lang_name: cicoti
+  wals_codes: null
 - country: MZ
   glottocode: koti1238
   iso_639_3:
   - eko
   lang_name: coti
+  wals_codes: null
 - country: MZ
   glottocode: koti1238
   iso_639_3:
   - eko
   lang_name: ekote
   note: Koti
+  wals_codes: null
 - country: MZ
   glottocode: stan1293
   iso_639_3:
   - eng
   lang_name: english
+  wals_codes: null
 - country: MZ
   glottocode: mwan1247
   iso_639_3:
   - wmw
   lang_name: kimuani
   note: Mwani
+  wals_codes: null
 - country: MZ
   glottocode: mwan1247
   iso_639_3:
   - wmw
   lang_name: kimwani
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ligete
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ligode
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ligote
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ligoute
+  wals_codes: null
 - country: MZ
   glottocode: port1283
   iso_639_3:
   - por
   lang_name: lingua mapex
   note: Mozambican Portugese
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: logote
+  wals_codes: null
 - country: MZ
   glottocode: lolo1261
   iso_639_3:
   - llb
   lang_name: lolo
+  wals_codes: null
 - country: MZ
   glottocode: lomw1241
   iso_639_3:
   - ngl
   lang_name: lomue
+  wals_codes: null
 - country: MZ
   glottocode: lomw1241
   iso_639_3:
   - ngl
   lang_name: lomwe
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: loriba
+  wals_codes: null
 - country: MZ
   glottocode: lomw1241
   iso_639_3:
   - ngl
   lang_name: lumwe
   note: Lomwe
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: luniga
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mabawe
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: macheua
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mahawea
+  wals_codes: null
 - country: MZ
   glottocode: main1272
   iso_639_3:
   - cwb
   lang_name: maindo
+  wals_codes: null
 - country: MZ
   glottocode: makw1236
   iso_639_3:
   - ymk
   lang_name: makwe
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: malolo
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: manhawa
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: manhembane
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: manhgue
+  wals_codes: null
 - country: MZ
   glottocode: many1258
   iso_639_3:
   - mxc
   lang_name: manhungue
   note: Manyika has alt name Hungwe
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: maone
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mapex
+  wals_codes: null
 - country: MZ
   glottocode: mare1260
   iso_639_3:
   - vmr
   lang_name: marenge
   note: Marenje
+  wals_codes: null
 - country: MZ
   glottocode: mare1260
   iso_639_3:
   - vmr
   lang_name: marenje
+  wals_codes: null
 - country: MZ
   glottocode: rong1268
   iso_639_3:
   - rng
   lang_name: maronga
   note: Ronga
+  wals_codes: null
 - country: MZ
   glottocode: nucl1396
   iso_639_3:
   - seh
   lang_name: massema
   note: Sena
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: matcwe
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mateu
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mateue
+  wals_codes: null
 - country: MZ
   glottocode: tewe1238
   iso_639_3:
   - twx
   lang_name: matewe
   note: Tewe
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mateyu
+  wals_codes: null
 - country: MZ
   glottocode: tewe1238
   iso_639_3:
   - twx
   lang_name: mathewe
   note: Tewe
+  wals_codes: null
 - country: MZ
   glottocode: tewe1238
   iso_639_3:
   - twx
   lang_name: matowe
   note: Tewe
+  wals_codes: null
 - country: MZ
   glottocode: tswa1255
   iso_639_3:
   - tsc
   lang_name: matsua
   note: Tswa
+  wals_codes: null
 - country: MZ
   glottocode: tswa1255
   iso_639_3:
   - tsc
   lang_name: matswa
   note: Tswa
+  wals_codes: null
 - country: MZ
   glottocode: tswa1255
   iso_639_3:
   - tsc
   lang_name: matxsua
   note: Tswa
+  wals_codes: null
 - country: MZ
   glottocode: main1272
   iso_639_3:
   - cwb
   lang_name: medindo
   note: Maindo
+  wals_codes: null
 - country: MZ
   glottocode: rong1268
   iso_639_3:
   - rng
   lang_name: monga
   note: Ronga
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: moniaco
+  wals_codes: null
 - country: MZ
   glottocode: makh1265
   iso_639_3:
   - mhm
   lang_name: moniga
+  wals_codes: null
 - country: MZ
   glottocode: tswa1255
   iso_639_3:
   - tsc
   lang_name: mtsua
   note: Tswa
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: muali
+  wals_codes: null
 - country: MZ
   glottocode: mwan1247
   iso_639_3:
   - wmw
   lang_name: muandi
   note: Mwani
+  wals_codes: null
 - country: MZ
   glottocode: mwan1247
   iso_639_3:
   - wmw
   lang_name: muani
   note: Mwani
+  wals_codes: null
 - country: MZ
   glottocode: mwan1247
   iso_639_3:
   - wmw
   lang_name: muany
   note: Mwani
+  wals_codes: null
 - country: MZ
   glottocode: mwan1247
   iso_639_3:
   - wmw
   lang_name: muauni
   note: Mwani
+  wals_codes: null
 - country: MZ
   glottocode: makh1265
   iso_639_3:
   - mhm
   lang_name: munga
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: muni
+  wals_codes: null
 - country: MZ
   glottocode: makh1265
   iso_639_3:
   - mhm
   lang_name: muniga
+  wals_codes: null
 - country: MZ
   glottocode: makh1265
   iso_639_3:
   - mhm
   lang_name: muninga
+  wals_codes: null
 - country: MZ
   glottocode: makh1265
   iso_639_3:
   - mhm
   lang_name: munoga
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: myungue
+  wals_codes: null
 - country: MZ
   glottocode: main1272
   iso_639_3:
   - cwb
   lang_name: naindo
   note: Maindo
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: namica
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: naoniga
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ngony
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: ngungue
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nharinga
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nhugue
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nhumgue
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nhungoe
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nhungue
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nhunguem
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nhungwe
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nhunhue
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nhunque
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: njumgue
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: njungue
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: njungur
+  wals_codes: null
 - country: MZ
   glottocode: nsen1242
   iso_639_3:
   - nse
   lang_name: nsenga
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nunga
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nuto
+  wals_codes: null
 - country: MZ
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: nyanja
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nyhungue
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nyongue
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nyuenge
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nyugue
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nyunge
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nyungue
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nyungunhe
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nyungwe
+  wals_codes: null
 - country: MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   lang_name: nyyngue
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - und
   lang_name: outra lingua
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - und
   lang_name: outras linguas
+  wals_codes: null
 - country: MZ
   glottocode: port1283
   iso_639_3:
   - por
   lang_name: poetugues e xitsua
+  wals_codes: null
 - country: MZ
   glottocode: port1283
   iso_639_3:
   - por
   lang_name: portugues e outras linguas
+  wals_codes: null
 - country: MZ
   glottocode: port1283
   iso_639_3:
   - por
   lang_name: portugues e sena
+  wals_codes: null
 - country: MZ
   glottocode: rong1268
   iso_639_3:
   - rng
   lang_name: ronga
+  wals_codes: null
 - country: MZ
   glottocode: nucl1396
   iso_639_3:
   - seh
   lang_name: sena
+  wals_codes: null
 - country: MZ
   glottocode: nucl1396
   iso_639_3:
   - seh
   lang_name: sena e portugues
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: shona
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: shona, cheua
+  wals_codes: null
 - country: MZ
   glottocode: takw1238
   iso_639_3:
   - tke
   lang_name: tacuane
+  wals_codes: null
 - country: MZ
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: tchitchewa
   note: Chichewa dialect of Nyanja
+  wals_codes: null
 - country: MZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tchthewa
+  wals_codes: null
 - country: MZ
   glottocode: tewe1238
   iso_639_3:
   - twx
   lang_name: tewe
+  wals_codes: null
 - country: MZ
   glottocode: tson1249
   iso_639_3:
   - tso
   lang_name: tonga
+  wals_codes: null
 - country: MZ
   glottocode: tewe1238
   iso_639_3:
   - twx
   lang_name: xiteu
   note: Tewe
+  wals_codes: null
 - country: MZ
   glottocode: tswa1255
   iso_639_3:
   - tsc
   lang_name: xitsua
+  wals_codes: null
 - country: MZ
   glottocode: tswa1255
   iso_639_3:
   - tsc
   lang_name: xitswa
+  wals_codes: null
 - country: MZ
   glottocode: yaoo1241
   iso_639_3:
   - yao
   lang_name: yao
+  wals_codes: null
 - country: NA
   glottocode: kxoe1243
   iso_639_3:
   - xuu
   lang_name: barakwena
+  wals_codes: null
 - country: NA
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kavango
+  wals_codes: null
 - country: NA
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mafwe
+  wals_codes: null
 - country: NA
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mhalangwe
+  wals_codes: null
 - country: NA
   glottocode: fwee1238
   iso_639_3:
   - fwe
   lang_name: mufwe
   note: Fwe
+  wals_codes: null
 - country: NA
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nyemba
+  wals_codes: null
 - country: NA
   glottocode: umbu1257
   iso_639_3:
   - umb
   lang_name: rumbundu
   note: Umbundu
+  wals_codes: null
 - country: NA
   glottocode: juho1239
   iso_639_3:
   - ktz
   lang_name: san
-  wals_code:
+  wals_codes:
   - juh
 - country: NA
   glottocode: null
   iso_639_3:
   - mis
   lang_name: shona
+  wals_codes: null
 - country: NA
   glottocode: fwee1238
   iso_639_3:
   - fwe
   lang_name: sifwe
   note: Fwe
+  wals_codes: null
 - country: NA
   glottocode: null
   iso_639_3:
   - mis
   lang_name: totela
+  wals_codes: null
 - country: NA
   glottocode: umbu1257
   iso_639_3:
   - umb
   lang_name: uumbundu
   note: Umbundu
+  wals_codes: null
 - country: NA
   glottocode: zemb1238
   iso_639_3:
   - dhm
   lang_name: zembas
   note: Zemba
+  wals_codes: null
 - country: NE
   glottocode: haus1257
   iso_639_3:
   - hau
   lang_name: haoussa
+  wals_codes: null
 - country: NE
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mossicthe
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: abi
+  wals_codes: null
 - country: NG
   glottocode: abua1244
   iso_639_3:
   - abn
   lang_name: abua
+  wals_codes: null
 - country: NG
   glottocode: kada1284
   iso_639_3:
   - kad
   lang_name: adara
+  wals_codes: null
 - country: NG
   glottocode: cros1244
   iso_639_3:
   - mfn
   lang_name: adun
+  wals_codes: null
 - country: NG
   glottocode: nucl1417
   iso_639_3:
   - ibo
   lang_name: afikpo
+  wals_codes: null
 - country: NG
   glottocode: izer1241
   iso_639_3:
   - izr
   lang_name: afizere
+  wals_codes: null
 - country: NG
   glottocode: ikaa1238
   iso_639_3:
   - ikk
   lang_name: agbor
   note: Agbor is a dialect of Ika
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ahoada
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ahuda
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: aka
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: akumazi
+  wals_codes: null
 - country: NG
   glottocode: gwan1268
   iso_639_3:
   - gwn
   lang_name: akwandara
   note: Gwandara
+  wals_codes: null
 - country: NG
   glottocode: alag1242
   iso_639_3:
   - ala
   lang_name: alago
+  wals_codes: null
 - country: NG
   glottocode: amoo1242
   iso_639_3:
   - amo
   lang_name: amoh
+  wals_codes: null
 - country: NG
   glottocode: anaa1238
   iso_639_3:
   - anw
   lang_name: anang
+  wals_codes: null
 - country: NG
   glottocode: obol1243
   iso_639_3:
   - ann
   lang_name: andoni
+  wals_codes: null
 - country: NG
   glottocode: ngas1240
   iso_639_3:
   - anc
   lang_name: angas
+  wals_codes: null
 - country: NG
   glottocode: goem1240
   iso_639_3:
   - ank
   lang_name: ankwai
+  wals_codes: null
 - country: NG
   glottocode: goem1240
   iso_639_3:
   - ank
   lang_name: ankwe
+  wals_codes: null
 - country: NG
   glottocode: alag1242
   iso_639_3:
   - ala
   lang_name: arago
+  wals_codes: null
 - country: NG
   glottocode: tyap1238
   iso_639_3:
   - kcg
   lang_name: attakar
+  wals_codes: null
 - country: NG
   glottocode: yekh1238
   iso_639_3:
   - ets
   - ets
   lang_name: auchi
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: aukwe
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: awa
+  wals_codes: null
 - country: NG
   glottocode: awak1250
   iso_639_3:
   - awo
   lang_name: awak
+  wals_codes: null
 - country: NG
   glottocode: yoru1245
   iso_639_3:
   - yor
   lang_name: awori
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: azoqo
+  wals_codes: null
 - country: NG
   glottocode: bura1292
   iso_639_3:
   - bwr
   lang_name: babur
+  wals_codes: null
 - country: NG
   glottocode: baca1246
   iso_639_3:
   - bcy
   lang_name: bachama
+  wals_codes: null
 - country: NG
   glottocode: bade1248
   iso_639_3:
   - bde
   lang_name: bada
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: badukke
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bagwom
+  wals_codes: null
 - country: NG
   glottocode: jjuu1238
   iso_639_3:
   - kaj
   lang_name: bajju
-  wals_code:
+  wals_codes:
   - gwo
 - country: NG
   glottocode: jjuu1238
   iso_639_3:
   - kaj
   lang_name: baju
-  wals_code:
+  wals_codes:
   - gwo
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bakamuka
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: balawa
+  wals_codes: null
 - country: NG
   glottocode: shoo1247
   iso_639_3:
   - bcv
   lang_name: banbawa
+  wals_codes: null
 - country: NG
   glottocode: shoo1247
   iso_639_3:
   - bcv
   - bcv
   lang_name: bandawa
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: baruba
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: basange
+  wals_codes: null
 - country: NG
   glottocode: basa1282
   iso_639_3:
   - bzw
   lang_name: bassa
   note: Nigerian Basa
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bawaje
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bawara
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bazanfara
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bekwaira
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: betem
+  wals_codes: null
 - country: NG
   glottocode: bete1262
   iso_639_3:
   - btt
   lang_name: bette
+  wals_codes: null
 - country: NG
   glottocode: bile1244
   iso_639_3:
   - bil
   lang_name: bille
+  wals_codes: null
 - country: NG
   glottocode: bero1242
   iso_639_3:
   - bom
   lang_name: birom
+  wals_codes: null
 - country: NG
   glottocode: busa1253
   iso_639_3:
   - bqp
   lang_name: bisa
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bogobara
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: boiyana
+  wals_codes: null
 - country: NG
   glottocode: nucl1695
   iso_639_3:
   - bol
   lang_name: bole
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: borom
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: brass
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bujja
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: buju
+  wals_codes: null
 - country: NG
   glottocode: bura1292
   iso_639_3:
   - bwr
   lang_name: bura
+  wals_codes: null
 - country: NG
   glottocode: bura1292
   iso_639_3:
   - bwr
   lang_name: burah
   note: Bura
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: bussa
+  wals_codes: null
 - country: NG
   glottocode: efik1245
   iso_639_3:
   - efi
   lang_name: calabar
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chamawa
+  wals_codes: null
 - country: NG
   glottocode: samb1311
   iso_639_3:
   - ccg
   lang_name: chamba
+  wals_codes: null
 - country: NG
   glottocode: atsa1241
   iso_639_3:
   - cch
   lang_name: chawai
+  wals_codes: null
 - country: NG
   glottocode: ciba1236
   iso_639_3:
   - ckl
   lang_name: chibok
+  wals_codes: null
 - country: NG
   glottocode: yala1263
   iso_639_3:
   - yba
   lang_name: cross river yala
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: dador
+  wals_codes: null
 - country: NG
   glottocode: clel1238
   iso_639_3:
   - dri
   lang_name: dakarkari
+  wals_codes: null
 - country: NG
   glottocode: dege1246
   iso_639_3:
   - deg
   lang_name: degema
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: delta
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: diemak
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: eapie
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ecthie
+  wals_codes: null
 - country: NG
   glottocode: izon1238
   iso_639_3:
   - ijc
   lang_name: egbema
+  wals_codes: null
 - country: NG
   glottocode: izon1238
   iso_639_3:
   - ijc
   lang_name: egbma
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: egbueuakaa
+  wals_codes: null
 - country: NG
   glottocode: iged1239
   iso_639_3:
   - ige
   lang_name: egede
+  wals_codes: null
 - country: NG
   glottocode: eggo1239
   iso_639_3:
   - ego
   lang_name: eggon
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: egi
+  wals_codes: null
 - country: NG
   glottocode: ejag1239
   iso_639_3:
   - etu
   lang_name: ejagam
   note: Ejagham
+  wals_codes: null
 - country: NG
   glottocode: ekpe1253
   iso_639_3:
   - ekp
   lang_name: ekpeye
+  wals_codes: null
 - country: NG
   glottocode: elem1253
   iso_639_3:
   - elm
   lang_name: eleme
+  wals_codes: null
 - country: NG
   glottocode: ekpe1253
   iso_639_3:
   - ekp
   lang_name: epeye
+  wals_codes: null
 - country: NG
   glottocode: epie1238
   iso_639_3:
   - epi
   lang_name: epia
   note: Epie
+  wals_codes: null
 - country: NG
   glottocode: yekh1238
   iso_639_3:
   - ets
   lang_name: etsako
+  wals_codes: null
 - country: NG
   glottocode: nucl1417
   iso_639_3:
   - ibo
   lang_name: ezi delta igbo
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: fakama
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: fakawa
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: fakun
+  wals_codes: null
 - country: NG
   glottocode: fali1285
   iso_639_3:
   - fli
   lang_name: fali
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: faliya
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: femawa
+  wals_codes: null
 - country: NG
   glottocode: gbag1258
   iso_639_3:
   - gbr
   lang_name: gbagi
   note: Gbagyi
+  wals_codes: null
 - country: NG
   glottocode: gbag1258
   iso_639_3:
   - gbr
   lang_name: gbagyi
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gbile
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: geum
+  wals_codes: null
 - country: NG
   glottocode: glav1244
   iso_639_3:
   - glw
   lang_name: glanda
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gomai
+  wals_codes: null
 - country: NG
   glottocode: mooo1239
   iso_639_3:
   - gwg
   lang_name: gomu
+  wals_codes: null
 - country: NG
   glottocode: gwan1268
   iso_639_3:
   - gwn
   lang_name: gwandara
+  wals_codes: null
 - country: NG
   glottocode: gbag1258
   iso_639_3:
   - gbr
   lang_name: gwari
+  wals_codes: null
 - country: NG
   glottocode: kago1247
   iso_639_3:
   - kdm
   lang_name: gwong
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gwoza
+  wals_codes: null
 - country: NG
   glottocode: kamw1239
   iso_639_3:
   - hig
   lang_name: higgi
+  wals_codes: null
 - country: NG
   glottocode: igal1242
   iso_639_3:
   - igl
   lang_name: ibaji
+  wals_codes: null
 - country: NG
   glottocode: iban1261
   iso_639_3:
   - iby
   lang_name: ibani
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ibie
+  wals_codes: null
 - country: NG
   glottocode: etky1238
   iso_639_3:
   - ich
   lang_name: ichen
+  wals_codes: null
 - country: NG
   glottocode: igal1242
   iso_639_3:
   - igl
   lang_name: igara
+  wals_codes: null
 - country: NG
   glottocode: iged1239
   iso_639_3:
   - ige
   lang_name: igede
+  wals_codes: null
 - country: NG
   glottocode: sout2774
   iso_639_3:
   - ijs
   lang_name: ijaw
+  wals_codes: null
 - country: NG
   glottocode: ikaa1238
   iso_639_3:
   - ikk
   lang_name: ika
+  wals_codes: null
 - country: NG
   glottocode: olul1245
   iso_639_3:
   - iko
   lang_name: ikom
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ikpena
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ipia
+  wals_codes: null
 - country: NG
   glottocode: irig1241
   iso_639_3:
   - iri
   lang_name: irigwe
   note: Provide a close WALS match to avoid multi-genus error.
-  wals_code:
+  wals_codes:
   - gwo
 - country: NG
   glottocode: isok1239
   iso_639_3:
   - iso
   lang_name: isoko
+  wals_codes: null
 - country: NG
   glottocode: yala1263
   iso_639_3:
   - yba
   lang_name: iyala
+  wals_codes: null
 - country: NG
   glottocode: izer1241
   iso_639_3:
   - izr
   lang_name: izere
+  wals_codes: null
 - country: NG
   glottocode: idun1241
   iso_639_3:
   - ldb
   lang_name: jaba
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: jaja
+  wals_codes: null
 - country: NG
   glottocode: jara1263
   iso_639_3:
   - jjr
   - jgk
   lang_name: jarawa
-  wals_code:
+  wals_codes:
   - jar
 - country: NG
   glottocode: dzaa1238
   iso_639_3:
   - jen
   lang_name: jenjo
+  wals_codes: null
 - country: NG
   glottocode: wapa1235
   iso_639_3:
   - juk
   lang_name: jukum
+  wals_codes: null
 - country: NG
   glottocode: juku1254
   iso_639_3:
   - jbu
   lang_name: jukun
+  wals_codes: null
 - country: NG
   glottocode: juku1254
   iso_639_3:
   - jbu
   lang_name: jukun donga
+  wals_codes: null
 - country: NG
   glottocode: wann1241
   iso_639_3:
   - jub
   lang_name: jukun wanu
+  wals_codes: null
 - country: NG
   glottocode: mbon1253
   iso_639_3:
   - bgu
   lang_name: kabba
+  wals_codes: null
 - country: NG
   glottocode: mbon1253
   iso_639_3:
   - bgu
   lang_name: kabba/bunu
   note: Mbongno has names Bunu and Kakaba
+  wals_codes: null
 - country: NG
   glottocode: kada1284
   iso_639_3:
   - kad
   lang_name: kadara
   note: Provide WALS codes to include Platoid and exclude Bantoid genus
-  wals_code:
+  wals_codes:
   - bir
   - fye
   - gwo
@@ -4639,195 +5513,233 @@
   - mis
   lang_name: kagara
   note: Kagara is a location.
+  wals_codes: null
 - country: NG
   glottocode: kago1247
   iso_639_3:
   - kdm
   lang_name: kagoma
+  wals_codes: null
 - country: NG
   glottocode: tyap1238
   iso_639_3:
   - kcg
   lang_name: kagoro
+  wals_codes: null
 - country: NG
   glottocode: tyap1238
   iso_639_3:
   - kcg
   lang_name: kagoru
   note: Kagoro
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kaika
+  wals_codes: null
 - country: NG
   glottocode: yamb1251
   iso_639_3:
   - yam
   lang_name: kaka
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kakabari
+  wals_codes: null
 - country: NG
   glottocode: kala1381
   iso_639_3:
   - ijn
   lang_name: kalabari
+  wals_codes: null
 - country: NG
   glottocode: tsis1238
   iso_639_3:
   - tsw
   lang_name: kambari
+  wals_codes: null
 - country: NG
   glottocode: limb1268
   iso_639_3:
   - lmp
   lang_name: kambu
+  wals_codes: null
 - country: NG
   glottocode: kare1348
   iso_639_3:
   - kai
   lang_name: karekare
+  wals_codes: null
 - country: NG
   glottocode: kare1348
   iso_639_3:
   - kai
   lang_name: kari-kari
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: karmo
+  wals_codes: null
 - country: NG
   glottocode: tyap1238
   iso_639_3:
   - kcg
   lang_name: kataf
+  wals_codes: null
 - country: NG
   glottocode: tyap1238
   iso_639_3:
   - kcg
   lang_name: kataf(atyap)
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: katongu
+  wals_codes: null
 - country: NG
   glottocode: khan1278
   iso_639_3:
   - ogo
   lang_name: khana
+  wals_codes: null
 - country: NG
   glottocode: bura1292
   iso_639_3:
   - bwr
   lang_name: kilba babar
   note: Bura-Pabir has alt-name Babur
+  wals_codes: null
 - country: NG
   glottocode: jiba1237
   iso_639_3:
   - juo
   lang_name: kona
+  wals_codes: null
 - country: NG
   glottocode: tanj1247
   iso_639_3:
   - uji
   lang_name: koro
+  wals_codes: null
 - country: NG
   glottocode: kura1249
   iso_639_3:
   - krh
   lang_name: kurama
+  wals_codes: null
 - country: NG
   glottocode: kute1248
   iso_639_3:
   - kub
   lang_name: kuteb
+  wals_codes: null
 - country: NG
   glottocode: kofy1242
   iso_639_3:
   - kwl
   lang_name: kwalla
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: lanta
+  wals_codes: null
 - country: NG
   glottocode: laru1238
   iso_639_3:
   - lan
   lang_name: laru
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: lawabe
+  wals_codes: null
 - country: NG
   glottocode: lemo1242
   iso_639_3:
   - ldj
   lang_name: lemoro
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: lumama
+  wals_codes: null
 - country: NG
   glottocode: long1389
   iso_639_3:
   - lnu
   lang_name: lunguda
   note: Longuda
+  wals_codes: null
 - country: NG
   glottocode: mada1282
   iso_639_3:
   - mda
   lang_name: mada
+  wals_codes: null
 - country: NG
   glottocode: maak1236
   iso_639_3:
   - mew
   lang_name: maghai
+  wals_codes: null
 - country: NG
   glottocode: mvan1238
   iso_639_3:
   - mcj
   lang_name: magu
+  wals_codes: null
 - country: NG
   glottocode: nige1255
   iso_639_3:
   - mzk
   lang_name: mambilla
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mamunye
+  wals_codes: null
 - country: NG
   glottocode: mang1399
   iso_639_3:
   - kby
   lang_name: manga
+  wals_codes: null
 - country: NG
   glottocode: marg1265
   iso_639_3:
   - mrt
   lang_name: marghi
+  wals_codes: null
 - country: NG
   glottocode: marg1265
   iso_639_3:
   - mrt
   lang_name: margi
+  wals_codes: null
 - country: NG
   glottocode: cros1244
   iso_639_3:
   - mfn
   lang_name: mbembe
   note: Mbembe (mfn) distinct from Cameroonian Tigon Mbembe (nza)
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
@@ -4835,1653 +5747,1969 @@
   lang_name: mbube
   note: Two langs named Mbube, Mbe (bfo) and Utugwang-Irungene-Afrike (afe), but one
     is Bantoid and the other is Cross-River
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: michica
   note: Michika is an LGA
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: michika
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: michinka
+  wals_codes: null
 - country: NG
   glottocode: liji1238
   iso_639_3:
   - mgi
   lang_name: migili
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: minchika
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: minyam
+  wals_codes: null
 - country: NG
   glottocode: miya1266
   iso_639_3:
   - mkf
   lang_name: miyawa
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mumugar
+  wals_codes: null
 - country: NG
   glottocode: nucl1240
   iso_639_3:
   - mzm
   lang_name: mumuye
+  wals_codes: null
 - country: NG
   glottocode: mwag1236
   iso_639_3:
   - sur
   lang_name: mupun
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: muryang
+  wals_codes: null
 - country: NG
   glottocode: mwag1236
   iso_639_3:
   - sur
   lang_name: mwaghavul
+  wals_codes: null
 - country: NG
   glottocode: mwag1236
   iso_639_3:
   - sur
   lang_name: mwaghawul
+  wals_codes: null
 - country: NG
   glottocode: mwag1236
   iso_639_3:
   - sur
   lang_name: mwangavul
+  wals_codes: null
 - country: NG
   glottocode: ndoo1241
   iso_639_3:
   - ndr
   lang_name: nbula
+  wals_codes: null
 - country: NG
   glottocode: ndoo1241
   iso_639_3:
   - ndr
   lang_name: ndala
+  wals_codes: null
 - country: NG
   glottocode: ndoo1241
   iso_639_3:
   - ndr
   lang_name: ndola
+  wals_codes: null
 - country: NG
   glottocode: ndoo1241
   iso_639_3:
   - ndr
   lang_name: ndoro
+  wals_codes: null
 - country: NG
   glottocode: koma1266
   iso_639_3:
   - kmy
   lang_name: nedere
   note: Ndera dialect
+  wals_codes: null
 - country: NG
   glottocode: ngas1240
   iso_639_3:
   - anc
   lang_name: ngas
+  wals_codes: null
 - country: NG
   glottocode: liji1238
   iso_639_3:
   - mgi
   lang_name: nigili
   note: Lijili
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ningawa
+  wals_codes: null
 - country: NG
   glottocode: ninz1246
   iso_639_3:
   - nin
   lang_name: ninzom
   note: Ninzo
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: north ivie
+  wals_codes: null
 - country: NG
   glottocode: numa1252
   iso_639_3:
   - nbr
   lang_name: numana
+  wals_codes: null
 - country: NG
   glottocode: mwag1236
   iso_639_3:
   - sur
   lang_name: nwangavul
+  wals_codes: null
 - country: NG
   glottocode: yend1241
   iso_639_3:
   - ynq
   lang_name: nyandang
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: obodu
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: obubra
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ogae
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ogaja
+  wals_codes: null
 - country: NG
   glottocode: ogba1241
   iso_639_3:
   - ogc
   lang_name: ogba
+  wals_codes: null
 - country: NG
   glottocode: ogbi1239
   iso_639_3:
   - ogb
   lang_name: ogbia
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ogoja
+  wals_codes: null
 - country: NG
   glottocode: nucl1417
   iso_639_3:
   - ibo
   lang_name: ohafia
+  wals_codes: null
 - country: NG
   glottocode: kiri1254
   iso_639_3:
   - okr
   lang_name: okirika
   note: Kirike
+  wals_codes: null
 - country: NG
   glottocode: okpe1249
   iso_639_3:
   - okx
   lang_name: okpe
+  wals_codes: null
 - country: NG
   glottocode: ivbi1241
   iso_639_3:
   - atg
   lang_name: okpella
+  wals_codes: null
 - country: NG
   glottocode: kiri1254
   iso_639_3:
   - okr
   lang_name: okrika
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: olukumi
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: once
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: opobo
+  wals_codes: null
 - country: NG
   glottocode: oroo1241
   iso_639_3:
   - orx
   lang_name: oron
+  wals_codes: null
 - country: NG
   glottocode: osos1238
   iso_639_3:
   - oso
   lang_name: ososo
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: owan
+  wals_codes: null
 - country: NG
   glottocode: lamn1239
   iso_639_3:
   - lns
   lang_name: panso
+  wals_codes: null
 - country: NG
   glottocode: nung1292
   iso_639_3:
   - rin
   lang_name: rendere
   note: Rendre/Rindiri/Rindre are alt names for Nungu
+  wals_codes: null
 - country: NG
   glottocode: ronn1241
   iso_639_3:
   - cla
   lang_name: ron
+  wals_codes: null
 - country: NG
   glottocode: saya1246
   iso_639_3:
   - say
   lang_name: sayawa
+  wals_codes: null
 - country: NG
   glottocode: chad1249
   iso_639_3:
   - shu
   lang_name: shuwa
-  wals_code:
+  wals_codes:
   - abb
 - country: NG
   glottocode: chad1249
   iso_639_3:
   - shu
   lang_name: shuwa arab
-  wals_code:
+  wals_codes:
   - abb
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: siyawa
+  wals_codes: null
 - country: NG
   glottocode: nucl1696
   iso_639_3:
   - tan
   lang_name: tangale
+  wals_codes: null
 - country: NG
   glottocode: nucl1696
   iso_639_3:
   - tan
   lang_name: tangali
+  wals_codes: null
 - country: NG
   glottocode: tera1251
   iso_639_3:
   - ttr
   lang_name: tarah
   note: Tera
+  wals_codes: null
 - country: NG
   glottocode: taro1263
   iso_639_3:
   - yer
   lang_name: tarok
+  wals_codes: null
 - country: NG
   glottocode: tera1251
   iso_639_3:
   - ttr
   lang_name: tera
+  wals_codes: null
 - country: NG
   glottocode: tigo1236
   iso_639_3:
   - nza
   lang_name: tigum
   note: Tigon
+  wals_codes: null
 - country: NG
   glottocode: tigo1236
   iso_639_3:
   - nza
   lang_name: tigun
   note: Tigon
+  wals_codes: null
 - country: NG
   glottocode: tivv1240
   iso_639_3:
   - tiv
   lang_name: tiv
+  wals_codes: null
 - country: NG
   glottocode: tigo1236
   iso_639_3:
   - nza
   lang_name: tukun
+  wals_codes: null
 - country: NG
   glottocode: tula1252
   iso_639_3:
   - tul
   lang_name: tula
+  wals_codes: null
 - country: NG
   glottocode: loka1252
   iso_639_3:
   - yaz
   lang_name: ugep
+  wals_codes: null
 - country: NG
   glottocode: ukwu1241
   iso_639_3:
   - ukw
   lang_name: ukwale
   note: Ukwali
+  wals_codes: null
 - country: NG
   glottocode: ukwu1241
   iso_639_3:
   - ukw
   lang_name: ukwani
+  wals_codes: null
 - country: NG
   glottocode: umon1238
   iso_639_3:
   - umm
   lang_name: umone
   note: Umon
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: uwa
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: uzeba
+  wals_codes: null
 - country: NG
   glottocode: waja1259
   iso_639_3:
   - wja
   lang_name: waja
+  wals_codes: null
 - country: NG
   glottocode: piya1245
   iso_639_3:
   - piy
   lang_name: wurkum
+  wals_codes: null
 - country: NG
   glottocode: piya1245
   iso_639_3:
   - piy
   lang_name: wurkun
   note: Wurkum
+  wals_codes: null
 - country: NG
   glottocode: loka1252
   iso_639_3:
   - yaz
   lang_name: yakhor
   note: Yakurr dialect of Lokaa
+  wals_codes: null
 - country: NG
   glottocode: loka1252
   iso_639_3:
   - yaz
   lang_name: yakur
   note: Yakurr dialect of Lokaa
+  wals_codes: null
 - country: NG
   glottocode: loka1252
   iso_639_3:
   - yaz
   lang_name: yakuri
   note: Yakurr dialect of Lokaa
+  wals_codes: null
 - country: NG
   glottocode: yala1263
   iso_639_3:
   - yba
   lang_name: yala
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: youm
+  wals_codes: null
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: zamji
+  wals_codes: null
 - country: NG
   glottocode: clel1238
   iso_639_3:
   - dri
   lang_name: zuro
   note: Zuru
+  wals_codes: null
 - country: NG
   glottocode: clel1238
   iso_639_3:
   - dri
   lang_name: zuru
+  wals_codes: null
 - country: SD
   glottocode: null
   iso_639_3:
   - mis
   lang_name: brown amer language
+  wals_codes: null
 - country: SD
   glottocode: null
   iso_639_3:
   - mis
   lang_name: language almapat
+  wals_codes: null
 - country: SD
   glottocode: adam1253
   iso_639_3:
   - fub
   lang_name: language fellata
+  wals_codes: null
 - country: SD
   glottocode: null
   iso_639_3:
   - mis
   lang_name: language inqasna
+  wals_codes: null
 - country: SL
   glottocode: pula1262
   iso_639_3:
   - fuf
   lang_name: fullah
+  wals_codes: null
 - country: SL
   glottocode: kiss1245
   iso_639_3:
   - kss
   - kqs
   lang_name: kissi
+  wals_codes: null
 - country: SL
   glottocode: limb1267
   iso_639_3:
   - lma
   - lia
   lang_name: limba
+  note: Glottolog puts Limba as its [own branch](http://glottolog.org/resource/languoid/id/limb1267)
+    of the Atlantic Congo languages. Since Glottolog groups it in a [Southern](https://www.ethnologue.com/subgroups/southern-13)
+    with Mel, I use the Mel genus for WALS.
+  wals_codes:
+  - bgs
+  - gol
+  - kis
+  - kss
+  - tne
 - country: SL
   glottocode: sher1258
   iso_639_3:
   - bun
   lang_name: sherbro
+  wals_codes: null
 - country: SN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: badiaranke
+  wals_codes: null
 - country: SN
   glottocode: bala1302
   iso_639_3:
   - bjt
   lang_name: balante
+  wals_codes: null
 - country: SN
   glottocode: bayo1255
   iso_639_3:
   - bda
   lang_name: bayotte
+  wals_codes: null
 - country: SN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: beudick
+  wals_codes: null
 - country: SN
   glottocode: uppe1455
   iso_639_3:
   - pov
   lang_name: creol
   note: Crioulo, Upper Guinea
-  wals_code:
+  wals_codes:
   - gbc
 - country: SN
   glottocode: west2500
   iso_639_3:
   - mlq
   lang_name: diahanke
+  wals_codes: null
 - country: SN
   glottocode: west2500
   iso_639_3:
   - mlq
   lang_name: diakhanke
+  wals_codes: null
 - country: SN
   glottocode: stan1290
   iso_639_3:
   - fra
   lang_name: francais
+  wals_codes: null
 - country: SN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: koniadie
+  wals_codes: null
 - country: SN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mankagne
+  wals_codes: null
 - country: SN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: marocain
+  wals_codes: null
 - country: SN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: massonke
+  wals_codes: null
 - country: SN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: maure
+  wals_codes: null
 - country: SN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: pepele
+  wals_codes: null
 - country: SN
   glottocode: port1283
   iso_639_3:
   - por
   lang_name: portugais
+  wals_codes: null
 - country: SN
   glottocode: sere1260
   iso_639_3:
   - srr
   lang_name: serere
   note: Serer-Sine
-  wals_code: null
+  wals_codes: null
 - country: SN
   glottocode: susu1250
   iso_639_3:
   - sus
   lang_name: soussou
+  wals_codes: null
 - country: SN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tanda
+  wals_codes: null
 - country: SN
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tourka
+  wals_codes: null
 - country: ST
   glottocode: ango1258
   iso_639_3:
   - aoa
   lang_name: angolan
-  wals_code:
+  wals_codes:
   - ago
 - country: ST
   glottocode: ango1258
   iso_639_3:
   - aoa
   lang_name: angulares
-  wals_code:
+  wals_codes:
   - ago
 - country: ST
   glottocode: kabu1256
   iso_639_3:
   - kea
   lang_name: caboverdiano
-  wals_code:
+  wals_codes:
   - gbc
 - country: ST
   glottocode: saot1239
   iso_639_3:
   - cri
   lang_name: foro
-  wals_code:
+  wals_codes:
   - pri
 - country: ST
   glottocode: saot1239
   iso_639_3:
   - cri
   lang_name: forro
-  wals_code:
+  wals_codes:
   - pri
 - country: SZ
   glottocode: null
   iso_639_3:
   - und
   lang_name: indian
+  wals_codes: null
 - country: SZ
   glottocode: zulu1248
   iso_639_3:
   - zul
   lang_name: isizulu
+  wals_codes: null
 - country: SZ
   glottocode: sout2808
   iso_639_3:
   - nbl
   lang_name: ndebele
+  wals_codes: null
 - country: SZ
   glottocode: port1283
   iso_639_3:
   - por
   lang_name: portuguese
+  wals_codes: null
 - country: SZ
   glottocode: zulu1248
   iso_639_3:
   - zul
   lang_name: sizulu
+  wals_codes: null
 - country: SZ
   glottocode: swah1253
   iso_639_3:
   - swh
   lang_name: swahili
+  wals_codes: null
 - country: SZ
   glottocode: tson1249
   iso_639_3:
   - tso
   lang_name: tsonga
+  wals_codes: null
 - country: SZ
   glottocode: zulu1248
   iso_639_3:
   - zul
   lang_name: zulu
+  wals_codes: null
 - country: TG
   glottocode: adel1244
   iso_639_3:
   - ade
   lang_name: adele
+  wals_codes: null
 - country: TG
   glottocode: ajab1235
   iso_639_3:
   - ajg
   lang_name: adja
+  wals_codes: null
 - country: TG
   glottocode: akeb1238
   iso_639_3:
   - keu
   lang_name: akebou
+  wals_codes: null
 - country: TG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: aklobo
+  wals_codes: null
 - country: TG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: anago
+  wals_codes: null
 - country: TG
   glottocode: giny1241
   iso_639_3:
   - ayg
   lang_name: anyanga
+  wals_codes: null
 - country: TG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ashanti
+  wals_codes: null
 - country: TG
   glottocode: bago1245
   iso_639_3:
   - bqg
   lang_name: bago
+  wals_codes: null
 - country: TG
   glottocode: ntch1242
   iso_639_3:
   - bud
   lang_name: bassar
+  wals_codes: null
 - country: TG
   glottocode: ewee1241
   iso_639_3:
   - ewe
   lang_name: ewe
-  wals_code:
+  wals_codes:
   - ewe
 - country: TG
   glottocode: fonn1241
   iso_639_3:
   - fon
   lang_name: fon
+  wals_codes: null
 - country: TG
   glottocode: stan1290
   iso_639_3:
   - fra
   lang_name: francais
+  wals_codes: null
 - country: TG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: gangan
+  wals_codes: null
 - country: TG
   glottocode: gour1243
   iso_639_3:
   - gux
   lang_name: gourma
+  wals_codes: null
 - country: TG
   glottocode: haus1257
   iso_639_3:
   - hau
   lang_name: haoussa
+  wals_codes: null
 - country: TG
   glottocode: kabi1261
   iso_639_3:
   - kbp
   lang_name: kabye
+  wals_codes: null
 - country: TG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kamboli
+  wals_codes: null
 - country: TG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: komkomba
+  wals_codes: null
 - country: TG
   glottocode: konk1269
   iso_639_3:
   - xon
   lang_name: konkomba
+  wals_codes: null
 - country: TG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kouloumi
+  wals_codes: null
 - country: TG
   glottocode: bago1245
   iso_639_3:
   - bqg
   lang_name: koussountou
+  wals_codes: null
 - country: TG
   glottocode: kpes1238
   iso_639_3:
   - kef
   lang_name: kpessi
+  wals_codes: null
 - country: TG
   glottocode: lukp1238
   iso_639_3:
   - dop
   lang_name: logba
+  wals_codes: null
 - country: TG
   glottocode: genn1243
   iso_639_3:
   - gej
   lang_name: mina
+  wals_codes: null
 - country: TG
   glottocode: moss1236
   iso_639_3:
   - mos
   lang_name: mossi
+  wals_codes: null
 - country: TG
   glottocode: ngan1299
   iso_639_3:
   - gng
   lang_name: ngam-gam
+  wals_codes: null
 - country: TG
   glottocode: borg1235
   iso_639_3:
   - fue
   lang_name: peul
+  wals_codes: null
 - country: TG
   glottocode: borg1235
   iso_639_3:
   - fue
   lang_name: peulh
+  wals_codes: null
 - country: TG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: sirka
+  wals_codes: null
 - country: TG
   glottocode: miyo1238
   iso_639_3:
   - soy
   lang_name: sola
+  wals_codes: null
 - country: TG
   glottocode: dita1238
   iso_639_3:
   - tbz
   lang_name: tamberma
+  wals_codes: null
 - country: TG
   glottocode: akas1242
   iso_639_3:
   - aks
   lang_name: tchamba
+  wals_codes: null
 - country: TG
   glottocode: anuf1239
   iso_639_3:
   - cko
   lang_name: tchokossi
+  wals_codes: null
 - country: TG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: temberma
+  wals_codes: null
 - country: TG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: watchi
+  wals_codes: null
 - country: TG
   glottocode: moss1236
   iso_639_3:
   - mos
   lang_name: yanga
+  wals_codes: null
 - country: TG
   glottocode: yoru1245
   iso_639_3:
   - yor
   lang_name: yorouba
+  wals_codes: null
 - country: TN
   glottocode: stan1290
   iso_639_3:
   - fra
   lang_name: french
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kakaguru
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kial-yorobi
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kiarusha
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kiasi
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kibarbaik
+  wals_codes: null
 - country: TZ
   glottocode: bemb1255
   iso_639_3:
   - bmb
   lang_name: kibembe
+  wals_codes: null
 - country: TZ
   glottocode: bena1262
   iso_639_3:
   - bez
   lang_name: kibena
+  wals_codes: null
 - country: TZ
   glottocode: bend1258
   iso_639_3:
   - bdp
   lang_name: kibende
+  wals_codes: null
 - country: TZ
   glottocode: bond1247
   iso_639_3:
   - bou
   lang_name: kibondei
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kiborana
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kibunga
+  wals_codes: null
 - country: TZ
   glottocode: bung1265
   iso_639_3:
   - wun
   lang_name: kibungu
+  wals_codes: null
 - country: TZ
   glottocode: digo1243
   iso_639_3:
   - dig
   lang_name: kidigo
+  wals_codes: null
 - country: TZ
   glottocode: doee1238
   iso_639_3:
   - doe
   lang_name: kidoe
+  wals_codes: null
 - country: TZ
   glottocode: fipa1238
   iso_639_3:
   - fip
   lang_name: kifipa
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kigindo
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kigunya
+  wals_codes: null
 - country: TZ
   glottocode: gwen1239
   iso_639_3:
   - gwe
   lang_name: kigweno
+  wals_codes: null
 - country: TZ
   glottocode: haaa1252
   iso_639_3:
   - haq
   lang_name: kiha
+  wals_codes: null
 - country: TZ
   glottocode: hang1260
   iso_639_3:
   - han
   lang_name: kihangaza
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kihindi
+  wals_codes: null
 - country: TZ
   glottocode: ikiz1238
   iso_639_3:
   - ikz
   lang_name: kiikizu
+  wals_codes: null
 - country: TZ
   glottocode: iraq1241
   iso_639_3:
   - irk
   lang_name: kiiraq
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kiiraqi
+  wals_codes: null
 - country: TZ
   glottocode: iraq1241
   iso_639_3:
   - irk
   lang_name: kijahidiri
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kijaluo
+  wals_codes: null
 - country: TZ
   glottocode: jita1239
   iso_639_3:
   - jit
   lang_name: kijita
+  wals_codes: null
 - country: TZ
   glottocode: kabw1241
   iso_639_3:
   - cwa
   lang_name: kikabwa
+  wals_codes: null
 - country: TZ
   glottocode: kagu1239
   iso_639_3:
   - kki
   lang_name: kikagulu
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kikaguru
+  wals_codes: null
 - country: TZ
   glottocode: kahe1238
   iso_639_3:
   - hka
   lang_name: kikahe
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kikala
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kikamba
+  wals_codes: null
 - country: TZ
   glottocode: kara1481
   iso_639_3:
   - reg
   lang_name: kikara
+  wals_codes: null
 - country: TZ
   glottocode: kere1283
   iso_639_3:
   - ked
   lang_name: kikerewe
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kikiizu
+  wals_codes: null
 - country: TZ
   glottocode: kimb1242
   iso_639_3:
   - kiv
   lang_name: kikimbu
+  wals_codes: null
 - country: TZ
   glottocode: suba1252
   iso_639_3:
   - ssc
   lang_name: kikine
+  wals_codes: null
 - country: TZ
   glottocode: nucl1379
   iso_639_3:
   - zga
   lang_name: kikinga
+  wals_codes: null
 - country: TZ
   glottocode: kisi1243
   iso_639_3:
   - kiz
   lang_name: kikisi
+  wals_codes: null
 - country: TZ
   glottocode: kono1265
   iso_639_3:
   - kcz
   lang_name: kikonongo
+  wals_codes: null
 - country: TZ
   glottocode: kutu1263
   iso_639_3:
   - kdc
   lang_name: kikutu
+  wals_codes: null
 - country: TZ
   glottocode: kway1241
   iso_639_3:
   - kya
   lang_name: kikwaya
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kilambya
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kilindi
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kilongo
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kilungwa
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kiluri
+  wals_codes: null
 - country: TZ
   glottocode: makh1261
   iso_639_3:
   - mgh
   lang_name: kimakua
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimakunduchi
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimakuwa
+  wals_codes: null
 - country: TZ
   glottocode: mali1279
   iso_639_3:
   - mgq
   lang_name: kimalila
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimalili
+  wals_codes: null
 - country: TZ
   glottocode: mamb1296
   iso_639_3:
   - mgr
   lang_name: kimambwe
+  wals_codes: null
 - country: TZ
   glottocode: mand1423
   iso_639_3:
   - mgs
   lang_name: kimanda
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimang'ati
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimatambwe
+  wals_codes: null
 - country: TZ
   glottocode: mate1258
   iso_639_3:
   - mgv
   lang_name: kimatengo
+  wals_codes: null
 - country: TZ
   glottocode: matu1259
   iso_639_3:
   - mgw
   lang_name: kimatumbi
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimazuruni
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimbembe
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimbulu
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimbungo
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimdale
+  wals_codes: null
 - country: TZ
   glottocode: rwaa1238
   iso_639_3:
   - rwk
   lang_name: kimeru
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kimuwanji
+  wals_codes: null
 - country: TZ
   glottocode: mwer1248
   iso_639_3:
   - mwe
   lang_name: kimwera
+  wals_codes: null
 - country: TZ
   glottocode: ikom1245
   iso_639_3:
   - ntk
   lang_name: kinata
+  wals_codes: null
 - country: TZ
   glottocode: ndal1241
   iso_639_3:
   - ndh
   lang_name: kindali
+  wals_codes: null
 - country: TZ
   glottocode: ndam1239
   iso_639_3:
   - ndj
   lang_name: kindamba
+  wals_codes: null
 - country: TZ
   glottocode: nden1249
   iso_639_3:
   - dne
   lang_name: kindendeule
+  wals_codes: null
 - country: TZ
   glottocode: nden1248
   iso_639_3:
   - ndg
   lang_name: kindengereko
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kindonde
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kindyewe
+  wals_codes: null
 - country: TZ
   glottocode: ngin1244
   iso_639_3:
   - nnq
   lang_name: kingindo
+  wals_codes: null
 - country: TZ
   glottocode: ngon1269
   iso_639_3:
   - ngo
   lang_name: kingoni
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kinguu
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kinyagatwa
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kinyagazwa
+  wals_codes: null
 - country: TZ
   glottocode: nyam1277
   iso_639_3:
   - now
   lang_name: kinyambo
+  wals_codes: null
 - country: TZ
   glottocode: nyam1275
   iso_639_3:
   - mwn
   lang_name: kinyamwanga
+  wals_codes: null
 - country: TZ
   glottocode: nyam1276
   iso_639_3:
   - nym
   lang_name: kinyamwezi
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kinyantuzu
+  wals_codes: null
 - country: TZ
   glottocode: mpot1240
   iso_639_3:
   - mpa
   lang_name: kinyasa
+  wals_codes: null
 - country: TZ
   glottocode: nyat1246
   iso_639_3:
   - rim
   lang_name: kinyaturu
+  wals_codes: null
 - country: TZ
   glottocode: nyik1247
   iso_639_3:
   - nkt
   lang_name: kinyiha
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kinyimbo
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kinyiramba
+  wals_codes: null
 - country: TZ
   glottocode: isan1243
   iso_639_3:
   - isn
   lang_name: kinyisanzu
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kipagebi
+  wals_codes: null
 - country: TZ
   glottocode: pang1287
   iso_639_3:
   - pbr
   lang_name: kipangwa
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kipemba
+  wals_codes: null
 - country: TZ
   glottocode: pimb1238
   iso_639_3:
   - piw
   lang_name: kipimbwe
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kipogoro
+  wals_codes: null
 - country: TZ
   glottocode: lang1320
   iso_639_3:
   - lag
   lang_name: kirangi
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kirufiji
+  wals_codes: null
 - country: TZ
   glottocode: kway1241
   iso_639_3:
   - kya
   lang_name: kiruri
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kiryeri
+  wals_codes: null
 - country: TZ
   glottocode: safw1238
   iso_639_3:
   - sbk
   lang_name: kisafwa
+  wals_codes: null
 - country: TZ
   glottocode: saga1256
   iso_639_3:
   - sbm
   lang_name: kisagala
+  wals_codes: null
 - country: TZ
   glottocode: saga1256
   iso_639_3:
   - sbm
   lang_name: kisagara
+  wals_codes: null
 - country: TZ
   glottocode: sham1280
   iso_639_3:
   - ksb
   lang_name: kisambaa
+  wals_codes: null
 - country: TZ
   glottocode: sand1273
   iso_639_3:
   - sad
   lang_name: kisandawe
+  wals_codes: null
 - country: TZ
   glottocode: sang1330
   iso_639_3:
   - sbp
   lang_name: kisangu
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kisanzu
+  wals_codes: null
 - country: TZ
   glottocode: sege1246
   iso_639_3:
   - seg
   lang_name: kisegeju
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kishihiri
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kishirazi
+  wals_codes: null
 - country: TZ
   glottocode: shub1238
   iso_639_3:
   - suj
   lang_name: kishubi
+  wals_codes: null
 - country: TZ
   glottocode: suba1252
   iso_639_3:
   - ssc
   lang_name: kisimbiti
+  wals_codes: null
 - country: TZ
   glottocode: ikiz1238
   iso_639_3:
   - ikz
   lang_name: kisizaki
+  wals_codes: null
 - country: TZ
   glottocode: suba1252
   iso_639_3:
   - ssc
   lang_name: kisuba
+  wals_codes: null
 - country: TZ
   glottocode: shub1238
   iso_639_3:
   - suj
   lang_name: kisubi
+  wals_codes: null
 - country: TZ
   glottocode: sumb1240
   iso_639_3:
   - suw
   lang_name: kisumbwa
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kisunva
+  wals_codes: null
 - country: TZ
   glottocode: swah1253
   iso_639_3:
   - swh
   lang_name: kiswahili
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kitaturu
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kitatuu
+  wals_codes: null
 - country: TZ
   glottocode: tong1320
   iso_639_3:
   - tny
   lang_name: kitongwe
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kitumbatu
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kituwan
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kiuwanji
+  wals_codes: null
 - country: TZ
   glottocode: vidu1238
   iso_639_3:
   - vid
   lang_name: kividunda
+  wals_codes: null
 - country: TZ
   glottocode: vwan1235
   iso_639_3:
   - wbi
   lang_name: kiwanji
+  wals_codes: null
 - country: TZ
   glottocode: yaoo1241
   iso_639_3:
   - yao
   lang_name: kiyao
+  wals_codes: null
 - country: TZ
   glottocode: null
   iso_639_3:
   - mis
   lang_name: kiyusi
+  wals_codes: null
 - country: TZ
   glottocode: zana1238
   iso_639_3:
   - zak
   lang_name: kizanaki
+  wals_codes: null
 - country: TZ
   glottocode: zara1247
   iso_639_3:
   - zaj
   lang_name: kizaramo
+  wals_codes: null
 - country: TZ
   glottocode: zigu1242
   iso_639_3:
   - ziw
   lang_name: kizigua
+  wals_codes: null
 - country: TZ
   glottocode: zinz1238
   iso_639_3:
   - zin
   lang_name: kizinza
+  wals_codes: null
 - country: UG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: akumu
+  wals_codes: null
 - country: UG
   glottocode: arin1244
   iso_639_3:
   - luc
   lang_name: aringa
+  wals_codes: null
 - country: UG
   glottocode: gung1250
   iso_639_3:
   - rub
   lang_name: bagungu
   note: Gungu
+  wals_codes: null
 - country: UG
   glottocode: keny1278
   iso_639_3:
   - lke
   lang_name: bakenyi
   note: Kenye (Bakenyi)
+  wals_codes: null
 - country: UG
   glottocode: luyi1234
   iso_639_3:
   - lsm
   lang_name: baluya
   note: Saamia is the primary Luyia language spoken in UG
-  wals_code:
+  wals_codes:
   - luy
 - country: UG
   glottocode: kakw1240
   iso_639_3:
   - keo
   lang_name: kakwa
+  wals_codes: null
 - country: UG
   glottocode: kups1238
   iso_639_3:
   - kpz
   lang_name: kapsabinyi
   note: Kupsapiiny
+  wals_codes: null
 - country: UG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: karamajong
+  wals_codes: null
 - country: UG
   glottocode: ndoo1242
   iso_639_3:
   - ndp
   lang_name: kebu
+  wals_codes: null
 - country: UG
   glottocode: nnam1238
   iso_639_3:
   - nbp
   lang_name: kebu.
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: kinyamulenge
   note: https://en.wikipedia.org/wiki/Banyamulenge
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: kinyarwanda
+  wals_codes: null
 - country: UG
   glottocode: kuma1275
   iso_639_3:
   - kdi
   lang_name: kumam
+  wals_codes: null
 - country: UG
   glottocode: kups1238
   iso_639_3:
   - kpz
   lang_name: kupsabinyi
   note: Kupsapiiny
+  wals_codes: null
 - country: UG
   glottocode: lend1245
   iso_639_3:
   - led
   lang_name: lendu
+  wals_codes: null
 - country: UG
   glottocode: buku1249
   iso_639_3:
   - bxk
   lang_name: lubukusu
+  wals_codes: null
 - country: UG
   glottocode: adho1243
   iso_639_3:
   - adh
   lang_name: ludama
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: lufubila
   note: Fumbira
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: lufumbira
   note: Fumbira
+  wals_codes: null
 - country: UG
   glottocode: masa1299
   iso_639_3:
   - myx
   lang_name: lugisu
+  wals_codes: null
 - country: UG
   glottocode: gwer1238
   iso_639_3:
   - gwr
   lang_name: lugwere
+  wals_codes: null
 - country: UG
   glottocode: alur1250
   iso_639_3:
   - alz
   lang_name: lujaluwo
   note: Remove luj, then it is close to Alur (Aloro, Alua, Jo Alur)
+  wals_codes: null
 - country: UG
   glottocode: keny1278
   iso_639_3:
   - lke
   lang_name: lukene
   note: Kenye (Lukenye, Lukenhe)
+  wals_codes: null
 - country: UG
   glottocode: bari1284
   iso_639_3:
   - bfa
   lang_name: lukuku
   note: Kuku is a dialect of Bari
+  wals_codes: null
 - country: UG
   glottocode: soga1242
   iso_639_3:
   - xog
   lang_name: lulamogi
+  wals_codes: null
 - country: UG
   glottocode: ruul1235
   iso_639_3:
   - ruc
   lang_name: lululi
   note: Ruuli
+  wals_codes: null
 - country: UG
   glottocode: ruul1235
   iso_639_3:
   - ruc
   lang_name: luluri
   note: Ruuli
+  wals_codes: null
 - country: UG
   glottocode: ruul1235
   iso_639_3:
   - ruc
   lang_name: lunyala
   note: Runyala
+  wals_codes: null
 - country: UG
   glottocode: ruul1235
   iso_639_3:
   - ruc
   lang_name: lunyara
   note: Runyala
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: lunyarwanda
   note: Kinyarwands
+  wals_codes: null
 - country: UG
   glottocode: nyol1238
   iso_639_3:
   - nuj
   lang_name: lunyole
+  wals_codes: null
 - country: UG
   glottocode: sout2831
   iso_639_3:
@@ -6489,29 +7717,33 @@
   - alz
   lang_name: luo
   note: Alur and Acholi
+  wals_codes: null
 - country: UG
   glottocode: ruul1235
   iso_639_3:
   - ruc
   lang_name: luruli
+  wals_codes: null
 - country: UG
   glottocode: rund1242
   iso_639_3:
   - run
   lang_name: lurundi
   note: Use Rundi even though Burundi
+  wals_codes: null
 - country: UG
   glottocode: ruul1235
   iso_639_3:
   - ruc
   lang_name: lururu
+  wals_codes: null
 - country: UG
   glottocode: saam1283
   iso_639_3:
   - lsm
   lang_name: lusamia
   note: Saamia
-  wals_code:
+  wals_codes:
   - luy
 - country: UG
   glottocode: suda1236
@@ -6519,7 +7751,7 @@
   - apd
   lang_name: lusudan
   note: Sudanese arabic
-  wals_code:
+  wals_codes:
   - abb
 - country: UG
   glottocode: suda1236
@@ -6527,114 +7759,131 @@
   - apd
   lang_name: lusudani
   note: Sudanese arabic
-  wals_code:
+  wals_codes:
   - abb
 - country: UG
   glottocode: amba1263
   iso_639_3:
   - rwm
   lang_name: lwamba
+  wals_codes: null
 - country: UG
   glottocode: tali1258
   iso_639_3:
   - tlj
   lang_name: mubwisi
   note: Bwisi
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: mufumbira
   note: Fumbira
+  wals_codes: null
 - country: UG
   glottocode: masa1299
   iso_639_3:
   - myx
   lang_name: mugishu
   note: Gisu - Maasabe
+  wals_codes: null
 - country: UG
   glottocode: gung1250
   iso_639_3:
   - rub
   lang_name: mugungu
   note: Gungu
+  wals_codes: null
 - country: UG
   glottocode: soga1242
   iso_639_3:
   - xog
   lang_name: mulamogi
   note: Lamogi
+  wals_codes: null
 - country: UG
   glottocode: ruul1235
   iso_639_3:
   - ruc
   lang_name: mululi
   note: Ruuli
+  wals_codes: null
 - country: UG
   glottocode: rund1242
   iso_639_3:
   - run
   lang_name: mulundi
   note: Use Burundi Rundi
+  wals_codes: null
 - country: UG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: munyabindi
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: munyarwanda
   note: Kinyarwanda
+  wals_codes: null
 - country: UG
   glottocode: ruul1235
   iso_639_3:
   - ruc
   lang_name: muruli
   note: Ruuli
+  wals_codes: null
 - country: UG
   glottocode: rund1242
   iso_639_3:
   - run
   lang_name: murundi
   note: Use Rundi
+  wals_codes: null
 - country: UG
   glottocode: konz1239
   iso_639_3:
   - koo
   lang_name: musungora
   note: Lusongoro is a dialect of Konzo
+  wals_codes: null
 - country: UG
   glottocode: nyor1246
   iso_639_3:
   - nyo
   lang_name: mutagwenda
   note: Rutagwenda
+  wals_codes: null
 - country: UG
   glottocode: nyor1246
   iso_639_3:
   - nyo
   lang_name: mutgwenda
   note: Rutagwenda
+  wals_codes: null
 - country: UG
   glottocode: amba1263
   iso_639_3:
   - rwm
   lang_name: mwamba
   note: Amba (Lwamba, Rwamba, Kwamba)
+  wals_codes: null
 - country: UG
   glottocode: kara1483
   iso_639_3:
   - kdj
   lang_name: ngakarimajong
+  wals_codes: null
 - country: UG
   glottocode: nubi1253
   iso_639_3:
   - kcn
   lang_name: nubian
   note: Nubi
-  wals_code:
+  wals_codes:
   - nub
 - country: UG
   glottocode: ndoo1242
@@ -6642,638 +7891,755 @@
   - ndp
   lang_name: okebu
   note: Oke'bu name for Ndo
+  wals_codes: null
 - country: UG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ombach
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: rufumbiira
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: rufumbira
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: rugisu
+  wals_codes: null
 - country: UG
   glottocode: ruul1235
   iso_639_3:
   - ruc
   lang_name: rululi
   note: Ruuli
+  wals_codes: null
 - country: UG
   glottocode: rund1242
   iso_639_3:
   - run
   lang_name: rulundi
+  wals_codes: null
 - country: UG
   glottocode: gung1250
   iso_639_3:
   - rub
   lang_name: rungungu
   note: Gungu
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: runyarwanda
+  wals_codes: null
 - country: UG
   glottocode: ruul1235
   iso_639_3:
   - ruc
   lang_name: ruruli
   note: Ruuli
+  wals_codes: null
 - country: UG
   glottocode: konz1239
   iso_639_3:
   - koo
   lang_name: rusongora
   note: Lusongora dialect of Konzo
+  wals_codes: null
 - country: UG
   glottocode: nyor1246
   iso_639_3:
   - nyo
   lang_name: rutagwenda
+  wals_codes: null
 - country: UG
   glottocode: kiny1244
   iso_639_3:
   - kin
   lang_name: rwandese
   note: Official language is Kinywarwanda
+  wals_codes: null
 - country: UG
   glottocode: kups1238
   iso_639_3:
   - kpz
   lang_name: sabiny
+  wals_codes: null
 - country: UG
   glottocode: swah1253
   iso_639_3:
   - swh
   lang_name: swahili
+  wals_codes: null
 - country: UG
   glottocode: swah1253
   iso_639_3:
   - swh
   lang_name: tanzanian
   note: National language is Swahili
+  wals_codes: null
 - country: ZA
   glottocode: hind1269
   iso_639_3:
   - hin
   lang_name: asian
+  wals_codes: null
 - country: ZA
   glottocode: hind1269
   iso_639_3:
   - hin
   lang_name: asian/indian
+  wals_codes: null
 - country: ZA
   glottocode: bulg1262
   iso_639_3:
   - bul
   lang_name: bulgarian
+  wals_codes: null
 - country: ZA
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: chichewa
+  wals_codes: null
 - country: ZA
   glottocode: mand1415
   iso_639_3:
   - cmn
   lang_name: chinese
-  wals_code:
+  wals_codes:
   - mnd
 - country: ZA
   glottocode: null
   iso_639_3:
   - und
   lang_name: indian
+  wals_codes: null
 - country: ZA
   glottocode: amha1245
   iso_639_3:
   - amh
   lang_name: ithopiwa
   note: Assume Ethipian, i.e. Amharic
+  wals_codes: null
 - country: ZA
   glottocode: nama1264
   iso_639_3:
   - naq
   lang_name: khoi
+  wals_codes: null
 - country: ZA
   glottocode: nama1264
   iso_639_3:
   - naq
   lang_name: khois
+  wals_codes: null
 - country: ZA
   glottocode: nama1264
   iso_639_3:
   - naq
   lang_name: khoisan
   note: Khoekhoe (Khoisan)
+  wals_codes: null
 - country: ZA
   glottocode: sout2808
   iso_639_3:
   - nbl
   lang_name: ndebela
+  wals_codes: null
 - country: ZA
   glottocode: nort2646
   iso_639_3:
   - pbu
   lang_name: pashto
+  wals_codes: null
 - country: ZA
   glottocode: pedi1238
   iso_639_3:
   - nso
   lang_name: pedi
+  wals_codes: null
 - country: ZA
   glottocode: port1283
   iso_639_3:
   - por
   lang_name: portuguese
+  wals_codes: null
 - country: ZA
   glottocode: tson1249
   iso_639_3:
   - tso
   lang_name: setsonga
+  wals_codes: null
 - country: ZA
   glottocode: tson1249
   iso_639_3:
   - tso
   lang_name: shangaan
+  wals_codes: null
 - country: ZA
   glottocode: swat1243
   iso_639_3:
   - ssw
   lang_name: siswati
+  wals_codes: null
 - country: ZA
   glottocode: swat1243
   iso_639_3:
   - ssw
   lang_name: siswazi
+  wals_codes: null
 - country: ZA
   glottocode: swat1243
   iso_639_3:
   - ssw
   lang_name: swazi
+  wals_codes: null
 - country: ZA
   glottocode: tson1249
   iso_639_3:
   - tso
   lang_name: tsonga
+  wals_codes: null
 - country: ZA
   glottocode: tson1249
   iso_639_3:
   - tso
   lang_name: xitsonga
+  wals_codes: null
 - country: ZA
   glottocode: tson1249
   iso_639_3:
   - tso
   lang_name: xtsonga
+  wals_codes: null
 - country: ZM
   glottocode: lala1264
   iso_639_3:
   - leb
   lang_name: bisa
+  wals_codes: null
 - country: ZM
   glottocode: bwil1245
   iso_639_3:
   - bwc
   lang_name: bwile
+  wals_codes: null
 - country: ZM
   glottocode: kund1255
   iso_639_3:
   - kdn
   lang_name: chikunda
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chiyamba
+  wals_codes: null
 - country: ZM
   glottocode: chok1245
   iso_639_3:
   - cjk
   lang_name: chokwe
+  wals_codes: null
 - country: ZM
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: goba
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: icishila
+  wals_codes: null
 - country: ZM
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: kunda
+  wals_codes: null
 - country: ZM
   glottocode: lala1264
   iso_639_3:
   - leb
   lang_name: lala
+  wals_codes: null
 - country: ZM
   glottocode: lamb1271
   iso_639_3:
   - lam
   lang_name: lamba
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: lambia
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: luba
+  wals_codes: null
 - country: ZM
   glottocode: luch1239
   iso_639_3:
   - lch
   lang_name: luchazi
+  wals_codes: null
 - country: ZM
   glottocode: bemb1257
   iso_639_3:
   - bem
   lang_name: lunda kazembe
+  wals_codes: null
 - country: ZM
   glottocode: mamb1296
   iso_639_3:
   - mgr
   lang_name: lungu
+  wals_codes: null
 - country: ZM
   glottocode: mbun1249
   iso_639_3:
   - mck
   lang_name: mbunda
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mikundu
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mulambya
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mumba
+  wals_codes: null
 - country: ZM
   glottocode: nort2795
   iso_639_3:
   - nde
   lang_name: ndebele
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: ngumbo
+  wals_codes: null
 - country: ZM
   glottocode: nsen1242
   iso_639_3:
   - nse
   lang_name: nsenga
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nswaka
+  wals_codes: null
 - country: ZM
   glottocode: nyik1246
   iso_639_3:
   - nkv
   lang_name: nyika
+  wals_codes: null
 - country: ZM
   glottocode: sala1266
   iso_639_3:
   - shq
   lang_name: sala
+  wals_codes: null
 - country: ZM
   glottocode: tumb1250
   iso_639_3:
   - tum
   lang_name: senga
+  wals_codes: null
 - country: ZM
   glottocode: taab1238
   iso_639_3:
   - tap
   lang_name: shila
+  wals_codes: null
 - country: ZM
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: shona
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: siluchazi
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: swahili
+  wals_codes: null
 - country: ZM
   glottocode: lala1264
   iso_639_3:
   - leb
   lang_name: swaka
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tokaleya
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tumbka
+  wals_codes: null
 - country: ZM
   glottocode: tumb1250
   iso_639_3:
   - tum
   lang_name: tumbuka
+  wals_codes: null
 - country: ZM
   glottocode: aush1241
   iso_639_3:
   - auh
   lang_name: ushi
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: usmi
+  wals_codes: null
 - country: ZM
   glottocode: null
   iso_639_3:
   - mis
   lang_name: yawa
+  wals_codes: null
 - country: ZM
   glottocode: zulu1248
   iso_639_3:
   - zul
   lang_name: zezulu
+  wals_codes: null
 - country: ZW
   glottocode: many1258
   iso_639_3:
   - mxc
   lang_name: bocha
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: budya
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: buja
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: changani
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chewa
+  wals_codes: null
 - country: ZW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: chikaranga
+  wals_codes: null
 - country: ZW
   glottocode: kund1255
   iso_639_3:
   - kdn
   lang_name: chikunda
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chitawala
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: chitoko
+  wals_codes: null
 - country: ZW
   glottocode: domb1246
   iso_639_3:
   - dov
   lang_name: dombe
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: dumbe
+  wals_codes: null
 - country: ZW
   glottocode: ndau1241
   iso_639_3:
   - ndc
   lang_name: garwe
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: hindi
+  wals_codes: null
 - country: ZW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: hwesa
+  wals_codes: null
 - country: ZW
   glottocode: many1258
   iso_639_3:
   - mxc
   lang_name: jindwi
+  wals_codes: null
 - country: ZW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: karanga
+  wals_codes: null
 - country: ZW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: korekore
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: lozwi
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: malawian
+  wals_codes: null
 - country: ZW
   glottocode: many1258
   iso_639_3:
   - mxc
   lang_name: manica (mozambican)
-  note: >-
-    Manika
+  note: Manika
+  wals_codes: null
 - country: ZW
   glottocode: many1258
   iso_639_3:
   - mxc
   lang_name: manyika
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: maungwe
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mdombe
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mlemba
+  wals_codes: null
 - country: ZW
-  glottocode: port1283
+  glottocode: null
   iso_639_3:
-  - por
+    - mis
   lang_name: mozambican
-  note: >-
-    Portuguese is official lang of Mozambique
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: muhera
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: mushangwe
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nambia
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nambiya
+  wals_codes: null
 - country: ZW
   glottocode: namb1291
   iso_639_3:
   - nmq
   lang_name: nambya
+  wals_codes: null
 - country: ZW
   glottocode: ndau1241
   iso_639_3:
   - ndc
   lang_name: ndau
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: nleya zambia
+  wals_codes: null
 - country: ZW
   glottocode: chew1246
   iso_639_3:
   - nya
   lang_name: nyaho (chawa)
-  note: >-
-    Chewa is a dialect of Nyanja
+  note: Chewa is a dialect of Nyanja
+  wals_codes: null
 - country: ZW
   glottocode: nyan1308
   iso_639_3:
   - nya
   lang_name: nyanja
+  wals_codes: null
 - country: ZW
   glottocode: nyas1241
   iso_639_3:
   - nya
   lang_name: nyasaland
-  note: >-
-    Nyasa is a dialect of Nyanja
+  note: Nyasa is a dialect of Nyanja
+  wals_codes: null
 - country: ZW
   glottocode: tson1249
   iso_639_3:
   - tso
   lang_name: shangani
+  wals_codes: null
 - country: ZW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: shangwe
+  wals_codes: null
 - country: ZW
   glottocode: nort2795
   iso_639_3:
   - nde
   lang_name: shona & ndebele
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: sidombe
+  wals_codes: null
 - country: ZW
   glottocode: pedi1238
   iso_639_3:
   - nso
   lang_name: sotho
-  note: >-
-    More likey Northern Sotho in Zimbabwe
+  note: More likey Northern Sotho in Zimbabwe
+  wals_codes: null
 - country: ZW
   glottocode: pedi1238
   iso_639_3:
   - nso
   lang_name: suthu
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: taura (mozambican)
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tsenga
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: tumbuka
+  wals_codes: null
 - country: ZW
   glottocode: null
   iso_639_3:
   - mis
   lang_name: vhitori
+  wals_codes: null
 - country: ZW
   glottocode: xhos1239
   iso_639_3:
   - xho
   lang_name: xhosa
+  wals_codes: null
 - country: ZW
   glottocode: yaoo1241
   iso_639_3:
   - yao
   lang_name: yao
+  wals_codes: null
 - country: ZW
   glottocode: shon1251
   iso_639_3:
   - sna
   lang_name: zezuru
+  wals_codes: null

@@ -18,8 +18,7 @@ wait
 
 run_r src/afrobarometer_langs.R &
 run_r src/afrobarometer_langs_other.R &
-run_r src/iso_to_wals.R &
-run_r src/wals_dist.R &
+# run_r src/glottolog.R &
 wait
 
 run_r src/afrobarometer_to_iso_639_3.R &

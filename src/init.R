@@ -165,8 +165,6 @@ env_bind_fns(IO,
     read_tsv(unz(description, filename), na = "", col_types = col_types)
   },
 
-
-
   # WALS
   # WALS data with ISO updates applied and only language level data
   wals = function() {
@@ -178,7 +176,8 @@ env_bind_fns(IO,
                         cols_only(
                            wals_code = col_character(),
                            iso_code = col_character(),
-                           macroarea = col_character()
+                           macroarea = col_character(),
+                           countrycodes = col_character()
                          ))
     description <- project_path("external", "wals-language.csv.zip")
     filename <- "language.csv"
@@ -191,14 +190,14 @@ env_bind_fns(IO,
       left_join(select(updates,
                        wals_code,
                        iso_code_new = iso_code,
-                       macroarea_new = macroarea),
+                       macroarea_new = macroarea,
+                       countrycodes_new = countrycodes),
                 by = "wals_code") %>%
       mutate(iso_code = coalesce(iso_code_new, iso_code),
-             macroarea = coalesce(macroarea_new, macroarea)) %>%
+             macroarea = coalesce(macroarea_new, macroarea),
+             countrycodes = coalesce(countrycodes_new, countrycodes)) %>%
       select(one_of(vars))
   },
-
-
 
   # Ethnologue data
   ethnologue = function() {
@@ -236,7 +235,7 @@ env_bind_fns(IO,
     path <- project_path("data-raw", "afrobarometer_to_wals_countries.csv")
     col_types <- cols(
       round = col_integer(),
-      question = col_character(),
+      variable = col_character(),
       lang_id = col_integer(),
       lang_name = col_character(),
       wals_code = col_character(),
@@ -249,7 +248,7 @@ env_bind_fns(IO,
     path <- project_path("data-raw", "afrobarometer_to_iso_639_3_countries.csv")
     col_types <- cols(
       round = col_integer(),
-      question = col_character(),
+      variable = col_character(),
       lang_id = col_integer(),
       lang_name = col_character(),
       iso_639_3 = col_character(),
@@ -273,7 +272,7 @@ env_bind_fns(IO,
                          "afrobarometer_to_iso_country_nonmatches.csv")
     col_types <- cols(
       round = col_integer(),
-      question = col_character(),
+      variable = col_character(),
       lang_id = col_integer(),
       lang_name = col_character(),
       iso_alpha2 = col_character(),
@@ -287,7 +286,7 @@ env_bind_fns(IO,
                          "afrobarometer_to_iso_distant_matches.csv")
     col_types <- cols(
       round = col_integer(),
-      question = col_character(),
+      variable = col_character(),
       lang_id = col_integer(),
       lang_name = col_character(),
       iso_alpha2 = col_character(),
@@ -301,7 +300,7 @@ env_bind_fns(IO,
                          "afrobarometer_to_wals_country_nonmatches.csv")
     col_types <- cols(
       round = col_integer(),
-      question = col_character(),
+      variable = col_character(),
       lang_id = col_integer(),
       iso_alpha2 = col_character(),
       wals_code = col_character()
@@ -334,7 +333,7 @@ env_bind_fns(IO,
     path <- project_path("data", "afrobarometer_to_wals.csv")
     col_types <- cols(
       round = col_integer(),
-      question = col_character(),
+      variable = col_character(),
       lang_id = col_integer(),
       lang_name = col_character(),
       country = col_integer(),
@@ -353,7 +352,7 @@ env_bind_fns(IO,
     path <- project_path("data", "afrobarometer_other_to_wals.csv")
     col_types <- cols(
       round = col_integer(),
-      question = col_character(),
+      variable = col_character(),
       country = col_integer(),
       value = col_character(),
       iso_alpha2 = col_character(),
@@ -371,7 +370,7 @@ env_bind_fns(IO,
     path <- project_path("data", "afrobarometer_to_iso_639_3.csv")
     col_types <- cols(
       round = col_integer(),
-      question = col_character(),
+      variable = col_character(),
       country = col_integer(),
       value = col_character(),
       iso_639_3 = col_character(),
@@ -387,7 +386,7 @@ env_bind_fns(IO,
     path <- project_path("data", "afrobarometer_other_to_iso_639_3.csv")
     col_types <- cols(
       round = col_integer(),
-      question = col_character(),
+      variable = col_character(),
       country = col_integer(),
       value = col_character(),
       iso_639_3 = col_character(),
@@ -488,7 +487,30 @@ env_bind_fns(IO,
       longitude = col_double()
     )
     read_csv(path, col_types = col_types, na = "")
+  },
+
+  glottolog = function() {
+    path <- project_path("data", "glottolog.csv")
+    col_types <- cols(
+      glottocode = col_character(),
+      name = col_character(),
+      level = col_character(),
+      depth = col_integer(),
+      family = col_character(),
+      parent = col_character(),
+      ancestors = col_character(),
+      children = col_character(),
+      descendants = col_character(),
+      iso_639_3 = col_character(),
+      wals_codes = col_character(),
+      macroarea = col_character(),
+      latitude = col_double(),
+      longitude = col_double(),
+      bookkeeping = col_character()
+    )
+    read_csv(path, na = "", col_types = col_types)
   }
+
 )
 
 .afrobarometer <- function(.round) {
@@ -511,7 +533,7 @@ env_bind_fns(IO, afrobarometer_langs = function() {
   path <- project_path("data", "afrobarometer_langs.csv")
   col_types <- cols(
     round = col_integer(),
-    question = col_character(),
+    variable = col_character(),
     value = col_integer(),
     name = col_character(),
     country = col_integer(),
@@ -524,7 +546,7 @@ env_bind_fns(IO, afrobarometer_langs_other = function() {
   path <- project_path("data", "afrobarometer_langs_other.csv")
   col_types <- cols(
     round = col_integer(),
-    question = col_character(),
+    variable = col_character(),
     country = col_integer(),
     value = col_character(),
     iso_alpha2 = col_character()
@@ -547,7 +569,7 @@ env_bind_fns(IO, afrobarometer_to_iso = function() {
   path <- project_path("data", "afrobarometer_to_iso_639_3.csv")
   col_types <- cols(
     round = col_integer(),
-    question = col_character(),
+    variable = col_character(),
     lang_id = col_integer(),
     lang_name = col_character(),
     country = col_integer(),
@@ -563,7 +585,7 @@ env_bind_fns(IO, afrobarometer_other_to_iso = function() {
   path <- project_path("data", "afrobarometer_other_to_iso_639_3.csv")
   col_types <- cols(
     round = col_integer(),
-    question = col_character(),
+    variable = col_character(),
     country = col_integer(),
     value = col_character(),
     iso_639_3 = col_character(),
@@ -578,7 +600,7 @@ env_bind_fns(IO, afrobarometer_to_glottolog = function() {
   path <- project_path("data", "afrobarometer_to_glottolog.csv")
   col_types <- cols(
     round = col_integer(),
-    question = col_character(),
+    variable = col_character(),
     lang_id = col_integer(),
     lang_name = col_character(),
     country = col_integer(),
@@ -592,7 +614,7 @@ env_bind_fns(IO, afrobarometer_other_to_glottolog = function() {
   path <- project_path("data", "afrobarometer_other_to_glottolog.csv")
   col_types <- cols(
     round = col_integer(),
-    question = col_character(),
+    variable = col_character(),
     value = col_character(),
     iso_alpha2 = col_character(),
     country = col_integer(),
