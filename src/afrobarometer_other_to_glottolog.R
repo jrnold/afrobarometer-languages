@@ -26,8 +26,6 @@ to_glottocodes <-
   left_join(afrobarometer_langs_other, by = c("lang_name", "iso_alpha2")) %>%
   select(round, variable, value, iso_alpha2, glottocode)
 
-glottolog_to_iso_ <- glottolog_to_iso()
-
 # All matches
 afrobarometer_to_glottolog <-
   IO$afrobarometer_langs_other %>%

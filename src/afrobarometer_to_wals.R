@@ -16,18 +16,16 @@ wals <- IO$wals
 
 to_wals_manual <- IO$afrobarometer_mappings %>%
   map_df(function(.x) {
-    if (!is.null(.x[["wals_code"]])) {
-      wals_codes <- .x[["wals_code"]]
-      if (!(is.null(wals_codes[["values"]]))) {
+    if (!is.null(.x[["wals_codes"]])) {
+      wals_codes <- .x[["wals_codes"]]
         # it shouldn't be empty but if it is, continue
-        if (is.null(names(wals_codes[["values"]]))) {
+        if (is.null(names(wals_codes))) {
           # if no names, then all countries
           out <- tidyr::crossing(variable = .x[["variables"]],
-                                 wals_code = wals_codes$values)
+                                 wals_code = wals_codes)
           out$valid_country <- NA_character_
         } else {
-          wals_codes <- .x[["wals_code"]]
-          out <- map2_df(names(wals_codes$values), wals_codes$values,
+          out <- map2_df(names(wals_codes), wals_codes,
                          ~ tibble(wals_code = .x, valid_country = .y))
           out <- tidyr::crossing(out, variable = .x[["variables"]])
         }
@@ -35,7 +33,6 @@ to_wals_manual <- IO$afrobarometer_mappings %>%
         out[["round"]] <- .x$round
         out
       }
-    }
   }) %>%
   inner_join(IO$afrobarometer_langs,
              afrobarometer_to_wals,

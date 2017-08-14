@@ -1,4 +1,4 @@
-round,question,country,value,iso_alpha2,wals_code,wals_name,auto
+round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 4,Q3OTHER,1,HAOUSSA,BJ,hau,Hausa,1
 4,Q3OTHER,2,Sebanderu,BW,,,
 4,Q3OTHER,2,Segxereku,BW,,,
@@ -663,7 +663,7 @@ round,question,country,value,iso_alpha2,wals_code,wals_name,auto
 4,Q3OTHER,20,MANYIKA,ZW,krg,Karanga,1
 4,Q3OTHER,20,MANYIKA,ZW,shn,Shona,1
 4,Q3OTHER,20,MAUNGWE,ZW,,,
-4,Q3OTHER,20,MOZAMBICAN,ZW,por,Portuguese,1
+4,Q3OTHER,20,MOZAMBICAN,ZW,,,
 4,Q3OTHER,20,NAMBIA,ZW,,,
 4,Q3OTHER,20,NAMBYA,ZW,klz,Kalanga,1
 4,Q3OTHER,20,NDAU,ZW,krg,Karanga,1
