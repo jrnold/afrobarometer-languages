@@ -8,10 +8,18 @@ glottolog_tree <-
   read_json("external/glottolog/tree-glottolog.json",
             simplifyVector = FALSE)
 
-#glottolog_tree <- glottolog_tree
+# just in the form ["aaa" , [["zzz", ...], ["bbb" []], "ccc" ]]
+# language names are the first entry in the list
+simplify_tree1 <- function(x) {
+  list(x[["glottocode"]], map(sort_glotto(x[["children"]]), simplify_tree1))
+}
 
-simplify_tree <- function(x) {
-  list(x[["glottocode"]], map(sort_glotto(x[["children"]]), simplify_tree))
+# Named lists
+# list(aaa = list(bbb = list(...), ccc = list(...)), ddd = list)
+# language names are the names of lists
+simplify_tree2 <- function(x) {
+  set_names(list(flatten(map(x[["children"]], simplify_tree2))),
+            x[["glottocode"]])
 }
 
 # Add additional information
@@ -185,14 +193,3 @@ fill_descendants <- function(x, parent = NULL) {
 }
 walk(glottolog_tree, fill_descendants)
 
-# Data to data frame
-
-languoids <- as.list(env) %>% bind_rows()
-
-family <- "kxaa1236"
-
-filter(languoids, family == UQ(family)) %>%
-  mutate(wals_codes = map_chr(wals_codes, paste0, collapse = " "),
-         iso_639_3 = map_chr(iso_639_3, paste0, collapse = " ")) %>%
-  select(depth, glottocode, parent, iso_639_3, wals_codes, latitude, longitude) %>%
-  arrange(-depth)
