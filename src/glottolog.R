@@ -124,13 +124,13 @@ walk_glottolog <- function(x,
 
   descendants_glotto <- flatten_chr(map(descendants, "glottocodes"))
 
-  wals_codes <- unique(c(wals_lookup[[glottocode]],
-                         flatten_chr(map(descendants, "wals_codes")))) %>%
+  # For these codes, do not concatenate descendant values
+  wals_codes <- (wals_lookup[[glottocode]] %||%
+      flatten_chr(map(descendants, "wals_codes"))) %>%
     sort()
-  iso_codes <- unique(c(iso_lookup[[glottocode]],
-                        flatten_chr(map(descendants, "iso_codes")))) %>%
+  iso_codes <- (iso_lookup[[glottocode]] %||%
+                  flatten_chr(map(descendants, "iso_codes"))) %>%
     sort()
-
 
   macroarea <- c(macroarea_lookup[glottocode],
                  flatten_chr(map(descendants, "macroarea"))) %>%
