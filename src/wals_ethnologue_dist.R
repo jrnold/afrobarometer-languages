@@ -1,4 +1,7 @@
+# Phylogenetic Distance between WALS languages using Ethnologue
 source("src/init.R")
+
+output <- "data-raw/ethnologue/wals_distance.csv.gz"
 
 wals <- IO$wals %>%
   select(wals_code, iso_code)
@@ -9,7 +12,7 @@ ethnologue <- read_csv(gzfile("data-raw/ethnologue/ethnologue.csv.gz"),
                          path = col_character(),
                          id = col_character(),
                          name = col_character(),
-                         is_language = col_integer(),
+                         is_language = col_logical(),
                          country = col_character(),
                          depth = col_integer(),
                          family = col_character(),
@@ -18,9 +21,9 @@ ethnologue <- read_csv(gzfile("data-raw/ethnologue/ethnologue.csv.gz"),
                          children = col_character(),
                          descendants = col_character()
                        )) %>%
+  filter(is_language) %>%
   select(iso_code = id, path, family, ancestors) %>%
   mutate(ancestors = str_split(ancestors, " "))
-
 
 iso_wals <- inner_join(ethnologue, wals, by = "iso_code") %>%
   select(family, iso_code, wals_code, ancestors)
@@ -35,4 +38,6 @@ wals_ethnologue_dist <-
          wals_code_to = wals_code.y,
          distance)
 
-write_csv("data/wals_ethnologue_distance.csv")
+write_csv(wals_ethnologue_dist,
+          path = gzfile(output),
+          na = "")
