@@ -545,8 +545,7 @@
   wals_codes: null
 - glottocodes: akan1250
   iso_639_3:
-  - fat
-  - twi
+  - aka
   lang_id: 260
   lang_name: Akan
   variables:
@@ -647,9 +646,9 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: konn1242
+- glottocodes: bimo1239
   iso_639_3:
-  - kma
+  - bim
   lang_id: 270
   lang_name: Gruma
   variables:
@@ -844,19 +843,7 @@
   wals_codes: null
 - glottocodes: luyi1234
   iso_639_3:
-  - bxk
-  - nle
-  - ida
-  - lkb
-  - lko
-  - lks
-  - rag
-  - lri
-  - lrm
-  - nyd
-  - lsm
-  - lts
-  - lto
+  - luy
   lang_id: 302
   lang_name: Luhya
   variables:
@@ -877,15 +864,7 @@
   wals_codes: null
 - glottocodes: kale1246
   iso_639_3:
-  - eyo
-  - sgc
-  - enb
-  - niq
-  - oki
-  - pko
-  - spy
-  - tec
-  - tuy
+  - kln
   lang_id: 304
   lang_name: Kalenjin
   variables:
@@ -1277,9 +1256,9 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: zulu1248
+- glottocodes: ngon1270
   iso_639_3:
-  - zul
+  - nya
   lang_id: 465
   lang_name: Ngoni
   variables:
@@ -1287,6 +1266,8 @@
   - Q114
   - Q3
   wals_codes: null
+  note: >-
+    Malawi
 - glottocodes: mala1256
   iso_639_3:
   - lon
@@ -1484,10 +1465,11 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: kita1249
+- glottocodes: west2499
   iso_639_3:
-  - mlg
+  - mlq
   - mwk
+  - kao
   lang_id: 509
   lang_name: Malinke
   variables:
@@ -2071,8 +2053,7 @@
   wals_codes: null
 - glottocodes: kanu1281
   iso_639_3:
-  - kby
-  - knc
+  - kau
   lang_id: 629
   lang_name: Kanuri
   note: Nigeria Kanuri languages.
@@ -2233,9 +2214,9 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: nort2775
+- glottocodes: gbag1258
   iso_639_3:
-  - gya
+  - gbr
   lang_id: 646
   lang_name: Gbagyi
   variables:
@@ -2243,6 +2224,8 @@
   - Q114
   - Q3
   wals_codes: null
+  note: >-
+    Nigeria
 - glottocodes: loka1252
   iso_639_3:
   - yaz

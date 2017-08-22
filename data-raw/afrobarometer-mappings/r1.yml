@@ -255,12 +255,13 @@
   variables:
   - language
   wals_codes: null
-- glottocodes: zulu1248
+- glottocodes: ngon1270
   iso_639_3:
-  - zul
+  - nya
   lang_id: 32
   lang_name: Ngoni
-  note: Ngoni is dialect of Zulu spokenin MW
+  note: >-
+    MW
   variables:
   - language
   wals_codes: null
@@ -306,8 +307,7 @@
   wals_codes: null
 - glottocodes: akan1250
   iso_639_3:
-  - fat
-  - twi
+  - aka
   lang_id: 41
   lang_name: Akan
   variables:
@@ -696,6 +696,7 @@
   iso_639_3:
   - mlq
   - mwk
+  - kao
   lang_id: 88
   lang_name: Malinke
   variables:
@@ -872,8 +873,7 @@
   wals_codes: null
 - glottocodes: kanu1281
   iso_639_3:
-  - kby
-  - knc
+  - kau
   lang_id: 109
   lang_name: Kanuri
   variables:
@@ -1587,13 +1587,19 @@
   wals_codes: null
 - glottocodes: sout2831
   iso_639_3:
-  - ach
-  - alz
+    - ach
+    - laj
+    - alz
+    - lth
+    - adh
+    - kdi
   lang_id: 197
   lang_name: Luo
   variables:
   - language
   wals_codes: null
+  note: >-
+    Uganda only
 - glottocodes: soga1242
   iso_639_3:
   - xog

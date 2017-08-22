@@ -12,9 +12,6 @@ OUTPUT <- project_path("data", "afrobarometer_other_to_wals.csv")
 
 misc_data <- IO$misc_data
 
-iso_to_wals <- IO$iso_to_wals %>%
-  select(iso_639_3 = iso_code, wals_code, distance, same_country)
-
 wals <- IO$wals %>%
   mutate(countrycodes = if_else(countrycodes == "", list(NULL),
                                 str_split(countrycodes, " +")))

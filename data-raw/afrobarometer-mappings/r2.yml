@@ -136,9 +136,19 @@
   - q83
   - q97
   wals_codes: null
-- glottocodes: acol1236
+- glottocodes: sout2831
   iso_639_3:
     ach:
+    - UG
+    laj:
+    - UG
+    alz:
+    - UG
+    lth:
+    - UG
+    adh:
+    - UG
+    kdi:
     - UG
     luo:
     - KE
@@ -588,8 +598,7 @@
   wals_codes: null
 - glottocodes: akan1250
   iso_639_3:
-  - fat
-  - twi
+  - aka
   lang_id: 120
   lang_name: Akan
   variables:
@@ -684,10 +693,9 @@
   - q83
   - q97
   wals_codes: null
-- glottocodes: tumb1253
+- glottocodes: ngon1270
   iso_639_3:
   - nya
-  - tum
   lang_id: 145
   lang_name: Ngoni
   variables:
@@ -842,6 +850,7 @@
   iso_639_3:
   - mlq
   - mwk
+  - kao
   lang_id: 168
   lang_name: Malinke
   variables:
@@ -869,9 +878,11 @@
   - q83
   - q97
   wals_codes: null
-- glottocodes: supy1237
+- glottocodes: nort3254
   iso_639_3:
   - spp
+  - myk
+  - shz
   lang_id: 171
   lang_name: Senufo
   variables:
@@ -1256,8 +1267,7 @@
   wals_codes: null
 - glottocodes: kanu1281
   iso_639_3:
-  - kby
-  - knc
+  - kau
   lang_id: 265
   lang_name: Kanuri
   variables:
@@ -1618,13 +1628,11 @@
   variables:
   - q83
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: nsen1242
   iso_639_3:
-  - nya
+  - nse
   lang_id: 316
   lang_name: Ngoni
-  note: Ngoni in MW can refer to dialect of Zulu (ssw), Chichewa (nya), or Matengo
-    (mgv). Chichewa is most widely spoken and thus used.
   variables:
   - q83
   wals_codes: null
@@ -1735,15 +1743,7 @@
   - ger
 - glottocodes: kale1246
   iso_639_3:
-  - eyo
-  - sgc
-  - enb
-  - niq
-  - oki
-  - pko
-  - spy
-  - tec
-  - tuy
+  - kln
   lang_id: 380
   lang_name: Kalenjin
   variables:
@@ -1769,15 +1769,7 @@
   - nan
 - glottocodes: kale1246
   iso_639_3:
-  - eyo
-  - sgc
-  - enb
-  - niq
-  - oki
-  - pko
-  - spy
-  - tec
-  - tuy
+  - kln
   lang_id: 380
   lang_name: kalenjin
   variables:
@@ -1816,19 +1808,7 @@
   wals_codes: null
 - glottocodes: luyi1234
   iso_639_3:
-  - bxk
-  - nle
-  - ida
-  - lkb
-  - lko
-  - lks
-  - rag
-  - lri
-  - lrm
-  - nyd
-  - lsm
-  - lts
-  - lto
+  - luy
   lang_id: 384
   lang_name: Luhya
   variables:
@@ -2204,15 +2184,17 @@
   variables:
   - q110
   wals_codes: null
-- glottocodes: nort2775
+- glottocodes: gbag1258
   iso_639_3:
-  - gya
+  - gbr
   lang_id: 805
   lang_name: Gbagyi
   variables:
   - q110
   - q83
   wals_codes: null
+  note: >-
+    Nigeria
 - glottocodes: idun1241
   iso_639_3:
   - ldb

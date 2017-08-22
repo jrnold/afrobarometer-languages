@@ -70,7 +70,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 1,language,30,Nyanja,11,ZM,nyan1308
 1,language,31,Tonga,4,MW,tong1321
 1,language,31,Tonga,11,ZM,tong1318
-1,language,32,Ngoni,4,MW,zulu1248
+1,language,32,Ngoni,4,MW,ngon1270
 1,language,33,Lomwe,4,MW,mala1256
 1,language,34,Tumbuka,4,MW,tumb1250
 1,language,35,Yao,4,MW,yaoo1241
@@ -288,7 +288,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 2,q110,63,Rutoro,10,UG,toor1238
 2,q110,64,Rukiga,10,UG,chig1238
 2,q110,65,Lumasaba,10,UG,masa1299
-2,q110,66,Luo,10,UG,acol1236
+2,q110,66,Luo,10,UG,sout2831
 2,q110,67,Lugbara,10,UG,lugb1240
 2,q110,68,Alur,10,UG,alur1250
 2,q110,70,Runyankole,10,UG,nyan1307
@@ -389,7 +389,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 2,q110,802,Jarawa,7,NG,jara1263
 2,q110,803,Mada,7,NG,mada1282
 2,q110,804,Ron,7,NG,ronn1241
-2,q110,805,Gbagyi,7,NG,nort2775
+2,q110,805,Gbagyi,7,NG,gbag1258
 2,q110,806,Taba,7,NG,idun1241
 2,q110,808,Okun,7,NG,yoru1245
 2,q110,809,Mgas,7,NG,ngas1240
@@ -434,7 +434,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 2,q83,63,Rutoro,10,UG,toor1238
 2,q83,64,Rukiga,10,UG,chig1238
 2,q83,65,Lumasaba,10,UG,masa1299
-2,q83,66,Luo,10,UG,acol1236
+2,q83,66,Luo,10,UG,sout2831
 2,q83,67,Lugbara,10,UG,lugb1240
 2,q83,68,Alur,10,UG,alur1250
 2,q83,69,Madi,10,UG,sout2827
@@ -486,7 +486,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 2,q83,141,Nkhonde,4,MW,nkon1246
 2,q83,143,Chewa,4,MW,nyan1308
 2,q83,144,Yao,4,MW,yaoo1241
-2,q83,145,Ngoni,4,MW,tumb1253
+2,q83,145,Ngoni,4,MW,ngon1270
 2,q83,146,Lomwe,4,MW,mala1256
 2,q83,147,Mang'anja,4,MW,nyan1308
 2,q83,148,Sena,4,MW,mala1475
@@ -504,7 +504,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 2,q83,168,Malinke,5,ML,west2499
 2,q83,169,Khassonke,5,ML,xaas1235
 2,q83,170,Maure,5,ML,hass1238
-2,q83,171,Senufo,5,ML,supy1237
+2,q83,171,Senufo,5,ML,nort3254
 2,q83,172,Mianka,5,ML,mama1271
 2,q83,173,Samoko,5,ML,duun1242
 2,q83,174,Bobo,5,ML,bomu1247
@@ -580,7 +580,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 2,q83,313,Lala,11,ZM,lala1264
 2,q83,314,Nsenga,11,ZM,nsen1242
 2,q83,315,Lenje,11,ZM,lenj1248
-2,q83,316,Ngoni,11,ZM,nyan1308
+2,q83,316,Ngoni,11,ZM,nsen1242
 2,q83,317,Namwanga,11,ZM,nyam1275
 2,q83,318,Lambya,11,ZM,lamb1272
 2,q83,319,Soli,11,ZM,soli1239
@@ -622,7 +622,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 2,q83,800,Berom,7,NG,bero1242
 2,q83,801,Chip,7,NG,mish1244
 2,q83,802,Jarawa,7,NG,jara1263
-2,q83,805,Gbagyi,7,NG,nort2775
+2,q83,805,Gbagyi,7,NG,gbag1258
 2,q83,806,Jaba,7,NG,idun1241
 2,q83,807,Esan,7,NG,esan1238
 2,q83,809,Mgas,7,NG,ngas1240
@@ -670,7 +670,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 2,q97,63,Rutoro,10,UG,toor1238
 2,q97,64,Rukiga,10,UG,chig1238
 2,q97,65,Lumasaba,10,UG,masa1299
-2,q97,66,Luo,10,UG,acol1236
+2,q97,66,Luo,10,UG,sout2831
 2,q97,67,Lugbara,10,UG,lugb1240
 2,q97,68,Alur,10,UG,alur1250
 2,q97,69,Madi,10,UG,sout2827
@@ -723,7 +723,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 2,q97,167,Sonrhai,5,ML,song1307
 2,q97,168,Malinke,5,ML,west2499
 2,q97,169,Khassonke,5,ML,xaas1235
-2,q97,171,Senufo,5,ML,supy1237
+2,q97,171,Senufo,5,ML,nort3254
 2,q97,172,Mianka,5,ML,mama1271
 2,q97,176,Dogon,5,ML,dogo1299
 2,q97,177,Tamasheq,5,ML,tuar1240
@@ -937,7 +937,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 3,q103,367,Bamabara,13,SN,mand1436
 3,q103,406,Alur,16,UG,alur1250
 3,q103,407,Ateso,16,UG,teso1249
-3,q103,413,Luo,16,UG,acol1236
+3,q103,413,Luo,16,UG,sout2831
 3,q103,414,Lugbara,16,UG,lugb1240
 3,q103,416,Madi,16,UG,sout2827
 3,q103,417,Luganda,16,UG,gand1255
@@ -1046,7 +1046,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 3,q114,381,Kichaga,15,TZ,moch1256
 3,q114,406,Alur,16,UG,alur1250
 3,q114,407,Ateso,16,UG,teso1249
-3,q114,413,Luo,16,UG,acol1236
+3,q114,413,Luo,16,UG,sout2831
 3,q114,414,Lugbara,16,UG,lugb1240
 3,q114,417,Luganda,16,UG,gand1255
 3,q114,418,Lumasaba,16,UG,masa1299
@@ -1167,7 +1167,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 3,q3,262,Lambya,8,MW,lamb1272
 3,q3,263,Chewa,8,MW,nyan1308
 3,q3,264,Yao,8,MW,yaoo1241
-3,q3,265,Ngoni,8,MW,tumb1253
+3,q3,265,Ngoni,8,MW,ngon1270
 3,q3,266,Lomwe,8,MW,mala1256
 3,q3,267,Manga'nja,8,MW,nyan1308
 3,q3,268,Sena,8,MW,mala1475
@@ -1275,7 +1275,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 3,q3,410,Kakwa,16,UG,kakw1240
 3,q3,411,Kumam,16,UG,kuma1275
 3,q3,412,Kuksabin,16,UG,kups1238
-3,q3,413,Luo,16,UG,acol1236
+3,q3,413,Luo,16,UG,sout2831
 3,q3,414,Lugbara,16,UG,lugb1240
 3,q3,415,Lugwere,16,UG,gwer1238
 3,q3,416,Madi,16,UG,sout2827
@@ -1538,13 +1538,13 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q114,421,Malagasy with regional variation,9,MG,mala1537
 4,Q114,460,Tumbuka,10,MW,tumb1250
 4,Q114,463,Chewa,10,MW,nyan1308
-4,Q114,465,Ngoni,10,MW,zulu1248
+4,Q114,465,Ngoni,10,MW,ngon1270
 4,Q114,466,Lomwe,10,MW,mala1256
 4,Q114,467,Mang'anja,10,MW,nyan1308
 4,Q114,473,Ndali,10,MW,ndal1241
 4,Q114,501,Bambara,11,ML,bamb1269
 4,Q114,506,Dogon,11,ML,dogo1299
-4,Q114,509,Malinke,11,ML,kita1249
+4,Q114,509,Malinke,11,ML,west2499
 4,Q114,512,Peulh/ Fulfulde,11,ML,maas1239
 4,Q114,513,Senufo/ Mianka,11,ML,mama1271
 4,Q114,514,Soninke/ Sarakoll,11,ML,soni1259
@@ -1584,7 +1584,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q114,640,Esan,14,NG,esan1238
 4,Q114,643,Igede,14,NG,iged1239
 4,Q114,645,Marghi,14,NG,bura1296
-4,Q114,646,Gbagyi,14,NG,nort2775
+4,Q114,646,Gbagyi,14,NG,gbag1258
 4,Q114,647,Ugep,14,NG,loka1252
 4,Q114,648,Kambari,14,NG,loka1252
 4,Q114,649,Eggon,14,NG,eggo1239
@@ -1733,7 +1733,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q3,267,Brosa,5,GH,anyi1245
 4,Q3,268,Sefwi,5,GH,sehw1238
 4,Q3,269,Dagaari,5,GH,sout2789
-4,Q3,270,Gruma,5,GH,konn1242
+4,Q3,270,Gruma,5,GH,bimo1239
 4,Q3,271,Frafra,5,GH,fare1241
 4,Q3,272,Kokonba,5,GH,konk1269
 4,Q3,273,Dagate,5,GH,sout2789
@@ -1790,7 +1790,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q3,462,Lambya,10,MW,lamb1272
 4,Q3,463,Chewa,10,MW,nyan1308
 4,Q3,464,Yao,10,MW,yaoo1241
-4,Q3,465,Ngoni,10,MW,zulu1248
+4,Q3,465,Ngoni,10,MW,ngon1270
 4,Q3,466,Lomwe,10,MW,mala1256
 4,Q3,467,Mang'anja,10,MW,nyan1308
 4,Q3,468,Sena,10,MW,mala1475
@@ -1809,7 +1809,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q3,504,Bozo,11,ML,nucl1444
 4,Q3,506,Dogon,11,ML,dogo1299
 4,Q3,508,Khassonke,11,ML,xaas1235
-4,Q3,509,Malinke,11,ML,kita1249
+4,Q3,509,Malinke,11,ML,west2499
 4,Q3,510,Maure,11,ML,hass1238
 4,Q3,511,Mossi,11,ML,moss1236
 4,Q3,512,Peulh/ Fulfulde,11,ML,maas1239
@@ -1880,7 +1880,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q3,643,Igede,14,NG,iged1239
 4,Q3,644,Babur,14,NG,bura1292
 4,Q3,645,Marghi,14,NG,bura1296
-4,Q3,646,Gbagyi,14,NG,nort2775
+4,Q3,646,Gbagyi,14,NG,gbag1258
 4,Q3,647,Ugep,14,NG,loka1252
 4,Q3,648,Kambari,14,NG,loka1252
 4,Q3,649,Eggon,14,NG,eggo1239
@@ -2077,8 +2077,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q103,15,Fulfuldé,23,NE,cent2018
 5,Q103,17,Hausa,5,GH,haus1257
 5,Q103,17,Hausa,14,NG,haus1257
-5,Q103,26,Luo,6,KE,luok1236
-5,Q103,26,Luo,18,UG,acol1236
+5,Q103,26,Luo,6,KE,
+5,Q103,26,Luo,18,UG,
 5,Q103,29,Ndau,12,MZ,ndau1241
 5,Q103,29,Ndau,20,ZW,ndau1241
 5,Q103,35,siSwati,16,ZA,swat1243
@@ -2278,7 +2278,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q116,554,Chitewe,12,MZ,tewe1238
 5,Q116,555,Chitswa,12,MZ,tswa1255
 5,Q116,582,Nama/Damara,13,NA,nama1264
-5,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,ndon1254
+5,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,ndon1253
 5,Q116,584,Otjiherero,13,NA,here1253
 5,Q116,585,Rukwangali,13,NA,kwan1273
 5,Q116,586,Rugririku/Rumanyo,13,NA,diri1252
@@ -2512,8 +2512,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q2,24,Lamba,24,TG,lama1275
 5,Q2,25,Lobi,3,BF,lobi1245
 5,Q2,25,Lobi,27,CI,lobi1245
-5,Q2,26,Luo,6,KE,luok1236
-5,Q2,26,Luo,18,UG,acol1236
+5,Q2,26,Luo,6,KE,
+5,Q2,26,Luo,18,UG,
 5,Q2,27,Mano,8,LR,mann1248
 5,Q2,27,Mano,28,GN,mann1248
 5,Q2,28,Mende,8,LR,mend1266
@@ -2641,7 +2641,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q2,420,"""Official"" Malagasy",9,MG,plat1254
 5,Q2,421,Malagasy dialect,9,MG,mala1537
 5,Q2,460,Chitumbuka,10,MW,tumb1250
-5,Q2,461,Chinkhonde,10,MW,nyak1260
+5,Q2,461,Chinkhonde,10,MW,nkon1246
 5,Q2,462,Chilambya,10,MW,lamb1272
 5,Q2,464,Chiyao,10,MW,yaoo1241
 5,Q2,465,Chingoni,10,MW,nyan1308
@@ -2649,7 +2649,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q2,467,Chimang’anja,10,MW,mala1475
 5,Q2,468,Chisena,10,MW,mala1475
 5,Q2,469,Chisukwa,10,MW,ndal1241
-5,Q2,470,Chisenga,10,MW,nyik1246
+5,Q2,470,Chisenga,10,MW,seng1277
 5,Q2,472,Chindali,10,MW,ndal1241
 5,Q2,473,Chinyakyusa,10,MW,nyak1260
 5,Q2,502,Bella,11,ML,koyr1242
@@ -2688,7 +2688,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q2,562,Chimanica,12,MZ,many1258
 5,Q2,581,German,13,NA,stan1295
 5,Q2,582,Nama/Damara,13,NA,nama1264
-5,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,ndon1254
+5,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,ndon1253
 5,Q2,584,Otjiherero,13,NA,here1253
 5,Q2,585,Rukwangali,13,NA,kwan1273
 5,Q2,586,Rugririku/Rumanyo,13,NA,diri1252
@@ -3055,8 +3055,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q103,15,Dioula,8,CI,dyul1238
 6,Q103,16,Ewe,11,GH,ewee1241
 6,Q103,16,Ewe,32,TG,ewee1241
-6,Q103,18,Fulfuldé,4,BF,fula1269
-6,Q103,18,Fulfuldé,23,NE,fula1269
+6,Q103,18,Fulfuldé,4,BF,west2454
+6,Q103,18,Fulfuldé,23,NE,cent2018
 6,Q103,20,Hausa,11,GH,haus1257
 6,Q103,20,Hausa,24,NG,haus1257
 6,Q103,32,Tamasheq,18,ML,tuar1240
@@ -3087,7 +3087,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q103,304,Kalenjin,13,KE,kale1246
 6,Q103,305,Kisii,13,KE,gusi1247
 6,Q103,306,Meru/Samburu,13,KE,meru1245
-6,Q103,307,Maasai / Samburu,13,KE,masa1300
+6,Q103,307,Maasai / Samburu,13,KE,nucl1431
 6,Q103,310,Somali,13,KE,soma1255
 6,Q103,340,Sesotho,14,LS,sout2807
 6,Q103,380,Liberian English,15,LR,libe1240
@@ -3103,7 +3103,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q103,541,Sena,21,MZ,nucl1396
 6,Q103,542,Ndau,21,MZ,ndau1241
 6,Q103,543,Changana,21,MZ,tson1249
-6,Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,ndon1254
+6,Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,ndon1253
 6,Q103,582,Otjiherero,22,NA,here1253
 6,Q103,583,Rukwangali,22,NA,kwan1273
 6,Q103,621,Igbo,24,NG,nucl1417
@@ -3123,7 +3123,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q103,783,Lusoga,34,UG,soga1242
 6,Q103,784,Lumasaaba,34,UG,masa1299
 6,Q103,787,Ateso,34,UG,teso1249
-6,Q103,788,Acholi-Langi,34,UG,acol1236
+6,Q103,788,Acholi-Langi,34,UG,sout2831
 6,Q103,789,Alur,34,UG,alur1250
 6,Q103,790,Lugbara,34,UG,lugb1240
 6,Q103,792,Japadhola,34,UG,adho1243
@@ -3190,8 +3190,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q116,13,Bobo,18,ML,bomu1247
 6,Q116,16,Ewe,11,GH,ewee1241
 6,Q116,16,Ewe,32,TG,ewee1241
-6,Q116,18,Fulfuldé,4,BF,fula1269
-6,Q116,18,Fulfuldé,23,NE,fula1269
+6,Q116,18,Fulfuldé,4,BF,west2454
+6,Q116,18,Fulfuldé,23,NE,cent2018
 6,Q116,20,Hausa,11,GH,haus1257
 6,Q116,20,Hausa,24,NG,haus1257
 6,Q116,28,Nyanja,21,MZ,nyan1308
@@ -3234,8 +3234,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q116,302,Luhya,13,KE,luyi1234
 6,Q116,303,Kamba,13,KE,kamb1297
 6,Q116,305,Kisii,13,KE,gusi1247
-6,Q116,306,Meru/Embu,13,KE,meru1245
-6,Q116,307,Maasai/Samburu,13,KE,masa1300
+6,Q116,306,Meru/Embu,13,KE,cent2274
+6,Q116,307,Maasai/Samburu,13,KE,nucl1431
 6,Q116,310,Somali,13,KE,soma1255
 6,Q116,340,Sesotho,14,LS,sout2807
 6,Q116,380,Bassa,15,LR,nucl1418
@@ -3468,14 +3468,14 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q2,16,Ewe,32,TG,ewee1241
 6,Q2,17,Fon,2,BJ,fonn1241
 6,Q2,17,Fon,32,TG,fonn1241
-6,Q2,18,Fulfuldé,4,BF,fula1269
-6,Q2,18,Fulfuldé,23,NE,fula1269
+6,Q2,18,Fulfuldé,4,BF,west2454
+6,Q2,18,Fulfuldé,23,NE,cent2018
 6,Q2,19,Haoussa,6,CM,haus1257
 6,Q2,19,Haoussa,23,NE,haus1257
 6,Q2,19,Haoussa,32,TG,haus1257
 6,Q2,20,Hausa,11,GH,haus1257
 6,Q2,20,Hausa,24,NG,haus1257
-6,Q2,21,Kanuri,23,NE,kanu1279
+6,Q2,21,Kanuri,23,NE,kanu1281
 6,Q2,21,Kanuri,24,NG,kanu1281
 6,Q2,22,Kissi,15,LR,sout2778
 6,Q2,22,Kissi,27,SL,kiss1245
@@ -3555,8 +3555,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q2,303,Kamba,13,KE,kamb1297
 6,Q2,304,Kalenjin,13,KE,kale1246
 6,Q2,305,Kisii,13,KE,gusi1247
-6,Q2,306,Meru/Embu,13,KE,meru1245
-6,Q2,307,Maasai/Samburu,13,KE,masa1300
+6,Q2,306,Meru/Embu,13,KE,cent2274
+6,Q2,307,Maasai/Samburu,13,KE,nucl1431
 6,Q2,308,Mijikenda,13,KE,miji1238
 6,Q2,309,Taita,13,KE,tait1250
 6,Q2,310,Somali,13,KE,soma1255
@@ -3593,7 +3593,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q2,467,Chimang'anja,17,MW,mala1475
 6,Q2,468,Chisena,17,MW,mala1475
 6,Q2,469,Chisukwa,17,MW,ndal1241
-6,Q2,470,Chisenga,17,MW,tumb1250
+6,Q2,470,Chisenga,17,MW,seng1277
 6,Q2,471,Chitonga,17,MW,tong1321
 6,Q2,502,Bella,18,ML,koyr1242
 6,Q2,504,Bozo,18,ML,nucl1444

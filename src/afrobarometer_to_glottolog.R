@@ -81,7 +81,7 @@ if (nrow(to_glottolog_langmiss)) {
   stop("Invalid Afrobarometer languages found")
 }
 
-#' All Afrobarometer codes should be acounted for
+#' If ISO code is non-missing, then the Glottocode should also be non-missing
 to_glottolog_nonmatches <-
   IO$afrobarometer_langs %>%
   anti_join(filter(IO$afrobarometer_to_iso, iso_scope == "S"),
@@ -93,7 +93,24 @@ if (nrow(to_glottolog_nonmatches)) {
   stop("Unaccounted for non-matches found")
 }
 
-#' All Glottocode languages should be accounted
+#' Check that all combinations of (country, language name)
+#' match the same Glottocodes across rounds
+inconsistent_mappings <-
+  afrobarometer_to_glottolog %>%
+  #' Arabic is handled differently
+  filter(!is.na(glottocode),
+         lang_name != "Arabic") %>%
+  group_by(round, variable, lang_name, iso_alpha2) %>%
+  summarise(glottocode = str_c(sort(unique(glottocode)), collapse = " ")) %>%
+  group_by(iso_alpha2, lang_name) %>%
+  filter(length(unique(glottocode)) > 1) %>%
+  arrange(lang_name, iso_alpha2)
+if (nrow(inconsistent_mappings)) {
+  print(inconsistent_mappings)
+  stop("There are inconsistent mappings across rounds in afrobaromter_to_glottolog")
+}
+
+#' All languages should be in the African Macroarea
 glottolog_non_african <-
   afrobarometer_to_glottolog %>%
     filter(!is.na(glottocode)) %>%
@@ -105,6 +122,43 @@ if (nrow(glottolog_non_african)) {
   print(select(macroarea, glottolog_non_african, glottocode,  lang_name,
                round, variable, lang_id))
   stop("Non-African Glottolog languages found")
+}
+
+col_types <- cols(
+  iso_alpha2 = col_character(),
+  east = col_double(),
+  west = col_double(),
+  north = col_double(),
+  south = col_double(),
+  languages = col_character(),
+  longitude = col_double(),
+  latitude = col_double()
+)
+country_geo <- read_csv("data-raw/country_geo_info.csv", col_types = col_types,
+                        na = "")
+col_types <- cols(
+  iso_alpha2 = col_character(),
+  glottocode = col_character()
+)
+known_country_non_matches <- read_csv("data-raw/afrobarometer_to_glottocode_country_non_matches.csv", col_types = col_types, na = "")
+
+#' Check that language location is either inside the bounding box of the country
+#' or accounted for
+COMMON_LANGS <- c("stan1293", "port1283", "stan1290")
+country_non_matches <- left_join(afrobarometer_to_glottolog,
+                      select(country_geo, iso_alpha2, east, west, north, south),
+                      by = "iso_alpha2") %>%
+  left_join(select(IO$glottolog, glottocode, longitude, latitude),
+            by = "glottocode") %>%
+  filter(longitude < west | longitude > east |
+           latitude > north | latitude < south) %>%
+  filter(!glottocode %in% COMMON_LANGS) %>%
+  anti_join(known_country_non_matches, by = c("iso_alpha2", "glottocode")) %>%
+  select(lang_name, iso_alpha2, glottocode) %>%
+  distinct()
+if (nrow(country_non_matches)) {
+  print(country_non_matches)
+  stop("Language matches outside the country in afrobarometer_to_glottocode")
 }
 
 #' Write data

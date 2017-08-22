@@ -437,8 +437,7 @@
   - gbc
 - glottocodes: akan1250
   iso_639_3:
-  - fat
-  - twi
+  - aka
   lang_id: 180
   lang_name: AKAN
   variables:
@@ -487,7 +486,7 @@
   wals_codes: null
 - glottocodes: null
   iso_639_3:
-  - mul
+  - und
   lang_id: 183
   lang_name: Other Northern Languages
   variables:
@@ -549,19 +548,7 @@
   wals_codes: null
 - glottocodes: luyi1234
   iso_639_3:
-  - bxk
-  - nle
-  - ida
-  - lkb
-  - lko
-  - lks
-  - rag
-  - lri
-  - lrm
-  - nyd
-  - lsm
-  - lts
-  - lto
+  - luy
   lang_id: 202
   lang_name: Luhya
   variables:
@@ -603,15 +590,7 @@
   wals_codes: null
 - glottocodes: kale1246
   iso_639_3:
-  - eyo
-  - sgc
-  - enb
-  - niq
-  - oki
-  - pko
-  - spy
-  - tec
-  - tuy
+  - kln
   lang_id: 206
   lang_name: Kalenjin
   variables:
@@ -979,10 +958,9 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: tumb1253
+- glottocodes: ngon1270
   iso_639_3:
   - nya
-  - tum
   lang_id: 265
   lang_name: Ngoni
   variables:
@@ -990,6 +968,8 @@
   - q114
   - q3
   wals_codes: null
+  note: >-
+    MW
 - glottocodes: mala1256
   iso_639_3:
   - lon
@@ -1130,6 +1110,7 @@
   iso_639_3:
   - mlq
   - mwk
+  - kao
   lang_id: 286
   lang_name: Malinké
   variables:
@@ -1697,8 +1678,7 @@
   wals_codes: null
 - glottocodes: kanu1281
   iso_639_3:
-  - kby
-  - knc
+  - kau
   lang_id: 349
   lang_name: Kanuri
   note: Nigeria
@@ -2147,12 +2127,20 @@
   variables:
   - q3
   wals_codes: null
-- glottocodes: acol1236
+- glottocodes: sout2831
   iso_639_3:
-  - ach
+    - ach
+    - laj
+    - alz
+    - lth
+    - adh
+    - kdi
   lang_id: 413
   lang_name: Luo
-  note: Uganda (UG). Use Acholi.
+  note: >-
+    Uganda (UG). Use the Uganda languages in
+    https://www.ethnologue.com/subgroups/southern-41
+
   variables:
   - q103
   - q114

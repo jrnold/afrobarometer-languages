@@ -252,7 +252,9 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: fula1269
+- glottocodes:
+    BF: west2454
+    NE: cent2018
   iso_639_3:
     fuh:
     - NE
@@ -285,20 +287,9 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes:
-    NE: kanu1279
-    NG: kanu1281
+- glottocodes: kanu1281
   iso_639_3:
-    bms:
-    - NE
-    kby:
-    - NE
-    - NG
-    knc:
-    - NE
-    - NG
-    krt:
-    - NE
+    - kau
   lang_id: 21
   lang_name: Kanuri
   note: Niger (NE) and Nigeria (NG). Macrolanguage https://www-ethnologue-com.offcampus.lib.washington.edu/language/kau
@@ -836,8 +827,7 @@
   wals_codes: null
 - glottocodes: akan1250
   iso_639_3:
-  - twi
-  - fat
+  - aka
   lang_id: 260
   lang_name: Akan
   note: Akan is an ISO 639-3 Macrolanguage (Aka). Neither Fanti nor Twi appear in
@@ -1038,19 +1028,7 @@
   wals_codes: null
 - glottocodes: luyi1234
   iso_639_3:
-  - bxk
-  - nle
-  - ida
-  - lkb
-  - lko
-  - lks
-  - rag
-  - lri
-  - lrm
-  - nyd
-  - lsm
-  - lts
-  - lto
+  - luy
   lang_id: 302
   lang_name: Luhya
   note: Luhya is an ISO 639-3 macrolanguage. Include its component languages.
@@ -1072,15 +1050,7 @@
   wals_codes: null
 - glottocodes: kale1246
   iso_639_3:
-  - eyo
-  - sgc
-  - enb
-  - niq
-  - oki
-  - pko
-  - spy
-  - tec
-  - tuy
+  - kln
   lang_id: 304
   lang_name: Kalenjin
   note: Kalenjin is a macrolanguage in ISO-639-3.
@@ -1111,36 +1081,35 @@
   variables:
   - Q103
   wals_codes: null
-- glottocodes: meru1245
+- glottocodes: cent2274
   iso_639_3:
   - mer
+  - ebu
   lang_id: 306
   lang_name: Meru/Embu
   note: 'Meru is a dialect of Kimiiru and diff from Meru of Tanzania (rnk).
 
-    Meru (mer) and Embu (emu) are distinct languages. Use only the first mentioned
+    Meru (mer) and Embu (ebu) are distinct languages. Use only the first mentioned
     language.'
   variables:
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: masa1300
+- glottocodes: nucl1431
   iso_639_3:
   - mas
+  - saq
   lang_id: 307
   lang_name: Maasai / Samburu
-  note: Maasai  (mer) and Samburu (saq) are distinct languages. Use only the first
-    mentioned language.
   variables:
   - Q103
   wals_codes: null
-- glottocodes: masa1300
+- glottocodes: nucl1431
   iso_639_3:
   - mas
+  - saq
   lang_id: 307
   lang_name: Maasai/Samburu
-  note: Maasai  (mer) and Samburu (saq) are distinct languages. Use only the first
-    mentioned language.
   variables:
   - Q116
   - Q2
@@ -1515,15 +1484,22 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: tumb1250
+- glottocodes: seng1277
   iso_639_3:
   - tum
   lang_id: 470
   lang_name: Chisenga
-  note: Malawi
   variables:
   - Q2
   wals_codes: null
+  note: >-
+    Malawi. This could be several langauges
+
+    - Sena (Chisena) [swk]
+    - Senga dialect of Tumbuka [tum]
+    - Nsenga [nse] of Zambia, but Glottolog doesn't indicate that it spoken
+      in Malawi only ZM, MZ, ZW
+
 - glottocodes: tong1321
   iso_639_3:
   - tog
@@ -1808,9 +1784,10 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: ndon1254
+- glottocodes: ndon1253
   iso_639_3:
   - ndo
+  - kua
   lang_id: 581
   lang_name: Oshiwambo (Oshindonga/Oshikwanyama)
   variables:
@@ -2903,9 +2880,10 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: acol1236
+- glottocodes: sout2831
   iso_639_3:
   - ach
+  - laj
   lang_id: 788
   lang_name: Acholi-Langi
   note: Acholi

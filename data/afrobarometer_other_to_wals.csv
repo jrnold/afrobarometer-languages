@@ -717,7 +717,6 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 5,Q103OTHER,22,LIMBA,SL,kss,Kisi (Southern),0
 5,Q103OTHER,22,LIMBA,SL,tne,Temne,0
 5,Q103OTHER,22,SHERBRO,SL,kis,Kisi,1
-5,Q103OTHER,22,SHERBRO,SL,kss,Kisi (Southern),1
 5,Q103OTHER,24,AKEBOU,TG,avt,Avatime,1
 5,Q103OTHER,24,AKEBOU,TG,kpo,Kposo,1
 5,Q103OTHER,24,GANGAN,TG,,,
@@ -968,7 +967,6 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 5,Q2OTHER,5,NKURA,GH,tem,Tem,1
 5,Q2OTHER,5,NKURA,GH,tmp,Tampulma,1
 5,Q2OTHER,5,NKURA,GH,tou,Toussian,1
-5,Q2OTHER,5,NKURA,GH,tow,Toussian (Win),1
 5,Q2OTHER,5,NKURA,GH,vag,Vagla,1
 5,Q2OTHER,5,NKURA,GH,wwa,Waama,1
 5,Q2OTHER,5,NKURA,GH,xsm,Kàsim,1
@@ -2283,7 +2281,6 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 6,Q103OTHER,26,SERERE,SN,fus,Fula (Senegal),1
 6,Q103OTHER,27,FULLAH,SL,fgu,Fula (Guinean),1
 6,Q103OTHER,27,KISSI,SL,kis,Kisi,1
-6,Q103OTHER,27,KISSI,SL,kss,Kisi (Southern),1
 6,Q103OTHER,28,KHOISAN,ZA,kho,Khoekhoe,1
 6,Q103OTHER,28,Ndebela,ZA,ndb,Ndebele (in South Africa),1
 6,Q103OTHER,28,PEDI,ZA,stn,Sotho (Northern),1
@@ -2546,7 +2543,6 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 6,Q2OTHER,4,VIGUE,BF,tem,Tem,1
 6,Q2OTHER,4,VIGUE,BF,tmp,Tampulma,1
 6,Q2OTHER,4,VIGUE,BF,tou,Toussian,1
-6,Q2OTHER,4,VIGUE,BF,tow,Toussian (Win),1
 6,Q2OTHER,4,VIGUE,BF,vag,Vagla,1
 6,Q2OTHER,4,VIGUE,BF,wwa,Waama,1
 6,Q2OTHER,4,VIGUE,BF,xsm,Kàsim,1
@@ -3073,7 +3069,6 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 6,Q2OTHER,12,GUERZE,GN,kpe,Kpelle,1
 6,Q2OTHER,12,GURERZE,GN,kpe,Kpelle,1
 6,Q2OTHER,12,KISSI,GN,kis,Kisi,1
-6,Q2OTHER,12,KISSI,GN,kss,Kisi (Southern),1
 6,Q2OTHER,12,KONO,GN,kpe,Kpelle,1
 6,Q2OTHER,12,KONON,GN,kpe,Kpelle,1
 6,Q2OTHER,12,LANDOUMA,GN,bgs,Baga Sitemu,1

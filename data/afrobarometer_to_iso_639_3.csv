@@ -72,15 +72,13 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,30,Nyanja,11,ZM,nya,Nyanja,I
 1,language,31,Tonga,4,MW,tog,Tonga (Nyasa),I
 1,language,31,Tonga,11,ZM,toi,Tonga (Zambia),I
-1,language,32,Ngoni,4,MW,zul,Zulu,I
+1,language,32,Ngoni,4,MW,nya,Nyanja,I
 1,language,33,Lomwe,4,MW,lon,Malawi Lomwe,I
 1,language,34,Tumbuka,4,MW,tum,Tumbuka,I
 1,language,35,Yao,4,MW,yao,Yao,I
 1,language,37,Nkhonde,4,MW,nyy,Nyakyusa-Ngonde,I
 1,language,38,Lambya,4,MW,lai,Lambya,I
 1,language,41,Akan,2,GH,aka,Akan,M
-1,language,41,Akan,2,GH,fat,Fanti,I
-1,language,41,Akan,2,GH,twi,Twi,I
 1,language,42,Dangaare,2,GH,dga,Southern Dagaare,I
 1,language,43,Dagbane,2,GH,dag,Dagbani,I
 1,language,44,Ewe,2,GH,ewe,Ewe,I
@@ -132,12 +130,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,83,Nkona,2,GH,nko,Nkonya,I
 1,language,84,Bambara,5,ML,bam,Bambara,I
 1,language,85,Fulfulde/Peul,5,ML,ffm,Maasina Fulfulde,I
-1,language,85,Fulfulde/Peul,5,ML,ful,Fulah,M
 1,language,86,Senufo,5,ML,myk,Mamara Senoufo,I
 1,language,86,Senufo,5,ML,shz,Syenara Senoufo,I
 1,language,86,Senufo,5,ML,spp,Supyire Senoufo,I
 1,language,87,Soninke,5,ML,snk,Soninke,I
-1,language,88,Malinke,5,ML,man,Mandingo,M
+1,language,88,Malinke,5,ML,kao,Xaasongaxango,I
 1,language,88,Malinke,5,ML,mlq,Western Maninkakan,I
 1,language,88,Malinke,5,ML,mwk,Kita Maninkakan,I
 1,language,89,Sonrhai,5,ML,hmb,Humburi Senni Songhay,I
@@ -147,7 +144,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,90,Dogon,5,ML,djm,Jamsay Dogon,I
 1,language,90,Dogon,5,ML,dts,Toro So Dogon,I
 1,language,91,Tamasheq,5,ML,taq,Tamasheq,I
-1,language,91,Tamasheq,5,ML,tmh,Tamashek,M
 1,language,91,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
 1,language,92,Bobo,5,ML,bmq,Bomu,I
 1,language,93,Bozo,5,ML,boz,Tiéyaxo Bozo,I
@@ -168,8 +164,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,107,Ijaw,7,NG,ijs,Southeast Ijo,I
 1,language,108,Nupe,7,NG,nup,Nupe-Nupe-Tako,I
 1,language,109,Kanuri,7,NG,kau,Kanuri,M
-1,language,109,Kanuri,7,NG,kby,Manga Kanuri,I
-1,language,109,Kanuri,7,NG,knc,Central Kanuri,I
 1,language,110,Ibibio-Efik,7,NG,efi,Efik,I
 1,language,110,Ibibio-Efik,7,NG,ibb,Ibibio,I
 1,language,111,Edo,7,NG,bin,Bini,I
@@ -204,10 +198,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,141,Kalabari,7,NG,ijn,Kalabari,I
 1,language,142,Ogoni,7,NG,ogo,Khana,I
 1,language,143,Akassa,7,NG,ijs,Southeast Ijo,I
-1,language,145,Berieberi,7,NG,kau,Kanuri,M
 1,language,145,Berieberi,7,NG,knc,Central Kanuri,I
 1,language,146,Fulani,7,NG,fub,Adamawa Fulfulde,I
-1,language,146,Fulani,7,NG,ful,Fulah,M
 1,language,147,Kagoro,7,NG,kcg,Tyap,I
 1,language,148,Bekwarr,7,NG,bkv,Bekwarra,I
 1,language,149,Nkwana,7,NG,mis,Uncoded languages,S
@@ -251,9 +243,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,180,Tangale,7,NG,tan,Tangale,I
 1,language,181,Waja,7,NG,wja,Waja,I
 1,language,182,Jukun,7,NG,jbu,Jukun Takum,I
-1,language,183,Bayam,7,NG,gba,Gbaya (Central African Republic),M
 1,language,183,Bayam,7,NG,gya,Northwest Gbaya,I
-1,language,184,Shuwa Arab,7,NG,ara,Arabic,M
 1,language,184,Shuwa Arab,7,NG,shu,Chadian Arabic,I
 1,language,185,Ndochi,7,NG,mis,Uncoded languages,S
 1,language,186,Kare Kare,7,NG,kai,Karekare,I
@@ -264,13 +254,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,190,Ateso,10,UG,teo,Teso,I
 1,language,191,Kakwa,10,UG,keo,Kakwa,I
 1,language,192,Kinyarwanda,10,UG,kin,Kinyarwanda,I
-1,language,193,Kiswahili,10,UG,swa,Swahili (macrolanguage),M
 1,language,193,Kiswahili,10,UG,swh,Swahili (individual language),I
 1,language,194,Luganda,10,UG,lug,Ganda,I
 1,language,195,Lugbara,10,UG,lgg,Lugbara,I
 1,language,196,Lumasaba,10,UG,myx,Masaaba,I
 1,language,197,Luo,10,UG,ach,Acoli,I
+1,language,197,Luo,10,UG,adh,Adhola,I
 1,language,197,Luo,10,UG,alz,Alur,I
+1,language,197,Luo,10,UG,kdi,Kumam,I
+1,language,197,Luo,10,UG,laj,Lango (Uganda),I
+1,language,197,Luo,10,UG,lth,Thur,I
 1,language,198,Lusoga,10,UG,xog,Soga,I
 1,language,199,Madi,10,UG,mhi,Ma'di,I
 1,language,199,Madi,10,UG,snm,Southern Ma'di,I
@@ -280,8 +273,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,203,Rutooro,10,UG,ttj,Tooro,I
 1,language,204,Ruyankole,10,UG,nyn,Nyankole,I
 1,language,205,Samia-Lugwe,10,UG,lsm,Saamia,I
-1,language,205,Samia-Lugwe,10,UG,luy,Luyia,M
-1,language,206,Swahili,9,TZ,swa,Swahili (macrolanguage),M
 1,language,206,Swahili,9,TZ,swh,Swahili (individual language),I
 1,language,207,Chagga,9,TZ,old,Mochi,I
 1,language,208,Kurya,9,TZ,kuj,Kuria,I
@@ -325,9 +316,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q110,2,French,5,ML,fra,French,I
 2,q110,2,French,16,SN,fra,French,I
 2,q110,3,Portuguese,15,MZ,por,Portuguese,I
-2,q110,4,Kiswahili,14,KE,swa,Swahili (macrolanguage),M
 2,q110,4,Kiswahili,14,KE,swh,Swahili (individual language),I
-2,q110,4,Kiswahili,9,TZ,swa,Swahili (macrolanguage),M
 2,q110,4,Kiswahili,9,TZ,swh,Swahili (individual language),I
 2,q110,50,Crioulo,13,CV,kea,Kabuverdianu,I
 2,q110,60,Luganda,10,UG,lug,Ganda,I
@@ -337,11 +326,15 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q110,64,Rukiga,10,UG,cgg,Chiga,I
 2,q110,65,Lumasaba,10,UG,myx,Masaaba,I
 2,q110,66,Luo,10,UG,ach,Acoli,I
+2,q110,66,Luo,10,UG,adh,Adhola,I
+2,q110,66,Luo,10,UG,alz,Alur,I
+2,q110,66,Luo,10,UG,kdi,Kumam,I
+2,q110,66,Luo,10,UG,laj,Lango (Uganda),I
+2,q110,66,Luo,10,UG,lth,Thur,I
 2,q110,67,Lugbara,10,UG,lgg,Lugbara,I
 2,q110,68,Alur,10,UG,alz,Alur,I
 2,q110,70,Runyankole,10,UG,nyn,Nyankole,I
 2,q110,73,Samia-Lugwe,10,UG,lsm,Saamia,I
-2,q110,73,Samia-Lugwe,10,UG,luy,Luyia,M
 2,q110,81,Emakhuwa,15,MZ,vmw,Makhuwa,I
 2,q110,82,Cisena,15,MZ,seh,Sena,I
 2,q110,83,Cindau,15,MZ,ndc,Ndau,I
@@ -366,8 +359,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q110,108,Venda,8,ZA,ven,Venda,I
 2,q110,109,Zulu,8,ZA,zul,Zulu,I
 2,q110,120,Akan,2,GH,aka,Akan,M
-2,q110,120,Akan,2,GH,fat,Fanti,I
-2,q110,120,Akan,2,GH,twi,Twi,I
 2,q110,121,Dagbani,2,GH,dag,Dagbani,I
 2,q110,122,Ewe,2,GH,ewe,Ewe,I
 2,q110,123,Ga,2,GH,gaa,Ga,I
@@ -379,23 +370,19 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q110,146,Lomwe,4,MW,lon,Malawi Lomwe,I
 2,q110,164,Bambara,5,ML,bam,Bambara,I
 2,q110,165,Peuhl,5,ML,ffm,Maasina Fulfulde,I
-2,q110,165,Peuhl,5,ML,ful,Fulah,M
 2,q110,167,Sonrhai,5,ML,hmb,Humburi Senni Songhay,I
 2,q110,167,Sonrhai,5,ML,khq,Koyra Chiini Songhay,I
 2,q110,167,Sonrhai,5,ML,ses,Koyraboro Senni Songhai,I
-2,q110,168,Malinke,5,ML,man,Mandingo,M
+2,q110,168,Malinke,5,ML,kao,Xaasongaxango,I
 2,q110,168,Malinke,5,ML,mlq,Western Maninkakan,I
 2,q110,168,Malinke,5,ML,mwk,Kita Maninkakan,I
 2,q110,177,Tamasheq,5,ML,taq,Tamasheq,I
-2,q110,177,Tamasheq,5,ML,tmh,Tamashek,M
 2,q110,177,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
 2,q110,180,Sesotho,3,LS,sot,Southern Sotho,I
 2,q110,220,Wolof,16,SN,wol,Wolof,I
 2,q110,221,Serer,16,SN,srr,Serer,I
-2,q110,222,Mandinka,16,SN,man,Mandingo,M
 2,q110,222,Mandinka,16,SN,mnk,Mandinka,I
 2,q110,223,Pulaar,16,SN,fuc,Pulaar,I
-2,q110,223,Pulaar,16,SN,ful,Fulah,M
 2,q110,224,Diola,16,SN,dyo,Jola-Fonyi,I
 2,q110,240,Setswana,1,BW,tsn,Tswana,I
 2,q110,242,Sekalanga,1,BW,kck,Kalanga,I
@@ -413,7 +400,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q110,271,Urhobo,7,NG,urh,Urhobo,I
 2,q110,272,Ebira,7,NG,igb,Ebira,I
 2,q110,273,Fulani,7,NG,fub,Adamawa Fulfulde,I
-2,q110,273,Fulani,7,NG,ful,Fulah,M
 2,q110,275,Kalabari,7,NG,ijn,Kalabari,I
 2,q110,276,Ikewere,7,NG,ikw,Ikwere,I
 2,q110,280,Shona,12,ZW,sna,Shona,I
@@ -430,33 +416,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q110,311,Lamba,11,ZM,lam,Lamba,I
 2,q110,321,Ovambo languages,6,NA,kua,Kuanyama,I
 2,q110,324,Herero languages,6,NA,her,Herero,I
-2,q110,380,Kalenjin,14,KE,enb,Markweeta,I
-2,q110,380,Kalenjin,14,KE,eyo,Keiyo,I
 2,q110,380,Kalenjin,14,KE,kln,Kalenjin,M
-2,q110,380,Kalenjin,14,KE,niq,Nandi,I
-2,q110,380,Kalenjin,14,KE,oki,Okiek,I
-2,q110,380,Kalenjin,14,KE,pko,Pökoot,I
-2,q110,380,Kalenjin,14,KE,sgc,Kipsigis,I
-2,q110,380,Kalenjin,14,KE,spy,Sabaot,I
-2,q110,380,Kalenjin,14,KE,tec,Terik,I
-2,q110,380,Kalenjin,14,KE,tuy,Tugen,I
 2,q110,381,Kamba,14,KE,kam,Kamba (Kenya),I
 2,q110,382,Kikuyu,14,KE,kik,Kikuyu,I
 2,q110,383,Kisii,14,KE,guz,Gusii,I
-2,q110,384,Luhya,14,KE,bxk,Bukusu,I
-2,q110,384,Luhya,14,KE,ida,Idakho-Isukha-Tiriki,I
-2,q110,384,Luhya,14,KE,lkb,Kabras,I
-2,q110,384,Luhya,14,KE,lko,Khayo,I
-2,q110,384,Luhya,14,KE,lks,Kisa,I
-2,q110,384,Luhya,14,KE,lri,Marachi,I
-2,q110,384,Luhya,14,KE,lrm,Marama,I
-2,q110,384,Luhya,14,KE,lsm,Saamia,I
-2,q110,384,Luhya,14,KE,lto,Tsotso,I
-2,q110,384,Luhya,14,KE,lts,Tachoni,I
 2,q110,384,Luhya,14,KE,luy,Luyia,M
-2,q110,384,Luhya,14,KE,nle,East Nyala,I
-2,q110,384,Luhya,14,KE,nyd,Nyore,I
-2,q110,384,Luhya,14,KE,rag,Logooli,I
 2,q110,385,Luo,14,KE,luo,Luo (Kenya and Tanzania),I
 2,q110,386,Maasai/Samburu,14,KE,mas,Masai,I
 2,q110,386,Maasai/Samburu,14,KE,saq,Samburu,I
@@ -469,8 +433,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q110,391,Meru,14,KE,mer,Meru,I
 2,q110,392,Embu,14,KE,ebu,Embu,I
 2,q110,393,Borana,14,KE,gax,Borana-Arsi-Guji Oromo,I
-2,q110,393,Borana,14,KE,orm,Oromo,M
-2,q110,397,Bajuni,14,KE,swa,Swahili (macrolanguage),M
 2,q110,397,Bajuni,14,KE,swh,Swahili (individual language),I
 2,q110,398,Taveta,14,KE,tvs,Taveta,I
 2,q110,399,Gujarati,14,KE,guj,Gujarati,I
@@ -480,8 +442,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q110,802,Jarawa,7,NG,jjr,Bankal,I
 2,q110,803,Mada,7,NG,mda,Mada (Nigeria),I
 2,q110,804,Ron,7,NG,cla,Ron,I
-2,q110,805,Gbagyi,7,NG,gba,Gbaya (Central African Republic),M
-2,q110,805,Gbagyi,7,NG,gya,Northwest Gbaya,I
+2,q110,805,Gbagyi,7,NG,gbr,Gbagyi,I
 2,q110,806,Taba,7,NG,ldb,Dũya,I
 2,q110,808,Okun,7,NG,yor,Yoruba,I
 2,q110,809,Mgas,7,NG,anc,Ngas,I
@@ -513,17 +474,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,3,Portuguese,8,ZA,por,Portuguese,I
 2,q83,3,Portuguese,11,ZM,por,Portuguese,I
 2,q83,3,Portuguese,12,ZW,por,Portuguese,I
-2,q83,4,Kiswahili,1,BW,swa,Swahili (macrolanguage),M
 2,q83,4,Kiswahili,1,BW,swh,Swahili (individual language),I
-2,q83,4,Kiswahili,14,KE,swa,Swahili (macrolanguage),M
 2,q83,4,Kiswahili,14,KE,swh,Swahili (individual language),I
-2,q83,4,Kiswahili,15,MZ,swa,Swahili (macrolanguage),M
 2,q83,4,Kiswahili,15,MZ,swh,Swahili (individual language),I
-2,q83,4,Kiswahili,9,TZ,swa,Swahili (macrolanguage),M
 2,q83,4,Kiswahili,9,TZ,swh,Swahili (individual language),I
-2,q83,4,Kiswahili,10,UG,swa,Swahili (macrolanguage),M
 2,q83,4,Kiswahili,10,UG,swh,Swahili (individual language),I
-2,q83,4,Kiswahili,11,ZM,swa,Swahili (macrolanguage),M
 2,q83,4,Kiswahili,11,ZM,swc,Congo Swahili,I
 2,q83,50,Crioulo,13,CV,kea,Kabuverdianu,I
 2,q83,60,Luganda,10,UG,lug,Ganda,I
@@ -533,6 +488,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,64,Rukiga,10,UG,cgg,Chiga,I
 2,q83,65,Lumasaba,10,UG,myx,Masaaba,I
 2,q83,66,Luo,10,UG,ach,Acoli,I
+2,q83,66,Luo,10,UG,adh,Adhola,I
+2,q83,66,Luo,10,UG,alz,Alur,I
+2,q83,66,Luo,10,UG,kdi,Kumam,I
+2,q83,66,Luo,10,UG,laj,Lango (Uganda),I
+2,q83,66,Luo,10,UG,lth,Thur,I
 2,q83,67,Lugbara,10,UG,lgg,Lugbara,I
 2,q83,68,Alur,10,UG,alz,Alur,I
 2,q83,69,Madi,10,UG,mhi,Ma'di,I
@@ -541,7 +501,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,71,Runyoro,10,UG,nyo,Nyoro,I
 2,q83,72,Rukonjo,10,UG,koo,Konzo,I
 2,q83,73,Samia-Lugwe,10,UG,lsm,Saamia,I
-2,q83,73,Samia-Lugwe,10,UG,luy,Luyia,M
 2,q83,74,Kinyarwanda,10,UG,kin,Kinyarwanda,I
 2,q83,75,Rufumbira,10,UG,kin,Kinyarwanda,I
 2,q83,76,Kakwa,10,UG,keo,Kakwa,I
@@ -578,8 +537,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,108,Venda,8,ZA,ven,Venda,I
 2,q83,109,Zulu,8,ZA,zul,Zulu,I
 2,q83,120,Akan,2,GH,aka,Akan,M
-2,q83,120,Akan,2,GH,fat,Fanti,I
-2,q83,120,Akan,2,GH,twi,Twi,I
 2,q83,121,Dagbani,2,GH,dag,Dagbani,I
 2,q83,122,Ewe,2,GH,ewe,Ewe,I
 2,q83,123,Ga,2,GH,gaa,Ga,I
@@ -589,7 +546,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,143,Chewa,4,MW,nya,Nyanja,I
 2,q83,144,Yao,4,MW,yao,Yao,I
 2,q83,145,Ngoni,4,MW,nya,Nyanja,I
-2,q83,145,Ngoni,4,MW,tum,Tumbuka,I
 2,q83,146,Lomwe,4,MW,lon,Malawi Lomwe,I
 2,q83,147,Mang'anja,4,MW,nya,Nyanja,I
 2,q83,148,Sena,4,MW,swk,Malawi Sena,I
@@ -599,22 +555,21 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,160,Arabic,5,ML,mey,Hassaniyya,I
 2,q83,161,Haoussa,5,ML,hau,Hausa,I
 2,q83,162,Wolof,5,ML,ffm,Maasina Fulfulde,I
-2,q83,162,Wolof,5,ML,ful,Fulah,M
 2,q83,163,Trouka,5,ML,ffm,Maasina Fulfulde,I
 2,q83,163,Trouka,5,ML,fuc,Pulaar,I
-2,q83,163,Trouka,5,ML,ful,Fulah,M
 2,q83,164,Bambara,5,ML,bam,Bambara,I
 2,q83,165,Peuhl,5,ML,ffm,Maasina Fulfulde,I
-2,q83,165,Peuhl,5,ML,ful,Fulah,M
 2,q83,166,Soninke,5,ML,snk,Soninke,I
 2,q83,167,Sonrhai,5,ML,hmb,Humburi Senni Songhay,I
 2,q83,167,Sonrhai,5,ML,khq,Koyra Chiini Songhay,I
 2,q83,167,Sonrhai,5,ML,ses,Koyraboro Senni Songhai,I
-2,q83,168,Malinke,5,ML,man,Mandingo,M
+2,q83,168,Malinke,5,ML,kao,Xaasongaxango,I
 2,q83,168,Malinke,5,ML,mlq,Western Maninkakan,I
 2,q83,168,Malinke,5,ML,mwk,Kita Maninkakan,I
 2,q83,169,Khassonke,5,ML,kao,Xaasongaxango,I
 2,q83,170,Maure,5,ML,mey,Hassaniyya,I
+2,q83,171,Senufo,5,ML,myk,Mamara Senoufo,I
+2,q83,171,Senufo,5,ML,shz,Syenara Senoufo,I
 2,q83,171,Senufo,5,ML,spp,Supyire Senoufo,I
 2,q83,172,Mianka,5,ML,myk,Mamara Senoufo,I
 2,q83,173,Samoko,5,ML,dux,Duungooma,I
@@ -625,7 +580,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,176,Dogon,5,ML,djm,Jamsay Dogon,I
 2,q83,176,Dogon,5,ML,dts,Toro So Dogon,I
 2,q83,177,Tamasheq,5,ML,taq,Tamasheq,I
-2,q83,177,Tamasheq,5,ML,tmh,Tamashek,M
 2,q83,177,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
 2,q83,178,Mossi,5,ML,mos,Mossi,I
 2,q83,180,Sesotho,3,LS,sot,Southern Sotho,I
@@ -643,10 +597,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,215,Zaramo,9,TZ,zaj,Zaramo,I
 2,q83,220,Wolof,16,SN,wol,Wolof,I
 2,q83,221,Serer,16,SN,srr,Serer,I
-2,q83,222,Mandinka,16,SN,man,Mandingo,M
 2,q83,222,Mandinka,16,SN,mnk,Mandinka,I
 2,q83,223,Pulaar,16,SN,fuc,Pulaar,I
-2,q83,223,Pulaar,16,SN,ful,Fulah,M
 2,q83,224,Diola,16,SN,dyo,Jola-Fonyi,I
 2,q83,225,Soninke,16,SN,snk,Soninke,I
 2,q83,240,Setswana,1,BW,tsn,Tswana,I
@@ -664,8 +616,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,264,Ijaw,7,NG,ijc,Izon,I
 2,q83,264,Ijaw,7,NG,ijs,Southeast Ijo,I
 2,q83,265,Kanuri,7,NG,kau,Kanuri,M
-2,q83,265,Kanuri,7,NG,kby,Manga Kanuri,I
-2,q83,265,Kanuri,7,NG,knc,Central Kanuri,I
 2,q83,266,Nupe,7,NG,nup,Nupe-Nupe-Tako,I
 2,q83,267,Ibibio,7,NG,ibb,Ibibio,I
 2,q83,268,Efik,7,NG,efi,Efik,I
@@ -674,7 +624,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,271,Urhobo,7,NG,urh,Urhobo,I
 2,q83,272,Ebira,7,NG,igb,Ebira,I
 2,q83,273,Fulani,7,NG,fub,Adamawa Fulfulde,I
-2,q83,273,Fulani,7,NG,ful,Fulah,M
 2,q83,274,Isoko,7,NG,iso,Isoko,I
 2,q83,275,kalabari,7,NG,ijn,Kalabari,I
 2,q83,276,Ikewere,7,NG,ikw,Ikwere,I
@@ -704,7 +653,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,313,Lala,11,ZM,leb,Lala-Bisa,I
 2,q83,314,Nsenga,11,ZM,nse,Nsenga,I
 2,q83,315,Lenje,11,ZM,leh,Lenje,I
-2,q83,316,Ngoni,11,ZM,nya,Nyanja,I
+2,q83,316,Ngoni,11,ZM,nse,Nsenga,I
 2,q83,317,Namwanga,11,ZM,mwn,Nyamwanga,I
 2,q83,318,Lambya,11,ZM,lai,Lambya,I
 2,q83,319,Soli,11,ZM,sby,Soli,I
@@ -720,7 +669,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,328,German,6,NA,deu,German,I
 2,q83,380,Kalejin,14,KE,enb,Markweeta,I
 2,q83,380,Kalejin,14,KE,eyo,Keiyo,I
-2,q83,380,Kalejin,14,KE,kln,Kalenjin,M
 2,q83,380,Kalejin,14,KE,niq,Nandi,I
 2,q83,380,Kalejin,14,KE,oki,Okiek,I
 2,q83,380,Kalejin,14,KE,pko,Pökoot,I
@@ -731,20 +679,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,381,Kamba,14,KE,kam,Kamba (Kenya),I
 2,q83,382,Kikuyu,14,KE,kik,Kikuyu,I
 2,q83,383,Kisii,14,KE,guz,Gusii,I
-2,q83,384,Luhya,14,KE,bxk,Bukusu,I
-2,q83,384,Luhya,14,KE,ida,Idakho-Isukha-Tiriki,I
-2,q83,384,Luhya,14,KE,lkb,Kabras,I
-2,q83,384,Luhya,14,KE,lko,Khayo,I
-2,q83,384,Luhya,14,KE,lks,Kisa,I
-2,q83,384,Luhya,14,KE,lri,Marachi,I
-2,q83,384,Luhya,14,KE,lrm,Marama,I
-2,q83,384,Luhya,14,KE,lsm,Saamia,I
-2,q83,384,Luhya,14,KE,lto,Tsotso,I
-2,q83,384,Luhya,14,KE,lts,Tachoni,I
 2,q83,384,Luhya,14,KE,luy,Luyia,M
-2,q83,384,Luhya,14,KE,nle,East Nyala,I
-2,q83,384,Luhya,14,KE,nyd,Nyore,I
-2,q83,384,Luhya,14,KE,rag,Logooli,I
 2,q83,385,Luo,14,KE,luo,Luo (Kenya and Tanzania),I
 2,q83,386,Maasai/Samburu,14,KE,mas,Masai,I
 2,q83,386,Maasai/Samburu,14,KE,saq,Samburu,I
@@ -757,12 +692,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,391,Meru,14,KE,mer,Meru,I
 2,q83,392,Embu,14,KE,ebu,Embu,I
 2,q83,393,Borana,14,KE,gax,Borana-Arsi-Guji Oromo,I
-2,q83,393,Borana,14,KE,orm,Oromo,M
 2,q83,394,Kuria,14,KE,kuj,Kuria,I
 2,q83,395,Teso,14,KE,teo,Teso,I
-2,q83,396,Pokot,14,KE,kln,Kalenjin,M
 2,q83,396,Pokot,14,KE,pko,Pökoot,I
-2,q83,397,Bajuni,14,KE,swa,Swahili (macrolanguage),M
 2,q83,397,Bajuni,14,KE,swh,Swahili (individual language),I
 2,q83,399,Gujarati,14,KE,guj,Gujarati,I
 2,q83,440,Mambwe,11,ZM,mgr,Mambwe-Lungu,I
@@ -777,8 +709,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,801,Chip,7,NG,mjs,Miship,I
 2,q83,802,Jarawa,7,NG,jgk,Gwak,I
 2,q83,802,Jarawa,7,NG,jjr,Bankal,I
-2,q83,805,Gbagyi,7,NG,gba,Gbaya (Central African Republic),M
-2,q83,805,Gbagyi,7,NG,gya,Northwest Gbaya,I
+2,q83,805,Gbagyi,7,NG,gbr,Gbagyi,I
 2,q83,806,Jaba,7,NG,ldb,Dũya,I
 2,q83,807,Esan,7,NG,ish,Esan,I
 2,q83,809,Mgas,7,NG,anc,Ngas,I
@@ -817,9 +748,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,3,Portuguese,16,SN,por,Portuguese,I
 2,q97,3,Portuguese,8,ZA,por,Portuguese,I
 2,q97,3,Portuguese,11,ZM,por,Portuguese,I
-2,q97,4,Kiswahili,14,KE,swa,Swahili (macrolanguage),M
 2,q97,4,Kiswahili,14,KE,swh,Swahili (individual language),I
-2,q97,4,Kiswahili,9,TZ,swa,Swahili (macrolanguage),M
 2,q97,4,Kiswahili,9,TZ,swh,Swahili (individual language),I
 2,q97,50,Crioulo,13,CV,kea,Kabuverdianu,I
 2,q97,60,Luganda,10,UG,lug,Ganda,I
@@ -829,6 +758,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,64,Rukiga,10,UG,cgg,Chiga,I
 2,q97,65,Lumasaba,10,UG,myx,Masaaba,I
 2,q97,66,Luo,10,UG,ach,Acoli,I
+2,q97,66,Luo,10,UG,adh,Adhola,I
+2,q97,66,Luo,10,UG,alz,Alur,I
+2,q97,66,Luo,10,UG,kdi,Kumam,I
+2,q97,66,Luo,10,UG,laj,Lango (Uganda),I
+2,q97,66,Luo,10,UG,lth,Thur,I
 2,q97,67,Lugbara,10,UG,lgg,Lugbara,I
 2,q97,68,Alur,10,UG,alz,Alur,I
 2,q97,69,Madi,10,UG,mhi,Ma'di,I
@@ -837,7 +771,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,71,Runyoro,10,UG,nyo,Nyoro,I
 2,q97,72,Rukonjo,10,UG,koo,Konzo,I
 2,q97,73,Samia-Lugwe,10,UG,lsm,Saamia,I
-2,q97,73,Samia-Lugwe,10,UG,luy,Luyia,M
 2,q97,76,Kakwa,10,UG,keo,Kakwa,I
 2,q97,80,National language,15,MZ,por,Portuguese,I
 2,q97,81,Emakhuwa,15,MZ,vmw,Makhuwa,I
@@ -869,8 +802,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,108,Venda,8,ZA,ven,Venda,I
 2,q97,109,Zulu,8,ZA,zul,Zulu,I
 2,q97,120,Akan,2,GH,aka,Akan,M
-2,q97,120,Akan,2,GH,fat,Fanti,I
-2,q97,120,Akan,2,GH,twi,Twi,I
 2,q97,121,Dagbani,2,GH,dag,Dagbani,I
 2,q97,122,Ewe,2,GH,ewe,Ewe,I
 2,q97,123,Ga,2,GH,gaa,Ga,I
@@ -881,30 +812,28 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,146,Lomwe,4,MW,lon,Malawi Lomwe,I
 2,q97,164,Bambara,5,ML,bam,Bambara,I
 2,q97,165,Peuhl,5,ML,ffm,Maasina Fulfulde,I
-2,q97,165,Peuhl,5,ML,ful,Fulah,M
 2,q97,166,Soninke,5,ML,snk,Soninke,I
 2,q97,167,Sonrhai,5,ML,hmb,Humburi Senni Songhay,I
 2,q97,167,Sonrhai,5,ML,khq,Koyra Chiini Songhay,I
 2,q97,167,Sonrhai,5,ML,ses,Koyraboro Senni Songhai,I
-2,q97,168,Malinke,5,ML,man,Mandingo,M
+2,q97,168,Malinke,5,ML,kao,Xaasongaxango,I
 2,q97,168,Malinke,5,ML,mlq,Western Maninkakan,I
 2,q97,168,Malinke,5,ML,mwk,Kita Maninkakan,I
 2,q97,169,Khassonke,5,ML,kao,Xaasongaxango,I
+2,q97,171,Senufo,5,ML,myk,Mamara Senoufo,I
+2,q97,171,Senufo,5,ML,shz,Syenara Senoufo,I
 2,q97,171,Senufo,5,ML,spp,Supyire Senoufo,I
 2,q97,172,Mianka,5,ML,myk,Mamara Senoufo,I
 2,q97,176,Dogon,5,ML,dds,Donno So Dogon,I
 2,q97,176,Dogon,5,ML,djm,Jamsay Dogon,I
 2,q97,176,Dogon,5,ML,dts,Toro So Dogon,I
 2,q97,177,Tamasheq,5,ML,taq,Tamasheq,I
-2,q97,177,Tamasheq,5,ML,tmh,Tamashek,M
 2,q97,177,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
 2,q97,180,Sesotho,3,LS,sot,Southern Sotho,I
 2,q97,220,Wolof,16,SN,wol,Wolof,I
 2,q97,221,Serer,16,SN,srr,Serer,I
-2,q97,222,Mandinka,16,SN,man,Mandingo,M
 2,q97,222,Mandinka,16,SN,mnk,Mandinka,I
 2,q97,223,Pulaar,16,SN,fuc,Pulaar,I
-2,q97,223,Pulaar,16,SN,ful,Fulah,M
 2,q97,224,Diola,16,SN,dyo,Jola-Fonyi,I
 2,q97,225,Soninke,16,SN,snk,Soninke,I
 2,q97,240,Setswana,1,BW,tsn,Tswana,I
@@ -915,8 +844,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,264,Ijaw,7,NG,ijc,Izon,I
 2,q97,264,Ijaw,7,NG,ijs,Southeast Ijo,I
 2,q97,265,Kanuri,7,NG,kau,Kanuri,M
-2,q97,265,Kanuri,7,NG,kby,Manga Kanuri,I
-2,q97,265,Kanuri,7,NG,knc,Central Kanuri,I
 2,q97,266,Nupe,7,NG,nup,Nupe-Nupe-Tako,I
 2,q97,267,Ibibio,7,NG,ibb,Ibibio,I
 2,q97,268,Efik,7,NG,efi,Efik,I
@@ -925,7 +852,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,271,Urhobo,7,NG,urh,Urhobo,I
 2,q97,272,Ebira,7,NG,igb,Ebira,I
 2,q97,273,Fulani,7,NG,fub,Adamawa Fulfulde,I
-2,q97,273,Fulani,7,NG,ful,Fulah,M
 2,q97,277,Gwari,7,NG,gbr,Gbagyi,I
 2,q97,277,Gwari,7,NG,gby,Gbari,I
 2,q97,279,Pidgin English,7,NG,pcm,Nigerian Pidgin,I
@@ -943,33 +869,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,309,Senga,11,ZM,nse,Nsenga,I
 2,q97,320,Afrikaans,6,NA,afr,Afrikaans,I
 2,q97,321,Oshiwambo,6,NA,kua,Kuanyama,I
-2,q97,380,kalenjin,14,KE,enb,Markweeta,I
-2,q97,380,kalenjin,14,KE,eyo,Keiyo,I
 2,q97,380,kalenjin,14,KE,kln,Kalenjin,M
-2,q97,380,kalenjin,14,KE,niq,Nandi,I
-2,q97,380,kalenjin,14,KE,oki,Okiek,I
-2,q97,380,kalenjin,14,KE,pko,Pökoot,I
-2,q97,380,kalenjin,14,KE,sgc,Kipsigis,I
-2,q97,380,kalenjin,14,KE,spy,Sabaot,I
-2,q97,380,kalenjin,14,KE,tec,Terik,I
-2,q97,380,kalenjin,14,KE,tuy,Tugen,I
 2,q97,381,Kamba,14,KE,kam,Kamba (Kenya),I
 2,q97,382,Kikuyu,14,KE,kik,Kikuyu,I
 2,q97,383,Kisii,14,KE,guz,Gusii,I
-2,q97,384,Luhya,14,KE,bxk,Bukusu,I
-2,q97,384,Luhya,14,KE,ida,Idakho-Isukha-Tiriki,I
-2,q97,384,Luhya,14,KE,lkb,Kabras,I
-2,q97,384,Luhya,14,KE,lko,Khayo,I
-2,q97,384,Luhya,14,KE,lks,Kisa,I
-2,q97,384,Luhya,14,KE,lri,Marachi,I
-2,q97,384,Luhya,14,KE,lrm,Marama,I
-2,q97,384,Luhya,14,KE,lsm,Saamia,I
-2,q97,384,Luhya,14,KE,lto,Tsotso,I
-2,q97,384,Luhya,14,KE,lts,Tachoni,I
 2,q97,384,Luhya,14,KE,luy,Luyia,M
-2,q97,384,Luhya,14,KE,nle,East Nyala,I
-2,q97,384,Luhya,14,KE,nyd,Nyore,I
-2,q97,384,Luhya,14,KE,rag,Logooli,I
 2,q97,385,Luo,14,KE,luo,Luo (Kenya and Tanzania),I
 2,q97,386,Maasai/Samburu,14,KE,mas,Masai,I
 2,q97,386,Maasai/Samburu,14,KE,saq,Samburu,I
@@ -981,18 +885,14 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,393,English and Kikuyu,14,KE,eng,English,I
 2,q97,394,English and Kamba,14,KE,eng,English,I
 2,q97,395,English and Kiswahili,14,KE,eng,English,I
-2,q97,396,Kiswahili and Kamba,14,KE,swa,Swahili (macrolanguage),M
 2,q97,396,Kiswahili and Kamba,14,KE,swh,Swahili (individual language),I
 2,q97,397,"English, Kiswahili, and Kamba",14,KE,eng,English,I
 2,q97,398,"English, Kiswahili and Kikuyu",14,KE,eng,English,I
 2,q97,399,"English, Kiswahili and Meru",14,KE,eng,English,I
-2,q97,480,Kiswahili and Luhya,14,KE,swa,Swahili (macrolanguage),M
 2,q97,480,Kiswahili and Luhya,14,KE,swh,Swahili (individual language),I
 2,q97,481,"English, Kiswahili and Kalenjin",14,KE,eng,English,I
-2,q97,482,Kiswahili and kalenjin,14,KE,swa,Swahili (macrolanguage),M
 2,q97,482,Kiswahili and kalenjin,14,KE,swh,Swahili (individual language),I
 2,q97,483,English and Luo,14,KE,eng,English,I
-2,q97,484,Kiswahili and Kikuyu,14,KE,swa,Swahili (macrolanguage),M
 2,q97,484,Kiswahili and Kikuyu,14,KE,swh,Swahili (individual language),I
 2,q97,806,Taba,7,NG,ldb,Dũya,I
 2,q97,807,Esan,7,NG,ish,Esan,I
@@ -1025,11 +925,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,2,French,13,SN,fra,French,I
 3,q103,3,Portuguese,3,CV,por,Portuguese,I
 3,q103,3,Portuguese,10,MZ,por,Portuguese,I
-3,q103,4,Kiswahili,5,KE,swa,Swahili (macrolanguage),M
 3,q103,4,Kiswahili,5,KE,swh,Swahili (individual language),I
-3,q103,4,Kiswahili,10,MZ,swa,Swahili (macrolanguage),M
 3,q103,4,Kiswahili,10,MZ,swh,Swahili (individual language),I
-3,q103,4,Kiswahili,15,TZ,swa,Swahili (macrolanguage),M
 3,q103,4,Kiswahili,15,TZ,swh,Swahili (individual language),I
 3,q103,100,Afrikaans,14,ZA,afr,Afrikaans,I
 3,q103,101,Ndebele,14,ZA,nbl,South Ndebele,I
@@ -1057,13 +954,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,125,Otamari,1,BJ,tbz,Ditammari,I
 3,q103,126,Peulh,1,BJ,fue,Borgu Fulfulde,I
 3,q103,126,Peulh,1,BJ,fuh,Western Niger Fulfulde,I
-3,q103,126,Peulh,1,BJ,ful,Fulah,M
 3,q103,127,Yoa,1,BJ,pil,Yom,I
 3,q103,140,Setswana,2,BW,tsn,Tswana,I
 3,q103,165,Creole,3,CV,kea,Kabuverdianu,I
 3,q103,180,AKAN,4,GH,aka,Akan,M
-3,q103,180,AKAN,4,GH,fat,Fanti,I
-3,q103,180,AKAN,4,GH,twi,Twi,I
 3,q103,181,EWE,4,GH,ewe,Ewe,I
 3,q103,182,GA,4,GH,gaa,Ga,I
 3,q103,183,DAGBANI,4,GH,dag,Dagbani,I
@@ -1071,58 +965,30 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,185,OTHER,4,GH,und,Undetermined,S
 3,q103,200,Kikuyu,5,KE,kik,Kikuyu,I
 3,q103,201,Luo,5,KE,luo,Luo (Kenya and Tanzania),I
-3,q103,202,Luhya,5,KE,bxk,Bukusu,I
-3,q103,202,Luhya,5,KE,ida,Idakho-Isukha-Tiriki,I
-3,q103,202,Luhya,5,KE,lkb,Kabras,I
-3,q103,202,Luhya,5,KE,lko,Khayo,I
-3,q103,202,Luhya,5,KE,lks,Kisa,I
-3,q103,202,Luhya,5,KE,lri,Marachi,I
-3,q103,202,Luhya,5,KE,lrm,Marama,I
-3,q103,202,Luhya,5,KE,lsm,Saamia,I
-3,q103,202,Luhya,5,KE,lto,Tsotso,I
-3,q103,202,Luhya,5,KE,lts,Tachoni,I
 3,q103,202,Luhya,5,KE,luy,Luyia,M
-3,q103,202,Luhya,5,KE,nle,East Nyala,I
-3,q103,202,Luhya,5,KE,nyd,Nyore,I
-3,q103,202,Luhya,5,KE,rag,Logooli,I
 3,q103,203,Kamba,5,KE,kam,Kamba (Kenya),I
 3,q103,204,Meru/Embu,5,KE,ebu,Embu,I
 3,q103,204,Meru/Embu,5,KE,mer,Meru,I
 3,q103,205,Kisii,5,KE,guz,Gusii,I
-3,q103,206,Kalenjin,5,KE,enb,Markweeta,I
-3,q103,206,Kalenjin,5,KE,eyo,Keiyo,I
 3,q103,206,Kalenjin,5,KE,kln,Kalenjin,M
-3,q103,206,Kalenjin,5,KE,niq,Nandi,I
-3,q103,206,Kalenjin,5,KE,oki,Okiek,I
-3,q103,206,Kalenjin,5,KE,pko,Pökoot,I
-3,q103,206,Kalenjin,5,KE,sgc,Kipsigis,I
-3,q103,206,Kalenjin,5,KE,spy,Sabaot,I
-3,q103,206,Kalenjin,5,KE,tec,Terik,I
-3,q103,206,Kalenjin,5,KE,tuy,Tugen,I
 3,q103,210,Somali,5,KE,som,Somali,I
 3,q103,211,Mijikenda,5,KE,dig,Digo,I
 3,q103,211,Mijikenda,5,KE,dug,Duruma,I
 3,q103,211,Mijikenda,5,KE,nyf,Giryama,I
-3,q103,212,Gunya,5,KE,swa,Swahili (macrolanguage),M
 3,q103,212,Gunya,5,KE,swh,Swahili (individual language),I
 3,q103,213,Giriama,5,KE,nyf,Giryama,I
-3,q103,214,Kiswahili/Luhya,5,KE,swa,Swahili (macrolanguage),M
 3,q103,214,Kiswahili/Luhya,5,KE,swh,Swahili (individual language),I
 3,q103,215,English/Swahili,5,KE,eng,English,I
-3,q103,216,Sabaot,5,KE,kln,Kalenjin,M
 3,q103,216,Sabaot,5,KE,spy,Sabaot,I
 3,q103,217,Burji,5,KE,bji,Burji,I
 3,q103,218,Kuria,5,KE,kuj,Kuria,I
-3,q103,219,Maragoli,5,KE,luy,Luyia,M
 3,q103,219,Maragoli,5,KE,rag,Logooli,I
 3,q103,220,Sesotho,6,LS,sot,Southern Sotho,I
 3,q103,221,Seputi,6,LS,ssw,Swati,I
-3,q103,240,malg officiel,7,MG,mlg,Malagasy,M
 3,q103,240,malg officiel,7,MG,plt,Plateau Malagasy,I
 3,q103,241,dialect malg,7,MG,bhr,Bara Malagasy,I
 3,q103,241,dialect malg,7,MG,bmm,Northern Betsimisaraka Malagasy,I
 3,q103,241,dialect malg,7,MG,bzc,Southern Betsimisaraka Malagasy,I
-3,q103,241,dialect malg,7,MG,mlg,Malagasy,M
 3,q103,241,dialect malg,7,MG,msh,Masikoro Malagasy,I
 3,q103,241,dialect malg,7,MG,skg,Sakalava Malagasy,I
 3,q103,241,dialect malg,7,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -1135,10 +1001,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,264,Yao,8,MW,yao,Yao,I
 3,q103,280,Bambara,9,ML,bam,Bambara,I
 3,q103,281,Peuhl/Fulfulde,9,ML,ffm,Maasina Fulfulde,I
-3,q103,281,Peuhl/Fulfulde,9,ML,ful,Fulah,M
 3,q103,283,Mianka,9,ML,myk,Mamara Senoufo,I
 3,q103,285,Sonink,9,ML,snk,Soninke,I
-3,q103,286,Malink,9,ML,man,Mandingo,M
 3,q103,286,Malink,9,ML,mlq,Western Maninkakan,I
 3,q103,286,Malink,9,ML,mwk,Kita Maninkakan,I
 3,q103,287,Khasonk,9,ML,kao,Xaasongaxango,I
@@ -1154,7 +1018,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,295,Sonrha,9,ML,ses,Koyraboro Senni Songhai,I
 3,q103,296,Bella,9,ML,ses,Koyraboro Senni Songhai,I
 3,q103,297,Tamasheq,9,ML,taq,Tamasheq,I
-3,q103,297,Tamasheq,9,ML,tmh,Tamashek,M
 3,q103,297,Tamasheq,9,ML,ttq,Tawallammat Tamajaq,I
 3,q103,300,Makua,10,MZ,vmw,Makhuwa,I
 3,q103,301,Sena,10,MZ,seh,Sena,I
@@ -1190,18 +1053,20 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,343,Pidgin English,12,NG,pcm,Nigerian Pidgin,I
 3,q103,360,Wolof,13,SN,wol,Wolof,I
 3,q103,361,Pular,13,SN,fuf,Pular,I
-3,q103,361,Pular,13,SN,ful,Fulah,M
 3,q103,362,Serer,13,SN,srr,Serer,I
-3,q103,363,Mandinka,13,SN,man,Mandingo,M
 3,q103,363,Mandinka,13,SN,mnk,Mandinka,I
 3,q103,364,Sonike,13,SN,snk,Soninke,I
 3,q103,365,Diola,13,SN,dyo,Jola-Fonyi,I
 3,q103,366,Manjack,13,SN,mfv,Mandjak,I
-3,q103,367,Bamabara,13,SN,man,Mandingo,M
 3,q103,367,Bamabara,13,SN,mnk,Mandinka,I
 3,q103,406,Alur,16,UG,alz,Alur,I
 3,q103,407,Ateso,16,UG,teo,Teso,I
 3,q103,413,Luo,16,UG,ach,Acoli,I
+3,q103,413,Luo,16,UG,adh,Adhola,I
+3,q103,413,Luo,16,UG,alz,Alur,I
+3,q103,413,Luo,16,UG,kdi,Kumam,I
+3,q103,413,Luo,16,UG,laj,Lango (Uganda),I
+3,q103,413,Luo,16,UG,lth,Thur,I
 3,q103,414,Lugbara,16,UG,lgg,Lugbara,I
 3,q103,416,Madi,16,UG,mhi,Ma'di,I
 3,q103,416,Madi,16,UG,snm,Southern Ma'di,I
@@ -1221,7 +1086,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,510,Runyankole - Rukiga,16,UG,cgg,Chiga,I
 3,q103,510,Runyankole - Rukiga,16,UG,nyn,Nyankole,I
 3,q103,815,Boran,5,KE,gax,Borana-Arsi-Guji Oromo,I
-3,q103,815,Boran,5,KE,orm,Oromo,M
 3,q103,995,Other,7,MG,und,Undetermined,S
 3,q103,995,Other,16,UG,und,Undetermined,S
 3,q103,995,Other,14,ZA,und,Undetermined,S
@@ -1231,7 +1095,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q114,1,English,14,ZA,eng,English,I
 3,q114,2,French,1,BJ,fra,French,I
 3,q114,3,Portuguese,10,MZ,por,Portuguese,I
-3,q114,4,Kiswahili,15,TZ,swa,Swahili (macrolanguage),M
 3,q114,4,Kiswahili,15,TZ,swh,Swahili (individual language),I
 3,q114,100,Afrikaans,14,ZA,afr,Afrikaans,I
 3,q114,101,Ndebele,14,ZA,nbl,South Ndebele,I
@@ -1254,51 +1117,25 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q114,147,Sebirwa,2,BW,brl,Birwa,I
 3,q114,165,Creole,3,CV,kea,Kabuverdianu,I
 3,q114,180,AKAN,4,GH,aka,Akan,M
-3,q114,180,AKAN,4,GH,fat,Fanti,I
-3,q114,180,AKAN,4,GH,twi,Twi,I
 3,q114,181,EWE,4,GH,ewe,Ewe,I
 3,q114,182,GA,4,GH,gaa,Ga,I
 3,q114,183,DAGBANI,4,GH,dag,Dagbani,I
 3,q114,185,OTHER,4,GH,und,Undetermined,S
 3,q114,200,Kikuyu,5,KE,kik,Kikuyu,I
 3,q114,201,Luo,5,KE,luo,Luo (Kenya and Tanzania),I
-3,q114,202,Luhya,5,KE,bxk,Bukusu,I
-3,q114,202,Luhya,5,KE,ida,Idakho-Isukha-Tiriki,I
-3,q114,202,Luhya,5,KE,lkb,Kabras,I
-3,q114,202,Luhya,5,KE,lko,Khayo,I
-3,q114,202,Luhya,5,KE,lks,Kisa,I
-3,q114,202,Luhya,5,KE,lri,Marachi,I
-3,q114,202,Luhya,5,KE,lrm,Marama,I
-3,q114,202,Luhya,5,KE,lsm,Saamia,I
-3,q114,202,Luhya,5,KE,lto,Tsotso,I
-3,q114,202,Luhya,5,KE,lts,Tachoni,I
 3,q114,202,Luhya,5,KE,luy,Luyia,M
-3,q114,202,Luhya,5,KE,nle,East Nyala,I
-3,q114,202,Luhya,5,KE,nyd,Nyore,I
-3,q114,202,Luhya,5,KE,rag,Logooli,I
 3,q114,203,Kamba,5,KE,kam,Kamba (Kenya),I
 3,q114,204,Meru/Embu,5,KE,ebu,Embu,I
 3,q114,204,Meru/Embu,5,KE,mer,Meru,I
 3,q114,205,Kisii,5,KE,guz,Gusii,I
-3,q114,206,Kalenjin,5,KE,enb,Markweeta,I
-3,q114,206,Kalenjin,5,KE,eyo,Keiyo,I
 3,q114,206,Kalenjin,5,KE,kln,Kalenjin,M
-3,q114,206,Kalenjin,5,KE,niq,Nandi,I
-3,q114,206,Kalenjin,5,KE,oki,Okiek,I
-3,q114,206,Kalenjin,5,KE,pko,Pökoot,I
-3,q114,206,Kalenjin,5,KE,sgc,Kipsigis,I
-3,q114,206,Kalenjin,5,KE,spy,Sabaot,I
-3,q114,206,Kalenjin,5,KE,tec,Terik,I
-3,q114,206,Kalenjin,5,KE,tuy,Tugen,I
 3,q114,209,Taita,5,KE,dav,Taita,I
 3,q114,210,Somali,5,KE,som,Somali,I
 3,q114,220,Sesotho,6,LS,sot,Southern Sotho,I
-3,q114,240,malagasy officiel,7,MG,mlg,Malagasy,M
 3,q114,240,malagasy officiel,7,MG,plt,Plateau Malagasy,I
 3,q114,241,dialecte,7,MG,bhr,Bara Malagasy,I
 3,q114,241,dialecte,7,MG,bmm,Northern Betsimisaraka Malagasy,I
 3,q114,241,dialecte,7,MG,bzc,Southern Betsimisaraka Malagasy,I
-3,q114,241,dialecte,7,MG,mlg,Malagasy,M
 3,q114,241,dialecte,7,MG,msh,Masikoro Malagasy,I
 3,q114,241,dialecte,7,MG,skg,Sakalava Malagasy,I
 3,q114,241,dialecte,7,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -1313,7 +1150,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q114,280,Bambara,9,ML,bam,Bambara,I
 3,q114,283,Mianka,9,ML,myk,Mamara Senoufo,I
 3,q114,285,Soninké,9,ML,snk,Soninke,I
-3,q114,286,Malinké,9,ML,man,Mandingo,M
+3,q114,286,Malinké,9,ML,kao,Xaasongaxango,I
 3,q114,286,Malinké,9,ML,mlq,Western Maninkakan,I
 3,q114,286,Malinké,9,ML,mwk,Kita Maninkakan,I
 3,q114,288,Dogon,9,ML,dds,Donno So Dogon,I
@@ -1321,7 +1158,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q114,288,Dogon,9,ML,dts,Toro So Dogon,I
 3,q114,289,Bobo,9,ML,bmq,Bomu,I
 3,q114,297,Tamasheq,9,ML,taq,Tamasheq,I
-3,q114,297,Tamasheq,9,ML,tmh,Tamashek,M
 3,q114,297,Tamasheq,9,ML,ttq,Tawallammat Tamajaq,I
 3,q114,300,Makua,10,MZ,vmw,Makhuwa,I
 3,q114,301,Sena,10,MZ,seh,Sena,I
@@ -1342,7 +1178,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q114,344,Efik,12,NG,efi,Efik,I
 3,q114,345,Ebira,12,NG,igb,Ebira,I
 3,q114,346,Fulani,12,NG,fub,Adamawa Fulfulde,I
-3,q114,346,Fulani,12,NG,ful,Fulah,M
 3,q114,348,Ibibio,12,NG,ibb,Ibibio,I
 3,q114,350,Tiv,12,NG,tiv,Tiv,I
 3,q114,351,Nupe,12,NG,nup,Nupe-Nupe-Tako,I
@@ -1355,12 +1190,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q114,359,Ukwani,12,NG,ukw,Ukwuani-Aboh-Ndoni,I
 3,q114,360,Wolof,13,SN,wol,Wolof,I
 3,q114,361,Pular,13,SN,fuf,Pular,I
-3,q114,361,Pular,13,SN,ful,Fulah,M
 3,q114,365,Diola,13,SN,dyo,Jola-Fonyi,I
 3,q114,381,Kichaga,15,TZ,old,Mochi,I
 3,q114,406,Alur,16,UG,alz,Alur,I
 3,q114,407,Ateso,16,UG,teo,Teso,I
 3,q114,413,Luo,16,UG,ach,Acoli,I
+3,q114,413,Luo,16,UG,adh,Adhola,I
+3,q114,413,Luo,16,UG,alz,Alur,I
+3,q114,413,Luo,16,UG,kdi,Kumam,I
+3,q114,413,Luo,16,UG,laj,Lango (Uganda),I
+3,q114,413,Luo,16,UG,lth,Thur,I
 3,q114,414,Lugbara,16,UG,lgg,Lugbara,I
 3,q114,417,Luganda,16,UG,lug,Ganda,I
 3,q114,418,Lumasaba,16,UG,myx,Masaaba,I
@@ -1413,13 +1252,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,3,Portuguese,10,MZ,por,Portuguese,I
 3,q3,3,Portuguese,16,UG,por,Portuguese,I
 3,q3,3,Portuguese,14,ZA,por,Portuguese,I
-3,q3,4,Kiswahili,5,KE,swa,Swahili (macrolanguage),M
 3,q3,4,Kiswahili,5,KE,swh,Swahili (individual language),I
-3,q3,4,Kiswahili,8,MW,swa,Swahili (macrolanguage),M
 3,q3,4,Kiswahili,8,MW,swh,Swahili (individual language),I
-3,q3,4,Kiswahili,15,TZ,swa,Swahili (macrolanguage),M
 3,q3,4,Kiswahili,15,TZ,swh,Swahili (individual language),I
-3,q3,4,Kiswahili,16,UG,swa,Swahili (macrolanguage),M
 3,q3,4,Kiswahili,16,UG,swh,Swahili (individual language),I
 3,q3,100,Afrikaans,14,ZA,afr,Afrikaans,I
 3,q3,101,Ndebele,14,ZA,nbl,South Ndebele,I
@@ -1439,7 +1274,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,125,Ditamari,1,BJ,tbz,Ditammari,I
 3,q3,126,Peulh,1,BJ,fue,Borgu Fulfulde,I
 3,q3,126,Peulh,1,BJ,fuh,Western Niger Fulfulde,I
-3,q3,126,Peulh,1,BJ,ful,Fulah,M
 3,q3,127,Yom,1,BJ,pil,Yom,I
 3,q3,128,Haoussa,1,BJ,hau,Hausa,I
 3,q3,129,Ide,1,BJ,ijj,Ede Ije,I
@@ -1456,44 +1290,20 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,149,Seyei,2,BW,yey,Yeyi,I
 3,q3,165,Creole,3,CV,kea,Kabuverdianu,I
 3,q3,180,AKAN,4,GH,aka,Akan,M
-3,q3,180,AKAN,4,GH,fat,Fanti,I
-3,q3,180,AKAN,4,GH,twi,Twi,I
 3,q3,181,EWE,4,GH,ewe,Ewe,I
 3,q3,182,GA/DANGBE,4,GH,ada,Adangme,I
 3,q3,182,GA/DANGBE,4,GH,gaa,Ga,I
-3,q3,183,Other Northern Languages,4,GH,mul,Multiple languages,S
+3,q3,183,Other Northern Languages,4,GH,und,Undetermined,S
 3,q3,184,DAGBANI,4,GH,dag,Dagbani,I
 3,q3,185,DAGAARE,4,GH,dga,Southern Dagaare,I
 3,q3,200,Kikuyu,5,KE,kik,Kikuyu,I
 3,q3,201,Luo,5,KE,luo,Luo (Kenya and Tanzania),I
-3,q3,202,Luhya,5,KE,bxk,Bukusu,I
-3,q3,202,Luhya,5,KE,ida,Idakho-Isukha-Tiriki,I
-3,q3,202,Luhya,5,KE,lkb,Kabras,I
-3,q3,202,Luhya,5,KE,lko,Khayo,I
-3,q3,202,Luhya,5,KE,lks,Kisa,I
-3,q3,202,Luhya,5,KE,lri,Marachi,I
-3,q3,202,Luhya,5,KE,lrm,Marama,I
-3,q3,202,Luhya,5,KE,lsm,Saamia,I
-3,q3,202,Luhya,5,KE,lto,Tsotso,I
-3,q3,202,Luhya,5,KE,lts,Tachoni,I
 3,q3,202,Luhya,5,KE,luy,Luyia,M
-3,q3,202,Luhya,5,KE,nle,East Nyala,I
-3,q3,202,Luhya,5,KE,nyd,Nyore,I
-3,q3,202,Luhya,5,KE,rag,Logooli,I
 3,q3,203,Kamba,5,KE,kam,Kamba (Kenya),I
 3,q3,204,Meru/Embu,5,KE,ebu,Embu,I
 3,q3,204,Meru/Embu,5,KE,mer,Meru,I
 3,q3,205,Kisii,5,KE,guz,Gusii,I
-3,q3,206,Kalenjin,5,KE,enb,Markweeta,I
-3,q3,206,Kalenjin,5,KE,eyo,Keiyo,I
 3,q3,206,Kalenjin,5,KE,kln,Kalenjin,M
-3,q3,206,Kalenjin,5,KE,niq,Nandi,I
-3,q3,206,Kalenjin,5,KE,oki,Okiek,I
-3,q3,206,Kalenjin,5,KE,pko,Pökoot,I
-3,q3,206,Kalenjin,5,KE,sgc,Kipsigis,I
-3,q3,206,Kalenjin,5,KE,spy,Sabaot,I
-3,q3,206,Kalenjin,5,KE,tec,Terik,I
-3,q3,206,Kalenjin,5,KE,tuy,Tugen,I
 3,q3,207,Masai/Samburu,5,KE,mas,Masai,I
 3,q3,207,Masai/Samburu,5,KE,saq,Samburu,I
 3,q3,208,Mijikenda,5,KE,dig,Digo,I
@@ -1501,27 +1311,21 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,208,Mijikenda,5,KE,nyf,Giryama,I
 3,q3,209,Taita,5,KE,dav,Taita,I
 3,q3,210,Somali,5,KE,som,Somali,I
-3,q3,211,Pokot,5,KE,kln,Kalenjin,M
 3,q3,211,Pokot,5,KE,pko,Pökoot,I
 3,q3,212,Turkana,5,KE,tuv,Turkana,I
 3,q3,213,Digo,5,KE,dig,Digo,I
 3,q3,214,Giriama,5,KE,nyf,Giryama,I
 3,q3,215,Duruma,5,KE,dug,Duruma,I
 3,q3,216,Chonyi,5,KE,coh,Chonyi-Dzihana-Kauma,I
-3,q3,217,Gunya,5,KE,swa,Swahili (macrolanguage),M
 3,q3,217,Gunya,5,KE,swh,Swahili (individual language),I
 3,q3,218,Arabic,5,KE,acx,Omani Arabic,I
-3,q3,218,Arabic,5,KE,ara,Arabic,M
-3,q3,219,Maragoli,5,KE,luy,Luyia,M
 3,q3,219,Maragoli,5,KE,rag,Logooli,I
 3,q3,220,Sesotho,6,LS,sot,Southern Sotho,I
 3,q3,221,Sephuti,6,LS,ssw,Swati,I
-3,q3,240,malgache officielle,7,MG,mlg,Malagasy,M
 3,q3,240,malgache officielle,7,MG,plt,Plateau Malagasy,I
 3,q3,241,langue régionale,7,MG,bhr,Bara Malagasy,I
 3,q3,241,langue régionale,7,MG,bmm,Northern Betsimisaraka Malagasy,I
 3,q3,241,langue régionale,7,MG,bzc,Southern Betsimisaraka Malagasy,I
-3,q3,241,langue régionale,7,MG,mlg,Malagasy,M
 3,q3,241,langue régionale,7,MG,msh,Masikoro Malagasy,I
 3,q3,241,langue régionale,7,MG,skg,Sakalava Malagasy,I
 3,q3,241,langue régionale,7,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -1540,7 +1344,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,263,Chewa,8,MW,nya,Nyanja,I
 3,q3,264,Yao,8,MW,yao,Yao,I
 3,q3,265,Ngoni,8,MW,nya,Nyanja,I
-3,q3,265,Ngoni,8,MW,tum,Tumbuka,I
 3,q3,266,Lomwe,8,MW,lon,Malawi Lomwe,I
 3,q3,267,Manga'nja,8,MW,nya,Nyanja,I
 3,q3,268,Sena,8,MW,swk,Malawi Sena,I
@@ -1548,14 +1351,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,271,Tonga,8,MW,tog,Tonga (Nyasa),I
 3,q3,280,Bambara,9,ML,bam,Bambara,I
 3,q3,281,Peugl/Fulfulde,9,ML,ffm,Maasina Fulfulde,I
-3,q3,281,Peugl/Fulfulde,9,ML,ful,Fulah,M
 3,q3,282,Senufo,9,ML,myk,Mamara Senoufo,I
 3,q3,282,Senufo,9,ML,shz,Syenara Senoufo,I
 3,q3,282,Senufo,9,ML,spp,Supyire Senoufo,I
 3,q3,283,Mianka,9,ML,myk,Mamara Senoufo,I
 3,q3,284,Mossi,9,ML,mos,Mossi,I
 3,q3,285,Sonink,9,ML,snk,Soninke,I
-3,q3,286,Malink,9,ML,man,Mandingo,M
 3,q3,286,Malink,9,ML,mlq,Western Maninkakan,I
 3,q3,286,Malink,9,ML,mwk,Kita Maninkakan,I
 3,q3,287,Khasonk,9,ML,kao,Xaasongaxango,I
@@ -1574,7 +1375,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,295,Sonrha,9,ML,ses,Koyraboro Senni Songhai,I
 3,q3,296,Bella,9,ML,ses,Koyraboro Senni Songhai,I
 3,q3,297,Tamasheq,9,ML,taq,Tamasheq,I
-3,q3,297,Tamasheq,9,ML,tmh,Tamashek,M
 3,q3,297,Tamasheq,9,ML,ttq,Tawallammat Tamajaq,I
 3,q3,298,Dafing,9,ML,rkm,Marka,I
 3,q3,300,Makua,10,MZ,vmw,Makhuwa,I
@@ -1611,12 +1411,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,344,Efik,12,NG,efi,Efik,I
 3,q3,345,Ebira,12,NG,igb,Ebira,I
 3,q3,346,Fulani,12,NG,fub,Adamawa Fulfulde,I
-3,q3,346,Fulani,12,NG,ful,Fulah,M
 3,q3,347,Isoko,12,NG,iso,Isoko,I
 3,q3,348,Ibibio,12,NG,ibb,Ibibio,I
 3,q3,349,Kanuri,12,NG,kau,Kanuri,M
-3,q3,349,Kanuri,12,NG,kby,Manga Kanuri,I
-3,q3,349,Kanuri,12,NG,knc,Central Kanuri,I
 3,q3,350,Tiv,12,NG,tiv,Tiv,I
 3,q3,351,Nupe,12,NG,nup,Nupe-Nupe-Tako,I
 3,q3,352,Ijaw,12,NG,ijc,Izon,I
@@ -1630,14 +1427,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,359,Ukwani,12,NG,ukw,Ukwuani-Aboh-Ndoni,I
 3,q3,360,Wolof,13,SN,wol,Wolof,I
 3,q3,361,Pular,13,SN,fuf,Pular,I
-3,q3,361,Pular,13,SN,ful,Fulah,M
 3,q3,362,Serer,13,SN,srr,Serer,I
-3,q3,363,Mandinka,13,SN,man,Mandingo,M
 3,q3,363,Mandinka,13,SN,mnk,Mandinka,I
 3,q3,364,Sonike,13,SN,snk,Soninke,I
 3,q3,365,Diola,13,SN,dyo,Jola-Fonyi,I
 3,q3,366,Manjack,13,SN,mfv,Mandjak,I
-3,q3,367,Bambara,13,SN,man,Mandingo,M
 3,q3,367,Bambara,13,SN,mnk,Mandinka,I
 3,q3,368,Bainouk,13,SN,bcb,Bainouk-Samik,I
 3,q3,368,Bainouk,13,SN,bcz,Bainouk-Gunyaamolo,I
@@ -1669,6 +1463,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,411,Kumam,16,UG,kdi,Kumam,I
 3,q3,412,Kuksabin,16,UG,kpz,Kupsabiny,I
 3,q3,413,Luo,16,UG,ach,Acoli,I
+3,q3,413,Luo,16,UG,adh,Adhola,I
+3,q3,413,Luo,16,UG,alz,Alur,I
+3,q3,413,Luo,16,UG,kdi,Kumam,I
+3,q3,413,Luo,16,UG,laj,Lango (Uganda),I
+3,q3,413,Luo,16,UG,lth,Thur,I
 3,q3,414,Lugbara,16,UG,lgg,Lugbara,I
 3,q3,415,Lugwere,16,UG,gwr,Gwere,I
 3,q3,416,Madi,16,UG,mhi,Ma'di,I
@@ -1711,7 +1510,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,509,Rwamba,16,UG,rwm,Amba (Uganda),I
 3,q3,510,Runyankole,16,UG,nyn,Nyankole,I
 3,q3,511,Samia,16,UG,lsm,Saamia,I
-3,q3,511,Samia,16,UG,luy,Luyia,M
 3,q3,550,Anang,12,NG,anw,Anaang,I
 3,q3,553,Kadara,12,NG,kad,Adara,I
 3,q3,555,Bahumono,12,NG,bcs,Kohumono,I
@@ -1730,29 +1528,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,569,Sayawa,12,NG,say,Saya,I
 3,q3,580,Itsekiri,12,NG,its,Isekiri,I
 3,q3,803,Tanchoni,5,KE,lts,Tachoni,I
-3,q3,803,Tanchoni,5,KE,luy,Luyia,M
 3,q3,804,Bukusu,5,KE,bxk,Bukusu,I
-3,q3,804,Bukusu,5,KE,luy,Luyia,M
-3,q3,805,Nyore,5,KE,luy,Luyia,M
 3,q3,805,Nyore,5,KE,nyd,Nyore,I
 3,q3,806,Marama,5,KE,lrm,Marama,I
-3,q3,806,Marama,5,KE,luy,Luyia,M
-3,q3,807,Sabaot,5,KE,kln,Kalenjin,M
 3,q3,807,Sabaot,5,KE,spy,Sabaot,I
-3,q3,808,Wanga,5,KE,luy,Luyia,M
 3,q3,808,Wanga,5,KE,lwg,Wanga,I
 3,q3,809,Kabarasi,5,KE,lkb,Kabras,I
-3,q3,809,Kabarasi,5,KE,luy,Luyia,M
-3,q3,810,Nyala,5,KE,luy,Luyia,M
 3,q3,810,Nyala,5,KE,nle,East Nyala,I
 3,q3,811,Vatsotso,5,KE,lto,Tsotso,I
-3,q3,811,Vatsotso,5,KE,luy,Luyia,M
-3,q3,813,Kipsigis,5,KE,kln,Kalenjin,M
 3,q3,813,Kipsigis,5,KE,sgc,Kipsigis,I
-3,q3,814,Tugen,5,KE,kln,Kalenjin,M
 3,q3,814,Tugen,5,KE,tuy,Tugen,I
 3,q3,815,Boran,5,KE,gax,Borana-Arsi-Guji Oromo,I
-3,q3,815,Boran,5,KE,orm,Oromo,M
 3,q3,817,Indian,5,KE,guj,Gujarati,I
 3,q3,818,Burji,5,KE,bji,Burji,I
 3,q3,819,Kuria,5,KE,kuj,Kuria,I
@@ -1800,11 +1586,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q103,2,French,18,UG,fra,French,I
 4,Q103,3,Portuguese,12,MZ,por,Portuguese,I
 4,Q103,3,Portuguese,18,UG,por,Portuguese,I
-4,Q103,4,Kiswahili,6,KE,swa,Swahili (macrolanguage),M
 4,Q103,4,Kiswahili,6,KE,swh,Swahili (individual language),I
-4,Q103,4,Kiswahili,17,TZ,swa,Swahili (macrolanguage),M
 4,Q103,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
-4,Q103,4,Kiswahili,18,UG,swa,Swahili (macrolanguage),M
 4,Q103,4,Kiswahili,18,UG,swh,Swahili (individual language),I
 4,Q103,100,Fon,1,BJ,fon,Fon,I
 4,Q103,101,Adja,1,BJ,ajg,Aja (Benin),I
@@ -1816,12 +1599,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q103,182,Moore,3,BF,mos,Mossi,I
 4,Q103,183,Dioula,3,BF,dyu,Dyula,I
 4,Q103,184,Fulfude,3,BF,fuh,Western Niger Fulfulde,I
-4,Q103,184,Fulfude,3,BF,ful,Fulah,M
 4,Q103,220,Crioulo,4,CV,kea,Kabuverdianu,I
 4,Q103,221,Portugues,4,CV,por,Portuguese,I
 4,Q103,260,Akan,5,GH,aka,Akan,M
-4,Q103,260,Akan,5,GH,fat,Fanti,I
-4,Q103,260,Akan,5,GH,twi,Twi,I
 4,Q103,261,Ewe,5,GH,ewe,Ewe,I
 4,Q103,262,Ga/Dangbe,5,GH,ada,Adangme,I
 4,Q103,262,Ga/Dangbe,5,GH,gaa,Ga,I
@@ -1831,40 +1611,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q103,278,Mamprusi,5,GH,maw,Mampruli,I
 4,Q103,300,Kikuyu,6,KE,kik,Kikuyu,I
 4,Q103,301,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
-4,Q103,302,Luhya,6,KE,bxk,Bukusu,I
-4,Q103,302,Luhya,6,KE,ida,Idakho-Isukha-Tiriki,I
-4,Q103,302,Luhya,6,KE,lkb,Kabras,I
-4,Q103,302,Luhya,6,KE,lko,Khayo,I
-4,Q103,302,Luhya,6,KE,lks,Kisa,I
-4,Q103,302,Luhya,6,KE,lri,Marachi,I
-4,Q103,302,Luhya,6,KE,lrm,Marama,I
-4,Q103,302,Luhya,6,KE,lsm,Saamia,I
-4,Q103,302,Luhya,6,KE,lto,Tsotso,I
-4,Q103,302,Luhya,6,KE,lts,Tachoni,I
 4,Q103,302,Luhya,6,KE,luy,Luyia,M
-4,Q103,302,Luhya,6,KE,nle,East Nyala,I
-4,Q103,302,Luhya,6,KE,nyd,Nyore,I
-4,Q103,302,Luhya,6,KE,rag,Logooli,I
 4,Q103,303,Kamba,6,KE,kam,Kamba (Kenya),I
-4,Q103,304,Kalenjin,6,KE,enb,Markweeta,I
-4,Q103,304,Kalenjin,6,KE,eyo,Keiyo,I
 4,Q103,304,Kalenjin,6,KE,kln,Kalenjin,M
-4,Q103,304,Kalenjin,6,KE,niq,Nandi,I
-4,Q103,304,Kalenjin,6,KE,oki,Okiek,I
-4,Q103,304,Kalenjin,6,KE,pko,Pökoot,I
-4,Q103,304,Kalenjin,6,KE,sgc,Kipsigis,I
-4,Q103,304,Kalenjin,6,KE,spy,Sabaot,I
-4,Q103,304,Kalenjin,6,KE,tec,Terik,I
-4,Q103,304,Kalenjin,6,KE,tuy,Tugen,I
 4,Q103,310,Somali,6,KE,som,Somali,I
 4,Q103,340,Sesotho,7,LS,sot,Southern Sotho,I
 4,Q103,396,Simple Liberian English,8,LR,lir,Liberian English,I
-4,Q103,420,Official malagasy,9,MG,mlg,Malagasy,M
 4,Q103,420,Official malagasy,9,MG,plt,Plateau Malagasy,I
 4,Q103,421,Malagasy with regional variation,9,MG,bhr,Bara Malagasy,I
 4,Q103,421,Malagasy with regional variation,9,MG,bmm,Northern Betsimisaraka Malagasy,I
 4,Q103,421,Malagasy with regional variation,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,mlg,Malagasy,M
 4,Q103,421,Malagasy with regional variation,9,MG,msh,Masikoro Malagasy,I
 4,Q103,421,Malagasy with regional variation,9,MG,skg,Sakalava Malagasy,I
 4,Q103,421,Malagasy with regional variation,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -1877,13 +1633,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q103,464,Yao,10,MW,yao,Yao,I
 4,Q103,500,Arabe,11,ML,mey,Hassaniyya,I
 4,Q103,512,Peulh/ Fulfulde,11,ML,ffm,Maasina Fulfulde,I
-4,Q103,512,Peulh/ Fulfulde,11,ML,ful,Fulah,M
 4,Q103,514,Soninke/ Sarakoll,11,ML,snk,Soninke,I
 4,Q103,515,Sonrhai,11,ML,hmb,Humburi Senni Songhay,I
 4,Q103,515,Sonrhai,11,ML,khq,Koyra Chiini Songhay,I
 4,Q103,515,Sonrhai,11,ML,ses,Koyraboro Senni Songhai,I
 4,Q103,516,Tamasheq,11,ML,taq,Tamasheq,I
-4,Q103,516,Tamasheq,11,ML,tmh,Tamashek,M
 4,Q103,516,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
 4,Q103,541,Makua,12,MZ,vmw,Makhuwa,I
 4,Q103,542,Sena,12,MZ,seh,Sena,I
@@ -1906,9 +1660,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q103,623,Pidgin English,14,NG,pcm,Nigerian Pidgin,I
 4,Q103,660,Wolof,15,SN,wol,Wolof,I
 4,Q103,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
-4,Q103,661,Pulaar/Toucouleur,15,SN,ful,Fulah,M
 4,Q103,662,Serer,15,SN,srr,Serer,I
-4,Q103,663,Mandinka/Bambara,15,SN,man,Mandingo,M
 4,Q103,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
 4,Q103,665,Diola,15,SN,dyo,Jola-Fonyi,I
 4,Q103,700,Afrikaans,16,ZA,afr,Afrikaans,I
@@ -1945,9 +1697,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,2,French,1,BJ,fra,French,I
 4,Q114,2,French,11,ML,fra,French,I
 4,Q114,3,Portuguese,12,MZ,por,Portuguese,I
-4,Q114,4,Kiswahili,6,KE,swa,Swahili (macrolanguage),M
 4,Q114,4,Kiswahili,6,KE,swh,Swahili (individual language),I
-4,Q114,4,Kiswahili,17,TZ,swa,Swahili (macrolanguage),M
 4,Q114,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
 4,Q114,100,Fon,1,BJ,fon,Fon,I
 4,Q114,101,Adja,1,BJ,ajg,Aja (Benin),I
@@ -1962,13 +1712,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,182,Moore,3,BF,mos,Mossi,I
 4,Q114,183,Dioula,3,BF,dyu,Dyula,I
 4,Q114,184,Fulfude,3,BF,fuh,Western Niger Fulfulde,I
-4,Q114,184,Fulfude,3,BF,ful,Fulah,M
 4,Q114,186,Gourounsi,3,BF,gur,Farefare,I
 4,Q114,220,Crioulo,4,CV,kea,Kabuverdianu,I
 4,Q114,221,Portugues,4,CV,por,Portuguese,I
 4,Q114,260,Akan,5,GH,aka,Akan,M
-4,Q114,260,Akan,5,GH,fat,Fanti,I
-4,Q114,260,Akan,5,GH,twi,Twi,I
 4,Q114,261,Ewe,5,GH,ewe,Ewe,I
 4,Q114,262,Ga/Dangbe,5,GH,ada,Adangme,I
 4,Q114,262,Ga/Dangbe,5,GH,gaa,Ga,I
@@ -1979,31 +1726,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,268,Sefwi,5,GH,sfw,Sehwi,I
 4,Q114,300,Kikuyu,6,KE,kik,Kikuyu,I
 4,Q114,301,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
-4,Q114,302,Luhya,6,KE,bxk,Bukusu,I
-4,Q114,302,Luhya,6,KE,ida,Idakho-Isukha-Tiriki,I
-4,Q114,302,Luhya,6,KE,lkb,Kabras,I
-4,Q114,302,Luhya,6,KE,lko,Khayo,I
-4,Q114,302,Luhya,6,KE,lks,Kisa,I
-4,Q114,302,Luhya,6,KE,lri,Marachi,I
-4,Q114,302,Luhya,6,KE,lrm,Marama,I
-4,Q114,302,Luhya,6,KE,lsm,Saamia,I
-4,Q114,302,Luhya,6,KE,lto,Tsotso,I
-4,Q114,302,Luhya,6,KE,lts,Tachoni,I
 4,Q114,302,Luhya,6,KE,luy,Luyia,M
-4,Q114,302,Luhya,6,KE,nle,East Nyala,I
-4,Q114,302,Luhya,6,KE,nyd,Nyore,I
-4,Q114,302,Luhya,6,KE,rag,Logooli,I
 4,Q114,303,Kamba,6,KE,kam,Kamba (Kenya),I
-4,Q114,304,Kalenjin,6,KE,enb,Markweeta,I
-4,Q114,304,Kalenjin,6,KE,eyo,Keiyo,I
 4,Q114,304,Kalenjin,6,KE,kln,Kalenjin,M
-4,Q114,304,Kalenjin,6,KE,niq,Nandi,I
-4,Q114,304,Kalenjin,6,KE,oki,Okiek,I
-4,Q114,304,Kalenjin,6,KE,pko,Pökoot,I
-4,Q114,304,Kalenjin,6,KE,sgc,Kipsigis,I
-4,Q114,304,Kalenjin,6,KE,spy,Sabaot,I
-4,Q114,304,Kalenjin,6,KE,tec,Terik,I
-4,Q114,304,Kalenjin,6,KE,tuy,Tugen,I
 4,Q114,305,Kisii,6,KE,guz,Gusii,I
 4,Q114,309,Taita,6,KE,dav,Taita,I
 4,Q114,310,Somali,6,KE,som,Somali,I
@@ -2013,24 +1738,20 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,385,Gola,8,LR,gol,Gola,I
 4,Q114,386,Grebo,8,LR,gbo,Northern Grebo,I
 4,Q114,386,Grebo,8,LR,gec,Gboloo Grebo,I
-4,Q114,386,Grebo,8,LR,grb,Grebo,M
 4,Q114,386,Grebo,8,LR,grj,Southern Grebo,I
 4,Q114,386,Grebo,8,LR,grv,Central Grebo,I
 4,Q114,386,Grebo,8,LR,gry,Barclayville Grebo,I
 4,Q114,387,Kissi,8,LR,kss,Southern Kisi,I
-4,Q114,388,Kpelle,8,LR,kpe,Kpelle,M
 4,Q114,388,Kpelle,8,LR,xpe,Liberia Kpelle,I
 4,Q114,390,Kru,8,LR,klu,Klao,I
 4,Q114,391,Lorma,8,LR,lom,Loma (Liberia),I
 4,Q114,392,Mandingo,8,LR,mzj,Manya,I
 4,Q114,395,Vai,8,LR,vai,Vai,I
 4,Q114,396,Simple Liberian English,8,LR,lir,Liberian English,I
-4,Q114,420,Official malagasy,9,MG,mlg,Malagasy,M
 4,Q114,420,Official malagasy,9,MG,plt,Plateau Malagasy,I
 4,Q114,421,Malagasy with regional variation,9,MG,bhr,Bara Malagasy,I
 4,Q114,421,Malagasy with regional variation,9,MG,bmm,Northern Betsimisaraka Malagasy,I
 4,Q114,421,Malagasy with regional variation,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,mlg,Malagasy,M
 4,Q114,421,Malagasy with regional variation,9,MG,msh,Masikoro Malagasy,I
 4,Q114,421,Malagasy with regional variation,9,MG,skg,Sakalava Malagasy,I
 4,Q114,421,Malagasy with regional variation,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -2040,7 +1761,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,421,Malagasy with regional variation,9,MG,xmw,Tsimihety Malagasy,I
 4,Q114,460,Tumbuka,10,MW,tum,Tumbuka,I
 4,Q114,463,Chewa,10,MW,nya,Nyanja,I
-4,Q114,465,Ngoni,10,MW,zul,Zulu,I
+4,Q114,465,Ngoni,10,MW,nya,Nyanja,I
 4,Q114,466,Lomwe,10,MW,lon,Malawi Lomwe,I
 4,Q114,467,Mang'anja,10,MW,nya,Nyanja,I
 4,Q114,473,Ndali,10,MW,ndh,Ndali,I
@@ -2048,18 +1769,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,506,Dogon,11,ML,dds,Donno So Dogon,I
 4,Q114,506,Dogon,11,ML,djm,Jamsay Dogon,I
 4,Q114,506,Dogon,11,ML,dts,Toro So Dogon,I
-4,Q114,509,Malinke,11,ML,man,Mandingo,M
-4,Q114,509,Malinke,11,ML,mlg,Malagasy,M
+4,Q114,509,Malinke,11,ML,kao,Xaasongaxango,I
+4,Q114,509,Malinke,11,ML,mlq,Western Maninkakan,I
 4,Q114,509,Malinke,11,ML,mwk,Kita Maninkakan,I
 4,Q114,512,Peulh/ Fulfulde,11,ML,ffm,Maasina Fulfulde,I
-4,Q114,512,Peulh/ Fulfulde,11,ML,ful,Fulah,M
 4,Q114,513,Senufo/ Mianka,11,ML,myk,Mamara Senoufo,I
 4,Q114,514,Soninke/ Sarakoll,11,ML,snk,Soninke,I
 4,Q114,515,Sonrhai,11,ML,hmb,Humburi Senni Songhay,I
 4,Q114,515,Sonrhai,11,ML,khq,Koyra Chiini Songhay,I
 4,Q114,515,Sonrhai,11,ML,ses,Koyraboro Senni Songhai,I
 4,Q114,516,Tamasheq,11,ML,taq,Tamasheq,I
-4,Q114,516,Tamasheq,11,ML,tmh,Tamashek,M
 4,Q114,516,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
 4,Q114,541,Makua,12,MZ,vmw,Makhuwa,I
 4,Q114,542,Sena,12,MZ,seh,Sena,I
@@ -2080,11 +1799,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,624,Efik,14,NG,efi,Efik,I
 4,Q114,625,Ebira,14,NG,igb,Ebira,I
 4,Q114,626,Fulani,14,NG,fub,Adamawa Fulfulde,I
-4,Q114,626,Fulani,14,NG,ful,Fulah,M
 4,Q114,628,Ibibio,14,NG,ibb,Ibibio,I
 4,Q114,629,Kanuri,14,NG,kau,Kanuri,M
-4,Q114,629,Kanuri,14,NG,kby,Manga Kanuri,I
-4,Q114,629,Kanuri,14,NG,knc,Central Kanuri,I
 4,Q114,630,Tiv,14,NG,tiv,Tiv,I
 4,Q114,631,Nupe,14,NG,nup,Nupe-Nupe-Tako,I
 4,Q114,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,14,NG,ijc,Izon,I
@@ -2100,8 +1816,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,645,Marghi,14,NG,mfl,Putai,I
 4,Q114,645,Marghi,14,NG,mfm,Marghi South,I
 4,Q114,645,Marghi,14,NG,mrt,Marghi Central,I
-4,Q114,646,Gbagyi,14,NG,gba,Gbaya (Central African Republic),M
-4,Q114,646,Gbagyi,14,NG,gya,Northwest Gbaya,I
+4,Q114,646,Gbagyi,14,NG,gbr,Gbagyi,I
 4,Q114,647,Ugep,14,NG,yaz,Lokaa,I
 4,Q114,648,Kambari,14,NG,yaz,Lokaa,I
 4,Q114,649,Eggon,14,NG,ego,Eggon,I
@@ -2117,9 +1832,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,659,Jukun,14,NG,jbu,Jukun Takum,I
 4,Q114,660,Wolof,15,SN,wol,Wolof,I
 4,Q114,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
-4,Q114,661,Pulaar/Toucouleur,15,SN,ful,Fulah,M
 4,Q114,662,Serer,15,SN,srr,Serer,I
-4,Q114,663,Mandinka/Bambara,15,SN,man,Mandingo,M
 4,Q114,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
 4,Q114,665,Diola,15,SN,dyo,Jola-Fonyi,I
 4,Q114,700,Afrikaans,16,ZA,afr,Afrikaans,I
@@ -2193,11 +1906,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,3,Portuguese,12,MZ,por,Portuguese,I
 4,Q3,3,Portuguese,13,NA,por,Portuguese,I
 4,Q3,3,Portuguese,16,ZA,por,Portuguese,I
-4,Q3,4,Kiswahili,6,KE,swa,Swahili (macrolanguage),M
 4,Q3,4,Kiswahili,6,KE,swh,Swahili (individual language),I
-4,Q3,4,Kiswahili,17,TZ,swa,Swahili (macrolanguage),M
 4,Q3,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
-4,Q3,4,Kiswahili,18,UG,swa,Swahili (macrolanguage),M
 4,Q3,4,Kiswahili,18,UG,swh,Swahili (individual language),I
 4,Q3,100,Fon,1,BJ,fon,Fon,I
 4,Q3,101,Adja,1,BJ,ajg,Aja (Benin),I
@@ -2207,7 +1917,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,105,Otamari,1,BJ,tbz,Ditammari,I
 4,Q3,106,Peulh,1,BJ,fue,Borgu Fulfulde,I
 4,Q3,106,Peulh,1,BJ,fuh,Western Niger Fulfulde,I
-4,Q3,106,Peulh,1,BJ,ful,Fulah,M
 4,Q3,107,Yoa,1,BJ,pil,Yom,I
 4,Q3,108,Goun,1,BJ,guw,Gun,I
 4,Q3,109,Mina,1,BJ,gej,Gen,I
@@ -2228,7 +1937,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,182,Moore,3,BF,mos,Mossi,I
 4,Q3,183,Dioula,3,BF,dyu,Dyula,I
 4,Q3,184,Fulfude,3,BF,fuh,Western Niger Fulfulde,I
-4,Q3,184,Fulfude,3,BF,ful,Fulah,M
 4,Q3,185,Gulmacema,3,BF,gux,Gourmanchéma,I
 4,Q3,186,Gourounsi,3,BF,gur,Farefare,I
 4,Q3,187,Bobo,3,BF,bbo,Northern Bobo Madaré,I
@@ -2259,8 +1967,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,220,Crioulo,4,CV,kea,Kabuverdianu,I
 4,Q3,221,Portugues,4,CV,por,Portuguese,I
 4,Q3,260,Akan,5,GH,aka,Akan,M
-4,Q3,260,Akan,5,GH,fat,Fanti,I
-4,Q3,260,Akan,5,GH,twi,Twi,I
 4,Q3,261,Ewe,5,GH,ewe,Ewe,I
 4,Q3,262,Ga/Dangbe,5,GH,ada,Adangme,I
 4,Q3,262,Ga/Dangbe,5,GH,gaa,Ga,I
@@ -2271,7 +1977,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,267,Brosa,5,GH,any,Anyin,I
 4,Q3,268,Sefwi,5,GH,sfw,Sehwi,I
 4,Q3,269,Dagaari,5,GH,dga,Southern Dagaare,I
-4,Q3,270,Gruma,5,GH,kma,Konni,I
+4,Q3,270,Gruma,5,GH,bim,Bimoba,I
 4,Q3,271,Frafra,5,GH,gur,Farefare,I
 4,Q3,272,Kokonba,5,GH,xon,Konkomba,I
 4,Q3,273,Dagate,5,GH,dga,Southern Dagaare,I
@@ -2299,31 +2005,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,285,Basare,5,GH,bud,Ntcham,I
 4,Q3,300,Kikuyu,6,KE,kik,Kikuyu,I
 4,Q3,301,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
-4,Q3,302,Luhya,6,KE,bxk,Bukusu,I
-4,Q3,302,Luhya,6,KE,ida,Idakho-Isukha-Tiriki,I
-4,Q3,302,Luhya,6,KE,lkb,Kabras,I
-4,Q3,302,Luhya,6,KE,lko,Khayo,I
-4,Q3,302,Luhya,6,KE,lks,Kisa,I
-4,Q3,302,Luhya,6,KE,lri,Marachi,I
-4,Q3,302,Luhya,6,KE,lrm,Marama,I
-4,Q3,302,Luhya,6,KE,lsm,Saamia,I
-4,Q3,302,Luhya,6,KE,lto,Tsotso,I
-4,Q3,302,Luhya,6,KE,lts,Tachoni,I
 4,Q3,302,Luhya,6,KE,luy,Luyia,M
-4,Q3,302,Luhya,6,KE,nle,East Nyala,I
-4,Q3,302,Luhya,6,KE,nyd,Nyore,I
-4,Q3,302,Luhya,6,KE,rag,Logooli,I
 4,Q3,303,Kamba,6,KE,kam,Kamba (Kenya),I
-4,Q3,304,Kalenjin,6,KE,enb,Markweeta,I
-4,Q3,304,Kalenjin,6,KE,eyo,Keiyo,I
 4,Q3,304,Kalenjin,6,KE,kln,Kalenjin,M
-4,Q3,304,Kalenjin,6,KE,niq,Nandi,I
-4,Q3,304,Kalenjin,6,KE,oki,Okiek,I
-4,Q3,304,Kalenjin,6,KE,pko,Pökoot,I
-4,Q3,304,Kalenjin,6,KE,sgc,Kipsigis,I
-4,Q3,304,Kalenjin,6,KE,spy,Sabaot,I
-4,Q3,304,Kalenjin,6,KE,tec,Terik,I
-4,Q3,304,Kalenjin,6,KE,tuy,Tugen,I
 4,Q3,305,Kisii,6,KE,guz,Gusii,I
 4,Q3,306,Meru/Embu,6,KE,ebu,Embu,I
 4,Q3,306,Meru/Embu,6,KE,mer,Meru,I
@@ -2334,12 +2018,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,308,MijiKenda,6,KE,nyf,Giryama,I
 4,Q3,309,Taita,6,KE,dav,Taita,I
 4,Q3,310,Somali,6,KE,som,Somali,I
-4,Q3,311,Pokot,6,KE,kln,Kalenjin,M
 4,Q3,311,Pokot,6,KE,pko,Pökoot,I
 4,Q3,312,Turkana,6,KE,tuv,Turkana,I
 4,Q3,313,Teso,6,KE,teo,Teso,I
 4,Q3,314,Gabra,6,KE,gax,Borana-Arsi-Guji Oromo,I
-4,Q3,314,Gabra,6,KE,orm,Oromo,M
 4,Q3,340,Sesotho,7,LS,sot,Southern Sotho,I
 4,Q3,342,Sethepu,7,LS,xho,Xhosa,I
 4,Q3,380,Bassa,8,LR,bsq,Bassa,I
@@ -2349,12 +2031,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,385,Gola,8,LR,gol,Gola,I
 4,Q3,386,Grebo,8,LR,gbo,Northern Grebo,I
 4,Q3,386,Grebo,8,LR,gec,Gboloo Grebo,I
-4,Q3,386,Grebo,8,LR,grb,Grebo,M
 4,Q3,386,Grebo,8,LR,grj,Southern Grebo,I
 4,Q3,386,Grebo,8,LR,grv,Central Grebo,I
 4,Q3,386,Grebo,8,LR,gry,Barclayville Grebo,I
 4,Q3,387,Kissi,8,LR,kss,Southern Kisi,I
-4,Q3,388,Kpelle,8,LR,kpe,Kpelle,M
 4,Q3,388,Kpelle,8,LR,xpe,Liberia Kpelle,I
 4,Q3,389,Krahn,8,LR,kqo,Eastern Krahn,I
 4,Q3,389,Krahn,8,LR,krw,Western Krahn,I
@@ -2366,12 +2046,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,395,Vai,8,LR,vai,Vai,I
 4,Q3,396,Simple Liberian English,8,LR,lir,Liberian English,I
 4,Q3,397,Sarpo,8,LR,krn,Sapo,I
-4,Q3,420,Official malagasy,9,MG,mlg,Malagasy,M
 4,Q3,420,Official malagasy,9,MG,plt,Plateau Malagasy,I
 4,Q3,421,Malagasy with regional variation,9,MG,bhr,Bara Malagasy,I
 4,Q3,421,Malagasy with regional variation,9,MG,bmm,Northern Betsimisaraka Malagasy,I
 4,Q3,421,Malagasy with regional variation,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,mlg,Malagasy,M
 4,Q3,421,Malagasy with regional variation,9,MG,msh,Masikoro Malagasy,I
 4,Q3,421,Malagasy with regional variation,9,MG,skg,Sakalava Malagasy,I
 4,Q3,421,Malagasy with regional variation,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -2384,7 +2062,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,462,Lambya,10,MW,lai,Lambya,I
 4,Q3,463,Chewa,10,MW,nya,Nyanja,I
 4,Q3,464,Yao,10,MW,yao,Yao,I
-4,Q3,465,Ngoni,10,MW,zul,Zulu,I
+4,Q3,465,Ngoni,10,MW,nya,Nyanja,I
 4,Q3,466,Lomwe,10,MW,lon,Malawi Lomwe,I
 4,Q3,467,Mang'anja,10,MW,nya,Nyanja,I
 4,Q3,468,Sena,10,MW,swk,Malawi Sena,I
@@ -2406,20 +2084,18 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,506,Dogon,11,ML,djm,Jamsay Dogon,I
 4,Q3,506,Dogon,11,ML,dts,Toro So Dogon,I
 4,Q3,508,Khassonke,11,ML,kao,Xaasongaxango,I
-4,Q3,509,Malinke,11,ML,man,Mandingo,M
-4,Q3,509,Malinke,11,ML,mlg,Malagasy,M
+4,Q3,509,Malinke,11,ML,kao,Xaasongaxango,I
+4,Q3,509,Malinke,11,ML,mlq,Western Maninkakan,I
 4,Q3,509,Malinke,11,ML,mwk,Kita Maninkakan,I
 4,Q3,510,Maure,11,ML,mey,Hassaniyya,I
 4,Q3,511,Mossi,11,ML,mos,Mossi,I
 4,Q3,512,Peulh/ Fulfulde,11,ML,ffm,Maasina Fulfulde,I
-4,Q3,512,Peulh/ Fulfulde,11,ML,ful,Fulah,M
 4,Q3,513,Senufo/ Mianka,11,ML,myk,Mamara Senoufo,I
 4,Q3,514,Soninke/ Sarakoll,11,ML,snk,Soninke,I
 4,Q3,515,Sonrhai,11,ML,hmb,Humburi Senni Songhay,I
 4,Q3,515,Sonrhai,11,ML,khq,Koyra Chiini Songhay,I
 4,Q3,515,Sonrhai,11,ML,ses,Koyraboro Senni Songhai,I
 4,Q3,516,Tamasheq,11,ML,taq,Tamasheq,I
-4,Q3,516,Tamasheq,11,ML,tmh,Tamashek,M
 4,Q3,516,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
 4,Q3,518,Haoussa,11,ML,hau,Hausa,I
 4,Q3,520,Kakolo,11,ML,xkg,Kagoro,I
@@ -2468,12 +2144,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,624,Efik,14,NG,efi,Efik,I
 4,Q3,625,Ebira,14,NG,igb,Ebira,I
 4,Q3,626,Fulani,14,NG,fub,Adamawa Fulfulde,I
-4,Q3,626,Fulani,14,NG,ful,Fulah,M
 4,Q3,627,Isoko,14,NG,iso,Isoko,I
 4,Q3,628,Ibibio,14,NG,ibb,Ibibio,I
 4,Q3,629,Kanuri,14,NG,kau,Kanuri,M
-4,Q3,629,Kanuri,14,NG,kby,Manga Kanuri,I
-4,Q3,629,Kanuri,14,NG,knc,Central Kanuri,I
 4,Q3,630,Tiv,14,NG,tiv,Tiv,I
 4,Q3,631,Nupe,14,NG,nup,Nupe-Nupe-Tako,I
 4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,14,NG,ijc,Izon,I
@@ -2489,8 +2162,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,645,Marghi,14,NG,mfl,Putai,I
 4,Q3,645,Marghi,14,NG,mfm,Marghi South,I
 4,Q3,645,Marghi,14,NG,mrt,Marghi Central,I
-4,Q3,646,Gbagyi,14,NG,gba,Gbaya (Central African Republic),M
-4,Q3,646,Gbagyi,14,NG,gya,Northwest Gbaya,I
+4,Q3,646,Gbagyi,14,NG,gbr,Gbagyi,I
 4,Q3,647,Ugep,14,NG,yaz,Lokaa,I
 4,Q3,648,Kambari,14,NG,yaz,Lokaa,I
 4,Q3,649,Eggon,14,NG,ego,Eggon,I
@@ -2505,9 +2177,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,659,Jukun,14,NG,jbu,Jukun Takum,I
 4,Q3,660,Wolof,15,SN,wol,Wolof,I
 4,Q3,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
-4,Q3,661,Pulaar/Toucouleur,15,SN,ful,Fulah,M
 4,Q3,662,Serer,15,SN,srr,Serer,I
-4,Q3,663,Mandinka/Bambara,15,SN,man,Mandingo,M
 4,Q3,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
 4,Q3,664,Soninke,15,SN,snk,Soninke,I
 4,Q3,665,Diola,15,SN,dyo,Jola-Fonyi,I
@@ -2579,7 +2249,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,791,Madi,18,UG,snm,Southern Ma'di,I
 4,Q3,792,Japhadhola,18,UG,adh,Adhola,I
 4,Q3,793,Lusamia,18,UG,lsm,Saamia,I
-4,Q3,793,Lusamia,18,UG,luy,Luyia,M
 4,Q3,794,Lugwere,18,UG,gwr,Gwere,I
 4,Q3,795,Rukiga,18,UG,cgg,Chiga,I
 4,Q3,796,Rutooro,18,UG,ttj,Tooro,I
@@ -2679,32 +2348,29 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q103,3,Portuguese,4,CV,por,Portuguese,I
 5,Q103,3,Portuguese,9,MG,por,Portuguese,I
 5,Q103,3,Portuguese,12,MZ,por,Portuguese,I
-5,Q103,4,Kiswahili,6,KE,swa,Swahili (macrolanguage),M
 5,Q103,4,Kiswahili,6,KE,swh,Swahili (individual language),I
-5,Q103,4,Kiswahili,17,TZ,swa,Swahili (macrolanguage),M
 5,Q103,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
-5,Q103,5,Arabic,31,DZ,ara,Arabic,M
 5,Q103,5,Arabic,31,DZ,arb,Standard Arabic,I
-5,Q103,5,Arabic,32,EG,ara,Arabic,M
 5,Q103,5,Arabic,32,EG,arb,Standard Arabic,I
-5,Q103,5,Arabic,33,MA,ara,Arabic,M
 5,Q103,5,Arabic,33,MA,arb,Standard Arabic,I
-5,Q103,5,Arabic,34,SD,ara,Arabic,M
 5,Q103,5,Arabic,34,SD,arb,Standard Arabic,I
-5,Q103,5,Arabic,35,TN,ara,Arabic,M
 5,Q103,5,Arabic,35,TN,arb,Standard Arabic,I
 5,Q103,7,Afrikaans,13,NA,afr,Afrikaans,I
 5,Q103,7,Afrikaans,16,ZA,afr,Afrikaans,I
 5,Q103,13,Dioula,3,BF,dyu,Dyula,I
 5,Q103,13,Dioula,27,CI,dyu,Dyula,I
 5,Q103,15,Fulfuldé,3,BF,fuh,Western Niger Fulfulde,I
-5,Q103,15,Fulfuldé,3,BF,ful,Fulah,M
-5,Q103,15,Fulfuldé,23,NE,ful,Fulah,M
+5,Q103,15,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
 5,Q103,15,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
 5,Q103,17,Hausa,5,GH,hau,Hausa,I
 5,Q103,17,Hausa,14,NG,hau,Hausa,I
 5,Q103,26,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
 5,Q103,26,Luo,18,UG,ach,Acoli,I
+5,Q103,26,Luo,18,UG,adh,Adhola,I
+5,Q103,26,Luo,18,UG,alz,Alur,I
+5,Q103,26,Luo,18,UG,kdi,Kumam,I
+5,Q103,26,Luo,18,UG,laj,Lango (Uganda),I
+5,Q103,26,Luo,18,UG,lth,Thur,I
 5,Q103,29,Ndau,12,MZ,ndc,Ndau,I
 5,Q103,29,Ndau,20,ZW,ndc,Ndau,I
 5,Q103,35,siSwati,30,SZ,ssw,Swati,I
@@ -2719,46 +2385,20 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q103,180,Mooré,3,BF,mos,Mossi,I
 5,Q103,220,Crioulo,4,CV,kea,Kabuverdianu,I
 5,Q103,260,Akan,5,GH,aka,Akan,M
-5,Q103,260,Akan,5,GH,fat,Fanti,I
-5,Q103,260,Akan,5,GH,twi,Twi,I
 5,Q103,261,Ewe,5,GH,ewe,Ewe,I
 5,Q103,262,Ga/Dangbe,5,GH,ada,Adangme,I
 5,Q103,262,Ga/Dangbe,5,GH,gaa,Ga,I
 5,Q103,263,Dagbani,5,GH,dag,Dagbani,I
 5,Q103,300,Kikuyu,6,KE,kik,Kikuyu,I
-5,Q103,302,Luhya,6,KE,bxk,Bukusu,I
-5,Q103,302,Luhya,6,KE,ida,Idakho-Isukha-Tiriki,I
-5,Q103,302,Luhya,6,KE,lkb,Kabras,I
-5,Q103,302,Luhya,6,KE,lko,Khayo,I
-5,Q103,302,Luhya,6,KE,lks,Kisa,I
-5,Q103,302,Luhya,6,KE,lri,Marachi,I
-5,Q103,302,Luhya,6,KE,lrm,Marama,I
-5,Q103,302,Luhya,6,KE,lsm,Saamia,I
-5,Q103,302,Luhya,6,KE,lto,Tsotso,I
-5,Q103,302,Luhya,6,KE,lts,Tachoni,I
 5,Q103,302,Luhya,6,KE,luy,Luyia,M
-5,Q103,302,Luhya,6,KE,nle,East Nyala,I
-5,Q103,302,Luhya,6,KE,nyd,Nyore,I
-5,Q103,302,Luhya,6,KE,rag,Logooli,I
 5,Q103,303,Kamba,6,KE,kam,Kamba (Kenya),I
-5,Q103,304,Kalenjin,6,KE,enb,Markweeta,I
-5,Q103,304,Kalenjin,6,KE,eyo,Keiyo,I
 5,Q103,304,Kalenjin,6,KE,kln,Kalenjin,M
-5,Q103,304,Kalenjin,6,KE,niq,Nandi,I
-5,Q103,304,Kalenjin,6,KE,oki,Okiek,I
-5,Q103,304,Kalenjin,6,KE,pko,Pökoot,I
-5,Q103,304,Kalenjin,6,KE,sgc,Kipsigis,I
-5,Q103,304,Kalenjin,6,KE,spy,Sabaot,I
-5,Q103,304,Kalenjin,6,KE,tec,Terik,I
-5,Q103,304,Kalenjin,6,KE,tuy,Tugen,I
 5,Q103,340,Sesotho,7,LS,sot,Southern Sotho,I
 5,Q103,396,Liberian Simple English,8,LR,lir,Liberian English,I
-5,Q103,420,"""Official"" Malagasy",9,MG,mlg,Malagasy,M
 5,Q103,420,"""Official"" Malagasy",9,MG,plt,Plateau Malagasy,I
 5,Q103,421,Malagasy dialect,9,MG,bhr,Bara Malagasy,I
 5,Q103,421,Malagasy dialect,9,MG,bmm,Northern Betsimisaraka Malagasy,I
 5,Q103,421,Malagasy dialect,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,mlg,Malagasy,M
 5,Q103,421,Malagasy dialect,9,MG,msh,Masikoro Malagasy,I
 5,Q103,421,Malagasy dialect,9,MG,skg,Sakalava Malagasy,I
 5,Q103,421,Malagasy dialect,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -2770,10 +2410,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q103,461,Chichewa,10,MW,nya,Nyanja,I
 5,Q103,501,Bambara,11,ML,bam,Bambara,I
 5,Q103,513,Peulh / Fulfude,11,ML,ffm,Maasina Fulfulde,I
-5,Q103,513,Peulh / Fulfude,11,ML,ful,Fulah,M
 5,Q103,516,Soninke,11,ML,snk,Soninke,I
 5,Q103,518,Tamasheq,11,ML,taq,Tamasheq,I
-5,Q103,518,Tamasheq,11,ML,tmh,Tamashek,M
 5,Q103,518,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
 5,Q103,540,Makua,12,MZ,vmw,Makhuwa,I
 5,Q103,541,Sena,12,MZ,seh,Sena,I
@@ -2785,7 +2423,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q103,623,Pidgin English,14,NG,pcm,Nigerian Pidgin,I
 5,Q103,660,Wolof,15,SN,wol,Wolof,I
 5,Q103,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
-5,Q103,661,Pulaar/Toucouleur,15,SN,ful,Fulah,M
 5,Q103,665,Diola,15,SN,dyo,Jola-Fonyi,I
 5,Q103,702,Xhosa,16,ZA,xho,Xhosa,I
 5,Q103,703,Pedi/Spedi/North Sotho,16,ZA,nso,Pedi,I
@@ -2827,7 +2464,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q103,1100,Haoussa,23,NE,hau,Hausa,I
 5,Q103,1101,Zarrma/Songhaï,23,NE,dje,Zarma,I
 5,Q103,1103,Touareg,23,NE,thv,Tahaggart Tamahaq,I
-5,Q103,1103,Touareg,23,NE,tmh,Tamashek,M
 5,Q103,1103,Touareg,23,NE,ttq,Tawallammat Tamajaq,I
 5,Q103,1140,Ewé,24,TG,ewe,Ewe,I
 5,Q103,1142,Kabyè,24,TG,kbp,Kabiyè,I
@@ -2836,17 +2472,13 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q103,1145,Nawdem (Losso),24,TG,nmz,Nawdm,I
 5,Q103,1180,Kirundi,25,BI,run,Rundi,I
 5,Q103,1220,Foufoulde,26,CM,fub,Adamawa Fulfulde,I
-5,Q103,1220,Foufoulde,26,CM,ful,Fulah,M
 5,Q103,1221,Pidgin,26,CM,wes,Cameroon Pidgin,I
 5,Q103,1222,Ewondo,26,CM,ewo,Ewondo,I
 5,Q103,1223,Bafang,26,CM,fmp,Fe'fe',I
 5,Q103,1300,Soussou,28,GN,sus,Susu,I
 5,Q103,1301,Poular,28,GN,fuf,Pular,I
-5,Q103,1301,Poular,28,GN,ful,Fulah,M
 5,Q103,1302,Maninka,28,GN,emk,Eastern Maninkakan,I
-5,Q103,1302,Maninka,28,GN,man,Mandingo,M
 5,Q103,1303,Kpélé,28,GN,gkp,Guinea Kpelle,I
-5,Q103,1303,Kpélé,28,GN,kpe,Kpelle,M
 5,Q103,1304,Toma,28,GN,tod,Toma,I
 5,Q103,1305,Kissié,28,GN,kqs,Northern Kissi,I
 5,Q103,9995,Other,1,BJ,und,Undetermined,S
@@ -2869,24 +2501,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,1,English,16,ZA,eng,English,I
 5,Q116,2,French,27,CI,fra,French,I
 5,Q116,3,Portuguese,12,MZ,por,Portuguese,I
-5,Q116,4,Kiswahili,17,TZ,swa,Swahili (macrolanguage),M
 5,Q116,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
-5,Q116,5,Arabic,31,DZ,ara,Arabic,M
 5,Q116,5,Arabic,31,DZ,arq,Algerian Arabic,I
-5,Q116,5,Arabic,32,EG,ara,Arabic,M
 5,Q116,5,Arabic,32,EG,arz,Egyptian Arabic,I
-5,Q116,5,Arabic,33,MA,ara,Arabic,M
 5,Q116,5,Arabic,33,MA,ary,Moroccan Arabic,I
 5,Q116,5,Arabic,34,SD,apd,Sudanese Arabic,I
-5,Q116,5,Arabic,34,SD,ara,Arabic,M
 5,Q116,5,Arabic,35,TN,aeb,Tunisian Arabic,I
-5,Q116,5,Arabic,35,TN,ara,Arabic,M
 5,Q116,10,Bassa,26,CM,bas,Basa (Cameroon),I
 5,Q116,10,Bassa,8,LR,bsq,Bassa,I
 5,Q116,10,Bassa,14,NG,bzw,Basa (Nigeria),I
 5,Q116,15,Fulfuldé,3,BF,fuh,Western Niger Fulfulde,I
-5,Q116,15,Fulfuldé,3,BF,ful,Fulah,M
-5,Q116,15,Fulfuldé,23,NE,ful,Fulah,M
+5,Q116,15,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
 5,Q116,15,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
 5,Q116,17,Hausa,5,GH,hau,Hausa,I
 5,Q116,17,Hausa,14,NG,hau,Hausa,I
@@ -2902,7 +2527,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,103,Dendi,1,BJ,ddn,Dendi (Benin),I
 5,Q116,106,Peulh,1,BJ,fue,Borgu Fulfulde,I
 5,Q116,106,Peulh,1,BJ,fuh,Western Niger Fulfulde,I
-5,Q116,106,Peulh,1,BJ,ful,Fulah,M
 5,Q116,108,Boo,1,BJ,bqc,Boko (Benin),I
 5,Q116,140,Setswana,2,BW,tsn,Tswana,I
 5,Q116,144,Ikalanga/Sekalaka,2,BW,kck,Kalanga,I
@@ -2918,8 +2542,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,197,Fulsé,3,BF,kfz,Koromfé,I
 5,Q116,220,Crioulo,4,CV,kea,Kabuverdianu,I
 5,Q116,260,Akan,5,GH,aka,Akan,M
-5,Q116,260,Akan,5,GH,fat,Fanti,I
-5,Q116,260,Akan,5,GH,twi,Twi,I
 5,Q116,261,Ewe,5,GH,ewe,Ewe,I
 5,Q116,262,Ga/Dangbe,5,GH,ada,Adangme,I
 5,Q116,262,Ga/Dangbe,5,GH,gaa,Ga,I
@@ -2929,31 +2551,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,272,Frafra,5,GH,gur,Farefare,I
 5,Q116,300,Kikuyu,6,KE,kik,Kikuyu,I
 5,Q116,301,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
-5,Q116,302,Luhya,6,KE,bxk,Bukusu,I
-5,Q116,302,Luhya,6,KE,ida,Idakho-Isukha-Tiriki,I
-5,Q116,302,Luhya,6,KE,lkb,Kabras,I
-5,Q116,302,Luhya,6,KE,lko,Khayo,I
-5,Q116,302,Luhya,6,KE,lks,Kisa,I
-5,Q116,302,Luhya,6,KE,lri,Marachi,I
-5,Q116,302,Luhya,6,KE,lrm,Marama,I
-5,Q116,302,Luhya,6,KE,lsm,Saamia,I
-5,Q116,302,Luhya,6,KE,lto,Tsotso,I
-5,Q116,302,Luhya,6,KE,lts,Tachoni,I
 5,Q116,302,Luhya,6,KE,luy,Luyia,M
-5,Q116,302,Luhya,6,KE,nle,East Nyala,I
-5,Q116,302,Luhya,6,KE,nyd,Nyore,I
-5,Q116,302,Luhya,6,KE,rag,Logooli,I
 5,Q116,303,Kamba,6,KE,kam,Kamba (Kenya),I
-5,Q116,304,Kalenjin,6,KE,enb,Markweeta,I
-5,Q116,304,Kalenjin,6,KE,eyo,Keiyo,I
 5,Q116,304,Kalenjin,6,KE,kln,Kalenjin,M
-5,Q116,304,Kalenjin,6,KE,niq,Nandi,I
-5,Q116,304,Kalenjin,6,KE,oki,Okiek,I
-5,Q116,304,Kalenjin,6,KE,pko,Pökoot,I
-5,Q116,304,Kalenjin,6,KE,sgc,Kipsigis,I
-5,Q116,304,Kalenjin,6,KE,spy,Sabaot,I
-5,Q116,304,Kalenjin,6,KE,tec,Terik,I
-5,Q116,304,Kalenjin,6,KE,tuy,Tugen,I
 5,Q116,305,Kisii,6,KE,guz,Gusii,I
 5,Q116,306,Meru / Embu,6,KE,ebu,Embu,I
 5,Q116,306,Meru / Embu,6,KE,mer,Meru,I
@@ -2963,23 +2563,19 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,385,Gola,8,LR,gol,Gola,I
 5,Q116,386,Grebo,8,LR,gbo,Northern Grebo,I
 5,Q116,386,Grebo,8,LR,gec,Gboloo Grebo,I
-5,Q116,386,Grebo,8,LR,grb,Grebo,M
 5,Q116,386,Grebo,8,LR,grj,Southern Grebo,I
 5,Q116,386,Grebo,8,LR,grv,Central Grebo,I
 5,Q116,386,Grebo,8,LR,gry,Barclayville Grebo,I
 5,Q116,387,Kissi,8,LR,kss,Southern Kisi,I
-5,Q116,388,Kpelle,8,LR,kpe,Kpelle,M
 5,Q116,388,Kpelle,8,LR,xpe,Liberia Kpelle,I
 5,Q116,390,Kru,8,LR,klu,Klao,I
 5,Q116,391,Lorma,8,LR,lom,Loma (Liberia),I
 5,Q116,393,Mano,8,LR,mev,Mano,I
 5,Q116,395,Vai,8,LR,vai,Vai,I
-5,Q116,420,"""Official"" Malagasy",9,MG,mlg,Malagasy,M
 5,Q116,420,"""Official"" Malagasy",9,MG,plt,Plateau Malagasy,I
 5,Q116,421,Malagasy dialect,9,MG,bhr,Bara Malagasy,I
 5,Q116,421,Malagasy dialect,9,MG,bmm,Northern Betsimisaraka Malagasy,I
 5,Q116,421,Malagasy dialect,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,mlg,Malagasy,M
 5,Q116,421,Malagasy dialect,9,MG,msh,Masikoro Malagasy,I
 5,Q116,421,Malagasy dialect,9,MG,skg,Sakalava Malagasy,I
 5,Q116,421,Malagasy dialect,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -2997,17 +2593,14 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,505,Dogon,11,ML,djm,Jamsay Dogon,I
 5,Q116,505,Dogon,11,ML,dts,Toro So Dogon,I
 5,Q116,509,Malinké,11,ML,kao,Xaasongaxango,I
-5,Q116,509,Malinké,11,ML,man,Mandingo,M
 5,Q116,509,Malinké,11,ML,mlq,Western Maninkakan,I
 5,Q116,509,Malinké,11,ML,mwk,Kita Maninkakan,I
 5,Q116,513,Peulh / Fulfude,11,ML,ffm,Maasina Fulfulde,I
-5,Q116,513,Peulh / Fulfude,11,ML,ful,Fulah,M
 5,Q116,516,Soninké / Sarakollé,11,ML,snk,Soninke,I
 5,Q116,517,Sonrhaï,11,ML,hmb,Humburi Senni Songhay,I
 5,Q116,517,Sonrhaï,11,ML,khq,Koyra Chiini Songhay,I
 5,Q116,517,Sonrhaï,11,ML,ses,Koyraboro Senni Songhai,I
 5,Q116,518,Tamasheq,11,ML,taq,Tamasheq,I
-5,Q116,518,Tamasheq,11,ML,tmh,Tamashek,M
 5,Q116,518,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
 5,Q116,540,Makua,12,MZ,vmw,Makhuwa,I
 5,Q116,541,Sena,12,MZ,seh,Sena,I
@@ -3016,6 +2609,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,554,Chitewe,12,MZ,twx,Tewe,I
 5,Q116,555,Chitswa,12,MZ,tsc,Tswa,I
 5,Q116,582,Nama/Damara,13,NA,naq,Khoekhoe,I
+5,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,kua,Kuanyama,I
 5,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,ndo,Ndonga,I
 5,Q116,584,Otjiherero,13,NA,her,Herero,I
 5,Q116,585,Rukwangali,13,NA,kwn,Kwangali,I
@@ -3024,8 +2618,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,621,Igbo,14,NG,ibo,Igbo,I
 5,Q116,628,Ibibio,14,NG,ibb,Ibibio,I
 5,Q116,629,Kanuri,14,NG,kau,Kanuri,M
-5,Q116,629,Kanuri,14,NG,kby,Manga Kanuri,I
-5,Q116,629,Kanuri,14,NG,knc,Central Kanuri,I
 5,Q116,630,Tiv,14,NG,tiv,Tiv,I
 5,Q116,632,Ijaw,14,NG,ijc,Izon,I
 5,Q116,632,Ijaw,14,NG,ijs,Southeast Ijo,I
@@ -3036,9 +2628,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,652,Bajju,14,NG,kaj,Jju,I
 5,Q116,660,Wolof,15,SN,wol,Wolof,I
 5,Q116,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
-5,Q116,661,Pulaar/Toucouleur,15,SN,ful,Fulah,M
 5,Q116,662,Serer,15,SN,srr,Serer,I
-5,Q116,663,Mandinka/Bambara,15,SN,man,Mandingo,M
 5,Q116,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
 5,Q116,664,Soninke,15,SN,snk,Soninke,I
 5,Q116,665,Diola,15,SN,dyo,Jola-Fonyi,I
@@ -3074,7 +2664,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,791,Madi,18,UG,snm,Southern Ma'di,I
 5,Q116,792,Japadhola,18,UG,adh,Adhola,I
 5,Q116,793,Lusamia,18,UG,lsm,Saamia,I
-5,Q116,793,Lusamia,18,UG,luy,Luyia,M
 5,Q116,794,Lugwere,18,UG,gwr,Gwere,I
 5,Q116,795,Rukiga,18,UG,cgg,Chiga,I
 5,Q116,796,Rutooro,18,UG,ttj,Tooro,I
@@ -3110,7 +2699,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,1100,Haoussa,23,NE,hau,Hausa,I
 5,Q116,1101,Zarrma/Songhaï,23,NE,dje,Zarma,I
 5,Q116,1103,Touareg,23,NE,thv,Tahaggart Tamahaq,I
-5,Q116,1103,Touareg,23,NE,tmh,Tamashek,M
 5,Q116,1103,Touareg,23,NE,ttq,Tawallammat Tamajaq,I
 5,Q116,1140,Ewé,24,TG,ewe,Ewe,I
 5,Q116,1141,Mina (Guen),24,TG,gej,Gen,I
@@ -3122,7 +2710,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,1160,Anyanga,24,TG,ayg,Ginyanga,I
 5,Q116,1180,Kirundi,25,BI,run,Rundi,I
 5,Q116,1220,Foufoulde,26,CM,fub,Adamawa Fulfulde,I
-5,Q116,1220,Foufoulde,26,CM,ful,Fulah,M
 5,Q116,1222,Ewondo,26,CM,ewo,Ewondo,I
 5,Q116,1225,Babjoun,26,CM,bbj,Ghomálá',I
 5,Q116,1226,Banen,26,CM,tvu,Tunen,I
@@ -3159,12 +2746,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,1284,AHIZI,27,CI,ahp,Aproumu Aizi,I
 5,Q116,1300,Soussou,28,GN,sus,Susu,I
 5,Q116,1302,Poular,28,GN,fuf,Pular,I
-5,Q116,1302,Poular,28,GN,ful,Fulah,M
 5,Q116,1304,Diakanké,28,GN,jad,Jahanka,I
 5,Q116,1305,Maninka,28,GN,emk,Eastern Maninkakan,I
-5,Q116,1305,Maninka,28,GN,man,Mandingo,M
 5,Q116,1307,Kpelé,28,GN,gkp,Guinea Kpelle,I
-5,Q116,1307,Kpelé,28,GN,kpe,Kpelle,M
 5,Q116,1310,Loma,28,GN,tod,Toma,I
 5,Q116,1312,Kissié,28,GN,kqs,Northern Kissi,I
 5,Q116,1500,Tamazight,33,MA,tzm,Central Atlas Tamazight,I
@@ -3173,6 +2757,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,2620,Jaba,14,NG,ldb,Dũya,I
 5,Q116,2621,Koro,14,NG,ahs,Ashe,I
 5,Q116,2621,Koro,14,NG,bqv,Koro Wachi,I
+5,Q116,2621,Koro,14,NG,ldb,Dũya,I
+5,Q116,2621,Koro,14,NG,yes,Nyankpa,I
 5,Q116,2622,Babur,14,NG,bwr,Bura-Pabir,I
 5,Q116,2623,Izere,14,NG,izr,Izere,I
 5,Q116,2624,Ngas,14,NG,anc,Ngas,I
@@ -3226,28 +2812,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,3,Portuguese,13,NA,por,Portuguese,I
 5,Q2,3,Portuguese,30,SZ,por,Portuguese,I
 5,Q2,3,Portuguese,16,ZA,por,Portuguese,I
-5,Q2,4,Kiswahili,25,BI,swa,Swahili (macrolanguage),M
 5,Q2,4,Kiswahili,25,BI,swh,Swahili (individual language),I
-5,Q2,4,Kiswahili,6,KE,swa,Swahili (macrolanguage),M
 5,Q2,4,Kiswahili,6,KE,swh,Swahili (individual language),I
-5,Q2,4,Kiswahili,10,MW,swa,Swahili (macrolanguage),M
 5,Q2,4,Kiswahili,10,MW,swh,Swahili (individual language),I
-5,Q2,4,Kiswahili,17,TZ,swa,Swahili (macrolanguage),M
 5,Q2,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
-5,Q2,4,Kiswahili,18,UG,swa,Swahili (macrolanguage),M
 5,Q2,4,Kiswahili,18,UG,swh,Swahili (individual language),I
-5,Q2,5,Arabic,31,DZ,ara,Arabic,M
 5,Q2,5,Arabic,31,DZ,arq,Algerian Arabic,I
-5,Q2,5,Arabic,32,EG,ara,Arabic,M
 5,Q2,5,Arabic,32,EG,arz,Egyptian Arabic,I
 5,Q2,5,Arabic,6,KE,acx,Omani Arabic,I
-5,Q2,5,Arabic,6,KE,ara,Arabic,M
-5,Q2,5,Arabic,33,MA,ara,Arabic,M
 5,Q2,5,Arabic,33,MA,ary,Moroccan Arabic,I
 5,Q2,5,Arabic,34,SD,apd,Sudanese Arabic,I
-5,Q2,5,Arabic,34,SD,ara,Arabic,M
 5,Q2,5,Arabic,35,TN,aeb,Tunisian Arabic,I
-5,Q2,5,Arabic,35,TN,ara,Arabic,M
 5,Q2,6,Adja,1,BJ,ajg,Aja (Benin),I
 5,Q2,6,Adja,24,TG,ajg,Aja (Benin),I
 5,Q2,7,Afrikaans,2,BW,afr,Afrikaans,I
@@ -3258,7 +2833,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,8,Amazigh,33,MA,zgh,Standard Moroccan Tamazight,I
 5,Q2,9,Bambara,27,CI,bam,Bambara,I
 5,Q2,9,Bambara,11,ML,bam,Bambara,I
-5,Q2,9,Bambara,15,SN,man,Mandingo,M
 5,Q2,9,Bambara,15,SN,mnk,Mandinka,I
 5,Q2,10,Bassa,26,CM,bas,Basa (Cameroon),I
 5,Q2,10,Bassa,8,LR,bsq,Bassa,I
@@ -3272,8 +2846,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,14,Fon,1,BJ,fon,Fon,I
 5,Q2,14,Fon,24,TG,fon,Fon,I
 5,Q2,15,Fulfuldé,3,BF,fuh,Western Niger Fulfulde,I
-5,Q2,15,Fulfuldé,3,BF,ful,Fulah,M
-5,Q2,15,Fulfuldé,23,NE,ful,Fulah,M
+5,Q2,15,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
 5,Q2,15,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
 5,Q2,16,Haoussa,3,BF,hau,Hausa,I
 5,Q2,16,Haoussa,26,CM,hau,Hausa,I
@@ -3298,6 +2871,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,25,Lobi,27,CI,lob,Lobi,I
 5,Q2,26,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
 5,Q2,26,Luo,18,UG,ach,Acoli,I
+5,Q2,26,Luo,18,UG,adh,Adhola,I
+5,Q2,26,Luo,18,UG,alz,Alur,I
+5,Q2,26,Luo,18,UG,kdi,Kumam,I
+5,Q2,26,Luo,18,UG,laj,Lango (Uganda),I
+5,Q2,26,Luo,18,UG,lth,Thur,I
 5,Q2,27,Mano,28,GN,mev,Mano,I
 5,Q2,27,Mano,8,LR,mev,Mano,I
 5,Q2,28,Mende,8,LR,men,Mende (Sierra Leone),I
@@ -3345,7 +2923,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,105,Otamari,1,BJ,tbz,Ditammari,I
 5,Q2,106,Peulh,1,BJ,fue,Borgu Fulfulde,I
 5,Q2,106,Peulh,1,BJ,fuh,Western Niger Fulfulde,I
-5,Q2,106,Peulh,1,BJ,ful,Fulah,M
 5,Q2,107,Yoa,1,BJ,pil,Yom,I
 5,Q2,108,Boo,1,BJ,bqc,Boko (Benin),I
 5,Q2,141,Sesarwa,2,BW,hio,Tsoa,I
@@ -3382,8 +2959,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,199,Dafing,3,BF,rkm,Marka,I
 5,Q2,220,Crioulo,4,CV,kea,Kabuverdianu,I
 5,Q2,260,Akan,5,GH,aka,Akan,M
-5,Q2,260,Akan,5,GH,fat,Fanti,I
-5,Q2,260,Akan,5,GH,twi,Twi,I
 5,Q2,261,Ewe,5,GH,ewe,Ewe,I
 5,Q2,262,Ga/Dangbe,5,GH,ada,Adangme,I
 5,Q2,262,Ga/Dangbe,5,GH,gaa,Ga,I
@@ -3408,31 +2983,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,282,Nzema,5,GH,nzi,Nzima,I
 5,Q2,283,Other Northern Languages,5,GH,und,Undetermined,S
 5,Q2,300,Kikuyu,6,KE,kik,Kikuyu,I
-5,Q2,302,Luhya,6,KE,bxk,Bukusu,I
-5,Q2,302,Luhya,6,KE,ida,Idakho-Isukha-Tiriki,I
-5,Q2,302,Luhya,6,KE,lkb,Kabras,I
-5,Q2,302,Luhya,6,KE,lko,Khayo,I
-5,Q2,302,Luhya,6,KE,lks,Kisa,I
-5,Q2,302,Luhya,6,KE,lri,Marachi,I
-5,Q2,302,Luhya,6,KE,lrm,Marama,I
-5,Q2,302,Luhya,6,KE,lsm,Saamia,I
-5,Q2,302,Luhya,6,KE,lto,Tsotso,I
-5,Q2,302,Luhya,6,KE,lts,Tachoni,I
 5,Q2,302,Luhya,6,KE,luy,Luyia,M
-5,Q2,302,Luhya,6,KE,nle,East Nyala,I
-5,Q2,302,Luhya,6,KE,nyd,Nyore,I
-5,Q2,302,Luhya,6,KE,rag,Logooli,I
 5,Q2,303,Kamba,6,KE,kam,Kamba (Kenya),I
-5,Q2,304,Kalenjin,6,KE,enb,Markweeta,I
-5,Q2,304,Kalenjin,6,KE,eyo,Keiyo,I
 5,Q2,304,Kalenjin,6,KE,kln,Kalenjin,M
-5,Q2,304,Kalenjin,6,KE,niq,Nandi,I
-5,Q2,304,Kalenjin,6,KE,oki,Okiek,I
-5,Q2,304,Kalenjin,6,KE,pko,Pökoot,I
-5,Q2,304,Kalenjin,6,KE,sgc,Kipsigis,I
-5,Q2,304,Kalenjin,6,KE,spy,Sabaot,I
-5,Q2,304,Kalenjin,6,KE,tec,Terik,I
-5,Q2,304,Kalenjin,6,KE,tuy,Tugen,I
 5,Q2,305,Kisii,6,KE,guz,Gusii,I
 5,Q2,306,Meru / Embu,6,KE,ebu,Embu,I
 5,Q2,306,Meru / Embu,6,KE,mer,Meru,I
@@ -3443,21 +2996,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,308,Mijikenda,6,KE,nyf,Giryama,I
 5,Q2,309,Taita,6,KE,dav,Taita,I
 5,Q2,310,Somali,6,KE,som,Somali,I
-5,Q2,311,Pokot,6,KE,kln,Kalenjin,M
 5,Q2,311,Pokot,6,KE,pko,Pökoot,I
 5,Q2,312,Turkana,6,KE,tuv,Turkana,I
 5,Q2,313,Tharaka,6,KE,thk,Tharaka,I
 5,Q2,314,Teso,6,KE,teo,Teso,I
-5,Q2,315,Sabaot,6,KE,kln,Kalenjin,M
 5,Q2,315,Sabaot,6,KE,spy,Sabaot,I
 5,Q2,316,Rendile,6,KE,rel,Rendille,I
 5,Q2,317,Pokomo,6,KE,pkb,Pokomo,I
 5,Q2,318,Mbeere,6,KE,ebu,Embu,I
 5,Q2,319,Kuria,6,KE,kuj,Kuria,I
 5,Q2,320,Borana,6,KE,gax,Borana-Arsi-Guji Oromo,I
-5,Q2,320,Borana,6,KE,orm,Oromo,M
-5,Q2,322,Oroma,6,KE,gax,Borana-Arsi-Guji Oromo,I
-5,Q2,322,Oroma,6,KE,orc,Orma,I
 5,Q2,322,Oroma,6,KE,orm,Oromo,M
 5,Q2,340,Sesotho,7,LS,sot,Southern Sotho,I
 5,Q2,341,Sephuthi,7,LS,ssw,Swati,I
@@ -3469,23 +3017,19 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,385,Gola,8,LR,gol,Gola,I
 5,Q2,386,Grebo,8,LR,gbo,Northern Grebo,I
 5,Q2,386,Grebo,8,LR,gec,Gboloo Grebo,I
-5,Q2,386,Grebo,8,LR,grb,Grebo,M
 5,Q2,386,Grebo,8,LR,grj,Southern Grebo,I
 5,Q2,386,Grebo,8,LR,grv,Central Grebo,I
 5,Q2,386,Grebo,8,LR,gry,Barclayville Grebo,I
-5,Q2,388,Kpelle,8,LR,kpe,Kpelle,M
 5,Q2,388,Kpelle,8,LR,xpe,Liberia Kpelle,I
 5,Q2,389,Krahn,8,LR,kqo,Eastern Krahn,I
 5,Q2,389,Krahn,8,LR,krw,Western Krahn,I
 5,Q2,391,Lorma,8,LR,lom,Loma (Liberia),I
 5,Q2,392,Mandingo,8,LR,mzj,Manya,I
 5,Q2,396,Simple Liberian English,8,LR,lir,Liberian English,I
-5,Q2,420,"""Official"" Malagasy",9,MG,mlg,Malagasy,M
 5,Q2,420,"""Official"" Malagasy",9,MG,plt,Plateau Malagasy,I
 5,Q2,421,Malagasy dialect,9,MG,bhr,Bara Malagasy,I
 5,Q2,421,Malagasy dialect,9,MG,bmm,Northern Betsimisaraka Malagasy,I
 5,Q2,421,Malagasy dialect,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,mlg,Malagasy,M
 5,Q2,421,Malagasy dialect,9,MG,msh,Masikoro Malagasy,I
 5,Q2,421,Malagasy dialect,9,MG,skg,Sakalava Malagasy,I
 5,Q2,421,Malagasy dialect,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -3502,7 +3046,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,467,Chimang’anja,10,MW,swk,Malawi Sena,I
 5,Q2,468,Chisena,10,MW,swk,Malawi Sena,I
 5,Q2,469,Chisukwa,10,MW,ndh,Ndali,I
-5,Q2,470,Chisenga,10,MW,nkv,Nyika (Malawi and Zambia),I
+5,Q2,470,Chisenga,10,MW,tum,Tumbuka,I
 5,Q2,472,Chindali,10,MW,ndh,Ndali,I
 5,Q2,473,Chinyakyusa,10,MW,nyy,Nyakyusa-Ngonde,I
 5,Q2,502,Bella,11,ML,ses,Koyraboro Senni Songhai,I
@@ -3514,13 +3058,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,507,Kakolo,11,ML,xkg,Kagoro,I
 5,Q2,508,Khassonké,11,ML,kao,Xaasongaxango,I
 5,Q2,509,Malinké,11,ML,kao,Xaasongaxango,I
-5,Q2,509,Malinké,11,ML,man,Mandingo,M
 5,Q2,509,Malinké,11,ML,mlq,Western Maninkakan,I
 5,Q2,509,Malinké,11,ML,mwk,Kita Maninkakan,I
 5,Q2,510,Maure,11,ML,mey,Hassaniyya,I
 5,Q2,511,Mianka,11,ML,myk,Mamara Senoufo,I
 5,Q2,513,Peulh / Fulfude,11,ML,ffm,Maasina Fulfulde,I
-5,Q2,513,Peulh / Fulfude,11,ML,ful,Fulah,M
 5,Q2,514,Samogo,11,ML,dux,Duungooma,I
 5,Q2,515,Senufo,11,ML,myk,Mamara Senoufo,I
 5,Q2,515,Senufo,11,ML,shz,Syenara Senoufo,I
@@ -3530,7 +3072,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,517,Sonrhaï,11,ML,khq,Koyra Chiini Songhay,I
 5,Q2,517,Sonrhaï,11,ML,ses,Koyraboro Senni Songhai,I
 5,Q2,518,Tamasheq,11,ML,taq,Tamasheq,I
-5,Q2,518,Tamasheq,11,ML,tmh,Tamashek,M
 5,Q2,518,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
 5,Q2,540,Makua,12,MZ,vmw,Makhuwa,I
 5,Q2,541,Sena,12,MZ,seh,Sena,I
@@ -3554,6 +3095,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,562,Chimanica,12,MZ,mxc,Manyika,I
 5,Q2,581,German,13,NA,deu,German,I
 5,Q2,582,Nama/Damara,13,NA,naq,Khoekhoe,I
+5,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,kua,Kuanyama,I
 5,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,ndo,Ndonga,I
 5,Q2,584,Otjiherero,13,NA,her,Herero,I
 5,Q2,585,Rukwangali,13,NA,kwn,Kwangali,I
@@ -3566,12 +3108,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,624,Efik,14,NG,efi,Efik,I
 5,Q2,625,Ebira,14,NG,igb,Ebira,I
 5,Q2,626,Fulani,14,NG,fub,Adamawa Fulfulde,I
-5,Q2,626,Fulani,14,NG,ful,Fulah,M
 5,Q2,627,Isoko,14,NG,iso,Isoko,I
 5,Q2,628,Ibibio,14,NG,ibb,Ibibio,I
 5,Q2,629,Kanuri,14,NG,kau,Kanuri,M
-5,Q2,629,Kanuri,14,NG,kby,Manga Kanuri,I
-5,Q2,629,Kanuri,14,NG,knc,Central Kanuri,I
 5,Q2,630,Tiv,14,NG,tiv,Tiv,I
 5,Q2,631,Nupe,14,NG,nup,Nupe-Nupe-Tako,I
 5,Q2,632,Ijaw,14,NG,ijc,Izon,I
@@ -3605,7 +3144,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,658,Ohafia,14,NG,ibo,Igbo,I
 5,Q2,660,Wolof,15,SN,wol,Wolof,I
 5,Q2,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
-5,Q2,661,Pulaar/Toucouleur,15,SN,ful,Fulah,M
 5,Q2,662,Serer,15,SN,srr,Serer,I
 5,Q2,664,Soninke,15,SN,snk,Soninke,I
 5,Q2,665,Diola,15,SN,dyo,Jola-Fonyi,I
@@ -3668,7 +3206,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,791,Madi,18,UG,snm,Southern Ma'di,I
 5,Q2,792,Japadhola,18,UG,adh,Adhola,I
 5,Q2,793,Lusamia,18,UG,lsm,Saamia,I
-5,Q2,793,Lusamia,18,UG,luy,Luyia,M
 5,Q2,794,Lugwere,18,UG,gwr,Gwere,I
 5,Q2,795,Rukiga,18,UG,cgg,Chiga,I
 5,Q2,796,Rutooro,18,UG,ttj,Tooro,I
@@ -3730,17 +3267,13 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,934,Loko,22,SL,lok,Loko,I
 5,Q2,935,Sherbro,22,SL,bun,Sherbro,I
 5,Q2,936,Fulla,22,SL,fuf,Pular,I
-5,Q2,936,Fulla,22,SL,ful,Fulah,M
 5,Q2,938,Kuranko,22,SL,knk,Kuranko,I
 5,Q2,939,Madingo,22,SL,emk,Eastern Maninkakan,I
-5,Q2,939,Madingo,22,SL,man,Mandingo,M
 5,Q2,941,Susu,22,SL,sus,Susu,I
 5,Q2,943,Yalunka,22,SL,yal,Yalunka,I
 5,Q2,1101,Zarrma/Songhaï,23,NE,dje,Zarma,I
 5,Q2,1103,Touareg,23,NE,thv,Tahaggart Tamahaq,I
-5,Q2,1103,Touareg,23,NE,tmh,Tamashek,M
 5,Q2,1103,Touareg,23,NE,ttq,Tawallammat Tamajaq,I
-5,Q2,1104,Béri béri,23,NE,kau,Kanuri,M
 5,Q2,1104,Béri béri,23,NE,knc,Central Kanuri,I
 5,Q2,1106,Arabe,23,NE,mey,Hassaniyya,I
 5,Q2,1107,Toubou,23,NE,dzg,Dazaga,I
@@ -3761,7 +3294,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,1159,Aklobo,24,TG,keu,Akebu,I
 5,Q2,1180,Kirundi,25,BI,run,Rundi,I
 5,Q2,1220,Foufoulde,26,CM,fub,Adamawa Fulfulde,I
-5,Q2,1220,Foufoulde,26,CM,ful,Fulah,M
 5,Q2,1221,Pidgin,26,CM,wes,Cameroon Pidgin,I
 5,Q2,1222,Ewondo,26,CM,ewo,Ewondo,I
 5,Q2,1223,Bafang,26,CM,fmp,Fe'fe',I
@@ -3794,7 +3326,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,1240,Fali,26,CM,fal,South Fali,I
 5,Q2,1240,Fali,26,CM,fll,North Fali,I
 5,Q2,1241,Fong,26,CM,ewo,Ewondo,I
-5,Q2,1242,Gbaya,26,CM,gba,Gbaya (Central African Republic),M
 5,Q2,1242,Gbaya,26,CM,gya,Northwest Gbaya,I
 5,Q2,1243,Guidar,26,CM,gid,Gidar,I
 5,Q2,1244,Guiziga,26,CM,gis,North Giziga,I
@@ -3853,15 +3384,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,1301,Baga,28,GN,bsp,Baga Sitemu,I
 5,Q2,1301,Baga,28,GN,ldm,Landoma,I
 5,Q2,1302,Poular,28,GN,fuf,Pular,I
-5,Q2,1302,Poular,28,GN,ful,Fulah,M
 5,Q2,1303,Djalounké,28,GN,yal,Yalunka,I
 5,Q2,1304,Diakanké,28,GN,jad,Jahanka,I
 5,Q2,1305,Maninka,28,GN,emk,Eastern Maninkakan,I
-5,Q2,1305,Maninka,28,GN,man,Mandingo,M
-5,Q2,1306,konianké,28,GN,man,Mandingo,M
 5,Q2,1306,konianké,28,GN,mku,Konyanka Maninka,I
 5,Q2,1307,Kpelé,28,GN,gkp,Guinea Kpelle,I
-5,Q2,1307,Kpelé,28,GN,kpe,Kpelle,M
 5,Q2,1310,Loma,28,GN,tod,Toma,I
 5,Q2,1311,Manian,28,GN,mev,Mano,I
 5,Q2,1312,Kissié,28,GN,kqs,Northern Kissi,I
@@ -3957,19 +3484,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,2,French,33,TN,fra,French,I
 6,Q103,3,Portuguese,21,MZ,por,Portuguese,I
 6,Q103,3,Portuguese,25,ST,por,Portuguese,I
-6,Q103,4,Swahili,13,KE,swa,Swahili (macrolanguage),M
 6,Q103,4,Swahili,13,KE,swh,Swahili (individual language),I
-6,Q103,4,Swahili,31,TZ,swa,Swahili (macrolanguage),M
 6,Q103,4,Swahili,31,TZ,swh,Swahili (individual language),I
-6,Q103,5,Arabic,1,DZ,ara,Arabic,M
 6,Q103,5,Arabic,1,DZ,arb,Standard Arabic,I
-6,Q103,5,Arabic,9,EG,ara,Arabic,M
 6,Q103,5,Arabic,9,EG,arb,Standard Arabic,I
-6,Q103,5,Arabic,20,MA,ara,Arabic,M
 6,Q103,5,Arabic,20,MA,arb,Standard Arabic,I
-6,Q103,5,Arabic,29,SD,ara,Arabic,M
 6,Q103,5,Arabic,29,SD,arb,Standard Arabic,I
-6,Q103,5,Arabic,33,TN,ara,Arabic,M
 6,Q103,5,Arabic,33,TN,arb,Standard Arabic,I
 6,Q103,7,Afrikaans,22,NA,afr,Afrikaans,I
 6,Q103,7,Afrikaans,28,ZA,afr,Afrikaans,I
@@ -3978,18 +3498,14 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,16,Ewe,11,GH,ewe,Ewe,I
 6,Q103,16,Ewe,32,TG,ewe,Ewe,I
 6,Q103,18,Fulfuldé,4,BF,fuh,Western Niger Fulfulde,I
-6,Q103,18,Fulfuldé,4,BF,ful,Fulah,M
 6,Q103,18,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
-6,Q103,18,Fulfuldé,23,NE,ful,Fulah,M
 6,Q103,18,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
 6,Q103,20,Hausa,11,GH,hau,Hausa,I
 6,Q103,20,Hausa,24,NG,hau,Hausa,I
 6,Q103,32,Tamasheq,18,ML,taq,Tamasheq,I
-6,Q103,32,Tamasheq,18,ML,tmh,Tamashek,M
 6,Q103,32,Tamasheq,18,ML,ttq,Tawallammat Tamajaq,I
 6,Q103,32,Tamasheq,23,NE,thv,Tahaggart Tamahaq,I
 6,Q103,32,Tamasheq,23,NE,thz,Tayart Tamajeq,I
-6,Q103,32,Tamasheq,23,NE,tmh,Tamashek,M
 6,Q103,32,Tamasheq,23,NE,ttq,Tawallammat Tamajaq,I
 6,Q103,35,Yoruba,2,BJ,yor,Yoruba,I
 6,Q103,35,Yoruba,24,NG,yor,Yoruba,I
@@ -3999,7 +3515,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,104,Outamari,2,BJ,tbz,Ditammari,I
 6,Q103,105,Peulh,2,BJ,fue,Borgu Fulfulde,I
 6,Q103,105,Peulh,2,BJ,fuh,Western Niger Fulfulde,I
-6,Q103,105,Peulh,2,BJ,ful,Fulah,M
 6,Q103,106,Lopka,2,BJ,dop,Lukpa,I
 6,Q103,140,Setswana,3,BW,tsn,Tswana,I
 6,Q103,180,Mooré,4,BF,mos,Mossi,I
@@ -4008,8 +3523,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,220,Crioulo,7,CV,kea,Kabuverdianu,I
 6,Q103,221,Português,7,CV,por,Portuguese,I
 6,Q103,260,Akan,11,GH,aka,Akan,M
-6,Q103,260,Akan,11,GH,fat,Fanti,I
-6,Q103,260,Akan,11,GH,twi,Twi,I
 6,Q103,262,Ga/Dangbe,11,GH,ada,Adangme,I
 6,Q103,262,Ga/Dangbe,11,GH,gaa,Ga,I
 6,Q103,263,Dagbani,11,GH,dag,Dagbani,I
@@ -4017,43 +3530,20 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,273,Dagaree,11,GH,dga,Southern Dagaare,I
 6,Q103,300,Kikuyu,13,KE,kik,Kikuyu,I
 6,Q103,301,Luo,13,KE,luo,Luo (Kenya and Tanzania),I
-6,Q103,302,Luhya,13,KE,bxk,Bukusu,I
-6,Q103,302,Luhya,13,KE,ida,Idakho-Isukha-Tiriki,I
-6,Q103,302,Luhya,13,KE,lkb,Kabras,I
-6,Q103,302,Luhya,13,KE,lko,Khayo,I
-6,Q103,302,Luhya,13,KE,lks,Kisa,I
-6,Q103,302,Luhya,13,KE,lri,Marachi,I
-6,Q103,302,Luhya,13,KE,lrm,Marama,I
-6,Q103,302,Luhya,13,KE,lsm,Saamia,I
-6,Q103,302,Luhya,13,KE,lto,Tsotso,I
-6,Q103,302,Luhya,13,KE,lts,Tachoni,I
 6,Q103,302,Luhya,13,KE,luy,Luyia,M
-6,Q103,302,Luhya,13,KE,nle,East Nyala,I
-6,Q103,302,Luhya,13,KE,nyd,Nyore,I
-6,Q103,302,Luhya,13,KE,rag,Logooli,I
 6,Q103,303,Kamba,13,KE,kam,Kamba (Kenya),I
-6,Q103,304,Kalenjin,13,KE,enb,Markweeta,I
-6,Q103,304,Kalenjin,13,KE,eyo,Keiyo,I
 6,Q103,304,Kalenjin,13,KE,kln,Kalenjin,M
-6,Q103,304,Kalenjin,13,KE,niq,Nandi,I
-6,Q103,304,Kalenjin,13,KE,oki,Okiek,I
-6,Q103,304,Kalenjin,13,KE,pko,Pökoot,I
-6,Q103,304,Kalenjin,13,KE,sgc,Kipsigis,I
-6,Q103,304,Kalenjin,13,KE,spy,Sabaot,I
-6,Q103,304,Kalenjin,13,KE,tec,Terik,I
-6,Q103,304,Kalenjin,13,KE,tuy,Tugen,I
 6,Q103,305,Kisii,13,KE,guz,Gusii,I
 6,Q103,306,Meru/Samburu,13,KE,mer,Meru,I
 6,Q103,307,Maasai / Samburu,13,KE,mas,Masai,I
+6,Q103,307,Maasai / Samburu,13,KE,saq,Samburu,I
 6,Q103,310,Somali,13,KE,som,Somali,I
 6,Q103,340,Sesotho,14,LS,sot,Southern Sotho,I
 6,Q103,380,Liberian English,15,LR,lir,Liberian English,I
-6,Q103,420,Malgache « officiel »,16,MG,mlg,Malagasy,M
 6,Q103,420,Malgache « officiel »,16,MG,plt,Plateau Malagasy,I
 6,Q103,421,Malgache avec spécificité régionale,16,MG,bhr,Bara Malagasy,I
 6,Q103,421,Malgache avec spécificité régionale,16,MG,bmm,Northern Betsimisaraka Malagasy,I
 6,Q103,421,Malgache avec spécificité régionale,16,MG,bzc,Southern Betsimisaraka Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,mlg,Malagasy,M
 6,Q103,421,Malgache avec spécificité régionale,16,MG,msh,Masikoro Malagasy,I
 6,Q103,421,Malgache avec spécificité régionale,16,MG,skg,Sakalava Malagasy,I
 6,Q103,421,Malgache avec spécificité régionale,16,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -4065,7 +3555,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,463,Chichewa,17,MW,nya,Nyanja,I
 6,Q103,501,Bambara,18,ML,bam,Bambara,I
 6,Q103,514,Peulh/Fulfude,18,ML,ffm,Maasina Fulfulde,I
-6,Q103,514,Peulh/Fulfude,18,ML,ful,Fulah,M
 6,Q103,517,Soninké,18,ML,snk,Soninke,I
 6,Q103,518,Sonrhai,18,ML,hmb,Humburi Senni Songhay,I
 6,Q103,518,Sonrhai,18,ML,khq,Koyra Chiini Songhay,I
@@ -4074,6 +3563,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,541,Sena,21,MZ,seh,Sena,I
 6,Q103,542,Ndau,21,MZ,ndc,Ndau,I
 6,Q103,543,Changana,21,MZ,tso,Tsonga,I
+6,Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,kua,Kuanyama,I
 6,Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,ndo,Ndonga,I
 6,Q103,582,Otjiherero,22,NA,her,Herero,I
 6,Q103,583,Rukwangali,22,NA,kwn,Kwangali,I
@@ -4081,7 +3571,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,623,Pidgin English,24,NG,pcm,Nigerian Pidgin,I
 6,Q103,660,Wolof,26,SN,wol,Wolof,I
 6,Q103,661,Pulaar/Toucouleur,26,SN,fuc,Pulaar,I
-6,Q103,661,Pulaar/Toucouleur,26,SN,ful,Fulah,M
 6,Q103,665,Diola,26,SN,dyo,Jola-Fonyi,I
 6,Q103,702,Xhosa,28,ZA,xho,Xhosa,I
 6,Q103,703,Pedi/Spedi/North Sotho,28,ZA,nso,Pedi,I
@@ -4096,6 +3585,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,784,Lumasaaba,34,UG,myx,Masaaba,I
 6,Q103,787,Ateso,34,UG,teo,Teso,I
 6,Q103,788,Acholi-Langi,34,UG,ach,Acoli,I
+6,Q103,788,Acholi-Langi,34,UG,laj,Lango (Uganda),I
 6,Q103,789,Alur,34,UG,alz,Alur,I
 6,Q103,790,Lugbara,34,UG,lgg,Lugbara,I
 6,Q103,792,Japadhola,34,UG,adh,Adhola,I
@@ -4120,17 +3610,13 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,1145,Nawdem (Losso),32,TG,nmz,Nawdm,I
 6,Q103,1180,Kirundi,5,BI,run,Rundi,I
 6,Q103,1220,Foufouldé,6,CM,fub,Adamawa Fulfulde,I
-6,Q103,1220,Foufouldé,6,CM,ful,Fulah,M
 6,Q103,1220,Foufouldé,6,CM,fuv,Nigerian Fulfulde,I
 6,Q103,1221,Pidgin,6,CM,wes,Cameroon Pidgin,I
 6,Q103,1222,Ewondo,6,CM,ewo,Ewondo,I
 6,Q103,1300,Soussou,12,GN,sus,Susu,I
 6,Q103,1302,Poular,12,GN,fuf,Pular,I
-6,Q103,1302,Poular,12,GN,ful,Fulah,M
 6,Q103,1305,Maninka,12,GN,emk,Eastern Maninkakan,I
-6,Q103,1305,Maninka,12,GN,man,Mandingo,M
 6,Q103,1307,Kpèlè,12,GN,gkp,Guinea Kpelle,I
-6,Q103,1307,Kpèlè,12,GN,kpe,Kpelle,M
 6,Q103,1312,Kissié,12,GN,kqs,Northern Kissi,I
 6,Q103,1620,siSwati,30,SZ,ssw,Swati,I
 6,Q103,1660,Creolo,25,ST,aoa,Angolar,I
@@ -4156,16 +3642,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,2,French,10,GA,fra,French,I
 6,Q116,3,Portuguese,21,MZ,por,Portuguese,I
 6,Q116,3,Portuguese,25,ST,por,Portuguese,I
-6,Q116,4,Kiswahili,31,TZ,swa,Swahili (macrolanguage),M
 6,Q116,4,Kiswahili,31,TZ,swh,Swahili (individual language),I
-6,Q116,5,Arabic,1,DZ,ara,Arabic,M
 6,Q116,5,Arabic,1,DZ,arq,Algerian Arabic,I
-6,Q116,5,Arabic,9,EG,ara,Arabic,M
 6,Q116,5,Arabic,9,EG,arz,Egyptian Arabic,I
-6,Q116,5,Arabic,20,MA,ara,Arabic,M
 6,Q116,5,Arabic,20,MA,ary,Moroccan Arabic,I
 6,Q116,5,Arabic,33,TN,aeb,Tunisian Arabic,I
-6,Q116,5,Arabic,33,TN,ara,Arabic,M
 6,Q116,6,Adja,2,BJ,ajg,Aja (Benin),I
 6,Q116,6,Adja,32,TG,ajg,Aja (Benin),I
 6,Q116,13,Bobo,4,BF,bbo,Northern Bobo Madaré,I
@@ -4174,20 +3655,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,16,Ewe,11,GH,ewe,Ewe,I
 6,Q116,16,Ewe,32,TG,ewe,Ewe,I
 6,Q116,18,Fulfuldé,4,BF,fuh,Western Niger Fulfulde,I
-6,Q116,18,Fulfuldé,4,BF,ful,Fulah,M
 6,Q116,18,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
-6,Q116,18,Fulfuldé,23,NE,ful,Fulah,M
 6,Q116,18,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
 6,Q116,20,Hausa,11,GH,hau,Hausa,I
 6,Q116,20,Hausa,24,NG,hau,Hausa,I
 6,Q116,28,Nyanja,21,MZ,nya,Nyanja,I
 6,Q116,28,Nyanja,35,ZM,nya,Nyanja,I
 6,Q116,32,Tamasheq,18,ML,taq,Tamasheq,I
-6,Q116,32,Tamasheq,18,ML,tmh,Tamashek,M
 6,Q116,32,Tamasheq,18,ML,ttq,Tawallammat Tamajaq,I
 6,Q116,32,Tamasheq,23,NE,thv,Tahaggart Tamahaq,I
 6,Q116,32,Tamasheq,23,NE,thz,Tayart Tamajeq,I
-6,Q116,32,Tamasheq,23,NE,tmh,Tamashek,M
 6,Q116,32,Tamasheq,23,NE,ttq,Tawallammat Tamajaq,I
 6,Q116,35,Yoruba,2,BJ,yor,Yoruba,I
 6,Q116,35,Yoruba,24,NG,yor,Yoruba,I
@@ -4196,7 +3673,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,105,Ditamari,2,BJ,tbz,Ditammari,I
 6,Q116,106,Peulh,2,BJ,fue,Borgu Fulfulde,I
 6,Q116,106,Peulh,2,BJ,fuh,Western Niger Fulfulde,I
-6,Q116,106,Peulh,2,BJ,ful,Fulah,M
 6,Q116,107,Lopka,2,BJ,dop,Lukpa,I
 6,Q116,140,Setswana,3,BW,tsn,Tswana,I
 6,Q116,142,Sekgalagadi,3,BW,xkv,Kgalagadi,I
@@ -4213,8 +3689,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,220,Crioulo,7,CV,kea,Kabuverdianu,I
 6,Q116,221,Português,7,CV,por,Portuguese,I
 6,Q116,260,Akan,11,GH,aka,Akan,M
-6,Q116,260,Akan,11,GH,fat,Fanti,I
-6,Q116,260,Akan,11,GH,twi,Twi,I
 6,Q116,262,Ga/Dangbe,11,GH,ada,Adangme,I
 6,Q116,262,Ga/Dangbe,11,GH,gaa,Ga,I
 6,Q116,263,Dagbani,11,GH,dag,Dagbani,I
@@ -4230,24 +3704,13 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,280,Kasem,11,GH,xsm,Kasem,I
 6,Q116,300,Kikuyu,13,KE,kik,Kikuyu,I
 6,Q116,301,Luo,13,KE,luo,Luo (Kenya and Tanzania),I
-6,Q116,302,Luhya,13,KE,bxk,Bukusu,I
-6,Q116,302,Luhya,13,KE,ida,Idakho-Isukha-Tiriki,I
-6,Q116,302,Luhya,13,KE,lkb,Kabras,I
-6,Q116,302,Luhya,13,KE,lko,Khayo,I
-6,Q116,302,Luhya,13,KE,lks,Kisa,I
-6,Q116,302,Luhya,13,KE,lri,Marachi,I
-6,Q116,302,Luhya,13,KE,lrm,Marama,I
-6,Q116,302,Luhya,13,KE,lsm,Saamia,I
-6,Q116,302,Luhya,13,KE,lto,Tsotso,I
-6,Q116,302,Luhya,13,KE,lts,Tachoni,I
 6,Q116,302,Luhya,13,KE,luy,Luyia,M
-6,Q116,302,Luhya,13,KE,nle,East Nyala,I
-6,Q116,302,Luhya,13,KE,nyd,Nyore,I
-6,Q116,302,Luhya,13,KE,rag,Logooli,I
 6,Q116,303,Kamba,13,KE,kam,Kamba (Kenya),I
 6,Q116,305,Kisii,13,KE,guz,Gusii,I
+6,Q116,306,Meru/Embu,13,KE,ebu,Embu,I
 6,Q116,306,Meru/Embu,13,KE,mer,Meru,I
 6,Q116,307,Maasai/Samburu,13,KE,mas,Masai,I
+6,Q116,307,Maasai/Samburu,13,KE,saq,Samburu,I
 6,Q116,310,Somali,13,KE,som,Somali,I
 6,Q116,340,Sesotho,14,LS,sot,Southern Sotho,I
 6,Q116,380,Bassa,15,LR,bsq,Bassa,I
@@ -4255,23 +3718,19 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,384,Gio,15,LR,dnj,Dan,I
 6,Q116,386,Grebo,15,LR,gbo,Northern Grebo,I
 6,Q116,386,Grebo,15,LR,gec,Gboloo Grebo,I
-6,Q116,386,Grebo,15,LR,grb,Grebo,M
 6,Q116,386,Grebo,15,LR,grj,Southern Grebo,I
 6,Q116,386,Grebo,15,LR,grv,Central Grebo,I
 6,Q116,386,Grebo,15,LR,gry,Barclayville Grebo,I
 6,Q116,387,Kissi,15,LR,kss,Southern Kisi,I
-6,Q116,388,Kpelle,15,LR,kpe,Kpelle,M
 6,Q116,388,Kpelle,15,LR,xpe,Liberia Kpelle,I
 6,Q116,389,Krahn,15,LR,kqo,Eastern Krahn,I
 6,Q116,389,Krahn,15,LR,krw,Western Krahn,I
 6,Q116,390,Kru,15,LR,klu,Klao,I
 6,Q116,391,Lorma,15,LR,lom,Loma (Liberia),I
-6,Q116,420,Malgache « officiel »,16,MG,mlg,Malagasy,M
 6,Q116,420,Malgache « officiel »,16,MG,plt,Plateau Malagasy,I
 6,Q116,421,Malgache avec spécificité régionale,16,MG,bhr,Bara Malagasy,I
 6,Q116,421,Malgache avec spécificité régionale,16,MG,bmm,Northern Betsimisaraka Malagasy,I
 6,Q116,421,Malgache avec spécificité régionale,16,MG,bzc,Southern Betsimisaraka Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,mlg,Malagasy,M
 6,Q116,421,Malgache avec spécificité régionale,16,MG,msh,Masikoro Malagasy,I
 6,Q116,421,Malgache avec spécificité régionale,16,MG,skg,Sakalava Malagasy,I
 6,Q116,421,Malgache avec spécificité régionale,16,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -4290,7 +3749,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,506,Dogon,18,ML,djm,Jamsay Dogon,I
 6,Q116,506,Dogon,18,ML,dts,Toro So Dogon,I
 6,Q116,514,Peulh/Fulfude,18,ML,ffm,Maasina Fulfulde,I
-6,Q116,514,Peulh/Fulfude,18,ML,ful,Fulah,M
 6,Q116,516,Senufo,18,ML,myk,Mamara Senoufo,I
 6,Q116,516,Senufo,18,ML,shz,Syenara Senoufo,I
 6,Q116,516,Senufo,18,ML,spp,Supyire Senoufo,I
@@ -4336,9 +3794,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,659,Bandawa,24,NG,bcv,Shoo-Minda-Nye,I
 6,Q116,660,Wolof,26,SN,wol,Wolof,I
 6,Q116,661,Pulaar/Toucouleur,26,SN,fuc,Pulaar,I
-6,Q116,661,Pulaar/Toucouleur,26,SN,ful,Fulah,M
 6,Q116,662,Serer,26,SN,srr,Serer,I
-6,Q116,663,Mandinka/Bambara,26,SN,man,Mandingo,M
 6,Q116,663,Mandinka/Bambara,26,SN,mnk,Mandinka,I
 6,Q116,665,Diola,26,SN,dyo,Jola-Fonyi,I
 6,Q116,669,Maure,26,SN,mey,Hassaniyya,I
@@ -4396,7 +3852,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,933,Limba,27,SL,lma,East Limba,I
 6,Q116,934,Loko,27,SL,lok,Loko,I
 6,Q116,939,Madingo,27,SL,emk,Eastern Maninkakan,I
-6,Q116,939,Madingo,27,SL,man,Mandingo,M
 6,Q116,1100,Haoussa,23,NE,hau,Hausa,I
 6,Q116,1101,Zarma/Songhaï,23,NE,dje,Zarma,I
 6,Q116,1141,Mina (Guen),32,TG,gej,Gen,I
@@ -4408,7 +3863,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,1148,Ikposso (Akposso),32,TG,kpo,Ikposo,I
 6,Q116,1180,Kirundi,5,BI,run,Rundi,I
 6,Q116,1220,Foufouldé,6,CM,fub,Adamawa Fulfulde,I
-6,Q116,1220,Foufouldé,6,CM,ful,Fulah,M
 6,Q116,1220,Foufouldé,6,CM,fuv,Nigerian Fulfulde,I
 6,Q116,1222,Ewondo,6,CM,ewo,Ewondo,I
 6,Q116,1224,Douala,6,CM,dua,Duala,I
@@ -4430,11 +3884,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,1283,Tour,8,CI,neb,Toura (Côte d'Ivoire),I
 6,Q116,1300,Soussou,12,GN,sus,Susu,I
 6,Q116,1301,Poular,12,GN,fuf,Pular,I
-6,Q116,1301,Poular,12,GN,ful,Fulah,M
 6,Q116,1302,Maninka,12,GN,emk,Eastern Maninkakan,I
-6,Q116,1302,Maninka,12,GN,man,Mandingo,M
 6,Q116,1304,Kpèlè,12,GN,gkp,Guinea Kpelle,I
-6,Q116,1304,Kpèlè,12,GN,kpe,Kpelle,M
 6,Q116,1305,Toma,12,GN,tod,Toma,I
 6,Q116,1306,Kissié,12,GN,kqs,Northern Kissi,I
 6,Q116,1500,Berber Language,20,MA,rif,Tarifit,I
@@ -4442,7 +3893,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,1500,Berber Language,20,MA,tzm,Central Atlas Tamazight,I
 6,Q116,1500,Berber Language,20,MA,zgh,Standard Moroccan Tamazight,I
 6,Q116,1540,Sudanese Arabic,29,SD,apd,Sudanese Arabic,I
-6,Q116,1540,Sudanese Arabic,29,SD,ara,Arabic,M
 6,Q116,1620,siSwati,30,SZ,ssw,Swati,I
 6,Q116,1700,Fang,10,GA,fan,Fang (Equatorial Guinea),I
 6,Q116,1701,Punu/Mériè,10,GA,koq,Kota (Gabon),I
@@ -4498,18 +3948,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,3,Portuguese,22,NA,por,Portuguese,I
 6,Q2,3,Portuguese,25,ST,por,Portuguese,I
 6,Q2,3,Portuguese,28,ZA,por,Portuguese,I
-6,Q2,4,Swahili,5,BI,swa,Swahili (macrolanguage),M
 6,Q2,4,Swahili,5,BI,swh,Swahili (individual language),I
-6,Q2,4,Swahili,13,KE,swa,Swahili (macrolanguage),M
 6,Q2,4,Swahili,13,KE,swh,Swahili (individual language),I
-6,Q2,4,Swahili,31,TZ,swa,Swahili (macrolanguage),M
 6,Q2,4,Swahili,31,TZ,swh,Swahili (individual language),I
-6,Q2,4,Swahili,34,UG,swa,Swahili (macrolanguage),M
 6,Q2,4,Swahili,34,UG,swh,Swahili (individual language),I
-6,Q2,5,Arabic,20,MA,ara,Arabic,M
 6,Q2,5,Arabic,20,MA,ary,Moroccan Arabic,I
 6,Q2,5,Arabic,33,TN,aeb,Tunisian Arabic,I
-6,Q2,5,Arabic,33,TN,ara,Arabic,M
 6,Q2,6,Adja,2,BJ,ajg,Aja (Benin),I
 6,Q2,6,Adja,32,TG,ajg,Aja (Benin),I
 6,Q2,7,Afrikaans,3,BW,afr,Afrikaans,I
@@ -4542,23 +3986,15 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,17,Fon,2,BJ,fon,Fon,I
 6,Q2,17,Fon,32,TG,fon,Fon,I
 6,Q2,18,Fulfuldé,4,BF,fuh,Western Niger Fulfulde,I
-6,Q2,18,Fulfuldé,4,BF,ful,Fulah,M
 6,Q2,18,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
-6,Q2,18,Fulfuldé,23,NE,ful,Fulah,M
 6,Q2,18,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
 6,Q2,19,Haoussa,6,CM,hau,Hausa,I
 6,Q2,19,Haoussa,23,NE,hau,Hausa,I
 6,Q2,19,Haoussa,32,TG,hau,Hausa,I
 6,Q2,20,Hausa,11,GH,hau,Hausa,I
 6,Q2,20,Hausa,24,NG,hau,Hausa,I
-6,Q2,21,Kanuri,23,NE,bms,Bilma Kanuri,I
 6,Q2,21,Kanuri,23,NE,kau,Kanuri,M
-6,Q2,21,Kanuri,23,NE,kby,Manga Kanuri,I
-6,Q2,21,Kanuri,23,NE,knc,Central Kanuri,I
-6,Q2,21,Kanuri,23,NE,krt,Tumari Kanuri,I
 6,Q2,21,Kanuri,24,NG,kau,Kanuri,M
-6,Q2,21,Kanuri,24,NG,kby,Manga Kanuri,I
-6,Q2,21,Kanuri,24,NG,knc,Central Kanuri,I
 6,Q2,22,Kissi,15,LR,kss,Southern Kisi,I
 6,Q2,22,Kissi,27,SL,kqs,Northern Kissi,I
 6,Q2,22,Kissi,27,SL,kss,Southern Kisi,I
@@ -4576,9 +4012,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,28,Nyanja,35,ZM,nya,Nyanja,I
 6,Q2,29,Peulh,2,BJ,fue,Borgu Fulfulde,I
 6,Q2,29,Peulh,2,BJ,fuh,Western Niger Fulfulde,I
-6,Q2,29,Peulh,2,BJ,ful,Fulah,M
 6,Q2,29,Peulh,32,TG,fue,Borgu Fulfulde,I
-6,Q2,29,Peulh,32,TG,ful,Fulah,M
 6,Q2,30,Sénoufo,4,BF,kza,Western Karaboro,I
 6,Q2,30,Sénoufo,4,BF,sen,Nanerigé Sénoufo,I
 6,Q2,30,Sénoufo,4,BF,sep,Sìcìté Sénoufo,I
@@ -4593,11 +4027,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,31,Setswana,3,BW,tsn,Tswana,I
 6,Q2,31,Setswana,22,NA,tsn,Tswana,I
 6,Q2,32,Tamasheq,18,ML,taq,Tamasheq,I
-6,Q2,32,Tamasheq,18,ML,tmh,Tamashek,M
 6,Q2,32,Tamasheq,18,ML,ttq,Tawallammat Tamajaq,I
 6,Q2,32,Tamasheq,23,NE,thv,Tahaggart Tamahaq,I
 6,Q2,32,Tamasheq,23,NE,thz,Tayart Tamajeq,I
-6,Q2,32,Tamasheq,23,NE,tmh,Tamashek,M
 6,Q2,32,Tamasheq,23,NE,ttq,Tawallammat Tamajaq,I
 6,Q2,33,Tonga,35,ZM,toi,Tonga (Zambia),I
 6,Q2,33,Tonga,36,ZW,toi,Tonga (Zambia),I
@@ -4638,8 +4070,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,220,Crioulo,7,CV,kea,Kabuverdianu,I
 6,Q2,221,Português,7,CV,por,Portuguese,I
 6,Q2,260,Akan,11,GH,aka,Akan,M
-6,Q2,260,Akan,11,GH,fat,Fanti,I
-6,Q2,260,Akan,11,GH,twi,Twi,I
 6,Q2,262,Ga/Dangbe,11,GH,ada,Adangme,I
 6,Q2,262,Ga/Dangbe,11,GH,gaa,Ga,I
 6,Q2,263,Dagbani,11,GH,dag,Dagbani,I
@@ -4658,46 +4088,24 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,278,Basari,11,GH,bud,Ntcham,I
 6,Q2,300,Kikuyu,13,KE,kik,Kikuyu,I
 6,Q2,301,Luo,13,KE,luo,Luo (Kenya and Tanzania),I
-6,Q2,302,Luhya,13,KE,bxk,Bukusu,I
-6,Q2,302,Luhya,13,KE,ida,Idakho-Isukha-Tiriki,I
-6,Q2,302,Luhya,13,KE,lkb,Kabras,I
-6,Q2,302,Luhya,13,KE,lko,Khayo,I
-6,Q2,302,Luhya,13,KE,lks,Kisa,I
-6,Q2,302,Luhya,13,KE,lri,Marachi,I
-6,Q2,302,Luhya,13,KE,lrm,Marama,I
-6,Q2,302,Luhya,13,KE,lsm,Saamia,I
-6,Q2,302,Luhya,13,KE,lto,Tsotso,I
-6,Q2,302,Luhya,13,KE,lts,Tachoni,I
 6,Q2,302,Luhya,13,KE,luy,Luyia,M
-6,Q2,302,Luhya,13,KE,nle,East Nyala,I
-6,Q2,302,Luhya,13,KE,nyd,Nyore,I
-6,Q2,302,Luhya,13,KE,rag,Logooli,I
 6,Q2,303,Kamba,13,KE,kam,Kamba (Kenya),I
-6,Q2,304,Kalenjin,13,KE,enb,Markweeta,I
-6,Q2,304,Kalenjin,13,KE,eyo,Keiyo,I
 6,Q2,304,Kalenjin,13,KE,kln,Kalenjin,M
-6,Q2,304,Kalenjin,13,KE,niq,Nandi,I
-6,Q2,304,Kalenjin,13,KE,oki,Okiek,I
-6,Q2,304,Kalenjin,13,KE,pko,Pökoot,I
-6,Q2,304,Kalenjin,13,KE,sgc,Kipsigis,I
-6,Q2,304,Kalenjin,13,KE,spy,Sabaot,I
-6,Q2,304,Kalenjin,13,KE,tec,Terik,I
-6,Q2,304,Kalenjin,13,KE,tuy,Tugen,I
 6,Q2,305,Kisii,13,KE,guz,Gusii,I
+6,Q2,306,Meru/Embu,13,KE,ebu,Embu,I
 6,Q2,306,Meru/Embu,13,KE,mer,Meru,I
 6,Q2,307,Maasai/Samburu,13,KE,mas,Masai,I
+6,Q2,307,Maasai/Samburu,13,KE,saq,Samburu,I
 6,Q2,308,Mijikenda,13,KE,dig,Digo,I
 6,Q2,308,Mijikenda,13,KE,dug,Duruma,I
 6,Q2,308,Mijikenda,13,KE,nyf,Giryama,I
 6,Q2,309,Taita,13,KE,dav,Taita,I
 6,Q2,310,Somali,13,KE,som,Somali,I
-6,Q2,311,Pokot,13,KE,kln,Kalenjin,M
 6,Q2,311,Pokot,13,KE,pko,Pökoot,I
 6,Q2,312,Turkana,13,KE,tuv,Turkana,I
 6,Q2,313,Kuria,13,KE,kuj,Kuria,I
 6,Q2,314,Garre,13,KE,gex,Garre,I
 6,Q2,315,Borana,13,KE,gax,Borana-Arsi-Guji Oromo,I
-6,Q2,315,Borana,13,KE,orm,Oromo,M
 6,Q2,340,Sesotho,14,LS,sot,Southern Sotho,I
 6,Q2,341,Sephuthi,14,LS,ssw,Swati,I
 6,Q2,342,Sethepu,14,LS,xho,Xhosa,I
@@ -4708,11 +4116,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,385,Gola,15,LR,gol,Gola,I
 6,Q2,386,Grebo,15,LR,gbo,Northern Grebo,I
 6,Q2,386,Grebo,15,LR,gec,Gboloo Grebo,I
-6,Q2,386,Grebo,15,LR,grb,Grebo,M
 6,Q2,386,Grebo,15,LR,grj,Southern Grebo,I
 6,Q2,386,Grebo,15,LR,grv,Central Grebo,I
 6,Q2,386,Grebo,15,LR,gry,Barclayville Grebo,I
-6,Q2,388,Kpelle,15,LR,kpe,Kpelle,M
 6,Q2,388,Kpelle,15,LR,xpe,Liberia Kpelle,I
 6,Q2,389,Krahn,15,LR,kqo,Eastern Krahn,I
 6,Q2,389,Krahn,15,LR,krw,Western Krahn,I
@@ -4721,12 +4127,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,392,Mandingo,15,LR,mzj,Manya,I
 6,Q2,395,Vai,15,LR,vai,Vai,I
 6,Q2,396,Liberian English,15,LR,lir,Liberian English,I
-6,Q2,420,Malgache « officiel »,16,MG,mlg,Malagasy,M
 6,Q2,420,Malgache « officiel »,16,MG,plt,Plateau Malagasy,I
 6,Q2,421,Malgache avec spécificité régionale,16,MG,bhr,Bara Malagasy,I
 6,Q2,421,Malgache avec spécificité régionale,16,MG,bmm,Northern Betsimisaraka Malagasy,I
 6,Q2,421,Malgache avec spécificité régionale,16,MG,bzc,Southern Betsimisaraka Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,mlg,Malagasy,M
 6,Q2,421,Malgache avec spécificité régionale,16,MG,msh,Masikoro Malagasy,I
 6,Q2,421,Malgache avec spécificité régionale,16,MG,skg,Sakalava Malagasy,I
 6,Q2,421,Malgache avec spécificité régionale,16,MG,tdx,Tandroy-Mahafaly Malagasy,I
@@ -4756,13 +4160,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,509,Kakolo,18,ML,xkg,Kagoro,I
 6,Q2,510,Khassonké,18,ML,kao,Xaasongaxango,I
 6,Q2,511,Malinké,18,ML,kao,Xaasongaxango,I
-6,Q2,511,Malinké,18,ML,man,Mandingo,M
 6,Q2,511,Malinké,18,ML,mlq,Western Maninkakan,I
 6,Q2,511,Malinké,18,ML,mwk,Kita Maninkakan,I
 6,Q2,512,Maure,18,ML,mey,Hassaniyya,I
 6,Q2,513,Mianka,18,ML,myk,Mamara Senoufo,I
 6,Q2,514,Peulh/Fulfude,18,ML,ffm,Maasina Fulfulde,I
-6,Q2,514,Peulh/Fulfude,18,ML,ful,Fulah,M
 6,Q2,515,Samogo,18,ML,dux,Duungooma,I
 6,Q2,516,Senufo,18,ML,myk,Mamara Senoufo,I
 6,Q2,516,Senufo,18,ML,shz,Syenara Senoufo,I
@@ -4798,7 +4200,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,624,Efik,24,NG,efi,Efik,I
 6,Q2,625,Ebira,24,NG,igb,Ebira,I
 6,Q2,626,Fulani,24,NG,fub,Adamawa Fulfulde,I
-6,Q2,626,Fulani,24,NG,ful,Fulah,M
 6,Q2,627,Isoko,24,NG,iso,Isoko,I
 6,Q2,628,Ibibio,24,NG,ibb,Ibibio,I
 6,Q2,631,Nupe,24,NG,nup,Nupe-Nupe-Tako,I
@@ -4827,9 +4228,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,653,Yala,24,NG,yba,Yala,I
 6,Q2,660,Wolof,26,SN,wol,Wolof,I
 6,Q2,661,Pulaar/Toucouleur,26,SN,fuc,Pulaar,I
-6,Q2,661,Pulaar/Toucouleur,26,SN,ful,Fulah,M
 6,Q2,662,Serer,26,SN,srr,Serer,I
-6,Q2,663,Mandinka/Bambara,26,SN,man,Mandingo,M
 6,Q2,663,Mandinka/Bambara,26,SN,mnk,Mandinka,I
 6,Q2,664,Soninke,26,SN,snk,Soninke,I
 6,Q2,665,Diola,26,SN,dyo,Jola-Fonyi,I
@@ -4899,7 +4298,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,791,Madi,34,UG,snm,Southern Ma'di,I
 6,Q2,792,Japadhola,34,UG,adh,Adhola,I
 6,Q2,793,Lusamia,34,UG,lsm,Saamia,I
-6,Q2,793,Lusamia,34,UG,luy,Luyia,M
 6,Q2,794,Lugwere,34,UG,gwr,Gwere,I
 6,Q2,795,Rukiga,34,UG,cgg,Chiga,I
 6,Q2,796,Rutooro,34,UG,ttj,Tooro,I
@@ -4952,11 +4350,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,934,Loko,27,SL,lok,Loko,I
 6,Q2,935,Sherbo,27,SL,bun,Sherbro,I
 6,Q2,936,Fulla,27,SL,fuf,Pular,I
-6,Q2,936,Fulla,27,SL,ful,Fulah,M
 6,Q2,937,Kono,27,SL,kno,Kono (Sierra Leone),I
 6,Q2,938,Kuranko,27,SL,knk,Kuranko,I
 6,Q2,939,Madingo,27,SL,emk,Eastern Maninkakan,I
-6,Q2,939,Madingo,27,SL,man,Mandingo,M
 6,Q2,941,Susu,27,SL,sus,Susu,I
 6,Q2,943,Yalunka,27,SL,yal,Yalunka,I
 6,Q2,1101,Zarma/Songhaï,23,NE,dje,Zarma,I
@@ -4979,7 +4375,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,1160,Tchpkossi (Anoufom),32,TG,cko,Anufo,I
 6,Q2,1180,Kirundi,5,BI,run,Rundi,I
 6,Q2,1220,Foufouldé,6,CM,fub,Adamawa Fulfulde,I
-6,Q2,1220,Foufouldé,6,CM,ful,Fulah,M
 6,Q2,1220,Foufouldé,6,CM,fuv,Nigerian Fulfulde,I
 6,Q2,1221,Pidgin,6,CM,wes,Cameroon Pidgin,I
 6,Q2,1222,Ewondo,6,CM,ewo,Ewondo,I
@@ -5013,7 +4408,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,1240,Fali,6,CM,fal,South Fali,I
 6,Q2,1240,Fali,6,CM,fll,North Fali,I
 6,Q2,1241,Fong,6,CM,ewo,Ewondo,I
-6,Q2,1242,Gbaya,6,CM,gba,Gbaya (Central African Republic),M
 6,Q2,1242,Gbaya,6,CM,gya,Northwest Gbaya,I
 6,Q2,1243,Guider,6,CM,gid,Gidar,I
 6,Q2,1244,Guiziga,6,CM,gis,North Giziga,I
@@ -5059,20 +4453,14 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,1282,Wobe,8,CI,wob,Wè Northern,I
 6,Q2,1300,Soussou,12,GN,sus,Susu,I
 6,Q2,1301,Poular,12,GN,fuf,Pular,I
-6,Q2,1301,Poular,12,GN,ful,Fulah,M
 6,Q2,1302,Maninka,12,GN,emk,Eastern Maninkakan,I
-6,Q2,1302,Maninka,12,GN,man,Mandingo,M
 6,Q2,1303,Kpèlè,12,GN,gkp,Guinea Kpelle,I
-6,Q2,1303,Kpèlè,12,GN,kpe,Kpelle,M
 6,Q2,1304,Loma,12,GN,tod,Toma,I
 6,Q2,1305,Kissié,12,GN,kqs,Northern Kissi,I
-6,Q2,1420,Algerian Arabic,1,DZ,ara,Arabic,M
 6,Q2,1420,Algerian Arabic,1,DZ,arq,Algerian Arabic,I
-6,Q2,1460,Egyptian Arabic,9,EG,ara,Arabic,M
 6,Q2,1460,Egyptian Arabic,9,EG,arz,Egyptian Arabic,I
 6,Q2,1501,Alhassania,20,MA,mey,Hassaniyya,I
 6,Q2,1540,Sudanese Arabic,29,SD,apd,Sudanese Arabic,I
-6,Q2,1540,Sudanese Arabic,29,SD,ara,Arabic,M
 6,Q2,1541,Nubian Language,29,SD,dgl,Andaandi,I
 6,Q2,1541,Nubian Language,29,SD,fia,Nobiin,I
 6,Q2,1541,Nubian Language,29,SD,mei,Midob,I

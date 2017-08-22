@@ -290,7 +290,7 @@ env_bind_fns(IO,
       lang_id = col_integer(),
       lang_name = col_character(),
       iso_alpha2 = col_character(),
-      distance = col_integer()
+      distance = col_double()
     )
     read_csv(path, na = "", col_types = col_types)
   },
@@ -340,10 +340,7 @@ env_bind_fns(IO,
       iso_alpha2 = col_character(),
       wals_code = col_character(),
       wals_name = col_character(),
-      auto = col_integer(),
-      distance = col_integer(),
-      same_country = col_integer(),
-      in_wals_country = col_integer()
+      auto = col_integer()
     )
     read_csv(path, na = "", col_types = col_types)
   },
@@ -358,10 +355,7 @@ env_bind_fns(IO,
       iso_alpha2 = col_character(),
       wals_code = col_character(),
       wals_name = col_character(),
-      auto = col_integer(),
-      distance = col_integer(),
-      same_country = col_integer(),
-      in_wals_country = col_integer()
+      auto = col_integer()
     )
     read_csv(path, na = "", col_types = col_types)
   },
@@ -637,6 +631,24 @@ glottolog_to_iso <- function() {
     group_by(glottocode) %>%
     mutate(isocodes = list(unique(iso_639_3)))
 }
+
+#' Countries associated with each ISO 639
+iso_639_countries <- function() {
+  iso_639_countries <-
+    iso_countries <- IO$ethnologue %>%
+    select(LangID, CountryID) %>%
+    distinct()
+
+  macrolang_countries <- IO$iso_639_3_macrolanguages %>%
+    rename(LangID = M_Id) %>%
+    left_join(iso_countries, by = c(I_Id = "LangID")) %>%
+    select(-I_Id, -I_Status) %>%
+    filter(!is.na(CountryID)) %>%
+    bind_rows(tibble(LangID = "aka", CountryID = "GH"))
+
+  bind_rows(iso_countries, macrolang_countries)
+}
+rlang::env_bind_fns(IO, iso_639_3_countries = iso_639_countries)
 
 
 #' Misc functions

@@ -6,6 +6,8 @@ source("src/init.R")
 
 OUTPUT <- project_path("data", "glottolog.csv")
 
+wals <- IO$wals
+
 glottolog_tree <-
   read_json("external/glottolog/tree-glottolog.json",
             simplifyVector = FALSE)
@@ -85,11 +87,11 @@ resourcemap <- IO$glottolog_resourcemap %>%
 wals_lookup <-
   filter(resourcemap, type == "wals") %>%
   select(-type) %>%
-  left_join(bind_rows(wals_family, wals_genus),
-            by = "identifier") %>%
-  mutate(wals_code = coalesce(wals_code, identifier)) %>%
-  select(-identifier) %>%
-  #rename(wals_code = identifier) %>%
+  #left_join(bind_rows(wals_family, wals_genus),
+  #          by = "identifier") %>%
+  #mutate(wals_code = coalesce(wals_code, identifier)) %>%
+  #select(-identifier) %>%
+  rename(wals_code = identifier) %>%
   group_by(glottocode) %>%
   summarise(wals_codes = list(sort(unique(wals_code)))) %>%
   (function(x) {set_names(x$wals_codes, x$glottocode)})()

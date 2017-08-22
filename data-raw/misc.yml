@@ -6,6 +6,10 @@ iso:
       Valid ISO-scopes. Used for checking data.
     values: [I, M, S]
   code_pattern: "^[a-z]{3}$"
+  common_langs:
+    comment: >-
+      Internationally used languages. Ignore their country presence.
+    values: ["eng", "fra", "por", "deu"]
 wals:
   code_pattern: "^[a-z]{2,3}$"
   non_african:

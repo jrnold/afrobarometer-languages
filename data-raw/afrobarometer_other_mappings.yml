@@ -2201,8 +2201,7 @@
 - country: GH
   glottocode: akan1250
   iso_639_3:
-  - fat
-  - twi
+  - aka
   lang_name: akan
   wals_codes: null
 - country: GH
@@ -5625,9 +5624,12 @@
   lang_name: kona
   wals_codes: null
 - country: NG
-  glottocode: tanj1247
+  glottocode: koro1301
   iso_639_3:
-  - uji
+  - ahs
+  - bqv
+  - ldb
+  - "yes"
   lang_name: koro
   wals_codes: null
 - country: NG
@@ -7536,7 +7538,7 @@
 - country: UG
   glottocode: luyi1234
   iso_639_3:
-  - lsm
+  - luy
   lang_name: baluya
   note: Saamia is the primary Luyia language spoken in UG
   wals_codes:

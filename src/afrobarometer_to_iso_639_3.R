@@ -50,11 +50,6 @@ afrobarometer_to_iso <- IO$afrobarometer_mappings %>%
              .x$variable, " lang_id ", .x$lang_id)
       }
     }) %>%
-  {bind_rows(.,
-     inner_join(., iso_macrolangs,
-                by = c("iso_639_3" = "I_Id")) %>%
-      select(-iso_639_3) %>%
-      rename(iso_639_3 = M_Id))} %>%
   # there may be duplicates
   distinct() %>%
   rename(valid_country = country)
@@ -141,35 +136,34 @@ iso_lang_nonmatches <-
   anti_join(iso_langs, by = c("iso_639_3" = "Id"))
 stopifnot(nrow(iso_lang_nonmatches) == 0)
 
-#' Check that the Afrobarometer countries in which
-#' the language is spoken is consistent with countries
-#' in which the Ethnologue records the language as being spoken.
-ethnologue_langidx <- IO$ethnologue %>%
-  select(LangID, CountryID) %>%
-  # patch with Akan split
-  bind_rows(tibble(LangID = c("twi", "fat"), CountryID = "GH"))
+#' Any match should consist of either ALL individual languages or ONE macrolanguage
+macro_and_indiv <-
+  afrobarometer_to_iso %>%
+  count(round, variable, lang_id, country, iso_scope) %>%
+  group_by(round, variable, lang_id, country) %>%
+  filter(all(c("I", "M") %in% iso_scope) |
+           (iso_scope == "M" & n > 1))
+if (nrow(macro_and_indiv) > 1) {
+  print(macro_and_indiv)
+  stop("Each language MUST match to either one or more individual languages OR one macrolanguage")
+}
 
-# Ignore these common langs
-IGNORE_LANGS <- c("eng", "fra", "por", "deu")
 
+#' Check that the Ethnologue indicates that the ISO language match is spoken in that country
 iso_country_non_matches <-
   afrobarometer_to_iso %>%
-  # ignore macrolangs
-  filter(iso_scope %in% c("I"),
-         !iso_639_3 %in% IGNORE_LANGS) %>%
+  filter(iso_scope %in% c("I", "M"),
+         !iso_639_3 %in% IO$misc_data$iso$common_langs$values) %>%
   # remove any known non-matches
   anti_join(IO$afrobarometer_to_iso_country_nonmatches,
             by = c("round", "variable", "lang_id", "iso_alpha2",
                    "iso_639_3")) %>%
-  anti_join(ethnologue_langidx,
+  anti_join(IO$iso_639_3_countries,
             by = c(iso_639_3 = "LangID", iso_alpha2 = "CountryID"))
-
 stopifnot(nrow(iso_country_non_matches) == 0)
-# This generates YAML to add to misc_data exceptions
-# iso_country_non_matches %>%
-#   select(round, variable, lang_id, lang_name, iso_639_3) %>%
-#   yaml::as.yaml(column.major = FALSE) %>% cat()
 
+#' If there are multiple ISO languages that are matched to one
+#' Afrobarometer langauge check that they are closely related.
 distant_matches <-
   afrobarometer_to_iso %>%
   # ignore macro-languages since they aren't in the ethnologue dist
@@ -196,11 +190,15 @@ if (nrow(distant_matches) > 0) {
   stop("Found multiple matches with seemingly unrelated ISO languages")
 }
 
+#' Check that all combinations of (country, language name)
+#' match the same ISO codes across rounds.
 consistent_mappings <-
   afrobarometer_to_iso %>%
+  #' Arabic is handled differently
+  filter(lang_name != "Arabic") %>%
   group_by(round, variable, lang_name, iso_alpha2) %>%
-  summarise(iso_639_3 = str_c(iso_639_3, collapse = " ")) %>%
-  group_by(iso_alpha2, lang_name, iso_639_3) %>%
+  summarise(iso_639_3 = str_c(sort(unique(iso_639_3)), collapse = " ")) %>%
+  group_by(iso_alpha2, lang_name) %>%
   filter(length(unique(iso_639_3)) > 1) %>%
   arrange(lang_name, iso_alpha2)
 if (nrow(consistent_mappings)) {
