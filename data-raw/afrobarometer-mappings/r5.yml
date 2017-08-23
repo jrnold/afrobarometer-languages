@@ -132,16 +132,9 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes:
-    CI: bamb1269
-    ML: bamb1269
-    SN: mand1436
+- glottocodes: bamb1269
   iso_639_3:
-    bam:
-    - CI
-    - ML
-    mnk:
-    - SN
+  - bam
   lang_id: 9
   lang_name: Bambara
   note: Ivory Coast (CI), Mali (ML), and Senegal (SN). Bambara/Bmanankan (bam) of
@@ -1844,9 +1837,14 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: makh1264
+- glottocodes: maku1279
   iso_639_3:
   - vmw
+  - xmc
+  - mgh
+  - mhm
+  - xsq
+  - vmk
   lang_id: 540
   lang_name: Makua
   variables:
@@ -2488,6 +2486,7 @@
 - glottocodes: mand1436
   iso_639_3:
   - mnk
+  - bam
   lang_id: 663
   lang_name: Mandinka/Bambara
   variables:

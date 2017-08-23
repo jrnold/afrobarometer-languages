@@ -33,38 +33,38 @@ geo_lookup <- select(languoid_info, glottocode, latitude, longitude) %>%
   summarise(xy = list(matrix(c(longitude, latitude), ncol = 2))) %>%
   (function(x) set_names(x$xy, x$glottocode))()
 
-wals_genus_path <- function(x) {
-  replacements <- list(
-    "genus/bororoan" = "genus/bororo",
-    "genus/jingpho" =  "genus/jinghpo",
-    "genus/guaymiic" = "genus/guaymi",
-    "genus/coresiouan" = "genus/siouan",
-    "genus/warayic" = "genus/warayic"
-  )
-
-  iconv(x, to = "ASCII//TRANSLIT") %>%
-    str_to_lower() %>%
-    str_replace_all("[^a-z]", "") %>%
-    str_c("genus", ., sep = "/") %>%
-    recode(splice(replacements))
-}
-
-wals_genus <- IO$wals %>%
-  select(genus, wals_code) %>%
-  mutate(identifier = wals_genus_path(genus)) %>%
-  select(-genus)
-
-wals_family_path <- function(x) {
-  iconv(x, to = "ASCII//TRANSLIT") %>%
-  str_to_lower() %>%
-    str_replace_all("[^a-z]", "") %>%
-    str_c("family", ., sep = "/")
-}
-
-wals_family <- IO$wals %>%
-  select(family, wals_code) %>%
-  mutate(identifier = wals_family_path(family)) %>%
-  select(-family)
+# wals_genus_path <- function(x) {
+#   replacements <- list(
+#     "genus/bororoan" = "genus/bororo",
+#     "genus/jingpho" =  "genus/jinghpo",
+#     "genus/guaymiic" = "genus/guaymi",
+#     "genus/coresiouan" = "genus/siouan",
+#     "genus/warayic" = "genus/warayic"
+#   )
+#
+#   iconv(x, to = "ASCII//TRANSLIT") %>%
+#     str_to_lower() %>%
+#     str_replace_all("[^a-z]", "") %>%
+#     str_c("genus", ., sep = "/") %>%
+#     recode(splice(replacements))
+# }
+#
+# wals_genus <- IO$wals %>%
+#   select(genus, wals_code) %>%
+#   mutate(identifier = wals_genus_path(genus)) %>%
+#   select(-genus)
+#
+# wals_family_path <- function(x) {
+#   iconv(x, to = "ASCII//TRANSLIT") %>%
+#   str_to_lower() %>%
+#     str_replace_all("[^a-z]", "") %>%
+#     str_c("family", ., sep = "/")
+# }
+#
+# wals_family <- IO$wals %>%
+#   select(family, wals_code) %>%
+#   mutate(identifier = wals_family_path(family)) %>%
+#   select(-family)
 
 # Remove some incorrect WALS identifiers
 # I submitted PRs to fix these

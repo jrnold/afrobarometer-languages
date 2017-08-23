@@ -1221,9 +1221,14 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: makh1264
+- glottocodes: maku1279
   iso_639_3:
   - vmw
+  - xmc
+  - mgh
+  - mhm
+  - xsq
+  - vmk
   lang_id: 300
   lang_name: Makua
   variables:
@@ -1832,7 +1837,7 @@
   wals_codes: null
 - glottocodes: mand1436
   iso_639_3:
-  - mnk
+  - bam
   lang_id: 367
   lang_name: Bambara
   note: Senegal. SN. Use closely related Mandinka for Senegal ()

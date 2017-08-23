@@ -1,5 +1,8 @@
+source("src/init.R")
 library(tidyverse)
 library(xml2)
+library(stringr)
+
 UNICODE_CLDR <- "http://unicode.org/repos/cldr/trunk/common/supplemental/supplementalData.xml"
 langdata <- read_xml(url(UNICODE_CLDR))
 
@@ -75,12 +78,37 @@ ab2iso <-
   distinct()
 
 
+# Proportions for major languages in Afrobarometer Countries
+# as reported in the Unicode CLDR
 IO$afrobarometer_countries %>%
   left_join(cldr_language_pops, by = c("iso_alpha2" = "territory")) %>%
   anti_join(ab2iso, by = c("round", "iso_alpha2", "iso_639_3")) %>%
   filter(! language %in% c("ar", "en", "fr")) %>%
-  arrange(desc(round), variable) %>%
-  select(iso_639_3, Ref_Name, language, iso_alpha2, round, populationPercent) %>%
-  print(n = 1000)
+  select( populationPercent, iso_639_3, Ref_Name, language, iso_alpha2, round) %>%
+  arrange(-populationPercent) %>%
+  write_csv(path = "unicode_cldr.csv", na = "") %>%
+  print(n = 1000, width = 1000)
 
+# Proportions for major languages in Afrobarometer Countries
+# as reported in the Unicode CLDR
+cldr_language_pops %>%
+  filter(territory %in% unique(IO$afrobarometer_countries$iso_alpha2)) %>%
+  select(territory, language, populationPercent)
+
+# Proportions of Afrobarometer Languages
+
+IO$afrobarometer_to_iso %>%
+  group_by(round, variable, lang_id, lang_name, iso_alpha2) %>%
+  summarise(iso_639_3 = str_c(sort(unique(iso_639_3)), collapse = " ")) %>%
+  inner_join(select(IO$afrobarometer_lang_variables,
+                    round, variable = name, type),
+             by = c("round", "variable")) %>%
+  filter(type == "respondent") %>%
+  select(-type) %>%
+  left_join(select(IO$afrobarometer_langs,
+                   round, variable, lang_id = value, iso_alpha2,
+                   n_resp, prop),
+            by = c("round", "variable", "lang_id", "iso_alpha2")) %>%
+  select(iso_alpha2, round, lang_name, iso_639_3, prop, n_resp) %>%
+  arrange(iso_alpha2, round, -prop)
 
