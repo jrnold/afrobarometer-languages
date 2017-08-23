@@ -2077,8 +2077,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q103,15,Fulfuldé,23,NE,cent2018
 5,Q103,17,Hausa,5,GH,haus1257
 5,Q103,17,Hausa,14,NG,haus1257
-5,Q103,26,Luo,6,KE,
-5,Q103,26,Luo,18,UG,
+5,Q103,26,Luo,6,KE,luok1236
+5,Q103,26,Luo,18,UG,sout2831
 5,Q103,29,Ndau,12,MZ,ndau1241
 5,Q103,29,Ndau,20,ZW,ndau1241
 5,Q103,35,siSwati,16,ZA,swat1243
@@ -2512,8 +2512,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q2,24,Lamba,24,TG,lama1275
 5,Q2,25,Lobi,3,BF,lobi1245
 5,Q2,25,Lobi,27,CI,lobi1245
-5,Q2,26,Luo,6,KE,
-5,Q2,26,Luo,18,UG,
+5,Q2,26,Luo,6,KE,luok1236
+5,Q2,26,Luo,18,UG,sout2831
 5,Q2,27,Mano,8,LR,mann1248
 5,Q2,27,Mano,28,GN,mann1248
 5,Q2,28,Mende,8,LR,mend1266

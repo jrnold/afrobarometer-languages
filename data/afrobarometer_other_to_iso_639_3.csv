@@ -450,7 +450,10 @@ round,variable,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q116OTHER,14,JUKUN,jbu,I,Jukun Takum,NG
 5,Q116OTHER,17,KIJITA,jit,I,Jita,TZ
 5,Q116OTHER,17,KILURI,mis,S,Uncoded languages,TZ
-5,Q116OTHER,14,KORO,uji,I,Tanjijili,NG
+5,Q116OTHER,14,KORO,ahs,I,Ashe,NG
+5,Q116OTHER,14,KORO,bqv,I,Koro Wachi,NG
+5,Q116OTHER,14,KORO,ldb,I,Dũya,NG
+5,Q116OTHER,14,KORO,yes,I,Nyankpa,NG
 5,Q116OTHER,26,KOTOKO,mis,S,Uncoded languages,CM
 5,Q116OTHER,26,MAFA,maf,I,Mafa,CM
 5,Q116OTHER,26,MBO,mbo,I,Mbo (Cameroon),CM
@@ -826,7 +829,10 @@ round,variable,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,24,KOMKOMBA,mis,S,Uncoded languages,TG
 5,Q2OTHER,5,KONKOMBA,xon,I,Konkomba,GH
 5,Q2OTHER,24,KONKOMBA,xon,I,Konkomba,TG
-5,Q2OTHER,14,KORO,uji,I,Tanjijili,NG
+5,Q2OTHER,14,KORO,ahs,I,Ashe,NG
+5,Q2OTHER,14,KORO,bqv,I,Koro Wachi,NG
+5,Q2OTHER,14,KORO,ldb,I,Dũya,NG
+5,Q2OTHER,14,KORO,yes,I,Nyankpa,NG
 5,Q2OTHER,27,KORO,kfo,I,Koro (Côte d'Ivoire),CI
 5,Q2OTHER,26,KOSHIN,kid,I,Koshin,CM
 5,Q2OTHER,1,KOTOCOLI,mis,S,Uncoded languages,BJ

@@ -1189,16 +1189,7 @@
   wals_codes: null
 - glottocodes: mala1537
   iso_639_3:
-  - bhr
-  - bmm
-  - bzc
-  - msh
-  - skg
-  - tdx
-  - tkg
-  - txy
-  - xmv
-  - xmw
+  - mlg
   lang_id: 421
   lang_name: Malagasy with regional variation
   variables:
@@ -1442,6 +1433,7 @@
   iso_639_3:
   - dds
   - djm
+  - dtm
   - dts
   lang_id: 506
   lang_name: Dogon

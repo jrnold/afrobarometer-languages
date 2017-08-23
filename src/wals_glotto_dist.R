@@ -1,3 +1,4 @@
+# distances between WALS languages using the Glottolog tree
 wals2glotto <- select(IO$wals, wals_code, glottocode) %>%
   filter(!is.na(glottocode)) %>%
   inner_join(select(languoids, glottocode, depth, ancestors, family,

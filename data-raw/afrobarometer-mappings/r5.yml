@@ -352,8 +352,8 @@
   - Q2
   wals_codes: null
 - glottocodes:
-    sout2831: UG
-    luok1236: KE
+    UG: sout2831
+    KE: luok1236
   iso_639_3:
     ach:
     - UG
@@ -1529,21 +1529,9 @@
   wals_codes: null
 - glottocodes: mala1537
   iso_639_3:
-  - bhr
-  - bmm
-  - bzc
-  - msh
-  - skg
-  - tdx
-  - tkg
-  - txy
-  - xmv
-  - xmw
+  - mlg
   lang_id: 421
   lang_name: Malagasy dialect
-  note: 'Don''t include Bushi since it is spoken largely in Mayotte
-
-    rather than Madagascar.'
   variables:
   - Q103
   - Q116
@@ -1724,6 +1712,7 @@
   iso_639_3:
   - dds
   - djm
+  - dtm
   - dts
   lang_id: 505
   lang_name: Dogon

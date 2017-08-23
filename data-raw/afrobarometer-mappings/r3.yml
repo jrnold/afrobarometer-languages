@@ -838,16 +838,7 @@
   wals_codes: null
 - glottocodes: mala1537
   iso_639_3:
-  - bhr
-  - bmm
-  - bzc
-  - msh
-  - skg
-  - tdx
-  - tkg
-  - txy
-  - xmv
-  - xmw
+  - mlg
   lang_id: 241
   lang_name: dialect malg
   variables:
@@ -855,16 +846,7 @@
   wals_codes: null
 - glottocodes: mala1537
   iso_639_3:
-  - bhr
-  - bmm
-  - bzc
-  - msh
-  - skg
-  - tdx
-  - tkg
-  - txy
-  - xmv
-  - xmw
+  - mlg
   lang_id: 241
   lang_name: dialecte
   variables:
@@ -872,16 +854,7 @@
   wals_codes: null
 - glottocodes: mala1537
   iso_639_3:
-  - bhr
-  - bmm
-  - bzc
-  - msh
-  - skg
-  - tdx
-  - tkg
-  - txy
-  - xmv
-  - xmw
+  - mlg
   lang_id: 241
   lang_name: langue régionale
   variables:
@@ -1129,6 +1102,7 @@
   iso_639_3:
   - dds
   - djm
+  - dtm
   - dts
   lang_id: 288
   lang_name: Dogon

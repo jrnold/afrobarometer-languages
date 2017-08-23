@@ -1373,20 +1373,10 @@
   wals_codes: null
 - glottocodes: mala1537
   iso_639_3:
-  - bhr
-  - bmm
-  - bzc
-  - msh
-  - skg
-  - tdx
-  - tkg
-  - txy
-  - xmv
-  - xmw
+  - mlg
   lang_id: 421
   lang_name: Malgache avec spécificité régionale
-  note: Include macrolanguage code for Malagasay, and all languages that are not Plateau
-    Malagasay
+  note: Use the macrolanguage code.
   variables:
   - Q103
   - Q116
@@ -1553,6 +1543,7 @@
   iso_639_3:
   - dds
   - djm
+  - dtm
   - dts
   lang_id: 506
   lang_name: Dogon
@@ -4282,7 +4273,7 @@
   - gkp
   lang_id: 1303
   lang_name: Kpèlè
-  note: https://en.wikipedia.org/wiki/Kpelle_language
+  note: https://en.wikipedia.org/wiki/Kpelle_language. Guinean Kpelle
   variables:
   - Q2
   wals_codes: null
