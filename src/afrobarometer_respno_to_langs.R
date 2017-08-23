@@ -12,12 +12,9 @@ afrobarometer_to_wals <- IO$afrobarometer_to_wals
 
 afrobarometer_other_to_wals <- IO$afrobarometer_other_to_wals
 
-afrobarometer_to_iso <- IO$afrobarometer_to_iso %>%
-  filter(iso_scope != "M")
+afrobarometer_to_iso <- IO$afrobarometer_to_iso
 
-afrobarometer_other_to_iso <- IO$afrobarometer_other_to_iso %>%
-  # don't include the macrolanguages here
-  filter(iso_scope != "M")
+afrobarometer_other_to_iso <- IO$afrobarometer_other_to_iso
 
 afrobarometer_to_glottolog <- IO$afrobarometer_to_glottolog
 

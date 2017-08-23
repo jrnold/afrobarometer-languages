@@ -9,40 +9,63 @@ source("src/init.R")
 
 OUTPUT <- project_path("data", "afrobarometer_langs_other.csv")
 
-misc_data <- IO$misc_data
-
-afrob_rounds <- misc_data$afrobarometer$rounds
-
 afrobarometer_countries <- IO$afrobarometer_countries
 
+weight_vars <- tribble(
+  ~round, ~name,
+  6, "withinwt",
+  5, "withinwt",
+  4, "Withinwt",
+  3, "withinwt",
+  2, "withinwt",
+  1, "withinwt"
+)
+
+#' For an Afrobarometer Dataset summarize the languages
+lang_summary <- function(lang_var, country_var, weight_var, .data) {
+  select(.data,
+         value = UQ(sym(lang_var)),
+         country = UQ(sym(country_var)),
+         withinwt = UQ(sym(weight_var))) %>%
+    filter(value != "") %>%
+    mutate(country = as.integer(country)) %>%
+    group_by(country, value) %>%
+    summarise(n_resp = n(), prop = sum(withinwt)) %>%
+    group_by(country) %>%
+    mutate(prop = prop / sum(prop)) %>%
+    ungroup() %>%
+    mutate(variable = UQ(lang_var))
+}
+
+#' Create a dataset of all Afrobarometer datasets
 afrobarometer_langs_other_r <- function(.round) {
   lang_vars <- IO$afrobarometer_lang_variables %>%
-    filter(round == UQ(.round), other) %>%
-    `[[`("name")
-
-  country_var <- IO$afrobarometer_country_variables %>%
-    filter(round == UQ(.round)) %>%
+    filter(as.logical(other), round == UQ(.round)) %>%
     `[[`("name")
 
   if (length(lang_vars)) {
-    IO$afrobarometer(.round) %>%
-      select(one_of(lang_vars), country = UQ(sym(country_var))) %>%
-      mutate(country = as.integer(country)) %>%
-      mutate_at(vars(one_of(lang_vars)),
-                funs(as.character)) %>%
-      gather(variable, value, -country) %>%
-      filter(value != "") %>%
-      count(country, variable, value) %>%
-      mutate(round = !!.round)
+    country_var <- IO$afrobarometer_country_variables %>%
+      filter(round == UQ(.round)) %>%
+      `[[`("name")
+    weight_var <- weight_vars %>%
+      filter(round == UQ(.round)) %>%
+      `[[`("name")
+
+    map_df(lang_vars,
+           lang_summary,
+           .data = IO$afrobarometer(.round),
+           country_var = country_var,
+           weight_var = weight_var) %>%
+      mutate(round = .round)
   }
 }
 
+
 afrobarometer_langs_other <- map_df(IO$misc_data$afrobarometer$rounds,
                                     afrobarometer_langs_other_r) %>%
-  left_join(select(afrobarometer_countries, round, value, iso_alpha2),
+  left_join(select(afrobarometer_countries, -variable),
             by = c("round", "country" = "value")) %>%
-  mutate(standardized_name = str_to_lower(value)) %>%
-  select(round, variable, country, value, iso_alpha2, standardized_name, n) %>%
+  select(round, variable, country, value, iso_alpha2, n_resp, prop) %>%
   arrange(round, variable, value)
 
 afrobarometer_langs_other %>%

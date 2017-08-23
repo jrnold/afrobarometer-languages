@@ -72,8 +72,7 @@
           {
             "name": "variable",
             "type": "string",
-            "title": "Variable",
-            "description": "Afrobarometer survey variable name; case sensitive, as it appears in the SPSS dataset.",
+            "title": "Afrobarometer survey variable/variable",
             "constraints": {
               "required": true,
               "enum": [
@@ -133,6 +132,27 @@
               "minimum": 1,
               "maximum": 36
             }
+          },
+          {
+            "name": "n_resp",
+            "types": "integer",
+            "constraints": {
+              "required": true,
+              "minimum": 1
+            },
+            "title": "Number of respondents",
+            "description": "Number of respondents in the survey which answered with this value."
+          },
+          {
+            "name": "prop",
+            "types": "number",
+            "constraints": {
+              "required": true,
+              "minimum": 0,
+              "maximum": 1
+            },
+            "title": "Population proportion",
+            "description": "Using the survey weights, the estimated proportion in the country which speak that language."
           }
         ],
         "missingValues": [
@@ -163,8 +183,7 @@
           {
             "name": "variable",
             "type": "string",
-            "title": "Variable",
-            "description": "Afrobarometer survey variable name; case sensitive, as it appears in the SPSS dataset.",
+            "title": "Afrobarometer survey variable/variable",
             "constraints": {
               "required": true,
               "enum": [
@@ -205,72 +224,16 @@
               "minimum": 1,
               "maximum": 36
             }
-          }
-        ],
-        "missingValues": [
-          ""
-        ]
-      }
-    },
-    {
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "path": "iso_to_wals.csv",
-      "name": "iso_to_wals",
-      "description": "Mappings from all ISO 639-3 languages to a WALS language. These use the ISO 639-3 codes provided in the WALS dataset and the Ethnologue language tree. ISO languages are matched to the closest WALS language using distance on the Ethnologue tree. This mapping is many to many.",
-      "schema": {
-        "fields": [
-          {
-            "name": "iso_code",
-            "type": "string",
-            "label": "ISO 639-3 Code From",
-            "description": "The ISO code of the language being mapped.",
-            "constraints": {
-              "required": true,
-              "pattern": "^[a-z]{3}$"
-            }
           },
           {
-            "name": "wals_code",
-            "type": "string",
-            "format": "default",
-            "label": "WALS code",
-            "description": "The WALS code associated with it.",
+            "name": "n_resp",
+            "types": "integer",
             "constraints": {
               "required": true,
-              "pattern": "^[a-z]{2,3}$"
-            }
-          },
-          {
-            "name": "iso_code_to",
-            "type": "string",
-            "format": "default",
-            "label": "ISO 639-3 Code (WALS)",
-            "description": "The ISO 639-3 code of the WALS language that was mapped to.",
-            "constraints": {
-              "required": true,
-              "pattern": "^[a-z]{3}$"
-            }
-          },
-          {
-            "name": "distance",
-            "type": "integer",
-            "label": "Distance",
-            "description": "The distance between the original ISO and the ISO code of the WALS language to which it was mapped. The distance is the graph distance between the two ISO languages in the Ethnologue language tree. A distance of 0 means the ISO language was directly mapped to a WALS language.",
-            "constraints": {
-              "required": true,
-              "minimum": 0
-            }
-          },
-          {
-            "name": "same_country",
-            "type": "boolean",
-            "label": "Same country",
-            "description": "Only non-missing if this was an automatic match. It is true if the matched WALS language has the same country as the original ISO language.",
-            "constraints": {
-              "required": false
-            }
+              "minimum": 1
+            },
+            "title": "Number of respondents",
+            "description": "Number of respondents in the survey which answered with this value."
           }
         ],
         "missingValues": [
@@ -301,8 +264,7 @@
           {
             "name": "variable",
             "type": "string",
-            "title": "Variable",
-            "description": "Afrobarometer survey variable name; case sensitive, as it appears in the SPSS dataset.",
+            "title": "Afrobarometer survey variable/variable",
             "constraints": {
               "required": true,
               "enum": [
@@ -422,8 +384,7 @@
           {
             "name": "variable",
             "type": "string",
-            "title": "Variable",
-            "description": "Afrobarometer survey variable name; case sensitive, as it appears in the SPSS dataset.",
+            "title": "Afrobarometer survey variable/variable",
             "constraints": {
               "required": true,
               "enum": [
@@ -524,8 +485,7 @@
           {
             "name": "variable",
             "type": "string",
-            "title": "Variable",
-            "description": "Afrobarometer survey variable name; case sensitive, as it appears in the SPSS dataset.",
+            "title": "Afrobarometer survey variable/variable",
             "constraints": {
               "required": true,
               "enum": [
@@ -610,32 +570,6 @@
             "type": "boolean",
             "title": "Automatched",
             "description": "If true, then language was matched to the WALS language using the ISO 639-9 mappings and the ISO-to-WALS mappings in `iso_to_wals`. If false, then the WALS codes were manually entered."
-          },
-          {
-            "name": "distance",
-            "type": "integer",
-            "label": "Distance",
-            "description": "The distance between the original ISO and the ISO code of the WALS language to which it was mapped. The distance is the graph distance between the two ISO languages in the Ethnologue language tree. A distance of 0 means the ISO language was directly mapped to a WALS language.",
-            "constraints": {
-              "required": false,
-              "minimum": 0
-            }
-          },
-          {
-            "name": "same_country",
-            "type": "boolean",
-            "label": "Same country",
-            "description": "Only non-missing if this was an automatic match. It is true if the matched WALS language has the same country as the original ISO language.",
-            "constraints": {
-              "required": false
-            }
-          },
-          {
-            "name": "in_wals_country",
-            "type": "boolean",
-            "contraints": {
-              "required": false
-            }
           }
         ]
       }
@@ -663,8 +597,7 @@
           {
             "name": "variable",
             "type": "string",
-            "title": "Variable",
-            "description": "Afrobarometer survey variable name; case sensitive, as it appears in the SPSS dataset.",
+            "title": "Afrobarometer survey variable/variable",
             "constraints": {
               "required": true,
               "enum": [
@@ -730,28 +663,6 @@
             "type": "boolean",
             "title": "Automatched",
             "description": "If true, then language was matched to the WALS language using the ISO 639-9 mappings and the ISO-to-WALS mappings in `iso_to_wals`. If false, then the WALS codes were manually entered."
-          },
-          {
-            "name": "distance",
-            "type": "integer",
-            "label": "Distance",
-            "description": "The distance between the original ISO and the ISO code of the WALS language to which it was mapped. The distance is the graph distance between the two ISO languages in the Ethnologue language tree. A distance of 0 means the ISO language was directly mapped to a WALS language."
-          },
-          {
-            "name": "same_country",
-            "type": "boolean",
-            "label": "Same country",
-            "description": "Only non-missing if this was an automatic match. It is true if the matched WALS language has the same country as the original ISO language.",
-            "constraints": {
-              "required": false
-            }
-          },
-          {
-            "name": "in_wals_country",
-            "type": "boolean",
-            "contraints": {
-              "required": false
-            }
           }
         ]
       }
@@ -779,8 +690,7 @@
           {
             "name": "variable",
             "type": "string",
-            "title": "Variable",
-            "description": "Afrobarometer survey variable name; case sensitive, as it appears in the SPSS dataset.",
+            "title": "Afrobarometer survey variable/variable",
             "constraints": {
               "required": true,
               "enum": [
@@ -877,8 +787,7 @@
           {
             "name": "variable",
             "type": "string",
-            "title": "Variable",
-            "description": "Afrobarometer survey variable name; case sensitive, as it appears in the SPSS dataset.",
+            "title": "Afrobarometer survey variable/variable",
             "constraints": {
               "required": true,
               "enum": [
@@ -1168,138 +1077,6 @@
             "constraints": {
               "required": false
             }
-          }
-        ]
-      }
-    },
-    {
-      "format": "csv",
-      "mediatype": "text/csv",
-      "encoding": "utf-8",
-      "path": "data/glottolog.csv",
-      "name": "glottolog",
-      "schema": {
-        "fields": [
-          {
-            "name": "glottocode",
-            "label": "Glottocode",
-            "type": "string",
-            "constraints": {
-              "required": true,
-              "pattern": "^[a-z0-9]{4}[0-9]{4}$"
-            },
-            "note": "Glottolog identifier"
-          },
-          {
-            "name": "name",
-            "label": "Name",
-            "type": "string",
-            "note": "Glottolog languoid name"
-          },
-          {
-            "name": "level",
-            "label": "Languoid level",
-            "type": "string",
-            "constraints": {
-              "required": true,
-              "enum": [
-                "dialect",
-                "language",
-                "family"
-              ]
-            },
-            "note": "Is the languoid a family, language, or dialect?"
-          },
-          {
-            "name": "depth",
-            "label": "Tree depth",
-            "type": "integer",
-            "note": "Tree depth in the Glottolog languoid tree. 0 is the root, 1 is families, 2 is children of the families and so on."
-          },
-          {
-            "name": "family",
-            "type": "string",
-            "label": "family",
-            "note": "Top level family of the languoid."
-          },
-          {
-            "name": "parent",
-            "type": "string",
-            "note": "Glottocode of the immediate parent of the languoid. Missing for top-level family languoids."
-          },
-          {
-            "name": "ancestors",
-            "type": "string",
-            "constraints": {
-              "required": false,
-              "pattern": "^[a-z0-9]{4}[0-9]{4}( [a-z0-9]{4}[0-9]{4})*"
-            },
-            "note": "A space separated list of Glottocodes of all ancestor languoids, including the immediate parent. This is ordered from the immediate parent to the root, so it provides the langoids on the path from the languoid to the root of the tree. This is missing/empty for top level languoids."
-          },
-          {
-            "name": "children",
-            "constraints": {
-              "required": false,
-              "pattern": "^[a-z0-9]{4}[0-9]{4}( [a-z0-9]{4}[0-9]{4})*"
-            },
-            "note": "A space separated list of Glottocodes of the immediate children languoids of the languoid. It is missing for some languages/dialects."
-          },
-          {
-            "name": "descendants",
-            "constraints": {
-              "required": false,
-              "pattern": "^[a-z0-9]{4}[0-9]{4}( [a-z0-9]{4}[0-9]{4})*"
-            },
-            "note": "A space separated list of Glottocodes of the all descendant languoids of a languoid, including the immediate children but also their children, and so forth. It is missing for some languages/dialects. There is no guaranteed order for the entries."
-          },
-          {
-            "name": "iso_639_3",
-            "note": "ISO 639-3 codes associated with the languoid. A languoid can be associated with more than one ISO 639-3 language. The values in this dataset use the ISO codes provided in the Glottolog language, and sequentially fill in the missing values using non-missing values of children and parent languoids as described in the documentation for the WALS code language. This column is a mapping from each Glottolog languoid to the closest ISO 639-3 language(s). Since ISO 639-3 and Glottolog languoids are not identical, the mapping from from ISO 639-3 languages to Glottolog languoids is different.",
-            "constraints": {
-              "required": true,
-              "pattern": "^[a-z]{3}( [a-z]{3})*$"
-            }
-          },
-          {
-            "name": "wals_codes",
-            "note": "WALS codes matching the Glottocode. These include those provided with the Glottolog dataset, with missing values filled in using two passes through the tree\n- Starting from the leaves, a languoid inherits all WALS codes from its descendants - Starting from the root, languoids with missing WALS codes inherits the WALS code of\n  from its parent.\n\nThis provides mapping from any Glottocode languoid to the \"closest\" WALS language. To get the Glottocode that is the best for a WALS language (Glottocode to WALS), use the Glottocode values provided with WALS."
-          },
-          {
-            "name": "macroarea",
-            "type": "string",
-            "constraints": {
-              "required": true,
-              "pattern": "^(Africa|Eurasia|(North|South) America|Australia|Papunesia)(;(Africa|Eurasia|(North|South) America|Australia|Papunesia))*$"
-            },
-            "note": "Semi-colon separated names of the macroarea(s) of the languoid. Glottolog defines the following macroareas\n- Africa - Australia - Eurasia - North America - Papunesia - South America\nA languoid can have more than one macroarea. The macroareas use those provided in the Glottolog dataset and then fill-in missing values from children and parent languoids using the method described in ``wals_codes``."
-          },
-          {
-            "name": "latitude",
-            "type": "number",
-            "constraints": {
-              "required": true,
-              "minimum": -90,
-              "maximum": 90
-            }
-          },
-          {
-            "name": "longitude",
-            "type": "number",
-            "constraints": {
-              "required": true,
-              "minimum": -180,
-              "maximum": 180
-            },
-            "note": "Longitude of the languoid. If this value was missing in the Glottolog dataset it was filled in using two passes through the tree.\n- starting from the leaves, the missing latitude and longitudes of languoids\n  were filled in using the geographic mean of the non-missing latitudes\n  and longitudes of its children\n- starting from the root, any child languoid with a missing value\n  inherited it from its parent."
-          },
-          {
-            "name": "bookkeeping",
-            "lable": "Booking languoid",
-            "type": "boolean",
-            "constraints": {
-              "required": true
-            },
-            "note": "See the [Glottolog](http://glottolog.org/glottolog/glottologinformation) documentation on bookkeeping languoids. They are \"retired\" languages which retain entries for bookkeeping/documentation purposes."
           }
         ]
       }

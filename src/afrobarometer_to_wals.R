@@ -82,6 +82,7 @@ to_wals_auto <-
   # filter(in_country == max(in_country)) %>%
   ungroup() %>%
   select(round, variable, lang_id, country, wals_code) %>%
+  distinct() %>%
   mutate(auto = 1)
 
 #' Combine the auto and manual matches
@@ -105,6 +106,10 @@ afrobarometer_to_wals %<>%
   select(round, variable, lang_id, lang_name, country, iso_alpha2,
          wals_code, wals_name, auto) %>%
   arrange(round, variable, lang_id, country, wals_code)
+
+assert_that(nrow(distinct(afrobarometer_to_wals,
+                          round, variable, lang_id, country, wals_code)) ==
+              nrow(afrobarometer_to_wals))
 
 with(afrobarometer_to_wals, {
   assert_that(all(!is.na(round)))

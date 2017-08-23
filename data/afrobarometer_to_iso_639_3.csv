@@ -142,6 +142,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 1,language,89,Sonrhai,5,ML,ses,Koyraboro Senni Songhai,I
 1,language,90,Dogon,5,ML,dds,Donno So Dogon,I
 1,language,90,Dogon,5,ML,djm,Jamsay Dogon,I
+1,language,90,Dogon,5,ML,dtm,Tomo Kan Dogon,I
 1,language,90,Dogon,5,ML,dts,Toro So Dogon,I
 1,language,91,Tamasheq,5,ML,taq,Tamasheq,I
 1,language,91,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
@@ -578,6 +579,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q83,175,Bozo,5,ML,bze,Jenaama Bozo,I
 2,q83,176,Dogon,5,ML,dds,Donno So Dogon,I
 2,q83,176,Dogon,5,ML,djm,Jamsay Dogon,I
+2,q83,176,Dogon,5,ML,dtm,Tomo Kan Dogon,I
 2,q83,176,Dogon,5,ML,dts,Toro So Dogon,I
 2,q83,177,Tamasheq,5,ML,taq,Tamasheq,I
 2,q83,177,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
@@ -826,6 +828,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 2,q97,172,Mianka,5,ML,myk,Mamara Senoufo,I
 2,q97,176,Dogon,5,ML,dds,Donno So Dogon,I
 2,q97,176,Dogon,5,ML,djm,Jamsay Dogon,I
+2,q97,176,Dogon,5,ML,dtm,Tomo Kan Dogon,I
 2,q97,176,Dogon,5,ML,dts,Toro So Dogon,I
 2,q97,177,Tamasheq,5,ML,taq,Tamasheq,I
 2,q97,177,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
@@ -986,16 +989,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,220,Sesotho,6,LS,sot,Southern Sotho,I
 3,q103,221,Seputi,6,LS,ssw,Swati,I
 3,q103,240,malg officiel,7,MG,plt,Plateau Malagasy,I
-3,q103,241,dialect malg,7,MG,bhr,Bara Malagasy,I
-3,q103,241,dialect malg,7,MG,bmm,Northern Betsimisaraka Malagasy,I
-3,q103,241,dialect malg,7,MG,bzc,Southern Betsimisaraka Malagasy,I
-3,q103,241,dialect malg,7,MG,msh,Masikoro Malagasy,I
-3,q103,241,dialect malg,7,MG,skg,Sakalava Malagasy,I
-3,q103,241,dialect malg,7,MG,tdx,Tandroy-Mahafaly Malagasy,I
-3,q103,241,dialect malg,7,MG,tkg,Tesaka Malagasy,I
-3,q103,241,dialect malg,7,MG,txy,Tanosy Malagasy,I
-3,q103,241,dialect malg,7,MG,xmv,Antankarana Malagasy,I
-3,q103,241,dialect malg,7,MG,xmw,Tsimihety Malagasy,I
+3,q103,241,dialect malg,7,MG,mlg,Malagasy,M
 3,q103,260,Tumbuka,8,MW,tum,Tumbuka,I
 3,q103,263,Chewa,8,MW,nya,Nyanja,I
 3,q103,264,Yao,8,MW,yao,Yao,I
@@ -1008,6 +1002,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,287,Khasonk,9,ML,kao,Xaasongaxango,I
 3,q103,288,Dogon,9,ML,dds,Donno So Dogon,I
 3,q103,288,Dogon,9,ML,djm,Jamsay Dogon,I
+3,q103,288,Dogon,9,ML,dtm,Tomo Kan Dogon,I
 3,q103,288,Dogon,9,ML,dts,Toro So Dogon,I
 3,q103,289,Bobo,9,ML,bmq,Bomu,I
 3,q103,292,Maure,9,ML,mey,Hassaniyya,I
@@ -1133,16 +1128,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q114,210,Somali,5,KE,som,Somali,I
 3,q114,220,Sesotho,6,LS,sot,Southern Sotho,I
 3,q114,240,malagasy officiel,7,MG,plt,Plateau Malagasy,I
-3,q114,241,dialecte,7,MG,bhr,Bara Malagasy,I
-3,q114,241,dialecte,7,MG,bmm,Northern Betsimisaraka Malagasy,I
-3,q114,241,dialecte,7,MG,bzc,Southern Betsimisaraka Malagasy,I
-3,q114,241,dialecte,7,MG,msh,Masikoro Malagasy,I
-3,q114,241,dialecte,7,MG,skg,Sakalava Malagasy,I
-3,q114,241,dialecte,7,MG,tdx,Tandroy-Mahafaly Malagasy,I
-3,q114,241,dialecte,7,MG,tkg,Tesaka Malagasy,I
-3,q114,241,dialecte,7,MG,txy,Tanosy Malagasy,I
-3,q114,241,dialecte,7,MG,xmv,Antankarana Malagasy,I
-3,q114,241,dialecte,7,MG,xmw,Tsimihety Malagasy,I
+3,q114,241,dialecte,7,MG,mlg,Malagasy,M
 3,q114,260,Tumbuka,8,MW,tum,Tumbuka,I
 3,q114,263,Chewa,8,MW,nya,Nyanja,I
 3,q114,267,Manga'nja,8,MW,nya,Nyanja,I
@@ -1155,6 +1141,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q114,286,Malinké,9,ML,mwk,Kita Maninkakan,I
 3,q114,288,Dogon,9,ML,dds,Donno So Dogon,I
 3,q114,288,Dogon,9,ML,djm,Jamsay Dogon,I
+3,q114,288,Dogon,9,ML,dtm,Tomo Kan Dogon,I
 3,q114,288,Dogon,9,ML,dts,Toro So Dogon,I
 3,q114,289,Bobo,9,ML,bmq,Bomu,I
 3,q114,297,Tamasheq,9,ML,taq,Tamasheq,I
@@ -1323,16 +1310,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,220,Sesotho,6,LS,sot,Southern Sotho,I
 3,q3,221,Sephuti,6,LS,ssw,Swati,I
 3,q3,240,malgache officielle,7,MG,plt,Plateau Malagasy,I
-3,q3,241,langue régionale,7,MG,bhr,Bara Malagasy,I
-3,q3,241,langue régionale,7,MG,bmm,Northern Betsimisaraka Malagasy,I
-3,q3,241,langue régionale,7,MG,bzc,Southern Betsimisaraka Malagasy,I
-3,q3,241,langue régionale,7,MG,msh,Masikoro Malagasy,I
-3,q3,241,langue régionale,7,MG,skg,Sakalava Malagasy,I
-3,q3,241,langue régionale,7,MG,tdx,Tandroy-Mahafaly Malagasy,I
-3,q3,241,langue régionale,7,MG,tkg,Tesaka Malagasy,I
-3,q3,241,langue régionale,7,MG,txy,Tanosy Malagasy,I
-3,q3,241,langue régionale,7,MG,xmv,Antankarana Malagasy,I
-3,q3,241,langue régionale,7,MG,xmw,Tsimihety Malagasy,I
+3,q3,241,langue régionale,7,MG,mlg,Malagasy,M
 3,q3,243,comorien,7,MG,swb,Maore Comorian,I
 3,q3,243,comorien,7,MG,wlc,Mwali Comorian,I
 3,q3,243,comorien,7,MG,wni,Ndzwani Comorian,I
@@ -1362,6 +1340,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,287,Khasonk,9,ML,kao,Xaasongaxango,I
 3,q3,288,Dogon,9,ML,dds,Donno So Dogon,I
 3,q3,288,Dogon,9,ML,djm,Jamsay Dogon,I
+3,q3,288,Dogon,9,ML,dtm,Tomo Kan Dogon,I
 3,q3,288,Dogon,9,ML,dts,Toro So Dogon,I
 3,q3,289,Bobo,9,ML,bmq,Bomu,I
 3,q3,290,Bozo,9,ML,boz,Tiéyaxo Bozo,I
@@ -1618,16 +1597,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q103,340,Sesotho,7,LS,sot,Southern Sotho,I
 4,Q103,396,Simple Liberian English,8,LR,lir,Liberian English,I
 4,Q103,420,Official malagasy,9,MG,plt,Plateau Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,bhr,Bara Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,bmm,Northern Betsimisaraka Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,msh,Masikoro Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,skg,Sakalava Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,tkg,Tesaka Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,txy,Tanosy Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,xmv,Antankarana Malagasy,I
-4,Q103,421,Malagasy with regional variation,9,MG,xmw,Tsimihety Malagasy,I
+4,Q103,421,Malagasy with regional variation,9,MG,mlg,Malagasy,M
 4,Q103,460,Tumbuka,10,MW,tum,Tumbuka,I
 4,Q103,463,Chewa,10,MW,nya,Nyanja,I
 4,Q103,464,Yao,10,MW,yao,Yao,I
@@ -1749,16 +1719,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,395,Vai,8,LR,vai,Vai,I
 4,Q114,396,Simple Liberian English,8,LR,lir,Liberian English,I
 4,Q114,420,Official malagasy,9,MG,plt,Plateau Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,bhr,Bara Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,bmm,Northern Betsimisaraka Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,msh,Masikoro Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,skg,Sakalava Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,tkg,Tesaka Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,txy,Tanosy Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,xmv,Antankarana Malagasy,I
-4,Q114,421,Malagasy with regional variation,9,MG,xmw,Tsimihety Malagasy,I
+4,Q114,421,Malagasy with regional variation,9,MG,mlg,Malagasy,M
 4,Q114,460,Tumbuka,10,MW,tum,Tumbuka,I
 4,Q114,463,Chewa,10,MW,nya,Nyanja,I
 4,Q114,465,Ngoni,10,MW,nya,Nyanja,I
@@ -1768,6 +1729,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,501,Bambara,11,ML,bam,Bambara,I
 4,Q114,506,Dogon,11,ML,dds,Donno So Dogon,I
 4,Q114,506,Dogon,11,ML,djm,Jamsay Dogon,I
+4,Q114,506,Dogon,11,ML,dtm,Tomo Kan Dogon,I
 4,Q114,506,Dogon,11,ML,dts,Toro So Dogon,I
 4,Q114,509,Malinke,11,ML,kao,Xaasongaxango,I
 4,Q114,509,Malinke,11,ML,mlq,Western Maninkakan,I
@@ -2047,16 +2009,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,396,Simple Liberian English,8,LR,lir,Liberian English,I
 4,Q3,397,Sarpo,8,LR,krn,Sapo,I
 4,Q3,420,Official malagasy,9,MG,plt,Plateau Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,bhr,Bara Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,bmm,Northern Betsimisaraka Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,msh,Masikoro Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,skg,Sakalava Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,tkg,Tesaka Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,txy,Tanosy Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,xmv,Antankarana Malagasy,I
-4,Q3,421,Malagasy with regional variation,9,MG,xmw,Tsimihety Malagasy,I
+4,Q3,421,Malagasy with regional variation,9,MG,mlg,Malagasy,M
 4,Q3,460,Tumbuka,10,MW,tum,Tumbuka,I
 4,Q3,461,Nkhonde,10,MW,nyy,Nyakyusa-Ngonde,I
 4,Q3,462,Lambya,10,MW,lai,Lambya,I
@@ -2082,6 +2035,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,504,Bozo,11,ML,bze,Jenaama Bozo,I
 4,Q3,506,Dogon,11,ML,dds,Donno So Dogon,I
 4,Q3,506,Dogon,11,ML,djm,Jamsay Dogon,I
+4,Q3,506,Dogon,11,ML,dtm,Tomo Kan Dogon,I
 4,Q3,506,Dogon,11,ML,dts,Toro So Dogon,I
 4,Q3,508,Khassonke,11,ML,kao,Xaasongaxango,I
 4,Q3,509,Malinke,11,ML,kao,Xaasongaxango,I
@@ -2396,16 +2350,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q103,340,Sesotho,7,LS,sot,Southern Sotho,I
 5,Q103,396,Liberian Simple English,8,LR,lir,Liberian English,I
 5,Q103,420,"""Official"" Malagasy",9,MG,plt,Plateau Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,bhr,Bara Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,bmm,Northern Betsimisaraka Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,msh,Masikoro Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,skg,Sakalava Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,tkg,Tesaka Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,txy,Tanosy Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,xmv,Antankarana Malagasy,I
-5,Q103,421,Malagasy dialect,9,MG,xmw,Tsimihety Malagasy,I
+5,Q103,421,Malagasy dialect,9,MG,mlg,Malagasy,M
 5,Q103,460,Chitumbuka,10,MW,tum,Tumbuka,I
 5,Q103,461,Chichewa,10,MW,nya,Nyanja,I
 5,Q103,501,Bambara,11,ML,bam,Bambara,I
@@ -2573,16 +2518,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,393,Mano,8,LR,mev,Mano,I
 5,Q116,395,Vai,8,LR,vai,Vai,I
 5,Q116,420,"""Official"" Malagasy",9,MG,plt,Plateau Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,bhr,Bara Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,bmm,Northern Betsimisaraka Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,msh,Masikoro Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,skg,Sakalava Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,tkg,Tesaka Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,txy,Tanosy Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,xmv,Antankarana Malagasy,I
-5,Q116,421,Malagasy dialect,9,MG,xmw,Tsimihety Malagasy,I
+5,Q116,421,Malagasy dialect,9,MG,mlg,Malagasy,M
 5,Q116,460,Chitumbuka,10,MW,tum,Tumbuka,I
 5,Q116,463,Chichewa,10,MW,nya,Nyanja,I
 5,Q116,466,Chilomwe,10,MW,lon,Malawi Lomwe,I
@@ -2591,6 +2527,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,503,Bobo,11,ML,bmq,Bomu,I
 5,Q116,505,Dogon,11,ML,dds,Donno So Dogon,I
 5,Q116,505,Dogon,11,ML,djm,Jamsay Dogon,I
+5,Q116,505,Dogon,11,ML,dtm,Tomo Kan Dogon,I
 5,Q116,505,Dogon,11,ML,dts,Toro So Dogon,I
 5,Q116,509,Malinké,11,ML,kao,Xaasongaxango,I
 5,Q116,509,Malinké,11,ML,mlq,Western Maninkakan,I
@@ -3027,16 +2964,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,392,Mandingo,8,LR,mzj,Manya,I
 5,Q2,396,Simple Liberian English,8,LR,lir,Liberian English,I
 5,Q2,420,"""Official"" Malagasy",9,MG,plt,Plateau Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,bhr,Bara Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,bmm,Northern Betsimisaraka Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,bzc,Southern Betsimisaraka Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,msh,Masikoro Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,skg,Sakalava Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,tdx,Tandroy-Mahafaly Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,tkg,Tesaka Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,txy,Tanosy Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,xmv,Antankarana Malagasy,I
-5,Q2,421,Malagasy dialect,9,MG,xmw,Tsimihety Malagasy,I
+5,Q2,421,Malagasy dialect,9,MG,mlg,Malagasy,M
 5,Q2,460,Chitumbuka,10,MW,tum,Tumbuka,I
 5,Q2,461,Chinkhonde,10,MW,nyy,Nyakyusa-Ngonde,I
 5,Q2,462,Chilambya,10,MW,lai,Lambya,I
@@ -3054,6 +2982,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,504,Bozo,11,ML,bze,Jenaama Bozo,I
 5,Q2,505,Dogon,11,ML,dds,Donno So Dogon,I
 5,Q2,505,Dogon,11,ML,djm,Jamsay Dogon,I
+5,Q2,505,Dogon,11,ML,dtm,Tomo Kan Dogon,I
 5,Q2,505,Dogon,11,ML,dts,Toro So Dogon,I
 5,Q2,507,Kakolo,11,ML,xkg,Kagoro,I
 5,Q2,508,Khassonké,11,ML,kao,Xaasongaxango,I
@@ -3541,16 +3470,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,340,Sesotho,14,LS,sot,Southern Sotho,I
 6,Q103,380,Liberian English,15,LR,lir,Liberian English,I
 6,Q103,420,Malgache « officiel »,16,MG,plt,Plateau Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,bhr,Bara Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,bmm,Northern Betsimisaraka Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,bzc,Southern Betsimisaraka Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,msh,Masikoro Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,skg,Sakalava Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,tdx,Tandroy-Mahafaly Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,tkg,Tesaka Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,txy,Tanosy Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,xmv,Antankarana Malagasy,I
-6,Q103,421,Malgache avec spécificité régionale,16,MG,xmw,Tsimihety Malagasy,I
+6,Q103,421,Malgache avec spécificité régionale,16,MG,mlg,Malagasy,M
 6,Q103,460,Chitumbuka,17,MW,tum,Tumbuka,I
 6,Q103,463,Chichewa,17,MW,nya,Nyanja,I
 6,Q103,501,Bambara,18,ML,bam,Bambara,I
@@ -3728,16 +3648,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,390,Kru,15,LR,klu,Klao,I
 6,Q116,391,Lorma,15,LR,lom,Loma (Liberia),I
 6,Q116,420,Malgache « officiel »,16,MG,plt,Plateau Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,bhr,Bara Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,bmm,Northern Betsimisaraka Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,bzc,Southern Betsimisaraka Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,msh,Masikoro Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,skg,Sakalava Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,tdx,Tandroy-Mahafaly Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,tkg,Tesaka Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,txy,Tanosy Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,xmv,Antankarana Malagasy,I
-6,Q116,421,Malgache avec spécificité régionale,16,MG,xmw,Tsimihety Malagasy,I
+6,Q116,421,Malgache avec spécificité régionale,16,MG,mlg,Malagasy,M
 6,Q116,460,Chitumbuka,17,MW,tum,Tumbuka,I
 6,Q116,461,Chinkhonde,17,MW,nyy,Nyakyusa-Ngonde,I
 6,Q116,463,Chichewa,17,MW,nya,Nyanja,I
@@ -3747,6 +3658,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,501,Bambara,18,ML,bam,Bambara,I
 6,Q116,506,Dogon,18,ML,dds,Donno So Dogon,I
 6,Q116,506,Dogon,18,ML,djm,Jamsay Dogon,I
+6,Q116,506,Dogon,18,ML,dtm,Tomo Kan Dogon,I
 6,Q116,506,Dogon,18,ML,dts,Toro So Dogon,I
 6,Q116,514,Peulh/Fulfude,18,ML,ffm,Maasina Fulfulde,I
 6,Q116,516,Senufo,18,ML,myk,Mamara Senoufo,I
@@ -4128,16 +4040,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,395,Vai,15,LR,vai,Vai,I
 6,Q2,396,Liberian English,15,LR,lir,Liberian English,I
 6,Q2,420,Malgache « officiel »,16,MG,plt,Plateau Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,bhr,Bara Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,bmm,Northern Betsimisaraka Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,bzc,Southern Betsimisaraka Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,msh,Masikoro Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,skg,Sakalava Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,tdx,Tandroy-Mahafaly Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,tkg,Tesaka Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,txy,Tanosy Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,xmv,Antankarana Malagasy,I
-6,Q2,421,Malgache avec spécificité régionale,16,MG,xmw,Tsimihety Malagasy,I
+6,Q2,421,Malgache avec spécificité régionale,16,MG,mlg,Malagasy,M
 6,Q2,460,Chitumbuka,17,MW,tum,Tumbuka,I
 6,Q2,461,Chinkhonde,17,MW,nyy,Nyakyusa-Ngonde,I
 6,Q2,462,Chilambya,17,MW,lai,Lambya,I
@@ -4156,6 +4059,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,505,Dafing,18,ML,rkm,Marka,I
 6,Q2,506,Dogon,18,ML,dds,Donno So Dogon,I
 6,Q2,506,Dogon,18,ML,djm,Jamsay Dogon,I
+6,Q2,506,Dogon,18,ML,dtm,Tomo Kan Dogon,I
 6,Q2,506,Dogon,18,ML,dts,Toro So Dogon,I
 6,Q2,509,Kakolo,18,ML,xkg,Kagoro,I
 6,Q2,510,Khassonké,18,ML,kao,Xaasongaxango,I

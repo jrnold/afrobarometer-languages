@@ -782,12 +782,7 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 5,Q116OTHER,14,JABA,NG,kgm,Kagoma,1
 5,Q116OTHER,14,JARAWA,NG,jar,Jarawa (in Nigeria),0
 5,Q116OTHER,14,JUKUN,NG,juk,Jukun,1
-5,Q116OTHER,14,KORO,NG,bir,Birom,1
-5,Q116OTHER,14,KORO,NG,fye,Fyem,1
-5,Q116OTHER,14,KORO,NG,gwo,Gworok,1
 5,Q116OTHER,14,KORO,NG,kgm,Kagoma,1
-5,Q116OTHER,14,KORO,NG,mdz,Mada (in Nigeria),1
-5,Q116OTHER,14,KORO,NG,tok,Tarok,1
 5,Q116OTHER,14,NGAS,NG,anc,Angas,1
 5,Q116OTHER,14,RON,NG,ron,Ron,1
 5,Q116OTHER,14,SAYAWA,NG,bad,Bade,1
@@ -1186,12 +1181,7 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 5,Q2OTHER,14,KARMO,NG,,,
 5,Q2OTHER,14,KATAF,NG,gwo,Gworok,1
 5,Q2OTHER,14,KHANA,NG,kan,Kana,1
-5,Q2OTHER,14,KORO,NG,bir,Birom,1
-5,Q2OTHER,14,KORO,NG,fye,Fyem,1
-5,Q2OTHER,14,KORO,NG,gwo,Gworok,1
 5,Q2OTHER,14,KORO,NG,kgm,Kagoma,1
-5,Q2OTHER,14,KORO,NG,mdz,Mada (in Nigeria),1
-5,Q2OTHER,14,KORO,NG,tok,Tarok,1
 5,Q2OTHER,14,KURAMA,NG,amo,Amo,1
 5,Q2OTHER,14,KUTEB,NG,juk,Jukun,1
 5,Q2OTHER,14,KUTEB,NG,kpa,Kpan,1

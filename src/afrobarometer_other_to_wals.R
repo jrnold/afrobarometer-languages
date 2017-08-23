@@ -35,7 +35,8 @@ to_wals_manual <-
     }
   }) %>%
   select(iso_alpha2, standardized_name, wals_code) %>%
-  left_join(IO$afrobarometer_langs_other,
+  left_join(mutate(IO$afrobarometer_langs_other,
+                   standardized_name = str_to_lower(value)),
             by = c("standardized_name", "iso_alpha2")) %>%
   select(round, variable, value, country, wals_code) %>%
   mutate(auto = 0L)
