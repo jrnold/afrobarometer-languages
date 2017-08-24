@@ -11,15 +11,8 @@ OUTPUT <- project_path("data", "afrobarometer_langs_other.csv")
 
 afrobarometer_countries <- IO$afrobarometer_countries
 
-weight_vars <- tribble(
-  ~round, ~name,
-  6, "withinwt",
-  5, "withinwt",
-  4, "Withinwt",
-  3, "withinwt",
-  2, "withinwt",
-  1, "withinwt"
-)
+weight_vars <- IO$misc_data$afrobarometer$weight_vars %>%
+  map_df(as_tibble)
 
 #' For an Afrobarometer Dataset summarize the languages
 lang_summary <- function(lang_var, country_var, weight_var, .data) {
