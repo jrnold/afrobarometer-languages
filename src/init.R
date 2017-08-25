@@ -258,7 +258,7 @@ env_bind_fns(IO,
   },
 
   ethnologue_distances = function() {
-    path <- project_path("data-raw", "ethnologue-distances.csv.gz")
+    path <- project_path("data-raw", "ethnologue", "ethnologue-distances.csv.gz")
     col_types <- cols(
       from = col_character(),
       to = col_character(),
@@ -267,16 +267,12 @@ env_bind_fns(IO,
     read_csv(gzfile(path), na = "", col_types = col_types)
   },
 
-  afrobarometer_to_iso_country_nonmatches = function() {
+  additional_iso_countries = function() {
     path <- project_path("data-raw",
-                         "afrobarometer_to_iso_country_nonmatches.csv")
+                         "additional_iso_countries.csv")
     col_types <- cols(
-      round = col_integer(),
-      variable = col_character(),
-      lang_id = col_integer(),
-      lang_name = col_character(),
-      iso_alpha2 = col_character(),
-      iso_639_3 = col_character()
+      CountryID = col_character(),
+      LangID = col_character()
     )
     read_csv(path, na = "", col_types = col_types)
   },
@@ -308,16 +304,6 @@ env_bind_fns(IO,
     read_csv(path, na = "", col_types = col_types)
   },
 
-  afrobarometer_other_to_iso_country_nonmatches = function() {
-    path <- project_path("data-raw",
-                         "afrobarometer_other_to_iso_country_nonmatches.csv")
-    col_types <- cols(
-      iso_alpha2 = col_character(),
-      value = col_character(),
-      iso_639_3 = col_character()
-    )
-    read_csv(path, na = "", col_types = col_types)
-  },
   afrobarometer_other_to_wals_country_nonmatches = function() {
     path <- project_path("data-raw",
                          "afrobarometer_other_to_wals_country_nonmatches.csv")
@@ -651,7 +637,8 @@ iso_639_countries <- function() {
     filter(!is.na(CountryID)) %>%
     bind_rows(tibble(LangID = "aka", CountryID = "GH"))
 
-  bind_rows(iso_countries, macrolang_countries)
+  bind_rows(iso_countries, macrolang_countries,
+            IO$additional_iso_countries)
 }
 rlang::env_bind_fns(IO, iso_639_3_countries = iso_639_countries)
 

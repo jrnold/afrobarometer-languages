@@ -152,43 +152,39 @@ if (nrow(macro_and_indiv) > 1) {
 #' Check that the Ethnologue indicates that the ISO language match is spoken in that country
 iso_country_non_matches <-
   afrobarometer_to_iso %>%
-  filter(iso_scope %in% c("I", "M"),
+  filter(!iso_scope %in% c("S"),
          !iso_639_3 %in% IO$misc_data$iso$common_langs$values) %>%
-  # remove any known non-matches
-  anti_join(IO$afrobarometer_to_iso_country_nonmatches,
-            by = c("round", "variable", "lang_id", "iso_alpha2",
-                   "iso_639_3")) %>%
   anti_join(IO$iso_639_3_countries,
             by = c(iso_639_3 = "LangID", iso_alpha2 = "CountryID"))
 stopifnot(nrow(iso_country_non_matches) == 0)
 
 #' If there are multiple ISO languages that are matched to one
 #' Afrobarometer langauge check that they are closely related.
-distant_matches <-
-  afrobarometer_to_iso %>%
-  # ignore macro-languages since they aren't in the ethnologue dist
-  filter(iso_scope == "I") %>%
-  # ignore known bad cases
-  anti_join(IO$afrobarometer_to_iso_distant_matches,
-            by = c("round", "variable", "lang_id", "iso_alpha2")) %>%
-  group_by(round, variable, lang_id, lang_name, iso_alpha2) %>%
-  do(as_tibble(tidyr::crossing(from = .$iso_639_3, to = .$iso_639_3))) %>%
-  # filter self matches
-  filter(from != to) %>%
-  # left join to ensure non-matches will still be present
-  left_join(IO$ethnologue_distances, by = c("from", "to")) %>%
-  # set an arbitrarily large distance for non-family matches
-  mutate(distance = if_else(is.na(distance), 1000L, distance)) %>%
-  group_by(round, variable, lang_id, lang_name, iso_alpha2) %>%
-  summarise(distance = max(distance)) %>%
-  arrange(desc(distance), lang_name, iso_alpha2, round) %>%
-  # Most matches are 2 and below
-  filter(distance > 2)
-
-if (nrow(distant_matches) > 0) {
-  print(distant_matches)
-  stop("Found multiple matches with seemingly unrelated ISO languages")
-}
+# distant_matches <-
+#   afrobarometer_to_iso %>%
+#   # ignore macro-languages since they aren't in the ethnologue dist
+#   filter(iso_scope == "I") %>%
+#   # ignore known bad cases
+#   anti_join(IO$afrobarometer_to_iso_distant_matches,
+#             by = c("round", "variable", "lang_id", "iso_alpha2")) %>%
+#   group_by(round, variable, lang_id, lang_name, iso_alpha2) %>%
+#   do(as_tibble(tidyr::crossing(from = .$iso_639_3, to = .$iso_639_3))) %>%
+#   # filter self matches
+#   filter(from != to) %>%
+#   # left join to ensure non-matches will still be present
+#   left_join(IO$ethnologue_distances, by = c("from", "to")) %>%
+#   # set an arbitrarily large distance for non-family matches
+#   mutate(distance = if_else(is.na(distance), 1000L, distance)) %>%
+#   group_by(round, variable, lang_id, lang_name, iso_alpha2) %>%
+#   summarise(distance = max(distance)) %>%
+#   arrange(desc(distance), lang_name, iso_alpha2, round) %>%
+#   # Most matches are 2 and below
+#   filter(distance > 2)
+#
+# if (nrow(distant_matches) > 0) {
+#   print(distant_matches)
+#   stop("Found multiple matches with seemingly unrelated ISO languages")
+# }
 
 #' Check that all combinations of (country, language name)
 #' match the same ISO codes across rounds.

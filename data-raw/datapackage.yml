@@ -1,6 +1,6 @@
 name: afrobarometer_langs
 title: Afrobarometer Languages Mapped to ISO Standards and WALS
-version: 0.0.1
+version: 0.1.0
 description: >-
     Mappings from languages used in the Afrobarometer surveys
     to some common language standards and databases, the

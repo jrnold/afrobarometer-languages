@@ -137,8 +137,10 @@ missing_wals <-
   afrobarometer_other_to_wals %>%
   filter(is.na(wals_code)) %>%
   # missing ISO shouldn't match
-  anti_join(filter(IO$afrobarometer_other_to_iso, iso_scope == "S"),
-            by = c("country", "value"))
+  full_join(filter(IO$afrobarometer_other_to_iso) %>%
+              select(variable, value, country, iso_639_3, iso_scope),
+            by = c("country", "value", "variable")) %>%
+  filter(is.na(wals_code) & (!is.na(iso_639_3) | iso_scope != "S"))
 if (nrow(missing_wals) > 0) {
   print(missing_wals)
   stop("Missing WALS codes found")

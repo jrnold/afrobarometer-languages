@@ -1014,7 +1014,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q103,296,Bella,9,ML,ses,Koyraboro Senni Songhai,I
 3,q103,297,Tamasheq,9,ML,taq,Tamasheq,I
 3,q103,297,Tamasheq,9,ML,ttq,Tawallammat Tamajaq,I
+3,q103,300,Makua,10,MZ,mgh,Makhuwa-Meetto,I
+3,q103,300,Makua,10,MZ,mhm,Makhuwa-Moniga,I
+3,q103,300,Makua,10,MZ,vmk,Makhuwa-Shirima,I
 3,q103,300,Makua,10,MZ,vmw,Makhuwa,I
+3,q103,300,Makua,10,MZ,xmc,Makhuwa-Marrevone,I
+3,q103,300,Makua,10,MZ,xsq,Makhuwa-Saka,I
 3,q103,301,Sena,10,MZ,seh,Sena,I
 3,q103,302,Ndau,10,MZ,ndc,Ndau,I
 3,q103,303,Nyanja,10,MZ,nya,Nyanja,I
@@ -1146,7 +1151,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q114,289,Bobo,9,ML,bmq,Bomu,I
 3,q114,297,Tamasheq,9,ML,taq,Tamasheq,I
 3,q114,297,Tamasheq,9,ML,ttq,Tawallammat Tamajaq,I
+3,q114,300,Makua,10,MZ,mgh,Makhuwa-Meetto,I
+3,q114,300,Makua,10,MZ,mhm,Makhuwa-Moniga,I
+3,q114,300,Makua,10,MZ,vmk,Makhuwa-Shirima,I
 3,q114,300,Makua,10,MZ,vmw,Makhuwa,I
+3,q114,300,Makua,10,MZ,xmc,Makhuwa-Marrevone,I
+3,q114,300,Makua,10,MZ,xsq,Makhuwa-Saka,I
 3,q114,301,Sena,10,MZ,seh,Sena,I
 3,q114,302,Ndau,10,MZ,ndc,Ndau,I
 3,q114,303,Nyanja,10,MZ,nya,Nyanja,I
@@ -1356,7 +1366,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,297,Tamasheq,9,ML,taq,Tamasheq,I
 3,q3,297,Tamasheq,9,ML,ttq,Tawallammat Tamajaq,I
 3,q3,298,Dafing,9,ML,rkm,Marka,I
+3,q3,300,Makua,10,MZ,mgh,Makhuwa-Meetto,I
+3,q3,300,Makua,10,MZ,mhm,Makhuwa-Moniga,I
+3,q3,300,Makua,10,MZ,vmk,Makhuwa-Shirima,I
 3,q3,300,Makua,10,MZ,vmw,Makhuwa,I
+3,q3,300,Makua,10,MZ,xmc,Makhuwa-Marrevone,I
+3,q3,300,Makua,10,MZ,xsq,Makhuwa-Saka,I
 3,q3,301,Sena,10,MZ,seh,Sena,I
 3,q3,302,Ndau,10,MZ,ndc,Ndau,I
 3,q3,303,Nyanja,10,MZ,nya,Nyanja,I
@@ -1411,7 +1426,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 3,q3,364,Sonike,13,SN,snk,Soninke,I
 3,q3,365,Diola,13,SN,dyo,Jola-Fonyi,I
 3,q3,366,Manjack,13,SN,mfv,Mandjak,I
-3,q3,367,Bambara,13,SN,mnk,Mandinka,I
+3,q3,367,Bambara,13,SN,bam,Bambara,I
 3,q3,368,Bainouk,13,SN,bcb,Bainouk-Samik,I
 3,q3,368,Bainouk,13,SN,bcz,Bainouk-Gunyaamolo,I
 3,q3,380,Kinyakyusa,15,TZ,nyy,Nyakyusa-Ngonde,I
@@ -1609,7 +1624,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q103,515,Sonrhai,11,ML,ses,Koyraboro Senni Songhai,I
 4,Q103,516,Tamasheq,11,ML,taq,Tamasheq,I
 4,Q103,516,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+4,Q103,541,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+4,Q103,541,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+4,Q103,541,Makua,12,MZ,vmk,Makhuwa-Shirima,I
 4,Q103,541,Makua,12,MZ,vmw,Makhuwa,I
+4,Q103,541,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+4,Q103,541,Makua,12,MZ,xsq,Makhuwa-Saka,I
 4,Q103,542,Sena,12,MZ,seh,Sena,I
 4,Q103,543,Ndau,12,MZ,ndc,Ndau,I
 4,Q103,545,Changana,12,MZ,tso,Tsonga,I
@@ -1631,6 +1651,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q103,660,Wolof,15,SN,wol,Wolof,I
 4,Q103,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
 4,Q103,662,Serer,15,SN,srr,Serer,I
+4,Q103,663,Mandinka/Bambara,15,SN,bam,Bambara,I
 4,Q103,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
 4,Q103,665,Diola,15,SN,dyo,Jola-Fonyi,I
 4,Q103,700,Afrikaans,16,ZA,afr,Afrikaans,I
@@ -1742,7 +1763,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,515,Sonrhai,11,ML,ses,Koyraboro Senni Songhai,I
 4,Q114,516,Tamasheq,11,ML,taq,Tamasheq,I
 4,Q114,516,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+4,Q114,541,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+4,Q114,541,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+4,Q114,541,Makua,12,MZ,vmk,Makhuwa-Shirima,I
 4,Q114,541,Makua,12,MZ,vmw,Makhuwa,I
+4,Q114,541,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+4,Q114,541,Makua,12,MZ,xsq,Makhuwa-Saka,I
 4,Q114,542,Sena,12,MZ,seh,Sena,I
 4,Q114,543,Ndau,12,MZ,ndc,Ndau,I
 4,Q114,545,Changana,12,MZ,tso,Tsonga,I
@@ -1795,6 +1821,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q114,660,Wolof,15,SN,wol,Wolof,I
 4,Q114,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
 4,Q114,662,Serer,15,SN,srr,Serer,I
+4,Q114,663,Mandinka/Bambara,15,SN,bam,Bambara,I
 4,Q114,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
 4,Q114,665,Diola,15,SN,dyo,Jola-Fonyi,I
 4,Q114,700,Afrikaans,16,ZA,afr,Afrikaans,I
@@ -2055,7 +2082,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,520,Kakolo,11,ML,xkg,Kagoro,I
 4,Q3,522,Samogo,11,ML,dux,Duungooma,I
 4,Q3,525,Zerma,11,ML,dje,Zarma,I
+4,Q3,541,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+4,Q3,541,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+4,Q3,541,Makua,12,MZ,vmk,Makhuwa-Shirima,I
 4,Q3,541,Makua,12,MZ,vmw,Makhuwa,I
+4,Q3,541,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+4,Q3,541,Makua,12,MZ,xsq,Makhuwa-Saka,I
 4,Q3,542,Sena,12,MZ,seh,Sena,I
 4,Q3,543,Ndau,12,MZ,ndc,Ndau,I
 4,Q3,544,Nyanja,12,MZ,nya,Nyanja,I
@@ -2132,6 +2164,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 4,Q3,660,Wolof,15,SN,wol,Wolof,I
 4,Q3,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
 4,Q3,662,Serer,15,SN,srr,Serer,I
+4,Q3,663,Mandinka/Bambara,15,SN,bam,Bambara,I
 4,Q3,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
 4,Q3,664,Soninke,15,SN,snk,Soninke,I
 4,Q3,665,Diola,15,SN,dyo,Jola-Fonyi,I
@@ -2358,7 +2391,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q103,516,Soninke,11,ML,snk,Soninke,I
 5,Q103,518,Tamasheq,11,ML,taq,Tamasheq,I
 5,Q103,518,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+5,Q103,540,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+5,Q103,540,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+5,Q103,540,Makua,12,MZ,vmk,Makhuwa-Shirima,I
 5,Q103,540,Makua,12,MZ,vmw,Makhuwa,I
+5,Q103,540,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+5,Q103,540,Makua,12,MZ,xsq,Makhuwa-Saka,I
 5,Q103,541,Sena,12,MZ,seh,Sena,I
 5,Q103,543,Changana,12,MZ,tso,Tsonga,I
 5,Q103,583,Oshiwambo,13,NA,kua,Kuanyama,I
@@ -2539,7 +2577,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,517,Sonrhaï,11,ML,ses,Koyraboro Senni Songhai,I
 5,Q116,518,Tamasheq,11,ML,taq,Tamasheq,I
 5,Q116,518,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+5,Q116,540,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+5,Q116,540,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+5,Q116,540,Makua,12,MZ,vmk,Makhuwa-Shirima,I
 5,Q116,540,Makua,12,MZ,vmw,Makhuwa,I
+5,Q116,540,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+5,Q116,540,Makua,12,MZ,xsq,Makhuwa-Saka,I
 5,Q116,541,Sena,12,MZ,seh,Sena,I
 5,Q116,543,Changana,12,MZ,tso,Tsonga,I
 5,Q116,548,Chuabo,12,MZ,chw,Chuwabu,I
@@ -2566,6 +2609,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q116,660,Wolof,15,SN,wol,Wolof,I
 5,Q116,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
 5,Q116,662,Serer,15,SN,srr,Serer,I
+5,Q116,663,Mandinka/Bambara,15,SN,bam,Bambara,I
 5,Q116,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
 5,Q116,664,Soninke,15,SN,snk,Soninke,I
 5,Q116,665,Diola,15,SN,dyo,Jola-Fonyi,I
@@ -2770,7 +2814,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,8,Amazigh,33,MA,zgh,Standard Moroccan Tamazight,I
 5,Q2,9,Bambara,27,CI,bam,Bambara,I
 5,Q2,9,Bambara,11,ML,bam,Bambara,I
-5,Q2,9,Bambara,15,SN,mnk,Mandinka,I
+5,Q2,9,Bambara,15,SN,bam,Bambara,I
 5,Q2,10,Bassa,26,CM,bas,Basa (Cameroon),I
 5,Q2,10,Bassa,8,LR,bsq,Bassa,I
 5,Q2,11,Bobo,3,BF,bbo,Northern Bobo Madaré,I
@@ -3002,7 +3046,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,517,Sonrhaï,11,ML,ses,Koyraboro Senni Songhai,I
 5,Q2,518,Tamasheq,11,ML,taq,Tamasheq,I
 5,Q2,518,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+5,Q2,540,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+5,Q2,540,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+5,Q2,540,Makua,12,MZ,vmk,Makhuwa-Shirima,I
 5,Q2,540,Makua,12,MZ,vmw,Makhuwa,I
+5,Q2,540,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+5,Q2,540,Makua,12,MZ,xsq,Makhuwa-Saka,I
 5,Q2,541,Sena,12,MZ,seh,Sena,I
 5,Q2,544,Changana,12,MZ,tso,Tsonga,I
 5,Q2,545,Chope,12,MZ,cce,Chopi,I
@@ -3479,7 +3528,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q103,518,Sonrhai,18,ML,hmb,Humburi Senni Songhay,I
 6,Q103,518,Sonrhai,18,ML,khq,Koyra Chiini Songhay,I
 6,Q103,518,Sonrhai,18,ML,ses,Koyraboro Senni Songhai,I
+6,Q103,540,Makua,21,MZ,mgh,Makhuwa-Meetto,I
+6,Q103,540,Makua,21,MZ,mhm,Makhuwa-Moniga,I
+6,Q103,540,Makua,21,MZ,vmk,Makhuwa-Shirima,I
 6,Q103,540,Makua,21,MZ,vmw,Makhuwa,I
+6,Q103,540,Makua,21,MZ,xmc,Makhuwa-Marrevone,I
+6,Q103,540,Makua,21,MZ,xsq,Makhuwa-Saka,I
 6,Q103,541,Sena,21,MZ,seh,Sena,I
 6,Q103,542,Ndau,21,MZ,ndc,Ndau,I
 6,Q103,543,Changana,21,MZ,tso,Tsonga,I
@@ -3668,7 +3722,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,518,Sonrhai,18,ML,hmb,Humburi Senni Songhay,I
 6,Q116,518,Sonrhai,18,ML,khq,Koyra Chiini Songhay,I
 6,Q116,518,Sonrhai,18,ML,ses,Koyraboro Senni Songhai,I
+6,Q116,540,Makua,21,MZ,mgh,Makhuwa-Meetto,I
+6,Q116,540,Makua,21,MZ,mhm,Makhuwa-Moniga,I
+6,Q116,540,Makua,21,MZ,vmk,Makhuwa-Shirima,I
 6,Q116,540,Makua,21,MZ,vmw,Makhuwa,I
+6,Q116,540,Makua,21,MZ,xmc,Makhuwa-Marrevone,I
+6,Q116,540,Makua,21,MZ,xsq,Makhuwa-Saka,I
 6,Q116,541,Sena,21,MZ,seh,Sena,I
 6,Q116,542,Ndau,21,MZ,ndc,Ndau,I
 6,Q116,543,Changana,21,MZ,tso,Tsonga,I
@@ -3707,6 +3766,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,660,Wolof,26,SN,wol,Wolof,I
 6,Q116,661,Pulaar/Toucouleur,26,SN,fuc,Pulaar,I
 6,Q116,662,Serer,26,SN,srr,Serer,I
+6,Q116,663,Mandinka/Bambara,26,SN,bam,Bambara,I
 6,Q116,663,Mandinka/Bambara,26,SN,mnk,Mandinka,I
 6,Q116,665,Diola,26,SN,dyo,Jola-Fonyi,I
 6,Q116,669,Maure,26,SN,mey,Hassaniyya,I
@@ -3807,7 +3867,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q116,1540,Sudanese Arabic,29,SD,apd,Sudanese Arabic,I
 6,Q116,1620,siSwati,30,SZ,ssw,Swati,I
 6,Q116,1700,Fang,10,GA,fan,Fang (Equatorial Guinea),I
-6,Q116,1701,Punu/Mériè,10,GA,koq,Kota (Gabon),I
+6,Q116,1701,Punu/Mériè,10,GA,puu,Punu,I
 6,Q116,1704,Nzébi/Métié,10,GA,nzb,Njebi,I
 6,Q116,1706,Tsogho,10,GA,tsv,Tsogo,I
 6,Q116,2620,Bajju,24,NG,kaj,Jju,I
@@ -4077,7 +4137,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,518,Sonrhai,18,ML,hmb,Humburi Senni Songhay,I
 6,Q2,518,Sonrhai,18,ML,khq,Koyra Chiini Songhay,I
 6,Q2,518,Sonrhai,18,ML,ses,Koyraboro Senni Songhai,I
+6,Q2,540,Makua,21,MZ,mgh,Makhuwa-Meetto,I
+6,Q2,540,Makua,21,MZ,mhm,Makhuwa-Moniga,I
+6,Q2,540,Makua,21,MZ,vmk,Makhuwa-Shirima,I
 6,Q2,540,Makua,21,MZ,vmw,Makhuwa,I
+6,Q2,540,Makua,21,MZ,xmc,Makhuwa-Marrevone,I
+6,Q2,540,Makua,21,MZ,xsq,Makhuwa-Saka,I
 6,Q2,541,Sena,21,MZ,seh,Sena,I
 6,Q2,543,Changana,21,MZ,tso,Tsonga,I
 6,Q2,545,Chope,21,MZ,cce,Chopi,I
@@ -4133,6 +4198,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,660,Wolof,26,SN,wol,Wolof,I
 6,Q2,661,Pulaar/Toucouleur,26,SN,fuc,Pulaar,I
 6,Q2,662,Serer,26,SN,srr,Serer,I
+6,Q2,663,Mandinka/Bambara,26,SN,bam,Bambara,I
 6,Q2,663,Mandinka/Bambara,26,SN,mnk,Mandinka,I
 6,Q2,664,Soninke,26,SN,snk,Soninke,I
 6,Q2,665,Diola,26,SN,dyo,Jola-Fonyi,I
@@ -4375,7 +4441,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,1661,Forro,25,ST,cri,Sãotomense,I
 6,Q2,1662,Angolar,25,ST,aoa,Angolar,I
 6,Q2,1700,Fang,10,GA,fan,Fang (Equatorial Guinea),I
-6,Q2,1701,Punu/Mériè,10,GA,koq,Kota (Gabon),I
+6,Q2,1701,Punu/Mériè,10,GA,puu,Punu,I
 6,Q2,1702,Kota,10,GA,koq,Kota (Gabon),I
 6,Q2,1703,Mbédè,10,GA,mdt,Mbere,I
 6,Q2,1704,Nzébi/Métié,10,GA,nzb,Njebi,I
