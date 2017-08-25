@@ -9,9 +9,6 @@ source("src/init.R")
 
 OUTPUT <- project_path("data", "afrobarometer_langs.csv")
 
-weight_vars <- IO$misc_data$afrobarometer$weight_vars %>%
-  map_df(as_tibble)
-
 #' For an Afrobarometer Dataset summarize the languages
 lang_summary <- function(lang_var, country_var, weight_var, .data) {
   select(.data,
@@ -43,12 +40,12 @@ afrobarometer_langs_r <- function(.round) {
   lang_vars <- IO$afrobarometer_lang_variables %>%
     filter(!as.logical(other), round == UQ(.round)) %>%
     `[[`("name")
-  country_var <- IO$afrobarometer_country_variables %>%
+  country_var <- IO$afrobarometer_variables %>%
     filter(round == UQ(.round)) %>%
-    `[[`("name")
-  weight_var <- weight_vars %>%
+    `[[`("country")
+  weight_var <- IO$afrobarometer_variables  %>%
     filter(round == UQ(.round)) %>%
-    `[[`("name")
+    `[[`("withinwt")
 
   map_df(lang_vars,
          lang_summary,

@@ -503,6 +503,11 @@ env_bind_fns(IO,
       bookkeeping = col_character()
     )
     read_csv(path, na = "", col_types = col_types)
+  },
+
+  afrobarometer_variables = function() {
+    misc <- yaml::yaml.load_file(project_path("data-raw", "misc.yml"))
+    map_df(misc$afrobarometer$variables, as_tibble)
   }
 
 )

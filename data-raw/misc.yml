@@ -1,18 +1,36 @@
 afrobarometer:
   rounds: [1, 2, 3, 4, 5, 6]
-  weight_vars:
+  variables:
   - round: 6
-    name: "withinwt"
+    withinwt: "withinwt"
+    country: COUNTRY
+    respno: RESPNO
+
   - round: 5
-    name: "withinwt"
+    withinwt: "withinwt"
+    country: COUNTRY
+    respno: RESPNO
+
   - round: 4
-    name: "Withinwt"
+    withinwt: "Withinwt"
+    country: COUNTRY
+    respno: RESPNO
+
   - round: 3
-    name: "withinwt"
+    withinwt: "withinwt"
+    country: country
+    respno: "respno"
+
   - round: 2
-    name: "withinwt"
+    withinwt: "withinwt"
+    country: country
+    respno: "respno"
+
   - round: 1
-    name: "withinwt"
+    withinwt: "withinwt"
+    country: country
+    respno: "refnumb"
+
 iso:
   scopes:
     comment: >-
