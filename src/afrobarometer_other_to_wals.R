@@ -41,7 +41,7 @@ to_wals_manual <-
   select(round, variable, value, country, wals_code) %>%
   mutate(auto = 0L)
 
-# mappings to fill in remaining Afrobarometer to WALS mappings
+#' Fill any non-manually matched WALS variables
 to_wals_auto <-
   IO$glottolog %>%
   select(glottocode, wals_codes) %>%
@@ -132,20 +132,6 @@ with(afrobarometer_other_to_wals, {
 
 })
 
-#' Check that all WALS codes are matched
-missing_wals <-
-  afrobarometer_other_to_wals %>%
-  filter(is.na(wals_code)) %>%
-  # missing ISO shouldn't match
-  full_join(filter(IO$afrobarometer_other_to_iso) %>%
-              select(variable, value, country, iso_639_3, iso_scope),
-            by = c("country", "value", "variable")) %>%
-  filter(is.na(wals_code) & (!is.na(iso_639_3) | iso_scope != "S"))
-if (nrow(missing_wals) > 0) {
-  print(missing_wals)
-  stop("Missing WALS codes found")
-}
-
 #' Check that all WALS codes are valid
 #'
 #' wals_codes can be missing, but if non-missing must appear in WALS dataset
@@ -153,14 +139,29 @@ if (nrow(missing_wals) > 0) {
 wals_nonmatches <- afrobarometer_other_to_wals %>%
   filter(!is.na(wals_code)) %>%
   anti_join(wals, by = c("wals_code"))
-
-if (nrow(wals_nonmatches) > 0) {
+if (nrow(wals_nonmatches)) {
   print(wals_nonmatches)
-  stop("There exist invalid WALS codes")
+  stop("Invalid WALS codes found")
 }
 
-#' All WALS languages should be from the African Macrolanguage unless accounted
-#' for.
+#' Check that all WALS codes are matched
+missing_wals <-
+  afrobarometer_other_to_wals %>%
+  filter(is.na(wals_code)) %>%
+  # missing ISO shouldn't match
+  left_join(filter(IO$afrobarometer_other_to_glottolog) %>%
+              select(country, value, glottocode) %>%
+              distinct(),
+            by = c("country", "value")) %>%
+  filter(is.na(wals_code) & !is.na(glottocode)) %>%
+  distinct()
+if (nrow(missing_wals) > 0) {
+  print(missing_wals)
+  stop("Missing WALS codes found")
+}
+
+
+#' All WALS languages should be from the African Macrolanguage unless accounted for.
 wals_non_african <-
   inner_join(afrobarometer_other_to_wals,
              select(wals, wals_code, macroarea),

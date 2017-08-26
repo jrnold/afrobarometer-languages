@@ -86,6 +86,7 @@ resourcemap <- IO$glottolog_resourcemap %>%
 
 wals_lookup <-
   filter(resourcemap, type == "wals") %>%
+  filter(str_detect(identifier, "^[a-z]{2,3}$")) %>%
   select(-type) %>%
   #left_join(bind_rows(wals_family, wals_genus),
   #          by = "identifier") %>%

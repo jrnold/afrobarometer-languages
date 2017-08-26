@@ -1827,20 +1827,19 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: mand1436
+- glottocodes: bamb1269
   iso_639_3:
-  - mnk
+  - bam
   lang_id: 367
   lang_name: Bamabara
   variables:
   - q103
   wals_codes: null
-- glottocodes: mand1436
+- glottocodes: bamb1269
   iso_639_3:
   - bam
   lang_id: 367
   lang_name: Bambara
-  note: Senegal. SN. Use closely related Mandinka for Senegal ()
   variables:
   - q114
   - q3

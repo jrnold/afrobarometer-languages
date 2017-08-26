@@ -1369,7 +1369,7 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 5,Q2OTHER,17,KISAFWA,TZ,nyh,Nyiha,1
 5,Q2OTHER,17,KISAGALA,TZ,shm,Shambala,1
 5,Q2OTHER,17,KISAMBAA,TZ,shm,Shambala,1
-5,Q2OTHER,17,KISANDAWE,TZ,sdw,Sandawe,1
+5,Q2OTHER,17,KISANDAWE,TZ,sdw,Sandawe,0
 5,Q2OTHER,17,KISANGU,TZ,heh,Hehe,1
 5,Q2OTHER,17,KISANGU,TZ,kga,Kinga,1
 5,Q2OTHER,17,KISANGU,TZ,ngo,Ngoni,1
@@ -1441,7 +1441,6 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 5,Q2OTHER,18,KEBU.,UG,nke,Nkem,1
 5,Q2OTHER,18,KINYAMULENGE,UG,kin,Kinyarwanda,1
 5,Q2OTHER,18,KUMAM,UG,lan,Lango,1
-5,Q2OTHER,18,LENDU,UG,ldu,Lendu,1
 5,Q2OTHER,18,LENDU,UG,nti,Ngiti,1
 5,Q2OTHER,18,LUBUKUSU,UG,buk,Bukusu,1
 5,Q2OTHER,18,LUFUBILA,UG,kin,Kinyarwanda,1
@@ -2838,7 +2837,6 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 6,Q2OTHER,6,MADA,CM,mda,Mada (in Cameroon),1
 6,Q2OTHER,6,MANDARA,CM,mlg,Malgwa,1
 6,Q2OTHER,6,MASSA,CM,lam,Lamé,1
-6,Q2OTHER,6,MASSA,CM,mas,Masa,1
 6,Q2OTHER,6,MBA VELE,CM,tki,Tuki,1
 6,Q2OTHER,6,MBAMOISE,CM,,,
 6,Q2OTHER,6,MBANG,CM,bas,Basaá,1
@@ -3594,7 +3592,7 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 6,Q2OTHER,31,KISAFWA,TZ,mmw,Mambwe,1
 6,Q2OTHER,31,KISAFWA,TZ,nyh,Nyiha,1
 6,Q2OTHER,31,KISAMBAA,TZ,shm,Shambala,1
-6,Q2OTHER,31,KISANDAWE,TZ,sdw,Sandawe,1
+6,Q2OTHER,31,KISANDAWE,TZ,sdw,Sandawe,0
 6,Q2OTHER,31,KISANGU,TZ,heh,Hehe,1
 6,Q2OTHER,31,KISANGU,TZ,kga,Kinga,1
 6,Q2OTHER,31,KISANGU,TZ,ngo,Ngoni,1
@@ -3692,7 +3690,6 @@ round,variable,country,value,iso_alpha2,wals_code,wals_name,auto
 6,Q2OTHER,34,KAKWA,UG,kuk,Kukú,1
 6,Q2OTHER,34,KINYARWANDA,UG,kin,Kinyarwanda,1
 6,Q2OTHER,34,KUMAM,UG,lan,Lango,1
-6,Q2OTHER,34,LENDU,UG,ldu,Lendu,1
 6,Q2OTHER,34,LENDU,UG,nti,Ngiti,1
 6,Q2OTHER,34,LUDAMA,UG,luo,Luo,1
 6,Q2OTHER,34,LUFUMBIRA,UG,kin,Kinyarwanda,1

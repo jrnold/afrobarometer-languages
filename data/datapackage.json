@@ -1,7 +1,7 @@
 {
   "name": "afrobarometer_langs",
   "title": "Afrobarometer Languages Mapped to ISO Standards and WALS",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Mappings from languages used in the Afrobarometer surveys to some common language standards and databases, the ISO 639-3 langauge codes and the WALS database.",
   "sources": [
     {
@@ -234,6 +234,17 @@
             },
             "title": "Number of respondents",
             "description": "Number of respondents in the survey which answered with this value."
+          },
+          {
+            "name": "prop",
+            "types": "number",
+            "constraints": {
+              "required": true,
+              "minimum": 0,
+              "maximum": 1
+            },
+            "title": "Population proportion",
+            "description": "Using the survey weights, the estimated proportion in the country which speak that language."
           }
         ],
         "missingValues": [
@@ -799,17 +810,6 @@
             }
           },
           {
-            "name": "country",
-            "types": "integer",
-            "title": "Country",
-            "description": "The country in which the language appears. This is the integer value of the country in the Afrobarometer survey's `country` variable.",
-            "constraints": {
-              "required": true,
-              "minimum": 1,
-              "maximum": 36
-            }
-          },
-          {
             "label": "Language name",
             "type": "string",
             "description": "Language name. This is the value of the \"other\" language variable.",
@@ -823,6 +823,17 @@
             "types": "integer",
             "title": "Country",
             "description": "A two-letter country abbreviation (ISO 3166 alpha-2) for the Afrobarometer country in which the language appears. Unlike the Afrobarometer country variables this is consistent across rounds.",
+            "constraints": {
+              "required": true,
+              "minimum": 1,
+              "maximum": 36
+            }
+          },
+          {
+            "name": "country",
+            "types": "integer",
+            "title": "Country",
+            "description": "The country in which the language appears. This is the integer value of the country in the Afrobarometer survey's `country` variable.",
             "constraints": {
               "required": true,
               "minimum": 1,

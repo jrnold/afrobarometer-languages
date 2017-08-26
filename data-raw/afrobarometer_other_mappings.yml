@@ -7346,7 +7346,8 @@
   iso_639_3:
   - sad
   lang_name: kisandawe
-  wals_codes: null
+  wals_codes:
+  - sdw
 - country: TZ
   glottocode: sang1330
   iso_639_3:

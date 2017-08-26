@@ -895,7 +895,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 3,q103,295,Sonrha,9,ML,song1307
 3,q103,296,Bella,9,ML,koyr1242
 3,q103,297,Tamasheq,9,ML,tuar1240
-3,q103,300,Makua,10,MZ,makh1264
+3,q103,300,Makua,10,MZ,maku1279
 3,q103,301,Sena,10,MZ,nucl1396
 3,q103,302,Ndau,10,MZ,ndau1241
 3,q103,303,Nyanja,10,MZ,nyan1308
@@ -934,7 +934,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 3,q103,364,Sonike,13,SN,soni1259
 3,q103,365,Diola,13,SN,jola1263
 3,q103,366,Manjack,13,SN,mand1419
-3,q103,367,Bamabara,13,SN,mand1436
+3,q103,367,Bamabara,13,SN,bamb1269
 3,q103,406,Alur,16,UG,alur1250
 3,q103,407,Ateso,16,UG,teso1249
 3,q103,413,Luo,16,UG,sout2831
@@ -1012,7 +1012,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 3,q114,288,Dogon,9,ML,dogo1299
 3,q114,289,Bobo,9,ML,bomu1247
 3,q114,297,Tamasheq,9,ML,tuar1240
-3,q114,300,Makua,10,MZ,makh1264
+3,q114,300,Makua,10,MZ,maku1279
 3,q114,301,Sena,10,MZ,nucl1396
 3,q114,302,Ndau,10,MZ,ndau1241
 3,q114,303,Nyanja,10,MZ,nyan1308
@@ -1192,7 +1192,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 3,q3,296,Bella,9,ML,koyr1242
 3,q3,297,Tamasheq,9,ML,tuar1240
 3,q3,298,Dafing,9,ML,mark1256
-3,q3,300,Makua,10,MZ,makh1264
+3,q3,300,Makua,10,MZ,maku1279
 3,q3,301,Sena,10,MZ,nucl1396
 3,q3,302,Ndau,10,MZ,ndau1241
 3,q3,303,Nyanja,10,MZ,nyan1308
@@ -1246,7 +1246,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 3,q3,364,Sonike,13,SN,soni1259
 3,q3,365,Diola,13,SN,jola1263
 3,q3,366,Manjack,13,SN,mand1419
-3,q3,367,Bambara,13,SN,mand1436
+3,q3,367,Bambara,13,SN,bamb1269
 3,q3,368,Bainouk,13,SN,bain1261
 3,q3,380,Kinyakyusa,15,TZ,nyak1260
 3,q3,381,Kichaga,15,TZ,moch1256
@@ -1430,7 +1430,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q103,514,Soninke/ Sarakoll,11,ML,soni1259
 4,Q103,515,Sonrhai,11,ML,song1307
 4,Q103,516,Tamasheq,11,ML,tuar1240
-4,Q103,541,Makua,12,MZ,makh1264
+4,Q103,541,Makua,12,MZ,maku1279
 4,Q103,542,Sena,12,MZ,nucl1396
 4,Q103,543,Ndau,12,MZ,ndau1241
 4,Q103,545,Changana,12,MZ,tson1249
@@ -1452,7 +1452,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q103,660,Wolof,15,SN,nucl1347
 4,Q103,661,Pulaar/Toucouleur,15,SN,pula1263
 4,Q103,662,Serer,15,SN,sere1260
-4,Q103,663,Mandinka/Bambara,15,SN,mand1436
+4,Q103,663,Mandinka/Bambara,15,SN,mand1435
 4,Q103,665,Diola,15,SN,jola1263
 4,Q103,700,Afrikaans,16,ZA,afri1274
 4,Q103,701,Ndebele,16,ZA,sout2808
@@ -1550,7 +1550,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q114,514,Soninke/ Sarakoll,11,ML,soni1259
 4,Q114,515,Sonrhai,11,ML,song1307
 4,Q114,516,Tamasheq,11,ML,tuar1240
-4,Q114,541,Makua,12,MZ,makh1264
+4,Q114,541,Makua,12,MZ,maku1279
 4,Q114,542,Sena,12,MZ,nucl1396
 4,Q114,543,Ndau,12,MZ,ndau1241
 4,Q114,545,Changana,12,MZ,tson1249
@@ -1601,7 +1601,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q114,660,Wolof,15,SN,nucl1347
 4,Q114,661,Pulaar/Toucouleur,15,SN,pula1263
 4,Q114,662,Serer,15,SN,sere1260
-4,Q114,663,Mandinka/Bambara,15,SN,mand1436
+4,Q114,663,Mandinka/Bambara,15,SN,mand1435
 4,Q114,665,Diola,15,SN,jola1263
 4,Q114,700,Afrikaans,16,ZA,afri1274
 4,Q114,701,Ndebele,16,ZA,sout2808
@@ -1821,7 +1821,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q3,520,Kakolo,11,ML,kago1248
 4,Q3,522,Samogo,11,ML,duun1242
 4,Q3,525,Zerma,11,ML,zarm1239
-4,Q3,541,Makua,12,MZ,makh1264
+4,Q3,541,Makua,12,MZ,maku1279
 4,Q3,542,Sena,12,MZ,nucl1396
 4,Q3,543,Ndau,12,MZ,ndau1241
 4,Q3,544,Nyanja,12,MZ,nyan1308
@@ -1896,7 +1896,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 4,Q3,660,Wolof,15,SN,nucl1347
 4,Q3,661,Pulaar/Toucouleur,15,SN,pula1263
 4,Q3,662,Serer,15,SN,sere1260
-4,Q3,663,Mandinka/Bambara,15,SN,mand1436
+4,Q3,663,Mandinka/Bambara,15,SN,mand1435
 4,Q3,664,Soninke,15,SN,soni1259
 4,Q3,665,Diola,15,SN,jola1263
 4,Q3,666,Manjack,15,SN,mand1419
@@ -2110,7 +2110,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q103,513,Peulh / Fulfude,11,ML,maas1239
 5,Q103,516,Soninke,11,ML,soni1259
 5,Q103,518,Tamasheq,11,ML,tuar1240
-5,Q103,540,Makua,12,MZ,makh1264
+5,Q103,540,Makua,12,MZ,maku1279
 5,Q103,541,Sena,12,MZ,nucl1396
 5,Q103,543,Changana,12,MZ,tson1249
 5,Q103,583,Oshiwambo,13,NA,kuan1247
@@ -2271,7 +2271,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q116,516,Soninké / Sarakollé,11,ML,soni1259
 5,Q116,517,Sonrhaï,11,ML,song1307
 5,Q116,518,Tamasheq,11,ML,tuar1240
-5,Q116,540,Makua,12,MZ,makh1264
+5,Q116,540,Makua,12,MZ,maku1279
 5,Q116,541,Sena,12,MZ,nucl1396
 5,Q116,543,Changana,12,MZ,tson1249
 5,Q116,548,Chuabo,12,MZ,chuw1238
@@ -2296,7 +2296,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q116,660,Wolof,15,SN,nucl1347
 5,Q116,661,Pulaar/Toucouleur,15,SN,pula1263
 5,Q116,662,Serer,15,SN,sere1260
-5,Q116,663,Mandinka/Bambara,15,SN,mand1436
+5,Q116,663,Mandinka/Bambara,15,SN,mand1435
 5,Q116,664,Soninke,15,SN,soni1259
 5,Q116,665,Diola,15,SN,jola1263
 5,Q116,700,Afrikaans,16,ZA,afri1274
@@ -2478,7 +2478,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q2,8,Amazigh,31,DZ,kaby1243
 5,Q2,8,Amazigh,33,MA,cent2194
 5,Q2,9,Bambara,11,ML,bamb1269
-5,Q2,9,Bambara,15,SN,mand1436
+5,Q2,9,Bambara,15,SN,bamb1269
 5,Q2,9,Bambara,27,CI,bamb1269
 5,Q2,10,Bassa,8,LR,nucl1418
 5,Q2,10,Bassa,26,CM,basa1284
@@ -2666,7 +2666,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 5,Q2,516,Soninké / Sarakollé,11,ML,soni1259
 5,Q2,517,Sonrhaï,11,ML,song1307
 5,Q2,518,Tamasheq,11,ML,tuar1240
-5,Q2,540,Makua,12,MZ,makh1264
+5,Q2,540,Makua,12,MZ,maku1279
 5,Q2,541,Sena,12,MZ,nucl1396
 5,Q2,544,Changana,12,MZ,tson1249
 5,Q2,545,Chope,12,MZ,chop1243
@@ -3099,7 +3099,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q103,514,Peulh/Fulfude,18,ML,maas1239
 6,Q103,517,Soninké,18,ML,soni1259
 6,Q103,518,Sonrhai,18,ML,song1307
-6,Q103,540,Makua,21,MZ,makh1264
+6,Q103,540,Makua,21,MZ,maku1279
 6,Q103,541,Sena,21,MZ,nucl1396
 6,Q103,542,Ndau,21,MZ,ndau1241
 6,Q103,543,Changana,21,MZ,tson1249
@@ -3261,7 +3261,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q116,516,Senufo,18,ML,nort3254
 6,Q116,517,Soninké/Sarakolé,18,ML,soni1259
 6,Q116,518,Sonrhai,18,ML,song1307
-6,Q116,540,Makua,21,MZ,makh1264
+6,Q116,540,Makua,21,MZ,maku1279
 6,Q116,541,Sena,21,MZ,nucl1396
 6,Q116,542,Ndau,21,MZ,ndau1241
 6,Q116,543,Changana,21,MZ,tson1249
@@ -3298,7 +3298,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q116,660,Wolof,26,SN,nucl1347
 6,Q116,661,Pulaar/Toucouleur,26,SN,pula1263
 6,Q116,662,Serer,26,SN,sere1260
-6,Q116,663,Mandinka/Bambara,26,SN,mand1436
+6,Q116,663,Mandinka/Bambara,26,SN,mand1435
 6,Q116,665,Diola,26,SN,jola1263
 6,Q116,669,Maure,26,SN,hass1238
 6,Q116,700,Afrikaans,28,ZA,afri1274
@@ -3385,7 +3385,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q116,1540,Sudanese Arabic,29,SD,suda1236
 6,Q116,1620,siSwati,30,SZ,swat1243
 6,Q116,1700,Fang,10,GA,fang1246
-6,Q116,1701,Punu/Mériè,10,GA,kota1274
+6,Q116,1701,Punu/Mériè,10,GA,punu1239
 6,Q116,1704,Nzébi/Métié,10,GA,njeb1242
 6,Q116,1706,Tsogho,10,GA,tsog1243
 6,Q116,2620,Bajju,24,NG,jjuu1238
@@ -3609,7 +3609,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q2,516,Senufo,18,ML,nort3254
 6,Q2,517,Soninké/Sarakolé,18,ML,soni1259
 6,Q2,518,Sonrhai,18,ML,song1307
-6,Q2,540,Makua,21,MZ,makh1264
+6,Q2,540,Makua,21,MZ,maku1279
 6,Q2,541,Sena,21,MZ,nucl1396
 6,Q2,543,Changana,21,MZ,tson1249
 6,Q2,545,Chope,21,MZ,chop1243
@@ -3663,7 +3663,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q2,660,Wolof,26,SN,nucl1347
 6,Q2,661,Pulaar/Toucouleur,26,SN,pula1263
 6,Q2,662,Serer,26,SN,sere1260
-6,Q2,663,Mandinka/Bambara,26,SN,mand1436
+6,Q2,663,Mandinka/Bambara,26,SN,mand1435
 6,Q2,664,Soninke,26,SN,soni1259
 6,Q2,665,Diola,26,SN,jola1263
 6,Q2,666,Manjack,26,SN,mand1419
@@ -3875,7 +3875,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,glottocode
 6,Q2,1661,Forro,25,ST,saot1239
 6,Q2,1662,Angolar,25,ST,ango1258
 6,Q2,1700,Fang,10,GA,fang1246
-6,Q2,1701,Punu/Mériè,10,GA,kota1274
+6,Q2,1701,Punu/Mériè,10,GA,punu1239
 6,Q2,1702,Kota,10,GA,kota1274
 6,Q2,1703,Mbédè,10,GA,mber1257
 6,Q2,1704,Nzébi/Métié,10,GA,njeb1242
