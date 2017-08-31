@@ -141,6 +141,14 @@ walk_glottolog <- function(x,
     unique() %>%
     sort()
 
+  if (length(descendants) > 0) {
+    subtree_depth <- max(map_int(descendants, "subtree_depth")) + 1L
+  } else {
+    subtree_depth <- 0L
+  }
+
+
+
   geo <- geo_lookup[[glottocode]]
   if (is.null(geo)) {
     desc_geo <- invoke(rbind, map(descendants, "geo"))
@@ -164,13 +172,15 @@ walk_glottolog <- function(x,
            macroarea = list(macroarea),
            i = i,
            depth = depth,
+           subtree_depth = subtree_depth,
            family = family)
 
   list(glottocodes = c(glottocode, descendants_glotto),
        iso_codes = iso_codes,
        wals_codes = wals_codes,
        macroarea = macroarea,
-       geo = geo)
+       geo = geo,
+       subtree_depth = subtree_depth)
 }
 
 # Walk tree using DFS.
@@ -203,9 +213,6 @@ fill_descendants <- function(x, parent = NULL) {
 }
 walk(glottolog_tree, fill_descendants)
 
-# Data to data frame
-languoids <- as.list(env) %>% bind_rows()
-
 #' Merge other info
 languoid_meta <- select(IO$glottolog_languoids,
                         name,
@@ -214,14 +221,16 @@ languoid_meta <- select(IO$glottolog_languoids,
                         bookkeeping)
 
 languoids <-
-  left_join(languoids, languoid_meta, by = "glottocode") %>%
+  as.list(env) %>%
+  bind_rows() %>%
+  left_join(languoid_meta, by = "glottocode") %>%
   mutate_at(vars(iso_639_3, wals_codes, ancestors, children, descendants),
             funs(map_chr(., paste0, collapse = " "))) %>%
   # since macroarea can have spaces, use ; delim
   mutate_at(vars(macroarea),
             funs(map_chr(., paste0, collapse = ";"))) %>%
   select(glottocode, name, level, depth, family, parent, ancestors,
-         children, descendants, iso_639_3, wals_codes,
+         children, descendants, subtree_depth, iso_639_3, wals_codes,
          macroarea, latitude, longitude, bookkeeping)
 
 write_csv(languoids, OUTPUT, na = "")
