@@ -14,21 +14,25 @@ OUTPUTS =
 all:
 	@echo $(OUTPUTS)
 
-download:
-	$(R) bin/download.R
+download: bin/download.R
+	$(R) $<
 .PHONY: download
 
+validate-mappings: bin/validate_mappings.py
+	$(PYTHON) $<
 validate-mappings: $(AFROBAROMETER_MAPPINGS)
-	$(PYTHON) src/
 .PHONY: validate-mappings
 
-
-external/glottolog/tree-glottolog.json: bin/glottolog-tree.py external/glottolog/tree-glottolog-newick.txt
+external/glottolog/tree-glottolog.json: bin/glottolog-tree.py
 	$(PYTHON) $<
+data/glottolog/tree-glottolog.json: external/glottolog/tree-glottolog-newick.txt
 OUTPUTS += $(GLOTTOLOG_DIR)/tree-glottolog.json
 
-data/glottolog.csv: bin/glottolog.R external/glottolog/tree-glottolog.json $(GLOTTOLOG_FILES) $(WALS_DATA)
+data/glottolog.csv: bin/glottolog.R
 	$(R) $<
+data/glottlog.csv: external/glottolog/tree-glottolog.json \
+	$(GLOTTOLOG_FILES) \
+	$(WALS_DATA)
 OUTPUTS += data/glottolog.csv
 
 
@@ -37,44 +41,88 @@ data/datapackage.json: bin/yaml2json.py data-raw/datapackage.yml
 OUTPUTS += data/datapackage.json
 
 
-data/afrobarometer_langs.csv: bin/afrobarometer_langs.R  $(AFROBAROMETER_DATA)
+data/afrobarometer_langs.csv: bin/afrobarometer_langs.R
 	$(R) $<
+data/afrobaroemter_langs.csv:	data-raw/misc.yml \
+	$(AFROBAROMETER_DATA)
 OUTPUTS += data/afrobarometer_langs.csv
 
-data/afrobarometer_langs_other.csv: bin/afrobarometer_langs_other.R $(AFROBAROMETER_DATA)
+data/afrobarometer_langs_other.csv: bin/afrobarometer_langs_other.R
 	$(R) $<
+data/afrobarometer_langs_other.csv: data-raw/misc.yml \
+	$(AFROBAROMETER_DATA)
 OUTPUTS += data/afrobarometer_langs_other.csv
 
 
-data/afrobarometer_to_iso_639_3.csv: bin/afrobarometer_to_iso_639_3.R data/afrobarometer_langs.csv $(AFROBAROMETER_MAPPINGS) $(ISO_DATA)
+data/afrobarometer_to_iso_639_3.csv: bin/afrobarometer_to_iso_639_3.R
 	$(R) $<
+data/afrobarometer_to_iso_639_3.csv: data/afrobarometer_langs.csv \
+	data-raw/misc.yml \
+	$(AFROBAROMETER_MAPPINGS) \
+	$(ISO_DATA)
 OUTPUTS += data/afrobarometer_to_iso_639_3.csv
 
-data/afrobarometer_other_to_iso_639_3.csv: bin/afrobarometer_other_to_iso_639_3.R data/afrobarometer_langs_other.csv $(AFROBAROMETER_OTHER_MAPPINGS) $(ISO_DATA)
+data/afrobarometer_other_to_iso_639_3.csv: bin/afrobarometer_other_to_iso_639_3.R
 	$(R) $<
+data/afrobarometer_other_to_iso_639_3.csv: data/afrobarometer_langs_other.csv \
+	$(AFROBAROMETER_OTHER_MAPPINGS) \
+	$(ISO_DATA)
 OUTPUTS += data/afrobarometer_other_to_iso_639_3.csv
 
 
-data/afrobarometer_to_glottolog.csv: bin/afrobarometer_to_glottolog.R data/afrobarometer_langs.csv $(AFROBAROMETER_MAPPINGS) data/glottolog.csv
+data/afrobarometer_to_glottolog.csv: bin/afrobarometer_to_glottolog.R
 	$(R) $<
+data/afrobarometer_to_glottolog.csv: data/afrobarometer_langs.csv \
+	$(AFROBAROMETER_MAPPINGS) \
+	data/glottolog.csv \
+	data-raw/misc.yml
 OUTPUTS += data/afrobarometer_other_to_iso_639_3.csv
 
-data/afrobarometer_other_to_glottolog.csv: bin/afrobarometer_other_to_glottolog.R data/afrobarometer_langs_other.csv $(AFROBAROMETER_OTHER_MAPPINGS) data/glottolog.csv
+data/afrobarometer_other_to_glottolog.csv: bin/afrobarometer_other_to_glottolog.R
 	$(R) $<
+data/afrobarometer_other_to_glottolog.csv: data-raw/misc.yml \
+	data/afrobarometer_langs_other.csv \
+	$(AFROBAROMETER_OTHER_MAPPINGS) \
+	data/glottolog.csv
 OUTPUTS += data/afrobarometer_other_to_iso_639_3.csv
 
 
-data/afrobarometer_to_wals.csv: bin/afrobarometer_to_wals.R data/afrobarometer_langs.csv $(AFROBAROMETER_MAPPINGS) data/afrobarometer_to_glottolog.csv $(WALS_DATA)
+data/afrobarometer_to_wals.csv: bin/afrobarometer_to_wals.R
 	$(R) $<
+data/afrobarometer_to_wals.csv: data-raw/wals-updates.csv \
+	data-raw/misc.yml \
+	data/afrobarometer_langs.csv \
+	$(AFROBAROMETER_MAPPINGS) \
+	data/afrobarometer_to_glottolog.csv \
+	$(WALS_DATA)
 OUTPUTS += data/afrobarometer_to_wals.csv
 
-data/afrobarometer_other_to_wals.csv: bin/afrobarometer_other_to_wals.R data/afrobarometer_langs_other.csv $(AFROBAROMETER_OTHER_MAPPINGS) data/afrobarometer_other_to_glottolog.csv $(WALS_DATA)
+data/afrobarometer_other_to_wals.csv: bin/afrobarometer_other_to_wals.R
 	$(R) $<
+data/afrobarometer_other_to_wals.csv: data-raw/wals-updates.csv	 \
+  data-raw/misc.yml \
+	data/afrobarometer_langs_other.csv \
+	$(AFROBAROMETER_OTHER_MAPPINGS) \
+	data/afrobarometer_other_to_glottolog.csv \
+	$(WALS_DATA)
 OUTPUTS += data/afrobarometer_other_to_wals.csv
 
 
-data/afrobarometer_respno_to_langs.csv: data/afrobarometer_respno_to_langs.R
+data/afrobarometer_respno_to_langs.csv: bin/afrobarometer_respno_to_langs.R
 	$(R) $<
+data/afrobarometer_respno_to_langs.csv: $(AFROBAROMETER)
+data/afrobarometer_respno_to_langs.csv: data/afrobarometer_langs.csv
+data/afrobarometer_respno_to_langs.csv: data/afrobarometer_langs_other.csv
+data/afrobarometer_respno_to_langs.csv: data/afrobarometer_to_glottolog.csv
+data/afrobarometer_respno_to_langs.csv: data/afrobarometer_other_to_glottolog.csv
+data/afrobarometer_respno_to_langs.csv: data/afrobarometer_to_iso_639_3.csv
+data/afrobarometer_respno_to_langs.csv: data/afrobarometer_other_to_iso_639_3.csv
+data/afrobarometer_respno_to_langs.csv: data/afrobarometer_to_wals.csv
+data/afrobarometer_respno_to_langs.csv: data/afrobarometer_other_to_wals.csv
 OUTPUT += data/afrobarometer_respno_to_langs.csv
 
-all: $(OUTPUTS)
+data/afrobarometer_lang_dists.csv.gz: data/afrobarometer_lang_dists.R
+	$(R) $<
+
+# Put this at the end
+all: $(OUTPUT)

@@ -1,4 +1,4 @@
-source("src/init.R")
+source("src/R/init.R")
 
 # earth radius in m
 EARTH_RADIUS <- 6378137
@@ -13,7 +13,8 @@ glottolog <- IO$glottolog %>%
 ab_to_glottolog <- IO$afrobarometer_to_glottolog %>%
   select(round, country, variable, lang_id, country, glottocode, iso_alpha2) %>%
   filter(!is.na(glottocode)) %>%
-  left_join(select(glottolog, glottocode, ancestors, descendants, level, depth), by = "glottocode")
+  left_join(select(glottolog, glottocode, ancestors, descendants, level, depth),
+            by = "glottocode")
 
 MAX_DEPTH <- max(glottolog$depth)
 
@@ -42,7 +43,8 @@ ab_to_glottolog <-
     ab_to_glottolog_dialects
   ) %>%
   select(glottocode, round, country, variable, lang_id, depth, ancestors) %>%
-  left_join(select(glottolog, glottocode, latitude, longitude), by = "glottocode")
+  left_join(select(glottolog, glottocode, latitude, longitude),
+            by = "glottocode")
 
 distances <-
   crossing(ab_to_glottolog,
@@ -50,9 +52,10 @@ distances <-
   # remove self matches
   filter(!(variable == variable_to & lang_id == lang_id_to &
              country == country_to)) %>%
-  mutate(shared = map2_int(ancestors, ancestors_to, ~ length(base::intersect(.x, .y))),
-         dist_geo = distGeo(cbind(longitude, latitude),
-                             cbind(longitude_to, latitude_to))) %>%
+  mutate(shared = map2_int(ancestors, ancestors_to,
+                           ~ length(base::intersect(.x, .y))),
+         dist_geo = geosphere::distGeo(cbind(longitude, latitude),
+                                       cbind(longitude_to, latitude_to))) %>%
   select(-ancestors, -glottocode, -ancestors_to, -glottocode_to,
          -depth_to, -matches("longitude|latitude")) %>%
   group_by(round, country, variable, lang_id,
@@ -61,7 +64,13 @@ distances <-
   summarise_at(vars(shared, depth, dist_geo), funs(median))
 
 OUTFILE <- "data/afraborometer_lang_dists.csv.gz"
+
 hdl <- gzfile(OUTFILE, "w")
 write_csv(distances, hdl, na = "")
 close(hdl)
 
+with_conn <- function(conn, expr) {
+  force(conn)
+  on.exit(close(conn))
+  eval_tidy(enquo(expr), env = env_parent(), data = list(conn = conn))
+}

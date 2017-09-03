@@ -108,8 +108,6 @@ env_bind_fns(IO,
                               iso_alpha2 = col_character()))
   },
 
-
-
   misc_data = function() {
     path <- project_path("data-raw", "misc.yml")
     read_yml(path)
@@ -375,15 +373,6 @@ env_bind_fns(IO,
       iso_scope = col_character(),
       iso_ref_name = col_character(),
       iso_alpha2 = col_character()
-    )
-    read_csv(path, na = "", col_types = col_types)
-  },
-
-  afrobarometer_respno_variables = function() {
-    path <- project_path("data", "afrobarometer_respno_variables.csv")
-    col_types <- cols(
-      round = col_integer(),
-      name = col_character()
     )
     read_csv(path, na = "", col_types = col_types)
   },
