@@ -196,7 +196,9 @@ env_bind_fns(IO,
       mutate(iso_code = coalesce(iso_code_new, iso_code),
              macroarea = coalesce(macroarea_new, macroarea),
              countrycodes = coalesce(countrycodes_new, countrycodes)) %>%
-      select(one_of(vars))
+      select(one_of(vars)) %>%
+      mutate(countrycodes = map_if(str_split(countrycodes, " "),
+                                   is.null, list(character())))
   },
 
   # Ethnologue data

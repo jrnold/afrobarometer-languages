@@ -12,9 +12,7 @@ OUTPUT <- project_path("data", "afrobarometer_other_to_wals.csv")
 
 misc_data <- IO$misc_data
 
-wals <- IO$wals %>%
-  mutate(countrycodes = if_else(countrycodes == "", list(NULL),
-                                str_split(countrycodes, " +")))
+wals <- IO$wals
 
 # Read Afrobarometer Other Languages
 afrobarometer_langs_other <-
@@ -190,7 +188,8 @@ country_nonmatches <-
   filter(!auto) %>%
   anti_join(IO$afrobarometer_other_to_wals_country_nonmatches,
             by = c("value", "iso_alpha2", "wals_code")) %>%
-  anti_join(unnest(select(wals, wals_code, countrycodes)),
+  anti_join(unnest(select(wals, wals_code, countrycodes),
+                   countrycodes),
             by = c("wals_code", iso_alpha2 = "countrycodes")) %>%
   select(value, iso_alpha2, wals_code, wals_name) %>%
   distinct()

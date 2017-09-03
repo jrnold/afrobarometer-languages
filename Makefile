@@ -46,16 +46,16 @@ data/afrobarometer_langs_other.csv: bin/afrobarometer_langs_other.R $(AFROBAROME
 OUTPUTS += data/afrobarometer_langs_other.csv
 
 
-data/afrobarometer_to_iso_639_3.csv: bin/afrobarometer_langs_to_iso_639_3.R data/afrobarometer_langs.csv $(AFROBAROMETER_MAPPINGS) $(ISO_DATA)
+data/afrobarometer_to_iso_639_3.csv: bin/afrobarometer_to_iso_639_3.R data/afrobarometer_langs.csv $(AFROBAROMETER_MAPPINGS) $(ISO_DATA)
 	$(R) $<
 OUTPUTS += data/afrobarometer_to_iso_639_3.csv
 
-data/afrobarometer_other_to_iso_639_3.csv: bin/afrobarometer_other_to_iso_639_3.R data/afrobarometer_langs_other.R $(AFROBAROMETER_OTHER_MAPPINGS) $(ISO_DATA)
+data/afrobarometer_other_to_iso_639_3.csv: bin/afrobarometer_other_to_iso_639_3.R data/afrobarometer_langs_other.csv $(AFROBAROMETER_OTHER_MAPPINGS) $(ISO_DATA)
 	$(R) $<
 OUTPUTS += data/afrobarometer_other_to_iso_639_3.csv
 
 
-data/afrobarometer_to_glottolog.csv: bin/afrobarometer_langs_to_glottolog.R data/afrobarometer_langs.csv $(AFROBAROMETER_MAPPINGS) data/glottolog.csv
+data/afrobarometer_to_glottolog.csv: bin/afrobarometer_to_glottolog.R data/afrobarometer_langs.csv $(AFROBAROMETER_MAPPINGS) data/glottolog.csv
 	$(R) $<
 OUTPUTS += data/afrobarometer_other_to_iso_639_3.csv
 
@@ -64,11 +64,11 @@ data/afrobarometer_other_to_glottolog.csv: bin/afrobarometer_other_to_glottolog.
 OUTPUTS += data/afrobarometer_other_to_iso_639_3.csv
 
 
-data/afrobarometer_to_wals.csv: bin/afrobarometer_to_wals.R data/afrobarometer_to_wals.csv $(AFROBAROMETER_MAPPINGS) data/afrobarometer_to_glottolog.csv $(WALS_DATA)
+data/afrobarometer_to_wals.csv: bin/afrobarometer_to_wals.R data/afrobarometer_langs.csv $(AFROBAROMETER_MAPPINGS) data/afrobarometer_to_glottolog.csv $(WALS_DATA)
 	$(R) $<
 OUTPUTS += data/afrobarometer_to_wals.csv
 
-data/afrobarometer_other_to_wals.csv: bin/afrobarometer_other_to_wals.R data/afrobarometer_other_to_wals.csv $(AFROBAROMETER_OTHER_MAPPINGS) data/afrobarometer_other_to_glottolog.csv $(WALS_DATA)
+data/afrobarometer_other_to_wals.csv: bin/afrobarometer_other_to_wals.R data/afrobarometer_langs_other.csv $(AFROBAROMETER_OTHER_MAPPINGS) data/afrobarometer_other_to_glottolog.csv $(WALS_DATA)
 	$(R) $<
 OUTPUTS += data/afrobarometer_other_to_wals.csv
 

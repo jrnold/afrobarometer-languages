@@ -1,0 +1,4495 @@
+round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_scope
+1,language,1,Afrikaans,1,BW,afr,Afrikaans,I
+1,language,1,Afrikaans,6,NA,afr,Afrikaans,I
+1,language,1,Afrikaans,8,ZA,afr,Afrikaans,I
+1,language,2,Chewa,1,BW,nya,Nyanja,I
+1,language,2,Chewa,4,MW,nya,Nyanja,I
+1,language,2,Chewa,12,ZW,nya,Nyanja,I
+1,language,3,Chinyungwe,4,MW,nyu,Nyungwe,I
+1,language,3,Chinyungwe,6,NA,nyu,Nyungwe,I
+1,language,4,Chisena,4,MW,swk,Malawi Sena,I
+1,language,4,Chisena,11,ZM,swk,Malawi Sena,I
+1,language,5,Damara,1,BW,naq,Khoekhoe,I
+1,language,5,Damara,6,NA,naq,Khoekhoe,I
+1,language,5,Damara,11,ZM,naq,Khoekhoe,I
+1,language,5,Damara,12,ZW,naq,Khoekhoe,I
+1,language,6,English,1,BW,eng,English,I
+1,language,6,English,3,LS,eng,English,I
+1,language,6,English,4,MW,eng,English,I
+1,language,6,English,6,NA,eng,English,I
+1,language,6,English,8,ZA,eng,English,I
+1,language,6,English,11,ZM,eng,English,I
+1,language,6,English,12,ZW,eng,English,I
+1,language,7,German,1,BW,deu,German,I
+1,language,7,German,6,NA,deu,German,I
+1,language,8,Nama,6,NA,naq,Khoekhoe,I
+1,language,8,Nama,12,ZW,naq,Khoekhoe,I
+1,language,9,Ndebele,1,BW,nde,North Ndebele,I
+1,language,9,Ndebele,3,LS,nbl,South Ndebele,I
+1,language,9,Ndebele,6,NA,nde,North Ndebele,I
+1,language,9,Ndebele,8,ZA,nbl,South Ndebele,I
+1,language,9,Ndebele,11,ZM,nde,North Ndebele,I
+1,language,9,Ndebele,12,ZW,nde,North Ndebele,I
+1,language,10,Oshiwambo,6,NA,kua,Kuanyama,I
+1,language,11,Otjiherero,1,BW,her,Herero,I
+1,language,11,Otjiherero,6,NA,her,Herero,I
+1,language,12,Portueguese,6,NA,por,Portuguese,I
+1,language,13,Rukwangali,6,NA,kwn,Kwangali,I
+1,language,14,"Sesotho,Sotho, S.Sotho",1,BW,sot,Southern Sotho,I
+1,language,14,"Sesotho,Sotho, S.Sotho",3,LS,sot,Southern Sotho,I
+1,language,14,"Sesotho,Sotho, S.Sotho",8,ZA,sot,Southern Sotho,I
+1,language,15,Setswana/Tswana,1,BW,tsn,Tswana,I
+1,language,15,Setswana/Tswana,6,NA,tsn,Tswana,I
+1,language,15,Setswana/Tswana,8,ZA,tsn,Tswana,I
+1,language,16,Silozi,1,BW,loz,Lozi,I
+1,language,16,Silozi,6,NA,loz,Lozi,I
+1,language,16,Silozi,11,ZM,loz,Lozi,I
+1,language,17,Shangaan/Tsonga/Ronga/Tswa,8,ZA,tsc,Tswa,I
+1,language,17,Shangaan/Tsonga/Ronga/Tswa,8,ZA,tso,Tsonga,I
+1,language,17,Shangaan/Tsonga/Ronga/Tswa,12,ZW,tsc,Tswa,I
+1,language,17,Shangaan/Tsonga/Ronga/Tswa,12,ZW,tso,Tsonga,I
+1,language,18,Shona,1,BW,sna,Shona,I
+1,language,18,Shona,6,NA,sna,Shona,I
+1,language,18,Shona,11,ZM,sna,Shona,I
+1,language,18,Shona,12,ZW,sna,Shona,I
+1,language,20,Swazi,8,ZA,ssw,Swati,I
+1,language,20,Swazi,11,ZM,ssw,Swati,I
+1,language,20,Swazi,12,ZW,ssw,Swati,I
+1,language,21,Venda,6,NA,ven,Venda,I
+1,language,21,Venda,8,ZA,ven,Venda,I
+1,language,21,Venda,12,ZW,ven,Venda,I
+1,language,22,Xhosa,3,LS,xho,Xhosa,I
+1,language,22,Xhosa,8,ZA,xho,Xhosa,I
+1,language,22,Xhosa,12,ZW,xho,Xhosa,I
+1,language,23,Zulu,1,BW,zul,Zulu,I
+1,language,23,Zulu,8,ZA,zul,Zulu,I
+1,language,24,Sepedi/N.Sotho,6,NA,nso,Pedi,I
+1,language,24,Sepedi/N.Sotho,8,ZA,nso,Pedi,I
+1,language,26,Bemba,11,ZM,bem,Bemba (Zambia),I
+1,language,27,Kaonde,11,ZM,kqn,Kaonde,I
+1,language,29,Luvale,11,ZM,lue,Luvale,I
+1,language,30,Nyanja,4,MW,nya,Nyanja,I
+1,language,30,Nyanja,11,ZM,nya,Nyanja,I
+1,language,31,Tonga,4,MW,tog,Tonga (Nyasa),I
+1,language,31,Tonga,11,ZM,toi,Tonga (Zambia),I
+1,language,32,Ngoni,4,MW,nya,Nyanja,I
+1,language,33,Lomwe,4,MW,lon,Malawi Lomwe,I
+1,language,34,Tumbuka,4,MW,tum,Tumbuka,I
+1,language,35,Yao,4,MW,yao,Yao,I
+1,language,37,Nkhonde,4,MW,nyy,Nyakyusa-Ngonde,I
+1,language,38,Lambya,4,MW,lai,Lambya,I
+1,language,41,Akan,2,GH,aka,Akan,M
+1,language,42,Dangaare,2,GH,dga,Southern Dagaare,I
+1,language,43,Dagbane,2,GH,dag,Dagbani,I
+1,language,44,Ewe,2,GH,ewe,Ewe,I
+1,language,45,Ga,2,GH,gaa,Ga,I
+1,language,46,Hausa,2,GH,hau,Hausa,I
+1,language,47,Frafra,2,GH,gur,Farefare,I
+1,language,48,Nzema,2,GH,nzi,Nzima,I
+1,language,50,Dangbe,2,GH,ada,Adangme,I
+1,language,51,Wassa,2,GH,wss,Wasa,I
+1,language,52,Ahanta,2,GH,aha,Ahanta,I
+1,language,53,Guan,2,GH,gwx,Gua,I
+1,language,54,Kasem,2,GH,xsm,Kasem,I
+1,language,55,Kusasi,2,GH,kus,Kusaal,I
+1,language,56,Moar,2,GH,bim,Bimoba,I
+1,language,57,Bimoba,2,GH,bim,Bimoba,I
+1,language,58,Konkomba,2,GH,xon,Konkomba,I
+1,language,59,Chekosi,2,GH,cko,Anufo,I
+1,language,60,Chumburu,2,GH,ncu,Chumburung,I
+1,language,61,Noingo,2,GH,ada,Adangme,I
+1,language,62,Krobo,2,GH,ada,Adangme,I
+1,language,63,Ada,2,GH,ada,Adangme,I
+1,language,64,Waale,2,GH,wlx,Wali (Ghana),I
+1,language,65,Nabi,2,GH,gur,Farefare,I
+1,language,66,Mamprulni,2,GH,maw,Mampruli,I
+1,language,67,Zabagle,2,GH,mis,Uncoded languages,S
+1,language,68,Gonja,2,GH,gjn,Gonja,I
+1,language,69,Efutu,2,GH,afu,Awutu,I
+1,language,70,Senya,2,GH,afu,Awutu,I
+1,language,71,Grusi,2,GH,cll,Chala,I
+1,language,71,Grusi,2,GH,kdh,Tem,I
+1,language,71,Grusi,2,GH,mzw,Deg,I
+1,language,71,Grusi,2,GH,ntr,Delo,I
+1,language,71,Grusi,2,GH,sig,Paasaal,I
+1,language,71,Grusi,2,GH,sil,Tumulung Sisaala,I
+1,language,71,Grusi,2,GH,ssl,Western Sisaala,I
+1,language,71,Grusi,2,GH,tpm,Tampulma,I
+1,language,71,Grusi,2,GH,vag,Vagla,I
+1,language,71,Grusi,2,GH,xsm,Kasem,I
+1,language,72,Wangara,2,GH,mis,Uncoded languages,S
+1,language,73,Dagomba,2,GH,dag,Dagbani,I
+1,language,74,Buam/Lelemi,2,GH,lef,Lelemi,I
+1,language,75,Nsahas,2,GH,mis,Uncoded languages,S
+1,language,76,Brong,2,GH,abr,Abron,I
+1,language,77,Basari,2,GH,bud,Ntcham,I
+1,language,78,Kanjaga,2,GH,bwu,Buli (Ghana),I
+1,language,80,Sefwi/Sehwi,2,GH,sfw,Sehwi,I
+1,language,81,Nchunmuru,2,GH,ncu,Chumburung,I
+1,language,82,Nafaana,2,GH,nfr,Nafaanra,I
+1,language,83,Nkona,2,GH,nko,Nkonya,I
+1,language,84,Bambara,5,ML,bam,Bambara,I
+1,language,85,Fulfulde/Peul,5,ML,ffm,Maasina Fulfulde,I
+1,language,86,Senufo,5,ML,myk,Mamara Senoufo,I
+1,language,86,Senufo,5,ML,shz,Syenara Senoufo,I
+1,language,86,Senufo,5,ML,spp,Supyire Senoufo,I
+1,language,87,Soninke,5,ML,snk,Soninke,I
+1,language,88,Malinke,5,ML,kao,Xaasongaxango,I
+1,language,88,Malinke,5,ML,mlq,Western Maninkakan,I
+1,language,88,Malinke,5,ML,mwk,Kita Maninkakan,I
+1,language,89,Sonrhai,5,ML,hmb,Humburi Senni Songhay,I
+1,language,89,Sonrhai,5,ML,khq,Koyra Chiini Songhay,I
+1,language,89,Sonrhai,5,ML,ses,Koyraboro Senni Songhai,I
+1,language,90,Dogon,5,ML,dds,Donno So Dogon,I
+1,language,90,Dogon,5,ML,djm,Jamsay Dogon,I
+1,language,90,Dogon,5,ML,dtm,Tomo Kan Dogon,I
+1,language,90,Dogon,5,ML,dts,Toro So Dogon,I
+1,language,91,Tamasheq,5,ML,taq,Tamasheq,I
+1,language,91,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
+1,language,92,Bobo,5,ML,bmq,Bomu,I
+1,language,93,Bozo,5,ML,boz,Tiéyaxo Bozo,I
+1,language,93,Bozo,5,ML,bze,Jenaama Bozo,I
+1,language,94,Khasonke,5,ML,kao,Xaasongaxango,I
+1,language,95,Arabe,5,ML,mey,Hassaniyya,I
+1,language,96,Maure,5,ML,mey,Hassaniyya,I
+1,language,98,Samoko,5,ML,dux,Duungooma,I
+1,language,99,Bella,5,ML,ses,Koyraboro Senni Songhai,I
+1,language,100,Mianka,5,ML,myk,Mamara Senoufo,I
+1,language,101,Dafing,5,ML,rkm,Marka,I
+1,language,102,Mossi,5,ML,mos,Mossi,I
+1,language,103,Hausa,7,NG,hau,Hausa,I
+1,language,104,Yoruba,7,NG,yor,Yoruba,I
+1,language,105,Ibo,7,NG,ibo,Igbo,I
+1,language,106,Tiv,7,NG,tiv,Tiv,I
+1,language,107,Ijaw,7,NG,ijc,Izon,I
+1,language,107,Ijaw,7,NG,ijs,Southeast Ijo,I
+1,language,108,Nupe,7,NG,nup,Nupe-Nupe-Tako,I
+1,language,109,Kanuri,7,NG,kau,Kanuri,M
+1,language,110,Ibibio-Efik,7,NG,efi,Efik,I
+1,language,110,Ibibio-Efik,7,NG,ibb,Ibibio,I
+1,language,111,Edo,7,NG,bin,Bini,I
+1,language,113,Irobo/Urhobo,7,NG,urh,Urhobo,I
+1,language,114,Idoma,7,NG,idu,Idoma,I
+1,language,115,Calabar,7,NG,efi,Efik,I
+1,language,116,Ogoja,7,NG,yba,Yala,I
+1,language,117,Knale,7,NG,mis,Uncoded languages,S
+1,language,118,Igala,7,NG,igl,Igala,I
+1,language,119,Boki,7,NG,bky,Bokyi,I
+1,language,120,Igbira,7,NG,igb,Ebira,I
+1,language,121,Ikpon,7,NG,mis,Uncoded languages,S
+1,language,122,Isoko,7,NG,iso,Isoko,I
+1,language,123,Ikan,7,NG,mis,Uncoded languages,S
+1,language,124,Ishan/Esan,7,NG,ish,Esan,I
+1,language,125,Anam,7,NG,mis,Uncoded languages,S
+1,language,126,Annag,7,NG,mis,Uncoded languages,S
+1,language,127,Itsekiri,7,NG,its,Isekiri,I
+1,language,128,Ika,7,NG,ikk,Ika,I
+1,language,129,Ukwale,7,NG,ukw,Ukwuani-Aboh-Ndoni,I
+1,language,130,Epie,7,NG,epi,Epie,I
+1,language,131,Tangoa,7,NG,uta,Otank,I
+1,language,132,Omoku,7,NG,mis,Uncoded languages,S
+1,language,133,Ora,7,NG,mis,Uncoded languages,S
+1,language,134,Auche,7,NG,mis,Uncoded languages,S
+1,language,135,Okirika,7,NG,mis,Uncoded languages,S
+1,language,136,Esako,7,NG,mis,Uncoded languages,S
+1,language,137,Okpe,7,NG,oke,Okpe (Southwestern Edo),I
+1,language,138,Owan,7,NG,mis,Uncoded languages,S
+1,language,139,Ikwerre,7,NG,ikw,Ikwere,I
+1,language,140,Ibani,7,NG,iby,Ibani,I
+1,language,141,Kalabari,7,NG,ijn,Kalabari,I
+1,language,142,Ogoni,7,NG,ogo,Khana,I
+1,language,143,Akassa,7,NG,ijs,Southeast Ijo,I
+1,language,145,Berieberi,7,NG,knc,Central Kanuri,I
+1,language,146,Fulani,7,NG,fub,Adamawa Fulfulde,I
+1,language,147,Kagoro,7,NG,kcg,Tyap,I
+1,language,148,Bekwarr,7,NG,bkv,Bekwarra,I
+1,language,149,Nkwana,7,NG,mis,Uncoded languages,S
+1,language,150,Babur,7,NG,bwr,Bura-Pabir,I
+1,language,151,Kiiba,7,NG,mis,Uncoded languages,S
+1,language,152,Nungu,7,NG,rin,Nungu,I
+1,language,153,Kabba/Koro,7,NG,ahs,Ashe,I
+1,language,153,Kabba/Koro,7,NG,bqv,Koro Wachi,I
+1,language,153,Kabba/Koro,7,NG,ldb,Dũya,I
+1,language,153,Kabba/Koro,7,NG,yes,Nyankpa,I
+1,language,154,Eggon,7,NG,ego,Eggon,I
+1,language,155,Kuba,7,NG,ruk,Che,I
+1,language,156,Madara,7,NG,mis,Uncoded languages,S
+1,language,157,Bura,7,NG,bwr,Bura-Pabir,I
+1,language,158,Margi,7,NG,mrt,Marghi Central,I
+1,language,159,Cabarmawa,7,NG,mis,Uncoded languages,S
+1,language,160,Kibaku,7,NG,ckl,Cibak,I
+1,language,161,Mafa,7,NG,maf,Mafa,I
+1,language,162,Beron/Birom,7,NG,bom,Berom,I
+1,language,163,Angas,7,NG,anc,Ngas,I
+1,language,164,Iregwe,7,NG,iri,Irigwe,I
+1,language,165,Afizere,7,NG,izr,Izere,I
+1,language,166,Koro,7,NG,ahs,Ashe,I
+1,language,166,Koro,7,NG,bqv,Koro Wachi,I
+1,language,166,Koro,7,NG,ldb,Dũya,I
+1,language,166,Koro,7,NG,yes,Nyankpa,I
+1,language,167,Normana,7,NG,nbr,Numana-Nunku-Gbantu-Numbu,I
+1,language,168,Miango,7,NG,iri,Irigwe,I
+1,language,169,Gyerawa,7,NG,mis,Uncoded languages,S
+1,language,170,Eterco,7,NG,mis,Uncoded languages,S
+1,language,171,Zar,7,NG,say,Saya,I
+1,language,172,Lantan,7,NG,mis,Uncoded languages,S
+1,language,173,Mwaghauw,7,NG,sur,Mwaghavul,I
+1,language,174,Pyem,7,NG,pym,Fyam,I
+1,language,175,Chawai,7,NG,cch,Atsam,I
+1,language,176,Gbaji,7,NG,gbr,Gbagyi,I
+1,language,177,Nanba/Wanba,7,NG,mis,Uncoded languages,S
+1,language,178,Jarawa,7,NG,jgk,Gwak,I
+1,language,178,Jarawa,7,NG,jjr,Bankal,I
+1,language,179,Katap,7,NG,kcg,Tyap,I
+1,language,180,Tangale,7,NG,tan,Tangale,I
+1,language,181,Waja,7,NG,wja,Waja,I
+1,language,182,Jukun,7,NG,jbu,Jukun Takum,I
+1,language,183,Bayam,7,NG,gya,Northwest Gbaya,I
+1,language,184,Shuwa Arab,7,NG,shu,Chadian Arabic,I
+1,language,185,Ndochi,7,NG,mis,Uncoded languages,S
+1,language,186,Kare Kare,7,NG,kai,Karekare,I
+1,language,187,Gwari,7,NG,gbr,Gbagyi,I
+1,language,187,Gwari,7,NG,gby,Gbari,I
+1,language,188,Rukuba,7,NG,ruk,Che,I
+1,language,189,Alur,10,UG,alz,Alur,I
+1,language,190,Ateso,10,UG,teo,Teso,I
+1,language,191,Kakwa,10,UG,keo,Kakwa,I
+1,language,192,Kinyarwanda,10,UG,kin,Kinyarwanda,I
+1,language,193,Kiswahili,10,UG,swh,Swahili (individual language),I
+1,language,194,Luganda,10,UG,lug,Ganda,I
+1,language,195,Lugbara,10,UG,lgg,Lugbara,I
+1,language,196,Lumasaba,10,UG,myx,Masaaba,I
+1,language,197,Luo,10,UG,ach,Acoli,I
+1,language,197,Luo,10,UG,adh,Adhola,I
+1,language,197,Luo,10,UG,alz,Alur,I
+1,language,197,Luo,10,UG,kdi,Kumam,I
+1,language,197,Luo,10,UG,laj,Lango (Uganda),I
+1,language,197,Luo,10,UG,lth,Thur,I
+1,language,198,Lusoga,10,UG,xog,Soga,I
+1,language,199,Madi,10,UG,mhi,Ma'di,I
+1,language,199,Madi,10,UG,snm,Southern Ma'di,I
+1,language,200,Ruhororo,10,UG,nyn,Nyankole,I
+1,language,201,Rukiga,10,UG,cgg,Chiga,I
+1,language,202,Runyoro,10,UG,nyo,Nyoro,I
+1,language,203,Rutooro,10,UG,ttj,Tooro,I
+1,language,204,Ruyankole,10,UG,nyn,Nyankole,I
+1,language,205,Samia-Lugwe,10,UG,lsm,Saamia,I
+1,language,206,Swahili,9,TZ,swh,Swahili (individual language),I
+1,language,207,Chagga,9,TZ,old,Mochi,I
+1,language,208,Kurya,9,TZ,kuj,Kuria,I
+1,language,209,Nyakyusa,9,TZ,nyy,Nyakyusa-Ngonde,I
+1,language,210,Pare,9,TZ,asa,Asu (Tanzania),I
+1,language,211,Haya,9,TZ,hay,Haya,I
+1,language,212,Sukuma,9,TZ,suk,Sukuma,I
+1,language,213,Luguru,9,TZ,ruf,Luguru,I
+1,language,214,Hehe,9,TZ,heh,Hehe,I
+1,language,215,Masai,9,TZ,mas,Masai,I
+1,language,216,Mbulu,9,TZ,irk,Iraqw,I
+1,language,217,Makonde,9,TZ,kde,Makonde,I
+1,language,218,Ngoni,9,TZ,ngo,Ngoni,I
+1,language,219,Fipa,9,TZ,fip,Fipa,I
+1,language,220,Nyamwezi,9,TZ,nym,Nyamwezi,I
+1,language,221,Jaluo,9,TZ,luo,Luo (Kenya and Tanzania),I
+1,language,222,Zaramo,9,TZ,zaj,Zaramo,I
+1,language,995,Other,1,BW,und,Undetermined,S
+1,language,995,Other,2,GH,und,Undetermined,S
+1,language,995,Other,3,LS,und,Undetermined,S
+1,language,995,Other,4,MW,und,Undetermined,S
+1,language,995,Other,7,NG,und,Undetermined,S
+1,language,995,Other,9,TZ,und,Undetermined,S
+1,language,995,Other,10,UG,und,Undetermined,S
+1,language,995,Other,8,ZA,und,Undetermined,S
+1,language,995,Other,11,ZM,und,Undetermined,S
+1,language,995,Other,12,ZW,und,Undetermined,S
+1,language,998,Refused to answer,4,MW,und,Undetermined,S
+1,language,999,Missing data,1,BW,und,Undetermined,S
+1,language,999,Missing data,2,GH,und,Undetermined,S
+1,language,999,Missing data,3,LS,und,Undetermined,S
+1,language,999,Missing data,4,MW,und,Undetermined,S
+1,language,999,Missing data,6,NA,und,Undetermined,S
+1,language,999,Missing data,10,UG,und,Undetermined,S
+1,language,999,Missing data,11,ZM,und,Undetermined,S
+1,language,999,Missing data,12,ZW,und,Undetermined,S
+2,q110,-1,Missing,16,SN,und,Undetermined,S
+2,q110,1,English,2,GH,eng,English,I
+2,q110,1,English,6,NA,eng,English,I
+2,q110,1,English,8,ZA,eng,English,I
+2,q110,2,French,5,ML,fra,French,I
+2,q110,2,French,16,SN,fra,French,I
+2,q110,3,Portuguese,15,MZ,por,Portuguese,I
+2,q110,4,Kiswahili,14,KE,swh,Swahili (individual language),I
+2,q110,4,Kiswahili,9,TZ,swh,Swahili (individual language),I
+2,q110,50,Crioulo,13,CV,kea,Kabuverdianu,I
+2,q110,60,Luganda,10,UG,lug,Ganda,I
+2,q110,61,Lusoga,10,UG,xog,Soga,I
+2,q110,62,Ateso,10,UG,teo,Teso,I
+2,q110,63,Rutoro,10,UG,ttj,Tooro,I
+2,q110,64,Rukiga,10,UG,cgg,Chiga,I
+2,q110,65,Lumasaba,10,UG,myx,Masaaba,I
+2,q110,66,Luo,10,UG,ach,Acoli,I
+2,q110,66,Luo,10,UG,adh,Adhola,I
+2,q110,66,Luo,10,UG,alz,Alur,I
+2,q110,66,Luo,10,UG,kdi,Kumam,I
+2,q110,66,Luo,10,UG,laj,Lango (Uganda),I
+2,q110,66,Luo,10,UG,lth,Thur,I
+2,q110,67,Lugbara,10,UG,lgg,Lugbara,I
+2,q110,68,Alur,10,UG,alz,Alur,I
+2,q110,70,Runyankole,10,UG,nyn,Nyankole,I
+2,q110,73,Samia-Lugwe,10,UG,lsm,Saamia,I
+2,q110,81,Emakhuwa,15,MZ,vmw,Makhuwa,I
+2,q110,82,Cisena,15,MZ,seh,Sena,I
+2,q110,83,Cindau,15,MZ,ndc,Ndau,I
+2,q110,84,Cinyanja,15,MZ,nya,Nyanja,I
+2,q110,85,Xichangana,15,MZ,tso,Tsonga,I
+2,q110,86,Cicopi,15,MZ,cce,Chopi,I
+2,q110,87,Gitonga,15,MZ,toh,Gitonga,I
+2,q110,88,Shimakonde,15,MZ,kde,Makonde,I
+2,q110,89,Echuwabu,15,MZ,chw,Chuwabu,I
+2,q110,90,Ajaua,15,MZ,yao,Yao,I
+2,q110,91,Cinyungwe,15,MZ,nyu,Nyungwe,I
+2,q110,92,Citshwa,15,MZ,tsc,Tswa,I
+2,q110,93,Chitewe,15,MZ,twx,Tewe,I
+2,q110,98,Shona,15,MZ,ndc,Ndau,I
+2,q110,100,Afrikaans,8,ZA,afr,Afrikaans,I
+2,q110,101,Ndebele,8,ZA,nbl,South Ndebele,I
+2,q110,102,Xhosa,8,ZA,xho,Xhosa,I
+2,q110,103,Pedi/Spedi/North Sotho,8,ZA,nso,Pedi,I
+2,q110,104,Sesotho/Sotho/South sotho,8,ZA,sot,Southern Sotho,I
+2,q110,105,Setswana/Tswana,8,ZA,tsn,Tswana,I
+2,q110,106,Shangaan,8,ZA,tso,Tsonga,I
+2,q110,108,Venda,8,ZA,ven,Venda,I
+2,q110,109,Zulu,8,ZA,zul,Zulu,I
+2,q110,120,Akan,2,GH,aka,Akan,M
+2,q110,121,Dagbani,2,GH,dag,Dagbani,I
+2,q110,122,Ewe,2,GH,ewe,Ewe,I
+2,q110,123,Ga,2,GH,gaa,Ga,I
+2,q110,124,Hausa,2,GH,hau,Hausa,I
+2,q110,140,Tumbuka,4,MW,tum,Tumbuka,I
+2,q110,142,Lambya,4,MW,lai,Lambya,I
+2,q110,143,Chewa,4,MW,nya,Nyanja,I
+2,q110,144,Yao,4,MW,yao,Yao,I
+2,q110,146,Lomwe,4,MW,lon,Malawi Lomwe,I
+2,q110,164,Bambara,5,ML,bam,Bambara,I
+2,q110,165,Peuhl,5,ML,ffm,Maasina Fulfulde,I
+2,q110,167,Sonrhai,5,ML,hmb,Humburi Senni Songhay,I
+2,q110,167,Sonrhai,5,ML,khq,Koyra Chiini Songhay,I
+2,q110,167,Sonrhai,5,ML,ses,Koyraboro Senni Songhai,I
+2,q110,168,Malinke,5,ML,kao,Xaasongaxango,I
+2,q110,168,Malinke,5,ML,mlq,Western Maninkakan,I
+2,q110,168,Malinke,5,ML,mwk,Kita Maninkakan,I
+2,q110,177,Tamasheq,5,ML,taq,Tamasheq,I
+2,q110,177,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
+2,q110,180,Sesotho,3,LS,sot,Southern Sotho,I
+2,q110,220,Wolof,16,SN,wol,Wolof,I
+2,q110,221,Serer,16,SN,srr,Serer,I
+2,q110,222,Mandinka,16,SN,mnk,Mandinka,I
+2,q110,223,Pulaar,16,SN,fuc,Pulaar,I
+2,q110,224,Diola,16,SN,dyo,Jola-Fonyi,I
+2,q110,240,Setswana,1,BW,tsn,Tswana,I
+2,q110,242,Sekalanga,1,BW,kck,Kalanga,I
+2,q110,260,Hausa,7,NG,hau,Hausa,I
+2,q110,261,Yoruba,7,NG,yor,Yoruba,I
+2,q110,262,Igbo,7,NG,ibo,Igbo,I
+2,q110,263,Tiv,7,NG,tiv,Tiv,I
+2,q110,264,Ijaw,7,NG,ijc,Izon,I
+2,q110,264,Ijaw,7,NG,ijs,Southeast Ijo,I
+2,q110,266,Nupe,7,NG,nup,Nupe-Nupe-Tako,I
+2,q110,267,Ibibio,7,NG,ibb,Ibibio,I
+2,q110,268,Efik,7,NG,efi,Efik,I
+2,q110,269,Edo,7,NG,bin,Bini,I
+2,q110,270,Igala/Idoma,7,NG,igl,Igala,I
+2,q110,271,Urhobo,7,NG,urh,Urhobo,I
+2,q110,272,Ebira,7,NG,igb,Ebira,I
+2,q110,273,Fulani,7,NG,fub,Adamawa Fulfulde,I
+2,q110,275,Kalabari,7,NG,ijn,Kalabari,I
+2,q110,276,Ikewere,7,NG,ikw,Ikwere,I
+2,q110,280,Shona,12,ZW,sna,Shona,I
+2,q110,281,Ndebele,12,ZW,nde,North Ndebele,I
+2,q110,300,Bemba,11,ZM,bem,Bemba (Zambia),I
+2,q110,302,kaonda,11,ZM,kqn,Kaonde,I
+2,q110,303,Lozi,11,ZM,loz,Lozi,I
+2,q110,305,Luvale,11,ZM,lue,Luvale,I
+2,q110,306,Nyanja,11,ZM,nya,Nyanja,I
+2,q110,307,Tonga,11,ZM,toi,Tonga (Zambia),I
+2,q110,308,Tumbuka,11,ZM,tum,Tumbuka,I
+2,q110,310,Nyika,11,ZM,nih,Nyiha (Tanzania),I
+2,q110,310,Nyika,11,ZM,nkv,Nyika (Malawi and Zambia),I
+2,q110,311,Lamba,11,ZM,lam,Lamba,I
+2,q110,321,Ovambo languages,6,NA,kua,Kuanyama,I
+2,q110,324,Herero languages,6,NA,her,Herero,I
+2,q110,380,Kalenjin,14,KE,kln,Kalenjin,M
+2,q110,381,Kamba,14,KE,kam,Kamba (Kenya),I
+2,q110,382,Kikuyu,14,KE,kik,Kikuyu,I
+2,q110,383,Kisii,14,KE,guz,Gusii,I
+2,q110,384,Luhya,14,KE,luy,Luyia,M
+2,q110,385,Luo,14,KE,luo,Luo (Kenya and Tanzania),I
+2,q110,386,Maasai/Samburu,14,KE,mas,Masai,I
+2,q110,386,Maasai/Samburu,14,KE,saq,Samburu,I
+2,q110,387,Mijikenda,14,KE,dig,Digo,I
+2,q110,387,Mijikenda,14,KE,dug,Duruma,I
+2,q110,387,Mijikenda,14,KE,nyf,Giryama,I
+2,q110,388,Somali,14,KE,som,Somali,I
+2,q110,389,Taita,14,KE,dav,Taita,I
+2,q110,390,Turkana,14,KE,tuv,Turkana,I
+2,q110,391,Meru,14,KE,mer,Meru,I
+2,q110,392,Embu,14,KE,ebu,Embu,I
+2,q110,393,Borana,14,KE,gax,Borana-Arsi-Guji Oromo,I
+2,q110,397,Bajuni,14,KE,swh,Swahili (individual language),I
+2,q110,398,Taveta,14,KE,tvs,Taveta,I
+2,q110,399,Gujarati,14,KE,guj,Gujarati,I
+2,q110,800,Berom,7,NG,bom,Berom,I
+2,q110,801,Chip,7,NG,mjs,Miship,I
+2,q110,802,Jarawa,7,NG,jgk,Gwak,I
+2,q110,802,Jarawa,7,NG,jjr,Bankal,I
+2,q110,803,Mada,7,NG,mda,Mada (Nigeria),I
+2,q110,804,Ron,7,NG,cla,Ron,I
+2,q110,805,Gbagyi,7,NG,gbr,Gbagyi,I
+2,q110,806,Taba,7,NG,ldb,Dũya,I
+2,q110,808,Okun,7,NG,yor,Yoruba,I
+2,q110,809,Mgas,7,NG,anc,Ngas,I
+2,q110,995,Other,2,GH,und,Undetermined,S
+2,q110,995,Other,7,NG,und,Undetermined,S
+2,q83,-1,Missing,14,KE,und,Undetermined,S
+2,q83,-1,Missing,4,MW,und,Undetermined,S
+2,q83,-1,Missing,15,MZ,und,Undetermined,S
+2,q83,-1,Missing,6,NA,und,Undetermined,S
+2,q83,-1,Missing,16,SN,und,Undetermined,S
+2,q83,-1,Missing,10,UG,und,Undetermined,S
+2,q83,-1,Missing,12,ZW,und,Undetermined,S
+2,q83,1,English,1,BW,eng,English,I
+2,q83,1,English,2,GH,eng,English,I
+2,q83,1,English,14,KE,eng,English,I
+2,q83,1,English,6,NA,eng,English,I
+2,q83,1,English,10,UG,eng,English,I
+2,q83,1,English,8,ZA,eng,English,I
+2,q83,1,English,11,ZM,eng,English,I
+2,q83,1,English,12,ZW,eng,English,I
+2,q83,2,French,1,BW,fra,French,I
+2,q83,2,French,5,ML,fra,French,I
+2,q83,2,French,6,NA,fra,French,I
+2,q83,3,Portuguese,1,BW,por,Portuguese,I
+2,q83,3,Portuguese,13,CV,por,Portuguese,I
+2,q83,3,Portuguese,15,MZ,por,Portuguese,I
+2,q83,3,Portuguese,6,NA,por,Portuguese,I
+2,q83,3,Portuguese,9,TZ,por,Portuguese,I
+2,q83,3,Portuguese,8,ZA,por,Portuguese,I
+2,q83,3,Portuguese,11,ZM,por,Portuguese,I
+2,q83,3,Portuguese,12,ZW,por,Portuguese,I
+2,q83,4,Kiswahili,1,BW,swh,Swahili (individual language),I
+2,q83,4,Kiswahili,14,KE,swh,Swahili (individual language),I
+2,q83,4,Kiswahili,15,MZ,swh,Swahili (individual language),I
+2,q83,4,Kiswahili,9,TZ,swh,Swahili (individual language),I
+2,q83,4,Kiswahili,10,UG,swh,Swahili (individual language),I
+2,q83,4,Kiswahili,11,ZM,swc,Congo Swahili,I
+2,q83,50,Crioulo,13,CV,kea,Kabuverdianu,I
+2,q83,60,Luganda,10,UG,lug,Ganda,I
+2,q83,61,Lusoga,10,UG,xog,Soga,I
+2,q83,62,Ateso,10,UG,teo,Teso,I
+2,q83,63,Rutoro,10,UG,ttj,Tooro,I
+2,q83,64,Rukiga,10,UG,cgg,Chiga,I
+2,q83,65,Lumasaba,10,UG,myx,Masaaba,I
+2,q83,66,Luo,10,UG,ach,Acoli,I
+2,q83,66,Luo,10,UG,adh,Adhola,I
+2,q83,66,Luo,10,UG,alz,Alur,I
+2,q83,66,Luo,10,UG,kdi,Kumam,I
+2,q83,66,Luo,10,UG,laj,Lango (Uganda),I
+2,q83,66,Luo,10,UG,lth,Thur,I
+2,q83,67,Lugbara,10,UG,lgg,Lugbara,I
+2,q83,68,Alur,10,UG,alz,Alur,I
+2,q83,69,Madi,10,UG,mhi,Ma'di,I
+2,q83,69,Madi,10,UG,snm,Southern Ma'di,I
+2,q83,70,Runyankole,10,UG,nyn,Nyankole,I
+2,q83,71,Runyoro,10,UG,nyo,Nyoro,I
+2,q83,72,Rukonjo,10,UG,koo,Konzo,I
+2,q83,73,Samia-Lugwe,10,UG,lsm,Saamia,I
+2,q83,74,Kinyarwanda,10,UG,kin,Kinyarwanda,I
+2,q83,75,Rufumbira,10,UG,kin,Kinyarwanda,I
+2,q83,76,Kakwa,10,UG,keo,Kakwa,I
+2,q83,77,Other Western languages,10,UG,und,Undetermined,S
+2,q83,78,Other Eastern languages,10,UG,und,Undetermined,S
+2,q83,79,Other Northern languages,10,UG,und,Undetermined,S
+2,q83,81,Emakhuwa,15,MZ,vmw,Makhuwa,I
+2,q83,82,Cisena,15,MZ,seh,Sena,I
+2,q83,83,Cindau,15,MZ,ndc,Ndau,I
+2,q83,84,Cinyanja,15,MZ,nya,Nyanja,I
+2,q83,85,Xichangana,15,MZ,tso,Tsonga,I
+2,q83,86,Cicopi,15,MZ,cce,Chopi,I
+2,q83,87,Gitonga,15,MZ,toh,Gitonga,I
+2,q83,88,Shimakonde,15,MZ,kde,Makonde,I
+2,q83,89,Echuwabu,15,MZ,chw,Chuwabu,I
+2,q83,90,Ajaua,15,MZ,yao,Yao,I
+2,q83,91,Cinyungwe,15,MZ,nyu,Nyungwe,I
+2,q83,92,Citshwa,15,MZ,tsc,Tswa,I
+2,q83,93,Chitewe,15,MZ,twx,Tewe,I
+2,q83,94,Xirhonga,15,MZ,rng,Ronga,I
+2,q83,95,Xibarue,15,MZ,bwg,Barwe,I
+2,q83,96,Cimanyika,15,MZ,mxc,Manyika,I
+2,q83,97,Chichewa,15,MZ,nya,Nyanja,I
+2,q83,98,Shona,15,MZ,ndc,Ndau,I
+2,q83,99,Swazi,15,MZ,ssw,Swati,I
+2,q83,100,Afrikaans,8,ZA,afr,Afrikaans,I
+2,q83,101,Ndebele,8,ZA,nbl,South Ndebele,I
+2,q83,102,Xhosa,8,ZA,xho,Xhosa,I
+2,q83,103,Pedi/Spedi/North Sotho,8,ZA,nso,Pedi,I
+2,q83,104,Sesotho/Sotho/South sotho,8,ZA,sot,Southern Sotho,I
+2,q83,105,Setswana/Tswana,8,ZA,tsn,Tswana,I
+2,q83,106,Shangaan,8,ZA,tso,Tsonga,I
+2,q83,107,Swazi,8,ZA,ssw,Swati,I
+2,q83,108,Venda,8,ZA,ven,Venda,I
+2,q83,109,Zulu,8,ZA,zul,Zulu,I
+2,q83,120,Akan,2,GH,aka,Akan,M
+2,q83,121,Dagbani,2,GH,dag,Dagbani,I
+2,q83,122,Ewe,2,GH,ewe,Ewe,I
+2,q83,123,Ga,2,GH,gaa,Ga,I
+2,q83,124,Hausa,2,GH,hau,Hausa,I
+2,q83,140,Tumbuka,4,MW,tum,Tumbuka,I
+2,q83,141,Nkhonde,4,MW,nyy,Nyakyusa-Ngonde,I
+2,q83,143,Chewa,4,MW,nya,Nyanja,I
+2,q83,144,Yao,4,MW,yao,Yao,I
+2,q83,145,Ngoni,4,MW,nya,Nyanja,I
+2,q83,146,Lomwe,4,MW,lon,Malawi Lomwe,I
+2,q83,147,Mang'anja,4,MW,nya,Nyanja,I
+2,q83,148,Sena,4,MW,swk,Malawi Sena,I
+2,q83,149,Chindali,4,MW,ndh,Ndali,I
+2,q83,150,Senga,4,MW,tum,Tumbuka,I
+2,q83,151,Tonga,4,MW,tog,Tonga (Nyasa),I
+2,q83,160,Arabic,5,ML,mey,Hassaniyya,I
+2,q83,161,Haoussa,5,ML,hau,Hausa,I
+2,q83,162,Wolof,5,ML,ffm,Maasina Fulfulde,I
+2,q83,163,Trouka,5,ML,ffm,Maasina Fulfulde,I
+2,q83,163,Trouka,5,ML,fuc,Pulaar,I
+2,q83,164,Bambara,5,ML,bam,Bambara,I
+2,q83,165,Peuhl,5,ML,ffm,Maasina Fulfulde,I
+2,q83,166,Soninke,5,ML,snk,Soninke,I
+2,q83,167,Sonrhai,5,ML,hmb,Humburi Senni Songhay,I
+2,q83,167,Sonrhai,5,ML,khq,Koyra Chiini Songhay,I
+2,q83,167,Sonrhai,5,ML,ses,Koyraboro Senni Songhai,I
+2,q83,168,Malinke,5,ML,kao,Xaasongaxango,I
+2,q83,168,Malinke,5,ML,mlq,Western Maninkakan,I
+2,q83,168,Malinke,5,ML,mwk,Kita Maninkakan,I
+2,q83,169,Khassonke,5,ML,kao,Xaasongaxango,I
+2,q83,170,Maure,5,ML,mey,Hassaniyya,I
+2,q83,171,Senufo,5,ML,myk,Mamara Senoufo,I
+2,q83,171,Senufo,5,ML,shz,Syenara Senoufo,I
+2,q83,171,Senufo,5,ML,spp,Supyire Senoufo,I
+2,q83,172,Mianka,5,ML,myk,Mamara Senoufo,I
+2,q83,173,Samoko,5,ML,dux,Duungooma,I
+2,q83,174,Bobo,5,ML,bmq,Bomu,I
+2,q83,175,Bozo,5,ML,boz,Tiéyaxo Bozo,I
+2,q83,175,Bozo,5,ML,bze,Jenaama Bozo,I
+2,q83,176,Dogon,5,ML,dds,Donno So Dogon,I
+2,q83,176,Dogon,5,ML,djm,Jamsay Dogon,I
+2,q83,176,Dogon,5,ML,dtm,Tomo Kan Dogon,I
+2,q83,176,Dogon,5,ML,dts,Toro So Dogon,I
+2,q83,177,Tamasheq,5,ML,taq,Tamasheq,I
+2,q83,177,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
+2,q83,178,Mossi,5,ML,mos,Mossi,I
+2,q83,180,Sesotho,3,LS,sot,Southern Sotho,I
+2,q83,182,Seputhi,3,LS,ssw,Swati,I
+2,q83,183,Sephotsa,3,LS,xho,Xhosa,I
+2,q83,201,Kurya,9,TZ,kuj,Kuria,I
+2,q83,202,Nyakyusa,9,TZ,nyy,Nyakyusa-Ngonde,I
+2,q83,203,Pare,9,TZ,asa,Asu (Tanzania),I
+2,q83,204,Haya,9,TZ,hay,Haya,I
+2,q83,205,Sukuma,9,TZ,suk,Sukuma,I
+2,q83,207,Hehe,9,TZ,heh,Hehe,I
+2,q83,210,Makonde,9,TZ,kde,Makonde,I
+2,q83,211,Ngoni,9,TZ,ngo,Ngoni,I
+2,q83,213,Nyamwezi,9,TZ,nym,Nyamwezi,I
+2,q83,215,Zaramo,9,TZ,zaj,Zaramo,I
+2,q83,220,Wolof,16,SN,wol,Wolof,I
+2,q83,221,Serer,16,SN,srr,Serer,I
+2,q83,222,Mandinka,16,SN,mnk,Mandinka,I
+2,q83,223,Pulaar,16,SN,fuc,Pulaar,I
+2,q83,224,Diola,16,SN,dyo,Jola-Fonyi,I
+2,q83,225,Soninke,16,SN,snk,Soninke,I
+2,q83,240,Setswana,1,BW,tsn,Tswana,I
+2,q83,241,Sekalanga,1,BW,kck,Kalanga,I
+2,q83,242,Sesarwa,1,BW,hio,Tsoa,I
+2,q83,243,Sesobeya,1,BW,sbs,Subiya,I
+2,q83,244,Sekgalagadi,1,BW,xkv,Kgalagadi,I
+2,q83,245,Seherero,1,BW,her,Herero,I
+2,q83,246,Sembukushu,1,BW,mhw,Mbukushu,I
+2,q83,247,Seyei,1,BW,yey,Yeyi,I
+2,q83,260,Hausa,7,NG,hau,Hausa,I
+2,q83,261,Yoruba,7,NG,yor,Yoruba,I
+2,q83,262,Igbo,7,NG,ibo,Igbo,I
+2,q83,263,Tiv,7,NG,tiv,Tiv,I
+2,q83,264,Ijaw,7,NG,ijc,Izon,I
+2,q83,264,Ijaw,7,NG,ijs,Southeast Ijo,I
+2,q83,265,Kanuri,7,NG,kau,Kanuri,M
+2,q83,266,Nupe,7,NG,nup,Nupe-Nupe-Tako,I
+2,q83,267,Ibibio,7,NG,ibb,Ibibio,I
+2,q83,268,Efik,7,NG,efi,Efik,I
+2,q83,269,Edo,7,NG,bin,Bini,I
+2,q83,270,Igala/Idoma,7,NG,igl,Igala,I
+2,q83,271,Urhobo,7,NG,urh,Urhobo,I
+2,q83,272,Ebira,7,NG,igb,Ebira,I
+2,q83,273,Fulani,7,NG,fub,Adamawa Fulfulde,I
+2,q83,274,Isoko,7,NG,iso,Isoko,I
+2,q83,275,kalabari,7,NG,ijn,Kalabari,I
+2,q83,276,Ikewere,7,NG,ikw,Ikwere,I
+2,q83,277,Gwari,7,NG,gbr,Gbagyi,I
+2,q83,277,Gwari,7,NG,gby,Gbari,I
+2,q83,278,Sidawa,7,NG,say,Saya,I
+2,q83,279,Pidgin English,7,NG,pcm,Nigerian Pidgin,I
+2,q83,280,Shona,12,ZW,sna,Shona,I
+2,q83,281,Ndebele,12,ZW,nde,North Ndebele,I
+2,q83,282,Venda,12,ZW,ven,Venda,I
+2,q83,283,Tonga,12,ZW,toi,Tonga (Zambia),I
+2,q83,284,Sena,12,ZW,nse,Nsenga,I
+2,q83,300,Bemba,11,ZM,bem,Bemba (Zambia),I
+2,q83,301,Chewa,11,ZM,nya,Nyanja,I
+2,q83,302,kaonde,11,ZM,kqn,Kaonde,I
+2,q83,303,Lozi,11,ZM,loz,Lozi,I
+2,q83,304,Lunda,11,ZM,lun,Lunda,I
+2,q83,305,Luvale,11,ZM,lue,Luvale,I
+2,q83,306,Nyanja,11,ZM,nya,Nyanja,I
+2,q83,307,Tonga,11,ZM,toi,Tonga (Zambia),I
+2,q83,308,Tumbuka,11,ZM,tum,Tumbuka,I
+2,q83,309,Senga,11,ZM,nse,Nsenga,I
+2,q83,310,Nyika,11,ZM,nih,Nyiha (Tanzania),I
+2,q83,310,Nyika,11,ZM,nkv,Nyika (Malawi and Zambia),I
+2,q83,311,Lamba,11,ZM,lam,Lamba,I
+2,q83,312,Bisa,11,ZM,leb,Lala-Bisa,I
+2,q83,313,Lala,11,ZM,leb,Lala-Bisa,I
+2,q83,314,Nsenga,11,ZM,nse,Nsenga,I
+2,q83,315,Lenje,11,ZM,leh,Lenje,I
+2,q83,316,Ngoni,11,ZM,nse,Nsenga,I
+2,q83,317,Namwanga,11,ZM,mwn,Nyamwanga,I
+2,q83,318,Lambya,11,ZM,lai,Lambya,I
+2,q83,319,Soli,11,ZM,sby,Soli,I
+2,q83,320,Afrikaans,6,NA,afr,Afrikaans,I
+2,q83,321,Ovambo languages,6,NA,kua,Kuanyama,I
+2,q83,323,kavango languages,6,NA,diu,Diriku,I
+2,q83,323,kavango languages,6,NA,kwn,Kwangali,I
+2,q83,323,kavango languages,6,NA,mho,Mashi (Zambia),I
+2,q83,324,Herero languages,6,NA,her,Herero,I
+2,q83,325,Caprivi languages,6,NA,loz,Lozi,I
+2,q83,326,Nama / Damara,6,NA,naq,Khoekhoe,I
+2,q83,327,Tswana,6,NA,tsn,Tswana,I
+2,q83,328,German,6,NA,deu,German,I
+2,q83,380,Kalejin,14,KE,enb,Markweeta,I
+2,q83,380,Kalejin,14,KE,eyo,Keiyo,I
+2,q83,380,Kalejin,14,KE,niq,Nandi,I
+2,q83,380,Kalejin,14,KE,oki,Okiek,I
+2,q83,380,Kalejin,14,KE,pko,Pökoot,I
+2,q83,380,Kalejin,14,KE,sgc,Kipsigis,I
+2,q83,380,Kalejin,14,KE,spy,Sabaot,I
+2,q83,380,Kalejin,14,KE,tec,Terik,I
+2,q83,380,Kalejin,14,KE,tuy,Tugen,I
+2,q83,381,Kamba,14,KE,kam,Kamba (Kenya),I
+2,q83,382,Kikuyu,14,KE,kik,Kikuyu,I
+2,q83,383,Kisii,14,KE,guz,Gusii,I
+2,q83,384,Luhya,14,KE,luy,Luyia,M
+2,q83,385,Luo,14,KE,luo,Luo (Kenya and Tanzania),I
+2,q83,386,Maasai/Samburu,14,KE,mas,Masai,I
+2,q83,386,Maasai/Samburu,14,KE,saq,Samburu,I
+2,q83,387,Mijikenda,14,KE,dig,Digo,I
+2,q83,387,Mijikenda,14,KE,dug,Duruma,I
+2,q83,387,Mijikenda,14,KE,nyf,Giryama,I
+2,q83,388,Somali,14,KE,som,Somali,I
+2,q83,389,Taita,14,KE,dav,Taita,I
+2,q83,390,Turkana,14,KE,tuv,Turkana,I
+2,q83,391,Meru,14,KE,mer,Meru,I
+2,q83,392,Embu,14,KE,ebu,Embu,I
+2,q83,393,Borana,14,KE,gax,Borana-Arsi-Guji Oromo,I
+2,q83,394,Kuria,14,KE,kuj,Kuria,I
+2,q83,395,Teso,14,KE,teo,Teso,I
+2,q83,396,Pokot,14,KE,pko,Pökoot,I
+2,q83,397,Bajuni,14,KE,swh,Swahili (individual language),I
+2,q83,399,Gujarati,14,KE,guj,Gujarati,I
+2,q83,440,Mambwe,11,ZM,mgr,Mambwe-Lungu,I
+2,q83,441,Chikunda,11,ZM,kdn,Kunda,I
+2,q83,442,Swaka,11,ZM,leb,Lala-Bisa,I
+2,q83,443,Luchazi,11,ZM,lch,Luchazi,I
+2,q83,444,Aushi,11,ZM,auh,Aushi,I
+2,q83,445,Chishinga,11,ZM,bem,Bemba (Zambia),I
+2,q83,446,Goba,11,ZM,sna,Shona,I
+2,q83,447,Nkoya,11,ZM,nka,Nkoya,I
+2,q83,800,Berom,7,NG,bom,Berom,I
+2,q83,801,Chip,7,NG,mjs,Miship,I
+2,q83,802,Jarawa,7,NG,jgk,Gwak,I
+2,q83,802,Jarawa,7,NG,jjr,Bankal,I
+2,q83,805,Gbagyi,7,NG,gbr,Gbagyi,I
+2,q83,806,Jaba,7,NG,ldb,Dũya,I
+2,q83,807,Esan,7,NG,ish,Esan,I
+2,q83,809,Mgas,7,NG,anc,Ngas,I
+2,q83,995,Other,1,BW,und,Undetermined,S
+2,q83,995,Other,2,GH,und,Undetermined,S
+2,q83,995,Other,14,KE,und,Undetermined,S
+2,q83,995,Other,15,MZ,und,Undetermined,S
+2,q83,995,Other,7,NG,und,Undetermined,S
+2,q83,995,Other,16,SN,und,Undetermined,S
+2,q83,995,Other,9,TZ,und,Undetermined,S
+2,q83,995,Other,10,UG,und,Undetermined,S
+2,q83,995,Other,8,ZA,und,Undetermined,S
+2,q83,995,Other,11,ZM,und,Undetermined,S
+2,q97,-1,Missing,14,KE,und,Undetermined,S
+2,q97,-1,Missing,4,MW,und,Undetermined,S
+2,q97,-1,Missing,15,MZ,und,Undetermined,S
+2,q97,-1,Missing,6,NA,und,Undetermined,S
+2,q97,-1,Missing,16,SN,und,Undetermined,S
+2,q97,1,English,1,BW,eng,English,I
+2,q97,1,English,2,GH,eng,English,I
+2,q97,1,English,14,KE,eng,English,I
+2,q97,1,English,4,MW,eng,English,I
+2,q97,1,English,6,NA,eng,English,I
+2,q97,1,English,7,NG,eng,English,I
+2,q97,1,English,16,SN,eng,English,I
+2,q97,1,English,10,UG,eng,English,I
+2,q97,1,English,8,ZA,eng,English,I
+2,q97,1,English,11,ZM,eng,English,I
+2,q97,1,English,12,ZW,eng,English,I
+2,q97,2,French,14,KE,fra,French,I
+2,q97,2,French,5,ML,fra,French,I
+2,q97,2,French,16,SN,fra,French,I
+2,q97,3,Portuguese,13,CV,por,Portuguese,I
+2,q97,3,Portuguese,14,KE,por,Portuguese,I
+2,q97,3,Portuguese,15,MZ,por,Portuguese,I
+2,q97,3,Portuguese,16,SN,por,Portuguese,I
+2,q97,3,Portuguese,8,ZA,por,Portuguese,I
+2,q97,3,Portuguese,11,ZM,por,Portuguese,I
+2,q97,4,Kiswahili,14,KE,swh,Swahili (individual language),I
+2,q97,4,Kiswahili,9,TZ,swh,Swahili (individual language),I
+2,q97,50,Crioulo,13,CV,kea,Kabuverdianu,I
+2,q97,60,Luganda,10,UG,lug,Ganda,I
+2,q97,61,Lusoga,10,UG,xog,Soga,I
+2,q97,62,Ateso,10,UG,teo,Teso,I
+2,q97,63,Rutoro,10,UG,ttj,Tooro,I
+2,q97,64,Rukiga,10,UG,cgg,Chiga,I
+2,q97,65,Lumasaba,10,UG,myx,Masaaba,I
+2,q97,66,Luo,10,UG,ach,Acoli,I
+2,q97,66,Luo,10,UG,adh,Adhola,I
+2,q97,66,Luo,10,UG,alz,Alur,I
+2,q97,66,Luo,10,UG,kdi,Kumam,I
+2,q97,66,Luo,10,UG,laj,Lango (Uganda),I
+2,q97,66,Luo,10,UG,lth,Thur,I
+2,q97,67,Lugbara,10,UG,lgg,Lugbara,I
+2,q97,68,Alur,10,UG,alz,Alur,I
+2,q97,69,Madi,10,UG,mhi,Ma'di,I
+2,q97,69,Madi,10,UG,snm,Southern Ma'di,I
+2,q97,70,Runyankole,10,UG,nyn,Nyankole,I
+2,q97,71,Runyoro,10,UG,nyo,Nyoro,I
+2,q97,72,Rukonjo,10,UG,koo,Konzo,I
+2,q97,73,Samia-Lugwe,10,UG,lsm,Saamia,I
+2,q97,76,Kakwa,10,UG,keo,Kakwa,I
+2,q97,80,National language,15,MZ,por,Portuguese,I
+2,q97,81,Emakhuwa,15,MZ,vmw,Makhuwa,I
+2,q97,82,Cisena,15,MZ,seh,Sena,I
+2,q97,83,Cindau,15,MZ,ndc,Ndau,I
+2,q97,84,Cinyanja,15,MZ,nya,Nyanja,I
+2,q97,85,Xichangana,15,MZ,tso,Tsonga,I
+2,q97,86,Cicopi,15,MZ,cce,Chopi,I
+2,q97,87,Gitonga,15,MZ,toh,Gitonga,I
+2,q97,88,Shimakonde,15,MZ,kde,Makonde,I
+2,q97,89,Echuwabu,15,MZ,chw,Chuwabu,I
+2,q97,90,Ajaua,15,MZ,yao,Yao,I
+2,q97,91,Cinyungwe,15,MZ,nyu,Nyungwe,I
+2,q97,92,Citshwa,15,MZ,tsc,Tswa,I
+2,q97,93,Chitewe,15,MZ,twx,Tewe,I
+2,q97,94,Xirhonga,15,MZ,rng,Ronga,I
+2,q97,95,Xibarue,15,MZ,bwg,Barwe,I
+2,q97,96,Cimanyika,15,MZ,mxc,Manyika,I
+2,q97,97,Chichewa,15,MZ,nya,Nyanja,I
+2,q97,98,Shona,15,MZ,ndc,Ndau,I
+2,q97,100,Afrikaans,8,ZA,afr,Afrikaans,I
+2,q97,101,Ndebele,8,ZA,nbl,South Ndebele,I
+2,q97,102,Xhosa,8,ZA,xho,Xhosa,I
+2,q97,103,Pedi/Spedi/North Sotho,8,ZA,nso,Pedi,I
+2,q97,104,Sesotho/Sotho/South sotho,8,ZA,sot,Southern Sotho,I
+2,q97,105,Setswana/Tswana,8,ZA,tsn,Tswana,I
+2,q97,106,Shangaan,8,ZA,tso,Tsonga,I
+2,q97,107,Swazi,8,ZA,ssw,Swati,I
+2,q97,108,Venda,8,ZA,ven,Venda,I
+2,q97,109,Zulu,8,ZA,zul,Zulu,I
+2,q97,120,Akan,2,GH,aka,Akan,M
+2,q97,121,Dagbani,2,GH,dag,Dagbani,I
+2,q97,122,Ewe,2,GH,ewe,Ewe,I
+2,q97,123,Ga,2,GH,gaa,Ga,I
+2,q97,124,Hausa,2,GH,hau,Hausa,I
+2,q97,140,Tumbuka,4,MW,tum,Tumbuka,I
+2,q97,143,Chewa,4,MW,nya,Nyanja,I
+2,q97,144,Yao,4,MW,yao,Yao,I
+2,q97,146,Lomwe,4,MW,lon,Malawi Lomwe,I
+2,q97,164,Bambara,5,ML,bam,Bambara,I
+2,q97,165,Peuhl,5,ML,ffm,Maasina Fulfulde,I
+2,q97,166,Soninke,5,ML,snk,Soninke,I
+2,q97,167,Sonrhai,5,ML,hmb,Humburi Senni Songhay,I
+2,q97,167,Sonrhai,5,ML,khq,Koyra Chiini Songhay,I
+2,q97,167,Sonrhai,5,ML,ses,Koyraboro Senni Songhai,I
+2,q97,168,Malinke,5,ML,kao,Xaasongaxango,I
+2,q97,168,Malinke,5,ML,mlq,Western Maninkakan,I
+2,q97,168,Malinke,5,ML,mwk,Kita Maninkakan,I
+2,q97,169,Khassonke,5,ML,kao,Xaasongaxango,I
+2,q97,171,Senufo,5,ML,myk,Mamara Senoufo,I
+2,q97,171,Senufo,5,ML,shz,Syenara Senoufo,I
+2,q97,171,Senufo,5,ML,spp,Supyire Senoufo,I
+2,q97,172,Mianka,5,ML,myk,Mamara Senoufo,I
+2,q97,176,Dogon,5,ML,dds,Donno So Dogon,I
+2,q97,176,Dogon,5,ML,djm,Jamsay Dogon,I
+2,q97,176,Dogon,5,ML,dtm,Tomo Kan Dogon,I
+2,q97,176,Dogon,5,ML,dts,Toro So Dogon,I
+2,q97,177,Tamasheq,5,ML,taq,Tamasheq,I
+2,q97,177,Tamasheq,5,ML,ttq,Tawallammat Tamajaq,I
+2,q97,180,Sesotho,3,LS,sot,Southern Sotho,I
+2,q97,220,Wolof,16,SN,wol,Wolof,I
+2,q97,221,Serer,16,SN,srr,Serer,I
+2,q97,222,Mandinka,16,SN,mnk,Mandinka,I
+2,q97,223,Pulaar,16,SN,fuc,Pulaar,I
+2,q97,224,Diola,16,SN,dyo,Jola-Fonyi,I
+2,q97,225,Soninke,16,SN,snk,Soninke,I
+2,q97,240,Setswana,1,BW,tsn,Tswana,I
+2,q97,260,Hausa,7,NG,hau,Hausa,I
+2,q97,261,Yoruba,7,NG,yor,Yoruba,I
+2,q97,262,Igbo,7,NG,ibo,Igbo,I
+2,q97,263,Tiv,7,NG,tiv,Tiv,I
+2,q97,264,Ijaw,7,NG,ijc,Izon,I
+2,q97,264,Ijaw,7,NG,ijs,Southeast Ijo,I
+2,q97,265,Kanuri,7,NG,kau,Kanuri,M
+2,q97,266,Nupe,7,NG,nup,Nupe-Nupe-Tako,I
+2,q97,267,Ibibio,7,NG,ibb,Ibibio,I
+2,q97,268,Efik,7,NG,efi,Efik,I
+2,q97,269,Edo,7,NG,bin,Bini,I
+2,q97,270,Igala/Idoma,7,NG,igl,Igala,I
+2,q97,271,Urhobo,7,NG,urh,Urhobo,I
+2,q97,272,Ebira,7,NG,igb,Ebira,I
+2,q97,273,Fulani,7,NG,fub,Adamawa Fulfulde,I
+2,q97,277,Gwari,7,NG,gbr,Gbagyi,I
+2,q97,277,Gwari,7,NG,gby,Gbari,I
+2,q97,279,Pidgin English,7,NG,pcm,Nigerian Pidgin,I
+2,q97,280,Shona,12,ZW,sna,Shona,I
+2,q97,281,Ndebele,12,ZW,nde,North Ndebele,I
+2,q97,300,Bemba,11,ZM,bem,Bemba (Zambia),I
+2,q97,301,Chewa,11,ZM,nya,Nyanja,I
+2,q97,302,kaonda,11,ZM,kqn,Kaonde,I
+2,q97,303,Lozi,11,ZM,loz,Lozi,I
+2,q97,304,Lunda,11,ZM,lun,Lunda,I
+2,q97,305,Luvale,11,ZM,lue,Luvale,I
+2,q97,306,Nyanja,11,ZM,nya,Nyanja,I
+2,q97,307,Tonga,11,ZM,toi,Tonga (Zambia),I
+2,q97,308,Tumbuka,11,ZM,tum,Tumbuka,I
+2,q97,309,Senga,11,ZM,nse,Nsenga,I
+2,q97,320,Afrikaans,6,NA,afr,Afrikaans,I
+2,q97,321,Oshiwambo,6,NA,kua,Kuanyama,I
+2,q97,380,kalenjin,14,KE,kln,Kalenjin,M
+2,q97,381,Kamba,14,KE,kam,Kamba (Kenya),I
+2,q97,382,Kikuyu,14,KE,kik,Kikuyu,I
+2,q97,383,Kisii,14,KE,guz,Gusii,I
+2,q97,384,Luhya,14,KE,luy,Luyia,M
+2,q97,385,Luo,14,KE,luo,Luo (Kenya and Tanzania),I
+2,q97,386,Maasai/Samburu,14,KE,mas,Masai,I
+2,q97,386,Maasai/Samburu,14,KE,saq,Samburu,I
+2,q97,388,Somali,14,KE,som,Somali,I
+2,q97,389,Taita,14,KE,dav,Taita,I
+2,q97,390,Turkana,14,KE,tuv,Turkana,I
+2,q97,391,Meru/Kimeru,14,KE,mer,Meru,I
+2,q97,392,Embu,14,KE,ebu,Embu,I
+2,q97,393,English and Kikuyu,14,KE,eng,English,I
+2,q97,394,English and Kamba,14,KE,eng,English,I
+2,q97,395,English and Kiswahili,14,KE,eng,English,I
+2,q97,396,Kiswahili and Kamba,14,KE,swh,Swahili (individual language),I
+2,q97,397,"English, Kiswahili, and Kamba",14,KE,eng,English,I
+2,q97,398,"English, Kiswahili and Kikuyu",14,KE,eng,English,I
+2,q97,399,"English, Kiswahili and Meru",14,KE,eng,English,I
+2,q97,480,Kiswahili and Luhya,14,KE,swh,Swahili (individual language),I
+2,q97,481,"English, Kiswahili and Kalenjin",14,KE,eng,English,I
+2,q97,482,Kiswahili and kalenjin,14,KE,swh,Swahili (individual language),I
+2,q97,483,English and Luo,14,KE,eng,English,I
+2,q97,484,Kiswahili and Kikuyu,14,KE,swh,Swahili (individual language),I
+2,q97,806,Taba,7,NG,ldb,Dũya,I
+2,q97,807,Esan,7,NG,ish,Esan,I
+2,q97,995,Other,2,GH,und,Undetermined,S
+2,q97,995,Other,14,KE,und,Undetermined,S
+2,q97,995,Other,15,MZ,und,Undetermined,S
+2,q97,995,Other,7,NG,und,Undetermined,S
+2,q97,995,Other,16,SN,und,Undetermined,S
+2,q97,995,Other,11,ZM,und,Undetermined,S
+3,q103,-1,Missing,1,BJ,und,Undetermined,S
+3,q103,-1,Missing,5,KE,und,Undetermined,S
+3,q103,-1,Missing,6,LS,und,Undetermined,S
+3,q103,-1,Missing,10,MZ,und,Undetermined,S
+3,q103,-1,Missing,13,SN,und,Undetermined,S
+3,q103,1,English,1,BJ,eng,English,I
+3,q103,1,English,2,BW,eng,English,I
+3,q103,1,English,4,GH,eng,English,I
+3,q103,1,English,5,KE,eng,English,I
+3,q103,1,English,6,LS,eng,English,I
+3,q103,1,English,8,MW,eng,English,I
+3,q103,1,English,11,NA,eng,English,I
+3,q103,1,English,12,NG,eng,English,I
+3,q103,1,English,13,SN,eng,English,I
+3,q103,1,English,16,UG,eng,English,I
+3,q103,1,English,14,ZA,eng,English,I
+3,q103,1,English,17,ZM,eng,English,I
+3,q103,1,English,18,ZW,eng,English,I
+3,q103,2,French,1,BJ,fra,French,I
+3,q103,2,French,9,ML,fra,French,I
+3,q103,2,French,13,SN,fra,French,I
+3,q103,3,Portuguese,3,CV,por,Portuguese,I
+3,q103,3,Portuguese,10,MZ,por,Portuguese,I
+3,q103,4,Kiswahili,5,KE,swh,Swahili (individual language),I
+3,q103,4,Kiswahili,10,MZ,swh,Swahili (individual language),I
+3,q103,4,Kiswahili,15,TZ,swh,Swahili (individual language),I
+3,q103,100,Afrikaans,14,ZA,afr,Afrikaans,I
+3,q103,101,Ndebele,14,ZA,nbl,South Ndebele,I
+3,q103,102,Xhosa,14,ZA,xho,Xhosa,I
+3,q103,103,Pedi/Spedi/ North Sotho,14,ZA,nso,Pedi,I
+3,q103,104,Sesotho/Sotho/ South Sotho,14,ZA,sot,Southern Sotho,I
+3,q103,105,Setswana/ Tswana,14,ZA,tsn,Tswana,I
+3,q103,106,Shangaan,14,ZA,tso,Tsonga,I
+3,q103,107,Swazi,14,ZA,ssw,Swati,I
+3,q103,108,Venda,14,ZA,ven,Venda,I
+3,q103,109,Zulu,14,ZA,zul,Zulu,I
+3,q103,110,English + Afrikaans,14,ZA,eng,English,I
+3,q103,111,English + Ndebele,14,ZA,eng,English,I
+3,q103,112,English + Xhosa,14,ZA,eng,English,I
+3,q103,113,English + Pedi/N. Sotho,14,ZA,eng,English,I
+3,q103,114,English + Sesotho/S. Sotho,14,ZA,eng,English,I
+3,q103,115,English + Setswana,14,ZA,eng,English,I
+3,q103,117,English + Venda,14,ZA,eng,English,I
+3,q103,118,English + Zulu,14,ZA,eng,English,I
+3,q103,120,Fon,1,BJ,fon,Fon,I
+3,q103,121,Adja,1,BJ,ajg,Aja (Benin),I
+3,q103,122,Bariba,1,BJ,bba,Baatonum,I
+3,q103,123,Dendi,1,BJ,ddn,Dendi (Benin),I
+3,q103,124,Yoruba,1,BJ,yor,Yoruba,I
+3,q103,125,Otamari,1,BJ,tbz,Ditammari,I
+3,q103,126,Peulh,1,BJ,fue,Borgu Fulfulde,I
+3,q103,126,Peulh,1,BJ,fuh,Western Niger Fulfulde,I
+3,q103,127,Yoa,1,BJ,pil,Yom,I
+3,q103,140,Setswana,2,BW,tsn,Tswana,I
+3,q103,165,Creole,3,CV,kea,Kabuverdianu,I
+3,q103,180,AKAN,4,GH,aka,Akan,M
+3,q103,181,EWE,4,GH,ewe,Ewe,I
+3,q103,182,GA,4,GH,gaa,Ga,I
+3,q103,183,DAGBANI,4,GH,dag,Dagbani,I
+3,q103,184,HUSA,4,GH,hau,Hausa,I
+3,q103,185,OTHER,4,GH,und,Undetermined,S
+3,q103,200,Kikuyu,5,KE,kik,Kikuyu,I
+3,q103,201,Luo,5,KE,luo,Luo (Kenya and Tanzania),I
+3,q103,202,Luhya,5,KE,luy,Luyia,M
+3,q103,203,Kamba,5,KE,kam,Kamba (Kenya),I
+3,q103,204,Meru/Embu,5,KE,ebu,Embu,I
+3,q103,204,Meru/Embu,5,KE,mer,Meru,I
+3,q103,205,Kisii,5,KE,guz,Gusii,I
+3,q103,206,Kalenjin,5,KE,kln,Kalenjin,M
+3,q103,210,Somali,5,KE,som,Somali,I
+3,q103,211,Mijikenda,5,KE,dig,Digo,I
+3,q103,211,Mijikenda,5,KE,dug,Duruma,I
+3,q103,211,Mijikenda,5,KE,nyf,Giryama,I
+3,q103,212,Gunya,5,KE,swh,Swahili (individual language),I
+3,q103,213,Giriama,5,KE,nyf,Giryama,I
+3,q103,214,Kiswahili/Luhya,5,KE,swh,Swahili (individual language),I
+3,q103,215,English/Swahili,5,KE,eng,English,I
+3,q103,216,Sabaot,5,KE,spy,Sabaot,I
+3,q103,217,Burji,5,KE,bji,Burji,I
+3,q103,218,Kuria,5,KE,kuj,Kuria,I
+3,q103,219,Maragoli,5,KE,rag,Logooli,I
+3,q103,220,Sesotho,6,LS,sot,Southern Sotho,I
+3,q103,221,Seputi,6,LS,ssw,Swati,I
+3,q103,240,malg officiel,7,MG,plt,Plateau Malagasy,I
+3,q103,241,dialect malg,7,MG,mlg,Malagasy,M
+3,q103,260,Tumbuka,8,MW,tum,Tumbuka,I
+3,q103,263,Chewa,8,MW,nya,Nyanja,I
+3,q103,264,Yao,8,MW,yao,Yao,I
+3,q103,280,Bambara,9,ML,bam,Bambara,I
+3,q103,281,Peuhl/Fulfulde,9,ML,ffm,Maasina Fulfulde,I
+3,q103,283,Mianka,9,ML,myk,Mamara Senoufo,I
+3,q103,285,Sonink,9,ML,snk,Soninke,I
+3,q103,286,Malink,9,ML,mlq,Western Maninkakan,I
+3,q103,286,Malink,9,ML,mwk,Kita Maninkakan,I
+3,q103,287,Khasonk,9,ML,kao,Xaasongaxango,I
+3,q103,288,Dogon,9,ML,dds,Donno So Dogon,I
+3,q103,288,Dogon,9,ML,djm,Jamsay Dogon,I
+3,q103,288,Dogon,9,ML,dtm,Tomo Kan Dogon,I
+3,q103,288,Dogon,9,ML,dts,Toro So Dogon,I
+3,q103,289,Bobo,9,ML,bmq,Bomu,I
+3,q103,292,Maure,9,ML,mey,Hassaniyya,I
+3,q103,293,Kakolo,9,ML,xkg,Kagoro,I
+3,q103,294,Samoko,9,ML,dux,Duungooma,I
+3,q103,295,Sonrha,9,ML,hmb,Humburi Senni Songhay,I
+3,q103,295,Sonrha,9,ML,khq,Koyra Chiini Songhay,I
+3,q103,295,Sonrha,9,ML,ses,Koyraboro Senni Songhai,I
+3,q103,296,Bella,9,ML,ses,Koyraboro Senni Songhai,I
+3,q103,297,Tamasheq,9,ML,taq,Tamasheq,I
+3,q103,297,Tamasheq,9,ML,ttq,Tawallammat Tamajaq,I
+3,q103,300,Makua,10,MZ,mgh,Makhuwa-Meetto,I
+3,q103,300,Makua,10,MZ,mhm,Makhuwa-Moniga,I
+3,q103,300,Makua,10,MZ,vmk,Makhuwa-Shirima,I
+3,q103,300,Makua,10,MZ,vmw,Makhuwa,I
+3,q103,300,Makua,10,MZ,xmc,Makhuwa-Marrevone,I
+3,q103,300,Makua,10,MZ,xsq,Makhuwa-Saka,I
+3,q103,301,Sena,10,MZ,seh,Sena,I
+3,q103,302,Ndau,10,MZ,ndc,Ndau,I
+3,q103,303,Nyanja,10,MZ,nya,Nyanja,I
+3,q103,304,Changana,10,MZ,tso,Tsonga,I
+3,q103,305,Chope,10,MZ,cce,Chopi,I
+3,q103,306,Bitonga,10,MZ,toh,Gitonga,I
+3,q103,307,Makonde,10,MZ,kde,Makonde,I
+3,q103,308,Chuabo,10,MZ,chw,Chuwabu,I
+3,q103,309,Ajua,10,MZ,yao,Yao,I
+3,q103,310,Quimuane,10,MZ,wmw,Mwani,I
+3,q103,312,Nhungue,10,MZ,mxc,Manyika,I
+3,q103,320,Nama/Damara,11,NA,naq,Khoekhoe,I
+3,q103,321,Afrikaans,11,NA,afr,Afrikaans,I
+3,q103,322,Rukwangali,11,NA,kwn,Kwangali,I
+3,q103,323,Silozi,11,NA,loz,Lozi,I
+3,q103,324,Masubia,11,NA,sbs,Subiya,I
+3,q103,326,Oshiwambo,11,NA,kua,Kuanyama,I
+3,q103,327,Otjiherero,11,NA,her,Herero,I
+3,q103,328,Setswana,11,NA,tsn,Tswana,I
+3,q103,331,Mbukushu/Thimbukushu,11,NA,mhw,Mbukushu,I
+3,q103,332,English and Oshiwambo,11,NA,kua,Kuanyama,I
+3,q103,333,English and Afrikaans,11,NA,afr,Afrikaans,I
+3,q103,334,Afrikaans and Oshiwambo,11,NA,afr,Afrikaans,I
+3,q103,335,English and local languages,11,NA,eng,English,I
+3,q103,336,Afrikaans and local languages,11,NA,afr,Afrikaans,I
+3,q103,337,"English, Afrikaans and local languages",11,NA,eng,English,I
+3,q103,338,More than one local language,11,NA,mul,Multiple languages,S
+3,q103,340,Hausa,12,NG,hau,Hausa,I
+3,q103,341,Igbo,12,NG,ibo,Igbo,I
+3,q103,342,Yoruba,12,NG,yor,Yoruba,I
+3,q103,343,Pidgin English,12,NG,pcm,Nigerian Pidgin,I
+3,q103,360,Wolof,13,SN,wol,Wolof,I
+3,q103,361,Pular,13,SN,fuf,Pular,I
+3,q103,362,Serer,13,SN,srr,Serer,I
+3,q103,363,Mandinka,13,SN,mnk,Mandinka,I
+3,q103,364,Sonike,13,SN,snk,Soninke,I
+3,q103,365,Diola,13,SN,dyo,Jola-Fonyi,I
+3,q103,366,Manjack,13,SN,mfv,Mandjak,I
+3,q103,367,Bamabara,13,SN,bam,Bambara,I
+3,q103,406,Alur,16,UG,alz,Alur,I
+3,q103,407,Ateso,16,UG,teo,Teso,I
+3,q103,413,Luo,16,UG,ach,Acoli,I
+3,q103,413,Luo,16,UG,adh,Adhola,I
+3,q103,413,Luo,16,UG,alz,Alur,I
+3,q103,413,Luo,16,UG,kdi,Kumam,I
+3,q103,413,Luo,16,UG,laj,Lango (Uganda),I
+3,q103,413,Luo,16,UG,lth,Thur,I
+3,q103,414,Lugbara,16,UG,lgg,Lugbara,I
+3,q103,416,Madi,16,UG,mhi,Ma'di,I
+3,q103,416,Madi,16,UG,snm,Southern Ma'di,I
+3,q103,417,Luganda,16,UG,lug,Ganda,I
+3,q103,418,Lumasaba,16,UG,myx,Masaaba,I
+3,q103,419,Lusoga,16,UG,xog,Soga,I
+3,q103,420,Bemba,17,ZM,bem,Bemba (Zambia),I
+3,q103,421,Nyanja,17,ZM,nya,Nyanja,I
+3,q103,422,Tonga,17,ZM,toi,Tonga (Zambia),I
+3,q103,423,Lozi,17,ZM,loz,Lozi,I
+3,q103,440,Ndebele,18,ZW,nde,North Ndebele,I
+3,q103,441,Shona,18,ZW,sna,Shona,I
+3,q103,501,Rufumbia,16,UG,kin,Kinyarwanda,I
+3,q103,506,Runyoro - Rutooro,16,UG,nyo,Nyoro,I
+3,q103,506,Runyoro - Rutooro,16,UG,ttj,Tooro,I
+3,q103,508,Rutooro,16,UG,ttj,Tooro,I
+3,q103,510,Runyankole - Rukiga,16,UG,cgg,Chiga,I
+3,q103,510,Runyankole - Rukiga,16,UG,nyn,Nyankole,I
+3,q103,815,Boran,5,KE,gax,Borana-Arsi-Guji Oromo,I
+3,q103,995,Other,7,MG,und,Undetermined,S
+3,q103,995,Other,16,UG,und,Undetermined,S
+3,q103,995,Other,14,ZA,und,Undetermined,S
+3,q103,995,Other,18,ZW,und,Undetermined,S
+3,q114,1,English,11,NA,eng,English,I
+3,q114,1,English,12,NG,eng,English,I
+3,q114,1,English,14,ZA,eng,English,I
+3,q114,2,French,1,BJ,fra,French,I
+3,q114,3,Portuguese,10,MZ,por,Portuguese,I
+3,q114,4,Kiswahili,15,TZ,swh,Swahili (individual language),I
+3,q114,100,Afrikaans,14,ZA,afr,Afrikaans,I
+3,q114,101,Ndebele,14,ZA,nbl,South Ndebele,I
+3,q114,102,Xhosa,14,ZA,xho,Xhosa,I
+3,q114,103,Pedi/Spedi/ North Sotho,14,ZA,nso,Pedi,I
+3,q114,104,Sesotho/Sotho/ South Sotho,14,ZA,sot,Southern Sotho,I
+3,q114,105,Setswana/ Tswana,14,ZA,tsn,Tswana,I
+3,q114,106,Shangaan,14,ZA,tso,Tsonga,I
+3,q114,108,Venda,14,ZA,ven,Venda,I
+3,q114,109,Zulu,14,ZA,zul,Zulu,I
+3,q114,120,Fon,1,BJ,fon,Fon,I
+3,q114,121,Adja,1,BJ,ajg,Aja (Benin),I
+3,q114,122,Bariba,1,BJ,bba,Baatonum,I
+3,q114,123,Dendi,1,BJ,ddn,Dendi (Benin),I
+3,q114,124,Yoruba,1,BJ,yor,Yoruba,I
+3,q114,125,Otamari,1,BJ,tbz,Ditammari,I
+3,q114,140,Setswana,2,BW,tsn,Tswana,I
+3,q114,144,Sekalanga,2,BW,kck,Kalanga,I
+3,q114,145,Seherero,2,BW,her,Herero,I
+3,q114,147,Sebirwa,2,BW,brl,Birwa,I
+3,q114,165,Creole,3,CV,kea,Kabuverdianu,I
+3,q114,180,AKAN,4,GH,aka,Akan,M
+3,q114,181,EWE,4,GH,ewe,Ewe,I
+3,q114,182,GA,4,GH,gaa,Ga,I
+3,q114,183,DAGBANI,4,GH,dag,Dagbani,I
+3,q114,185,OTHER,4,GH,und,Undetermined,S
+3,q114,200,Kikuyu,5,KE,kik,Kikuyu,I
+3,q114,201,Luo,5,KE,luo,Luo (Kenya and Tanzania),I
+3,q114,202,Luhya,5,KE,luy,Luyia,M
+3,q114,203,Kamba,5,KE,kam,Kamba (Kenya),I
+3,q114,204,Meru/Embu,5,KE,ebu,Embu,I
+3,q114,204,Meru/Embu,5,KE,mer,Meru,I
+3,q114,205,Kisii,5,KE,guz,Gusii,I
+3,q114,206,Kalenjin,5,KE,kln,Kalenjin,M
+3,q114,209,Taita,5,KE,dav,Taita,I
+3,q114,210,Somali,5,KE,som,Somali,I
+3,q114,220,Sesotho,6,LS,sot,Southern Sotho,I
+3,q114,240,malagasy officiel,7,MG,plt,Plateau Malagasy,I
+3,q114,241,dialecte,7,MG,mlg,Malagasy,M
+3,q114,260,Tumbuka,8,MW,tum,Tumbuka,I
+3,q114,263,Chewa,8,MW,nya,Nyanja,I
+3,q114,267,Manga'nja,8,MW,nya,Nyanja,I
+3,q114,268,Sena,8,MW,swk,Malawi Sena,I
+3,q114,280,Bambara,9,ML,bam,Bambara,I
+3,q114,283,Mianka,9,ML,myk,Mamara Senoufo,I
+3,q114,285,Soninké,9,ML,snk,Soninke,I
+3,q114,286,Malinké,9,ML,kao,Xaasongaxango,I
+3,q114,286,Malinké,9,ML,mlq,Western Maninkakan,I
+3,q114,286,Malinké,9,ML,mwk,Kita Maninkakan,I
+3,q114,288,Dogon,9,ML,dds,Donno So Dogon,I
+3,q114,288,Dogon,9,ML,djm,Jamsay Dogon,I
+3,q114,288,Dogon,9,ML,dtm,Tomo Kan Dogon,I
+3,q114,288,Dogon,9,ML,dts,Toro So Dogon,I
+3,q114,289,Bobo,9,ML,bmq,Bomu,I
+3,q114,297,Tamasheq,9,ML,taq,Tamasheq,I
+3,q114,297,Tamasheq,9,ML,ttq,Tawallammat Tamajaq,I
+3,q114,300,Makua,10,MZ,mgh,Makhuwa-Meetto,I
+3,q114,300,Makua,10,MZ,mhm,Makhuwa-Moniga,I
+3,q114,300,Makua,10,MZ,vmk,Makhuwa-Shirima,I
+3,q114,300,Makua,10,MZ,vmw,Makhuwa,I
+3,q114,300,Makua,10,MZ,xmc,Makhuwa-Marrevone,I
+3,q114,300,Makua,10,MZ,xsq,Makhuwa-Saka,I
+3,q114,301,Sena,10,MZ,seh,Sena,I
+3,q114,302,Ndau,10,MZ,ndc,Ndau,I
+3,q114,303,Nyanja,10,MZ,nya,Nyanja,I
+3,q114,304,Changana,10,MZ,tso,Tsonga,I
+3,q114,305,Chope,10,MZ,cce,Chopi,I
+3,q114,306,Bitonga,10,MZ,toh,Gitonga,I
+3,q114,308,Chuabo,10,MZ,chw,Chuwabu,I
+3,q114,309,Ajua,10,MZ,yao,Yao,I
+3,q114,312,Quimuane,10,MZ,wmw,Mwani,I
+3,q114,320,Nama/Damara,11,NA,naq,Khoekhoe,I
+3,q114,326,Oshiwambo,11,NA,kua,Kuanyama,I
+3,q114,340,Hausa,12,NG,hau,Hausa,I
+3,q114,341,Igbo,12,NG,ibo,Igbo,I
+3,q114,342,Yoruba,12,NG,yor,Yoruba,I
+3,q114,343,Pidgin English,12,NG,pcm,Nigerian Pidgin,I
+3,q114,344,Efik,12,NG,efi,Efik,I
+3,q114,345,Ebira,12,NG,igb,Ebira,I
+3,q114,346,Fulani,12,NG,fub,Adamawa Fulfulde,I
+3,q114,348,Ibibio,12,NG,ibb,Ibibio,I
+3,q114,350,Tiv,12,NG,tiv,Tiv,I
+3,q114,351,Nupe,12,NG,nup,Nupe-Nupe-Tako,I
+3,q114,352,Ijaw,12,NG,ijc,Izon,I
+3,q114,352,Ijaw,12,NG,ijs,Southeast Ijo,I
+3,q114,353,Edo,12,NG,bin,Bini,I
+3,q114,354,Igala,12,NG,igl,Igala,I
+3,q114,355,Urhobo,12,NG,urh,Urhobo,I
+3,q114,357,Bassa,12,NG,bzw,Basa (Nigeria),I
+3,q114,359,Ukwani,12,NG,ukw,Ukwuani-Aboh-Ndoni,I
+3,q114,360,Wolof,13,SN,wol,Wolof,I
+3,q114,361,Pular,13,SN,fuf,Pular,I
+3,q114,365,Diola,13,SN,dyo,Jola-Fonyi,I
+3,q114,381,Kichaga,15,TZ,old,Mochi,I
+3,q114,406,Alur,16,UG,alz,Alur,I
+3,q114,407,Ateso,16,UG,teo,Teso,I
+3,q114,413,Luo,16,UG,ach,Acoli,I
+3,q114,413,Luo,16,UG,adh,Adhola,I
+3,q114,413,Luo,16,UG,alz,Alur,I
+3,q114,413,Luo,16,UG,kdi,Kumam,I
+3,q114,413,Luo,16,UG,laj,Lango (Uganda),I
+3,q114,413,Luo,16,UG,lth,Thur,I
+3,q114,414,Lugbara,16,UG,lgg,Lugbara,I
+3,q114,417,Luganda,16,UG,lug,Ganda,I
+3,q114,418,Lumasaba,16,UG,myx,Masaaba,I
+3,q114,419,Lusoga,16,UG,xog,Soga,I
+3,q114,420,Bemba,17,ZM,bem,Bemba (Zambia),I
+3,q114,421,Nyanja,17,ZM,nya,Nyanja,I
+3,q114,422,Tonga,17,ZM,toi,Tonga (Zambia),I
+3,q114,423,Lozi,17,ZM,loz,Lozi,I
+3,q114,424,Chewa,17,ZM,nya,Nyanja,I
+3,q114,425,Nsenga,17,ZM,nse,Nsenga,I
+3,q114,427,Kaonda,17,ZM,kqn,Kaonde,I
+3,q114,428,Luvale,17,ZM,lue,Luvale,I
+3,q114,440,Ndebele,18,ZW,nde,North Ndebele,I
+3,q114,441,Shona,18,ZW,sna,Shona,I
+3,q114,503,Rukiga,16,UG,cgg,Chiga,I
+3,q114,506,Runyoro - Rutooro,16,UG,nyo,Nyoro,I
+3,q114,506,Runyoro - Rutooro,16,UG,ttj,Tooro,I
+3,q114,510,Runyankole - Rukiga,16,UG,cgg,Chiga,I
+3,q114,510,Runyankole - Rukiga,16,UG,nyn,Nyankole,I
+3,q114,552,Geomai,12,NG,ank,Goemai,I
+3,q114,554,Pyam,12,NG,pym,Fyam,I
+3,q114,558,Esan,12,NG,ish,Esan,I
+3,q114,559,Bijim,12,NG,bij,Vaghat-Ya-Bijim-Legeri,I
+3,q114,561,Jaba,12,NG,ldb,Dũya,I
+3,q114,562,Birom,12,NG,bom,Berom,I
+3,q114,566,Korro,12,NG,ahs,Ashe,I
+3,q114,566,Korro,12,NG,bqv,Koro Wachi,I
+3,q114,566,Korro,12,NG,ldb,Dũya,I
+3,q114,566,Korro,12,NG,yes,Nyankpa,I
+3,q114,995,Other,12,NG,und,Undetermined,S
+3,q3,-1,Missing,5,KE,und,Undetermined,S
+3,q3,-1,Missing,6,LS,und,Undetermined,S
+3,q3,-1,Missing,10,MZ,und,Undetermined,S
+3,q3,-1,Missing,13,SN,und,Undetermined,S
+3,q3,1,English,2,BW,eng,English,I
+3,q3,1,English,5,KE,eng,English,I
+3,q3,1,English,8,MW,eng,English,I
+3,q3,1,English,10,MZ,eng,English,I
+3,q3,1,English,11,NA,eng,English,I
+3,q3,1,English,12,NG,eng,English,I
+3,q3,1,English,13,SN,eng,English,I
+3,q3,1,English,16,UG,eng,English,I
+3,q3,1,English,14,ZA,eng,English,I
+3,q3,1,English,17,ZM,eng,English,I
+3,q3,1,English,18,ZW,eng,English,I
+3,q3,2,French,7,MG,fra,French,I
+3,q3,2,French,13,SN,fra,French,I
+3,q3,2,French,16,UG,fra,French,I
+3,q3,3,Portuguese,3,CV,por,Portuguese,I
+3,q3,3,Portuguese,10,MZ,por,Portuguese,I
+3,q3,3,Portuguese,16,UG,por,Portuguese,I
+3,q3,3,Portuguese,14,ZA,por,Portuguese,I
+3,q3,4,Kiswahili,5,KE,swh,Swahili (individual language),I
+3,q3,4,Kiswahili,8,MW,swh,Swahili (individual language),I
+3,q3,4,Kiswahili,15,TZ,swh,Swahili (individual language),I
+3,q3,4,Kiswahili,16,UG,swh,Swahili (individual language),I
+3,q3,100,Afrikaans,14,ZA,afr,Afrikaans,I
+3,q3,101,Ndebele,14,ZA,nbl,South Ndebele,I
+3,q3,102,Xhosa,14,ZA,xho,Xhosa,I
+3,q3,103,Pedi/Spedi/ North Sotho,14,ZA,nso,Pedi,I
+3,q3,104,Sesotho/Sotho/ South Sotho,14,ZA,sot,Southern Sotho,I
+3,q3,105,Setswana/ Tswana,14,ZA,tsn,Tswana,I
+3,q3,106,Shangaan,14,ZA,tso,Tsonga,I
+3,q3,107,Swazi,14,ZA,ssw,Swati,I
+3,q3,108,Venda,14,ZA,ven,Venda,I
+3,q3,109,Zulu,14,ZA,zul,Zulu,I
+3,q3,120,Fon,1,BJ,fon,Fon,I
+3,q3,121,Adja,1,BJ,ajg,Aja (Benin),I
+3,q3,122,Bariba,1,BJ,bba,Baatonum,I
+3,q3,123,Dendi,1,BJ,ddn,Dendi (Benin),I
+3,q3,124,Yoruba,1,BJ,yor,Yoruba,I
+3,q3,125,Ditamari,1,BJ,tbz,Ditammari,I
+3,q3,126,Peulh,1,BJ,fue,Borgu Fulfulde,I
+3,q3,126,Peulh,1,BJ,fuh,Western Niger Fulfulde,I
+3,q3,127,Yom,1,BJ,pil,Yom,I
+3,q3,128,Haoussa,1,BJ,hau,Hausa,I
+3,q3,129,Ide,1,BJ,ijj,Ede Ije,I
+3,q3,130,Lamba,1,BJ,las,Lama (Togo),I
+3,q3,140,Setswana,2,BW,tsn,Tswana,I
+3,q3,141,Sesarwa,2,BW,hio,Tsoa,I
+3,q3,142,Sekgaladi,2,BW,xkv,Kgalagadi,I
+3,q3,143,Sesobea,2,BW,sbs,Subiya,I
+3,q3,144,Sekalanga,2,BW,kck,Kalanga,I
+3,q3,145,Seherero,2,BW,her,Herero,I
+3,q3,146,Sembukushu,2,BW,mhw,Mbukushu,I
+3,q3,147,Sebirwa,2,BW,brl,Birwa,I
+3,q3,148,Sengologa,2,BW,xkv,Kgalagadi,I
+3,q3,149,Seyei,2,BW,yey,Yeyi,I
+3,q3,165,Creole,3,CV,kea,Kabuverdianu,I
+3,q3,180,AKAN,4,GH,aka,Akan,M
+3,q3,181,EWE,4,GH,ewe,Ewe,I
+3,q3,182,GA/DANGBE,4,GH,ada,Adangme,I
+3,q3,182,GA/DANGBE,4,GH,gaa,Ga,I
+3,q3,183,Other Northern Languages,4,GH,und,Undetermined,S
+3,q3,184,DAGBANI,4,GH,dag,Dagbani,I
+3,q3,185,DAGAARE,4,GH,dga,Southern Dagaare,I
+3,q3,200,Kikuyu,5,KE,kik,Kikuyu,I
+3,q3,201,Luo,5,KE,luo,Luo (Kenya and Tanzania),I
+3,q3,202,Luhya,5,KE,luy,Luyia,M
+3,q3,203,Kamba,5,KE,kam,Kamba (Kenya),I
+3,q3,204,Meru/Embu,5,KE,ebu,Embu,I
+3,q3,204,Meru/Embu,5,KE,mer,Meru,I
+3,q3,205,Kisii,5,KE,guz,Gusii,I
+3,q3,206,Kalenjin,5,KE,kln,Kalenjin,M
+3,q3,207,Masai/Samburu,5,KE,mas,Masai,I
+3,q3,207,Masai/Samburu,5,KE,saq,Samburu,I
+3,q3,208,Mijikenda,5,KE,dig,Digo,I
+3,q3,208,Mijikenda,5,KE,dug,Duruma,I
+3,q3,208,Mijikenda,5,KE,nyf,Giryama,I
+3,q3,209,Taita,5,KE,dav,Taita,I
+3,q3,210,Somali,5,KE,som,Somali,I
+3,q3,211,Pokot,5,KE,pko,Pökoot,I
+3,q3,212,Turkana,5,KE,tuv,Turkana,I
+3,q3,213,Digo,5,KE,dig,Digo,I
+3,q3,214,Giriama,5,KE,nyf,Giryama,I
+3,q3,215,Duruma,5,KE,dug,Duruma,I
+3,q3,216,Chonyi,5,KE,coh,Chonyi-Dzihana-Kauma,I
+3,q3,217,Gunya,5,KE,swh,Swahili (individual language),I
+3,q3,218,Arabic,5,KE,acx,Omani Arabic,I
+3,q3,219,Maragoli,5,KE,rag,Logooli,I
+3,q3,220,Sesotho,6,LS,sot,Southern Sotho,I
+3,q3,221,Sephuti,6,LS,ssw,Swati,I
+3,q3,240,malgache officielle,7,MG,plt,Plateau Malagasy,I
+3,q3,241,langue régionale,7,MG,mlg,Malagasy,M
+3,q3,243,comorien,7,MG,swb,Maore Comorian,I
+3,q3,243,comorien,7,MG,wlc,Mwali Comorian,I
+3,q3,243,comorien,7,MG,wni,Ndzwani Comorian,I
+3,q3,243,comorien,7,MG,zdj,Ngazidja Comorian,I
+3,q3,244,pakistanais,7,MG,guj,Gujarati,I
+3,q3,260,Tumbuka,8,MW,tum,Tumbuka,I
+3,q3,261,Nkhonde,8,MW,nyy,Nyakyusa-Ngonde,I
+3,q3,262,Lambya,8,MW,lai,Lambya,I
+3,q3,263,Chewa,8,MW,nya,Nyanja,I
+3,q3,264,Yao,8,MW,yao,Yao,I
+3,q3,265,Ngoni,8,MW,nya,Nyanja,I
+3,q3,266,Lomwe,8,MW,lon,Malawi Lomwe,I
+3,q3,267,Manga'nja,8,MW,nya,Nyanja,I
+3,q3,268,Sena,8,MW,swk,Malawi Sena,I
+3,q3,269,Sukwa,8,MW,ndh,Ndali,I
+3,q3,271,Tonga,8,MW,tog,Tonga (Nyasa),I
+3,q3,280,Bambara,9,ML,bam,Bambara,I
+3,q3,281,Peugl/Fulfulde,9,ML,ffm,Maasina Fulfulde,I
+3,q3,282,Senufo,9,ML,myk,Mamara Senoufo,I
+3,q3,282,Senufo,9,ML,shz,Syenara Senoufo,I
+3,q3,282,Senufo,9,ML,spp,Supyire Senoufo,I
+3,q3,283,Mianka,9,ML,myk,Mamara Senoufo,I
+3,q3,284,Mossi,9,ML,mos,Mossi,I
+3,q3,285,Sonink,9,ML,snk,Soninke,I
+3,q3,286,Malink,9,ML,mlq,Western Maninkakan,I
+3,q3,286,Malink,9,ML,mwk,Kita Maninkakan,I
+3,q3,287,Khasonk,9,ML,kao,Xaasongaxango,I
+3,q3,288,Dogon,9,ML,dds,Donno So Dogon,I
+3,q3,288,Dogon,9,ML,djm,Jamsay Dogon,I
+3,q3,288,Dogon,9,ML,dtm,Tomo Kan Dogon,I
+3,q3,288,Dogon,9,ML,dts,Toro So Dogon,I
+3,q3,289,Bobo,9,ML,bmq,Bomu,I
+3,q3,290,Bozo,9,ML,boz,Tiéyaxo Bozo,I
+3,q3,290,Bozo,9,ML,bze,Jenaama Bozo,I
+3,q3,291,Arabe,9,ML,mey,Hassaniyya,I
+3,q3,292,Maure,9,ML,mey,Hassaniyya,I
+3,q3,293,Kakolo,9,ML,xkg,Kagoro,I
+3,q3,294,Samoko,9,ML,dux,Duungooma,I
+3,q3,295,Sonrha,9,ML,hmb,Humburi Senni Songhay,I
+3,q3,295,Sonrha,9,ML,khq,Koyra Chiini Songhay,I
+3,q3,295,Sonrha,9,ML,ses,Koyraboro Senni Songhai,I
+3,q3,296,Bella,9,ML,ses,Koyraboro Senni Songhai,I
+3,q3,297,Tamasheq,9,ML,taq,Tamasheq,I
+3,q3,297,Tamasheq,9,ML,ttq,Tawallammat Tamajaq,I
+3,q3,298,Dafing,9,ML,rkm,Marka,I
+3,q3,300,Makua,10,MZ,mgh,Makhuwa-Meetto,I
+3,q3,300,Makua,10,MZ,mhm,Makhuwa-Moniga,I
+3,q3,300,Makua,10,MZ,vmk,Makhuwa-Shirima,I
+3,q3,300,Makua,10,MZ,vmw,Makhuwa,I
+3,q3,300,Makua,10,MZ,xmc,Makhuwa-Marrevone,I
+3,q3,300,Makua,10,MZ,xsq,Makhuwa-Saka,I
+3,q3,301,Sena,10,MZ,seh,Sena,I
+3,q3,302,Ndau,10,MZ,ndc,Ndau,I
+3,q3,303,Nyanja,10,MZ,nya,Nyanja,I
+3,q3,304,Changana,10,MZ,tso,Tsonga,I
+3,q3,305,Chope,10,MZ,cce,Chopi,I
+3,q3,306,Bitonga,10,MZ,toh,Gitonga,I
+3,q3,307,Makonde,10,MZ,kde,Makonde,I
+3,q3,308,Chuabo,10,MZ,chw,Chuwabu,I
+3,q3,309,Ajua,10,MZ,yao,Yao,I
+3,q3,310,Quimuane,10,MZ,wmw,Mwani,I
+3,q3,311,Muaui,10,MZ,wmw,Mwani,I
+3,q3,312,Nhungue,10,MZ,mxc,Manyika,I
+3,q3,320,Nama/Damara,11,NA,naq,Khoekhoe,I
+3,q3,321,Afrikaans,11,NA,afr,Afrikaans,I
+3,q3,322,Rukwangali,11,NA,kwn,Kwangali,I
+3,q3,323,Silozi,11,NA,loz,Lozi,I
+3,q3,324,Masubia,11,NA,sbs,Subiya,I
+3,q3,325,German,11,NA,deu,German,I
+3,q3,326,Oshiwambo,11,NA,kua,Kuanyama,I
+3,q3,327,Okjiherero,11,NA,her,Herero,I
+3,q3,328,Setswana,11,NA,tsn,Tswana,I
+3,q3,329,Angolan:Portuguese,11,NA,por,Portuguese,I
+3,q3,330,Angolan:Rumbundu,11,NA,umb,Umbundu,I
+3,q3,331,Other Kavango:Thimbukushu,11,NA,mhw,Mbukushu,I
+3,q3,332,Other Kavango:Rugririku,11,NA,diu,Diriku,I
+3,q3,338,Ndebele,11,NA,nde,North Ndebele,I
+3,q3,340,Hausa,12,NG,hau,Hausa,I
+3,q3,341,Igbo,12,NG,ibo,Igbo,I
+3,q3,342,Yoruba,12,NG,yor,Yoruba,I
+3,q3,343,Pidgin English,12,NG,pcm,Nigerian Pidgin,I
+3,q3,344,Efik,12,NG,efi,Efik,I
+3,q3,345,Ebira,12,NG,igb,Ebira,I
+3,q3,346,Fulani,12,NG,fub,Adamawa Fulfulde,I
+3,q3,347,Isoko,12,NG,iso,Isoko,I
+3,q3,348,Ibibio,12,NG,ibb,Ibibio,I
+3,q3,349,Kanuri,12,NG,kau,Kanuri,M
+3,q3,350,Tiv,12,NG,tiv,Tiv,I
+3,q3,351,Nupe,12,NG,nup,Nupe-Nupe-Tako,I
+3,q3,352,Ijaw,12,NG,ijc,Izon,I
+3,q3,352,Ijaw,12,NG,ijs,Southeast Ijo,I
+3,q3,353,Edo,12,NG,bin,Bini,I
+3,q3,354,Igala,12,NG,igl,Igala,I
+3,q3,355,Urhobo,12,NG,urh,Urhobo,I
+3,q3,356,Idoma,12,NG,idu,Idoma,I
+3,q3,357,Bassa,12,NG,bzw,Basa (Nigeria),I
+3,q3,358,Ikwere,12,NG,ikw,Ikwere,I
+3,q3,359,Ukwani,12,NG,ukw,Ukwuani-Aboh-Ndoni,I
+3,q3,360,Wolof,13,SN,wol,Wolof,I
+3,q3,361,Pular,13,SN,fuf,Pular,I
+3,q3,362,Serer,13,SN,srr,Serer,I
+3,q3,363,Mandinka,13,SN,mnk,Mandinka,I
+3,q3,364,Sonike,13,SN,snk,Soninke,I
+3,q3,365,Diola,13,SN,dyo,Jola-Fonyi,I
+3,q3,366,Manjack,13,SN,mfv,Mandjak,I
+3,q3,367,Bambara,13,SN,bam,Bambara,I
+3,q3,368,Bainouk,13,SN,bcb,Bainouk-Samik,I
+3,q3,368,Bainouk,13,SN,bcz,Bainouk-Gunyaamolo,I
+3,q3,380,Kinyakyusa,15,TZ,nyy,Nyakyusa-Ngonde,I
+3,q3,381,Kichaga,15,TZ,old,Mochi,I
+3,q3,382,Kihaya,15,TZ,hay,Haya,I
+3,q3,383,Kingoni,15,TZ,ngo,Ngoni,I
+3,q3,384,Kikwere,15,TZ,ked,Kerewe,I
+3,q3,385,Kipare,15,TZ,asa,Asu (Tanzania),I
+3,q3,386,Kihehe,15,TZ,heh,Hehe,I
+3,q3,387,Kimakonde,15,TZ,kde,Makonde,I
+3,q3,388,Kinyamwezi,15,TZ,nym,Nyamwezi,I
+3,q3,389,Kisukuma,15,TZ,suk,Sukuma,I
+3,q3,390,Kimasai,15,TZ,mas,Masai,I
+3,q3,391,Kimeru,15,TZ,rwk,Rwa,I
+3,q3,392,Kikurya,15,TZ,kuj,Kuria,I
+3,q3,393,Kigogo,15,TZ,gog,Gogo,I
+3,q3,394,Kiluguru,15,TZ,ruf,Luguru,I
+3,q3,395,Kifipa,15,TZ,fip,Fipa,I
+3,q3,396,Kimanyema,15,TZ,nym,Nyamwezi,I
+3,q3,397,Kinyiramba,15,TZ,nim,Nilamba,I
+3,q3,398,Kinyaturu,15,TZ,rim,Nyaturu,I
+3,q3,405,Akaramojonj,16,UG,kdj,Karamojong,I
+3,q3,406,Akur,16,UG,alz,Alur,I
+3,q3,407,Ateso,16,UG,teo,Teso,I
+3,q3,408,Japadhola,16,UG,adh,Adhola,I
+3,q3,409,Jonam,16,UG,alz,Alur,I
+3,q3,410,Kakwa,16,UG,keo,Kakwa,I
+3,q3,411,Kumam,16,UG,kdi,Kumam,I
+3,q3,412,Kuksabin,16,UG,kpz,Kupsabiny,I
+3,q3,413,Luo,16,UG,ach,Acoli,I
+3,q3,413,Luo,16,UG,adh,Adhola,I
+3,q3,413,Luo,16,UG,alz,Alur,I
+3,q3,413,Luo,16,UG,kdi,Kumam,I
+3,q3,413,Luo,16,UG,laj,Lango (Uganda),I
+3,q3,413,Luo,16,UG,lth,Thur,I
+3,q3,414,Lugbara,16,UG,lgg,Lugbara,I
+3,q3,415,Lugwere,16,UG,gwr,Gwere,I
+3,q3,416,Madi,16,UG,mhi,Ma'di,I
+3,q3,416,Madi,16,UG,snm,Southern Ma'di,I
+3,q3,417,Luganda,16,UG,lug,Ganda,I
+3,q3,418,Lugishu/Lumasaba,16,UG,myx,Masaaba,I
+3,q3,419,Lusoga,16,UG,xog,Soga,I
+3,q3,420,Bemba,17,ZM,bem,Bemba (Zambia),I
+3,q3,421,Nyanja,17,ZM,nya,Nyanja,I
+3,q3,422,Tonga,17,ZM,toi,Tonga (Zambia),I
+3,q3,423,Lozi,17,ZM,loz,Lozi,I
+3,q3,424,Chewa,17,ZM,nya,Nyanja,I
+3,q3,425,Nsenga,17,ZM,nse,Nsenga,I
+3,q3,426,Tumbuka,17,ZM,tum,Tumbuka,I
+3,q3,427,Kaonde,17,ZM,kqn,Kaonde,I
+3,q3,428,Luvale,17,ZM,lue,Luvale,I
+3,q3,429,Namwanga,17,ZM,mwn,Nyamwanga,I
+3,q3,431,Bisa,17,ZM,leb,Lala-Bisa,I
+3,q3,432,lla,17,ZM,ilb,Ila,I
+3,q3,433,Nkaya,17,ZM,nya,Nyanja,I
+3,q3,434,Mambwe,17,ZM,mgr,Mambwe-Lungu,I
+3,q3,435,Lunda,17,ZM,lun,Lunda,I
+3,q3,436,Lenje,17,ZM,leh,Lenje,I
+3,q3,437,Lamba,17,ZM,lam,Lamba,I
+3,q3,438,Mbunda,17,ZM,mck,Mbunda,I
+3,q3,439,Ngoni,17,ZM,nse,Nsenga,I
+3,q3,440,Ndebele,18,ZW,nde,North Ndebele,I
+3,q3,441,Shona,18,ZW,sna,Shona,I
+3,q3,443,Kalanga,18,ZW,kck,Kalanga,I
+3,q3,444,Tonga,18,ZW,toi,Tonga (Zambia),I
+3,q3,500,Lunyoli,16,UG,nuj,Nyole,I
+3,q3,501,Rufumbira,16,UG,kin,Kinyarwanda,I
+3,q3,502,Ruhororo,16,UG,nyn,Nyankole,I
+3,q3,503,Rukiga,16,UG,cgg,Chiga,I
+3,q3,504,Rukonzo,16,UG,koo,Konzo,I
+3,q3,505,Runyarwanda,16,UG,kin,Kinyarwanda,I
+3,q3,506,Runyoro,16,UG,nyo,Nyoro,I
+3,q3,507,Rutagwenda,16,UG,nyo,Nyoro,I
+3,q3,508,Rutooro,16,UG,ttj,Tooro,I
+3,q3,509,Rwamba,16,UG,rwm,Amba (Uganda),I
+3,q3,510,Runyankole,16,UG,nyn,Nyankole,I
+3,q3,511,Samia,16,UG,lsm,Saamia,I
+3,q3,550,Anang,12,NG,anw,Anaang,I
+3,q3,553,Kadara,12,NG,kad,Adara,I
+3,q3,555,Bahumono,12,NG,bcs,Kohumono,I
+3,q3,556,Boki,12,NG,bky,Bokyi,I
+3,q3,557,Yakurr,12,NG,yaz,Lokaa,I
+3,q3,558,Esan,12,NG,ish,Esan,I
+3,q3,560,Ekpeye,12,NG,ekp,Ekpeye,I
+3,q3,563,Igede,12,NG,ige,Igede,I
+3,q3,565,Taroh,12,NG,yer,Tarok,I
+3,q3,566,Korro,12,NG,ahs,Ashe,I
+3,q3,566,Korro,12,NG,bqv,Koro Wachi,I
+3,q3,566,Korro,12,NG,ldb,Dũya,I
+3,q3,566,Korro,12,NG,yes,Nyankpa,I
+3,q3,567,Ogoni,12,NG,ogo,Khana,I
+3,q3,568,Mbembe,12,NG,mfn,Cross River Mbembe,I
+3,q3,569,Sayawa,12,NG,say,Saya,I
+3,q3,580,Itsekiri,12,NG,its,Isekiri,I
+3,q3,803,Tanchoni,5,KE,lts,Tachoni,I
+3,q3,804,Bukusu,5,KE,bxk,Bukusu,I
+3,q3,805,Nyore,5,KE,nyd,Nyore,I
+3,q3,806,Marama,5,KE,lrm,Marama,I
+3,q3,807,Sabaot,5,KE,spy,Sabaot,I
+3,q3,808,Wanga,5,KE,lwg,Wanga,I
+3,q3,809,Kabarasi,5,KE,lkb,Kabras,I
+3,q3,810,Nyala,5,KE,nle,East Nyala,I
+3,q3,811,Vatsotso,5,KE,lto,Tsotso,I
+3,q3,813,Kipsigis,5,KE,sgc,Kipsigis,I
+3,q3,814,Tugen,5,KE,tuy,Tugen,I
+3,q3,815,Boran,5,KE,gax,Borana-Arsi-Guji Oromo,I
+3,q3,817,Indian,5,KE,guj,Gujarati,I
+3,q3,818,Burji,5,KE,bji,Burji,I
+3,q3,819,Kuria,5,KE,kuj,Kuria,I
+3,q3,820,Gare,5,KE,gex,Garre,I
+3,q3,860,Soli,17,ZM,sby,Soli,I
+3,q3,861,Senga,17,ZM,nse,Nsenga,I
+3,q3,862,Chokwe,17,ZM,cjk,Chokwe,I
+3,q3,863,Luchazi,17,ZM,lch,Luchazi,I
+3,q3,864,Kwamashi,17,ZM,mho,Mashi (Zambia),I
+3,q3,865,Tokaleya,17,ZM,toi,Tonga (Zambia),I
+3,q3,866,Lala,17,ZM,leb,Lala-Bisa,I
+3,q3,995,Other,5,KE,und,Undetermined,S
+3,q3,995,Other,7,MG,und,Undetermined,S
+3,q3,995,Other,9,ML,und,Undetermined,S
+3,q3,995,Other,8,MW,und,Undetermined,S
+3,q3,995,Other,10,MZ,und,Undetermined,S
+3,q3,995,Other,12,NG,und,Undetermined,S
+3,q3,995,Other,15,TZ,und,Undetermined,S
+3,q3,995,Other,16,UG,und,Undetermined,S
+3,q3,995,Other,14,ZA,und,Undetermined,S
+3,q3,995,Other,18,ZW,und,Undetermined,S
+4,Q103,-1,Missing,3,BF,und,Undetermined,S
+4,Q103,-1,Missing,1,BJ,und,Undetermined,S
+4,Q103,-1,Missing,6,KE,und,Undetermined,S
+4,Q103,-1,Missing,12,MZ,und,Undetermined,S
+4,Q103,-1,Missing,15,SN,und,Undetermined,S
+4,Q103,-1,Missing,19,ZM,und,Undetermined,S
+4,Q103,1,English,2,BW,eng,English,I
+4,Q103,1,English,5,GH,eng,English,I
+4,Q103,1,English,6,KE,eng,English,I
+4,Q103,1,English,8,LR,eng,English,I
+4,Q103,1,English,7,LS,eng,English,I
+4,Q103,1,English,10,MW,eng,English,I
+4,Q103,1,English,12,MZ,eng,English,I
+4,Q103,1,English,13,NA,eng,English,I
+4,Q103,1,English,14,NG,eng,English,I
+4,Q103,1,English,18,UG,eng,English,I
+4,Q103,1,English,16,ZA,eng,English,I
+4,Q103,1,English,19,ZM,eng,English,I
+4,Q103,1,English,20,ZW,eng,English,I
+4,Q103,2,French,3,BF,fra,French,I
+4,Q103,2,French,1,BJ,fra,French,I
+4,Q103,2,French,11,ML,fra,French,I
+4,Q103,2,French,15,SN,fra,French,I
+4,Q103,2,French,18,UG,fra,French,I
+4,Q103,3,Portuguese,12,MZ,por,Portuguese,I
+4,Q103,3,Portuguese,18,UG,por,Portuguese,I
+4,Q103,4,Kiswahili,6,KE,swh,Swahili (individual language),I
+4,Q103,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
+4,Q103,4,Kiswahili,18,UG,swh,Swahili (individual language),I
+4,Q103,100,Fon,1,BJ,fon,Fon,I
+4,Q103,101,Adja,1,BJ,ajg,Aja (Benin),I
+4,Q103,102,Bariba,1,BJ,bba,Baatonum,I
+4,Q103,103,Dendi,1,BJ,ddn,Dendi (Benin),I
+4,Q103,104,Yoruba,1,BJ,yor,Yoruba,I
+4,Q103,105,Otamari,1,BJ,tbz,Ditammari,I
+4,Q103,140,Setswana,2,BW,tsn,Tswana,I
+4,Q103,182,Moore,3,BF,mos,Mossi,I
+4,Q103,183,Dioula,3,BF,dyu,Dyula,I
+4,Q103,184,Fulfude,3,BF,fuh,Western Niger Fulfulde,I
+4,Q103,220,Crioulo,4,CV,kea,Kabuverdianu,I
+4,Q103,221,Portugues,4,CV,por,Portuguese,I
+4,Q103,260,Akan,5,GH,aka,Akan,M
+4,Q103,261,Ewe,5,GH,ewe,Ewe,I
+4,Q103,262,Ga/Dangbe,5,GH,ada,Adangme,I
+4,Q103,262,Ga/Dangbe,5,GH,gaa,Ga,I
+4,Q103,263,Dagbani,5,GH,dag,Dagbani,I
+4,Q103,264,Hausa,5,GH,hau,Hausa,I
+4,Q103,272,Kokonba,5,GH,xon,Konkomba,I
+4,Q103,278,Mamprusi,5,GH,maw,Mampruli,I
+4,Q103,300,Kikuyu,6,KE,kik,Kikuyu,I
+4,Q103,301,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
+4,Q103,302,Luhya,6,KE,luy,Luyia,M
+4,Q103,303,Kamba,6,KE,kam,Kamba (Kenya),I
+4,Q103,304,Kalenjin,6,KE,kln,Kalenjin,M
+4,Q103,310,Somali,6,KE,som,Somali,I
+4,Q103,340,Sesotho,7,LS,sot,Southern Sotho,I
+4,Q103,396,Simple Liberian English,8,LR,lir,Liberian English,I
+4,Q103,420,Official malagasy,9,MG,plt,Plateau Malagasy,I
+4,Q103,421,Malagasy with regional variation,9,MG,mlg,Malagasy,M
+4,Q103,460,Tumbuka,10,MW,tum,Tumbuka,I
+4,Q103,463,Chewa,10,MW,nya,Nyanja,I
+4,Q103,464,Yao,10,MW,yao,Yao,I
+4,Q103,500,Arabe,11,ML,mey,Hassaniyya,I
+4,Q103,512,Peulh/ Fulfulde,11,ML,ffm,Maasina Fulfulde,I
+4,Q103,514,Soninke/ Sarakoll,11,ML,snk,Soninke,I
+4,Q103,515,Sonrhai,11,ML,hmb,Humburi Senni Songhay,I
+4,Q103,515,Sonrhai,11,ML,khq,Koyra Chiini Songhay,I
+4,Q103,515,Sonrhai,11,ML,ses,Koyraboro Senni Songhai,I
+4,Q103,516,Tamasheq,11,ML,taq,Tamasheq,I
+4,Q103,516,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+4,Q103,541,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+4,Q103,541,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+4,Q103,541,Makua,12,MZ,vmk,Makhuwa-Shirima,I
+4,Q103,541,Makua,12,MZ,vmw,Makhuwa,I
+4,Q103,541,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+4,Q103,541,Makua,12,MZ,xsq,Makhuwa-Saka,I
+4,Q103,542,Sena,12,MZ,seh,Sena,I
+4,Q103,543,Ndau,12,MZ,ndc,Ndau,I
+4,Q103,545,Changana,12,MZ,tso,Tsonga,I
+4,Q103,547,Bitonga,12,MZ,toh,Gitonga,I
+4,Q103,548,Makonde,12,MZ,kde,Makonde,I
+4,Q103,549,Chuabo,12,MZ,chw,Chuwabu,I
+4,Q103,553,Coti,12,MZ,eko,Koti,I
+4,Q103,555,Lomwe,12,MZ,ngl,Lomwe,I
+4,Q103,559,Shona,12,MZ,ndc,Ndau,I
+4,Q103,561,Tewe,12,MZ,twx,Tewe,I
+4,Q103,580,Afrikaans,13,NA,afr,Afrikaans,I
+4,Q103,583,Oshiwambo,13,NA,kua,Kuanyama,I
+4,Q103,584,Otjiherero,13,NA,her,Herero,I
+4,Q103,585,Rukwangali,13,NA,kwn,Kwangali,I
+4,Q103,620,Hausa,14,NG,hau,Hausa,I
+4,Q103,621,Igbo,14,NG,ibo,Igbo,I
+4,Q103,622,Yoruba,14,NG,yor,Yoruba,I
+4,Q103,623,Pidgin English,14,NG,pcm,Nigerian Pidgin,I
+4,Q103,660,Wolof,15,SN,wol,Wolof,I
+4,Q103,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
+4,Q103,662,Serer,15,SN,srr,Serer,I
+4,Q103,663,Mandinka/Bambara,15,SN,bam,Bambara,I
+4,Q103,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
+4,Q103,665,Diola,15,SN,dyo,Jola-Fonyi,I
+4,Q103,700,Afrikaans,16,ZA,afr,Afrikaans,I
+4,Q103,701,Ndebele,16,ZA,nbl,South Ndebele,I
+4,Q103,702,Xhosa,16,ZA,xho,Xhosa,I
+4,Q103,703,Pedi/Spedi/North Sotho,16,ZA,nso,Pedi,I
+4,Q103,704,Sesotho/Sotho/South Sotho,16,ZA,sot,Southern Sotho,I
+4,Q103,705,Setswana/Tswana,16,ZA,tsn,Tswana,I
+4,Q103,706,Shangaan,16,ZA,tso,Tsonga,I
+4,Q103,707,Swazi,16,ZA,ssw,Swati,I
+4,Q103,708,Venda,16,ZA,ven,Venda,I
+4,Q103,709,Zulu,16,ZA,zul,Zulu,I
+4,Q103,780,Luganda,18,UG,lug,Ganda,I
+4,Q103,781,Runyankole,18,UG,nyn,Nyankole,I
+4,Q103,782,Runyolo,18,UG,nyo,Nyoro,I
+4,Q103,784,Lumasaba,18,UG,myx,Masaaba,I
+4,Q103,787,Ateso,18,UG,teo,Teso,I
+4,Q103,788,Acholi,18,UG,ach,Acoli,I
+4,Q103,789,Alur,18,UG,alz,Alur,I
+4,Q103,790,Lugbara,18,UG,lgg,Lugbara,I
+4,Q103,820,Bemba,19,ZM,bem,Bemba (Zambia),I
+4,Q103,821,Nyanja,19,ZM,nya,Nyanja,I
+4,Q103,822,Tonga,19,ZM,toi,Tonga (Zambia),I
+4,Q103,823,Lozi,19,ZM,loz,Lozi,I
+4,Q103,827,Kaonde,19,ZM,kqn,Kaonde,I
+4,Q103,860,Ndebele,20,ZW,nde,North Ndebele,I
+4,Q103,861,Shona,20,ZW,sna,Shona,I
+4,Q103,995,Others,5,GH,und,Undetermined,S
+4,Q114,1,English,8,LR,eng,English,I
+4,Q114,1,English,14,NG,eng,English,I
+4,Q114,1,English,16,ZA,eng,English,I
+4,Q114,1,English,19,ZM,eng,English,I
+4,Q114,2,French,3,BF,fra,French,I
+4,Q114,2,French,1,BJ,fra,French,I
+4,Q114,2,French,11,ML,fra,French,I
+4,Q114,3,Portuguese,12,MZ,por,Portuguese,I
+4,Q114,4,Kiswahili,6,KE,swh,Swahili (individual language),I
+4,Q114,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
+4,Q114,100,Fon,1,BJ,fon,Fon,I
+4,Q114,101,Adja,1,BJ,ajg,Aja (Benin),I
+4,Q114,102,Bariba,1,BJ,bba,Baatonum,I
+4,Q114,103,Dendi,1,BJ,ddn,Dendi (Benin),I
+4,Q114,104,Yoruba,1,BJ,yor,Yoruba,I
+4,Q114,105,Otamari,1,BJ,tbz,Ditammari,I
+4,Q114,140,Setswana,2,BW,tsn,Tswana,I
+4,Q114,142,Sekgalagadi,2,BW,xkv,Kgalagadi,I
+4,Q114,144,Sekalanga,2,BW,kck,Kalanga,I
+4,Q114,145,Seherero,2,BW,her,Herero,I
+4,Q114,182,Moore,3,BF,mos,Mossi,I
+4,Q114,183,Dioula,3,BF,dyu,Dyula,I
+4,Q114,184,Fulfude,3,BF,fuh,Western Niger Fulfulde,I
+4,Q114,186,Gourounsi,3,BF,gur,Farefare,I
+4,Q114,220,Crioulo,4,CV,kea,Kabuverdianu,I
+4,Q114,221,Portugues,4,CV,por,Portuguese,I
+4,Q114,260,Akan,5,GH,aka,Akan,M
+4,Q114,261,Ewe,5,GH,ewe,Ewe,I
+4,Q114,262,Ga/Dangbe,5,GH,ada,Adangme,I
+4,Q114,262,Ga/Dangbe,5,GH,gaa,Ga,I
+4,Q114,263,Dagbani,5,GH,dag,Dagbani,I
+4,Q114,265,Nzema,5,GH,nzi,Nzima,I
+4,Q114,266,Wassa,5,GH,wss,Wasa,I
+4,Q114,267,Brosa,5,GH,any,Anyin,I
+4,Q114,268,Sefwi,5,GH,sfw,Sehwi,I
+4,Q114,300,Kikuyu,6,KE,kik,Kikuyu,I
+4,Q114,301,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
+4,Q114,302,Luhya,6,KE,luy,Luyia,M
+4,Q114,303,Kamba,6,KE,kam,Kamba (Kenya),I
+4,Q114,304,Kalenjin,6,KE,kln,Kalenjin,M
+4,Q114,305,Kisii,6,KE,guz,Gusii,I
+4,Q114,309,Taita,6,KE,dav,Taita,I
+4,Q114,310,Somali,6,KE,som,Somali,I
+4,Q114,340,Sesotho,7,LS,sot,Southern Sotho,I
+4,Q114,381,Belle,8,LR,blh,Kuwaa,I
+4,Q114,383,Gbandi,8,LR,bza,Bandi,I
+4,Q114,385,Gola,8,LR,gol,Gola,I
+4,Q114,386,Grebo,8,LR,gbo,Northern Grebo,I
+4,Q114,386,Grebo,8,LR,gec,Gboloo Grebo,I
+4,Q114,386,Grebo,8,LR,grj,Southern Grebo,I
+4,Q114,386,Grebo,8,LR,grv,Central Grebo,I
+4,Q114,386,Grebo,8,LR,gry,Barclayville Grebo,I
+4,Q114,387,Kissi,8,LR,kss,Southern Kisi,I
+4,Q114,388,Kpelle,8,LR,xpe,Liberia Kpelle,I
+4,Q114,390,Kru,8,LR,klu,Klao,I
+4,Q114,391,Lorma,8,LR,lom,Loma (Liberia),I
+4,Q114,392,Mandingo,8,LR,mzj,Manya,I
+4,Q114,395,Vai,8,LR,vai,Vai,I
+4,Q114,396,Simple Liberian English,8,LR,lir,Liberian English,I
+4,Q114,420,Official malagasy,9,MG,plt,Plateau Malagasy,I
+4,Q114,421,Malagasy with regional variation,9,MG,mlg,Malagasy,M
+4,Q114,460,Tumbuka,10,MW,tum,Tumbuka,I
+4,Q114,463,Chewa,10,MW,nya,Nyanja,I
+4,Q114,465,Ngoni,10,MW,nya,Nyanja,I
+4,Q114,466,Lomwe,10,MW,lon,Malawi Lomwe,I
+4,Q114,467,Mang'anja,10,MW,nya,Nyanja,I
+4,Q114,473,Ndali,10,MW,ndh,Ndali,I
+4,Q114,501,Bambara,11,ML,bam,Bambara,I
+4,Q114,506,Dogon,11,ML,dds,Donno So Dogon,I
+4,Q114,506,Dogon,11,ML,djm,Jamsay Dogon,I
+4,Q114,506,Dogon,11,ML,dtm,Tomo Kan Dogon,I
+4,Q114,506,Dogon,11,ML,dts,Toro So Dogon,I
+4,Q114,509,Malinke,11,ML,kao,Xaasongaxango,I
+4,Q114,509,Malinke,11,ML,mlq,Western Maninkakan,I
+4,Q114,509,Malinke,11,ML,mwk,Kita Maninkakan,I
+4,Q114,512,Peulh/ Fulfulde,11,ML,ffm,Maasina Fulfulde,I
+4,Q114,513,Senufo/ Mianka,11,ML,myk,Mamara Senoufo,I
+4,Q114,514,Soninke/ Sarakoll,11,ML,snk,Soninke,I
+4,Q114,515,Sonrhai,11,ML,hmb,Humburi Senni Songhay,I
+4,Q114,515,Sonrhai,11,ML,khq,Koyra Chiini Songhay,I
+4,Q114,515,Sonrhai,11,ML,ses,Koyraboro Senni Songhai,I
+4,Q114,516,Tamasheq,11,ML,taq,Tamasheq,I
+4,Q114,516,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+4,Q114,541,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+4,Q114,541,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+4,Q114,541,Makua,12,MZ,vmk,Makhuwa-Shirima,I
+4,Q114,541,Makua,12,MZ,vmw,Makhuwa,I
+4,Q114,541,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+4,Q114,541,Makua,12,MZ,xsq,Makhuwa-Saka,I
+4,Q114,542,Sena,12,MZ,seh,Sena,I
+4,Q114,543,Ndau,12,MZ,ndc,Ndau,I
+4,Q114,545,Changana,12,MZ,tso,Tsonga,I
+4,Q114,546,Chope,12,MZ,cce,Chopi,I
+4,Q114,548,Makonde,12,MZ,kde,Makonde,I
+4,Q114,549,Chuabo,12,MZ,chw,Chuwabu,I
+4,Q114,561,Tewe,12,MZ,twx,Tewe,I
+4,Q114,582,Nama/Damara,13,NA,naq,Khoekhoe,I
+4,Q114,583,Oshiwambo,13,NA,kua,Kuanyama,I
+4,Q114,584,Otjiherero,13,NA,her,Herero,I
+4,Q114,585,Rukwangali,13,NA,kwn,Kwangali,I
+4,Q114,620,Hausa,14,NG,hau,Hausa,I
+4,Q114,621,Igbo,14,NG,ibo,Igbo,I
+4,Q114,622,Yoruba,14,NG,yor,Yoruba,I
+4,Q114,623,Pidgin English,14,NG,pcm,Nigerian Pidgin,I
+4,Q114,624,Efik,14,NG,efi,Efik,I
+4,Q114,625,Ebira,14,NG,igb,Ebira,I
+4,Q114,626,Fulani,14,NG,fub,Adamawa Fulfulde,I
+4,Q114,628,Ibibio,14,NG,ibb,Ibibio,I
+4,Q114,629,Kanuri,14,NG,kau,Kanuri,M
+4,Q114,630,Tiv,14,NG,tiv,Tiv,I
+4,Q114,631,Nupe,14,NG,nup,Nupe-Nupe-Tako,I
+4,Q114,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,14,NG,ijc,Izon,I
+4,Q114,633,Edo,14,NG,bin,Bini,I
+4,Q114,634,Igala,14,NG,igl,Igala,I
+4,Q114,635,Urhobo,14,NG,urh,Urhobo,I
+4,Q114,636,Idoma,14,NG,idu,Idoma,I
+4,Q114,637,Anang,14,NG,anw,Anaang,I
+4,Q114,638,Ikwere,14,NG,ikw,Ikwere,I
+4,Q114,639,Idoma,14,NG,idu,Idoma,I
+4,Q114,640,Esan,14,NG,ish,Esan,I
+4,Q114,643,Igede,14,NG,ige,Igede,I
+4,Q114,645,Marghi,14,NG,mfl,Putai,I
+4,Q114,645,Marghi,14,NG,mfm,Marghi South,I
+4,Q114,645,Marghi,14,NG,mrt,Marghi Central,I
+4,Q114,646,Gbagyi,14,NG,gbr,Gbagyi,I
+4,Q114,647,Ugep,14,NG,yaz,Lokaa,I
+4,Q114,648,Kambari,14,NG,yaz,Lokaa,I
+4,Q114,649,Eggon,14,NG,ego,Eggon,I
+4,Q114,650,Kataf (Atyap),14,NG,kcg,Tyap,I
+4,Q114,651,Abua,14,NG,abn,Abua,I
+4,Q114,652,Mbebe,14,NG,ijs,Southeast Ijo,I
+4,Q114,653,Eleme,14,NG,elm,Eleme,I
+4,Q114,654,Mumuye,14,NG,mzm,Mumuye,I
+4,Q114,655,Ejagam,14,NG,etu,Ejagham,I
+4,Q114,656,Tangale,14,NG,tan,Tangale,I
+4,Q114,657,Ogbia,14,NG,ogb,Ogbia,I
+4,Q114,658,Khana,14,NG,ogo,Khana,I
+4,Q114,659,Jukun,14,NG,jbu,Jukun Takum,I
+4,Q114,660,Wolof,15,SN,wol,Wolof,I
+4,Q114,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
+4,Q114,662,Serer,15,SN,srr,Serer,I
+4,Q114,663,Mandinka/Bambara,15,SN,bam,Bambara,I
+4,Q114,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
+4,Q114,665,Diola,15,SN,dyo,Jola-Fonyi,I
+4,Q114,700,Afrikaans,16,ZA,afr,Afrikaans,I
+4,Q114,701,Ndebele,16,ZA,nbl,South Ndebele,I
+4,Q114,702,Xhosa,16,ZA,xho,Xhosa,I
+4,Q114,703,Pedi/Spedi/North Sotho,16,ZA,nso,Pedi,I
+4,Q114,704,Sesotho/Sotho/South Sotho,16,ZA,sot,Southern Sotho,I
+4,Q114,705,Setswana/Tswana,16,ZA,tsn,Tswana,I
+4,Q114,706,Shangaan,16,ZA,tso,Tsonga,I
+4,Q114,707,Swazi,16,ZA,ssw,Swati,I
+4,Q114,708,Venda,16,ZA,ven,Venda,I
+4,Q114,709,Zulu,16,ZA,zul,Zulu,I
+4,Q114,740,Kinyakyusa,17,TZ,nyy,Nyakyusa-Ngonde,I
+4,Q114,741,Kichaga,17,TZ,old,Mochi,I
+4,Q114,745,Kipare,17,TZ,asa,Asu (Tanzania),I
+4,Q114,746,Kihehe,17,TZ,heh,Hehe,I
+4,Q114,764,Kijita,17,TZ,jit,Jita,I
+4,Q114,777,Kirangi,17,TZ,lag,Langi,I
+4,Q114,780,Luganda,18,UG,lug,Ganda,I
+4,Q114,781,Runyankole,18,UG,nyn,Nyankole,I
+4,Q114,782,Runyolo,18,UG,nyo,Nyoro,I
+4,Q114,783,Lusoga,18,UG,xog,Soga,I
+4,Q114,784,Lumasaba,18,UG,myx,Masaaba,I
+4,Q114,785,Lukhonjo,18,UG,koo,Konzo,I
+4,Q114,787,Ateso,18,UG,teo,Teso,I
+4,Q114,788,Acholi,18,UG,ach,Acoli,I
+4,Q114,789,Alur,18,UG,alz,Alur,I
+4,Q114,790,Lugbara,18,UG,lgg,Lugbara,I
+4,Q114,791,Madi,18,UG,mhi,Ma'di,I
+4,Q114,791,Madi,18,UG,snm,Southern Ma'di,I
+4,Q114,795,Rukiga,18,UG,cgg,Chiga,I
+4,Q114,796,Rutooro,18,UG,ttj,Tooro,I
+4,Q114,797,Langi,18,UG,laj,Lango (Uganda),I
+4,Q114,798,Kakwa,18,UG,keo,Kakwa,I
+4,Q114,820,Bemba,19,ZM,bem,Bemba (Zambia),I
+4,Q114,821,Nyanja,19,ZM,nya,Nyanja,I
+4,Q114,822,Tonga,19,ZM,toi,Tonga (Zambia),I
+4,Q114,823,Lozi,19,ZM,loz,Lozi,I
+4,Q114,824,Chewa,19,ZM,nya,Nyanja,I
+4,Q114,825,Nsenga,19,ZM,nse,Nsenga,I
+4,Q114,826,Tumbuka,19,ZM,tum,Tumbuka,I
+4,Q114,827,Kaonde,19,ZM,kqn,Kaonde,I
+4,Q114,828,Luvale,19,ZM,lue,Luvale,I
+4,Q114,830,Lunda,19,ZM,lun,Lunda,I
+4,Q114,833,Mambwe,19,ZM,mgr,Mambwe-Lungu,I
+4,Q114,846,Mbunda,19,ZM,mck,Mbunda,I
+4,Q114,860,Ndebele,20,ZW,nde,North Ndebele,I
+4,Q114,861,Shona,20,ZW,sna,Shona,I
+4,Q114,863,Kalanga,20,ZW,kck,Kalanga,I
+4,Q114,865,Nambya,20,ZW,nmq,Nambya,I
+4,Q114,995,Others,14,NG,und,Undetermined,S
+4,Q3,-1,Missing,3,BF,und,Undetermined,S
+4,Q3,-1,Missing,6,KE,und,Undetermined,S
+4,Q3,-1,Missing,12,MZ,und,Undetermined,S
+4,Q3,-1,Missing,15,SN,und,Undetermined,S
+4,Q3,1,English,3,BF,eng,English,I
+4,Q3,1,English,5,GH,eng,English,I
+4,Q3,1,English,6,KE,eng,English,I
+4,Q3,1,English,8,LR,eng,English,I
+4,Q3,1,English,7,LS,eng,English,I
+4,Q3,1,English,10,MW,eng,English,I
+4,Q3,1,English,13,NA,eng,English,I
+4,Q3,1,English,16,ZA,eng,English,I
+4,Q3,1,English,19,ZM,eng,English,I
+4,Q3,1,English,20,ZW,eng,English,I
+4,Q3,2,French,3,BF,fra,French,I
+4,Q3,2,French,1,BJ,fra,French,I
+4,Q3,2,French,9,MG,fra,French,I
+4,Q3,2,French,11,ML,fra,French,I
+4,Q3,2,French,15,SN,fra,French,I
+4,Q3,3,Portuguese,12,MZ,por,Portuguese,I
+4,Q3,3,Portuguese,13,NA,por,Portuguese,I
+4,Q3,3,Portuguese,16,ZA,por,Portuguese,I
+4,Q3,4,Kiswahili,6,KE,swh,Swahili (individual language),I
+4,Q3,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
+4,Q3,4,Kiswahili,18,UG,swh,Swahili (individual language),I
+4,Q3,100,Fon,1,BJ,fon,Fon,I
+4,Q3,101,Adja,1,BJ,ajg,Aja (Benin),I
+4,Q3,102,Bariba,1,BJ,bba,Baatonum,I
+4,Q3,103,Dendi,1,BJ,ddn,Dendi (Benin),I
+4,Q3,104,Yoruba,1,BJ,yor,Yoruba,I
+4,Q3,105,Otamari,1,BJ,tbz,Ditammari,I
+4,Q3,106,Peulh,1,BJ,fue,Borgu Fulfulde,I
+4,Q3,106,Peulh,1,BJ,fuh,Western Niger Fulfulde,I
+4,Q3,107,Yoa,1,BJ,pil,Yom,I
+4,Q3,108,Goun,1,BJ,guw,Gun,I
+4,Q3,109,Mina,1,BJ,gej,Gen,I
+4,Q3,110,Idacha,1,BJ,idd,Ede Idaca,I
+4,Q3,111,Shabe,1,BJ,cbj,Ede Cabe,I
+4,Q3,112,Warma,1,BJ,wwa,Waama,I
+4,Q3,140,Setswana,2,BW,tsn,Tswana,I
+4,Q3,141,Sesarwa,2,BW,hio,Tsoa,I
+4,Q3,142,Sekgalagadi,2,BW,xkv,Kgalagadi,I
+4,Q3,143,Sesobea,2,BW,sbs,Subiya,I
+4,Q3,144,Sekalanga,2,BW,kck,Kalanga,I
+4,Q3,145,Seherero,2,BW,her,Herero,I
+4,Q3,146,Sembukushu,2,BW,mhw,Mbukushu,I
+4,Q3,147,Sebirwa,2,BW,brl,Birwa,I
+4,Q3,148,Sengologa,2,BW,xkv,Kgalagadi,I
+4,Q3,149,Seyei,2,BW,yey,Yeyi,I
+4,Q3,152,Setswapong,2,BW,two,Tswapong,I
+4,Q3,182,Moore,3,BF,mos,Mossi,I
+4,Q3,183,Dioula,3,BF,dyu,Dyula,I
+4,Q3,184,Fulfude,3,BF,fuh,Western Niger Fulfulde,I
+4,Q3,185,Gulmacema,3,BF,gux,Gourmanchéma,I
+4,Q3,186,Gourounsi,3,BF,gur,Farefare,I
+4,Q3,187,Bobo,3,BF,bbo,Northern Bobo Madaré,I
+4,Q3,187,Bobo,3,BF,bwq,Southern Bobo Madaré,I
+4,Q3,188,Bissa,3,BF,bib,Bissa,I
+4,Q3,189,Dagari,3,BF,dgi,Northern Dagara,I
+4,Q3,190,Birifor,3,BF,bfo,Malba Birifor,I
+4,Q3,191,Lobi,3,BF,lob,Lobi,I
+4,Q3,192,Samo,3,BF,sbd,Southern Samo,I
+4,Q3,192,Samo,3,BF,stj,Matya Samo,I
+4,Q3,192,Samo,3,BF,sym,Maya Samo,I
+4,Q3,193,Senoufo,3,BF,kza,Western Karaboro,I
+4,Q3,193,Senoufo,3,BF,sen,Nanerigé Sénoufo,I
+4,Q3,193,Senoufo,3,BF,sep,Sìcìté Sénoufo,I
+4,Q3,193,Senoufo,3,BF,seq,Senara Sénoufo,I
+4,Q3,193,Senoufo,3,BF,xrb,Eastern Karaboro,I
+4,Q3,194,Djerma,3,BF,dje,Zarma,I
+4,Q3,195,Goin,3,BF,cme,Cerma,I
+4,Q3,196,Turka,3,BF,tuz,Turka,I
+4,Q3,197,Yanan,3,BF,mos,Mossi,I
+4,Q3,198,Marka,3,BF,rkm,Marka,I
+4,Q3,199,Bwamu,3,BF,bmq,Bomu,I
+4,Q3,199,Bwamu,3,BF,box,Buamu,I
+4,Q3,200,Karaboro,3,BF,kza,Western Karaboro,I
+4,Q3,200,Karaboro,3,BF,xrb,Eastern Karaboro,I
+4,Q3,201,Fuls,3,BF,kfz,Koromfé,I
+4,Q3,202,Sonra,3,BF,hmb,Humburi Senni Songhay,I
+4,Q3,220,Crioulo,4,CV,kea,Kabuverdianu,I
+4,Q3,221,Portugues,4,CV,por,Portuguese,I
+4,Q3,260,Akan,5,GH,aka,Akan,M
+4,Q3,261,Ewe,5,GH,ewe,Ewe,I
+4,Q3,262,Ga/Dangbe,5,GH,ada,Adangme,I
+4,Q3,262,Ga/Dangbe,5,GH,gaa,Ga,I
+4,Q3,263,Dagbani,5,GH,dag,Dagbani,I
+4,Q3,264,Hausa,5,GH,hau,Hausa,I
+4,Q3,265,Nzema,5,GH,nzi,Nzima,I
+4,Q3,266,Wassa,5,GH,wss,Wasa,I
+4,Q3,267,Brosa,5,GH,any,Anyin,I
+4,Q3,268,Sefwi,5,GH,sfw,Sehwi,I
+4,Q3,269,Dagaari,5,GH,dga,Southern Dagaare,I
+4,Q3,270,Gruma,5,GH,bim,Bimoba,I
+4,Q3,271,Frafra,5,GH,gur,Farefare,I
+4,Q3,272,Kokonba,5,GH,xon,Konkomba,I
+4,Q3,273,Dagate,5,GH,dga,Southern Dagaare,I
+4,Q3,274,Kusasi/Kusaase,5,GH,kus,Kusaal,I
+4,Q3,275,Grussi,5,GH,cll,Chala,I
+4,Q3,275,Grussi,5,GH,kdh,Tem,I
+4,Q3,275,Grussi,5,GH,mzw,Deg,I
+4,Q3,275,Grussi,5,GH,ntr,Delo,I
+4,Q3,275,Grussi,5,GH,sig,Paasaal,I
+4,Q3,275,Grussi,5,GH,sil,Tumulung Sisaala,I
+4,Q3,275,Grussi,5,GH,ssl,Western Sisaala,I
+4,Q3,275,Grussi,5,GH,tpm,Tampulma,I
+4,Q3,275,Grussi,5,GH,vag,Vagla,I
+4,Q3,275,Grussi,5,GH,xsm,Kasem,I
+4,Q3,276,Sisila,5,GH,sil,Tumulung Sisaala,I
+4,Q3,276,Sisila,5,GH,ssl,Western Sisaala,I
+4,Q3,277,Waala,5,GH,wlx,Wali (Ghana),I
+4,Q3,278,Mamprusi,5,GH,maw,Mampruli,I
+4,Q3,279,Gruni,5,GH,gur,Farefare,I
+4,Q3,280,Mampruli,5,GH,maw,Mampruli,I
+4,Q3,281,Talensi,5,GH,gur,Farefare,I
+4,Q3,282,Bule,5,GH,bwu,Buli (Ghana),I
+4,Q3,283,Kasem,5,GH,xsm,Kasem,I
+4,Q3,284,Brefo/Birfuo,5,GH,biv,Southern Birifor,I
+4,Q3,285,Basare,5,GH,bud,Ntcham,I
+4,Q3,300,Kikuyu,6,KE,kik,Kikuyu,I
+4,Q3,301,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
+4,Q3,302,Luhya,6,KE,luy,Luyia,M
+4,Q3,303,Kamba,6,KE,kam,Kamba (Kenya),I
+4,Q3,304,Kalenjin,6,KE,kln,Kalenjin,M
+4,Q3,305,Kisii,6,KE,guz,Gusii,I
+4,Q3,306,Meru/Embu,6,KE,ebu,Embu,I
+4,Q3,306,Meru/Embu,6,KE,mer,Meru,I
+4,Q3,307,Masai/Samburu,6,KE,mas,Masai,I
+4,Q3,307,Masai/Samburu,6,KE,saq,Samburu,I
+4,Q3,308,MijiKenda,6,KE,coh,Chonyi-Dzihana-Kauma,I
+4,Q3,308,MijiKenda,6,KE,dug,Duruma,I
+4,Q3,308,MijiKenda,6,KE,nyf,Giryama,I
+4,Q3,309,Taita,6,KE,dav,Taita,I
+4,Q3,310,Somali,6,KE,som,Somali,I
+4,Q3,311,Pokot,6,KE,pko,Pökoot,I
+4,Q3,312,Turkana,6,KE,tuv,Turkana,I
+4,Q3,313,Teso,6,KE,teo,Teso,I
+4,Q3,314,Gabra,6,KE,gax,Borana-Arsi-Guji Oromo,I
+4,Q3,340,Sesotho,7,LS,sot,Southern Sotho,I
+4,Q3,342,Sethepu,7,LS,xho,Xhosa,I
+4,Q3,380,Bassa,8,LR,bsq,Bassa,I
+4,Q3,381,Belle,8,LR,blh,Kuwaa,I
+4,Q3,383,Gbandi,8,LR,bza,Bandi,I
+4,Q3,384,Gio,8,LR,dnj,Dan,I
+4,Q3,385,Gola,8,LR,gol,Gola,I
+4,Q3,386,Grebo,8,LR,gbo,Northern Grebo,I
+4,Q3,386,Grebo,8,LR,gec,Gboloo Grebo,I
+4,Q3,386,Grebo,8,LR,grj,Southern Grebo,I
+4,Q3,386,Grebo,8,LR,grv,Central Grebo,I
+4,Q3,386,Grebo,8,LR,gry,Barclayville Grebo,I
+4,Q3,387,Kissi,8,LR,kss,Southern Kisi,I
+4,Q3,388,Kpelle,8,LR,xpe,Liberia Kpelle,I
+4,Q3,389,Krahn,8,LR,kqo,Eastern Krahn,I
+4,Q3,389,Krahn,8,LR,krw,Western Krahn,I
+4,Q3,390,Kru,8,LR,klu,Klao,I
+4,Q3,391,Lorma,8,LR,lom,Loma (Liberia),I
+4,Q3,392,Mandingo,8,LR,mzj,Manya,I
+4,Q3,393,Mano,8,LR,mev,Mano,I
+4,Q3,394,Mende,8,LR,men,Mende (Sierra Leone),I
+4,Q3,395,Vai,8,LR,vai,Vai,I
+4,Q3,396,Simple Liberian English,8,LR,lir,Liberian English,I
+4,Q3,397,Sarpo,8,LR,krn,Sapo,I
+4,Q3,420,Official malagasy,9,MG,plt,Plateau Malagasy,I
+4,Q3,421,Malagasy with regional variation,9,MG,mlg,Malagasy,M
+4,Q3,460,Tumbuka,10,MW,tum,Tumbuka,I
+4,Q3,461,Nkhonde,10,MW,nyy,Nyakyusa-Ngonde,I
+4,Q3,462,Lambya,10,MW,lai,Lambya,I
+4,Q3,463,Chewa,10,MW,nya,Nyanja,I
+4,Q3,464,Yao,10,MW,yao,Yao,I
+4,Q3,465,Ngoni,10,MW,nya,Nyanja,I
+4,Q3,466,Lomwe,10,MW,lon,Malawi Lomwe,I
+4,Q3,467,Mang'anja,10,MW,nya,Nyanja,I
+4,Q3,468,Sena,10,MW,swk,Malawi Sena,I
+4,Q3,469,Sukwa,10,MW,ndh,Ndali,I
+4,Q3,470,Senga,10,MW,tum,Tumbuka,I
+4,Q3,471,Tonga,10,MW,tog,Tonga (Nyasa),I
+4,Q3,472,Khokhola,10,MW,kzn,Kokola,I
+4,Q3,473,Ndali,10,MW,ndh,Ndali,I
+4,Q3,474,Nyika,10,MW,nkv,Nyika (Malawi and Zambia),I
+4,Q3,476,Namwanga,10,MW,mwn,Nyamwanga,I
+4,Q3,477,Wiza,10,MW,leb,Lala-Bisa,I
+4,Q3,500,Arabe,11,ML,mey,Hassaniyya,I
+4,Q3,501,Bambara,11,ML,bam,Bambara,I
+4,Q3,502,Bella,11,ML,ses,Koyraboro Senni Songhai,I
+4,Q3,503,Bobo,11,ML,bmq,Bomu,I
+4,Q3,504,Bozo,11,ML,boz,Tiéyaxo Bozo,I
+4,Q3,504,Bozo,11,ML,bze,Jenaama Bozo,I
+4,Q3,506,Dogon,11,ML,dds,Donno So Dogon,I
+4,Q3,506,Dogon,11,ML,djm,Jamsay Dogon,I
+4,Q3,506,Dogon,11,ML,dtm,Tomo Kan Dogon,I
+4,Q3,506,Dogon,11,ML,dts,Toro So Dogon,I
+4,Q3,508,Khassonke,11,ML,kao,Xaasongaxango,I
+4,Q3,509,Malinke,11,ML,kao,Xaasongaxango,I
+4,Q3,509,Malinke,11,ML,mlq,Western Maninkakan,I
+4,Q3,509,Malinke,11,ML,mwk,Kita Maninkakan,I
+4,Q3,510,Maure,11,ML,mey,Hassaniyya,I
+4,Q3,511,Mossi,11,ML,mos,Mossi,I
+4,Q3,512,Peulh/ Fulfulde,11,ML,ffm,Maasina Fulfulde,I
+4,Q3,513,Senufo/ Mianka,11,ML,myk,Mamara Senoufo,I
+4,Q3,514,Soninke/ Sarakoll,11,ML,snk,Soninke,I
+4,Q3,515,Sonrhai,11,ML,hmb,Humburi Senni Songhay,I
+4,Q3,515,Sonrhai,11,ML,khq,Koyra Chiini Songhay,I
+4,Q3,515,Sonrhai,11,ML,ses,Koyraboro Senni Songhai,I
+4,Q3,516,Tamasheq,11,ML,taq,Tamasheq,I
+4,Q3,516,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+4,Q3,518,Haoussa,11,ML,hau,Hausa,I
+4,Q3,520,Kakolo,11,ML,xkg,Kagoro,I
+4,Q3,522,Samogo,11,ML,dux,Duungooma,I
+4,Q3,525,Zerma,11,ML,dje,Zarma,I
+4,Q3,541,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+4,Q3,541,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+4,Q3,541,Makua,12,MZ,vmk,Makhuwa-Shirima,I
+4,Q3,541,Makua,12,MZ,vmw,Makhuwa,I
+4,Q3,541,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+4,Q3,541,Makua,12,MZ,xsq,Makhuwa-Saka,I
+4,Q3,542,Sena,12,MZ,seh,Sena,I
+4,Q3,543,Ndau,12,MZ,ndc,Ndau,I
+4,Q3,544,Nyanja,12,MZ,nya,Nyanja,I
+4,Q3,545,Changana,12,MZ,tso,Tsonga,I
+4,Q3,546,Chope,12,MZ,cce,Chopi,I
+4,Q3,547,Bitonga,12,MZ,toh,Gitonga,I
+4,Q3,548,Makonde,12,MZ,kde,Makonde,I
+4,Q3,549,Chuabo,12,MZ,chw,Chuwabu,I
+4,Q3,550,Ajua,12,MZ,yao,Yao,I
+4,Q3,551,Chewa,12,MZ,nya,Nyanja,I
+4,Q3,552,Chiute,12,MZ,twx,Tewe,I
+4,Q3,553,Coti,12,MZ,eko,Koti,I
+4,Q3,555,Lomwe,12,MZ,ngl,Lomwe,I
+4,Q3,556,Nhungue,12,MZ,mxc,Manyika,I
+4,Q3,557,Matsua,12,MZ,tsc,Tswa,I
+4,Q3,558,Ronga,12,MZ,rng,Ronga,I
+4,Q3,559,Shona,12,MZ,ndc,Ndau,I
+4,Q3,561,Tewe,12,MZ,twx,Tewe,I
+4,Q3,562,Xitsau,12,MZ,tsc,Tswa,I
+4,Q3,563,Muani,12,MZ,wmw,Mwani,I
+4,Q3,580,Afrikaans,13,NA,afr,Afrikaans,I
+4,Q3,581,German,13,NA,deu,German,I
+4,Q3,582,Nama/Damara,13,NA,naq,Khoekhoe,I
+4,Q3,583,Oshiwambo,13,NA,kua,Kuanyama,I
+4,Q3,584,Otjiherero,13,NA,her,Herero,I
+4,Q3,585,Rukwangali,13,NA,kwn,Kwangali,I
+4,Q3,586,Rugririku,13,NA,diu,Diriku,I
+4,Q3,587,Thimbukushu,13,NA,mhw,Mbukushu,I
+4,Q3,588,Silozi,13,NA,loz,Lozi,I
+4,Q3,589,Setswana,13,NA,tsn,Tswana,I
+4,Q3,590,Masubia,13,NA,sbs,Subiya,I
+4,Q3,591,San,13,NA,ktz,Ju/'hoan,I
+4,Q3,592,Mufwe,13,NA,fwe,Fwe,I
+4,Q3,593,Nyemba,13,NA,kua,Kuanyama,I
+4,Q3,594,Uumbundu,13,NA,umb,Umbundu,I
+4,Q3,620,Hausa,14,NG,hau,Hausa,I
+4,Q3,621,Igbo,14,NG,ibo,Igbo,I
+4,Q3,622,Yoruba,14,NG,yor,Yoruba,I
+4,Q3,623,Pidgin English,14,NG,pcm,Nigerian Pidgin,I
+4,Q3,624,Efik,14,NG,efi,Efik,I
+4,Q3,625,Ebira,14,NG,igb,Ebira,I
+4,Q3,626,Fulani,14,NG,fub,Adamawa Fulfulde,I
+4,Q3,627,Isoko,14,NG,iso,Isoko,I
+4,Q3,628,Ibibio,14,NG,ibb,Ibibio,I
+4,Q3,629,Kanuri,14,NG,kau,Kanuri,M
+4,Q3,630,Tiv,14,NG,tiv,Tiv,I
+4,Q3,631,Nupe,14,NG,nup,Nupe-Nupe-Tako,I
+4,Q3,632,Ijaw/Kalabari/Okirika/Andoni/Ogoni/Nembe,14,NG,ijc,Izon,I
+4,Q3,633,Edo,14,NG,bin,Bini,I
+4,Q3,634,Igala,14,NG,igl,Igala,I
+4,Q3,635,Urhobo,14,NG,urh,Urhobo,I
+4,Q3,637,Anang,14,NG,anw,Anaang,I
+4,Q3,638,Ikwere,14,NG,ikw,Ikwere,I
+4,Q3,639,Idoma,14,NG,idu,Idoma,I
+4,Q3,640,Esan,14,NG,ish,Esan,I
+4,Q3,643,Igede,14,NG,ige,Igede,I
+4,Q3,644,Babur,14,NG,bwr,Bura-Pabir,I
+4,Q3,645,Marghi,14,NG,mfl,Putai,I
+4,Q3,645,Marghi,14,NG,mfm,Marghi South,I
+4,Q3,645,Marghi,14,NG,mrt,Marghi Central,I
+4,Q3,646,Gbagyi,14,NG,gbr,Gbagyi,I
+4,Q3,647,Ugep,14,NG,yaz,Lokaa,I
+4,Q3,648,Kambari,14,NG,yaz,Lokaa,I
+4,Q3,649,Eggon,14,NG,ego,Eggon,I
+4,Q3,650,Kataf (Atyap),14,NG,kcg,Tyap,I
+4,Q3,651,Abua,14,NG,abn,Abua,I
+4,Q3,653,Eleme,14,NG,elm,Eleme,I
+4,Q3,654,Mumuye,14,NG,mzm,Mumuye,I
+4,Q3,655,Ejagam,14,NG,etu,Ejagham,I
+4,Q3,656,Tangale,14,NG,tan,Tangale,I
+4,Q3,657,Ogbia,14,NG,ogb,Ogbia,I
+4,Q3,658,Khana,14,NG,ogo,Khana,I
+4,Q3,659,Jukun,14,NG,jbu,Jukun Takum,I
+4,Q3,660,Wolof,15,SN,wol,Wolof,I
+4,Q3,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
+4,Q3,662,Serer,15,SN,srr,Serer,I
+4,Q3,663,Mandinka/Bambara,15,SN,bam,Bambara,I
+4,Q3,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
+4,Q3,664,Soninke,15,SN,snk,Soninke,I
+4,Q3,665,Diola,15,SN,dyo,Jola-Fonyi,I
+4,Q3,666,Manjack,15,SN,mfv,Mandjak,I
+4,Q3,667,Bainouk,15,SN,bcb,Bainouk-Samik,I
+4,Q3,667,Bainouk,15,SN,bcz,Bainouk-Gunyaamolo,I
+4,Q3,668,Bassari,15,SN,bsc,Bassari,I
+4,Q3,669,Maure,15,SN,mey,Hassaniyya,I
+4,Q3,700,Afrikaans,16,ZA,afr,Afrikaans,I
+4,Q3,701,Ndebele,16,ZA,nbl,South Ndebele,I
+4,Q3,702,Xhosa,16,ZA,xho,Xhosa,I
+4,Q3,703,Pedi/Spedi/North Sotho,16,ZA,nso,Pedi,I
+4,Q3,704,Sesotho/Sotho/South Sotho,16,ZA,sot,Southern Sotho,I
+4,Q3,705,Setswana/Tswana,16,ZA,tsn,Tswana,I
+4,Q3,706,Shangaan,16,ZA,tso,Tsonga,I
+4,Q3,707,Swazi,16,ZA,ssw,Swati,I
+4,Q3,708,Venda,16,ZA,ven,Venda,I
+4,Q3,709,Zulu,16,ZA,zul,Zulu,I
+4,Q3,710,Asian/Indian,16,ZA,hin,Hindi,I
+4,Q3,740,Kinyakyusa,17,TZ,nyy,Nyakyusa-Ngonde,I
+4,Q3,741,Kichaga,17,TZ,old,Mochi,I
+4,Q3,742,Kihaya,17,TZ,hay,Haya,I
+4,Q3,743,Kingoni,17,TZ,ngo,Ngoni,I
+4,Q3,744,Kikwere,17,TZ,ked,Kerewe,I
+4,Q3,745,Kipare,17,TZ,asa,Asu (Tanzania),I
+4,Q3,746,Kihehe,17,TZ,heh,Hehe,I
+4,Q3,747,Kimakonde,17,TZ,kde,Makonde,I
+4,Q3,748,Kinyamwezi,17,TZ,nym,Nyamwezi,I
+4,Q3,749,Kisukuma,17,TZ,suk,Sukuma,I
+4,Q3,750,Kimasai,17,TZ,mas,Masai,I
+4,Q3,752,Kikurya,17,TZ,kuj,Kuria,I
+4,Q3,753,Kigogo,17,TZ,gog,Gogo,I
+4,Q3,754,Kiluguru,17,TZ,ruf,Luguru,I
+4,Q3,755,Kifipa,17,TZ,fip,Fipa,I
+4,Q3,756,Kimanyema,17,TZ,nym,Nyamwezi,I
+4,Q3,757,Kinyiramba,17,TZ,nim,Nilamba,I
+4,Q3,758,Kinyaturu,17,TZ,rim,Nyaturu,I
+4,Q3,759,Kibena,17,TZ,bez,Bena (Tanzania),I
+4,Q3,760,Kiha,17,TZ,haq,Ha,I
+4,Q3,761,Kihangaza,17,TZ,han,Hangaza,I
+4,Q3,762,Kiiraqi,17,TZ,irk,Iraqw,I
+4,Q3,763,Kijaluo,17,TZ,luo,Luo (Kenya and Tanzania),I
+4,Q3,764,Kijita,17,TZ,jit,Jita,I
+4,Q3,765,Kikinga,17,TZ,zga,Kinga,I
+4,Q3,766,Kimatengo,17,TZ,mgv,Matengo,I
+4,Q3,767,Kimwera,17,TZ,mwe,Mwera (Chimwera),I
+4,Q3,768,Kindali,17,TZ,ndh,Ndali,I
+4,Q3,769,Kindendeule,17,TZ,dne,Ndendeule,I
+4,Q3,770,Kinyambo,17,TZ,now,Nyambo,I
+4,Q3,771,Kipogoro,17,TZ,poy,Pogolo,I
+4,Q3,772,Kisambaa,17,TZ,ksb,Shambala,I
+4,Q3,773,Kiyao,17,TZ,yao,Yao,I
+4,Q3,774,Kizaramo,17,TZ,zaj,Zaramo,I
+4,Q3,775,Kizigua,17,TZ,ziw,Zigula,I
+4,Q3,776,Kizinza,17,TZ,zin,Zinza,I
+4,Q3,777,Kirangi,17,TZ,lag,Langi,I
+4,Q3,780,Luganda,18,UG,lug,Ganda,I
+4,Q3,781,Runyankole,18,UG,nyn,Nyankole,I
+4,Q3,782,Runyolo,18,UG,nyo,Nyoro,I
+4,Q3,783,Lusoga,18,UG,xog,Soga,I
+4,Q3,784,Lumasaba,18,UG,myx,Masaaba,I
+4,Q3,785,Lukhonjo,18,UG,koo,Konzo,I
+4,Q3,786,Lunyole,18,UG,nuj,Nyole,I
+4,Q3,787,Ateso,18,UG,teo,Teso,I
+4,Q3,788,Acholi,18,UG,ach,Acoli,I
+4,Q3,789,Alur,18,UG,alz,Alur,I
+4,Q3,790,Lugbara,18,UG,lgg,Lugbara,I
+4,Q3,791,Madi,18,UG,mhi,Ma'di,I
+4,Q3,791,Madi,18,UG,snm,Southern Ma'di,I
+4,Q3,792,Japhadhola,18,UG,adh,Adhola,I
+4,Q3,793,Lusamia,18,UG,lsm,Saamia,I
+4,Q3,794,Lugwere,18,UG,gwr,Gwere,I
+4,Q3,795,Rukiga,18,UG,cgg,Chiga,I
+4,Q3,796,Rutooro,18,UG,ttj,Tooro,I
+4,Q3,797,Langi,18,UG,laj,Lango (Uganda),I
+4,Q3,798,Kakwa,18,UG,keo,Kakwa,I
+4,Q3,799,Kumam,18,UG,kdi,Kumam,I
+4,Q3,800,Lululi,18,UG,ruc,Ruuli,I
+4,Q3,801,Lwamba,18,UG,rwm,Amba (Uganda),I
+4,Q3,802,Nubian,18,UG,kcn,Nubi,I
+4,Q3,803,Rufumbira,18,UG,kin,Kinyarwanda,I
+4,Q3,804,Runyarwanda,18,UG,kin,Kinyarwanda,I
+4,Q3,805,Sabiny,18,UG,kpz,Kupsabiny,I
+4,Q3,820,Bemba,19,ZM,bem,Bemba (Zambia),I
+4,Q3,821,Nyanja,19,ZM,nya,Nyanja,I
+4,Q3,822,Tonga,19,ZM,toi,Tonga (Zambia),I
+4,Q3,823,Lozi,19,ZM,loz,Lozi,I
+4,Q3,824,Chewa,19,ZM,nya,Nyanja,I
+4,Q3,825,Nsenga,19,ZM,nse,Nsenga,I
+4,Q3,826,Tumbuka,19,ZM,tum,Tumbuka,I
+4,Q3,827,Kaonde,19,ZM,kqn,Kaonde,I
+4,Q3,828,Luvale,19,ZM,lue,Luvale,I
+4,Q3,829,Namwanga,19,ZM,mwn,Nyamwanga,I
+4,Q3,830,Lunda,19,ZM,lun,Lunda,I
+4,Q3,831,Bisa,19,ZM,leb,Lala-Bisa,I
+4,Q3,832,Nkoya,19,ZM,nka,Nkoya,I
+4,Q3,833,Mambwe,19,ZM,mgr,Mambwe-Lungu,I
+4,Q3,834,Lenje,19,ZM,leh,Lenje,I
+4,Q3,835,Ngoni,19,ZM,nse,Nsenga,I
+4,Q3,836,Soli,19,ZM,sby,Soli,I
+4,Q3,837,Ila,19,ZM,ilb,Ila,I
+4,Q3,838,Kunda,19,ZM,kdn,Kunda,I
+4,Q3,838,Kunda,19,ZM,nya,Nyanja,I
+4,Q3,839,Lala,19,ZM,leb,Lala-Bisa,I
+4,Q3,840,Lamba,19,ZM,lam,Lamba,I
+4,Q3,841,Lungu,19,ZM,mgr,Mambwe-Lungu,I
+4,Q3,842,Nyika,19,ZM,nih,Nyiha (Tanzania),I
+4,Q3,842,Nyika,19,ZM,nkv,Nyika (Malawi and Zambia),I
+4,Q3,843,Senga,19,ZM,nse,Nsenga,I
+4,Q3,844,Tokaleya,19,ZM,toi,Tonga (Zambia),I
+4,Q3,845,Ushi,19,ZM,auh,Aushi,I
+4,Q3,860,Ndebele,20,ZW,nde,North Ndebele,I
+4,Q3,861,Shona,20,ZW,sna,Shona,I
+4,Q3,862,Venda,20,ZW,ven,Venda,I
+4,Q3,863,Kalanga,20,ZW,kck,Kalanga,I
+4,Q3,864,Tonga,20,ZW,toi,Tonga (Zambia),I
+4,Q3,865,Nambya,20,ZW,nmq,Nambya,I
+4,Q3,866,Nyanja,20,ZW,nya,Nyanja,I
+4,Q3,995,Others,3,BF,und,Undetermined,S
+4,Q3,995,Others,1,BJ,und,Undetermined,S
+4,Q3,995,Others,2,BW,und,Undetermined,S
+4,Q3,995,Others,5,GH,und,Undetermined,S
+4,Q3,995,Others,6,KE,und,Undetermined,S
+4,Q3,995,Others,7,LS,und,Undetermined,S
+4,Q3,995,Others,12,MZ,und,Undetermined,S
+4,Q3,995,Others,14,NG,und,Undetermined,S
+4,Q3,995,Others,15,SN,und,Undetermined,S
+4,Q3,995,Others,17,TZ,und,Undetermined,S
+4,Q3,995,Others,18,UG,und,Undetermined,S
+4,Q3,995,Others,16,ZA,und,Undetermined,S
+4,Q3,995,Others,19,ZM,und,Undetermined,S
+4,Q3,995,Others,20,ZW,und,Undetermined,S
+5,Q103,-1,Missing,6,KE,und,Undetermined,S
+5,Q103,-1,Missing,8,LR,und,Undetermined,S
+5,Q103,-1,Missing,12,MZ,und,Undetermined,S
+5,Q103,-1,Missing,13,NA,und,Undetermined,S
+5,Q103,-1,Missing,16,ZA,und,Undetermined,S
+5,Q103,-1,Missing,20,ZW,und,Undetermined,S
+5,Q103,1,English,1,BJ,eng,English,I
+5,Q103,1,English,2,BW,eng,English,I
+5,Q103,1,English,26,CM,eng,English,I
+5,Q103,1,English,5,GH,eng,English,I
+5,Q103,1,English,6,KE,eng,English,I
+5,Q103,1,English,8,LR,eng,English,I
+5,Q103,1,English,7,LS,eng,English,I
+5,Q103,1,English,21,MU,eng,English,I
+5,Q103,1,English,10,MW,eng,English,I
+5,Q103,1,English,13,NA,eng,English,I
+5,Q103,1,English,14,NG,eng,English,I
+5,Q103,1,English,22,SL,eng,English,I
+5,Q103,1,English,30,SZ,eng,English,I
+5,Q103,1,English,18,UG,eng,English,I
+5,Q103,1,English,16,ZA,eng,English,I
+5,Q103,1,English,19,ZM,eng,English,I
+5,Q103,1,English,20,ZW,eng,English,I
+5,Q103,2,French,3,BF,fra,French,I
+5,Q103,2,French,25,BI,fra,French,I
+5,Q103,2,French,1,BJ,fra,French,I
+5,Q103,2,French,27,CI,fra,French,I
+5,Q103,2,French,26,CM,fra,French,I
+5,Q103,2,French,28,GN,fra,French,I
+5,Q103,2,French,9,MG,fra,French,I
+5,Q103,2,French,11,ML,fra,French,I
+5,Q103,2,French,21,MU,fra,French,I
+5,Q103,2,French,23,NE,fra,French,I
+5,Q103,2,French,15,SN,fra,French,I
+5,Q103,2,French,24,TG,fra,French,I
+5,Q103,3,Portuguese,4,CV,por,Portuguese,I
+5,Q103,3,Portuguese,9,MG,por,Portuguese,I
+5,Q103,3,Portuguese,12,MZ,por,Portuguese,I
+5,Q103,4,Kiswahili,6,KE,swh,Swahili (individual language),I
+5,Q103,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
+5,Q103,5,Arabic,31,DZ,arb,Standard Arabic,I
+5,Q103,5,Arabic,32,EG,arb,Standard Arabic,I
+5,Q103,5,Arabic,33,MA,arb,Standard Arabic,I
+5,Q103,5,Arabic,34,SD,arb,Standard Arabic,I
+5,Q103,5,Arabic,35,TN,arb,Standard Arabic,I
+5,Q103,7,Afrikaans,13,NA,afr,Afrikaans,I
+5,Q103,7,Afrikaans,16,ZA,afr,Afrikaans,I
+5,Q103,13,Dioula,3,BF,dyu,Dyula,I
+5,Q103,13,Dioula,27,CI,dyu,Dyula,I
+5,Q103,15,Fulfuldé,3,BF,fuh,Western Niger Fulfulde,I
+5,Q103,15,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
+5,Q103,15,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
+5,Q103,17,Hausa,5,GH,hau,Hausa,I
+5,Q103,17,Hausa,14,NG,hau,Hausa,I
+5,Q103,26,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
+5,Q103,26,Luo,18,UG,ach,Acoli,I
+5,Q103,26,Luo,18,UG,adh,Adhola,I
+5,Q103,26,Luo,18,UG,alz,Alur,I
+5,Q103,26,Luo,18,UG,kdi,Kumam,I
+5,Q103,26,Luo,18,UG,laj,Lango (Uganda),I
+5,Q103,26,Luo,18,UG,lth,Thur,I
+5,Q103,29,Ndau,12,MZ,ndc,Ndau,I
+5,Q103,29,Ndau,20,ZW,ndc,Ndau,I
+5,Q103,35,siSwati,30,SZ,ssw,Swati,I
+5,Q103,35,siSwati,16,ZA,ssw,Swati,I
+5,Q103,39,Yoruba,1,BJ,yor,Yoruba,I
+5,Q103,39,Yoruba,14,NG,yor,Yoruba,I
+5,Q103,100,Fon,1,BJ,fon,Fon,I
+5,Q103,101,Adja,1,BJ,ajg,Aja (Benin),I
+5,Q103,102,Bariba,1,BJ,bba,Baatonum,I
+5,Q103,103,Dendi,1,BJ,ddn,Dendi (Benin),I
+5,Q103,140,Setswana,2,BW,tsn,Tswana,I
+5,Q103,180,Mooré,3,BF,mos,Mossi,I
+5,Q103,220,Crioulo,4,CV,kea,Kabuverdianu,I
+5,Q103,260,Akan,5,GH,aka,Akan,M
+5,Q103,261,Ewe,5,GH,ewe,Ewe,I
+5,Q103,262,Ga/Dangbe,5,GH,ada,Adangme,I
+5,Q103,262,Ga/Dangbe,5,GH,gaa,Ga,I
+5,Q103,263,Dagbani,5,GH,dag,Dagbani,I
+5,Q103,300,Kikuyu,6,KE,kik,Kikuyu,I
+5,Q103,302,Luhya,6,KE,luy,Luyia,M
+5,Q103,303,Kamba,6,KE,kam,Kamba (Kenya),I
+5,Q103,304,Kalenjin,6,KE,kln,Kalenjin,M
+5,Q103,340,Sesotho,7,LS,sot,Southern Sotho,I
+5,Q103,396,Liberian Simple English,8,LR,lir,Liberian English,I
+5,Q103,420,"""Official"" Malagasy",9,MG,plt,Plateau Malagasy,I
+5,Q103,421,Malagasy dialect,9,MG,mlg,Malagasy,M
+5,Q103,460,Chitumbuka,10,MW,tum,Tumbuka,I
+5,Q103,461,Chichewa,10,MW,nya,Nyanja,I
+5,Q103,501,Bambara,11,ML,bam,Bambara,I
+5,Q103,513,Peulh / Fulfude,11,ML,ffm,Maasina Fulfulde,I
+5,Q103,516,Soninke,11,ML,snk,Soninke,I
+5,Q103,518,Tamasheq,11,ML,taq,Tamasheq,I
+5,Q103,518,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+5,Q103,540,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+5,Q103,540,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+5,Q103,540,Makua,12,MZ,vmk,Makhuwa-Shirima,I
+5,Q103,540,Makua,12,MZ,vmw,Makhuwa,I
+5,Q103,540,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+5,Q103,540,Makua,12,MZ,xsq,Makhuwa-Saka,I
+5,Q103,541,Sena,12,MZ,seh,Sena,I
+5,Q103,543,Changana,12,MZ,tso,Tsonga,I
+5,Q103,583,Oshiwambo,13,NA,kua,Kuanyama,I
+5,Q103,584,Otjiherero,13,NA,her,Herero,I
+5,Q103,585,Rukwangali,13,NA,kwn,Kwangali,I
+5,Q103,621,Igbo,14,NG,ibo,Igbo,I
+5,Q103,623,Pidgin English,14,NG,pcm,Nigerian Pidgin,I
+5,Q103,660,Wolof,15,SN,wol,Wolof,I
+5,Q103,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
+5,Q103,665,Diola,15,SN,dyo,Jola-Fonyi,I
+5,Q103,702,Xhosa,16,ZA,xho,Xhosa,I
+5,Q103,703,Pedi/Spedi/North Sotho,16,ZA,nso,Pedi,I
+5,Q103,704,Sesotho/Sotho/South Sotho,16,ZA,sot,Southern Sotho,I
+5,Q103,705,Setswana/Tswana,16,ZA,tsn,Tswana,I
+5,Q103,706,Shangaan,16,ZA,tso,Tsonga,I
+5,Q103,707,Swazi,16,ZA,ssw,Swati,I
+5,Q103,708,Venda,16,ZA,ven,Venda,I
+5,Q103,709,Zulu,16,ZA,zul,Zulu,I
+5,Q103,711,Mixed - English/Afrikaans,16,ZA,afr,Afrikaans,I
+5,Q103,712,Tsonga,16,ZA,tso,Tsonga,I
+5,Q103,780,Luganda,18,UG,lug,Ganda,I
+5,Q103,781,Runyankole-Rukiga,18,UG,nyn,Nyankole,I
+5,Q103,782,Runyoro-Rutooro,18,UG,nyo,Nyoro,I
+5,Q103,783,Lusoga,18,UG,xog,Soga,I
+5,Q103,784,Lumasaba,18,UG,myx,Masaaba,I
+5,Q103,787,Ateso,18,UG,teo,Teso,I
+5,Q103,789,Alur,18,UG,alz,Alur,I
+5,Q103,790,Lugbara,18,UG,lgg,Lugbara,I
+5,Q103,791,Madi,18,UG,mhi,Ma'di,I
+5,Q103,791,Madi,18,UG,snm,Southern Ma'di,I
+5,Q103,792,Japadhola,18,UG,adh,Adhola,I
+5,Q103,798,Kupsabinyi,18,UG,kpz,Kupsabiny,I
+5,Q103,799,Ngakarimajong,18,UG,kdj,Karamojong,I
+5,Q103,809,Lugwere,18,UG,gwr,Gwere,I
+5,Q103,820,Chewa/nyanja,19,ZM,nya,Nyanja,I
+5,Q103,821,Ichibemba,19,ZM,bem,Bemba (Zambia),I
+5,Q103,822,Tonga,19,ZM,toi,Tonga (Zambia),I
+5,Q103,823,Kikaonde,19,ZM,kqn,Kaonde,I
+5,Q103,824,Silozi,19,ZM,loz,Lozi,I
+5,Q103,860,Ndebele,20,ZW,nde,North Ndebele,I
+5,Q103,861,Shona,20,ZW,sna,Shona,I
+5,Q103,900,Creole,21,MU,mfe,Morisyen,I
+5,Q103,930,Krio,22,SL,kri,Krio,I
+5,Q103,931,Mende,22,SL,men,Mende (Sierra Leone),I
+5,Q103,932,Temne,22,SL,tem,Timne,I
+5,Q103,933,Limba,22,SL,lia,West-Central Limba,I
+5,Q103,933,Limba,22,SL,lma,East Limba,I
+5,Q103,1100,Haoussa,23,NE,hau,Hausa,I
+5,Q103,1101,Zarrma/Songhaï,23,NE,dje,Zarma,I
+5,Q103,1103,Touareg,23,NE,thv,Tahaggart Tamahaq,I
+5,Q103,1103,Touareg,23,NE,ttq,Tawallammat Tamajaq,I
+5,Q103,1140,Ewé,24,TG,ewe,Ewe,I
+5,Q103,1142,Kabyè,24,TG,kbp,Kabiyè,I
+5,Q103,1143,Tem (Kotokoli),24,TG,kdh,Tem,I
+5,Q103,1144,Ben (Moba),24,TG,mfq,Moba,I
+5,Q103,1145,Nawdem (Losso),24,TG,nmz,Nawdm,I
+5,Q103,1180,Kirundi,25,BI,run,Rundi,I
+5,Q103,1220,Foufoulde,26,CM,fub,Adamawa Fulfulde,I
+5,Q103,1221,Pidgin,26,CM,wes,Cameroon Pidgin,I
+5,Q103,1222,Ewondo,26,CM,ewo,Ewondo,I
+5,Q103,1223,Bafang,26,CM,fmp,Fe'fe',I
+5,Q103,1300,Soussou,28,GN,sus,Susu,I
+5,Q103,1301,Poular,28,GN,fuf,Pular,I
+5,Q103,1302,Maninka,28,GN,emk,Eastern Maninkakan,I
+5,Q103,1303,Kpélé,28,GN,gkp,Guinea Kpelle,I
+5,Q103,1304,Toma,28,GN,tod,Toma,I
+5,Q103,1305,Kissié,28,GN,kqs,Northern Kissi,I
+5,Q103,9995,Other,1,BJ,und,Undetermined,S
+5,Q103,9995,Other,26,CM,und,Undetermined,S
+5,Q103,9995,Other,28,GN,und,Undetermined,S
+5,Q103,9995,Other,6,KE,und,Undetermined,S
+5,Q103,9995,Other,7,LS,und,Undetermined,S
+5,Q103,9995,Other,21,MU,und,Undetermined,S
+5,Q103,9995,Other,12,MZ,und,Undetermined,S
+5,Q103,9995,Other,22,SL,und,Undetermined,S
+5,Q103,9995,Other,15,SN,und,Undetermined,S
+5,Q103,9995,Other,30,SZ,und,Undetermined,S
+5,Q103,9995,Other,24,TG,und,Undetermined,S
+5,Q103,9995,Other,19,ZM,und,Undetermined,S
+5,Q103,9995,Other,20,ZW,und,Undetermined,S
+5,Q116,1,English,26,CM,eng,English,I
+5,Q116,1,English,5,GH,eng,English,I
+5,Q116,1,English,8,LR,eng,English,I
+5,Q116,1,English,22,SL,eng,English,I
+5,Q116,1,English,16,ZA,eng,English,I
+5,Q116,2,French,27,CI,fra,French,I
+5,Q116,3,Portuguese,12,MZ,por,Portuguese,I
+5,Q116,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
+5,Q116,5,Arabic,31,DZ,arq,Algerian Arabic,I
+5,Q116,5,Arabic,32,EG,arz,Egyptian Arabic,I
+5,Q116,5,Arabic,33,MA,ary,Moroccan Arabic,I
+5,Q116,5,Arabic,34,SD,apd,Sudanese Arabic,I
+5,Q116,5,Arabic,35,TN,aeb,Tunisian Arabic,I
+5,Q116,10,Bassa,26,CM,bas,Basa (Cameroon),I
+5,Q116,10,Bassa,8,LR,bsq,Bassa,I
+5,Q116,10,Bassa,14,NG,bzw,Basa (Nigeria),I
+5,Q116,15,Fulfuldé,3,BF,fuh,Western Niger Fulfulde,I
+5,Q116,15,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
+5,Q116,15,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
+5,Q116,17,Hausa,5,GH,hau,Hausa,I
+5,Q116,17,Hausa,14,NG,hau,Hausa,I
+5,Q116,29,Ndau,12,MZ,ndc,Ndau,I
+5,Q116,29,Ndau,20,ZW,ndc,Ndau,I
+5,Q116,30,Ndebele,16,ZA,nbl,South Ndebele,I
+5,Q116,30,Ndebele,20,ZW,nde,North Ndebele,I
+5,Q116,39,Yoruba,1,BJ,yor,Yoruba,I
+5,Q116,39,Yoruba,14,NG,yor,Yoruba,I
+5,Q116,100,Fon,1,BJ,fon,Fon,I
+5,Q116,101,Adja,1,BJ,ajg,Aja (Benin),I
+5,Q116,102,Bariba,1,BJ,bba,Baatonum,I
+5,Q116,103,Dendi,1,BJ,ddn,Dendi (Benin),I
+5,Q116,106,Peulh,1,BJ,fue,Borgu Fulfulde,I
+5,Q116,106,Peulh,1,BJ,fuh,Western Niger Fulfulde,I
+5,Q116,108,Boo,1,BJ,bqc,Boko (Benin),I
+5,Q116,140,Setswana,2,BW,tsn,Tswana,I
+5,Q116,144,Ikalanga/Sekalaka,2,BW,kck,Kalanga,I
+5,Q116,147,Sebirwa,2,BW,brl,Birwa,I
+5,Q116,180,Mooré,3,BF,mos,Mossi,I
+5,Q116,181,Dioula,3,BF,dyu,Dyula,I
+5,Q116,184,Gourounsi,3,BF,gur,Farefare,I
+5,Q116,185,Bissa,3,BF,bib,Bissa,I
+5,Q116,189,Lobi,3,BF,lob,Lobi,I
+5,Q116,192,Bwamu,3,BF,bmq,Bomu,I
+5,Q116,192,Bwamu,3,BF,box,Buamu,I
+5,Q116,196,Kassena,3,BF,xsm,Kasem,I
+5,Q116,197,Fulsé,3,BF,kfz,Koromfé,I
+5,Q116,220,Crioulo,4,CV,kea,Kabuverdianu,I
+5,Q116,260,Akan,5,GH,aka,Akan,M
+5,Q116,261,Ewe,5,GH,ewe,Ewe,I
+5,Q116,262,Ga/Dangbe,5,GH,ada,Adangme,I
+5,Q116,262,Ga/Dangbe,5,GH,gaa,Ga,I
+5,Q116,263,Dagbani,5,GH,dag,Dagbani,I
+5,Q116,265,Dagare,5,GH,dga,Southern Dagaare,I
+5,Q116,266,Waale,5,GH,wlx,Wali (Ghana),I
+5,Q116,272,Frafra,5,GH,gur,Farefare,I
+5,Q116,300,Kikuyu,6,KE,kik,Kikuyu,I
+5,Q116,301,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
+5,Q116,302,Luhya,6,KE,luy,Luyia,M
+5,Q116,303,Kamba,6,KE,kam,Kamba (Kenya),I
+5,Q116,304,Kalenjin,6,KE,kln,Kalenjin,M
+5,Q116,305,Kisii,6,KE,guz,Gusii,I
+5,Q116,306,Meru / Embu,6,KE,ebu,Embu,I
+5,Q116,306,Meru / Embu,6,KE,mer,Meru,I
+5,Q116,310,Somali,6,KE,som,Somali,I
+5,Q116,340,Sesotho,7,LS,sot,Southern Sotho,I
+5,Q116,384,Gio,8,LR,dnj,Dan,I
+5,Q116,385,Gola,8,LR,gol,Gola,I
+5,Q116,386,Grebo,8,LR,gbo,Northern Grebo,I
+5,Q116,386,Grebo,8,LR,gec,Gboloo Grebo,I
+5,Q116,386,Grebo,8,LR,grj,Southern Grebo,I
+5,Q116,386,Grebo,8,LR,grv,Central Grebo,I
+5,Q116,386,Grebo,8,LR,gry,Barclayville Grebo,I
+5,Q116,387,Kissi,8,LR,kss,Southern Kisi,I
+5,Q116,388,Kpelle,8,LR,xpe,Liberia Kpelle,I
+5,Q116,390,Kru,8,LR,klu,Klao,I
+5,Q116,391,Lorma,8,LR,lom,Loma (Liberia),I
+5,Q116,393,Mano,8,LR,mev,Mano,I
+5,Q116,395,Vai,8,LR,vai,Vai,I
+5,Q116,420,"""Official"" Malagasy",9,MG,plt,Plateau Malagasy,I
+5,Q116,421,Malagasy dialect,9,MG,mlg,Malagasy,M
+5,Q116,460,Chitumbuka,10,MW,tum,Tumbuka,I
+5,Q116,463,Chichewa,10,MW,nya,Nyanja,I
+5,Q116,466,Chilomwe,10,MW,lon,Malawi Lomwe,I
+5,Q116,471,Chitonga,10,MW,tog,Tonga (Nyasa),I
+5,Q116,501,Bambara,11,ML,bam,Bambara,I
+5,Q116,503,Bobo,11,ML,bmq,Bomu,I
+5,Q116,505,Dogon,11,ML,dds,Donno So Dogon,I
+5,Q116,505,Dogon,11,ML,djm,Jamsay Dogon,I
+5,Q116,505,Dogon,11,ML,dtm,Tomo Kan Dogon,I
+5,Q116,505,Dogon,11,ML,dts,Toro So Dogon,I
+5,Q116,509,Malinké,11,ML,kao,Xaasongaxango,I
+5,Q116,509,Malinké,11,ML,mlq,Western Maninkakan,I
+5,Q116,509,Malinké,11,ML,mwk,Kita Maninkakan,I
+5,Q116,513,Peulh / Fulfude,11,ML,ffm,Maasina Fulfulde,I
+5,Q116,516,Soninké / Sarakollé,11,ML,snk,Soninke,I
+5,Q116,517,Sonrhaï,11,ML,hmb,Humburi Senni Songhay,I
+5,Q116,517,Sonrhaï,11,ML,khq,Koyra Chiini Songhay,I
+5,Q116,517,Sonrhaï,11,ML,ses,Koyraboro Senni Songhai,I
+5,Q116,518,Tamasheq,11,ML,taq,Tamasheq,I
+5,Q116,518,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+5,Q116,540,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+5,Q116,540,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+5,Q116,540,Makua,12,MZ,vmk,Makhuwa-Shirima,I
+5,Q116,540,Makua,12,MZ,vmw,Makhuwa,I
+5,Q116,540,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+5,Q116,540,Makua,12,MZ,xsq,Makhuwa-Saka,I
+5,Q116,541,Sena,12,MZ,seh,Sena,I
+5,Q116,543,Changana,12,MZ,tso,Tsonga,I
+5,Q116,548,Chuabo,12,MZ,chw,Chuwabu,I
+5,Q116,554,Chitewe,12,MZ,twx,Tewe,I
+5,Q116,555,Chitswa,12,MZ,tsc,Tswa,I
+5,Q116,582,Nama/Damara,13,NA,naq,Khoekhoe,I
+5,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,kua,Kuanyama,I
+5,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,ndo,Ndonga,I
+5,Q116,584,Otjiherero,13,NA,her,Herero,I
+5,Q116,585,Rukwangali,13,NA,kwn,Kwangali,I
+5,Q116,586,Rugririku/Rumanyo,13,NA,diu,Diriku,I
+5,Q116,588,Silozi,13,NA,loz,Lozi,I
+5,Q116,621,Igbo,14,NG,ibo,Igbo,I
+5,Q116,628,Ibibio,14,NG,ibb,Ibibio,I
+5,Q116,629,Kanuri,14,NG,kau,Kanuri,M
+5,Q116,630,Tiv,14,NG,tiv,Tiv,I
+5,Q116,632,Ijaw,14,NG,ijc,Izon,I
+5,Q116,632,Ijaw,14,NG,ijs,Southeast Ijo,I
+5,Q116,633,Edo,14,NG,bin,Bini,I
+5,Q116,634,Igala,14,NG,igl,Igala,I
+5,Q116,639,Idoma,14,NG,idu,Idoma,I
+5,Q116,642,Jukun,14,NG,jbu,Jukun Takum,I
+5,Q116,652,Bajju,14,NG,kaj,Jju,I
+5,Q116,660,Wolof,15,SN,wol,Wolof,I
+5,Q116,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
+5,Q116,662,Serer,15,SN,srr,Serer,I
+5,Q116,663,Mandinka/Bambara,15,SN,bam,Bambara,I
+5,Q116,663,Mandinka/Bambara,15,SN,mnk,Mandinka,I
+5,Q116,664,Soninke,15,SN,snk,Soninke,I
+5,Q116,665,Diola,15,SN,dyo,Jola-Fonyi,I
+5,Q116,700,Afrikaans,16,ZA,afr,Afrikaans,I
+5,Q116,702,Xhosa,16,ZA,xho,Xhosa,I
+5,Q116,703,Pedi/Spedi/North Sotho,16,ZA,nso,Pedi,I
+5,Q116,704,Sesotho/Sotho/South Sotho,16,ZA,sot,Southern Sotho,I
+5,Q116,705,Setswana/Tswana,16,ZA,tsn,Tswana,I
+5,Q116,706,Shangaan,16,ZA,tso,Tsonga,I
+5,Q116,707,Swazi,16,ZA,ssw,Swati,I
+5,Q116,708,Venda,16,ZA,ven,Venda,I
+5,Q116,709,Zulu,16,ZA,zul,Zulu,I
+5,Q116,740,Kinyakyusa,17,TZ,nyy,Nyakyusa-Ngonde,I
+5,Q116,741,Kichaga,17,TZ,old,Mochi,I
+5,Q116,742,Kihaya,17,TZ,hay,Haya,I
+5,Q116,745,Kipare,17,TZ,asa,Asu (Tanzania),I
+5,Q116,746,Kihehe,17,TZ,heh,Hehe,I
+5,Q116,749,Kisukuma,17,TZ,suk,Sukuma,I
+5,Q116,751,Kimeru,17,TZ,rwk,Rwa,I
+5,Q116,752,Kikurya,17,TZ,kuj,Kuria,I
+5,Q116,764,Kijita,17,TZ,jit,Jita,I
+5,Q116,780,Luganda,18,UG,lug,Ganda,I
+5,Q116,781,Runyankole,18,UG,nyn,Nyankole,I
+5,Q116,782,Runyoro,18,UG,nyo,Nyoro,I
+5,Q116,783,Lusoga,18,UG,xog,Soga,I
+5,Q116,784,Lumasaba,18,UG,myx,Masaaba,I
+5,Q116,785,Lukhonjo,18,UG,koo,Konzo,I
+5,Q116,787,Ateso,18,UG,teo,Teso,I
+5,Q116,788,Acholi,18,UG,ach,Acoli,I
+5,Q116,789,Alur,18,UG,alz,Alur,I
+5,Q116,790,Lugbara,18,UG,lgg,Lugbara,I
+5,Q116,791,Madi,18,UG,mhi,Ma'di,I
+5,Q116,791,Madi,18,UG,snm,Southern Ma'di,I
+5,Q116,792,Japadhola,18,UG,adh,Adhola,I
+5,Q116,793,Lusamia,18,UG,lsm,Saamia,I
+5,Q116,794,Lugwere,18,UG,gwr,Gwere,I
+5,Q116,795,Rukiga,18,UG,cgg,Chiga,I
+5,Q116,796,Rutooro,18,UG,ttj,Tooro,I
+5,Q116,797,Langi,18,UG,laj,Lango (Uganda),I
+5,Q116,798,Kupsabinyi,18,UG,kpz,Kupsabiny,I
+5,Q116,799,Ngakarimajong,18,UG,kdj,Karamojong,I
+5,Q116,800,Rufumbira,18,UG,kin,Kinyarwanda,I
+5,Q116,820,Bemba,19,ZM,bem,Bemba (Zambia),I
+5,Q116,821,Nyanja,19,ZM,nya,Nyanja,I
+5,Q116,822,Tonga,19,ZM,toi,Tonga (Zambia),I
+5,Q116,823,Lozi,19,ZM,loz,Lozi,I
+5,Q116,825,Nsenga,19,ZM,nse,Nsenga,I
+5,Q116,826,Tumbuka,19,ZM,tum,Tumbuka,I
+5,Q116,827,Kaonde,19,ZM,kqn,Kaonde,I
+5,Q116,828,Luvale,19,ZM,lue,Luvale,I
+5,Q116,829,Lala,19,ZM,leb,Lala-Bisa,I
+5,Q116,833,Senga,19,ZM,nse,Nsenga,I
+5,Q116,845,Ila,19,ZM,ilb,Ila,I
+5,Q116,846,Nyika,19,ZM,nih,Nyiha (Tanzania),I
+5,Q116,846,Nyika,19,ZM,nkv,Nyika (Malawi and Zambia),I
+5,Q116,861,Shona,20,ZW,sna,Shona,I
+5,Q116,862,Zezuru,20,ZW,sna,Shona,I
+5,Q116,863,Korekore,20,ZW,sna,Shona,I
+5,Q116,864,Karanga,20,ZW,sna,Shona,I
+5,Q116,865,Manyika,20,ZW,mxc,Manyika,I
+5,Q116,900,Creole,21,MU,mfe,Morisyen,I
+5,Q116,901,Bhojpuri,21,MU,bho,Bhojpuri,I
+5,Q116,930,Krio,22,SL,kri,Krio,I
+5,Q116,931,Mende,22,SL,men,Mende (Sierra Leone),I
+5,Q116,932,Temne,22,SL,tem,Timne,I
+5,Q116,933,Limba,22,SL,lia,West-Central Limba,I
+5,Q116,933,Limba,22,SL,lma,East Limba,I
+5,Q116,1100,Haoussa,23,NE,hau,Hausa,I
+5,Q116,1101,Zarrma/Songhaï,23,NE,dje,Zarma,I
+5,Q116,1103,Touareg,23,NE,thv,Tahaggart Tamahaq,I
+5,Q116,1103,Touareg,23,NE,ttq,Tawallammat Tamajaq,I
+5,Q116,1140,Ewé,24,TG,ewe,Ewe,I
+5,Q116,1141,Mina (Guen),24,TG,gej,Gen,I
+5,Q116,1142,Kabyè,24,TG,kbp,Kabiyè,I
+5,Q116,1143,Tem (Kotokoli),24,TG,kdh,Tem,I
+5,Q116,1144,Ben (Moba),24,TG,mfq,Moba,I
+5,Q116,1145,Nawdem (Losso),24,TG,nmz,Nawdm,I
+5,Q116,1148,Ikposso (Akposso),24,TG,kpo,Ikposo,I
+5,Q116,1160,Anyanga,24,TG,ayg,Ginyanga,I
+5,Q116,1180,Kirundi,25,BI,run,Rundi,I
+5,Q116,1220,Foufoulde,26,CM,fub,Adamawa Fulfulde,I
+5,Q116,1222,Ewondo,26,CM,ewo,Ewondo,I
+5,Q116,1225,Babjoun,26,CM,bbj,Ghomálá',I
+5,Q116,1226,Banen,26,CM,tvu,Tunen,I
+5,Q116,1228,Bayangam,26,CM,ken,Kenyang,I
+5,Q116,1229,Eton,26,CM,eto,Eton (Cameroon),I
+5,Q116,1230,Kotoko,26,CM,kot,Lagwan,I
+5,Q116,1231,Mafa,26,CM,maf,Mafa,I
+5,Q116,1232,Mbo,26,CM,mbo,Mbo (Cameroon),I
+5,Q116,1233,Ntoumou,26,CM,fan,Fang (Equatorial Guinea),I
+5,Q116,1234,Nyem Nyem,26,CM,sgi,Suga,I
+5,Q116,1262,Adjoukrou,27,CI,adj,Adioukrou,I
+5,Q116,1263,Agni,27,CI,any,Anyin,I
+5,Q116,1267,Baoulé,27,CI,bci,Baoulé,I
+5,Q116,1268,Bété,27,CI,bet,Guiberoua Béte,I
+5,Q116,1268,Bété,27,CI,bev,Daloa Bété,I
+5,Q116,1268,Bété,27,CI,btg,Gagnoa Bété,I
+5,Q116,1269,Dida,27,CI,dic,Lakota Dida,I
+5,Q116,1269,Dida,27,CI,gud,Yocoboué Dida,I
+5,Q116,1273,Guéré,27,CI,gxx,Wè Southern,I
+5,Q116,1273,Guéré,27,CI,wec,Wè Western,I
+5,Q116,1277,Malinké/ Dioula,27,CI,jod,Wojenaka,I
+5,Q116,1278,Sénoufo,27,CI,dyi,Djimini Senoufo,I
+5,Q116,1278,Sénoufo,27,CI,plr,Palaka Senoufo,I
+5,Q116,1278,Sénoufo,27,CI,seb,Shempire Senoufo,I
+5,Q116,1278,Sénoufo,27,CI,sef,Cebaara Senoufo,I
+5,Q116,1278,Sénoufo,27,CI,sev,Nyarafolo Senoufo,I
+5,Q116,1278,Sénoufo,27,CI,tgw,Tagwana Senoufo,I
+5,Q116,1280,WOBE,27,CI,wob,Wè Northern,I
+5,Q116,1281,TOURA,27,CI,neb,Toura (Côte d'Ivoire),I
+5,Q116,1282,DAHOMEY,27,CI,fon,Fon,I
+5,Q116,1283,ABOURE,27,CI,abu,Abure,I
+5,Q116,1284,AHIZI,27,CI,ahi,Tiagbamrin Aizi,I
+5,Q116,1284,AHIZI,27,CI,ahm,Mobumrin Aizi,I
+5,Q116,1284,AHIZI,27,CI,ahp,Aproumu Aizi,I
+5,Q116,1300,Soussou,28,GN,sus,Susu,I
+5,Q116,1302,Poular,28,GN,fuf,Pular,I
+5,Q116,1304,Diakanké,28,GN,jad,Jahanka,I
+5,Q116,1305,Maninka,28,GN,emk,Eastern Maninkakan,I
+5,Q116,1307,Kpelé,28,GN,gkp,Guinea Kpelle,I
+5,Q116,1310,Loma,28,GN,tod,Toma,I
+5,Q116,1312,Kissié,28,GN,kqs,Northern Kissi,I
+5,Q116,1500,Tamazight,33,MA,tzm,Central Atlas Tamazight,I
+5,Q116,1500,Tamazight,33,MA,zgh,Standard Moroccan Tamazight,I
+5,Q116,1620,siSwati,30,SZ,ssw,Swati,I
+5,Q116,2620,Jaba,14,NG,ldb,Dũya,I
+5,Q116,2621,Koro,14,NG,ahs,Ashe,I
+5,Q116,2621,Koro,14,NG,bqv,Koro Wachi,I
+5,Q116,2621,Koro,14,NG,ldb,Dũya,I
+5,Q116,2621,Koro,14,NG,yes,Nyankpa,I
+5,Q116,2622,Babur,14,NG,bwr,Bura-Pabir,I
+5,Q116,2623,Izere,14,NG,izr,Izere,I
+5,Q116,2624,Ngas,14,NG,anc,Ngas,I
+5,Q116,2625,Zuru,14,NG,dri,C'Lela,I
+5,Q116,2626,Sayawa,14,NG,say,Saya,I
+5,Q116,2627,Burah,14,NG,bwr,Bura-Pabir,I
+5,Q116,2628,Bachama,14,NG,bcy,Bacama,I
+5,Q116,2629,Jarawa,14,NG,jgk,Gwak,I
+5,Q116,2629,Jarawa,14,NG,jjr,Bankal,I
+5,Q116,2630,Ron,14,NG,cla,Ron,I
+5,Q116,2761,Kiluri,17,TZ,kya,Kwaya,I
+5,Q2,-1,Missing,2,BW,und,Undetermined,S
+5,Q2,-1,Missing,6,KE,und,Undetermined,S
+5,Q2,-1,Missing,8,LR,und,Undetermined,S
+5,Q2,-1,Missing,10,MW,und,Undetermined,S
+5,Q2,-1,Missing,12,MZ,und,Undetermined,S
+5,Q2,-1,Missing,13,NA,und,Undetermined,S
+5,Q2,-1,Missing,20,ZW,und,Undetermined,S
+5,Q2,1,English,1,BJ,eng,English,I
+5,Q2,1,English,2,BW,eng,English,I
+5,Q2,1,English,26,CM,eng,English,I
+5,Q2,1,English,5,GH,eng,English,I
+5,Q2,1,English,6,KE,eng,English,I
+5,Q2,1,English,8,LR,eng,English,I
+5,Q2,1,English,7,LS,eng,English,I
+5,Q2,1,English,21,MU,eng,English,I
+5,Q2,1,English,13,NA,eng,English,I
+5,Q2,1,English,14,NG,eng,English,I
+5,Q2,1,English,34,SD,eng,English,I
+5,Q2,1,English,30,SZ,eng,English,I
+5,Q2,1,English,16,ZA,eng,English,I
+5,Q2,1,English,19,ZM,eng,English,I
+5,Q2,1,English,20,ZW,eng,English,I
+5,Q2,2,French,3,BF,fra,French,I
+5,Q2,2,French,25,BI,fra,French,I
+5,Q2,2,French,1,BJ,fra,French,I
+5,Q2,2,French,27,CI,fra,French,I
+5,Q2,2,French,26,CM,fra,French,I
+5,Q2,2,French,31,DZ,fra,French,I
+5,Q2,2,French,28,GN,fra,French,I
+5,Q2,2,French,33,MA,fra,French,I
+5,Q2,2,French,11,ML,fra,French,I
+5,Q2,2,French,21,MU,fra,French,I
+5,Q2,2,French,23,NE,fra,French,I
+5,Q2,2,French,34,SD,fra,French,I
+5,Q2,2,French,15,SN,fra,French,I
+5,Q2,2,French,24,TG,fra,French,I
+5,Q2,3,Portuguese,4,CV,por,Portuguese,I
+5,Q2,3,Portuguese,10,MW,por,Portuguese,I
+5,Q2,3,Portuguese,12,MZ,por,Portuguese,I
+5,Q2,3,Portuguese,13,NA,por,Portuguese,I
+5,Q2,3,Portuguese,30,SZ,por,Portuguese,I
+5,Q2,3,Portuguese,16,ZA,por,Portuguese,I
+5,Q2,4,Kiswahili,25,BI,swh,Swahili (individual language),I
+5,Q2,4,Kiswahili,6,KE,swh,Swahili (individual language),I
+5,Q2,4,Kiswahili,10,MW,swh,Swahili (individual language),I
+5,Q2,4,Kiswahili,17,TZ,swh,Swahili (individual language),I
+5,Q2,4,Kiswahili,18,UG,swh,Swahili (individual language),I
+5,Q2,5,Arabic,31,DZ,arq,Algerian Arabic,I
+5,Q2,5,Arabic,32,EG,arz,Egyptian Arabic,I
+5,Q2,5,Arabic,6,KE,acx,Omani Arabic,I
+5,Q2,5,Arabic,33,MA,ary,Moroccan Arabic,I
+5,Q2,5,Arabic,34,SD,apd,Sudanese Arabic,I
+5,Q2,5,Arabic,35,TN,aeb,Tunisian Arabic,I
+5,Q2,6,Adja,1,BJ,ajg,Aja (Benin),I
+5,Q2,6,Adja,24,TG,ajg,Aja (Benin),I
+5,Q2,7,Afrikaans,2,BW,afr,Afrikaans,I
+5,Q2,7,Afrikaans,13,NA,afr,Afrikaans,I
+5,Q2,7,Afrikaans,16,ZA,afr,Afrikaans,I
+5,Q2,8,Amazigh,31,DZ,kab,Kabyle,I
+5,Q2,8,Amazigh,33,MA,tzm,Central Atlas Tamazight,I
+5,Q2,8,Amazigh,33,MA,zgh,Standard Moroccan Tamazight,I
+5,Q2,9,Bambara,27,CI,bam,Bambara,I
+5,Q2,9,Bambara,11,ML,bam,Bambara,I
+5,Q2,9,Bambara,15,SN,bam,Bambara,I
+5,Q2,10,Bassa,26,CM,bas,Basa (Cameroon),I
+5,Q2,10,Bassa,8,LR,bsq,Bassa,I
+5,Q2,11,Bobo,3,BF,bbo,Northern Bobo Madaré,I
+5,Q2,11,Bobo,3,BF,bwq,Southern Bobo Madaré,I
+5,Q2,11,Bobo,11,ML,bmq,Bomu,I
+5,Q2,12,Chichewa,10,MW,nya,Nyanja,I
+5,Q2,12,Chichewa,12,MZ,nya,Nyanja,I
+5,Q2,13,Dioula,3,BF,dyu,Dyula,I
+5,Q2,13,Dioula,27,CI,dyu,Dyula,I
+5,Q2,14,Fon,1,BJ,fon,Fon,I
+5,Q2,14,Fon,24,TG,fon,Fon,I
+5,Q2,15,Fulfuldé,3,BF,fuh,Western Niger Fulfulde,I
+5,Q2,15,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
+5,Q2,15,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
+5,Q2,16,Haoussa,3,BF,hau,Hausa,I
+5,Q2,16,Haoussa,26,CM,hau,Hausa,I
+5,Q2,16,Haoussa,23,NE,hau,Hausa,I
+5,Q2,16,Haoussa,24,TG,hau,Hausa,I
+5,Q2,17,Hausa,5,GH,hau,Hausa,I
+5,Q2,17,Hausa,14,NG,hau,Hausa,I
+5,Q2,18,Kiha,17,TZ,haq,Ha,I
+5,Q2,19,Kihangaza,17,TZ,han,Hangaza,I
+5,Q2,20,Kissi,8,LR,kss,Southern Kisi,I
+5,Q2,20,Kissi,22,SL,kqs,Northern Kissi,I
+5,Q2,20,Kissi,22,SL,kss,Southern Kisi,I
+5,Q2,21,Konkomba,5,GH,xon,Konkomba,I
+5,Q2,21,Konkomba,24,TG,xon,Konkomba,I
+5,Q2,22,Kono,28,GN,knu,Kono (Guinea),I
+5,Q2,22,Kono,22,SL,kno,Kono (Sierra Leone),I
+5,Q2,23,Kru,8,LR,klu,Klao,I
+5,Q2,23,Kru,22,SL,klu,Klao,I
+5,Q2,24,Lamba,24,TG,las,Lama (Togo),I
+5,Q2,24,Lamba,19,ZM,lam,Lamba,I
+5,Q2,25,Lobi,3,BF,lob,Lobi,I
+5,Q2,25,Lobi,27,CI,lob,Lobi,I
+5,Q2,26,Luo,6,KE,luo,Luo (Kenya and Tanzania),I
+5,Q2,26,Luo,18,UG,ach,Acoli,I
+5,Q2,26,Luo,18,UG,adh,Adhola,I
+5,Q2,26,Luo,18,UG,alz,Alur,I
+5,Q2,26,Luo,18,UG,kdi,Kumam,I
+5,Q2,26,Luo,18,UG,laj,Lango (Uganda),I
+5,Q2,26,Luo,18,UG,lth,Thur,I
+5,Q2,27,Mano,28,GN,mev,Mano,I
+5,Q2,27,Mano,8,LR,mev,Mano,I
+5,Q2,28,Mende,8,LR,men,Mende (Sierra Leone),I
+5,Q2,28,Mende,22,SL,men,Mende (Sierra Leone),I
+5,Q2,29,Ndau,12,MZ,ndc,Ndau,I
+5,Q2,29,Ndau,20,ZW,ndc,Ndau,I
+5,Q2,30,Ndebele,16,ZA,nbl,South Ndebele,I
+5,Q2,30,Ndebele,19,ZM,nde,North Ndebele,I
+5,Q2,30,Ndebele,20,ZW,nde,North Ndebele,I
+5,Q2,31,Nyanja,12,MZ,nya,Nyanja,I
+5,Q2,31,Nyanja,19,ZM,nya,Nyanja,I
+5,Q2,32,Sénoufo,3,BF,kza,Western Karaboro,I
+5,Q2,32,Sénoufo,3,BF,sen,Nanerigé Sénoufo,I
+5,Q2,32,Sénoufo,3,BF,sep,Sìcìté Sénoufo,I
+5,Q2,32,Sénoufo,3,BF,seq,Senara Sénoufo,I
+5,Q2,32,Sénoufo,3,BF,xrb,Eastern Karaboro,I
+5,Q2,32,Sénoufo,27,CI,dyi,Djimini Senoufo,I
+5,Q2,32,Sénoufo,27,CI,plr,Palaka Senoufo,I
+5,Q2,32,Sénoufo,27,CI,seb,Shempire Senoufo,I
+5,Q2,32,Sénoufo,27,CI,sef,Cebaara Senoufo,I
+5,Q2,32,Sénoufo,27,CI,sev,Nyarafolo Senoufo,I
+5,Q2,32,Sénoufo,27,CI,tgw,Tagwana Senoufo,I
+5,Q2,33,Setswana,2,BW,tsn,Tswana,I
+5,Q2,33,Setswana,13,NA,tsn,Tswana,I
+5,Q2,33,Setswana,16,ZA,tsn,Tswana,I
+5,Q2,34,Shangaan,30,SZ,tso,Tsonga,I
+5,Q2,34,Shangaan,16,ZA,tso,Tsonga,I
+5,Q2,34,Shangaan,20,ZW,tso,Tsonga,I
+5,Q2,35,siSwati,30,SZ,ssw,Swati,I
+5,Q2,35,siSwati,16,ZA,ssw,Swati,I
+5,Q2,36,Tonga,10,MW,tog,Tonga (Nyasa),I
+5,Q2,36,Tonga,30,SZ,tso,Tsonga,I
+5,Q2,36,Tonga,16,ZA,tso,Tsonga,I
+5,Q2,36,Tonga,19,ZM,toi,Tonga (Zambia),I
+5,Q2,36,Tonga,20,ZW,toi,Tonga (Zambia),I
+5,Q2,37,Vai,8,LR,vai,Vai,I
+5,Q2,37,Vai,22,SL,vai,Vai,I
+5,Q2,38,Venda,16,ZA,ven,Venda,I
+5,Q2,38,Venda,20,ZW,ven,Venda,I
+5,Q2,39,Yoruba,1,BJ,yor,Yoruba,I
+5,Q2,39,Yoruba,14,NG,yor,Yoruba,I
+5,Q2,39,Yoruba,24,TG,yor,Yoruba,I
+5,Q2,102,Bariba,1,BJ,bba,Baatonum,I
+5,Q2,103,Dendi,1,BJ,ddn,Dendi (Benin),I
+5,Q2,105,Otamari,1,BJ,tbz,Ditammari,I
+5,Q2,106,Peulh,1,BJ,fue,Borgu Fulfulde,I
+5,Q2,106,Peulh,1,BJ,fuh,Western Niger Fulfulde,I
+5,Q2,107,Yoa,1,BJ,pil,Yom,I
+5,Q2,108,Boo,1,BJ,bqc,Boko (Benin),I
+5,Q2,141,Sesarwa,2,BW,hio,Tsoa,I
+5,Q2,142,Sekgalagadi,2,BW,xkv,Kgalagadi,I
+5,Q2,143,Sesubia,2,BW,sbs,Subiya,I
+5,Q2,144,Ikalanga/Sekala,2,BW,kck,Kalanga,I
+5,Q2,145,Seherero,2,BW,her,Herero,I
+5,Q2,146,Sembukushu,2,BW,mhw,Mbukushu,I
+5,Q2,147,Sebirwa,2,BW,brl,Birwa,I
+5,Q2,148,Sengologa,2,BW,xkv,Kgalagadi,I
+5,Q2,149,Seyeyi,2,BW,yey,Yeyi,I
+5,Q2,151,Sekgothu,2,BW,naq,Khoekhoe,I
+5,Q2,152,Setswapong,2,BW,two,Tswapong,I
+5,Q2,180,Mooré,3,BF,mos,Mossi,I
+5,Q2,183,Gulmacema,3,BF,gux,Gourmanchéma,I
+5,Q2,184,Gourounsi,3,BF,gur,Farefare,I
+5,Q2,185,Bissa,3,BF,bib,Bissa,I
+5,Q2,186,Birifor,3,BF,bfo,Malba Birifor,I
+5,Q2,187,Bwamu,3,BF,bmq,Bomu,I
+5,Q2,187,Bwamu,3,BF,box,Buamu,I
+5,Q2,188,Dagari,3,BF,dgi,Northern Dagara,I
+5,Q2,189,Fulse,3,BF,kfz,Koromfé,I
+5,Q2,190,Goin,3,BF,cme,Cerma,I
+5,Q2,191,Karaboro,3,BF,kza,Western Karaboro,I
+5,Q2,191,Karaboro,3,BF,xrb,Eastern Karaboro,I
+5,Q2,192,Kassena,3,BF,xsm,Kasem,I
+5,Q2,194,Marka,3,BF,rkm,Marka,I
+5,Q2,195,Samo,3,BF,sbd,Southern Samo,I
+5,Q2,195,Samo,3,BF,stj,Matya Samo,I
+5,Q2,195,Samo,3,BF,sym,Maya Samo,I
+5,Q2,197,Sonrai,3,BF,hmb,Humburi Senni Songhay,I
+5,Q2,198,Toussian,3,BF,tsp,Northern Toussian,I
+5,Q2,198,Toussian,3,BF,wib,Southern Toussian,I
+5,Q2,199,Dafing,3,BF,rkm,Marka,I
+5,Q2,220,Crioulo,4,CV,kea,Kabuverdianu,I
+5,Q2,260,Akan,5,GH,aka,Akan,M
+5,Q2,261,Ewe,5,GH,ewe,Ewe,I
+5,Q2,262,Ga/Dangbe,5,GH,ada,Adangme,I
+5,Q2,262,Ga/Dangbe,5,GH,gaa,Ga,I
+5,Q2,263,Dagbani,5,GH,dag,Dagbani,I
+5,Q2,265,Dagaree,5,GH,dga,Southern Dagaare,I
+5,Q2,266,Waala,5,GH,wlx,Wali (Ghana),I
+5,Q2,267,Moshie,5,GH,mos,Mossi,I
+5,Q2,268,Sissala,5,GH,sil,Tumulung Sisaala,I
+5,Q2,268,Sissala,5,GH,ssl,Western Sisaala,I
+5,Q2,269,Kotonkoli,5,GH,kdh,Tem,I
+5,Q2,270,Talensi,5,GH,gur,Farefare,I
+5,Q2,271,Kasina,5,GH,xsm,Kasem,I
+5,Q2,272,Frafra,5,GH,gur,Farefare,I
+5,Q2,273,Gruni,5,GH,gur,Farefare,I
+5,Q2,274,Bimoba,5,GH,bim,Bimoba,I
+5,Q2,275,Bulsa,5,GH,bwu,Buli (Ghana),I
+5,Q2,276,Nabdam,5,GH,gur,Farefare,I
+5,Q2,277,Kusasi,5,GH,kus,Kusaal,I
+5,Q2,278,Mampruli,5,GH,maw,Mampruli,I
+5,Q2,280,Guan,5,GH,gwx,Gua,I
+5,Q2,281,Gonja,5,GH,gjn,Gonja,I
+5,Q2,282,Nzema,5,GH,nzi,Nzima,I
+5,Q2,283,Other Northern Languages,5,GH,und,Undetermined,S
+5,Q2,300,Kikuyu,6,KE,kik,Kikuyu,I
+5,Q2,302,Luhya,6,KE,luy,Luyia,M
+5,Q2,303,Kamba,6,KE,kam,Kamba (Kenya),I
+5,Q2,304,Kalenjin,6,KE,kln,Kalenjin,M
+5,Q2,305,Kisii,6,KE,guz,Gusii,I
+5,Q2,306,Meru / Embu,6,KE,ebu,Embu,I
+5,Q2,306,Meru / Embu,6,KE,mer,Meru,I
+5,Q2,307,Maasai / Samburu,6,KE,mas,Masai,I
+5,Q2,307,Maasai / Samburu,6,KE,saq,Samburu,I
+5,Q2,308,Mijikenda,6,KE,dig,Digo,I
+5,Q2,308,Mijikenda,6,KE,dug,Duruma,I
+5,Q2,308,Mijikenda,6,KE,nyf,Giryama,I
+5,Q2,309,Taita,6,KE,dav,Taita,I
+5,Q2,310,Somali,6,KE,som,Somali,I
+5,Q2,311,Pokot,6,KE,pko,Pökoot,I
+5,Q2,312,Turkana,6,KE,tuv,Turkana,I
+5,Q2,313,Tharaka,6,KE,thk,Tharaka,I
+5,Q2,314,Teso,6,KE,teo,Teso,I
+5,Q2,315,Sabaot,6,KE,spy,Sabaot,I
+5,Q2,316,Rendile,6,KE,rel,Rendille,I
+5,Q2,317,Pokomo,6,KE,pkb,Pokomo,I
+5,Q2,318,Mbeere,6,KE,ebu,Embu,I
+5,Q2,319,Kuria,6,KE,kuj,Kuria,I
+5,Q2,320,Borana,6,KE,gax,Borana-Arsi-Guji Oromo,I
+5,Q2,322,Oroma,6,KE,orm,Oromo,M
+5,Q2,340,Sesotho,7,LS,sot,Southern Sotho,I
+5,Q2,341,Sephuthi,7,LS,ssw,Swati,I
+5,Q2,342,Sethepu,7,LS,xho,Xhosa,I
+5,Q2,381,Belle,8,LR,blh,Kuwaa,I
+5,Q2,382,Dei,8,LR,dee,Dewoin,I
+5,Q2,383,Gbandi,8,LR,bza,Bandi,I
+5,Q2,384,Gio,8,LR,dnj,Dan,I
+5,Q2,385,Gola,8,LR,gol,Gola,I
+5,Q2,386,Grebo,8,LR,gbo,Northern Grebo,I
+5,Q2,386,Grebo,8,LR,gec,Gboloo Grebo,I
+5,Q2,386,Grebo,8,LR,grj,Southern Grebo,I
+5,Q2,386,Grebo,8,LR,grv,Central Grebo,I
+5,Q2,386,Grebo,8,LR,gry,Barclayville Grebo,I
+5,Q2,388,Kpelle,8,LR,xpe,Liberia Kpelle,I
+5,Q2,389,Krahn,8,LR,kqo,Eastern Krahn,I
+5,Q2,389,Krahn,8,LR,krw,Western Krahn,I
+5,Q2,391,Lorma,8,LR,lom,Loma (Liberia),I
+5,Q2,392,Mandingo,8,LR,mzj,Manya,I
+5,Q2,396,Simple Liberian English,8,LR,lir,Liberian English,I
+5,Q2,420,"""Official"" Malagasy",9,MG,plt,Plateau Malagasy,I
+5,Q2,421,Malagasy dialect,9,MG,mlg,Malagasy,M
+5,Q2,460,Chitumbuka,10,MW,tum,Tumbuka,I
+5,Q2,461,Chinkhonde,10,MW,nyy,Nyakyusa-Ngonde,I
+5,Q2,462,Chilambya,10,MW,lai,Lambya,I
+5,Q2,464,Chiyao,10,MW,yao,Yao,I
+5,Q2,465,Chingoni,10,MW,nya,Nyanja,I
+5,Q2,466,Chilomwe,10,MW,lon,Malawi Lomwe,I
+5,Q2,467,Chimang’anja,10,MW,swk,Malawi Sena,I
+5,Q2,468,Chisena,10,MW,swk,Malawi Sena,I
+5,Q2,469,Chisukwa,10,MW,ndh,Ndali,I
+5,Q2,470,Chisenga,10,MW,tum,Tumbuka,I
+5,Q2,472,Chindali,10,MW,ndh,Ndali,I
+5,Q2,473,Chinyakyusa,10,MW,nyy,Nyakyusa-Ngonde,I
+5,Q2,502,Bella,11,ML,ses,Koyraboro Senni Songhai,I
+5,Q2,504,Bozo,11,ML,boz,Tiéyaxo Bozo,I
+5,Q2,504,Bozo,11,ML,bze,Jenaama Bozo,I
+5,Q2,505,Dogon,11,ML,dds,Donno So Dogon,I
+5,Q2,505,Dogon,11,ML,djm,Jamsay Dogon,I
+5,Q2,505,Dogon,11,ML,dtm,Tomo Kan Dogon,I
+5,Q2,505,Dogon,11,ML,dts,Toro So Dogon,I
+5,Q2,507,Kakolo,11,ML,xkg,Kagoro,I
+5,Q2,508,Khassonké,11,ML,kao,Xaasongaxango,I
+5,Q2,509,Malinké,11,ML,kao,Xaasongaxango,I
+5,Q2,509,Malinké,11,ML,mlq,Western Maninkakan,I
+5,Q2,509,Malinké,11,ML,mwk,Kita Maninkakan,I
+5,Q2,510,Maure,11,ML,mey,Hassaniyya,I
+5,Q2,511,Mianka,11,ML,myk,Mamara Senoufo,I
+5,Q2,513,Peulh / Fulfude,11,ML,ffm,Maasina Fulfulde,I
+5,Q2,514,Samogo,11,ML,dux,Duungooma,I
+5,Q2,515,Senufo,11,ML,myk,Mamara Senoufo,I
+5,Q2,515,Senufo,11,ML,shz,Syenara Senoufo,I
+5,Q2,515,Senufo,11,ML,spp,Supyire Senoufo,I
+5,Q2,516,Soninké / Sarakollé,11,ML,snk,Soninke,I
+5,Q2,517,Sonrhaï,11,ML,hmb,Humburi Senni Songhay,I
+5,Q2,517,Sonrhaï,11,ML,khq,Koyra Chiini Songhay,I
+5,Q2,517,Sonrhaï,11,ML,ses,Koyraboro Senni Songhai,I
+5,Q2,518,Tamasheq,11,ML,taq,Tamasheq,I
+5,Q2,518,Tamasheq,11,ML,ttq,Tawallammat Tamajaq,I
+5,Q2,540,Makua,12,MZ,mgh,Makhuwa-Meetto,I
+5,Q2,540,Makua,12,MZ,mhm,Makhuwa-Moniga,I
+5,Q2,540,Makua,12,MZ,vmk,Makhuwa-Shirima,I
+5,Q2,540,Makua,12,MZ,vmw,Makhuwa,I
+5,Q2,540,Makua,12,MZ,xmc,Makhuwa-Marrevone,I
+5,Q2,540,Makua,12,MZ,xsq,Makhuwa-Saka,I
+5,Q2,541,Sena,12,MZ,seh,Sena,I
+5,Q2,544,Changana,12,MZ,tso,Tsonga,I
+5,Q2,545,Chope,12,MZ,cce,Chopi,I
+5,Q2,546,Bitonga,12,MZ,toh,Gitonga,I
+5,Q2,547,Makonde,12,MZ,kde,Makonde,I
+5,Q2,548,Chuabo,12,MZ,chw,Chuwabu,I
+5,Q2,549,Ajaua,12,MZ,yao,Yao,I
+5,Q2,551,Chibarue,12,MZ,bwg,Barwe,I
+5,Q2,552,Chimarenge,12,MZ,vmr,Marenje,I
+5,Q2,553,Chinhungue,12,MZ,mxc,Manyika,I
+5,Q2,554,Chitewe,12,MZ,twx,Tewe,I
+5,Q2,555,Chitswa,12,MZ,tsc,Tswa,I
+5,Q2,556,Chitawala,12,MZ,twl,Tawara,I
+5,Q2,557,Kimuani,12,MZ,wmw,Mwani,I
+5,Q2,558,Lomwe,12,MZ,ngl,Lomwe,I
+5,Q2,559,Manhawa,12,MZ,mny,Manyawa,I
+5,Q2,560,Ronga,12,MZ,rng,Ronga,I
+5,Q2,561,Tacuane,12,MZ,tke,Takwane,I
+5,Q2,562,Chimanica,12,MZ,mxc,Manyika,I
+5,Q2,581,German,13,NA,deu,German,I
+5,Q2,582,Nama/Damara,13,NA,naq,Khoekhoe,I
+5,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,kua,Kuanyama,I
+5,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),13,NA,ndo,Ndonga,I
+5,Q2,584,Otjiherero,13,NA,her,Herero,I
+5,Q2,585,Rukwangali,13,NA,kwn,Kwangali,I
+5,Q2,586,Rugririku/Rumanyo,13,NA,diu,Diriku,I
+5,Q2,587,Thimbukushu,13,NA,mhw,Mbukushu,I
+5,Q2,588,Silozi,13,NA,loz,Lozi,I
+5,Q2,590,Masubia,13,NA,sbs,Subiya,I
+5,Q2,621,Igbo,14,NG,ibo,Igbo,I
+5,Q2,623,Pidgin English,14,NG,pcm,Nigerian Pidgin,I
+5,Q2,624,Efik,14,NG,efi,Efik,I
+5,Q2,625,Ebira,14,NG,igb,Ebira,I
+5,Q2,626,Fulani,14,NG,fub,Adamawa Fulfulde,I
+5,Q2,627,Isoko,14,NG,iso,Isoko,I
+5,Q2,628,Ibibio,14,NG,ibb,Ibibio,I
+5,Q2,629,Kanuri,14,NG,kau,Kanuri,M
+5,Q2,630,Tiv,14,NG,tiv,Tiv,I
+5,Q2,631,Nupe,14,NG,nup,Nupe-Nupe-Tako,I
+5,Q2,632,Ijaw,14,NG,ijc,Izon,I
+5,Q2,632,Ijaw,14,NG,ijs,Southeast Ijo,I
+5,Q2,633,Edo,14,NG,bin,Bini,I
+5,Q2,634,Igala,14,NG,igl,Igala,I
+5,Q2,635,Urhobo,14,NG,urh,Urhobo,I
+5,Q2,636,Ogoni,14,NG,ogo,Khana,I
+5,Q2,637,Anang,14,NG,anw,Anaang,I
+5,Q2,638,Ikwere,14,NG,ikw,Ikwere,I
+5,Q2,639,Idoma,14,NG,idu,Idoma,I
+5,Q2,640,Esan,14,NG,ish,Esan,I
+5,Q2,641,Nembe,14,NG,ijs,Southeast Ijo,I
+5,Q2,642,Jukun,14,NG,jbu,Jukun Takum,I
+5,Q2,643,Okrika,14,NG,okr,Kirike,I
+5,Q2,644,Yakhor,14,NG,yaz,Lokaa,I
+5,Q2,645,Ika,14,NG,ikk,Ika,I
+5,Q2,646,Okpe,14,NG,oke,Okpe (Southwestern Edo),I
+5,Q2,647,Tarok,14,NG,yer,Tarok,I
+5,Q2,648,Ibaji,14,NG,igl,Igala,I
+5,Q2,649,Migili,14,NG,mgi,Lijili,I
+5,Q2,650,Gbagyi,14,NG,gbr,Gbagyi,I
+5,Q2,651,Gwoza,14,NG,gdf,Guduf-Gava,I
+5,Q2,651,Gwoza,14,NG,ngs,Gvoko,I
+5,Q2,652,Bajju,14,NG,kaj,Jju,I
+5,Q2,653,Ekpeye,14,NG,ekp,Ekpeye,I
+5,Q2,654,Kataf,14,NG,kcg,Tyap,I
+5,Q2,655,Mada,14,NG,mda,Mada (Nigeria),I
+5,Q2,656,Kalabari,14,NG,ijn,Kalabari,I
+5,Q2,657,Sayawa,14,NG,say,Saya,I
+5,Q2,658,Ohafia,14,NG,ibo,Igbo,I
+5,Q2,660,Wolof,15,SN,wol,Wolof,I
+5,Q2,661,Pulaar/Toucouleur,15,SN,fuc,Pulaar,I
+5,Q2,662,Serer,15,SN,srr,Serer,I
+5,Q2,664,Soninke,15,SN,snk,Soninke,I
+5,Q2,665,Diola,15,SN,dyo,Jola-Fonyi,I
+5,Q2,666,Manjack,15,SN,mfv,Mandjak,I
+5,Q2,667,Bainouk,15,SN,bcb,Bainouk-Samik,I
+5,Q2,667,Bainouk,15,SN,bcz,Bainouk-Gunyaamolo,I
+5,Q2,668,Bassari,15,SN,bsc,Bassari,I
+5,Q2,702,Xhosa,16,ZA,xho,Xhosa,I
+5,Q2,703,Pedi/Spedi/North Sotho,16,ZA,nso,Pedi,I
+5,Q2,704,Sesotho/Sotho/South Sotho,16,ZA,sot,Southern Sotho,I
+5,Q2,709,Zulu,16,ZA,zul,Zulu,I
+5,Q2,710,Asian/Other,16,ZA,hin,Hindi,I
+5,Q2,740,Kinyakyusa,17,TZ,nyy,Nyakyusa-Ngonde,I
+5,Q2,741,Kichaga,17,TZ,old,Mochi,I
+5,Q2,742,Kihaya,17,TZ,hay,Haya,I
+5,Q2,743,Kingoni,17,TZ,ngo,Ngoni,I
+5,Q2,744,Kikwere,17,TZ,ked,Kerewe,I
+5,Q2,745,Kipare,17,TZ,asa,Asu (Tanzania),I
+5,Q2,746,Kihehe,17,TZ,heh,Hehe,I
+5,Q2,747,Kimakonde,17,TZ,kde,Makonde,I
+5,Q2,748,Kinyamwezi,17,TZ,nym,Nyamwezi,I
+5,Q2,749,Kisukuma,17,TZ,suk,Sukuma,I
+5,Q2,750,Kimasai,17,TZ,mas,Masai,I
+5,Q2,751,Kimeru,17,TZ,rwk,Rwa,I
+5,Q2,752,Kikurya,17,TZ,kuj,Kuria,I
+5,Q2,753,Kigogo,17,TZ,gog,Gogo,I
+5,Q2,754,Kiluguru,17,TZ,ruf,Luguru,I
+5,Q2,755,Kifipa,17,TZ,fip,Fipa,I
+5,Q2,756,Kimanyema,17,TZ,nym,Nyamwezi,I
+5,Q2,757,Kinyiramba,17,TZ,nim,Nilamba,I
+5,Q2,758,Kinyaturu,17,TZ,rim,Nyaturu,I
+5,Q2,759,Kibena,17,TZ,bez,Bena (Tanzania),I
+5,Q2,762,Kiiraqi,17,TZ,irk,Iraqw,I
+5,Q2,763,Kijaluo,17,TZ,luo,Luo (Kenya and Tanzania),I
+5,Q2,764,Kijita,17,TZ,jit,Jita,I
+5,Q2,765,Kikinga,17,TZ,zga,Kinga,I
+5,Q2,766,Kitongwe,17,TZ,tny,Tongwe,I
+5,Q2,767,Kimwera,17,TZ,mwe,Mwera (Chimwera),I
+5,Q2,768,Kindali,17,TZ,ndh,Ndali,I
+5,Q2,769,Kindendeule,17,TZ,dne,Ndendeule,I
+5,Q2,770,Kinyambo,17,TZ,now,Nyambo,I
+5,Q2,771,Kipogoro,17,TZ,poy,Pogolo,I
+5,Q2,772,Kisambaa,17,TZ,ksb,Shambala,I
+5,Q2,773,Kiyao,17,TZ,yao,Yao,I
+5,Q2,774,Kizaramo,17,TZ,zaj,Zaramo,I
+5,Q2,775,Kizigua,17,TZ,ziw,Zigula,I
+5,Q2,776,Kizinza,17,TZ,zin,Zinza,I
+5,Q2,779,Kiiraq,17,TZ,irk,Iraqw,I
+5,Q2,780,Luganda,18,UG,lug,Ganda,I
+5,Q2,781,Runyankole,18,UG,nyn,Nyankole,I
+5,Q2,782,Runyoro,18,UG,nyo,Nyoro,I
+5,Q2,783,Lusoga,18,UG,xog,Soga,I
+5,Q2,784,Lumasaba,18,UG,myx,Masaaba,I
+5,Q2,785,Lukhonjo,18,UG,koo,Konzo,I
+5,Q2,786,Lunyoro,18,UG,nyo,Nyoro,I
+5,Q2,787,Ateso,18,UG,teo,Teso,I
+5,Q2,789,Alur,18,UG,alz,Alur,I
+5,Q2,790,Lugbara,18,UG,lgg,Lugbara,I
+5,Q2,791,Madi,18,UG,mhi,Ma'di,I
+5,Q2,791,Madi,18,UG,snm,Southern Ma'di,I
+5,Q2,792,Japadhola,18,UG,adh,Adhola,I
+5,Q2,793,Lusamia,18,UG,lsm,Saamia,I
+5,Q2,794,Lugwere,18,UG,gwr,Gwere,I
+5,Q2,795,Rukiga,18,UG,cgg,Chiga,I
+5,Q2,796,Rutooro,18,UG,ttj,Tooro,I
+5,Q2,797,Langi,18,UG,laj,Lango (Uganda),I
+5,Q2,798,Kupsabinyi,18,UG,kpz,Kupsabiny,I
+5,Q2,799,Ngakarimajong,18,UG,kdj,Karamojong,I
+5,Q2,800,Rutagwenda,18,UG,nyo,Nyoro,I
+5,Q2,801,Rufumbira,18,UG,kin,Kinyarwanda,I
+5,Q2,802,Runyarwanda,18,UG,kin,Kinyarwanda,I
+5,Q2,803,Rululi,18,UG,ruc,Ruuli,I
+5,Q2,804,Aringa,18,UG,luc,Aringa,I
+5,Q2,805,Kumam,18,UG,kdi,Kumam,I
+5,Q2,806,Kakwa,18,UG,keo,Kakwa,I
+5,Q2,820,Bemba,19,ZM,bem,Bemba (Zambia),I
+5,Q2,823,Lozi,19,ZM,loz,Lozi,I
+5,Q2,824,Chewa,19,ZM,nya,Nyanja,I
+5,Q2,825,Nsenga,19,ZM,nse,Nsenga,I
+5,Q2,826,Tumbuka,19,ZM,tum,Tumbuka,I
+5,Q2,827,Kaonde,19,ZM,kqn,Kaonde,I
+5,Q2,828,Luvale,19,ZM,lue,Luvale,I
+5,Q2,829,Namwanga,19,ZM,mwn,Nyamwanga,I
+5,Q2,830,Lunda,19,ZM,lun,Lunda,I
+5,Q2,831,Bisa,19,ZM,leb,Lala-Bisa,I
+5,Q2,832,Nkoya,19,ZM,nka,Nkoya,I
+5,Q2,833,Mambwe,19,ZM,mgr,Mambwe-Lungu,I
+5,Q2,834,Lenje,19,ZM,leh,Lenje,I
+5,Q2,835,Ngoni,19,ZM,nse,Nsenga,I
+5,Q2,836,Soli,19,ZM,sby,Soli,I
+5,Q2,837,Ila,19,ZM,ilb,Ila,I
+5,Q2,838,Ushi,19,ZM,auh,Aushi,I
+5,Q2,840,Mbunda,19,ZM,mck,Mbunda,I
+5,Q2,841,Kunda,19,ZM,kdn,Kunda,I
+5,Q2,841,Kunda,19,ZM,nya,Nyanja,I
+5,Q2,842,Lala,19,ZM,leb,Lala-Bisa,I
+5,Q2,844,Lungu,19,ZM,mgr,Mambwe-Lungu,I
+5,Q2,846,Senga,19,ZM,nse,Nsenga,I
+5,Q2,847,Tokaleya,19,ZM,toi,Tonga (Zambia),I
+5,Q2,848,Bwile,19,ZM,bwc,Bwile,I
+5,Q2,849,Ngumbo,19,ZM,bem,Bemba (Zambia),I
+5,Q2,851,Tabwa,19,ZM,tap,Taabwa,I
+5,Q2,852,Goba,19,ZM,sna,Shona,I
+5,Q2,861,Shona,20,ZW,sna,Shona,I
+5,Q2,862,Zezuru,20,ZW,sna,Shona,I
+5,Q2,863,Korekore,20,ZW,sna,Shona,I
+5,Q2,864,Karanga,20,ZW,sna,Shona,I
+5,Q2,865,Manyika,20,ZW,mxc,Manyika,I
+5,Q2,868,Kalanga,20,ZW,kck,Kalanga,I
+5,Q2,870,Vhitori,20,ZW,sna,Shona,I
+5,Q2,872,Nambya,20,ZW,nmq,Nambya,I
+5,Q2,873,Maungwe,20,ZW,mxc,Manyika,I
+5,Q2,874,Buja,20,ZW,sna,Shona,I
+5,Q2,875,Bocha,20,ZW,mxc,Manyika,I
+5,Q2,900,Creole,21,MU,mfe,Morisyen,I
+5,Q2,901,Bhojpuri,21,MU,bho,Bhojpuri,I
+5,Q2,930,Krio,22,SL,kri,Krio,I
+5,Q2,932,Temne,22,SL,tem,Timne,I
+5,Q2,933,Limba,22,SL,lia,West-Central Limba,I
+5,Q2,933,Limba,22,SL,lma,East Limba,I
+5,Q2,934,Loko,22,SL,lok,Loko,I
+5,Q2,935,Sherbro,22,SL,bun,Sherbro,I
+5,Q2,936,Fulla,22,SL,fuf,Pular,I
+5,Q2,938,Kuranko,22,SL,knk,Kuranko,I
+5,Q2,939,Madingo,22,SL,emk,Eastern Maninkakan,I
+5,Q2,941,Susu,22,SL,sus,Susu,I
+5,Q2,943,Yalunka,22,SL,yal,Yalunka,I
+5,Q2,1101,Zarrma/Songhaï,23,NE,dje,Zarma,I
+5,Q2,1103,Touareg,23,NE,thv,Tahaggart Tamahaq,I
+5,Q2,1103,Touareg,23,NE,ttq,Tawallammat Tamajaq,I
+5,Q2,1104,Béri béri,23,NE,knc,Central Kanuri,I
+5,Q2,1106,Arabe,23,NE,mey,Hassaniyya,I
+5,Q2,1107,Toubou,23,NE,dzg,Dazaga,I
+5,Q2,1140,Ewé,24,TG,ewe,Ewe,I
+5,Q2,1141,Mina (Guen),24,TG,gej,Gen,I
+5,Q2,1142,Kabyè,24,TG,kbp,Kabiyè,I
+5,Q2,1143,Tem (Kotokoli),24,TG,kdh,Tem,I
+5,Q2,1144,Ben (Moba),24,TG,mfq,Moba,I
+5,Q2,1145,Nawdem (Losso),24,TG,nmz,Nawdm,I
+5,Q2,1147,Ana,24,TG,ife,Ifè,I
+5,Q2,1148,Akposso,24,TG,kpo,Ikposo,I
+5,Q2,1149,Bassar,24,TG,bud,Ntcham,I
+5,Q2,1152,Ouatchi,24,TG,wci,Waci Gbe,I
+5,Q2,1153,Akébou,24,TG,keu,Akebu,I
+5,Q2,1154,Gourma,24,TG,gux,Gourmanchéma,I
+5,Q2,1156,Ngam-Gam,24,TG,gng,Ngangam,I
+5,Q2,1157,Tchamba,24,TG,aks,Akaselem,I
+5,Q2,1159,Aklobo,24,TG,keu,Akebu,I
+5,Q2,1180,Kirundi,25,BI,run,Rundi,I
+5,Q2,1220,Foufoulde,26,CM,fub,Adamawa Fulfulde,I
+5,Q2,1221,Pidgin,26,CM,wes,Cameroon Pidgin,I
+5,Q2,1222,Ewondo,26,CM,ewo,Ewondo,I
+5,Q2,1223,Bafang,26,CM,fmp,Fe'fe',I
+5,Q2,1224,Douala,26,CM,dua,Duala,I
+5,Q2,1225,Bafia,26,CM,ksf,Bafia,I
+5,Q2,1226,Bafut,26,CM,bfd,Bafut,I
+5,Q2,1227,Bagangte,26,CM,byv,Medumba,I
+5,Q2,1228,Bakundu,26,CM,bdu,Oroko,I
+5,Q2,1229,Bamileke,26,CM,bbj,Ghomálá',I
+5,Q2,1229,Bamileke,26,CM,bko,Kwa',I
+5,Q2,1229,Bamileke,26,CM,byv,Medumba,I
+5,Q2,1229,Bamileke,26,CM,fmp,Fe'fe',I
+5,Q2,1229,Bamileke,26,CM,jgo,Ngomba,I
+5,Q2,1229,Bamileke,26,CM,nla,Ngombale,I
+5,Q2,1229,Bamileke,26,CM,nnh,Ngiemboon,I
+5,Q2,1229,Bamileke,26,CM,nnz,Nda'nda',I
+5,Q2,1229,Bamileke,26,CM,nwe,Ngwe,I
+5,Q2,1229,Bamileke,26,CM,xmg,Mengaka,I
+5,Q2,1229,Bamileke,26,CM,ybb,Yemba,I
+5,Q2,1230,Bamoun,26,CM,bax,Bamun,I
+5,Q2,1231,Bandjoun,26,CM,bbj,Ghomálá',I
+5,Q2,1232,Bangwa,26,CM,nge,Ngemba,I
+5,Q2,1232,Bangwa,26,CM,nnz,Nda'nda',I
+5,Q2,1233,Banso,26,CM,lns,Lamnso',I
+5,Q2,1235,Batanga,26,CM,bnm,Batanga,I
+5,Q2,1236,Bayangi,26,CM,ken,Kenyang,I
+5,Q2,1237,Bulu,26,CM,bum,Bulu (Cameroon),I
+5,Q2,1238,Dschang,26,CM,ybb,Yemba,I
+5,Q2,1239,Eton,26,CM,eto,Eton (Cameroon),I
+5,Q2,1240,Fali,26,CM,fal,South Fali,I
+5,Q2,1240,Fali,26,CM,fll,North Fali,I
+5,Q2,1241,Fong,26,CM,ewo,Ewondo,I
+5,Q2,1242,Gbaya,26,CM,gya,Northwest Gbaya,I
+5,Q2,1243,Guidar,26,CM,gid,Gidar,I
+5,Q2,1244,Guiziga,26,CM,gis,North Giziga,I
+5,Q2,1244,Guiziga,26,CM,giz,South Giziga,I
+5,Q2,1246,Kapsiki,26,CM,kvj,Psikye,I
+5,Q2,1247,Kotoko,26,CM,kot,Lagwan,I
+5,Q2,1249,Mafa,26,CM,maf,Mafa,I
+5,Q2,1250,Maka,26,CM,mkk,Byep,I
+5,Q2,1251,Mankon,26,CM,nge,Ngemba,I
+5,Q2,1252,Massa,26,CM,mcn,Masana,I
+5,Q2,1253,Mbouda,26,CM,jgo,Ngomba,I
+5,Q2,1253,Mbouda,26,CM,nla,Ngombale,I
+5,Q2,1253,Mbouda,26,CM,nnh,Ngiemboon,I
+5,Q2,1254,Mboum,26,CM,mdd,Mbum,I
+5,Q2,1255,Mobakoh,26,CM,mqb,Mbuko,I
+5,Q2,1256,Moudang,26,CM,mua,Mundang,I
+5,Q2,1257,Ngueba,26,CM,nnh,Ngiemboon,I
+5,Q2,1258,Njikwa,26,CM,ngn,Ngwo,I
+5,Q2,1259,Lamnso,26,CM,lns,Lamnso',I
+5,Q2,1260,Abbey,27,CI,aba,Abé,I
+5,Q2,1261,Abron,27,CI,abr,Abron,I
+5,Q2,1262,Adjoukrou,27,CI,adj,Adioukrou,I
+5,Q2,1263,Agni,27,CI,any,Anyin,I
+5,Q2,1264,Attié,27,CI,ati,Attié,I
+5,Q2,1265,Avikam,27,CI,avi,Avikam,I
+5,Q2,1267,Baoulé,27,CI,bci,Baoulé,I
+5,Q2,1268,Bété,27,CI,bet,Guiberoua Béte,I
+5,Q2,1268,Bété,27,CI,bev,Daloa Bété,I
+5,Q2,1268,Bété,27,CI,btg,Gagnoa Bété,I
+5,Q2,1269,Dida,27,CI,dic,Lakota Dida,I
+5,Q2,1269,Dida,27,CI,gud,Yocoboué Dida,I
+5,Q2,1270,Godié,27,CI,god,Godié,I
+5,Q2,1271,Gouro,27,CI,goa,Guro,I
+5,Q2,1273,Guéré,27,CI,gxx,Wè Southern,I
+5,Q2,1273,Guéré,27,CI,wec,Wè Western,I
+5,Q2,1274,Koulango,27,CI,kzc,Bondoukou Kulango,I
+5,Q2,1274,Koulango,27,CI,nku,Bouna Kulango,I
+5,Q2,1275,Kroumen,27,CI,pye,Pye Krumen,I
+5,Q2,1275,Kroumen,27,CI,ted,Tepo Krumen,I
+5,Q2,1279,Yacouba,27,CI,dnj,Dan,I
+5,Q2,1280,Wobe,27,CI,wob,Wè Northern,I
+5,Q2,1281,Ebrie,27,CI,ebr,Ebrié,I
+5,Q2,1282,Djimini,27,CI,dyi,Djimini Senoufo,I
+5,Q2,1283,Bakwe,27,CI,bjw,Bakwé,I
+5,Q2,1284,Ahizi,27,CI,ahi,Tiagbamrin Aizi,I
+5,Q2,1284,Ahizi,27,CI,ahm,Mobumrin Aizi,I
+5,Q2,1284,Ahizi,27,CI,ahp,Aproumu Aizi,I
+5,Q2,1285,Gniaboua,27,CI,nwb,Nyabwa,I
+5,Q2,1286,Kouzie,27,CI,nwb,Nyabwa,I
+5,Q2,1287,Koyaka,27,CI,kga,Koyaga,I
+5,Q2,1288,Mbatto,27,CI,gwa,Mbato,I
+5,Q2,1289,Mahouka,27,CI,mxx,Mahou,I
+5,Q2,1300,Soussou,28,GN,sus,Susu,I
+5,Q2,1301,Baga,28,GN,bcg,Baga Pokur,I
+5,Q2,1301,Baga,28,GN,bmd,Baga Manduri,I
+5,Q2,1301,Baga,28,GN,bsp,Baga Sitemu,I
+5,Q2,1301,Baga,28,GN,ldm,Landoma,I
+5,Q2,1302,Poular,28,GN,fuf,Pular,I
+5,Q2,1303,Djalounké,28,GN,yal,Yalunka,I
+5,Q2,1304,Diakanké,28,GN,jad,Jahanka,I
+5,Q2,1305,Maninka,28,GN,emk,Eastern Maninkakan,I
+5,Q2,1306,konianké,28,GN,mku,Konyanka Maninka,I
+5,Q2,1307,Kpelé,28,GN,gkp,Guinea Kpelle,I
+5,Q2,1310,Loma,28,GN,tod,Toma,I
+5,Q2,1311,Manian,28,GN,mev,Mano,I
+5,Q2,1312,Kissié,28,GN,kqs,Northern Kissi,I
+5,Q2,1313,Landouma,28,GN,ldm,Landoma,I
+5,Q2,1314,Kouranko,28,GN,knk,Kuranko,I
+5,Q2,1315,Kakabhe,28,GN,kke,Kakabe,I
+5,Q2,1501,Hassaniya,33,MA,mey,Hassaniyya,I
+5,Q2,1622,Isizulu,30,SZ,zul,Zulu,I
+5,Q2,2220,Tikari,26,CM,tik,Tikar,I
+5,Q2,2221,Toupouri,26,CM,tui,Tupuri,I
+5,Q2,2222,Yamba,26,CM,yam,Yamba,I
+5,Q2,2740,Kisubi,17,TZ,suj,Shubi,I
+5,Q2,2741,Kisimbiti,17,TZ,ssc,Suba-Simbiti,I
+5,Q2,2742,Kikerewe,17,TZ,ked,Kerewe,I
+5,Q2,2743,Kimbulu,17,TZ,irk,Iraqw,I
+5,Q2,2744,Kisangu,17,TZ,sbp,Sangu (Tanzania),I
+5,Q2,2745,Kimakua,17,TZ,mgh,Makhuwa-Meetto,I
+5,Q2,2746,Kikwaya,17,TZ,kya,Kwaya,I
+5,Q2,2747,Kisafwa,17,TZ,sbk,Safwa,I
+5,Q2,2748,Kirangi,17,TZ,lag,Langi,I
+5,Q2,2749,Kipangwa,17,TZ,pbr,Pangwa,I
+5,Q2,2750,Kindengereko,17,TZ,ndg,Ndengereko,I
+5,Q2,2751,Kingindo,17,TZ,nnq,Ngindo,I
+5,Q2,2752,Kinguu,17,TZ,ziw,Zigula,I
+5,Q2,2753,Kinyiha,17,TZ,nih,Nyiha (Tanzania),I
+5,Q2,2753,Kinyiha,17,TZ,nkt,Nyika (Tanzania),I
+5,Q2,2754,Kinyamwanga,17,TZ,mwn,Nyamwanga,I
+5,Q2,9995,Others,3,BF,und,Undetermined,S
+5,Q2,9995,Others,1,BJ,und,Undetermined,S
+5,Q2,9995,Others,2,BW,und,Undetermined,S
+5,Q2,9995,Others,27,CI,und,Undetermined,S
+5,Q2,9995,Others,26,CM,und,Undetermined,S
+5,Q2,9995,Others,28,GN,und,Undetermined,S
+5,Q2,9995,Others,6,KE,und,Undetermined,S
+5,Q2,9995,Others,8,LR,und,Undetermined,S
+5,Q2,9995,Others,7,LS,und,Undetermined,S
+5,Q2,9995,Others,11,ML,und,Undetermined,S
+5,Q2,9995,Others,10,MW,und,Undetermined,S
+5,Q2,9995,Others,12,MZ,und,Undetermined,S
+5,Q2,9995,Others,13,NA,und,Undetermined,S
+5,Q2,9995,Others,14,NG,und,Undetermined,S
+5,Q2,9995,Others,15,SN,und,Undetermined,S
+5,Q2,9995,Others,24,TG,und,Undetermined,S
+5,Q2,9995,Others,17,TZ,und,Undetermined,S
+5,Q2,9995,Others,18,UG,und,Undetermined,S
+5,Q2,9995,Others,16,ZA,und,Undetermined,S
+5,Q2,9995,Others,19,ZM,und,Undetermined,S
+5,Q2,9995,Others,20,ZW,und,Undetermined,S
+5,Q2,9999,Don't know,26,CM,und,Undetermined,S
+5,Q2,9999,Don't know,8,LR,und,Undetermined,S
+5,Q2,9999,Don't know,12,MZ,und,Undetermined,S
+5,Q2,9999,Don't know,14,NG,und,Undetermined,S
+5,Q2,9999,Don't know,22,SL,und,Undetermined,S
+5,Q2,9999,Don't know,35,TN,und,Undetermined,S
+5,Q2,9999,Don't know,19,ZM,und,Undetermined,S
+6,Q103,-1,Missing,8,CI,und,Undetermined,S
+6,Q103,-1,Missing,6,CM,und,Undetermined,S
+6,Q103,-1,Missing,11,GH,und,Undetermined,S
+6,Q103,-1,Missing,15,LR,und,Undetermined,S
+6,Q103,-1,Missing,17,MW,und,Undetermined,S
+6,Q103,-1,Missing,27,SL,und,Undetermined,S
+6,Q103,-1,Missing,35,ZM,und,Undetermined,S
+6,Q103,-1,Missing,36,ZW,und,Undetermined,S
+6,Q103,1,English,3,BW,eng,English,I
+6,Q103,1,English,6,CM,eng,English,I
+6,Q103,1,English,7,CV,eng,English,I
+6,Q103,1,English,11,GH,eng,English,I
+6,Q103,1,English,13,KE,eng,English,I
+6,Q103,1,English,15,LR,eng,English,I
+6,Q103,1,English,14,LS,eng,English,I
+6,Q103,1,English,19,MU,eng,English,I
+6,Q103,1,English,17,MW,eng,English,I
+6,Q103,1,English,22,NA,eng,English,I
+6,Q103,1,English,24,NG,eng,English,I
+6,Q103,1,English,27,SL,eng,English,I
+6,Q103,1,English,30,SZ,eng,English,I
+6,Q103,1,English,34,UG,eng,English,I
+6,Q103,1,English,28,ZA,eng,English,I
+6,Q103,1,English,35,ZM,eng,English,I
+6,Q103,1,English,36,ZW,eng,English,I
+6,Q103,2,French,4,BF,fra,French,I
+6,Q103,2,French,5,BI,fra,French,I
+6,Q103,2,French,2,BJ,fra,French,I
+6,Q103,2,French,8,CI,fra,French,I
+6,Q103,2,French,6,CM,fra,French,I
+6,Q103,2,French,10,GA,fra,French,I
+6,Q103,2,French,12,GN,fra,French,I
+6,Q103,2,French,18,ML,fra,French,I
+6,Q103,2,French,19,MU,fra,French,I
+6,Q103,2,French,23,NE,fra,French,I
+6,Q103,2,French,26,SN,fra,French,I
+6,Q103,2,French,32,TG,fra,French,I
+6,Q103,2,French,33,TN,fra,French,I
+6,Q103,3,Portuguese,21,MZ,por,Portuguese,I
+6,Q103,3,Portuguese,25,ST,por,Portuguese,I
+6,Q103,4,Swahili,13,KE,swh,Swahili (individual language),I
+6,Q103,4,Swahili,31,TZ,swh,Swahili (individual language),I
+6,Q103,5,Arabic,1,DZ,arb,Standard Arabic,I
+6,Q103,5,Arabic,9,EG,arb,Standard Arabic,I
+6,Q103,5,Arabic,20,MA,arb,Standard Arabic,I
+6,Q103,5,Arabic,29,SD,arb,Standard Arabic,I
+6,Q103,5,Arabic,33,TN,arb,Standard Arabic,I
+6,Q103,7,Afrikaans,22,NA,afr,Afrikaans,I
+6,Q103,7,Afrikaans,28,ZA,afr,Afrikaans,I
+6,Q103,15,Dioula,4,BF,dyu,Dyula,I
+6,Q103,15,Dioula,8,CI,dyu,Dyula,I
+6,Q103,16,Ewe,11,GH,ewe,Ewe,I
+6,Q103,16,Ewe,32,TG,ewe,Ewe,I
+6,Q103,18,Fulfuldé,4,BF,fuh,Western Niger Fulfulde,I
+6,Q103,18,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
+6,Q103,18,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
+6,Q103,20,Hausa,11,GH,hau,Hausa,I
+6,Q103,20,Hausa,24,NG,hau,Hausa,I
+6,Q103,32,Tamasheq,18,ML,taq,Tamasheq,I
+6,Q103,32,Tamasheq,18,ML,ttq,Tawallammat Tamajaq,I
+6,Q103,32,Tamasheq,23,NE,thv,Tahaggart Tamahaq,I
+6,Q103,32,Tamasheq,23,NE,thz,Tayart Tamajeq,I
+6,Q103,32,Tamasheq,23,NE,ttq,Tawallammat Tamajaq,I
+6,Q103,35,Yoruba,2,BJ,yor,Yoruba,I
+6,Q103,35,Yoruba,24,NG,yor,Yoruba,I
+6,Q103,100,Fon,2,BJ,fon,Fon,I
+6,Q103,101,Adja,2,BJ,ajg,Aja (Benin),I
+6,Q103,102,Bariba,2,BJ,bba,Baatonum,I
+6,Q103,104,Outamari,2,BJ,tbz,Ditammari,I
+6,Q103,105,Peulh,2,BJ,fue,Borgu Fulfulde,I
+6,Q103,105,Peulh,2,BJ,fuh,Western Niger Fulfulde,I
+6,Q103,106,Lopka,2,BJ,dop,Lukpa,I
+6,Q103,140,Setswana,3,BW,tsn,Tswana,I
+6,Q103,180,Mooré,4,BF,mos,Mossi,I
+6,Q103,183,Gulmacema,4,BF,gux,Gourmanchéma,I
+6,Q103,184,Gourounsi,4,BF,gur,Farefare,I
+6,Q103,220,Crioulo,7,CV,kea,Kabuverdianu,I
+6,Q103,221,Português,7,CV,por,Portuguese,I
+6,Q103,260,Akan,11,GH,aka,Akan,M
+6,Q103,262,Ga/Dangbe,11,GH,ada,Adangme,I
+6,Q103,262,Ga/Dangbe,11,GH,gaa,Ga,I
+6,Q103,263,Dagbani,11,GH,dag,Dagbani,I
+6,Q103,265,Waala,11,GH,wlx,Wali (Ghana),I
+6,Q103,273,Dagaree,11,GH,dga,Southern Dagaare,I
+6,Q103,300,Kikuyu,13,KE,kik,Kikuyu,I
+6,Q103,301,Luo,13,KE,luo,Luo (Kenya and Tanzania),I
+6,Q103,302,Luhya,13,KE,luy,Luyia,M
+6,Q103,303,Kamba,13,KE,kam,Kamba (Kenya),I
+6,Q103,304,Kalenjin,13,KE,kln,Kalenjin,M
+6,Q103,305,Kisii,13,KE,guz,Gusii,I
+6,Q103,306,Meru/Samburu,13,KE,mer,Meru,I
+6,Q103,307,Maasai / Samburu,13,KE,mas,Masai,I
+6,Q103,307,Maasai / Samburu,13,KE,saq,Samburu,I
+6,Q103,310,Somali,13,KE,som,Somali,I
+6,Q103,340,Sesotho,14,LS,sot,Southern Sotho,I
+6,Q103,380,Liberian English,15,LR,lir,Liberian English,I
+6,Q103,420,Malgache « officiel »,16,MG,plt,Plateau Malagasy,I
+6,Q103,421,Malgache avec spécificité régionale,16,MG,mlg,Malagasy,M
+6,Q103,460,Chitumbuka,17,MW,tum,Tumbuka,I
+6,Q103,463,Chichewa,17,MW,nya,Nyanja,I
+6,Q103,501,Bambara,18,ML,bam,Bambara,I
+6,Q103,514,Peulh/Fulfude,18,ML,ffm,Maasina Fulfulde,I
+6,Q103,517,Soninké,18,ML,snk,Soninke,I
+6,Q103,518,Sonrhai,18,ML,hmb,Humburi Senni Songhay,I
+6,Q103,518,Sonrhai,18,ML,khq,Koyra Chiini Songhay,I
+6,Q103,518,Sonrhai,18,ML,ses,Koyraboro Senni Songhai,I
+6,Q103,540,Makua,21,MZ,mgh,Makhuwa-Meetto,I
+6,Q103,540,Makua,21,MZ,mhm,Makhuwa-Moniga,I
+6,Q103,540,Makua,21,MZ,vmk,Makhuwa-Shirima,I
+6,Q103,540,Makua,21,MZ,vmw,Makhuwa,I
+6,Q103,540,Makua,21,MZ,xmc,Makhuwa-Marrevone,I
+6,Q103,540,Makua,21,MZ,xsq,Makhuwa-Saka,I
+6,Q103,541,Sena,21,MZ,seh,Sena,I
+6,Q103,542,Ndau,21,MZ,ndc,Ndau,I
+6,Q103,543,Changana,21,MZ,tso,Tsonga,I
+6,Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,kua,Kuanyama,I
+6,Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,ndo,Ndonga,I
+6,Q103,582,Otjiherero,22,NA,her,Herero,I
+6,Q103,583,Rukwangali,22,NA,kwn,Kwangali,I
+6,Q103,621,Igbo,24,NG,ibo,Igbo,I
+6,Q103,623,Pidgin English,24,NG,pcm,Nigerian Pidgin,I
+6,Q103,660,Wolof,26,SN,wol,Wolof,I
+6,Q103,661,Pulaar/Toucouleur,26,SN,fuc,Pulaar,I
+6,Q103,665,Diola,26,SN,dyo,Jola-Fonyi,I
+6,Q103,702,Xhosa,28,ZA,xho,Xhosa,I
+6,Q103,703,Pedi/Spedi/North Sotho,28,ZA,nso,Pedi,I
+6,Q103,704,Sesotho/Sotho/South Sotho,28,ZA,sot,Southern Sotho,I
+6,Q103,705,Setswana/Tswana,28,ZA,tsn,Tswana,I
+6,Q103,708,Venda,28,ZA,ven,Venda,I
+6,Q103,709,Zulu,28,ZA,zul,Zulu,I
+6,Q103,780,Luganda,34,UG,lug,Ganda,I
+6,Q103,781,Runyankore-Rukiga,34,UG,cgg,Chiga,I
+6,Q103,782,Runyoro-Rutooro,34,UG,nyo,Nyoro,I
+6,Q103,783,Lusoga,34,UG,xog,Soga,I
+6,Q103,784,Lumasaaba,34,UG,myx,Masaaba,I
+6,Q103,787,Ateso,34,UG,teo,Teso,I
+6,Q103,788,Acholi-Langi,34,UG,ach,Acoli,I
+6,Q103,788,Acholi-Langi,34,UG,laj,Lango (Uganda),I
+6,Q103,789,Alur,34,UG,alz,Alur,I
+6,Q103,790,Lugbara,34,UG,lgg,Lugbara,I
+6,Q103,792,Japadhola,34,UG,adh,Adhola,I
+6,Q103,798,Kupsabinyi,34,UG,kpz,Kupsabiny,I
+6,Q103,799,Ngakarimajong,34,UG,kdj,Karamojong,I
+6,Q103,820,Chewa/Nyanja,35,ZM,nya,Nyanja,I
+6,Q103,821,Bembia,35,ZM,bem,Bemba (Zambia),I
+6,Q103,822,Tonga,35,ZM,toi,Tonga (Zambia),I
+6,Q103,823,Kaonde,35,ZM,kqn,Kaonde,I
+6,Q103,824,Lozi,35,ZM,loz,Lozi,I
+6,Q103,860,Ndebele,36,ZW,nde,North Ndebele,I
+6,Q103,861,Shona,36,ZW,sna,Shona,I
+6,Q103,900,Creole,19,MU,mfe,Morisyen,I
+6,Q103,930,Krio,27,SL,kri,Krio,I
+6,Q103,931,Mende,27,SL,men,Mende (Sierra Leone),I
+6,Q103,932,Temne,27,SL,tem,Timne,I
+6,Q103,1100,Haoussa,23,NE,hau,Hausa,I
+6,Q103,1101,Zarma/Songhaï,23,NE,dje,Zarma,I
+6,Q103,1142,Kabye,32,TG,kbp,Kabiyè,I
+6,Q103,1143,Tem (Kotokoli),32,TG,kdh,Tem,I
+6,Q103,1144,Ben (Moba),32,TG,mfq,Moba,I
+6,Q103,1145,Nawdem (Losso),32,TG,nmz,Nawdm,I
+6,Q103,1180,Kirundi,5,BI,run,Rundi,I
+6,Q103,1220,Foufouldé,6,CM,fub,Adamawa Fulfulde,I
+6,Q103,1220,Foufouldé,6,CM,fuv,Nigerian Fulfulde,I
+6,Q103,1221,Pidgin,6,CM,wes,Cameroon Pidgin,I
+6,Q103,1222,Ewondo,6,CM,ewo,Ewondo,I
+6,Q103,1300,Soussou,12,GN,sus,Susu,I
+6,Q103,1302,Poular,12,GN,fuf,Pular,I
+6,Q103,1305,Maninka,12,GN,emk,Eastern Maninkakan,I
+6,Q103,1307,Kpèlè,12,GN,gkp,Guinea Kpelle,I
+6,Q103,1312,Kissié,12,GN,kqs,Northern Kissi,I
+6,Q103,1620,siSwati,30,SZ,ssw,Swati,I
+6,Q103,1660,Creolo,25,ST,aoa,Angolar,I
+6,Q103,9995,Other,6,CM,und,Undetermined,S
+6,Q103,9995,Other,11,GH,und,Undetermined,S
+6,Q103,9995,Other,12,GN,und,Undetermined,S
+6,Q103,9995,Other,20,MA,und,Undetermined,S
+6,Q103,9995,Other,17,MW,und,Undetermined,S
+6,Q103,9995,Other,21,MZ,und,Undetermined,S
+6,Q103,9995,Other,27,SL,und,Undetermined,S
+6,Q103,9995,Other,26,SN,und,Undetermined,S
+6,Q103,9995,Other,25,ST,und,Undetermined,S
+6,Q103,9995,Other,30,SZ,und,Undetermined,S
+6,Q103,9995,Other,34,UG,und,Undetermined,S
+6,Q103,9995,Other,28,ZA,und,Undetermined,S
+6,Q103,9995,Other,35,ZM,und,Undetermined,S
+6,Q116,1,English,6,CM,eng,English,I
+6,Q116,1,English,13,KE,eng,English,I
+6,Q116,1,English,24,NG,eng,English,I
+6,Q116,1,English,28,ZA,eng,English,I
+6,Q116,1,English,35,ZM,eng,English,I
+6,Q116,1,English,36,ZW,eng,English,I
+6,Q116,2,French,10,GA,fra,French,I
+6,Q116,3,Portuguese,21,MZ,por,Portuguese,I
+6,Q116,3,Portuguese,25,ST,por,Portuguese,I
+6,Q116,4,Kiswahili,31,TZ,swh,Swahili (individual language),I
+6,Q116,5,Arabic,1,DZ,arq,Algerian Arabic,I
+6,Q116,5,Arabic,9,EG,arz,Egyptian Arabic,I
+6,Q116,5,Arabic,20,MA,ary,Moroccan Arabic,I
+6,Q116,5,Arabic,33,TN,aeb,Tunisian Arabic,I
+6,Q116,6,Adja,2,BJ,ajg,Aja (Benin),I
+6,Q116,6,Adja,32,TG,ajg,Aja (Benin),I
+6,Q116,13,Bobo,4,BF,bbo,Northern Bobo Madaré,I
+6,Q116,13,Bobo,4,BF,bwq,Southern Bobo Madaré,I
+6,Q116,13,Bobo,18,ML,bmq,Bomu,I
+6,Q116,16,Ewe,11,GH,ewe,Ewe,I
+6,Q116,16,Ewe,32,TG,ewe,Ewe,I
+6,Q116,18,Fulfuldé,4,BF,fuh,Western Niger Fulfulde,I
+6,Q116,18,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
+6,Q116,18,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
+6,Q116,20,Hausa,11,GH,hau,Hausa,I
+6,Q116,20,Hausa,24,NG,hau,Hausa,I
+6,Q116,28,Nyanja,21,MZ,nya,Nyanja,I
+6,Q116,28,Nyanja,35,ZM,nya,Nyanja,I
+6,Q116,32,Tamasheq,18,ML,taq,Tamasheq,I
+6,Q116,32,Tamasheq,18,ML,ttq,Tawallammat Tamajaq,I
+6,Q116,32,Tamasheq,23,NE,thv,Tahaggart Tamahaq,I
+6,Q116,32,Tamasheq,23,NE,thz,Tayart Tamajeq,I
+6,Q116,32,Tamasheq,23,NE,ttq,Tawallammat Tamajaq,I
+6,Q116,35,Yoruba,2,BJ,yor,Yoruba,I
+6,Q116,35,Yoruba,24,NG,yor,Yoruba,I
+6,Q116,100,Fon,2,BJ,fon,Fon,I
+6,Q116,102,Bariba,2,BJ,bba,Baatonum,I
+6,Q116,105,Ditamari,2,BJ,tbz,Ditammari,I
+6,Q116,106,Peulh,2,BJ,fue,Borgu Fulfulde,I
+6,Q116,106,Peulh,2,BJ,fuh,Western Niger Fulfulde,I
+6,Q116,107,Lopka,2,BJ,dop,Lukpa,I
+6,Q116,140,Setswana,3,BW,tsn,Tswana,I
+6,Q116,142,Sekgalagadi,3,BW,xkv,Kgalagadi,I
+6,Q116,143,Sesubia,3,BW,sbs,Subiya,I
+6,Q116,144,Ikalanga/Sekalaka,3,BW,kck,Kalanga,I
+6,Q116,180,Mooré,4,BF,mos,Mossi,I
+6,Q116,181,Dioula,4,BF,dyu,Dyula,I
+6,Q116,183,Gulmacema,4,BF,gux,Gourmanchéma,I
+6,Q116,184,Gourounsi,4,BF,gur,Farefare,I
+6,Q116,185,Bissa,4,BF,bib,Bissa,I
+6,Q116,190,Samo,4,BF,sbd,Southern Samo,I
+6,Q116,190,Samo,4,BF,stj,Matya Samo,I
+6,Q116,190,Samo,4,BF,sym,Maya Samo,I
+6,Q116,220,Crioulo,7,CV,kea,Kabuverdianu,I
+6,Q116,221,Português,7,CV,por,Portuguese,I
+6,Q116,260,Akan,11,GH,aka,Akan,M
+6,Q116,262,Ga/Dangbe,11,GH,ada,Adangme,I
+6,Q116,262,Ga/Dangbe,11,GH,gaa,Ga,I
+6,Q116,263,Dagbani,11,GH,dag,Dagbani,I
+6,Q116,265,Waala,11,GH,wlx,Wali (Ghana),I
+6,Q116,266,Moshie,11,GH,mos,Mossi,I
+6,Q116,268,Likpakpaln,11,GH,xon,Konkomba,I
+6,Q116,270,Konkomba,11,GH,xon,Konkomba,I
+6,Q116,271,Gonja,11,GH,gjn,Gonja,I
+6,Q116,273,Dagaree,11,GH,dga,Southern Dagaare,I
+6,Q116,275,Kotokoli,11,GH,kdh,Tem,I
+6,Q116,279,Sissala,11,GH,sil,Tumulung Sisaala,I
+6,Q116,279,Sissala,11,GH,ssl,Western Sisaala,I
+6,Q116,280,Kasem,11,GH,xsm,Kasem,I
+6,Q116,300,Kikuyu,13,KE,kik,Kikuyu,I
+6,Q116,301,Luo,13,KE,luo,Luo (Kenya and Tanzania),I
+6,Q116,302,Luhya,13,KE,luy,Luyia,M
+6,Q116,303,Kamba,13,KE,kam,Kamba (Kenya),I
+6,Q116,305,Kisii,13,KE,guz,Gusii,I
+6,Q116,306,Meru/Embu,13,KE,ebu,Embu,I
+6,Q116,306,Meru/Embu,13,KE,mer,Meru,I
+6,Q116,307,Maasai/Samburu,13,KE,mas,Masai,I
+6,Q116,307,Maasai/Samburu,13,KE,saq,Samburu,I
+6,Q116,310,Somali,13,KE,som,Somali,I
+6,Q116,340,Sesotho,14,LS,sot,Southern Sotho,I
+6,Q116,380,Bassa,15,LR,bsq,Bassa,I
+6,Q116,383,Gbandi,15,LR,bza,Bandi,I
+6,Q116,384,Gio,15,LR,dnj,Dan,I
+6,Q116,386,Grebo,15,LR,gbo,Northern Grebo,I
+6,Q116,386,Grebo,15,LR,gec,Gboloo Grebo,I
+6,Q116,386,Grebo,15,LR,grj,Southern Grebo,I
+6,Q116,386,Grebo,15,LR,grv,Central Grebo,I
+6,Q116,386,Grebo,15,LR,gry,Barclayville Grebo,I
+6,Q116,387,Kissi,15,LR,kss,Southern Kisi,I
+6,Q116,388,Kpelle,15,LR,xpe,Liberia Kpelle,I
+6,Q116,389,Krahn,15,LR,kqo,Eastern Krahn,I
+6,Q116,389,Krahn,15,LR,krw,Western Krahn,I
+6,Q116,390,Kru,15,LR,klu,Klao,I
+6,Q116,391,Lorma,15,LR,lom,Loma (Liberia),I
+6,Q116,420,Malgache « officiel »,16,MG,plt,Plateau Malagasy,I
+6,Q116,421,Malgache avec spécificité régionale,16,MG,mlg,Malagasy,M
+6,Q116,460,Chitumbuka,17,MW,tum,Tumbuka,I
+6,Q116,461,Chinkhonde,17,MW,nyy,Nyakyusa-Ngonde,I
+6,Q116,463,Chichewa,17,MW,nya,Nyanja,I
+6,Q116,464,Chiyao,17,MW,yao,Yao,I
+6,Q116,466,Chilomwe,17,MW,lon,Malawi Lomwe,I
+6,Q116,471,Chitonga,17,MW,tog,Tonga (Nyasa),I
+6,Q116,501,Bambara,18,ML,bam,Bambara,I
+6,Q116,506,Dogon,18,ML,dds,Donno So Dogon,I
+6,Q116,506,Dogon,18,ML,djm,Jamsay Dogon,I
+6,Q116,506,Dogon,18,ML,dtm,Tomo Kan Dogon,I
+6,Q116,506,Dogon,18,ML,dts,Toro So Dogon,I
+6,Q116,514,Peulh/Fulfude,18,ML,ffm,Maasina Fulfulde,I
+6,Q116,516,Senufo,18,ML,myk,Mamara Senoufo,I
+6,Q116,516,Senufo,18,ML,shz,Syenara Senoufo,I
+6,Q116,516,Senufo,18,ML,spp,Supyire Senoufo,I
+6,Q116,517,Soninké/Sarakolé,18,ML,snk,Soninke,I
+6,Q116,518,Sonrhai,18,ML,hmb,Humburi Senni Songhay,I
+6,Q116,518,Sonrhai,18,ML,khq,Koyra Chiini Songhay,I
+6,Q116,518,Sonrhai,18,ML,ses,Koyraboro Senni Songhai,I
+6,Q116,540,Makua,21,MZ,mgh,Makhuwa-Meetto,I
+6,Q116,540,Makua,21,MZ,mhm,Makhuwa-Moniga,I
+6,Q116,540,Makua,21,MZ,vmk,Makhuwa-Shirima,I
+6,Q116,540,Makua,21,MZ,vmw,Makhuwa,I
+6,Q116,540,Makua,21,MZ,xmc,Makhuwa-Marrevone,I
+6,Q116,540,Makua,21,MZ,xsq,Makhuwa-Saka,I
+6,Q116,541,Sena,21,MZ,seh,Sena,I
+6,Q116,542,Ndau,21,MZ,ndc,Ndau,I
+6,Q116,543,Changana,21,MZ,tso,Tsonga,I
+6,Q116,545,Chope,21,MZ,cce,Chopi,I
+6,Q116,546,Bitonga,21,MZ,toh,Gitonga,I
+6,Q116,547,Makonde,21,MZ,kde,Makonde,I
+6,Q116,548,Chuabo,21,MZ,chw,Chuwabu,I
+6,Q116,550,Lomue,21,MZ,ngl,Lomwe,I
+6,Q116,582,Nama/Damara,22,NA,naq,Khoekhoe,I
+6,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,kua,Kuanyama,I
+6,Q116,583,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,ndo,Ndonga,I
+6,Q116,584,Otjiherero,22,NA,her,Herero,I
+6,Q116,585,Rukwangali,22,NA,kwn,Kwangali,I
+6,Q116,586,Rugririku/Rumanyo,22,NA,diu,Diriku,I
+6,Q116,588,Silozi,22,NA,loz,Lozi,I
+6,Q116,621,Igbo,24,NG,ibo,Igbo,I
+6,Q116,624,Efik,24,NG,efi,Efik,I
+6,Q116,625,Ebira,24,NG,igb,Ebira,I
+6,Q116,628,Ubibio,24,NG,ibb,Ibibio,I
+6,Q116,630,Tiv,24,NG,tiv,Tiv,I
+6,Q116,631,Nupe,24,NG,nup,Nupe-Nupe-Tako,I
+6,Q116,632,Ijaw,24,NG,ijc,Izon,I
+6,Q116,632,Ijaw,24,NG,ijs,Southeast Ijo,I
+6,Q116,633,Edo,24,NG,bin,Bini,I
+6,Q116,634,Igala,24,NG,igl,Igala,I
+6,Q116,638,Ikwere,24,NG,ikw,Ikwere,I
+6,Q116,639,Idoma,24,NG,idu,Idoma,I
+6,Q116,648,Mumuye,24,NG,mzm,Mumuye,I
+6,Q116,650,Tangale,24,NG,tan,Tangale,I
+6,Q116,654,Lemoro,24,NG,ldj,Lemoro,I
+6,Q116,655,Igede,24,NG,ige,Igede,I
+6,Q116,656,Gbagyi,24,NG,gbr,Gbagyi,I
+6,Q116,657,Buju,24,NG,jer,Jere,I
+6,Q116,658,Buji,24,NG,jer,Jere,I
+6,Q116,659,Bandawa,24,NG,bcv,Shoo-Minda-Nye,I
+6,Q116,660,Wolof,26,SN,wol,Wolof,I
+6,Q116,661,Pulaar/Toucouleur,26,SN,fuc,Pulaar,I
+6,Q116,662,Serer,26,SN,srr,Serer,I
+6,Q116,663,Mandinka/Bambara,26,SN,bam,Bambara,I
+6,Q116,663,Mandinka/Bambara,26,SN,mnk,Mandinka,I
+6,Q116,665,Diola,26,SN,dyo,Jola-Fonyi,I
+6,Q116,669,Maure,26,SN,mey,Hassaniyya,I
+6,Q116,700,Afrikaans,28,ZA,afr,Afrikaans,I
+6,Q116,702,Xhosa,28,ZA,xho,Xhosa,I
+6,Q116,703,Pedi/North Sotho,28,ZA,nso,Pedi,I
+6,Q116,704,Sesotho/South Sotho,28,ZA,sot,Southern Sotho,I
+6,Q116,705,Tswana,28,ZA,tsn,Tswana,I
+6,Q116,707,Swazi,28,ZA,ssw,Swati,I
+6,Q116,708,Venda,28,ZA,ven,Venda,I
+6,Q116,709,Zulu,28,ZA,zul,Zulu,I
+6,Q116,741,Kichaga,31,TZ,old,Mochi,I
+6,Q116,742,Kihaya,31,TZ,hay,Haya,I
+6,Q116,745,Kipare,31,TZ,asa,Asu (Tanzania),I
+6,Q116,749,Kisukuma,31,TZ,suk,Sukuma,I
+6,Q116,751,Kimeru,31,TZ,rwk,Rwa,I
+6,Q116,752,Kikurya,31,TZ,kuj,Kuria,I
+6,Q116,761,Kiha,31,TZ,haq,Ha,I
+6,Q116,763,Kijaluo,31,TZ,luo,Luo (Kenya and Tanzania),I
+6,Q116,771,Kindamba,31,TZ,ndj,Ndamba,I
+6,Q116,780,Luganda,34,UG,lug,Ganda,I
+6,Q116,781,Runyankole,34,UG,nyn,Nyankole,I
+6,Q116,782,Runyoro,34,UG,nyo,Nyoro,I
+6,Q116,783,Lusoga,34,UG,xog,Soga,I
+6,Q116,784,Lumasaaba,34,UG,myx,Masaaba,I
+6,Q116,787,Ateso,34,UG,teo,Teso,I
+6,Q116,788,Acholi,34,UG,ach,Acoli,I
+6,Q116,789,Alur,34,UG,alz,Alur,I
+6,Q116,790,Lugbara,34,UG,lgg,Lugbara,I
+6,Q116,792,Japadhola,34,UG,adh,Adhola,I
+6,Q116,795,Rukiga,34,UG,cgg,Chiga,I
+6,Q116,796,Rutooro,34,UG,ttj,Tooro,I
+6,Q116,797,Langi,34,UG,laj,Lango (Uganda),I
+6,Q116,798,Kupsabinyi,34,UG,kpz,Kupsabiny,I
+6,Q116,799,Ngakarimajong,34,UG,kdj,Karamojong,I
+6,Q116,820,Bemba,35,ZM,bem,Bemba (Zambia),I
+6,Q116,822,Tonga,35,ZM,toi,Tonga (Zambia),I
+6,Q116,823,Lozi,35,ZM,loz,Lozi,I
+6,Q116,824,Chewa,35,ZM,nya,Nyanja,I
+6,Q116,827,Kaonde,35,ZM,kqn,Kaonde,I
+6,Q116,828,Luvale,35,ZM,lue,Luvale,I
+6,Q116,838,Lunda,35,ZM,lun,Lunda,I
+6,Q116,841,Mambwe,35,ZM,mgr,Mambwe-Lungu,I
+6,Q116,860,Ndebele,36,ZW,nde,North Ndebele,I
+6,Q116,861,Shona,36,ZW,sna,Shona,I
+6,Q116,862,Zezuru,36,ZW,sna,Shona,I
+6,Q116,863,Korekore,36,ZW,sna,Shona,I
+6,Q116,864,Karanga,36,ZW,sna,Shona,I
+6,Q116,865,Manyika,36,ZW,mxc,Manyika,I
+6,Q116,900,Creole,19,MU,mfe,Morisyen,I
+6,Q116,930,Krio,27,SL,kri,Krio,I
+6,Q116,931,Mende,27,SL,men,Mende (Sierra Leone),I
+6,Q116,932,Temne,27,SL,tem,Timne,I
+6,Q116,933,Limba,27,SL,lia,West-Central Limba,I
+6,Q116,933,Limba,27,SL,lma,East Limba,I
+6,Q116,934,Loko,27,SL,lok,Loko,I
+6,Q116,939,Madingo,27,SL,emk,Eastern Maninkakan,I
+6,Q116,1100,Haoussa,23,NE,hau,Hausa,I
+6,Q116,1101,Zarma/Songhaï,23,NE,dje,Zarma,I
+6,Q116,1141,Mina (Guen),32,TG,gej,Gen,I
+6,Q116,1142,Kabye,32,TG,kbp,Kabiyè,I
+6,Q116,1143,Tem (Kotokoli),32,TG,kdh,Tem,I
+6,Q116,1144,Ben (Moba),32,TG,mfq,Moba,I
+6,Q116,1145,Nawdem (Losso),32,TG,nmz,Nawdm,I
+6,Q116,1146,Lama (Lamba),32,TG,las,Lama (Togo),I
+6,Q116,1148,Ikposso (Akposso),32,TG,kpo,Ikposo,I
+6,Q116,1180,Kirundi,5,BI,run,Rundi,I
+6,Q116,1220,Foufouldé,6,CM,fub,Adamawa Fulfulde,I
+6,Q116,1220,Foufouldé,6,CM,fuv,Nigerian Fulfulde,I
+6,Q116,1222,Ewondo,6,CM,ewo,Ewondo,I
+6,Q116,1224,Douala,6,CM,dua,Duala,I
+6,Q116,1262,Adjoukrou,8,CI,adj,Adioukrou,I
+6,Q116,1263,Agny,8,CI,any,Anyin,I
+6,Q116,1267,Baoulé,8,CI,bci,Baoulé,I
+6,Q116,1268,Bété,8,CI,bet,Guiberoua Béte,I
+6,Q116,1268,Bété,8,CI,bev,Daloa Bété,I
+6,Q116,1268,Bété,8,CI,btg,Gagnoa Bété,I
+6,Q116,1271,Gouro,8,CI,goa,Guro,I
+6,Q116,1272,Guéré,8,CI,gxx,Wè Southern,I
+6,Q116,1272,Guéré,8,CI,wec,Wè Western,I
+6,Q116,1277,Sénoufo,8,CI,dyi,Djimini Senoufo,I
+6,Q116,1277,Sénoufo,8,CI,plr,Palaka Senoufo,I
+6,Q116,1277,Sénoufo,8,CI,seb,Shempire Senoufo,I
+6,Q116,1277,Sénoufo,8,CI,sef,Cebaara Senoufo,I
+6,Q116,1277,Sénoufo,8,CI,sev,Nyarafolo Senoufo,I
+6,Q116,1277,Sénoufo,8,CI,tgw,Tagwana Senoufo,I
+6,Q116,1283,Tour,8,CI,neb,Toura (Côte d'Ivoire),I
+6,Q116,1300,Soussou,12,GN,sus,Susu,I
+6,Q116,1301,Poular,12,GN,fuf,Pular,I
+6,Q116,1302,Maninka,12,GN,emk,Eastern Maninkakan,I
+6,Q116,1304,Kpèlè,12,GN,gkp,Guinea Kpelle,I
+6,Q116,1305,Toma,12,GN,tod,Toma,I
+6,Q116,1306,Kissié,12,GN,kqs,Northern Kissi,I
+6,Q116,1500,Berber Language,20,MA,rif,Tarifit,I
+6,Q116,1500,Berber Language,20,MA,shi,Tachelhit,I
+6,Q116,1500,Berber Language,20,MA,tzm,Central Atlas Tamazight,I
+6,Q116,1500,Berber Language,20,MA,zgh,Standard Moroccan Tamazight,I
+6,Q116,1540,Sudanese Arabic,29,SD,apd,Sudanese Arabic,I
+6,Q116,1620,siSwati,30,SZ,ssw,Swati,I
+6,Q116,1700,Fang,10,GA,fan,Fang (Equatorial Guinea),I
+6,Q116,1701,Punu/Mériè,10,GA,puu,Punu,I
+6,Q116,1704,Nzébi/Métié,10,GA,nzb,Njebi,I
+6,Q116,1706,Tsogho,10,GA,tsv,Tsogo,I
+6,Q116,2620,Bajju,24,NG,kaj,Jju,I
+6,Q116,2621,Ngas,24,NG,anc,Ngas,I
+6,Q116,2622,Mwaghavul,24,NG,sur,Mwaghavul,I
+6,Q116,2623,Maghai,24,NG,gmd,Mághdì,I
+6,Q116,2624,Zuru,24,NG,dri,C'Lela,I
+6,Q116,2625,Umone,24,NG,bcs,Kohumono,I
+6,Q116,2625,Umone,24,NG,umm,Umon,I
+6,Q116,2749,Kiruri,31,TZ,kya,Kwaya,I
+6,Q116,2750,Kikinga,31,TZ,zga,Kinga,I
+6,Q116,9995,Other,6,CM,und,Undetermined,S
+6,Q116,9995,Other,21,MZ,und,Undetermined,S
+6,Q116,9995,Other,24,NG,und,Undetermined,S
+6,Q116,9995,Other,31,TZ,und,Undetermined,S
+6,Q116,9995,Other,28,ZA,und,Undetermined,S
+6,Q2,-1,Missing,15,LR,und,Undetermined,S
+6,Q2,1,English,4,BF,eng,English,I
+6,Q2,1,English,3,BW,eng,English,I
+6,Q2,1,English,6,CM,eng,English,I
+6,Q2,1,English,13,KE,eng,English,I
+6,Q2,1,English,15,LR,eng,English,I
+6,Q2,1,English,14,LS,eng,English,I
+6,Q2,1,English,16,MG,eng,English,I
+6,Q2,1,English,19,MU,eng,English,I
+6,Q2,1,English,17,MW,eng,English,I
+6,Q2,1,English,22,NA,eng,English,I
+6,Q2,1,English,29,SD,eng,English,I
+6,Q2,1,English,27,SL,eng,English,I
+6,Q2,1,English,30,SZ,eng,English,I
+6,Q2,1,English,34,UG,eng,English,I
+6,Q2,1,English,28,ZA,eng,English,I
+6,Q2,1,English,35,ZM,eng,English,I
+6,Q2,1,English,36,ZW,eng,English,I
+6,Q2,2,French,4,BF,fra,French,I
+6,Q2,2,French,2,BJ,fra,French,I
+6,Q2,2,French,8,CI,fra,French,I
+6,Q2,2,French,6,CM,fra,French,I
+6,Q2,2,French,1,DZ,fra,French,I
+6,Q2,2,French,10,GA,fra,French,I
+6,Q2,2,French,12,GN,fra,French,I
+6,Q2,2,French,16,MG,fra,French,I
+6,Q2,2,French,18,ML,fra,French,I
+6,Q2,2,French,19,MU,fra,French,I
+6,Q2,2,French,22,NA,fra,French,I
+6,Q2,2,French,26,SN,fra,French,I
+6,Q2,2,French,32,TG,fra,French,I
+6,Q2,2,French,33,TN,fra,French,I
+6,Q2,3,Portuguese,21,MZ,por,Portuguese,I
+6,Q2,3,Portuguese,22,NA,por,Portuguese,I
+6,Q2,3,Portuguese,25,ST,por,Portuguese,I
+6,Q2,3,Portuguese,28,ZA,por,Portuguese,I
+6,Q2,4,Swahili,5,BI,swh,Swahili (individual language),I
+6,Q2,4,Swahili,13,KE,swh,Swahili (individual language),I
+6,Q2,4,Swahili,31,TZ,swh,Swahili (individual language),I
+6,Q2,4,Swahili,34,UG,swh,Swahili (individual language),I
+6,Q2,5,Arabic,20,MA,ary,Moroccan Arabic,I
+6,Q2,5,Arabic,33,TN,aeb,Tunisian Arabic,I
+6,Q2,6,Adja,2,BJ,ajg,Aja (Benin),I
+6,Q2,6,Adja,32,TG,ajg,Aja (Benin),I
+6,Q2,7,Afrikaans,3,BW,afr,Afrikaans,I
+6,Q2,7,Afrikaans,22,NA,afr,Afrikaans,I
+6,Q2,7,Afrikaans,28,ZA,afr,Afrikaans,I
+6,Q2,8,Arabe,18,ML,mey,Hassaniyya,I
+6,Q2,8,Arabe,23,NE,mey,Hassaniyya,I
+6,Q2,9,Bambara,8,CI,bam,Bambara,I
+6,Q2,9,Bambara,18,ML,bam,Bambara,I
+6,Q2,10,Bassa,6,CM,bas,Basa (Cameroon),I
+6,Q2,10,Bassa,15,LR,bsq,Bassa,I
+6,Q2,11,Berber Language,1,DZ,kab,Kabyle,I
+6,Q2,11,Berber Language,1,DZ,shi,Tachelhit,I
+6,Q2,11,Berber Language,1,DZ,shy,Tachawit,I
+6,Q2,11,Berber Language,20,MA,rif,Tarifit,I
+6,Q2,11,Berber Language,20,MA,shi,Tachelhit,I
+6,Q2,11,Berber Language,20,MA,tzm,Central Atlas Tamazight,I
+6,Q2,11,Berber Language,20,MA,zgh,Standard Moroccan Tamazight,I
+6,Q2,12,Bissa,4,BF,bib,Bissa,I
+6,Q2,12,Bissa,11,GH,bib,Bissa,I
+6,Q2,13,Bobo,4,BF,bbo,Northern Bobo Madaré,I
+6,Q2,13,Bobo,4,BF,bwq,Southern Bobo Madaré,I
+6,Q2,13,Bobo,18,ML,bmq,Bomu,I
+6,Q2,14,Chewa,21,MZ,nya,Nyanja,I
+6,Q2,14,Chewa,35,ZM,nya,Nyanja,I
+6,Q2,15,Dioula,4,BF,dyu,Dyula,I
+6,Q2,15,Dioula,8,CI,dyu,Dyula,I
+6,Q2,16,Ewe,11,GH,ewe,Ewe,I
+6,Q2,16,Ewe,32,TG,ewe,Ewe,I
+6,Q2,17,Fon,2,BJ,fon,Fon,I
+6,Q2,17,Fon,32,TG,fon,Fon,I
+6,Q2,18,Fulfuldé,4,BF,fuh,Western Niger Fulfulde,I
+6,Q2,18,Fulfuldé,23,NE,fuh,Western Niger Fulfulde,I
+6,Q2,18,Fulfuldé,23,NE,fuq,Central-Eastern Niger Fulfulde,I
+6,Q2,19,Haoussa,6,CM,hau,Hausa,I
+6,Q2,19,Haoussa,23,NE,hau,Hausa,I
+6,Q2,19,Haoussa,32,TG,hau,Hausa,I
+6,Q2,20,Hausa,11,GH,hau,Hausa,I
+6,Q2,20,Hausa,24,NG,hau,Hausa,I
+6,Q2,21,Kanuri,23,NE,kau,Kanuri,M
+6,Q2,21,Kanuri,24,NG,kau,Kanuri,M
+6,Q2,22,Kissi,15,LR,kss,Southern Kisi,I
+6,Q2,22,Kissi,27,SL,kqs,Northern Kissi,I
+6,Q2,22,Kissi,27,SL,kss,Southern Kisi,I
+6,Q2,23,Lobi,4,BF,lob,Lobi,I
+6,Q2,23,Lobi,8,CI,lob,Lobi,I
+6,Q2,24,Mano,12,GN,mev,Mano,I
+6,Q2,24,Mano,15,LR,mev,Mano,I
+6,Q2,25,Mende,15,LR,men,Mende (Sierra Leone),I
+6,Q2,25,Mende,27,SL,men,Mende (Sierra Leone),I
+6,Q2,26,Ndau,21,MZ,ndc,Ndau,I
+6,Q2,26,Ndau,36,ZW,ndc,Ndau,I
+6,Q2,27,Ndebele,28,ZA,nbl,South Ndebele,I
+6,Q2,27,Ndebele,36,ZW,nde,North Ndebele,I
+6,Q2,28,Nyanja,21,MZ,nya,Nyanja,I
+6,Q2,28,Nyanja,35,ZM,nya,Nyanja,I
+6,Q2,29,Peulh,2,BJ,fue,Borgu Fulfulde,I
+6,Q2,29,Peulh,2,BJ,fuh,Western Niger Fulfulde,I
+6,Q2,29,Peulh,32,TG,fue,Borgu Fulfulde,I
+6,Q2,30,Sénoufo,4,BF,kza,Western Karaboro,I
+6,Q2,30,Sénoufo,4,BF,sen,Nanerigé Sénoufo,I
+6,Q2,30,Sénoufo,4,BF,sep,Sìcìté Sénoufo,I
+6,Q2,30,Sénoufo,4,BF,seq,Senara Sénoufo,I
+6,Q2,30,Sénoufo,4,BF,xrb,Eastern Karaboro,I
+6,Q2,30,Sénoufo,8,CI,dyi,Djimini Senoufo,I
+6,Q2,30,Sénoufo,8,CI,plr,Palaka Senoufo,I
+6,Q2,30,Sénoufo,8,CI,seb,Shempire Senoufo,I
+6,Q2,30,Sénoufo,8,CI,sef,Cebaara Senoufo,I
+6,Q2,30,Sénoufo,8,CI,sev,Nyarafolo Senoufo,I
+6,Q2,30,Sénoufo,8,CI,tgw,Tagwana Senoufo,I
+6,Q2,31,Setswana,3,BW,tsn,Tswana,I
+6,Q2,31,Setswana,22,NA,tsn,Tswana,I
+6,Q2,32,Tamasheq,18,ML,taq,Tamasheq,I
+6,Q2,32,Tamasheq,18,ML,ttq,Tawallammat Tamajaq,I
+6,Q2,32,Tamasheq,23,NE,thv,Tahaggart Tamahaq,I
+6,Q2,32,Tamasheq,23,NE,thz,Tayart Tamajeq,I
+6,Q2,32,Tamasheq,23,NE,ttq,Tawallammat Tamajaq,I
+6,Q2,33,Tonga,35,ZM,toi,Tonga (Zambia),I
+6,Q2,33,Tonga,36,ZW,toi,Tonga (Zambia),I
+6,Q2,34,Venda,28,ZA,ven,Venda,I
+6,Q2,34,Venda,36,ZW,ven,Venda,I
+6,Q2,35,Yoruba,2,BJ,yor,Yoruba,I
+6,Q2,35,Yoruba,24,NG,yor,Yoruba,I
+6,Q2,102,Bariba,2,BJ,bba,Baatonum,I
+6,Q2,103,Dendi,2,BJ,ddn,Dendi (Benin),I
+6,Q2,105,Otamari,2,BJ,tbz,Ditammari,I
+6,Q2,107,Lopka,2,BJ,dop,Lukpa,I
+6,Q2,141,Sesarwa,3,BW,hio,Tsoa,I
+6,Q2,142,Sekgalagadi,3,BW,xkv,Kgalagadi,I
+6,Q2,143,Sesubia,3,BW,sbs,Subiya,I
+6,Q2,144,Ikalanga/Sekalaka,3,BW,kck,Kalanga,I
+6,Q2,145,Seherero,3,BW,her,Herero,I
+6,Q2,146,Sembukushu,3,BW,mhw,Mbukushu,I
+6,Q2,147,Sebirwa,3,BW,brl,Birwa,I
+6,Q2,148,Sengologa,3,BW,xkv,Kgalagadi,I
+6,Q2,149,Seyei,3,BW,yey,Yeyi,I
+6,Q2,180,Mooré,4,BF,mos,Mossi,I
+6,Q2,183,Gulmacema,4,BF,gux,Gourmanchéma,I
+6,Q2,184,Gourounsi,4,BF,gur,Farefare,I
+6,Q2,186,Birifor,4,BF,bfo,Malba Birifor,I
+6,Q2,187,Bwamu,4,BF,bmq,Bomu,I
+6,Q2,187,Bwamu,4,BF,box,Buamu,I
+6,Q2,188,Dagari,4,BF,dgi,Northern Dagara,I
+6,Q2,189,Fulse,4,BF,kfz,Koromfé,I
+6,Q2,190,Goin,4,BF,cme,Cerma,I
+6,Q2,191,Karaboro,4,BF,kza,Western Karaboro,I
+6,Q2,191,Karaboro,4,BF,xrb,Eastern Karaboro,I
+6,Q2,192,Kassena,4,BF,xsm,Kasem,I
+6,Q2,194,Marka,4,BF,rkm,Marka,I
+6,Q2,195,Samo,4,BF,sbd,Southern Samo,I
+6,Q2,195,Samo,4,BF,stj,Matya Samo,I
+6,Q2,195,Samo,4,BF,sym,Maya Samo,I
+6,Q2,197,Sonrai,4,BF,hmb,Humburi Senni Songhay,I
+6,Q2,220,Crioulo,7,CV,kea,Kabuverdianu,I
+6,Q2,221,Português,7,CV,por,Portuguese,I
+6,Q2,260,Akan,11,GH,aka,Akan,M
+6,Q2,262,Ga/Dangbe,11,GH,ada,Adangme,I
+6,Q2,262,Ga/Dangbe,11,GH,gaa,Ga,I
+6,Q2,263,Dagbani,11,GH,dag,Dagbani,I
+6,Q2,265,Waala,11,GH,wlx,Wali (Ghana),I
+6,Q2,266,Moshie,11,GH,mos,Mossi,I
+6,Q2,267,Mampruli,11,GH,maw,Mampruli,I
+6,Q2,268,Likpakpaln,11,GH,xon,Konkomba,I
+6,Q2,269,Kusal,11,GH,kus,Kusaal,I
+6,Q2,270,Konkomba,11,GH,xon,Konkomba,I
+6,Q2,271,Gonja,11,GH,gjn,Gonja,I
+6,Q2,272,Frafra,11,GH,gur,Farefare,I
+6,Q2,273,Dagaari,11,GH,dga,Southern Dagaare,I
+6,Q2,275,Kotokoli,11,GH,kdh,Tem,I
+6,Q2,276,Gruma,11,GH,bim,Bimoba,I
+6,Q2,277,Buli,11,GH,bwu,Buli (Ghana),I
+6,Q2,278,Basari,11,GH,bud,Ntcham,I
+6,Q2,300,Kikuyu,13,KE,kik,Kikuyu,I
+6,Q2,301,Luo,13,KE,luo,Luo (Kenya and Tanzania),I
+6,Q2,302,Luhya,13,KE,luy,Luyia,M
+6,Q2,303,Kamba,13,KE,kam,Kamba (Kenya),I
+6,Q2,304,Kalenjin,13,KE,kln,Kalenjin,M
+6,Q2,305,Kisii,13,KE,guz,Gusii,I
+6,Q2,306,Meru/Embu,13,KE,ebu,Embu,I
+6,Q2,306,Meru/Embu,13,KE,mer,Meru,I
+6,Q2,307,Maasai/Samburu,13,KE,mas,Masai,I
+6,Q2,307,Maasai/Samburu,13,KE,saq,Samburu,I
+6,Q2,308,Mijikenda,13,KE,dig,Digo,I
+6,Q2,308,Mijikenda,13,KE,dug,Duruma,I
+6,Q2,308,Mijikenda,13,KE,nyf,Giryama,I
+6,Q2,309,Taita,13,KE,dav,Taita,I
+6,Q2,310,Somali,13,KE,som,Somali,I
+6,Q2,311,Pokot,13,KE,pko,Pökoot,I
+6,Q2,312,Turkana,13,KE,tuv,Turkana,I
+6,Q2,313,Kuria,13,KE,kuj,Kuria,I
+6,Q2,314,Garre,13,KE,gex,Garre,I
+6,Q2,315,Borana,13,KE,gax,Borana-Arsi-Guji Oromo,I
+6,Q2,340,Sesotho,14,LS,sot,Southern Sotho,I
+6,Q2,341,Sephuthi,14,LS,ssw,Swati,I
+6,Q2,342,Sethepu,14,LS,xho,Xhosa,I
+6,Q2,381,Belle,15,LR,blh,Kuwaa,I
+6,Q2,382,Dei,15,LR,dee,Dewoin,I
+6,Q2,383,Gbandi,15,LR,bza,Bandi,I
+6,Q2,384,Gio,15,LR,dnj,Dan,I
+6,Q2,385,Gola,15,LR,gol,Gola,I
+6,Q2,386,Grebo,15,LR,gbo,Northern Grebo,I
+6,Q2,386,Grebo,15,LR,gec,Gboloo Grebo,I
+6,Q2,386,Grebo,15,LR,grj,Southern Grebo,I
+6,Q2,386,Grebo,15,LR,grv,Central Grebo,I
+6,Q2,386,Grebo,15,LR,gry,Barclayville Grebo,I
+6,Q2,388,Kpelle,15,LR,xpe,Liberia Kpelle,I
+6,Q2,389,Krahn,15,LR,kqo,Eastern Krahn,I
+6,Q2,389,Krahn,15,LR,krw,Western Krahn,I
+6,Q2,390,Kru,15,LR,klu,Klao,I
+6,Q2,391,Lorma,15,LR,lom,Loma (Liberia),I
+6,Q2,392,Mandingo,15,LR,mzj,Manya,I
+6,Q2,395,Vai,15,LR,vai,Vai,I
+6,Q2,396,Liberian English,15,LR,lir,Liberian English,I
+6,Q2,420,Malgache « officiel »,16,MG,plt,Plateau Malagasy,I
+6,Q2,421,Malgache avec spécificité régionale,16,MG,mlg,Malagasy,M
+6,Q2,460,Chitumbuka,17,MW,tum,Tumbuka,I
+6,Q2,461,Chinkhonde,17,MW,nyy,Nyakyusa-Ngonde,I
+6,Q2,462,Chilambya,17,MW,lai,Lambya,I
+6,Q2,463,Chichewa,17,MW,nya,Nyanja,I
+6,Q2,464,Chiyao,17,MW,yao,Yao,I
+6,Q2,465,Chingoni,17,MW,nya,Nyanja,I
+6,Q2,466,Chilomwe,17,MW,lon,Malawi Lomwe,I
+6,Q2,467,Chimang'anja,17,MW,swk,Malawi Sena,I
+6,Q2,468,Chisena,17,MW,swk,Malawi Sena,I
+6,Q2,469,Chisukwa,17,MW,ndh,Ndali,I
+6,Q2,470,Chisenga,17,MW,tum,Tumbuka,I
+6,Q2,471,Chitonga,17,MW,tog,Tonga (Nyasa),I
+6,Q2,502,Bella,18,ML,ses,Koyraboro Senni Songhai,I
+6,Q2,504,Bozo,18,ML,boz,Tiéyaxo Bozo,I
+6,Q2,504,Bozo,18,ML,bze,Jenaama Bozo,I
+6,Q2,505,Dafing,18,ML,rkm,Marka,I
+6,Q2,506,Dogon,18,ML,dds,Donno So Dogon,I
+6,Q2,506,Dogon,18,ML,djm,Jamsay Dogon,I
+6,Q2,506,Dogon,18,ML,dtm,Tomo Kan Dogon,I
+6,Q2,506,Dogon,18,ML,dts,Toro So Dogon,I
+6,Q2,509,Kakolo,18,ML,xkg,Kagoro,I
+6,Q2,510,Khassonké,18,ML,kao,Xaasongaxango,I
+6,Q2,511,Malinké,18,ML,kao,Xaasongaxango,I
+6,Q2,511,Malinké,18,ML,mlq,Western Maninkakan,I
+6,Q2,511,Malinké,18,ML,mwk,Kita Maninkakan,I
+6,Q2,512,Maure,18,ML,mey,Hassaniyya,I
+6,Q2,513,Mianka,18,ML,myk,Mamara Senoufo,I
+6,Q2,514,Peulh/Fulfude,18,ML,ffm,Maasina Fulfulde,I
+6,Q2,515,Samogo,18,ML,dux,Duungooma,I
+6,Q2,516,Senufo,18,ML,myk,Mamara Senoufo,I
+6,Q2,516,Senufo,18,ML,shz,Syenara Senoufo,I
+6,Q2,516,Senufo,18,ML,spp,Supyire Senoufo,I
+6,Q2,517,Soninké/Sarakolé,18,ML,snk,Soninke,I
+6,Q2,518,Sonrhai,18,ML,hmb,Humburi Senni Songhay,I
+6,Q2,518,Sonrhai,18,ML,khq,Koyra Chiini Songhay,I
+6,Q2,518,Sonrhai,18,ML,ses,Koyraboro Senni Songhai,I
+6,Q2,540,Makua,21,MZ,mgh,Makhuwa-Meetto,I
+6,Q2,540,Makua,21,MZ,mhm,Makhuwa-Moniga,I
+6,Q2,540,Makua,21,MZ,vmk,Makhuwa-Shirima,I
+6,Q2,540,Makua,21,MZ,vmw,Makhuwa,I
+6,Q2,540,Makua,21,MZ,xmc,Makhuwa-Marrevone,I
+6,Q2,540,Makua,21,MZ,xsq,Makhuwa-Saka,I
+6,Q2,541,Sena,21,MZ,seh,Sena,I
+6,Q2,543,Changana,21,MZ,tso,Tsonga,I
+6,Q2,545,Chope,21,MZ,cce,Chopi,I
+6,Q2,546,Bitonga,21,MZ,toh,Gitonga,I
+6,Q2,547,Makonde,21,MZ,kde,Makonde,I
+6,Q2,548,Chuabo,21,MZ,chw,Chuwabu,I
+6,Q2,549,Ajaua,21,MZ,yao,Yao,I
+6,Q2,550,Lomue,21,MZ,ngl,Lomwe,I
+6,Q2,552,Nyungwe,21,MZ,nyu,Nyungwe,I
+6,Q2,553,Xitswa,21,MZ,tsc,Tswa,I
+6,Q2,581,German,22,NA,deu,German,I
+6,Q2,582,Nama/Damara,22,NA,naq,Khoekhoe,I
+6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,kua,Kuanyama,I
+6,Q2,583,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,ndo,Ndonga,I
+6,Q2,584,Otjiherero,22,NA,her,Herero,I
+6,Q2,585,Rukwangali,22,NA,kwn,Kwangali,I
+6,Q2,586,Rugririku/Rumanyo,22,NA,diu,Diriku,I
+6,Q2,587,Thimbukushu,22,NA,mhw,Mbukushu,I
+6,Q2,588,Silozi,22,NA,loz,Lozi,I
+6,Q2,590,Masubia,22,NA,sbs,Subiya,I
+6,Q2,591,San,22,NA,ktz,Ju/'hoan,I
+6,Q2,621,Igbo,24,NG,ibo,Igbo,I
+6,Q2,623,Pidgin English,24,NG,pcm,Nigerian Pidgin,I
+6,Q2,624,Efik,24,NG,efi,Efik,I
+6,Q2,625,Ebira,24,NG,igb,Ebira,I
+6,Q2,626,Fulani,24,NG,fub,Adamawa Fulfulde,I
+6,Q2,627,Isoko,24,NG,iso,Isoko,I
+6,Q2,628,Ibibio,24,NG,ibb,Ibibio,I
+6,Q2,631,Nupe,24,NG,nup,Nupe-Nupe-Tako,I
+6,Q2,632,Ijaw,24,NG,ijc,Izon,I
+6,Q2,632,Ijaw,24,NG,ijs,Southeast Ijo,I
+6,Q2,633,Edo,24,NG,bin,Bini,I
+6,Q2,634,Igala,24,NG,igl,Igala,I
+6,Q2,635,Urhobo,24,NG,urh,Urhobo,I
+6,Q2,636,Ogoni,24,NG,ogo,Khana,I
+6,Q2,637,Anang,24,NG,anw,Anaang,I
+6,Q2,638,Ikwere,24,NG,ikw,Ikwere,I
+6,Q2,639,Idoma,24,NG,idu,Idoma,I
+6,Q2,640,Esan,24,NG,ish,Esan,I
+6,Q2,641,Nembe,24,NG,ijs,Southeast Ijo,I
+6,Q2,642,Alago,24,NG,ala,Alago,I
+6,Q2,643,Degema,24,NG,deg,Degema,I
+6,Q2,644,Eggon,24,NG,ego,Eggon,I
+6,Q2,645,Jukun,24,NG,jbu,Jukun Takum,I
+6,Q2,646,Kagoma,24,NG,kdm,Kagoma,I
+6,Q2,647,Laru,24,NG,lan,Laru,I
+6,Q2,648,Kalabari,24,NG,ijn,Kalabari,I
+6,Q2,649,Nwangavul,24,NG,sur,Mwaghavul,I
+6,Q2,650,Tangale,24,NG,tan,Tangale,I
+6,Q2,651,Tarok,24,NG,yer,Tarok,I
+6,Q2,652,Waja,24,NG,wja,Waja,I
+6,Q2,653,Yala,24,NG,yba,Yala,I
+6,Q2,660,Wolof,26,SN,wol,Wolof,I
+6,Q2,661,Pulaar/Toucouleur,26,SN,fuc,Pulaar,I
+6,Q2,662,Serer,26,SN,srr,Serer,I
+6,Q2,663,Mandinka/Bambara,26,SN,bam,Bambara,I
+6,Q2,663,Mandinka/Bambara,26,SN,mnk,Mandinka,I
+6,Q2,664,Soninke,26,SN,snk,Soninke,I
+6,Q2,665,Diola,26,SN,dyo,Jola-Fonyi,I
+6,Q2,666,Manjack,26,SN,mfv,Mandjak,I
+6,Q2,668,Bassari,26,SN,bsc,Bassari,I
+6,Q2,702,Xhosa,28,ZA,xho,Xhosa,I
+6,Q2,703,Pedi/North Sotho,28,ZA,nso,Pedi,I
+6,Q2,704,Sotho/South Sotho,28,ZA,sot,Southern Sotho,I
+6,Q2,705,Tswana,28,ZA,tsn,Tswana,I
+6,Q2,706,Shangaan/Tsonga,28,ZA,tso,Tsonga,I
+6,Q2,707,Swazi,28,ZA,ssw,Swati,I
+6,Q2,709,Zulu,28,ZA,zul,Zulu,I
+6,Q2,710,Asian/Indian,28,ZA,hin,Hindi,I
+6,Q2,740,Kinyakyusa,31,TZ,nyy,Nyakyusa-Ngonde,I
+6,Q2,741,Kichaga,31,TZ,old,Mochi,I
+6,Q2,742,Kihaya,31,TZ,hay,Haya,I
+6,Q2,743,Kingoni,31,TZ,ngo,Ngoni,I
+6,Q2,744,Kikwere,31,TZ,ked,Kerewe,I
+6,Q2,745,Kipare,31,TZ,asa,Asu (Tanzania),I
+6,Q2,746,Kihehe,31,TZ,heh,Hehe,I
+6,Q2,747,Kimakonde,31,TZ,kde,Makonde,I
+6,Q2,748,Kinyamwezi,31,TZ,nym,Nyamwezi,I
+6,Q2,749,Kisukuma,31,TZ,suk,Sukuma,I
+6,Q2,750,Kimasai,31,TZ,mas,Masai,I
+6,Q2,751,Kimeru,31,TZ,rwk,Rwa,I
+6,Q2,752,Kikurya,31,TZ,kuj,Kuria,I
+6,Q2,753,Kigogo,31,TZ,gog,Gogo,I
+6,Q2,754,Kiluguru,31,TZ,ruf,Luguru,I
+6,Q2,755,Kifipa,31,TZ,fip,Fipa,I
+6,Q2,756,Kimanyema,31,TZ,nym,Nyamwezi,I
+6,Q2,757,Kinyiramba,31,TZ,nim,Nilamba,I
+6,Q2,758,Kinyaturu,31,TZ,rim,Nyaturu,I
+6,Q2,759,Kiarusha,31,TZ,mas,Masai,I
+6,Q2,760,Kibena,31,TZ,bez,Bena (Tanzania),I
+6,Q2,761,Kiha,31,TZ,haq,Ha,I
+6,Q2,762,Kiiraq,31,TZ,irk,Iraqw,I
+6,Q2,763,Kijaluo,31,TZ,luo,Luo (Kenya and Tanzania),I
+6,Q2,764,Kijita,31,TZ,jit,Jita,I
+6,Q2,765,Kikaguru,31,TZ,kki,Kagulu,I
+6,Q2,766,Kimakuwa,31,TZ,mgh,Makhuwa-Meetto,I
+6,Q2,767,Kimatengo,31,TZ,mgv,Matengo,I
+6,Q2,768,Kimbulu,31,TZ,irk,Iraqw,I
+6,Q2,769,Kimwera,31,TZ,mwe,Mwera (Chimwera),I
+6,Q2,770,Kindali,31,TZ,ndh,Ndali,I
+6,Q2,771,Kindamba,31,TZ,ndj,Ndamba,I
+6,Q2,772,Kindendeule,31,TZ,dne,Ndendeule,I
+6,Q2,773,Kindengereko,31,TZ,ndg,Ndengereko,I
+6,Q2,774,Kingindo,31,TZ,nnq,Ngindo,I
+6,Q2,775,Kinguu,31,TZ,ziw,Zigula,I
+6,Q2,776,Kinyambo,31,TZ,now,Nyambo,I
+6,Q2,777,Kinyiha,31,TZ,nih,Nyiha (Tanzania),I
+6,Q2,777,Kinyiha,31,TZ,nkt,Nyika (Tanzania),I
+6,Q2,778,Kipogoro,31,TZ,poy,Pogolo,I
+6,Q2,779,Kirangi,31,TZ,lag,Langi,I
+6,Q2,780,Luganda,34,UG,lug,Ganda,I
+6,Q2,781,Runyankole,34,UG,nyn,Nyankole,I
+6,Q2,782,Runyoro,34,UG,nyo,Nyoro,I
+6,Q2,783,Lusoga,34,UG,xog,Soga,I
+6,Q2,784,Lumasaaba,34,UG,myx,Masaaba,I
+6,Q2,785,Lukhonjo,34,UG,koo,Konzo,I
+6,Q2,786,Lunyole,34,UG,nuj,Nyole,I
+6,Q2,787,Ateso,34,UG,teo,Teso,I
+6,Q2,788,Acholi,34,UG,ach,Acoli,I
+6,Q2,789,Alur,34,UG,alz,Alur,I
+6,Q2,790,Lugbara,34,UG,lgg,Lugbara,I
+6,Q2,791,Madi,34,UG,mhi,Ma'di,I
+6,Q2,791,Madi,34,UG,snm,Southern Ma'di,I
+6,Q2,792,Japadhola,34,UG,adh,Adhola,I
+6,Q2,793,Lusamia,34,UG,lsm,Saamia,I
+6,Q2,794,Lugwere,34,UG,gwr,Gwere,I
+6,Q2,795,Rukiga,34,UG,cgg,Chiga,I
+6,Q2,796,Rutooro,34,UG,ttj,Tooro,I
+6,Q2,797,Langi,34,UG,laj,Lango (Uganda),I
+6,Q2,798,Kupsabinyi,34,UG,kpz,Kupsabiny,I
+6,Q2,799,Ngakarimajong,34,UG,kdj,Karamojong,I
+6,Q2,800,Rufumbira,34,UG,kin,Kinyarwanda,I
+6,Q2,820,Bemba,35,ZM,bem,Bemba (Zambia),I
+6,Q2,823,Lozi,35,ZM,loz,Lozi,I
+6,Q2,825,Nsenga,35,ZM,nse,Nsenga,I
+6,Q2,826,Tumbuka,35,ZM,tum,Tumbuka,I
+6,Q2,827,Kaonde,35,ZM,kqn,Kaonde,I
+6,Q2,828,Luvale,35,ZM,lue,Luvale,I
+6,Q2,829,Namwanga,35,ZM,mwn,Nyamwanga,I
+6,Q2,830,Lunda,35,ZM,lun,Lunda,I
+6,Q2,831,Bisa,35,ZM,leb,Lala-Bisa,I
+6,Q2,832,Nkoya,35,ZM,nka,Nkoya,I
+6,Q2,833,Mambwe,35,ZM,mgr,Mambwe-Lungu,I
+6,Q2,834,Lenje,35,ZM,leh,Lenje,I
+6,Q2,835,Ngoni,35,ZM,nse,Nsenga,I
+6,Q2,836,Soli,35,ZM,sby,Soli,I
+6,Q2,837,Ila,35,ZM,ilb,Ila,I
+6,Q2,838,Ushi,35,ZM,auh,Aushi,I
+6,Q2,839,Chokwe,35,ZM,cjk,Chokwe,I
+6,Q2,840,Mbunda,35,ZM,mck,Mbunda,I
+6,Q2,841,Kunda,35,ZM,kdn,Kunda,I
+6,Q2,841,Kunda,35,ZM,nya,Nyanja,I
+6,Q2,842,Lala,35,ZM,leb,Lala-Bisa,I
+6,Q2,843,Lamba,35,ZM,lam,Lamba,I
+6,Q2,844,Lungu,35,ZM,mgr,Mambwe-Lungu,I
+6,Q2,845,Nyika,35,ZM,nih,Nyiha (Tanzania),I
+6,Q2,845,Nyika,35,ZM,nkv,Nyika (Malawi and Zambia),I
+6,Q2,846,Senga,35,ZM,nse,Nsenga,I
+6,Q2,847,Tokaleya,35,ZM,toi,Tonga (Zambia),I
+6,Q2,851,Tabwa,35,ZM,tap,Taabwa,I
+6,Q2,861,Shona,36,ZW,sna,Shona,I
+6,Q2,862,Zezuru,36,ZW,sna,Shona,I
+6,Q2,863,Korekore,36,ZW,sna,Shona,I
+6,Q2,864,Karanga,36,ZW,sna,Shona,I
+6,Q2,865,Manyika,36,ZW,mxc,Manyika,I
+6,Q2,868,Kalanga,36,ZW,kck,Kalanga,I
+6,Q2,870,Buja,36,ZW,sna,Shona,I
+6,Q2,871,Shangani,36,ZW,tso,Tsonga,I
+6,Q2,872,Suthu,36,ZW,tsn,Tswana,I
+6,Q2,900,Creole,19,MU,mfe,Morisyen,I
+6,Q2,930,Krio,27,SL,kri,Krio,I
+6,Q2,932,Temne,27,SL,tem,Timne,I
+6,Q2,933,Limba,27,SL,lia,West-Central Limba,I
+6,Q2,933,Limba,27,SL,lma,East Limba,I
+6,Q2,934,Loko,27,SL,lok,Loko,I
+6,Q2,935,Sherbo,27,SL,bun,Sherbro,I
+6,Q2,936,Fulla,27,SL,fuf,Pular,I
+6,Q2,937,Kono,27,SL,kno,Kono (Sierra Leone),I
+6,Q2,938,Kuranko,27,SL,knk,Kuranko,I
+6,Q2,939,Madingo,27,SL,emk,Eastern Maninkakan,I
+6,Q2,941,Susu,27,SL,sus,Susu,I
+6,Q2,943,Yalunka,27,SL,yal,Yalunka,I
+6,Q2,1101,Zarma/Songhaï,23,NE,dje,Zarma,I
+6,Q2,1105,Goumantchéma,23,NE,gux,Gourmanchéma,I
+6,Q2,1141,Mina (Guen),32,TG,gej,Gen,I
+6,Q2,1142,Kabye,32,TG,kbp,Kabiyè,I
+6,Q2,1143,Tem (Kotokoli),32,TG,kdh,Tem,I
+6,Q2,1144,Ben (Moba),32,TG,mfq,Moba,I
+6,Q2,1145,Nawdem (Losso),32,TG,nmz,Nawdm,I
+6,Q2,1146,Lama (Lamba),32,TG,las,Lama (Togo),I
+6,Q2,1147,Ife (Ana),32,TG,ife,Ifè,I
+6,Q2,1148,Ikposso (Akposso),32,TG,kpo,Ikposo,I
+6,Q2,1149,N'tcha (Bassar),32,TG,bud,Ntcham,I
+6,Q2,1151,Akebou,32,TG,keu,Akebu,I
+6,Q2,1152,Gourma,32,TG,gux,Gourmanchéma,I
+6,Q2,1153,Konkomba,32,TG,xon,Konkomba,I
+6,Q2,1154,Ngam-gam,32,TG,gng,Ngangam,I
+6,Q2,1155,Tchamba,32,TG,aks,Akaselem,I
+6,Q2,1157,Ouatchi,32,TG,wci,Waci Gbe,I
+6,Q2,1160,Tchpkossi (Anoufom),32,TG,cko,Anufo,I
+6,Q2,1180,Kirundi,5,BI,run,Rundi,I
+6,Q2,1220,Foufouldé,6,CM,fub,Adamawa Fulfulde,I
+6,Q2,1220,Foufouldé,6,CM,fuv,Nigerian Fulfulde,I
+6,Q2,1221,Pidgin,6,CM,wes,Cameroon Pidgin,I
+6,Q2,1222,Ewondo,6,CM,ewo,Ewondo,I
+6,Q2,1223,Bafang,6,CM,fmp,Fe'fe',I
+6,Q2,1224,Douala,6,CM,dua,Duala,I
+6,Q2,1225,Bafia,6,CM,ksf,Bafia,I
+6,Q2,1226,Bafut,6,CM,bfd,Bafut,I
+6,Q2,1227,Bangangté,6,CM,byv,Medumba,I
+6,Q2,1228,Bakundu,6,CM,bdu,Oroko,I
+6,Q2,1229,Bamileke,6,CM,bbj,Ghomálá',I
+6,Q2,1229,Bamileke,6,CM,bko,Kwa',I
+6,Q2,1229,Bamileke,6,CM,byv,Medumba,I
+6,Q2,1229,Bamileke,6,CM,fmp,Fe'fe',I
+6,Q2,1229,Bamileke,6,CM,jgo,Ngomba,I
+6,Q2,1229,Bamileke,6,CM,nla,Ngombale,I
+6,Q2,1229,Bamileke,6,CM,nnh,Ngiemboon,I
+6,Q2,1229,Bamileke,6,CM,nnz,Nda'nda',I
+6,Q2,1229,Bamileke,6,CM,nwe,Ngwe,I
+6,Q2,1229,Bamileke,6,CM,xmg,Mengaka,I
+6,Q2,1229,Bamileke,6,CM,ybb,Yemba,I
+6,Q2,1230,Bamoun,6,CM,bax,Bamun,I
+6,Q2,1231,Bandjoun,6,CM,bbj,Ghomálá',I
+6,Q2,1232,Bangwa,6,CM,nge,Ngemba,I
+6,Q2,1232,Bangwa,6,CM,nnz,Nda'nda',I
+6,Q2,1233,Banso,6,CM,lns,Lamnso',I
+6,Q2,1235,Batanga,6,CM,bnm,Batanga,I
+6,Q2,1236,Bayangi,6,CM,ken,Kenyang,I
+6,Q2,1237,Bulu,6,CM,bum,Bulu (Cameroon),I
+6,Q2,1238,Dschang,6,CM,ybb,Yemba,I
+6,Q2,1239,Eton,6,CM,eto,Eton (Cameroon),I
+6,Q2,1240,Fali,6,CM,fal,South Fali,I
+6,Q2,1240,Fali,6,CM,fll,North Fali,I
+6,Q2,1241,Fong,6,CM,ewo,Ewondo,I
+6,Q2,1242,Gbaya,6,CM,gya,Northwest Gbaya,I
+6,Q2,1243,Guider,6,CM,gid,Gidar,I
+6,Q2,1244,Guiziga,6,CM,gis,North Giziga,I
+6,Q2,1244,Guiziga,6,CM,giz,South Giziga,I
+6,Q2,1246,Kapsiki,6,CM,kvj,Psikye,I
+6,Q2,1247,Mafa,6,CM,maf,Mafa,I
+6,Q2,1248,Maka,6,CM,mkk,Byep,I
+6,Q2,1249,Mankon,6,CM,nge,Ngemba,I
+6,Q2,1250,Massa,6,CM,mcn,Masana,I
+6,Q2,1251,Mbouda,6,CM,jgo,Ngomba,I
+6,Q2,1251,Mbouda,6,CM,nla,Ngombale,I
+6,Q2,1251,Mbouda,6,CM,nnh,Ngiemboon,I
+6,Q2,1252,Mboum,6,CM,mdd,Mbum,I
+6,Q2,1254,Moudan,6,CM,mnf,Mundani,I
+6,Q2,1255,Ngueba,6,CM,nnh,Ngiemboon,I
+6,Q2,1257,Lamnso,6,CM,lns,Lamnso',I
+6,Q2,1258,Tikari,6,CM,tik,Tikar,I
+6,Q2,1259,Toupouri,6,CM,tui,Tupuri,I
+6,Q2,1260,Abbey,8,CI,aba,Abé,I
+6,Q2,1261,Abron,8,CI,abr,Abron,I
+6,Q2,1262,Adjoukrou,8,CI,adj,Adioukrou,I
+6,Q2,1263,Agny,8,CI,any,Anyin,I
+6,Q2,1264,Attié,8,CI,ati,Attié,I
+6,Q2,1265,Avikam,8,CI,avi,Avikam,I
+6,Q2,1267,Baoulé,8,CI,bci,Baoulé,I
+6,Q2,1268,Bété,8,CI,bet,Guiberoua Béte,I
+6,Q2,1268,Bété,8,CI,bev,Daloa Bété,I
+6,Q2,1268,Bété,8,CI,btg,Gagnoa Bété,I
+6,Q2,1269,Dida,8,CI,dic,Lakota Dida,I
+6,Q2,1269,Dida,8,CI,gud,Yocoboué Dida,I
+6,Q2,1270,Godié,8,CI,god,Godié,I
+6,Q2,1271,Gouro,8,CI,goa,Guro,I
+6,Q2,1272,Guéré,8,CI,gxx,Wè Southern,I
+6,Q2,1272,Guéré,8,CI,wec,Wè Western,I
+6,Q2,1273,Koulango,8,CI,kzc,Bondoukou Kulango,I
+6,Q2,1273,Koulango,8,CI,nku,Bouna Kulango,I
+6,Q2,1274,Kroumen,8,CI,pye,Pye Krumen,I
+6,Q2,1274,Kroumen,8,CI,ted,Tepo Krumen,I
+6,Q2,1278,Yacouba,8,CI,dnj,Dan,I
+6,Q2,1279,Djimini,8,CI,dyi,Djimini Senoufo,I
+6,Q2,1280,Gnanboua,8,CI,nwb,Nyabwa,I
+6,Q2,1281,Koyaka,8,CI,kga,Koyaga,I
+6,Q2,1282,Wobe,8,CI,wob,Wè Northern,I
+6,Q2,1300,Soussou,12,GN,sus,Susu,I
+6,Q2,1301,Poular,12,GN,fuf,Pular,I
+6,Q2,1302,Maninka,12,GN,emk,Eastern Maninkakan,I
+6,Q2,1303,Kpèlè,12,GN,gkp,Guinea Kpelle,I
+6,Q2,1304,Loma,12,GN,tod,Toma,I
+6,Q2,1305,Kissié,12,GN,kqs,Northern Kissi,I
+6,Q2,1420,Algerian Arabic,1,DZ,arq,Algerian Arabic,I
+6,Q2,1460,Egyptian Arabic,9,EG,arz,Egyptian Arabic,I
+6,Q2,1501,Alhassania,20,MA,mey,Hassaniyya,I
+6,Q2,1540,Sudanese Arabic,29,SD,apd,Sudanese Arabic,I
+6,Q2,1541,Nubian Language,29,SD,dgl,Andaandi,I
+6,Q2,1541,Nubian Language,29,SD,fia,Nobiin,I
+6,Q2,1541,Nubian Language,29,SD,mei,Midob,I
+6,Q2,1541,Nubian Language,29,SD,wll,Wali (Sudan),I
+6,Q2,1620,siSwati,30,SZ,ssw,Swati,I
+6,Q2,1621,Shangaan,30,SZ,tso,Tsonga,I
+6,Q2,1660,Creolo,25,ST,aoa,Angolar,I
+6,Q2,1661,Forro,25,ST,cri,Sãotomense,I
+6,Q2,1662,Angolar,25,ST,aoa,Angolar,I
+6,Q2,1700,Fang,10,GA,fan,Fang (Equatorial Guinea),I
+6,Q2,1701,Punu/Mériè,10,GA,puu,Punu,I
+6,Q2,1702,Kota,10,GA,koq,Kota (Gabon),I
+6,Q2,1703,Mbédè,10,GA,mdt,Mbere,I
+6,Q2,1704,Nzébi/Métié,10,GA,nzb,Njebi,I
+6,Q2,1705,Myénè,10,GA,mye,Myene,I
+6,Q2,1706,Tsogho,10,GA,tsv,Tsogo,I
+6,Q2,1707,Kélè,10,GA,keb,Kélé,I
+6,Q2,2220,Yamba,6,CM,yam,Yamba,I
+6,Q2,2221,Yabassi,6,CM,dua,Duala,I
+6,Q2,2222,Bene,6,CM,bum,Bulu (Cameroon),I
+6,Q2,2740,Kisafwa,31,TZ,sbk,Safwa,I
+6,Q2,2741,Kisambaa,31,TZ,ksb,Shambala,I
+6,Q2,2742,Kishirazi,31,TZ,ikz,Ikizu,I
+6,Q2,2743,Kisubi,31,TZ,suj,Shubi,I
+6,Q2,2744,Kisumbwa,31,TZ,suw,Sumbwa,I
+6,Q2,2745,Kiyao,31,TZ,yao,Yao,I
+6,Q2,2746,Kizanaki,31,TZ,zak,Zanaki,I
+6,Q2,2747,Kizaramo,31,TZ,zaj,Zaramo,I
+6,Q2,2748,Kizigua,31,TZ,ziw,Zigula,I
+6,Q2,9995,Other,4,BF,und,Undetermined,S
+6,Q2,9995,Other,2,BJ,und,Undetermined,S
+6,Q2,9995,Other,3,BW,und,Undetermined,S
+6,Q2,9995,Other,8,CI,und,Undetermined,S
+6,Q2,9995,Other,6,CM,und,Undetermined,S
+6,Q2,9995,Other,10,GA,und,Undetermined,S
+6,Q2,9995,Other,11,GH,und,Undetermined,S
+6,Q2,9995,Other,12,GN,und,Undetermined,S
+6,Q2,9995,Other,13,KE,und,Undetermined,S
+6,Q2,9995,Other,18,ML,und,Undetermined,S
+6,Q2,9995,Other,19,MU,und,Undetermined,S
+6,Q2,9995,Other,17,MW,und,Undetermined,S
+6,Q2,9995,Other,21,MZ,und,Undetermined,S
+6,Q2,9995,Other,22,NA,und,Undetermined,S
+6,Q2,9995,Other,23,NE,und,Undetermined,S
+6,Q2,9995,Other,24,NG,und,Undetermined,S
+6,Q2,9995,Other,29,SD,und,Undetermined,S
+6,Q2,9995,Other,26,SN,und,Undetermined,S
+6,Q2,9995,Other,30,SZ,und,Undetermined,S
+6,Q2,9995,Other,32,TG,und,Undetermined,S
+6,Q2,9995,Other,31,TZ,und,Undetermined,S
+6,Q2,9995,Other,34,UG,und,Undetermined,S
+6,Q2,9995,Other,28,ZA,und,Undetermined,S
+6,Q2,9995,Other,35,ZM,und,Undetermined,S
+6,Q2,9995,Other,36,ZW,und,Undetermined,S
+6,Q2,9999,Don't know,6,CM,und,Undetermined,S
+6,Q2,9999,Don't know,15,LR,und,Undetermined,S
+6,Q2,9999,Don't know,17,MW,und,Undetermined,S
+6,Q2,9999,Don't know,21,MZ,und,Undetermined,S
+6,Q2,9999,Don't know,29,SD,und,Undetermined,S
+6,Q2,9999,Don't know,25,ST,und,Undetermined,S
+6,Q2,9999,Don't know,31,TZ,und,Undetermined,S
+6,Q2,9999,Don't know,35,ZM,und,Undetermined,S

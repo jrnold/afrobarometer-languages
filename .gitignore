@@ -6,3 +6,4 @@ external/*
 !.keep
 .ipynb_checkpoints
 *.bak
+data/afrobarometer_lang_dists.csv.gz

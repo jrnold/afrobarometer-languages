@@ -53,7 +53,9 @@ files <- list(
   list(url = "http://afrobarometer.org/sites/default/files/data/round-5/merged-round-5-data-34-countries-2011-2013-last-update-july-2015.sav",
        dst = "external/afrobarometer"),
   list(url = "http://afrobarometer.org/sites/default/files/data/round-6/merged_r6_data_2016_36countries2.sav",
-       dst = "external/afrobarometer")
+       dst = "external/afrobarometer"),
+  list(url = "http://asjp.clld.org/static/download/asjp-dataset.tab.zip",
+       dst = "external/asjp-dataset.tab.zip")
 )
 
 invisible(invoke_map(download_file, .x = files))
