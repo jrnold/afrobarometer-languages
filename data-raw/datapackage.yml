@@ -1,6 +1,6 @@
 name: afrobarometer_langs
 title: Afrobarometer Languages Mapped to ISO Standards and WALS
-version: 0.1.0
+version: 0.0.1
 description: >-
     Mappings from languages used in the Afrobarometer surveys
     to some common language standards and databases, the
@@ -52,13 +52,13 @@ resources:
             required: true
             minimum: 1
             maximum: 6
-        - <<: &variable
-            name: variable
+        - <<: &question
+            name: question
             type: string
-            title: Afrobarometer survey variable/variable
+            title: Afrobarometer survey question/variable
           constraints:
             required: true
-            enum: &variables
+            enum: &question_variables
             - language
             - q83
             - q97
@@ -114,26 +114,6 @@ resources:
             required: true
             minimum: 1
             maximum: 36
-        - &n_resp
-          name: n_resp
-          types: integer
-          constraints:
-            required: true
-            minimum: 1
-          title: Number of respondents
-          description: >-
-            Number of respondents in the survey which answered with this value.
-        - &prop
-          name: prop
-          types: number
-          constraints:
-            required: true
-            minimum: 0
-            maximum: 1
-          title: Population proportion
-          description: >-
-            Using the survey weights, the estimated proportion in the country which speak
-            that language.
       missingValues: [""]
 
   - name: afrobarometer_langs_other
@@ -141,15 +121,15 @@ resources:
     title: "Afrobarometer 'Other' Languages"
     description: >-
       Languages mentioned in the text responses after answering "other" to
-      a language variable.
+      a language question.
     <<: *csv
     schema:
       fields:
         - *round
-        - <<: *variable
+        - <<: *question
           constraints:
             required: true
-            enum: &variables_other
+            enum: &question_variables_other
             - Q2OTHER
             - Q3OTHER
             - Q103OTHER
@@ -164,8 +144,67 @@ resources:
                 required: true
           name: value
         - *iso_alpha2
-        - *n_resp
-        - *prop
+      missingValues: [""]
+
+
+  - path: iso_to_wals.csv
+    name: iso_to_wals
+    description: >-
+      Mappings from all ISO 639-3 languages to a WALS language.
+      These use the ISO 639-3 codes provided in the WALS dataset and the
+      Ethnologue language tree. ISO languages are matched to the closest
+      WALS language using distance on the Ethnologue tree.
+      This mapping is many to many.
+    <<: *csv
+    schema:
+      fields:
+        - name: iso_code
+          type: string
+          label: "ISO 639-3 Code From"
+          description: >-
+            The ISO code of the language being mapped.
+          constraints:
+            required: true
+            pattern: "^[a-z]{3}$"
+        - name: wals_code
+          type: string
+          format: default
+          label: WALS code
+          description: >-
+            The WALS code associated with it.
+          constraints:
+            required: true
+            pattern: "^[a-z]{2,3}$"
+        - name: iso_code_to
+          type: string
+          format: default
+          label: ISO 639-3 Code (WALS)
+          description: >-
+            The ISO 639-3 code of the WALS language that was mapped to.
+          constraints:
+            required: true
+            pattern: "^[a-z]{3}$"
+        - <<: &distance
+            name: distance
+            type: integer
+            label: Distance
+            description: >-
+              The distance between the original ISO and the ISO code of the WALS
+              language to which it was mapped. The distance is the graph distance
+              between the two ISO languages in the Ethnologue language tree.
+              A distance of 0 means the ISO language was directly mapped to a WALS language.
+          constraints:
+            required: true
+            minimum: 0
+        - &same_country
+          name: same_country
+          type: boolean
+          label: Same country
+          description: >-
+            Only non-missing if this was an automatic match. It is true if the
+            matched WALS language has the same country as the original ISO language.
+          constraints:
+            required: false
       missingValues: [""]
 
   - path: afrobarometer_to_iso_639_3.csv
@@ -182,10 +221,10 @@ resources:
     schema:
       fields:
       - *round
-      - <<: *variable
+      - <<: *question
         constraints:
           required: true
-          enum: *variables
+          enum: *question_variables
       - <<: *lang_id
         name: lang_id
       - <<: *lang_name
@@ -233,10 +272,10 @@ resources:
     schema:
       fields:
       - *round
-      - <<: *variable
+      - <<: *question
         constraints:
           required: true
-          enum: *variables_other
+          enum: *question_variables_other
       - *country
       - <<: *lang_other
         name: value
@@ -254,10 +293,10 @@ resources:
     schema:
       fields:
       - *round
-      - <<: *variable
+      - <<: *question
         constraints:
           required: true
-          enum: *variables
+          enum: *question_variables
       - <<: *lang_id
         name: lang_id
       - <<: *lang_name
@@ -289,6 +328,16 @@ resources:
           If true, then language was matched to the WALS language using the
           ISO 639-9 mappings and the ISO-to-WALS mappings in `iso_to_wals`.
           If false, then the WALS codes were manually entered.
+      - <<: *distance
+        constraints:
+          required: false
+          minimum: 0
+      - *same_country
+      - &in_wals_country
+        name: in_wals_country
+        type: boolean
+        contraints:
+          required: false
 
   - path: afrobarometer_other_to_wals.csv
     name: afrobarometer_other_to_wals
@@ -299,10 +348,10 @@ resources:
     schema:
       fields:
         - *round
-        - <<: *variable
+        - <<: *question
           constraints:
             required: true
-            enum: *variables_other
+            enum: *question_variables_other
         - *country
         - <<: *lang_other
           name: value
@@ -310,6 +359,9 @@ resources:
         - *wals_code
         - *wals_name
         - *auto
+        - *distance
+        - *same_country
+        - *in_wals_country
 
   - path: afrobarometer_to_glottolog.csv
     name: afrobarometer_to_glottolog
@@ -320,10 +372,10 @@ resources:
     schema:
       fields:
       - *round
-      - <<: *variable
+      - <<: *question
         constraints:
           required: true
-          enum: *variables
+          enum: *question_variables
       - <<: *lang_id
         name: lang_id
       - <<: *lang_name
@@ -338,7 +390,7 @@ resources:
           The Glottolog languoid identifier
         constraints:
           required: false
-          pattern: "^([a-z0-9]{4}[0-9]{4})?$"
+          pattern: "^[a-z0-9]{4}[0-9]{4}$"
 
   - path: afrobarometer_other_to_glottolog.csv
     name: afrobarometer_other_to_glottolog
@@ -349,14 +401,14 @@ resources:
     schema:
       fields:
         - *round
-        - <<: *variable
+        - <<: *question
           constraints:
             required: true
-            enum: *variables_other
+            enum: *question_variables_other
+        - *country
         - <<: *lang_other
           name: value
         - *iso_alpha2
-        - *country
         - *glottocode
 
   - path: wals_dist.csv
@@ -393,7 +445,6 @@ resources:
           constraints:
             required: true
             minimum: 1
-
   - path: "afrobarometer_lang_variables.csv"
     name: "afrobarometer_lang_variables"
     <<: *csv
@@ -464,7 +515,7 @@ resources:
       - variable
       fields:
       - *round
-      - name: "respno"
+      - name: respno
         title: Afrobarometer ID
         description: >-
           Observation ID in the Afrobarometer dataset.

@@ -1,0 +1,114 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "id": "http://example.com/example.json",
+  "items": {
+    "id": "/items",
+    "properties": {
+      "lang_id": {
+        "type": "integer",
+        "minimum": -1,
+        "maximum": 9999,
+        "exclusiveMinimum": false,
+        "exclusiveMaximum": false
+      },
+      "lang_name": {
+        "type": "string"
+      },
+      "variables": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^(language|[Qq][0-9]+)$"
+        }
+      },
+      "iso_639_3": {
+        "anyOf": [
+          {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z]{3}$"
+            },
+            "minItems": 1
+          },
+          {
+            "type": "object",
+            "patternProperties": {
+              "^[a-z][a-z][a-z]$": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^[A-Z]{2}$"
+                }
+              }
+            },
+            "additionalProperties": false,
+            "minProperties": 1
+          }
+        ]
+      },
+      "wals_codes": {
+        "anyOf": [
+          {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z]{2,3}$"
+            },
+            "minItems": 1
+          },
+          {
+            "type": "object",
+            "patternProperties": {
+              "^[a-z][a-z][a-z]?$": {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^[A-Z]{2}$"
+                },
+                "minItems": 1
+              }
+            },
+            "additionalProperties": false
+          },
+          {"type": "null"}
+        ]
+      },
+      "note": {
+        "anyOf": [
+          {"type": "null"},
+          {"type": "string"}
+        ]
+      },
+      "glottocodes": {
+        "anyOf": [
+          {"type": "null"},
+          {
+            "type": "string",
+            "pattern": "^[a-z0-9]{4}[0-9]{4}$"
+          },
+          {
+            "type": "object",
+            "patternProperties": {
+              "^[A-Z]{2}$": {
+                "type": "string",
+                "pattern": "^[a-z0-9]{4}[0-9]{4}$"
+              }
+            },
+            "additionalProperties": false,
+            "minProperties": 1
+          }
+        ]
+      }
+    },
+    "required": [
+      "lang_id",
+      "variables",
+      "iso_639_3",
+      "glottocodes"
+    ],
+    "type": "object",
+    "additionalProperties": false
+  },
+  "type": "array"
+}

@@ -1,0 +1,91 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "items": {
+        "id": "/items",
+        "properties": {
+          "country": {
+            "type": "string",
+            "pattern": "^[A-Z]{2}$"
+          },
+          "lang_name": {
+            "type": "string"
+          },
+          "iso_639_3": {
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^[a-z]{3}$"
+                },
+                "minItems": 1
+              },
+              {
+                "type": "object",
+                "patternProperties": {
+                  "^[a-z][a-z][a-z]$": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "pattern": "^[A-Z]{2}$"
+                    }
+                  }
+                },
+                "additionalProperties": false,
+                "minProperties": 1
+              }
+            ]
+          },
+          "wals_codes": {
+            "anyOf": [
+              {
+                "type": "array",
+                "items": {
+                  "type": "string",
+                  "pattern": "^[a-z]{2,3}$"
+                }
+              },
+              {
+                "type": "object",
+                "patternProperties": {
+                  "^[a-z][a-z][a-z]?$": {
+                    "type": "array",
+                    "items": {
+                      "type": "string",
+                      "pattern": "^[A-Z]{2}$"
+                    }
+                  }
+                },
+                "additionalProperties": false
+              },
+              {"type": "null"}
+            ]
+          },
+          "note": {
+            "anyOf": [
+              {"type": "null"},
+              {"type": "string"}
+            ]
+          },
+          "glottocode": {
+            "anyOf": [
+              {"type": "null"},
+              {
+                "type": "string",
+                "pattern": "^[a-z0-9]{4}[0-9]{4}$"
+              }
+            ]
+          }
+        },
+        "required": [
+            "lang_name",
+            "country",
+            "iso_639_3",
+            "glottocode",
+            "wals_codes"
+        ],
+        "type": "object",
+        "additionalProperties": false
+    },
+    "type": "array"
+}
