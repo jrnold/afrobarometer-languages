@@ -224,15 +224,15 @@ lexical_dist <- function(language_1, language_2, wordlists) {
 #'   language_2, ld, ln
 asjp <- tidy_asjp(unz("external/asjp-dataset.tab.zip", filename = "dataset.tab"))
 
-# languages_to_use <-
-#   IO$afrobarometer_to_iso %>%
-#   select(iso_639_3) %>%
-#   distinct() %>%
-#   inner_join(asjp$languages, by = c("iso_639_3" = "iso")) %>%
-#   select(language) %>%
-#   distinct(language)
 languages_to_use <-
-  asjp$languages
+  IO$afrobarometer_to_iso %>%
+  select(iso_639_3) %>%
+  distinct() %>%
+  inner_join(asjp$languages, by = c("iso_639_3" = "iso")) %>%
+  select(language) %>%
+  distinct(language)
+# languages_to_use <-
+#   asjp$languages
 
 wordlists <-
   asjp$words %>%
