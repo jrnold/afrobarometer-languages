@@ -481,6 +481,8 @@ round,variable,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,27,AHIZI,ahp,I,Aproumu Aizi,CI
 5,Q2OTHER,14,AHOADA,mis,S,Uncoded languages,NG
 5,Q2OTHER,5,AKAN,aka,M,Akan,GH
+5,Q2OTHER,5,AKAN,fat,I,Fanti,GH
+5,Q2OTHER,5,AKAN,twi,I,Twi,GH
 5,Q2OTHER,24,AKEBOU,keu,I,Akebu,TG
 5,Q2OTHER,24,AKLOBO,mis,S,Uncoded languages,TG
 5,Q2OTHER,14,AKUMAZI,mis,S,Uncoded languages,NG
@@ -1362,6 +1364,7 @@ round,variable,country,value,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,6,BALI,mhk,I,Mungaka,CM
 6,Q2OTHER,6,BALI NYONGA,mhk,I,Mungaka,CM
 6,Q2OTHER,6,BALOUNDO,mis,S,Uncoded languages,CM
+6,Q2OTHER,34,BALUYA,lsm,I,Saamia,UG
 6,Q2OTHER,34,BALUYA,luy,M,Luyia,UG
 6,Q2OTHER,6,BAMBELE,bag,I,Tuki,CM
 6,Q2OTHER,6,BAMENDJING,xmg,I,Mengaka,CM

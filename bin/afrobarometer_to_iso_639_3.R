@@ -22,10 +22,15 @@ iso_langs <- IO$iso_639_3_codes %>%
     filter(Language_Type %in% c("L", "S")) %>%
     select(-Language_Type, -Comment)
 
-#' ISO Macrolanguages
+#' Mappings for ISO 639-3
+#' both for individual to macro, and macro to individual
 iso_macrolangs <- IO$iso_639_3_macrolanguages %>%
   filter(I_Status == "A") %>%
-  select(-I_Status)
+  select(-I_Status) %>%
+  {
+    bind_rows(select(., iso_from = M_Id, iso_to = I_Id),
+              select(., iso_from = I_Id, iso_to = M_Id))
+  }
 
 #' Afrobarometer Mappings
 afrobarometer_to_iso <- IO$afrobarometer_mappings %>%
@@ -53,6 +58,14 @@ afrobarometer_to_iso <- IO$afrobarometer_mappings %>%
   # there may be duplicates
   distinct() %>%
   rename(valid_country = country)
+
+#' Expand macrolanguages or add individual languages
+afrobarometer_to_iso %<>%
+  {bind_rows(.,
+             inner_join(., iso_macrolangs, by = c(iso_639_3  = "iso_from")) %>%
+             select(-iso_639_3, iso_639_3 = iso_to)
+  )} %>%
+  distinct()
 
 #' add ISO information
 afrobarometer_to_iso %<>%
@@ -136,18 +149,28 @@ iso_lang_nonmatches <-
   anti_join(iso_langs, by = c("iso_639_3" = "Id"))
 stopifnot(nrow(iso_lang_nonmatches) == 0)
 
-#' Any match should consist of either ALL individual languages or ONE macrolanguage
-macro_and_indiv <-
+#' Any match should at most match at most one macrolanguage
+num_macrolangs <-
   afrobarometer_to_iso %>%
-  count(round, variable, lang_id, country, iso_scope) %>%
-  group_by(round, variable, lang_id, country) %>%
-  filter(all(c("I", "M") %in% iso_scope) |
-           (iso_scope == "M" & n > 1))
-if (nrow(macro_and_indiv) > 1) {
-  print(macro_and_indiv)
-  stop("Each language MUST match to either one or more individual languages OR one macrolanguage")
+  filter(iso_scope == "M") %>%
+  count(round, variable, lang_id, country) %>%
+  filter(n > 1)
+if (nrow(num_macrolangs) > 1) {
+  print(num_macrolangs)
+  stop("Each language can match AT MOST one macrolanguage")
 }
 
+#' Any match must have at least one individual language
+num_indiv_langs <-
+  afrobarometer_to_iso %>%
+  filter(iso_scope %in% c("I", "M")) %>%
+  group_by(round, variable, lang_id, country) %>%
+  summarise(n = sum(iso_scope == "I")) %>%
+  filter(n == 0)
+if (nrow(num_indiv_langs) > 1) {
+  print(num_indiv_langs)
+  stop("Each language can match AT LEAST one individual ISO 639-3 language")
+}
 
 #' Check that the Ethnologue indicates that the ISO language match is spoken in that country
 iso_country_non_matches <-
