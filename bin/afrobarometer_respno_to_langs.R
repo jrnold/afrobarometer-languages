@@ -22,7 +22,11 @@ afrobarometer_other_to_glottolog <- IO$afrobarometer_other_to_glottolog
 
 
 # Afrobarometer respondent ID variables
-respondent_variables <- IO$misc
+respondent_variables <- IO$misc_data %>%
+  pluck("afrobarometer") %>%
+  pluck("variables") %>%
+  map_df(as_tibble) %>%
+  select(round, name = respno)
 
 map_lang_vars <- function(.data, x, mappings, lang_vars,
                           country_var, respno_var) {
