@@ -41,6 +41,11 @@ data/datapackage.json: bin/yaml2json.py data-raw/datapackage.yml
 OUTPUTS += data/datapackage.json
 
 
+data/afrobarometer_lang_variables.csv: bin/afrobarometer_lang_variables.R
+	$(R) $<
+data/afrobarometer_lang_variables.csv: 	data-raw/afrobarometer_lang_variables.csv
+OUTPUTS += data/afrobarometer_lang_variables.csv
+
 data/afrobarometer_langs.csv: bin/afrobarometer_langs.R
 	$(R) $<
 data/afrobaroemter_langs.csv:	data-raw/misc.yml \

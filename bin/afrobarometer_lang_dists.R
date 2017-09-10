@@ -4,7 +4,7 @@ source("src/R/init.R")
 EARTH_RADIUS <- 6378137
 # circumference / 2 = 2 pi r / 2 = pi r
 ANTIPODE_DIST <- base::pi * EARTH_RADIUS
-OUTFILE <- "data/afraborometer_lang_dists.csv.gz"
+OUTFILE <- project_path("data", "afraborometer_lang_dists.csv.gz")
 
 glottolog_distances <- function() {
   glottolog <- IO$glottolog %>%
@@ -18,7 +18,7 @@ glottolog_distances <- function() {
     left_join(select(glottolog, glottocode, ancestors, descendants, level, depth),
               by = "glottocode")
 
-  MAX_DEPTH <- max(glottolog$depth)
+  max_depth <- max(glottolog$depth)
 
   # Dialects to languages
   ab_to_glottolog_dialects <-
@@ -67,10 +67,11 @@ glottolog_distances <- function() {
 
 }
 
-asjp_distances <- function() {
-
+run <- function() {
+  distances <- glottolog_distances()
+  hdl <- gzfile(OUTFILE, "w")
+  write_csv(distances, hdl, na = "")
+  close(hdl)
 }
 
-# hdl <- gzfile(OUTFILE, "w")
-# write_csv(distances, hdl, na = "")
-# close(hdl)
+run()
