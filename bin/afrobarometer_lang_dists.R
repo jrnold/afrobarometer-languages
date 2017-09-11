@@ -1,24 +1,21 @@
 source("src/R/init.R")
 
-# earth radius in m
-EARTH_RADIUS <- 6378137
-# circumference / 2 = 2 pi r / 2 = pi r
-ANTIPODE_DIST <- base::pi * EARTH_RADIUS
 OUTFILE <- project_path("data", "afraborometer_lang_dists.csv.gz")
 
 glottolog_distances <- function() {
-  glottolog <- IO$glottolog %>%
-    mutate(glottocode,
-           ancestors = str_split(ancestors, " "),
-           descendants = str_split(descendants, " "))
+  glottolog_db <- src_sqlite("external/lingdata/glottolog.db")
 
   ab_to_glottolog <- IO$afrobarometer_to_glottolog %>%
     select(round, country, variable, lang_id, country, glottocode, iso_alpha2) %>%
-    filter(!is.na(glottocode)) %>%
-    left_join(select(glottolog, glottocode, ancestors, descendants, level, depth),
-              by = "glottocode")
+    filter(!is.na(glottocode))
 
-  max_depth <- max(glottolog$depth)
+  glottolog_languoids <- tbl(glottolog_db, "languages") %>%
+    filter(!bookkeeping) %>%
+    collect()
+  max_depth <- glottolog_languoids %>%
+    filter(level == "language") %>%
+    pluck("depth") %>%
+    max(na.rm = TRUE)
 
   # Dialects to languages
   ab_to_glottolog_dialects <-
@@ -44,28 +41,30 @@ glottolog_distances <- function() {
       ab_to_glottolog_families,
       ab_to_glottolog_dialects
     ) %>%
-    select(glottocode, round, country, variable, lang_id, depth, ancestors) %>%
-    left_join(select(glottolog, glottocode, latitude, longitude),
-              by = "glottocode")
+    select(glottocode, round, country, variable, lang_id, depth, ancestors)
 
-  distances <-
-    crossing(ab_to_glottolog,
-             rename_all(ab_to_glottolog, str_c, "_to")) %>%
-    # remove self matches
-    filter(!(variable == variable_to & lang_id == lang_id_to &
-               country == country_to)) %>%
-    mutate(shared = map2_int(ancestors, ancestors_to,
-                             ~ length(base::intersect(.x, .y))),
-           dist_geo = geosphere::distGeo(cbind(longitude, latitude),
-                                         cbind(longitude_to, latitude_to))) %>%
-    select(-ancestors, -glottocode, -ancestors_to, -glottocode_to,
-           -depth_to, -matches("longitude|latitude")) %>%
-    group_by(round, country, variable, lang_id,
-             round_to, country_to, variable_to, lang_id_to) %>%
-    # Using the median ensures that depth and shared are still integers
-    summarise_at(vars(shared, depth, dist_geo), funs(median))
+  ab_dists <-
+    crossing(rename_all(ab_to_glottolog, str_c, "_1"),
+           rename_all(ab_to_glottolog, str_c, "_2")) %>%
+    filter((round_1 != round_2) |
+             (variable_1 != variable_2) |
+             (country_1 != country_2) |
+             (lang_id_1 < lang_id_2))
+
+  left_join(ab_dists,
+            tbl(glottolog_db, "distances"),
+            copy = TRUE, by = c("glottocode_1", "glottocode_2")) %>%
+    group_by(round_1, variable_1, country_1, lang_id_1,
+             round_2, variable_2, country_2, lang_id_2) %>%
+    summarise_at(shared = median(shared),
+                 geo = mean(geo))
+}
+
+asjp_distances <- function() {
+  ethnologue_dists <- IO$ethnologue_distances
 
 }
+
 
 run <- function() {
   distances <- glottolog_distances()
