@@ -80,11 +80,10 @@ if (nrow(to_glottolog_nonmatches)) {
 #' All Glottocode languages should be accounted for
 glottolog_non_african <-
   afrobarometer_to_glottolog %>%
-    filter(!is.na(glottocode)) %>%
-    left_join(select(IO$glottolog_lang_geo, glottocode, macroarea),
-         by = "glottocode") %>%
-    filter(macroarea != "Africa") %>%
-    filter(!glottocode %in% IO$misc_data$glottolog$non_african)
+  filter(!is.na(glottocode)) %>%
+  anti_join(filter(IO$glottolog_macroareas, macroarea == "Africa"),
+            by = "glottocode") %>%
+  filter(!glottocode %in% IO$misc_data$glottolog$non_african)
 if (nrow(glottolog_non_african)) {
   print(select(glottolog_non_african, glottocode, value, macroarea))
   stop("Non-African Glottolog languages found")

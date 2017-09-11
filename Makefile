@@ -4,10 +4,14 @@ PYTHON = python3
 AFROBAROMETER_MAPPINGS = $(wildcard data-raw/afrobarometer-mappings/r*.yml)
 AFROBAROMETER_OTHER_MAPPINGS = data-raw/afrobarometer-mappings/other.yml
 AFROBAROMETER_DATA = $(wildcard external/afrobarometer/*.sav)
-WALS_DATA = external/wals-language.csv.zip
-ISO_DATA = external/iso-639-3_Code_Tables_20170217.zip external/Language_Code_Data_20170221.zip
-GLOTTOLOG_DIR = external/glottolog
-GLOTTOLOG_FILES = $(wildcard $(GLOTTOLOG_DIR)/*)
+
+LINGDATA_S3_BUCKET = "s3://jrnold-data/lingdata/"
+LINGDATA_DIR = external/lingdata/
+WALS_DATA = $(LINGDATA_DIR)/wals.db
+ISO_DATA = $(LINGDATA_DIR)/iso_639_3.db
+ETHNOLOGUE_DATA = $(LINGDATA_DIR)/ethnologue.db
+GLOTTOLOG_DATA = $(LINGDATA_DIR)/glottolog.db
+ASJP_DATA = $(LINGDATA_DIR)/asjp.db
 
 OUTPUTS =
 
@@ -15,31 +19,19 @@ all:
 	@echo $(OUTPUTS)
 
 download: bin/download.R
+	bin/lingdata.sh
 	$(R) $<
 .PHONY: download
+
 
 validate-mappings: bin/validate_mappings.py
 	$(PYTHON) $<
 validate-mappings: $(AFROBAROMETER_MAPPINGS)
 .PHONY: validate-mappings
 
-external/glottolog/tree-glottolog.json: bin/glottolog-tree.py
-	$(PYTHON) $<
-data/glottolog/tree-glottolog.json: external/glottolog/tree-glottolog-newick.txt
-OUTPUTS += $(GLOTTOLOG_DIR)/tree-glottolog.json
-
-data/glottolog.csv: bin/glottolog.R
-	$(R) $<
-data/glottlog.csv: external/glottolog/tree-glottolog.json \
-	$(GLOTTOLOG_FILES) \
-	$(WALS_DATA)
-OUTPUTS += data/glottolog.csv
-
-
 data/datapackage.json: bin/yaml2json.py data-raw/datapackage.yml
 	$(PYTHON) $^ $@
 OUTPUTS += data/datapackage.json
-
 
 data/afrobarometer_lang_variables.csv: bin/afrobarometer_lang_variables.R
 	$(R) $<

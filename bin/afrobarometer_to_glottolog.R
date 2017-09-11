@@ -3,8 +3,7 @@ source("src/R/init.R")
 OUTPUT <- project_path("data", "afrobarometer_to_glottolog.csv")
 
 glottolog_languoids <- IO$glottolog_languoids
-
-glottolog_lang_geo <- IO$glottolog_lang_geo
+glottolog_macroareas <- IO$glottolog_macroareas
 
 # Manual Glottocode Matches from the mappings
 to_glottocodes <-
@@ -65,7 +64,7 @@ assert_that(nrow(distinct(afrobarometer_to_glottolog,
 invalid_glottocode <-
   afrobarometer_to_glottolog %>%
   filter(!is.na(glottocode)) %>%
-  anti_join(glottolog_languoids, by = c("glottocode" = "id"))
+  anti_join(glottolog_languoids, by = c("glottocode"))
 if (nrow(invalid_glottocode)) {
   print(invalid_glottocode)
   stop("Unaccounted for non-matches found")
@@ -114,9 +113,8 @@ if (nrow(inconsistent_mappings)) {
 glottolog_non_african <-
   afrobarometer_to_glottolog %>%
     filter(!is.na(glottocode)) %>%
-    left_join(select(IO$glottolog_lang_geo, glottocode, macroarea),
-         by = "glottocode") %>%
-    filter(macroarea != "Africa") %>%
+    anti_join(filter(IO$glottolog_macroareas, macroarea == "Africa"),
+              by = "glottocode") %>%
     filter(!glottocode %in% IO$misc_data$glottolog$non_african)
 if (nrow(glottolog_non_african)) {
   print(select(macroarea, glottolog_non_african, glottocode,  lang_name,
