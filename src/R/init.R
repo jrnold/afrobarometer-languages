@@ -205,11 +205,12 @@ env_bind_fns(IO,
   ethnologue_distances = function() {
     path <- project_path("data-raw", "ethnologue",
                          "iso_639_3-distances.csv.gz")
-    col_types <- cols(
-      iso_639_3_from = col_character(),
-      iso_639_3_to = col_character(),
-      distance = col_integer()
-    )
+    # col_types <- cols(
+    #   iso_639_3_from = col_character(),
+    #   iso_639_3_to = col_character(),
+    #   distance = col_integer()
+    # )
+    col_types <- NULL
     read_csv(gzfile(path), na = "", col_types = col_types)
   },
 

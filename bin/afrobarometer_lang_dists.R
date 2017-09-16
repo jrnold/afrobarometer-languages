@@ -61,13 +61,48 @@ glottolog_distances <- function() {
 }
 
 asjp_distances <- function() {
-  ethnologue_dists <- IO$ethnologue_distances
+  asjp_db <- src_sqlite("external/lingdata/asjp.db")
+  ajsp_langs <- collect(tbl(asjp_db, "languages"))
+  afrobarometer_to_asjp <-
+    left_join(IO$afrobarometer_to_iso,
+              select(asjp_langs, asjp_language = language,
+                     iso_639_3 = iso), by = c("iso_639_3")) %>%
+    filter(!is.na(asjp_language)) %>%
+    select(round, variable, lang_id, country, asjp_language) %>%
+    distinct()
+
+  dists <-
+    crossing(rename_all(afrobarometer_to_asjp, str_c, "_1"),
+           rename_all(afrobarometer_to_asjp, str_c, "_2")) %>%
+    filter((round_1 != round_2) |
+           (variable_1 != variable_2) |
+           (country_1 != country_2) |
+           (lang_id_1 < lang_id_2)) %>%
+    # db only has distances for language_1 < language_2
+    mutate(asjp_language_ = if_else(asjp_language_2 < asjp_language_1, asjp_language_1, asjp_language_2),
+           asjp_language_1 = if_else(asjp_language_2 < asjp_language_1, asjp_language_2, asjp_language_1),
+           asjp_language_2 = asjp_language_) %>%
+    select(-asjp_language_)
+
+ inner_join(dists,
+            select(tbl(asjp_db, "distances"),
+                    language_1, language_2, ldnd, ldn),
+            by = c("asjp_language_1" = "language_1",
+                    "asjp_language_2" = "language_2"),
+            copy = TRUE) %>%
+    group_by(round_1, variable_1, lang_id_1, country_1,
+             round_2, variable_2, lang_id_2, country_2) %>%
+    summarise(asjp_ldn = mean(ldn, na.rm = TRUE),
+              asjp_ldnd = mean(ldnd, na.rm = TRUE))
 
 }
 
-
 run <- function() {
-  distances <- glottolog_distances()
+  distances <-
+    left_join(glottolog_distances(),
+              asjp_distances(),
+              by = c("round_1", "variable_1", "lang_id_1", "country_1",
+                     "round_2",  "variable_2", "lang_id_2", "country_2"))
   hdl <- gzfile(OUTFILE, "w")
   write_csv(distances, hdl, na = "")
   close(hdl)
