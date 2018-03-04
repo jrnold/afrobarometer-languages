@@ -476,5 +476,5 @@ rlang::env_bind_fns(IO, iso_639_3_countries = iso_639_countries)
 #'
 #'  Set equality
 seteq <- function(x, y) {
-!length(setdiff(x, y)) && !length(setdiff(y, x))
+  !length(setdiff(x, y)) && !length(setdiff(y, x))
 }

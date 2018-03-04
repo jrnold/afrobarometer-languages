@@ -117,8 +117,8 @@ glottolog_non_african <-
               by = "glottocode") %>%
     filter(!glottocode %in% IO$misc_data$glottolog$non_african)
 if (nrow(glottolog_non_african)) {
-  print(select(macroarea, glottolog_non_african, glottocode,  lang_name,
-               round, variable, lang_id))
+  print(select(glottolog_non_african,
+               glottocode, lang_name, round, variable, lang_id))
   stop("Non-African Glottolog languages found")
 }
 
