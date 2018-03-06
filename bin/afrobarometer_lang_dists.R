@@ -1,4 +1,4 @@
-source("src/R/init.R")
+source(here::here("src", "R", "init.R"))
 
 OUTFILE <- project_path("data", "afraborometer_lang_dists.csv.gz")
 
@@ -6,12 +6,14 @@ glottolog_distances <- function() {
   glottolog_db <- src_sqlite("external/lingdata/glottolog.db")
 
   ab_to_glottolog <- IO$afrobarometer_to_glottolog %>%
-    select(round, country, variable, lang_id, country, glottocode, iso_alpha2) %>%
+    select(round, country, variable, lang_id, country, glottocode, iso_alpha,
+           level) %>%
     filter(!is.na(glottocode))
 
   glottolog_languoids <- tbl(glottolog_db, "languages") %>%
     filter(!bookkeeping) %>%
     collect()
+
   max_depth <- glottolog_languoids %>%
     filter(level == "language") %>%
     pluck("depth") %>%
@@ -19,7 +21,7 @@ glottolog_distances <- function() {
 
   # Dialects to languages
   ab_to_glottolog_dialects <-
-    ab_to_glottolog %>%
+    left_join(ab_to_glottolog, glottolog_languoids, by = "glottocode") %>%
     filter(level == "dialect") %>%
     select(-glottocode, -descendants, -level) %>%
     unnest(ancestors) %>%

@@ -148,9 +148,12 @@ env_bind_fns(IO,
   # WALS data with ISO updates applied and only language level data
   wals = function() {
     tbl(src_sqlite("external/lingdata/wals.db"), "languages") %>%
-      collect() %>%
-      mutate(countrycodes = map_if(str_split(countrycodes, " "),
-                                   is.null, list(character())))
+      collect()
+  },
+
+  wals = function() {
+    tbl(src_sqlite("external/lingdata/wals.db"), "languages") %>%
+      collect()
   },
 
   ethnologue_language_codes = function() {
@@ -336,6 +339,12 @@ env_bind_fns(IO,
       collect()
   },
 
+  glottolog_to_wals = function() {
+    src_sqlite("external/lingdata/glottolog.db") %>%
+      tbl("wals_codes") %>%
+      collect()
+  },
+
   afrobarometer_variables = function() {
     misc <- yaml::yaml.load_file(project_path("data-raw", "misc.yml"))
     map_df(misc$afrobarometer$variables, as_tibble)
@@ -458,9 +467,9 @@ env_bind_fns(IO, afrobarometer_other_to_glottolog = function() {
 iso_639_countries <- function() {
   macrolang_countries <-
     IO$iso_639_3_macrolanguages %>%
-    rename(LangID = M_Id) %>%
-    left_join(IO$ethnologue_countries, by = c(I_Id = "LangID")) %>%
+    left_join(IO$ethnologue_countries, by = c("I_Id" = "LangID")) %>%
     select(-I_Id, -I_Status) %>%
+    rename(LangID = M_Id) %>%
     filter(!is.na(CountryID)) %>%
     bind_rows(tibble(LangID = "aka", CountryID = "GH"))
 

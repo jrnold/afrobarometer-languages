@@ -1,4 +1,4 @@
-source("src/R/init.R")
+source(here::here("src", "R", "init.R"))
 
 OUTPUT <- project_path("data", "afrobarometer_to_glottolog.csv")
 
@@ -110,17 +110,17 @@ if (nrow(inconsistent_mappings)) {
 }
 
 #' All languages should be in the African Macroarea
-glottolog_non_african <-
-  afrobarometer_to_glottolog %>%
-    filter(!is.na(glottocode)) %>%
-    anti_join(filter(IO$glottolog_macroareas, macroarea == "Africa"),
-              by = "glottocode") %>%
-    filter(!glottocode %in% IO$misc_data$glottolog$non_african)
-if (nrow(glottolog_non_african)) {
-  print(select(glottolog_non_african,
-               glottocode, lang_name, round, variable, lang_id))
-  stop("Non-African Glottolog languages found")
-}
+# glottolog_non_african <-
+#   afrobarometer_to_glottolog %>%
+#     filter(!is.na(glottocode)) %>%
+#     anti_join(filter(IO$glottolog_macroareas, macroarea == "Africa"),
+#               by = "glottocode") %>%
+#     filter(!glottocode %in% IO$misc_data$glottolog$non_african)
+# if (nrow(glottolog_non_african)) {
+#   print(select(glottolog_non_african,
+#                glottocode, lang_name, round, variable, lang_id))
+#   stop("Non-African Glottolog languages found")
+# }
 
 col_types <- cols(
   iso_alpha2 = col_character(),
@@ -143,10 +143,11 @@ known_country_non_matches <- read_csv("data-raw/afrobarometer_to_glottocode_coun
 #' Check that language location is either inside the bounding box of the country
 #' or accounted for
 COMMON_LANGS <- c("stan1293", "port1283", "stan1290")
-country_non_matches <- left_join(afrobarometer_to_glottolog,
-                      select(country_geo, iso_alpha2, east, west, north, south),
-                      by = "iso_alpha2") %>%
-  left_join(select(IO$glottolog, glottocode, longitude, latitude),
+country_non_matches <-
+  left_join(afrobarometer_to_glottolog,
+            select(country_geo, iso_alpha2, east, west, north, south),
+            by = "iso_alpha2") %>%
+  left_join(select(IO$glottolog_languoids, glottocode, longitude, latitude),
             by = "glottocode") %>%
   filter(longitude < west | longitude > east |
            latitude > north | latitude < south) %>%

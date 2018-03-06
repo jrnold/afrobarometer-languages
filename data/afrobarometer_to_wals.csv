@@ -26,25 +26,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,8,Nama,12,ZW,kho,Khoekhoe,1
 1,language,9,Ndebele,1,BW,swt,Swati,1
 1,language,9,Ndebele,1,BW,xho,Xhosa,1
-1,language,9,Ndebele,1,BW,zno,Zulu (Northern),1
-1,language,9,Ndebele,1,BW,zso,Zulu (Southern),1
 1,language,9,Ndebele,1,BW,zul,Zulu,1
 1,language,9,Ndebele,3,LS,ndb,Ndebele (in South Africa),1
 1,language,9,Ndebele,6,NA,swt,Swati,1
 1,language,9,Ndebele,6,NA,xho,Xhosa,1
-1,language,9,Ndebele,6,NA,zno,Zulu (Northern),1
-1,language,9,Ndebele,6,NA,zso,Zulu (Southern),1
 1,language,9,Ndebele,6,NA,zul,Zulu,1
 1,language,9,Ndebele,8,ZA,ndb,Ndebele (in South Africa),1
 1,language,9,Ndebele,11,ZM,swt,Swati,1
 1,language,9,Ndebele,11,ZM,xho,Xhosa,1
-1,language,9,Ndebele,11,ZM,zno,Zulu (Northern),1
-1,language,9,Ndebele,11,ZM,zso,Zulu (Southern),1
 1,language,9,Ndebele,11,ZM,zul,Zulu,1
 1,language,9,Ndebele,12,ZW,swt,Swati,1
 1,language,9,Ndebele,12,ZW,xho,Xhosa,1
-1,language,9,Ndebele,12,ZW,zno,Zulu (Northern),1
-1,language,9,Ndebele,12,ZW,zso,Zulu (Southern),1
 1,language,9,Ndebele,12,ZW,zul,Zulu,1
 1,language,10,Oshiwambo,6,NA,mhu,Mbalanhu,1
 1,language,10,Oshiwambo,6,NA,ndo,Ndonga,1
@@ -65,13 +57,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,17,Shangaan/Tsonga/Ronga/Tswa,8,ZA,tsn,Tsonga,1
 1,language,17,Shangaan/Tsonga/Ronga/Tswa,12,ZW,rga,Ronga,1
 1,language,17,Shangaan/Tsonga/Ronga/Tswa,12,ZW,tsn,Tsonga,1
-1,language,18,Shona,1,BW,krg,Karanga,1
 1,language,18,Shona,1,BW,shn,Shona,1
-1,language,18,Shona,6,NA,krg,Karanga,1
 1,language,18,Shona,6,NA,shn,Shona,1
-1,language,18,Shona,11,ZM,krg,Karanga,1
 1,language,18,Shona,11,ZM,shn,Shona,1
-1,language,18,Shona,12,ZW,krg,Karanga,1
 1,language,18,Shona,12,ZW,shn,Shona,1
 1,language,20,Swazi,8,ZA,swt,Swati,1
 1,language,20,Swazi,11,ZM,swt,Swati,1
@@ -82,11 +70,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,22,Xhosa,3,LS,xho,Xhosa,1
 1,language,22,Xhosa,8,ZA,xho,Xhosa,1
 1,language,22,Xhosa,12,ZW,xho,Xhosa,1
-1,language,23,Zulu,1,BW,zno,Zulu (Northern),1
-1,language,23,Zulu,1,BW,zso,Zulu (Southern),1
 1,language,23,Zulu,1,BW,zul,Zulu,1
-1,language,23,Zulu,8,ZA,zno,Zulu (Northern),1
-1,language,23,Zulu,8,ZA,zso,Zulu (Southern),1
 1,language,23,Zulu,8,ZA,zul,Zulu,1
 1,language,24,Sepedi/N.Sotho,6,NA,stn,Sotho (Northern),1
 1,language,24,Sepedi/N.Sotho,8,ZA,stn,Sotho (Northern),1
@@ -122,7 +106,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,52,Ahanta,2,GH,ayi,Anyi,1
 1,language,52,Ahanta,2,GH,ble,Baule,1
 1,language,53,Guan,2,GH,nkn,Nkonya,0
-1,language,54,Kasem,2,GH,ksm,Kasem,1
 1,language,54,Kasem,2,GH,xsm,Kàsim,1
 1,language,55,Kusasi,2,GH,dgb,Dagbani,1
 1,language,55,Kusasi,2,GH,mmp,Mampruli,1
@@ -146,7 +129,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,70,Senya,2,GH,nkn,Nkonya,1
 1,language,71,Grusi,2,GH,kby,Kabiyé,1
 1,language,71,Grusi,2,GH,kow,Ko (Winye),1
-1,language,71,Grusi,2,GH,ksm,Kasem,1
 1,language,71,Grusi,2,GH,lye,Lyele,1
 1,language,71,Grusi,2,GH,nnn,Nuni (Northern),1
 1,language,71,Grusi,2,GH,ssa,Sisaala,1
@@ -174,7 +156,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,87,Soninke,5,ML,snn,Soninke,1
 1,language,88,Malinke,5,ML,maw,Maninka (Western),1
 1,language,88,Malinke,5,ML,mdk,Mandinka,1
-1,language,88,Malinke,5,ML,mkg,Mandinka (Gambian),1
 1,language,88,Malinke,5,ML,xas,Xasonga,1
 1,language,89,Sonrhai,5,ML,kse,Koyraboro Senni,1
 1,language,89,Sonrhai,5,ML,zar,Zarma,1
@@ -183,9 +164,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,90,Dogon,5,ML,jms,Jamsay,0
 1,language,90,Dogon,5,ML,tms,Tommo So,0
 1,language,91,Tamasheq,5,ML,tai,Tuareg (Air),1
-1,language,91,Tamasheq,5,ML,tgh,Tuareg (Ghat),1
 1,language,91,Tamasheq,5,ML,tsk,Tamashek,1
-1,language,91,Tamasheq,5,ML,tug,Tuareg (Ahaggar),1
 1,language,92,Bobo,5,ML,kfe,Koromfe,0
 1,language,93,Bozo,5,ML,boz,Bozo (Tigemaxo),0
 1,language,94,Khasonke,5,ML,xas,Xasonga,1
@@ -228,7 +207,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,119,Boki,7,NG,bfi,Bafia,1
 1,language,119,Boki,7,NG,bga,Benga,1
 1,language,119,Boki,7,NG,bia,Bira,1
-1,language,119,Boki,7,NG,bkn,Bakundu,1
 1,language,119,Boki,7,NG,bku,Bakueri,1
 1,language,119,Boki,7,NG,blu,Bena-Lulua,1
 1,language,119,Boki,7,NG,bmn,Bamun,1
@@ -242,19 +220,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,119,Boki,7,NG,buw,Bulu,1
 1,language,119,Boki,7,NG,cga,Chaga,1
 1,language,119,Boki,7,NG,cic,Chichewa,1
-1,language,119,Boki,7,NG,cil,CiLuba,1
 1,language,119,Boki,7,NG,com,Comorian,1
 1,language,119,Boki,7,NG,dbd,Dabida,1
 1,language,119,Boki,7,NG,dma,Duma,1
 1,language,119,Boki,7,NG,dng,Ding,1
-1,language,119,Boki,7,NG,dok,Doko,1
 1,language,119,Boki,7,NG,dua,Duala,1
 1,language,119,Boki,7,NG,eja,Ejagham,1
 1,language,119,Boki,7,NG,eko,Ekoti,1
 1,language,119,Boki,7,NG,eny,Enya,1
 1,language,119,Boki,7,NG,ewo,Ewondo,1
 1,language,119,Boki,7,NG,fef,Fe'fe',1
-1,language,119,Boki,7,NG,fio,Fiote,1
 1,language,119,Boki,7,NG,gun,Gunu,1
 1,language,119,Boki,7,NG,gus,Gusii,1
 1,language,119,Boki,7,NG,heh,Hehe,1
@@ -276,7 +251,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,119,Boki,7,NG,kmi,Kami,1
 1,language,119,Boki,7,NG,kon,Kongo,1
 1,language,119,Boki,7,NG,kou,Kom,1
-1,language,119,Boki,7,NG,krg,Karanga,1
 1,language,119,Boki,7,NG,kte,Kete,1
 1,language,119,Boki,7,NG,kwn,Kwangali,1
 1,language,119,Boki,7,NG,kwy,Iwoyo,1
@@ -319,7 +293,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,119,Boki,7,NG,nde,Nande,1
 1,language,119,Boki,7,NG,ndo,Ndonga,1
 1,language,119,Boki,7,NG,ndu,Ndumu,1
-1,language,119,Boki,7,NG,nge,Ngemba,1
 1,language,119,Boki,7,NG,ngo,Ngoni,1
 1,language,119,Boki,7,NG,nke,Nkem,1
 1,language,119,Boki,7,NG,nko,Nkore-Kiga,1
@@ -371,8 +344,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,119,Boki,7,NG,yem,Yemba,1
 1,language,119,Boki,7,NG,yey,Yeyi,1
 1,language,119,Boki,7,NG,yns,Yansi,1
-1,language,119,Boki,7,NG,zno,Zulu (Northern),1
-1,language,119,Boki,7,NG,zso,Zulu (Southern),1
 1,language,119,Boki,7,NG,zul,Zulu,1
 1,language,120,Igbira,7,NG,ebi,Ebira,1
 1,language,121,Ikpon,7,NG,,,
@@ -406,7 +377,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,143,Akassa,7,NG,ijo,Ijo (Kolokuma),1
 1,language,145,Berieberi,7,NG,knr,Kanuri,1
 1,language,146,Fulani,7,NG,fgo,Fulani (Gombe),1
-1,language,146,Fulani,7,NG,fua,Fula (Cameroonian),1
 1,language,147,Kagoro,7,NG,gwo,Gworok,1
 1,language,148,Bekwarr,7,NG,agh,Aghem,1
 1,language,148,Bekwarr,7,NG,aka,Aka,1
@@ -419,7 +389,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,148,Bekwarr,7,NG,bfi,Bafia,1
 1,language,148,Bekwarr,7,NG,bga,Benga,1
 1,language,148,Bekwarr,7,NG,bia,Bira,1
-1,language,148,Bekwarr,7,NG,bkn,Bakundu,1
 1,language,148,Bekwarr,7,NG,bku,Bakueri,1
 1,language,148,Bekwarr,7,NG,blu,Bena-Lulua,1
 1,language,148,Bekwarr,7,NG,bmn,Bamun,1
@@ -433,19 +402,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,148,Bekwarr,7,NG,buw,Bulu,1
 1,language,148,Bekwarr,7,NG,cga,Chaga,1
 1,language,148,Bekwarr,7,NG,cic,Chichewa,1
-1,language,148,Bekwarr,7,NG,cil,CiLuba,1
 1,language,148,Bekwarr,7,NG,com,Comorian,1
 1,language,148,Bekwarr,7,NG,dbd,Dabida,1
 1,language,148,Bekwarr,7,NG,dma,Duma,1
 1,language,148,Bekwarr,7,NG,dng,Ding,1
-1,language,148,Bekwarr,7,NG,dok,Doko,1
 1,language,148,Bekwarr,7,NG,dua,Duala,1
 1,language,148,Bekwarr,7,NG,eja,Ejagham,1
 1,language,148,Bekwarr,7,NG,eko,Ekoti,1
 1,language,148,Bekwarr,7,NG,eny,Enya,1
 1,language,148,Bekwarr,7,NG,ewo,Ewondo,1
 1,language,148,Bekwarr,7,NG,fef,Fe'fe',1
-1,language,148,Bekwarr,7,NG,fio,Fiote,1
 1,language,148,Bekwarr,7,NG,gun,Gunu,1
 1,language,148,Bekwarr,7,NG,gus,Gusii,1
 1,language,148,Bekwarr,7,NG,heh,Hehe,1
@@ -467,7 +433,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,148,Bekwarr,7,NG,kmi,Kami,1
 1,language,148,Bekwarr,7,NG,kon,Kongo,1
 1,language,148,Bekwarr,7,NG,kou,Kom,1
-1,language,148,Bekwarr,7,NG,krg,Karanga,1
 1,language,148,Bekwarr,7,NG,kte,Kete,1
 1,language,148,Bekwarr,7,NG,kwn,Kwangali,1
 1,language,148,Bekwarr,7,NG,kwy,Iwoyo,1
@@ -510,7 +475,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,148,Bekwarr,7,NG,nde,Nande,1
 1,language,148,Bekwarr,7,NG,ndo,Ndonga,1
 1,language,148,Bekwarr,7,NG,ndu,Ndumu,1
-1,language,148,Bekwarr,7,NG,nge,Ngemba,1
 1,language,148,Bekwarr,7,NG,ngo,Ngoni,1
 1,language,148,Bekwarr,7,NG,nke,Nkem,1
 1,language,148,Bekwarr,7,NG,nko,Nkore-Kiga,1
@@ -562,8 +526,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,148,Bekwarr,7,NG,yem,Yemba,1
 1,language,148,Bekwarr,7,NG,yey,Yeyi,1
 1,language,148,Bekwarr,7,NG,yns,Yansi,1
-1,language,148,Bekwarr,7,NG,zno,Zulu (Northern),1
-1,language,148,Bekwarr,7,NG,zso,Zulu (Southern),1
 1,language,148,Bekwarr,7,NG,zul,Zulu,1
 1,language,149,Nkwana,7,NG,,,
 1,language,150,Babur,7,NG,bpa,Bura-Pabir,1
@@ -616,14 +578,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,181,Waja,7,NG,dgb,Dagbani,1
 1,language,181,Waja,7,NG,grm,Gurma,1
 1,language,181,Waja,7,NG,grn,Gurenne,1
-1,language,181,Waja,7,NG,gut,Gurma (Togo),1
 1,language,181,Waja,7,NG,kby,Kabiyé,1
 1,language,181,Waja,7,NG,kfe,Koromfe,1
 1,language,181,Waja,7,NG,kir,Kirma,1
 1,language,181,Waja,7,NG,kkb,Konkomba,1
 1,language,181,Waja,7,NG,kni,Konni,1
 1,language,181,Waja,7,NG,kow,Ko (Winye),1
-1,language,181,Waja,7,NG,ksm,Kasem,1
 1,language,181,Waja,7,NG,lob,Lobi,1
 1,language,181,Waja,7,NG,lye,Lyele,1
 1,language,181,Waja,7,NG,mmp,Mampruli,1
@@ -639,7 +599,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,181,Waja,7,NG,xsm,Kàsim,1
 1,language,182,Jukun,7,NG,juk,Jukun,1
 1,language,183,Bayam,7,NG,gbk,Gbaya Kara,1
-1,language,184,Shuwa Arab,7,NG,abb,Arabic (Abbéché Chad),1
 1,language,184,Shuwa Arab,7,NG,arn,Arabic (Borno Nigerian),1
 1,language,185,Ndochi,7,NG,,,
 1,language,186,Kare Kare,7,NG,blq,Bole,1
@@ -647,7 +606,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 1,language,188,Rukuba,7,NG,mdz,Mada (in Nigeria),1
 1,language,189,Alur,10,UG,luo,Luo,1
 1,language,190,Ateso,10,UG,tes,Teso,1
-1,language,191,Kakwa,10,UG,bar,Bari,1
 1,language,191,Kakwa,10,UG,kuk,Kukú,1
 1,language,192,Kinyarwanda,10,UG,kin,Kinyarwanda,1
 1,language,193,Kiswahili,10,UG,swa,Swahili,1
@@ -729,7 +687,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q110,73,Samia-Lugwe,10,UG,luy,Luyia,1
 2,q110,81,Emakhuwa,15,MZ,mua,Makua,1
 2,q110,82,Cisena,15,MZ,sen,Sena,1
-2,q110,83,Cindau,15,MZ,krg,Karanga,1
 2,q110,83,Cindau,15,MZ,shn,Shona,1
 2,q110,84,Cinyanja,15,MZ,cic,Chichewa,1
 2,q110,85,Xichangana,15,MZ,tsn,Tsonga,1
@@ -745,8 +702,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q110,86,Cicopi,15,MZ,tsw,Tswana,1
 2,q110,86,Cicopi,15,MZ,ven,Venda,1
 2,q110,86,Cicopi,15,MZ,xho,Xhosa,1
-2,q110,86,Cicopi,15,MZ,zno,Zulu (Northern),1
-2,q110,86,Cicopi,15,MZ,zso,Zulu (Southern),1
 2,q110,86,Cicopi,15,MZ,zul,Zulu,1
 2,q110,87,Gitonga,15,MZ,eko,Ekoti,1
 2,q110,87,Gitonga,15,MZ,loz,Lozi,1
@@ -760,8 +715,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q110,87,Gitonga,15,MZ,tsw,Tswana,1
 2,q110,87,Gitonga,15,MZ,ven,Venda,1
 2,q110,87,Gitonga,15,MZ,xho,Xhosa,1
-2,q110,87,Gitonga,15,MZ,zno,Zulu (Northern),1
-2,q110,87,Gitonga,15,MZ,zso,Zulu (Southern),1
 2,q110,87,Gitonga,15,MZ,zul,Zulu,1
 2,q110,88,Shimakonde,15,MZ,mkd,Makonde,1
 2,q110,89,Echuwabu,15,MZ,eko,Ekoti,1
@@ -770,9 +723,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q110,91,Cinyungwe,15,MZ,sen,Sena,1
 2,q110,92,Citshwa,15,MZ,rga,Ronga,1
 2,q110,92,Citshwa,15,MZ,tsn,Tsonga,1
-2,q110,93,Chitewe,15,MZ,krg,Karanga,1
 2,q110,93,Chitewe,15,MZ,shn,Shona,1
-2,q110,98,Shona,15,MZ,krg,Karanga,1
 2,q110,98,Shona,15,MZ,shn,Shona,1
 2,q110,100,Afrikaans,8,ZA,afr,Afrikaans,1
 2,q110,101,Ndebele,8,ZA,ndb,Ndebele (in South Africa),1
@@ -782,8 +733,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q110,105,Setswana/Tswana,8,ZA,tsw,Tswana,1
 2,q110,106,Shangaan,8,ZA,tsn,Tsonga,1
 2,q110,108,Venda,8,ZA,ven,Venda,1
-2,q110,109,Zulu,8,ZA,zno,Zulu (Northern),1
-2,q110,109,Zulu,8,ZA,zso,Zulu (Southern),1
 2,q110,109,Zulu,8,ZA,zul,Zulu,1
 2,q110,120,Akan,2,GH,akn,Akan,1
 2,q110,121,Dagbani,2,GH,dgb,Dagbani,1
@@ -802,27 +751,19 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q110,167,Sonrhai,5,ML,zar,Zarma,1
 2,q110,168,Malinke,5,ML,maw,Maninka (Western),1
 2,q110,168,Malinke,5,ML,mdk,Mandinka,1
-2,q110,168,Malinke,5,ML,mkg,Mandinka (Gambian),1
 2,q110,168,Malinke,5,ML,xas,Xasonga,1
 2,q110,177,Tamasheq,5,ML,tai,Tuareg (Air),1
-2,q110,177,Tamasheq,5,ML,tgh,Tuareg (Ghat),1
 2,q110,177,Tamasheq,5,ML,tsk,Tamashek,1
-2,q110,177,Tamasheq,5,ML,tug,Tuareg (Ahaggar),1
 2,q110,180,Sesotho,3,LS,ses,Sesotho,1
 2,q110,220,Wolof,16,SN,wlf,Wolof,1
 2,q110,221,Serer,16,SN,fbf,Fula (Burkina Faso),1
 2,q110,221,Serer,16,SN,fgo,Fulani (Gombe),1
 2,q110,221,Serer,16,SN,fgu,Fula (Guinean),1
-2,q110,221,Serer,16,SN,fli,Ful (Liptako),1
 2,q110,221,Serer,16,SN,fma,Fula (Mauritanian),1
 2,q110,221,Serer,16,SN,fni,Fula (Nigerian),1
-2,q110,221,Serer,16,SN,fua,Fula (Cameroonian),1
 2,q110,221,Serer,16,SN,fum,Fulfulde (Maasina),1
-2,q110,221,Serer,16,SN,fus,Fula (Senegal),1
 2,q110,222,Mandinka,16,SN,mdk,Mandinka,1
-2,q110,222,Mandinka,16,SN,mkg,Mandinka (Gambian),1
 2,q110,223,Pulaar,16,SN,fma,Fula (Mauritanian),1
-2,q110,223,Pulaar,16,SN,fus,Fula (Senegal),1
 2,q110,224,Diola,16,SN,dio,Diola-Fogny,1
 2,q110,240,Setswana,1,BW,tsw,Tswana,1
 2,q110,242,Sekalanga,1,BW,klz,Kalanga,1
@@ -840,16 +781,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q110,271,Urhobo,7,NG,urh,Urhobo,1
 2,q110,272,Ebira,7,NG,ebi,Ebira,1
 2,q110,273,Fulani,7,NG,fgo,Fulani (Gombe),1
-2,q110,273,Fulani,7,NG,fua,Fula (Cameroonian),1
 2,q110,275,Kalabari,7,NG,ijo,Ijo (Kolokuma),1
 2,q110,276,Ikewere,7,NG,igb,Igbo,1
 2,q110,276,Ikewere,7,NG,izi,Izi,1
-2,q110,280,Shona,12,ZW,krg,Karanga,1
 2,q110,280,Shona,12,ZW,shn,Shona,1
 2,q110,281,Ndebele,12,ZW,swt,Swati,1
 2,q110,281,Ndebele,12,ZW,xho,Xhosa,1
-2,q110,281,Ndebele,12,ZW,zno,Zulu (Northern),1
-2,q110,281,Ndebele,12,ZW,zso,Zulu (Southern),1
 2,q110,281,Ndebele,12,ZW,zul,Zulu,1
 2,q110,300,Bemba,11,ZM,lmb,Lamba,1
 2,q110,302,kaonda,11,ZM,kil,Kiluba,1
@@ -948,14 +885,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,73,Samia-Lugwe,10,UG,luy,Luyia,1
 2,q83,74,Kinyarwanda,10,UG,kin,Kinyarwanda,1
 2,q83,75,Rufumbira,10,UG,kin,Kinyarwanda,1
-2,q83,76,Kakwa,10,UG,bar,Bari,1
 2,q83,76,Kakwa,10,UG,kuk,Kukú,1
 2,q83,77,Other Western languages,10,UG,,,
 2,q83,78,Other Eastern languages,10,UG,,,
 2,q83,79,Other Northern languages,10,UG,,,
 2,q83,81,Emakhuwa,15,MZ,mua,Makua,1
 2,q83,82,Cisena,15,MZ,sen,Sena,1
-2,q83,83,Cindau,15,MZ,krg,Karanga,1
 2,q83,83,Cindau,15,MZ,shn,Shona,1
 2,q83,84,Cinyanja,15,MZ,cic,Chichewa,1
 2,q83,85,Xichangana,15,MZ,tsn,Tsonga,1
@@ -971,8 +906,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,86,Cicopi,15,MZ,tsw,Tswana,1
 2,q83,86,Cicopi,15,MZ,ven,Venda,1
 2,q83,86,Cicopi,15,MZ,xho,Xhosa,1
-2,q83,86,Cicopi,15,MZ,zno,Zulu (Northern),1
-2,q83,86,Cicopi,15,MZ,zso,Zulu (Southern),1
 2,q83,86,Cicopi,15,MZ,zul,Zulu,1
 2,q83,87,Gitonga,15,MZ,eko,Ekoti,1
 2,q83,87,Gitonga,15,MZ,loz,Lozi,1
@@ -986,8 +919,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,87,Gitonga,15,MZ,tsw,Tswana,1
 2,q83,87,Gitonga,15,MZ,ven,Venda,1
 2,q83,87,Gitonga,15,MZ,xho,Xhosa,1
-2,q83,87,Gitonga,15,MZ,zno,Zulu (Northern),1
-2,q83,87,Gitonga,15,MZ,zso,Zulu (Southern),1
 2,q83,87,Gitonga,15,MZ,zul,Zulu,1
 2,q83,88,Shimakonde,15,MZ,mkd,Makonde,1
 2,q83,89,Echuwabu,15,MZ,eko,Ekoti,1
@@ -996,14 +927,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,91,Cinyungwe,15,MZ,sen,Sena,1
 2,q83,92,Citshwa,15,MZ,rga,Ronga,1
 2,q83,92,Citshwa,15,MZ,tsn,Tsonga,1
-2,q83,93,Chitewe,15,MZ,krg,Karanga,1
 2,q83,93,Chitewe,15,MZ,shn,Shona,1
 2,q83,94,Xirhonga,15,MZ,rga,Ronga,1
 2,q83,95,Xibarue,15,MZ,sen,Sena,1
-2,q83,96,Cimanyika,15,MZ,krg,Karanga,1
 2,q83,96,Cimanyika,15,MZ,shn,Shona,1
 2,q83,97,Chichewa,15,MZ,cic,Chichewa,1
-2,q83,98,Shona,15,MZ,krg,Karanga,1
 2,q83,98,Shona,15,MZ,shn,Shona,1
 2,q83,99,Swazi,15,MZ,swt,Swati,1
 2,q83,100,Afrikaans,8,ZA,afr,Afrikaans,1
@@ -1015,8 +943,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,106,Shangaan,8,ZA,tsn,Tsonga,1
 2,q83,107,Swazi,8,ZA,swt,Swati,1
 2,q83,108,Venda,8,ZA,ven,Venda,1
-2,q83,109,Zulu,8,ZA,zno,Zulu (Northern),1
-2,q83,109,Zulu,8,ZA,zso,Zulu (Southern),1
 2,q83,109,Zulu,8,ZA,zul,Zulu,1
 2,q83,120,Akan,2,GH,akn,Akan,1
 2,q83,121,Dagbani,2,GH,dgb,Dagbani,1
@@ -1045,12 +971,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,163,Trouka,5,ML,fbf,Fula (Burkina Faso),1
 2,q83,163,Trouka,5,ML,fgo,Fulani (Gombe),1
 2,q83,163,Trouka,5,ML,fgu,Fula (Guinean),1
-2,q83,163,Trouka,5,ML,fli,Ful (Liptako),1
 2,q83,163,Trouka,5,ML,fma,Fula (Mauritanian),1
 2,q83,163,Trouka,5,ML,fni,Fula (Nigerian),1
-2,q83,163,Trouka,5,ML,fua,Fula (Cameroonian),1
 2,q83,163,Trouka,5,ML,fum,Fulfulde (Maasina),1
-2,q83,163,Trouka,5,ML,fus,Fula (Senegal),1
 2,q83,164,Bambara,5,ML,bam,Bambara,1
 2,q83,165,Peuhl,5,ML,fum,Fulfulde (Maasina),1
 2,q83,166,Soninke,5,ML,snn,Soninke,1
@@ -1058,7 +981,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,167,Sonrhai,5,ML,zar,Zarma,1
 2,q83,168,Malinke,5,ML,maw,Maninka (Western),1
 2,q83,168,Malinke,5,ML,mdk,Mandinka,1
-2,q83,168,Malinke,5,ML,mkg,Mandinka (Gambian),1
 2,q83,168,Malinke,5,ML,xas,Xasonga,1
 2,q83,169,Khassonke,5,ML,xas,Xasonga,1
 2,q83,170,Maure,5,ML,ahs,Arabic (Bani-Hassan),1
@@ -1074,9 +996,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,176,Dogon,5,ML,jms,Jamsay,0
 2,q83,176,Dogon,5,ML,tms,Tommo So,0
 2,q83,177,Tamasheq,5,ML,tai,Tuareg (Air),1
-2,q83,177,Tamasheq,5,ML,tgh,Tuareg (Ghat),1
 2,q83,177,Tamasheq,5,ML,tsk,Tamashek,1
-2,q83,177,Tamasheq,5,ML,tug,Tuareg (Ahaggar),1
 2,q83,178,Mossi,5,ML,moo,Mooré,1
 2,q83,180,Sesotho,3,LS,ses,Sesotho,1
 2,q83,182,Seputhi,3,LS,swt,Swati,1
@@ -1096,16 +1016,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,221,Serer,16,SN,fbf,Fula (Burkina Faso),1
 2,q83,221,Serer,16,SN,fgo,Fulani (Gombe),1
 2,q83,221,Serer,16,SN,fgu,Fula (Guinean),1
-2,q83,221,Serer,16,SN,fli,Ful (Liptako),1
 2,q83,221,Serer,16,SN,fma,Fula (Mauritanian),1
 2,q83,221,Serer,16,SN,fni,Fula (Nigerian),1
-2,q83,221,Serer,16,SN,fua,Fula (Cameroonian),1
 2,q83,221,Serer,16,SN,fum,Fulfulde (Maasina),1
-2,q83,221,Serer,16,SN,fus,Fula (Senegal),1
 2,q83,222,Mandinka,16,SN,mdk,Mandinka,1
-2,q83,222,Mandinka,16,SN,mkg,Mandinka (Gambian),1
 2,q83,223,Pulaar,16,SN,fma,Fula (Mauritanian),1
-2,q83,223,Pulaar,16,SN,fus,Fula (Senegal),1
 2,q83,224,Diola,16,SN,dio,Diola-Fogny,1
 2,q83,225,Soninke,16,SN,snn,Soninke,1
 2,q83,240,Setswana,1,BW,tsw,Tswana,1
@@ -1121,11 +1036,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,246,Sembukushu,1,BW,bob,Bobangi,1
 2,q83,246,Sembukushu,1,BW,bol,Bolia,1
 2,q83,246,Sembukushu,1,BW,bsh,Bushoong,1
-2,q83,246,Sembukushu,1,BW,cil,CiLuba,1
 2,q83,246,Sembukushu,1,BW,dma,Duma,1
 2,q83,246,Sembukushu,1,BW,dng,Ding,1
-2,q83,246,Sembukushu,1,BW,dok,Doko,1
-2,q83,246,Sembukushu,1,BW,fio,Fiote,1
 2,q83,246,Sembukushu,1,BW,hem,Hemba,1
 2,q83,246,Sembukushu,1,BW,her,Herero,1
 2,q83,246,Sembukushu,1,BW,ifm,Ifumu,1
@@ -1175,7 +1087,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,271,Urhobo,7,NG,urh,Urhobo,1
 2,q83,272,Ebira,7,NG,ebi,Ebira,1
 2,q83,273,Fulani,7,NG,fgo,Fulani (Gombe),1
-2,q83,273,Fulani,7,NG,fua,Fula (Cameroonian),1
 2,q83,274,Isoko,7,NG,iso,Isoko,1
 2,q83,275,kalabari,7,NG,ijo,Ijo (Kolokuma),1
 2,q83,276,Ikewere,7,NG,igb,Igbo,1
@@ -1186,12 +1097,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,278,Sidawa,7,NG,ngz,Ngizim,1
 2,q83,278,Sidawa,7,NG,paa,Pa'a,1
 2,q83,279,Pidgin English,7,NG,npi,Nigerian Pidgin,0
-2,q83,280,Shona,12,ZW,krg,Karanga,1
 2,q83,280,Shona,12,ZW,shn,Shona,1
 2,q83,281,Ndebele,12,ZW,swt,Swati,1
 2,q83,281,Ndebele,12,ZW,xho,Xhosa,1
-2,q83,281,Ndebele,12,ZW,zno,Zulu (Northern),1
-2,q83,281,Ndebele,12,ZW,zso,Zulu (Southern),1
 2,q83,281,Ndebele,12,ZW,zul,Zulu,1
 2,q83,282,Venda,12,ZW,ven,Venda,1
 2,q83,283,Tonga,12,ZW,toz,Tonga (in Zambia),0
@@ -1229,11 +1137,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,323,kavango languages,6,NA,bob,Bobangi,1
 2,q83,323,kavango languages,6,NA,bol,Bolia,1
 2,q83,323,kavango languages,6,NA,bsh,Bushoong,1
-2,q83,323,kavango languages,6,NA,cil,CiLuba,1
 2,q83,323,kavango languages,6,NA,dma,Duma,1
 2,q83,323,kavango languages,6,NA,dng,Ding,1
-2,q83,323,kavango languages,6,NA,dok,Doko,1
-2,q83,323,kavango languages,6,NA,fio,Fiote,1
 2,q83,323,kavango languages,6,NA,hem,Hemba,1
 2,q83,323,kavango languages,6,NA,her,Herero,1
 2,q83,323,kavango languages,6,NA,ifm,Ifumu,1
@@ -1299,10 +1204,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q83,443,Luchazi,11,ZM,luc,Lucazi,1
 2,q83,444,Aushi,11,ZM,lmb,Lamba,1
 2,q83,445,Chishinga,11,ZM,lmb,Lamba,1
-2,q83,446,Goba,11,ZM,krg,Karanga,1
 2,q83,446,Goba,11,ZM,shn,Shona,1
 2,q83,447,Nkoya,11,ZM,blu,Bena-Lulua,1
-2,q83,447,Nkoya,11,ZM,cil,CiLuba,1
 2,q83,447,Nkoya,11,ZM,hem,Hemba,1
 2,q83,447,Nkoya,11,ZM,kil,Kiluba,1
 2,q83,447,Nkoya,11,ZM,kyo,Kanyok,1
@@ -1373,12 +1276,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q97,71,Runyoro,10,UG,rru,Runyoro-Rutooro,1
 2,q97,72,Rukonjo,10,UG,nde,Nande,1
 2,q97,73,Samia-Lugwe,10,UG,luy,Luyia,1
-2,q97,76,Kakwa,10,UG,bar,Bari,1
 2,q97,76,Kakwa,10,UG,kuk,Kukú,1
 2,q97,80,National language,15,MZ,por,Portuguese,1
 2,q97,81,Emakhuwa,15,MZ,mua,Makua,1
 2,q97,82,Cisena,15,MZ,sen,Sena,1
-2,q97,83,Cindau,15,MZ,krg,Karanga,1
 2,q97,83,Cindau,15,MZ,shn,Shona,1
 2,q97,84,Cinyanja,15,MZ,cic,Chichewa,1
 2,q97,85,Xichangana,15,MZ,tsn,Tsonga,1
@@ -1394,8 +1295,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q97,86,Cicopi,15,MZ,tsw,Tswana,1
 2,q97,86,Cicopi,15,MZ,ven,Venda,1
 2,q97,86,Cicopi,15,MZ,xho,Xhosa,1
-2,q97,86,Cicopi,15,MZ,zno,Zulu (Northern),1
-2,q97,86,Cicopi,15,MZ,zso,Zulu (Southern),1
 2,q97,86,Cicopi,15,MZ,zul,Zulu,1
 2,q97,87,Gitonga,15,MZ,eko,Ekoti,1
 2,q97,87,Gitonga,15,MZ,loz,Lozi,1
@@ -1409,8 +1308,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q97,87,Gitonga,15,MZ,tsw,Tswana,1
 2,q97,87,Gitonga,15,MZ,ven,Venda,1
 2,q97,87,Gitonga,15,MZ,xho,Xhosa,1
-2,q97,87,Gitonga,15,MZ,zno,Zulu (Northern),1
-2,q97,87,Gitonga,15,MZ,zso,Zulu (Southern),1
 2,q97,87,Gitonga,15,MZ,zul,Zulu,1
 2,q97,88,Shimakonde,15,MZ,mkd,Makonde,1
 2,q97,89,Echuwabu,15,MZ,eko,Ekoti,1
@@ -1419,14 +1316,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q97,91,Cinyungwe,15,MZ,sen,Sena,1
 2,q97,92,Citshwa,15,MZ,rga,Ronga,1
 2,q97,92,Citshwa,15,MZ,tsn,Tsonga,1
-2,q97,93,Chitewe,15,MZ,krg,Karanga,1
 2,q97,93,Chitewe,15,MZ,shn,Shona,1
 2,q97,94,Xirhonga,15,MZ,rga,Ronga,1
 2,q97,95,Xibarue,15,MZ,sen,Sena,1
-2,q97,96,Cimanyika,15,MZ,krg,Karanga,1
 2,q97,96,Cimanyika,15,MZ,shn,Shona,1
 2,q97,97,Chichewa,15,MZ,cic,Chichewa,1
-2,q97,98,Shona,15,MZ,krg,Karanga,1
 2,q97,98,Shona,15,MZ,shn,Shona,1
 2,q97,100,Afrikaans,8,ZA,afr,Afrikaans,1
 2,q97,101,Ndebele,8,ZA,ndb,Ndebele (in South Africa),1
@@ -1437,8 +1331,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q97,106,Shangaan,8,ZA,tsn,Tsonga,1
 2,q97,107,Swazi,8,ZA,swt,Swati,1
 2,q97,108,Venda,8,ZA,ven,Venda,1
-2,q97,109,Zulu,8,ZA,zno,Zulu (Northern),1
-2,q97,109,Zulu,8,ZA,zso,Zulu (Southern),1
 2,q97,109,Zulu,8,ZA,zul,Zulu,1
 2,q97,120,Akan,2,GH,akn,Akan,1
 2,q97,121,Dagbani,2,GH,dgb,Dagbani,1
@@ -1457,7 +1349,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q97,167,Sonrhai,5,ML,zar,Zarma,1
 2,q97,168,Malinke,5,ML,maw,Maninka (Western),1
 2,q97,168,Malinke,5,ML,mdk,Mandinka,1
-2,q97,168,Malinke,5,ML,mkg,Mandinka (Gambian),1
 2,q97,168,Malinke,5,ML,xas,Xasonga,1
 2,q97,169,Khassonke,5,ML,xas,Xasonga,1
 2,q97,171,Senufo,5,ML,nrg,Nanerge,1
@@ -1469,24 +1360,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q97,176,Dogon,5,ML,jms,Jamsay,0
 2,q97,176,Dogon,5,ML,tms,Tommo So,0
 2,q97,177,Tamasheq,5,ML,tai,Tuareg (Air),1
-2,q97,177,Tamasheq,5,ML,tgh,Tuareg (Ghat),1
 2,q97,177,Tamasheq,5,ML,tsk,Tamashek,1
-2,q97,177,Tamasheq,5,ML,tug,Tuareg (Ahaggar),1
 2,q97,180,Sesotho,3,LS,ses,Sesotho,1
 2,q97,220,Wolof,16,SN,wlf,Wolof,1
 2,q97,221,Serer,16,SN,fbf,Fula (Burkina Faso),1
 2,q97,221,Serer,16,SN,fgo,Fulani (Gombe),1
 2,q97,221,Serer,16,SN,fgu,Fula (Guinean),1
-2,q97,221,Serer,16,SN,fli,Ful (Liptako),1
 2,q97,221,Serer,16,SN,fma,Fula (Mauritanian),1
 2,q97,221,Serer,16,SN,fni,Fula (Nigerian),1
-2,q97,221,Serer,16,SN,fua,Fula (Cameroonian),1
 2,q97,221,Serer,16,SN,fum,Fulfulde (Maasina),1
-2,q97,221,Serer,16,SN,fus,Fula (Senegal),1
 2,q97,222,Mandinka,16,SN,mdk,Mandinka,1
-2,q97,222,Mandinka,16,SN,mkg,Mandinka (Gambian),1
 2,q97,223,Pulaar,16,SN,fma,Fula (Mauritanian),1
-2,q97,223,Pulaar,16,SN,fus,Fula (Senegal),1
 2,q97,224,Diola,16,SN,dio,Diola-Fogny,1
 2,q97,225,Soninke,16,SN,snn,Soninke,1
 2,q97,240,Setswana,1,BW,tsw,Tswana,1
@@ -1505,15 +1389,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 2,q97,271,Urhobo,7,NG,urh,Urhobo,1
 2,q97,272,Ebira,7,NG,ebi,Ebira,1
 2,q97,273,Fulani,7,NG,fgo,Fulani (Gombe),1
-2,q97,273,Fulani,7,NG,fua,Fula (Cameroonian),1
 2,q97,277,Gwari,7,NG,gwa,Gwari,1
 2,q97,279,Pidgin English,7,NG,npi,Nigerian Pidgin,0
-2,q97,280,Shona,12,ZW,krg,Karanga,1
 2,q97,280,Shona,12,ZW,shn,Shona,1
 2,q97,281,Ndebele,12,ZW,swt,Swati,1
 2,q97,281,Ndebele,12,ZW,xho,Xhosa,1
-2,q97,281,Ndebele,12,ZW,zno,Zulu (Northern),1
-2,q97,281,Ndebele,12,ZW,zso,Zulu (Southern),1
 2,q97,281,Ndebele,12,ZW,zul,Zulu,1
 2,q97,300,Bemba,11,ZM,lmb,Lamba,1
 2,q97,301,Chewa,11,ZM,cic,Chichewa,1
@@ -1598,8 +1478,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q103,106,Shangaan,14,ZA,tsn,Tsonga,1
 3,q103,107,Swazi,14,ZA,swt,Swati,1
 3,q103,108,Venda,14,ZA,ven,Venda,1
-3,q103,109,Zulu,14,ZA,zno,Zulu (Northern),1
-3,q103,109,Zulu,14,ZA,zso,Zulu (Southern),1
 3,q103,109,Zulu,14,ZA,zul,Zulu,1
 3,q103,110,English + Afrikaans,14,ZA,eng,English,1
 3,q103,111,English + Ndebele,14,ZA,eng,English,1
@@ -1618,15 +1496,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q103,126,Peulh,1,BJ,fbf,Fula (Burkina Faso),1
 3,q103,126,Peulh,1,BJ,fgo,Fulani (Gombe),1
 3,q103,126,Peulh,1,BJ,fgu,Fula (Guinean),1
-3,q103,126,Peulh,1,BJ,fli,Ful (Liptako),1
 3,q103,126,Peulh,1,BJ,fma,Fula (Mauritanian),1
 3,q103,126,Peulh,1,BJ,fni,Fula (Nigerian),1
-3,q103,126,Peulh,1,BJ,fua,Fula (Cameroonian),1
 3,q103,126,Peulh,1,BJ,fum,Fulfulde (Maasina),1
-3,q103,126,Peulh,1,BJ,fus,Fula (Senegal),1
 3,q103,127,Yoa,1,BJ,bmb,Bimoba,1
 3,q103,127,Yoa,1,BJ,grm,Gurma,1
-3,q103,127,Yoa,1,BJ,gut,Gurma (Togo),1
 3,q103,127,Yoa,1,BJ,kkb,Konkomba,1
 3,q103,127,Yoa,1,BJ,ncm,Ncàm,1
 3,q103,140,Setswana,2,BW,tsw,Tswana,1
@@ -1673,7 +1547,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q103,285,Sonink,9,ML,snn,Soninke,1
 3,q103,286,Malink,9,ML,maw,Maninka (Western),1
 3,q103,286,Malink,9,ML,mdk,Mandinka,1
-3,q103,286,Malink,9,ML,mkg,Mandinka (Gambian),1
 3,q103,286,Malink,9,ML,xas,Xasonga,1
 3,q103,287,Khasonk,9,ML,xas,Xasonga,1
 3,q103,288,Dogon,9,ML,dds,Donno So,0
@@ -1684,19 +1557,15 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q103,292,Maure,9,ML,ahs,Arabic (Bani-Hassan),1
 3,q103,293,Kakolo,9,ML,maw,Maninka (Western),1
 3,q103,293,Kakolo,9,ML,mdk,Mandinka,1
-3,q103,293,Kakolo,9,ML,mkg,Mandinka (Gambian),1
 3,q103,293,Kakolo,9,ML,xas,Xasonga,1
 3,q103,294,Samoko,9,ML,bbf,Bobo Madaré (Northern),1
 3,q103,295,Sonrha,9,ML,kse,Koyraboro Senni,1
 3,q103,295,Sonrha,9,ML,zar,Zarma,1
 3,q103,296,Bella,9,ML,kse,Koyraboro Senni,1
 3,q103,297,Tamasheq,9,ML,tai,Tuareg (Air),1
-3,q103,297,Tamasheq,9,ML,tgh,Tuareg (Ghat),1
 3,q103,297,Tamasheq,9,ML,tsk,Tamashek,1
-3,q103,297,Tamasheq,9,ML,tug,Tuareg (Ahaggar),1
 3,q103,300,Makua,10,MZ,mua,Makua,1
 3,q103,301,Sena,10,MZ,sen,Sena,1
-3,q103,302,Ndau,10,MZ,krg,Karanga,1
 3,q103,302,Ndau,10,MZ,shn,Shona,1
 3,q103,303,Nyanja,10,MZ,cic,Chichewa,1
 3,q103,304,Changana,10,MZ,tsn,Tsonga,1
@@ -1712,8 +1581,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q103,305,Chope,10,MZ,tsw,Tswana,1
 3,q103,305,Chope,10,MZ,ven,Venda,1
 3,q103,305,Chope,10,MZ,xho,Xhosa,1
-3,q103,305,Chope,10,MZ,zno,Zulu (Northern),1
-3,q103,305,Chope,10,MZ,zso,Zulu (Southern),1
 3,q103,305,Chope,10,MZ,zul,Zulu,1
 3,q103,306,Bitonga,10,MZ,eko,Ekoti,1
 3,q103,306,Bitonga,10,MZ,loz,Lozi,1
@@ -1727,15 +1594,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q103,306,Bitonga,10,MZ,tsw,Tswana,1
 3,q103,306,Bitonga,10,MZ,ven,Venda,1
 3,q103,306,Bitonga,10,MZ,xho,Xhosa,1
-3,q103,306,Bitonga,10,MZ,zno,Zulu (Northern),1
-3,q103,306,Bitonga,10,MZ,zso,Zulu (Southern),1
 3,q103,306,Bitonga,10,MZ,zul,Zulu,1
 3,q103,307,Makonde,10,MZ,mkd,Makonde,1
 3,q103,308,Chuabo,10,MZ,eko,Ekoti,1
 3,q103,308,Chuabo,10,MZ,mua,Makua,1
 3,q103,309,Ajua,10,MZ,yao,Yao (in Malawi),1
 3,q103,310,Quimuane,10,MZ,swa,Swahili,1
-3,q103,312,Nhungue,10,MZ,krg,Karanga,1
 3,q103,312,Nhungue,10,MZ,shn,Shona,1
 3,q103,320,Nama/Damara,11,NA,kho,Khoekhoe,1
 3,q103,321,Afrikaans,11,NA,afr,Afrikaans,1
@@ -1753,11 +1617,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q103,331,Mbukushu/Thimbukushu,11,NA,bob,Bobangi,1
 3,q103,331,Mbukushu/Thimbukushu,11,NA,bol,Bolia,1
 3,q103,331,Mbukushu/Thimbukushu,11,NA,bsh,Bushoong,1
-3,q103,331,Mbukushu/Thimbukushu,11,NA,cil,CiLuba,1
 3,q103,331,Mbukushu/Thimbukushu,11,NA,dma,Duma,1
 3,q103,331,Mbukushu/Thimbukushu,11,NA,dng,Ding,1
-3,q103,331,Mbukushu/Thimbukushu,11,NA,dok,Doko,1
-3,q103,331,Mbukushu/Thimbukushu,11,NA,fio,Fiote,1
 3,q103,331,Mbukushu/Thimbukushu,11,NA,hem,Hemba,1
 3,q103,331,Mbukushu/Thimbukushu,11,NA,her,Herero,1
 3,q103,331,Mbukushu/Thimbukushu,11,NA,ifm,Ifumu,1
@@ -1808,14 +1669,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q103,362,Serer,13,SN,fbf,Fula (Burkina Faso),1
 3,q103,362,Serer,13,SN,fgo,Fulani (Gombe),1
 3,q103,362,Serer,13,SN,fgu,Fula (Guinean),1
-3,q103,362,Serer,13,SN,fli,Ful (Liptako),1
 3,q103,362,Serer,13,SN,fma,Fula (Mauritanian),1
 3,q103,362,Serer,13,SN,fni,Fula (Nigerian),1
-3,q103,362,Serer,13,SN,fua,Fula (Cameroonian),1
 3,q103,362,Serer,13,SN,fum,Fulfulde (Maasina),1
-3,q103,362,Serer,13,SN,fus,Fula (Senegal),1
 3,q103,363,Mandinka,13,SN,mdk,Mandinka,1
-3,q103,363,Mandinka,13,SN,mkg,Mandinka (Gambian),1
 3,q103,364,Sonike,13,SN,snn,Soninke,1
 3,q103,365,Diola,13,SN,dio,Diola-Fogny,1
 3,q103,366,Manjack,13,SN,mjk,Manjaku,1
@@ -1836,10 +1693,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q103,423,Lozi,17,ZM,loz,Lozi,1
 3,q103,440,Ndebele,18,ZW,swt,Swati,1
 3,q103,440,Ndebele,18,ZW,xho,Xhosa,1
-3,q103,440,Ndebele,18,ZW,zno,Zulu (Northern),1
-3,q103,440,Ndebele,18,ZW,zso,Zulu (Southern),1
 3,q103,440,Ndebele,18,ZW,zul,Zulu,1
-3,q103,441,Shona,18,ZW,krg,Karanga,1
 3,q103,441,Shona,18,ZW,shn,Shona,1
 3,q103,501,Rufumbia,16,UG,kin,Kinyarwanda,1
 3,q103,506,Runyoro - Rutooro,16,UG,rru,Runyoro-Rutooro,1
@@ -1865,8 +1719,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q114,105,Setswana/ Tswana,14,ZA,tsw,Tswana,1
 3,q114,106,Shangaan,14,ZA,tsn,Tsonga,1
 3,q114,108,Venda,14,ZA,ven,Venda,1
-3,q114,109,Zulu,14,ZA,zno,Zulu (Northern),1
-3,q114,109,Zulu,14,ZA,zso,Zulu (Southern),1
 3,q114,109,Zulu,14,ZA,zul,Zulu,1
 3,q114,120,Fon,1,BJ,fon,Fongbe,1
 3,q114,121,Adja,1,BJ,ajg,Ajagbe,1
@@ -1910,7 +1762,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q114,285,Soninké,9,ML,snn,Soninke,1
 3,q114,286,Malinké,9,ML,maw,Maninka (Western),1
 3,q114,286,Malinké,9,ML,mdk,Mandinka,1
-3,q114,286,Malinké,9,ML,mkg,Mandinka (Gambian),1
 3,q114,286,Malinké,9,ML,xas,Xasonga,1
 3,q114,288,Dogon,9,ML,dds,Donno So,0
 3,q114,288,Dogon,9,ML,dts,Toro So,0
@@ -1918,12 +1769,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q114,288,Dogon,9,ML,tms,Tommo So,0
 3,q114,289,Bobo,9,ML,kfe,Koromfe,0
 3,q114,297,Tamasheq,9,ML,tai,Tuareg (Air),1
-3,q114,297,Tamasheq,9,ML,tgh,Tuareg (Ghat),1
 3,q114,297,Tamasheq,9,ML,tsk,Tamashek,1
-3,q114,297,Tamasheq,9,ML,tug,Tuareg (Ahaggar),1
 3,q114,300,Makua,10,MZ,mua,Makua,1
 3,q114,301,Sena,10,MZ,sen,Sena,1
-3,q114,302,Ndau,10,MZ,krg,Karanga,1
 3,q114,302,Ndau,10,MZ,shn,Shona,1
 3,q114,303,Nyanja,10,MZ,cic,Chichewa,1
 3,q114,304,Changana,10,MZ,tsn,Tsonga,1
@@ -1939,8 +1787,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q114,305,Chope,10,MZ,tsw,Tswana,1
 3,q114,305,Chope,10,MZ,ven,Venda,1
 3,q114,305,Chope,10,MZ,xho,Xhosa,1
-3,q114,305,Chope,10,MZ,zno,Zulu (Northern),1
-3,q114,305,Chope,10,MZ,zso,Zulu (Southern),1
 3,q114,305,Chope,10,MZ,zul,Zulu,1
 3,q114,306,Bitonga,10,MZ,eko,Ekoti,1
 3,q114,306,Bitonga,10,MZ,loz,Lozi,1
@@ -1954,8 +1800,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q114,306,Bitonga,10,MZ,tsw,Tswana,1
 3,q114,306,Bitonga,10,MZ,ven,Venda,1
 3,q114,306,Bitonga,10,MZ,xho,Xhosa,1
-3,q114,306,Bitonga,10,MZ,zno,Zulu (Northern),1
-3,q114,306,Bitonga,10,MZ,zso,Zulu (Southern),1
 3,q114,306,Bitonga,10,MZ,zul,Zulu,1
 3,q114,308,Chuabo,10,MZ,eko,Ekoti,1
 3,q114,308,Chuabo,10,MZ,mua,Makua,1
@@ -1971,7 +1815,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q114,344,Efik,12,NG,efi,Efik,1
 3,q114,345,Ebira,12,NG,ebi,Ebira,1
 3,q114,346,Fulani,12,NG,fgo,Fulani (Gombe),1
-3,q114,346,Fulani,12,NG,fua,Fula (Cameroonian),1
 3,q114,348,Ibibio,12,NG,ibi,Ibibio,1
 3,q114,350,Tiv,12,NG,tiv,Tiv,1
 3,q114,351,Nupe,12,NG,nup,Nupe,1
@@ -2006,10 +1849,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q114,428,Luvale,17,ZM,luv,Luvale,1
 3,q114,440,Ndebele,18,ZW,swt,Swati,1
 3,q114,440,Ndebele,18,ZW,xho,Xhosa,1
-3,q114,440,Ndebele,18,ZW,zno,Zulu (Northern),1
-3,q114,440,Ndebele,18,ZW,zso,Zulu (Southern),1
 3,q114,440,Ndebele,18,ZW,zul,Zulu,1
-3,q114,441,Shona,18,ZW,krg,Karanga,1
 3,q114,441,Shona,18,ZW,shn,Shona,1
 3,q114,503,Rukiga,16,UG,nko,Nkore-Kiga,1
 3,q114,506,Runyoro - Rutooro,16,UG,rru,Runyoro-Rutooro,1
@@ -2059,8 +1899,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,106,Shangaan,14,ZA,tsn,Tsonga,1
 3,q3,107,Swazi,14,ZA,swt,Swati,1
 3,q3,108,Venda,14,ZA,ven,Venda,1
-3,q3,109,Zulu,14,ZA,zno,Zulu (Northern),1
-3,q3,109,Zulu,14,ZA,zso,Zulu (Southern),1
 3,q3,109,Zulu,14,ZA,zul,Zulu,1
 3,q3,120,Fon,1,BJ,fon,Fongbe,1
 3,q3,121,Adja,1,BJ,ajg,Ajagbe,1
@@ -2071,15 +1909,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,126,Peulh,1,BJ,fbf,Fula (Burkina Faso),1
 3,q3,126,Peulh,1,BJ,fgo,Fulani (Gombe),1
 3,q3,126,Peulh,1,BJ,fgu,Fula (Guinean),1
-3,q3,126,Peulh,1,BJ,fli,Ful (Liptako),1
 3,q3,126,Peulh,1,BJ,fma,Fula (Mauritanian),1
 3,q3,126,Peulh,1,BJ,fni,Fula (Nigerian),1
-3,q3,126,Peulh,1,BJ,fua,Fula (Cameroonian),1
 3,q3,126,Peulh,1,BJ,fum,Fulfulde (Maasina),1
-3,q3,126,Peulh,1,BJ,fus,Fula (Senegal),1
 3,q3,127,Yom,1,BJ,bmb,Bimoba,1
 3,q3,127,Yom,1,BJ,grm,Gurma,1
-3,q3,127,Yom,1,BJ,gut,Gurma (Togo),1
 3,q3,127,Yom,1,BJ,kkb,Konkomba,1
 3,q3,127,Yom,1,BJ,ncm,Ncàm,1
 3,q3,128,Haoussa,1,BJ,hau,Hausa,1
@@ -2098,11 +1932,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,146,Sembukushu,2,BW,bob,Bobangi,1
 3,q3,146,Sembukushu,2,BW,bol,Bolia,1
 3,q3,146,Sembukushu,2,BW,bsh,Bushoong,1
-3,q3,146,Sembukushu,2,BW,cil,CiLuba,1
 3,q3,146,Sembukushu,2,BW,dma,Duma,1
 3,q3,146,Sembukushu,2,BW,dng,Ding,1
-3,q3,146,Sembukushu,2,BW,dok,Doko,1
-3,q3,146,Sembukushu,2,BW,fio,Fiote,1
 3,q3,146,Sembukushu,2,BW,hem,Hemba,1
 3,q3,146,Sembukushu,2,BW,her,Herero,1
 3,q3,146,Sembukushu,2,BW,ifm,Ifumu,1
@@ -2201,7 +2032,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,285,Sonink,9,ML,snn,Soninke,1
 3,q3,286,Malink,9,ML,maw,Maninka (Western),1
 3,q3,286,Malink,9,ML,mdk,Mandinka,1
-3,q3,286,Malink,9,ML,mkg,Mandinka (Gambian),1
 3,q3,286,Malink,9,ML,xas,Xasonga,1
 3,q3,287,Khasonk,9,ML,xas,Xasonga,1
 3,q3,288,Dogon,9,ML,dds,Donno So,0
@@ -2214,23 +2044,19 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,292,Maure,9,ML,ahs,Arabic (Bani-Hassan),1
 3,q3,293,Kakolo,9,ML,maw,Maninka (Western),1
 3,q3,293,Kakolo,9,ML,mdk,Mandinka,1
-3,q3,293,Kakolo,9,ML,mkg,Mandinka (Gambian),1
 3,q3,293,Kakolo,9,ML,xas,Xasonga,1
 3,q3,294,Samoko,9,ML,bbf,Bobo Madaré (Northern),1
 3,q3,295,Sonrha,9,ML,kse,Koyraboro Senni,1
 3,q3,295,Sonrha,9,ML,zar,Zarma,1
 3,q3,296,Bella,9,ML,kse,Koyraboro Senni,1
 3,q3,297,Tamasheq,9,ML,tai,Tuareg (Air),1
-3,q3,297,Tamasheq,9,ML,tgh,Tuareg (Ghat),1
 3,q3,297,Tamasheq,9,ML,tsk,Tamashek,1
-3,q3,297,Tamasheq,9,ML,tug,Tuareg (Ahaggar),1
 3,q3,298,Dafing,9,ML,bam,Bambara,1
 3,q3,298,Dafing,9,ML,dyu,Dyula,1
 3,q3,298,Dafing,9,ML,mka,Mauka,1
 3,q3,298,Dafing,9,ML,mnk,Maninka,1
 3,q3,300,Makua,10,MZ,mua,Makua,1
 3,q3,301,Sena,10,MZ,sen,Sena,1
-3,q3,302,Ndau,10,MZ,krg,Karanga,1
 3,q3,302,Ndau,10,MZ,shn,Shona,1
 3,q3,303,Nyanja,10,MZ,cic,Chichewa,1
 3,q3,304,Changana,10,MZ,tsn,Tsonga,1
@@ -2246,8 +2072,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,305,Chope,10,MZ,tsw,Tswana,1
 3,q3,305,Chope,10,MZ,ven,Venda,1
 3,q3,305,Chope,10,MZ,xho,Xhosa,1
-3,q3,305,Chope,10,MZ,zno,Zulu (Northern),1
-3,q3,305,Chope,10,MZ,zso,Zulu (Southern),1
 3,q3,305,Chope,10,MZ,zul,Zulu,1
 3,q3,306,Bitonga,10,MZ,eko,Ekoti,1
 3,q3,306,Bitonga,10,MZ,loz,Lozi,1
@@ -2261,8 +2085,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,306,Bitonga,10,MZ,tsw,Tswana,1
 3,q3,306,Bitonga,10,MZ,ven,Venda,1
 3,q3,306,Bitonga,10,MZ,xho,Xhosa,1
-3,q3,306,Bitonga,10,MZ,zno,Zulu (Northern),1
-3,q3,306,Bitonga,10,MZ,zso,Zulu (Southern),1
 3,q3,306,Bitonga,10,MZ,zul,Zulu,1
 3,q3,307,Makonde,10,MZ,mkd,Makonde,1
 3,q3,308,Chuabo,10,MZ,eko,Ekoti,1
@@ -2270,7 +2092,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,309,Ajua,10,MZ,yao,Yao (in Malawi),1
 3,q3,310,Quimuane,10,MZ,swa,Swahili,1
 3,q3,311,Muaui,10,MZ,swa,Swahili,1
-3,q3,312,Nhungue,10,MZ,krg,Karanga,1
 3,q3,312,Nhungue,10,MZ,shn,Shona,1
 3,q3,320,Nama/Damara,11,NA,kho,Khoekhoe,1
 3,q3,321,Afrikaans,11,NA,afr,Afrikaans,1
@@ -2291,11 +2112,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,331,Other Kavango:Thimbukushu,11,NA,bob,Bobangi,1
 3,q3,331,Other Kavango:Thimbukushu,11,NA,bol,Bolia,1
 3,q3,331,Other Kavango:Thimbukushu,11,NA,bsh,Bushoong,1
-3,q3,331,Other Kavango:Thimbukushu,11,NA,cil,CiLuba,1
 3,q3,331,Other Kavango:Thimbukushu,11,NA,dma,Duma,1
 3,q3,331,Other Kavango:Thimbukushu,11,NA,dng,Ding,1
-3,q3,331,Other Kavango:Thimbukushu,11,NA,dok,Doko,1
-3,q3,331,Other Kavango:Thimbukushu,11,NA,fio,Fiote,1
 3,q3,331,Other Kavango:Thimbukushu,11,NA,hem,Hemba,1
 3,q3,331,Other Kavango:Thimbukushu,11,NA,her,Herero,1
 3,q3,331,Other Kavango:Thimbukushu,11,NA,ifm,Ifumu,1
@@ -2332,8 +2150,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,332,Other Kavango:Rugririku,11,NA,kwn,Kwangali,1
 3,q3,338,Ndebele,11,NA,swt,Swati,1
 3,q3,338,Ndebele,11,NA,xho,Xhosa,1
-3,q3,338,Ndebele,11,NA,zno,Zulu (Northern),1
-3,q3,338,Ndebele,11,NA,zso,Zulu (Southern),1
 3,q3,338,Ndebele,11,NA,zul,Zulu,1
 3,q3,340,Hausa,12,NG,hau,Hausa,1
 3,q3,341,Igbo,12,NG,igb,Igbo,1
@@ -2342,7 +2158,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,344,Efik,12,NG,efi,Efik,1
 3,q3,345,Ebira,12,NG,ebi,Ebira,1
 3,q3,346,Fulani,12,NG,fgo,Fulani (Gombe),1
-3,q3,346,Fulani,12,NG,fua,Fula (Cameroonian),1
 3,q3,347,Isoko,12,NG,iso,Isoko,1
 3,q3,348,Ibibio,12,NG,ibi,Ibibio,1
 3,q3,349,Kanuri,12,NG,knr,Kanuri,1
@@ -2364,14 +2179,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,362,Serer,13,SN,fbf,Fula (Burkina Faso),1
 3,q3,362,Serer,13,SN,fgo,Fulani (Gombe),1
 3,q3,362,Serer,13,SN,fgu,Fula (Guinean),1
-3,q3,362,Serer,13,SN,fli,Ful (Liptako),1
 3,q3,362,Serer,13,SN,fma,Fula (Mauritanian),1
 3,q3,362,Serer,13,SN,fni,Fula (Nigerian),1
-3,q3,362,Serer,13,SN,fua,Fula (Cameroonian),1
 3,q3,362,Serer,13,SN,fum,Fulfulde (Maasina),1
-3,q3,362,Serer,13,SN,fus,Fula (Senegal),1
 3,q3,363,Mandinka,13,SN,mdk,Mandinka,1
-3,q3,363,Mandinka,13,SN,mkg,Mandinka (Gambian),1
 3,q3,364,Sonike,13,SN,snn,Soninke,1
 3,q3,365,Diola,13,SN,dio,Diola-Fogny,1
 3,q3,366,Manjack,13,SN,mjk,Manjaku,1
@@ -2381,12 +2192,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,368,Bainouk,13,SN,fbf,Fula (Burkina Faso),1
 3,q3,368,Bainouk,13,SN,fgo,Fulani (Gombe),1
 3,q3,368,Bainouk,13,SN,fgu,Fula (Guinean),1
-3,q3,368,Bainouk,13,SN,fli,Ful (Liptako),1
 3,q3,368,Bainouk,13,SN,fma,Fula (Mauritanian),1
 3,q3,368,Bainouk,13,SN,fni,Fula (Nigerian),1
-3,q3,368,Bainouk,13,SN,fua,Fula (Cameroonian),1
 3,q3,368,Bainouk,13,SN,fum,Fulfulde (Maasina),1
-3,q3,368,Bainouk,13,SN,fus,Fula (Senegal),1
 3,q3,368,Bainouk,13,SN,kgi,Konyagi,1
 3,q3,368,Bainouk,13,SN,ndt,Ndut,1
 3,q3,368,Bainouk,13,SN,noo,Noon,1
@@ -2423,7 +2231,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,407,Ateso,16,UG,tes,Teso,1
 3,q3,408,Japadhola,16,UG,luo,Luo,1
 3,q3,409,Jonam,16,UG,luo,Luo,1
-3,q3,410,Kakwa,16,UG,bar,Bari,1
 3,q3,410,Kakwa,16,UG,kuk,Kukú,1
 3,q3,411,Kumam,16,UG,lan,Lango,1
 3,q3,412,Kuksabin,16,UG,seb,Sebei,1
@@ -2459,10 +2266,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,439,Ngoni,17,ZM,nse,Nsenga,1
 3,q3,440,Ndebele,18,ZW,swt,Swati,1
 3,q3,440,Ndebele,18,ZW,xho,Xhosa,1
-3,q3,440,Ndebele,18,ZW,zno,Zulu (Northern),1
-3,q3,440,Ndebele,18,ZW,zso,Zulu (Southern),1
 3,q3,440,Ndebele,18,ZW,zul,Zulu,1
-3,q3,441,Shona,18,ZW,krg,Karanga,1
 3,q3,441,Shona,18,ZW,shn,Shona,1
 3,q3,443,Kalanga,18,ZW,klz,Kalanga,1
 3,q3,444,Tonga,18,ZW,toz,Tonga (in Zambia),0
@@ -2499,7 +2303,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,556,Boki,12,NG,bfi,Bafia,1
 3,q3,556,Boki,12,NG,bga,Benga,1
 3,q3,556,Boki,12,NG,bia,Bira,1
-3,q3,556,Boki,12,NG,bkn,Bakundu,1
 3,q3,556,Boki,12,NG,bku,Bakueri,1
 3,q3,556,Boki,12,NG,blu,Bena-Lulua,1
 3,q3,556,Boki,12,NG,bmn,Bamun,1
@@ -2513,19 +2316,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,556,Boki,12,NG,buw,Bulu,1
 3,q3,556,Boki,12,NG,cga,Chaga,1
 3,q3,556,Boki,12,NG,cic,Chichewa,1
-3,q3,556,Boki,12,NG,cil,CiLuba,1
 3,q3,556,Boki,12,NG,com,Comorian,1
 3,q3,556,Boki,12,NG,dbd,Dabida,1
 3,q3,556,Boki,12,NG,dma,Duma,1
 3,q3,556,Boki,12,NG,dng,Ding,1
-3,q3,556,Boki,12,NG,dok,Doko,1
 3,q3,556,Boki,12,NG,dua,Duala,1
 3,q3,556,Boki,12,NG,eja,Ejagham,1
 3,q3,556,Boki,12,NG,eko,Ekoti,1
 3,q3,556,Boki,12,NG,eny,Enya,1
 3,q3,556,Boki,12,NG,ewo,Ewondo,1
 3,q3,556,Boki,12,NG,fef,Fe'fe',1
-3,q3,556,Boki,12,NG,fio,Fiote,1
 3,q3,556,Boki,12,NG,gun,Gunu,1
 3,q3,556,Boki,12,NG,gus,Gusii,1
 3,q3,556,Boki,12,NG,heh,Hehe,1
@@ -2547,7 +2347,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,556,Boki,12,NG,kmi,Kami,1
 3,q3,556,Boki,12,NG,kon,Kongo,1
 3,q3,556,Boki,12,NG,kou,Kom,1
-3,q3,556,Boki,12,NG,krg,Karanga,1
 3,q3,556,Boki,12,NG,kte,Kete,1
 3,q3,556,Boki,12,NG,kwn,Kwangali,1
 3,q3,556,Boki,12,NG,kwy,Iwoyo,1
@@ -2590,7 +2389,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,556,Boki,12,NG,nde,Nande,1
 3,q3,556,Boki,12,NG,ndo,Ndonga,1
 3,q3,556,Boki,12,NG,ndu,Ndumu,1
-3,q3,556,Boki,12,NG,nge,Ngemba,1
 3,q3,556,Boki,12,NG,ngo,Ngoni,1
 3,q3,556,Boki,12,NG,nke,Nkem,1
 3,q3,556,Boki,12,NG,nko,Nkore-Kiga,1
@@ -2642,8 +2440,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,556,Boki,12,NG,yem,Yemba,1
 3,q3,556,Boki,12,NG,yey,Yeyi,1
 3,q3,556,Boki,12,NG,yns,Yansi,1
-3,q3,556,Boki,12,NG,zno,Zulu (Northern),1
-3,q3,556,Boki,12,NG,zso,Zulu (Southern),1
 3,q3,556,Boki,12,NG,zul,Zulu,1
 3,q3,557,Yakurr,12,NG,agb,Leggbó,1
 3,q3,558,Esan,12,NG,bni,Bini,1
@@ -2690,11 +2486,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 3,q3,864,Kwamashi,17,ZM,bob,Bobangi,1
 3,q3,864,Kwamashi,17,ZM,bol,Bolia,1
 3,q3,864,Kwamashi,17,ZM,bsh,Bushoong,1
-3,q3,864,Kwamashi,17,ZM,cil,CiLuba,1
 3,q3,864,Kwamashi,17,ZM,dma,Duma,1
 3,q3,864,Kwamashi,17,ZM,dng,Ding,1
-3,q3,864,Kwamashi,17,ZM,dok,Doko,1
-3,q3,864,Kwamashi,17,ZM,fio,Fiote,1
 3,q3,864,Kwamashi,17,ZM,hem,Hemba,1
 3,q3,864,Kwamashi,17,ZM,her,Herero,1
 3,q3,864,Kwamashi,17,ZM,ifm,Ifumu,1
@@ -2779,7 +2572,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q103,182,Moore,3,BF,moo,Mooré,1
 4,Q103,183,Dioula,3,BF,dyu,Dyula,1
 4,Q103,184,Fulfude,3,BF,fbf,Fula (Burkina Faso),1
-4,Q103,184,Fulfude,3,BF,fli,Ful (Liptako),1
 4,Q103,220,Crioulo,4,CV,ago,Angolar,0
 4,Q103,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0
 4,Q103,220,Crioulo,4,CV,pri,Príncipense,0
@@ -2811,12 +2603,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q103,515,Sonrhai,11,ML,kse,Koyraboro Senni,1
 4,Q103,515,Sonrhai,11,ML,zar,Zarma,1
 4,Q103,516,Tamasheq,11,ML,tai,Tuareg (Air),1
-4,Q103,516,Tamasheq,11,ML,tgh,Tuareg (Ghat),1
 4,Q103,516,Tamasheq,11,ML,tsk,Tamashek,1
-4,Q103,516,Tamasheq,11,ML,tug,Tuareg (Ahaggar),1
 4,Q103,541,Makua,12,MZ,mua,Makua,1
 4,Q103,542,Sena,12,MZ,sen,Sena,1
-4,Q103,543,Ndau,12,MZ,krg,Karanga,1
 4,Q103,543,Ndau,12,MZ,shn,Shona,1
 4,Q103,545,Changana,12,MZ,tsn,Tsonga,1
 4,Q103,547,Bitonga,12,MZ,eko,Ekoti,1
@@ -2831,17 +2620,13 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q103,547,Bitonga,12,MZ,tsw,Tswana,1
 4,Q103,547,Bitonga,12,MZ,ven,Venda,1
 4,Q103,547,Bitonga,12,MZ,xho,Xhosa,1
-4,Q103,547,Bitonga,12,MZ,zno,Zulu (Northern),1
-4,Q103,547,Bitonga,12,MZ,zso,Zulu (Southern),1
 4,Q103,547,Bitonga,12,MZ,zul,Zulu,1
 4,Q103,548,Makonde,12,MZ,mkd,Makonde,1
 4,Q103,549,Chuabo,12,MZ,eko,Ekoti,1
 4,Q103,549,Chuabo,12,MZ,mua,Makua,1
 4,Q103,553,Coti,12,MZ,eko,Ekoti,1
 4,Q103,555,Lomwe,12,MZ,mua,Makua,1
-4,Q103,559,Shona,12,MZ,krg,Karanga,1
 4,Q103,559,Shona,12,MZ,shn,Shona,1
-4,Q103,561,Tewe,12,MZ,krg,Karanga,1
 4,Q103,561,Tewe,12,MZ,shn,Shona,1
 4,Q103,580,Afrikaans,13,NA,afr,Afrikaans,1
 4,Q103,583,Oshiwambo,13,NA,mhu,Mbalanhu,1
@@ -2854,22 +2639,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q103,623,Pidgin English,14,NG,npi,Nigerian Pidgin,0
 4,Q103,660,Wolof,15,SN,wlf,Wolof,1
 4,Q103,661,Pulaar/Toucouleur,15,SN,fma,Fula (Mauritanian),1
-4,Q103,661,Pulaar/Toucouleur,15,SN,fus,Fula (Senegal),1
 4,Q103,662,Serer,15,SN,fbf,Fula (Burkina Faso),1
 4,Q103,662,Serer,15,SN,fgo,Fulani (Gombe),1
 4,Q103,662,Serer,15,SN,fgu,Fula (Guinean),1
-4,Q103,662,Serer,15,SN,fli,Ful (Liptako),1
 4,Q103,662,Serer,15,SN,fma,Fula (Mauritanian),1
 4,Q103,662,Serer,15,SN,fni,Fula (Nigerian),1
-4,Q103,662,Serer,15,SN,fua,Fula (Cameroonian),1
 4,Q103,662,Serer,15,SN,fum,Fulfulde (Maasina),1
-4,Q103,662,Serer,15,SN,fus,Fula (Senegal),1
 4,Q103,663,Mandinka/Bambara,15,SN,bam,Bambara,1
 4,Q103,663,Mandinka/Bambara,15,SN,dyu,Dyula,1
 4,Q103,663,Mandinka/Bambara,15,SN,maw,Maninka (Western),1
 4,Q103,663,Mandinka/Bambara,15,SN,mdk,Mandinka,1
 4,Q103,663,Mandinka/Bambara,15,SN,mka,Mauka,1
-4,Q103,663,Mandinka/Bambara,15,SN,mkg,Mandinka (Gambian),1
 4,Q103,663,Mandinka/Bambara,15,SN,mnk,Maninka,1
 4,Q103,663,Mandinka/Bambara,15,SN,xas,Xasonga,1
 4,Q103,665,Diola,15,SN,dio,Diola-Fogny,1
@@ -2882,8 +2662,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q103,706,Shangaan,16,ZA,tsn,Tsonga,1
 4,Q103,707,Swazi,16,ZA,swt,Swati,1
 4,Q103,708,Venda,16,ZA,ven,Venda,1
-4,Q103,709,Zulu,16,ZA,zno,Zulu (Northern),1
-4,Q103,709,Zulu,16,ZA,zso,Zulu (Southern),1
 4,Q103,709,Zulu,16,ZA,zul,Zulu,1
 4,Q103,780,Luganda,18,UG,lda,Luganda,1
 4,Q103,781,Runyankole,18,UG,rny,Runyankore,1
@@ -2900,10 +2678,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q103,827,Kaonde,19,ZM,kil,Kiluba,1
 4,Q103,860,Ndebele,20,ZW,swt,Swati,1
 4,Q103,860,Ndebele,20,ZW,xho,Xhosa,1
-4,Q103,860,Ndebele,20,ZW,zno,Zulu (Northern),1
-4,Q103,860,Ndebele,20,ZW,zso,Zulu (Southern),1
 4,Q103,860,Ndebele,20,ZW,zul,Zulu,1
-4,Q103,861,Shona,20,ZW,krg,Karanga,1
 4,Q103,861,Shona,20,ZW,shn,Shona,1
 4,Q103,995,Others,5,GH,,,
 4,Q114,1,English,8,LR,eng,English,1
@@ -2929,7 +2704,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q114,182,Moore,3,BF,moo,Mooré,1
 4,Q114,183,Dioula,3,BF,dyu,Dyula,1
 4,Q114,184,Fulfude,3,BF,fbf,Fula (Burkina Faso),1
-4,Q114,184,Fulfude,3,BF,fli,Ful (Liptako),1
 4,Q114,186,Gourounsi,3,BF,grn,Gurenne,1
 4,Q114,220,Crioulo,4,CV,ago,Angolar,0
 4,Q114,220,Crioulo,4,CV,gbc,Guinea Bissau Crioulo,0
@@ -2956,10 +2730,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q114,309,Taita,6,KE,dbd,Dabida,1
 4,Q114,310,Somali,6,KE,som,Somali,1
 4,Q114,340,Sesotho,7,LS,ses,Sesotho,1
-4,Q114,381,Belle,8,LR,aiz,Aizi,1
 4,Q114,381,Belle,8,LR,bet,Bété,1
 4,Q114,381,Belle,8,LR,ddj,Dadjriwalé,1
-4,Q114,381,Belle,8,LR,gdi,Godié,1
 4,Q114,381,Belle,8,LR,grb,Grebo,1
 4,Q114,381,Belle,8,LR,gue,Guere,1
 4,Q114,381,Belle,8,LR,kla,Klao,1
@@ -2993,7 +2765,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q114,506,Dogon,11,ML,tms,Tommo So,0
 4,Q114,509,Malinke,11,ML,maw,Maninka (Western),1
 4,Q114,509,Malinke,11,ML,mdk,Mandinka,1
-4,Q114,509,Malinke,11,ML,mkg,Mandinka (Gambian),1
 4,Q114,509,Malinke,11,ML,xas,Xasonga,1
 4,Q114,512,Peulh/ Fulfulde,11,ML,fum,Fulfulde (Maasina),1
 4,Q114,513,Senufo/ Mianka,11,ML,nrg,Nanerge,1
@@ -3002,12 +2773,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q114,515,Sonrhai,11,ML,kse,Koyraboro Senni,1
 4,Q114,515,Sonrhai,11,ML,zar,Zarma,1
 4,Q114,516,Tamasheq,11,ML,tai,Tuareg (Air),1
-4,Q114,516,Tamasheq,11,ML,tgh,Tuareg (Ghat),1
 4,Q114,516,Tamasheq,11,ML,tsk,Tamashek,1
-4,Q114,516,Tamasheq,11,ML,tug,Tuareg (Ahaggar),1
 4,Q114,541,Makua,12,MZ,mua,Makua,1
 4,Q114,542,Sena,12,MZ,sen,Sena,1
-4,Q114,543,Ndau,12,MZ,krg,Karanga,1
 4,Q114,543,Ndau,12,MZ,shn,Shona,1
 4,Q114,545,Changana,12,MZ,tsn,Tsonga,1
 4,Q114,546,Chope,12,MZ,eko,Ekoti,1
@@ -3022,13 +2790,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q114,546,Chope,12,MZ,tsw,Tswana,1
 4,Q114,546,Chope,12,MZ,ven,Venda,1
 4,Q114,546,Chope,12,MZ,xho,Xhosa,1
-4,Q114,546,Chope,12,MZ,zno,Zulu (Northern),1
-4,Q114,546,Chope,12,MZ,zso,Zulu (Southern),1
 4,Q114,546,Chope,12,MZ,zul,Zulu,1
 4,Q114,548,Makonde,12,MZ,mkd,Makonde,1
 4,Q114,549,Chuabo,12,MZ,eko,Ekoti,1
 4,Q114,549,Chuabo,12,MZ,mua,Makua,1
-4,Q114,561,Tewe,12,MZ,krg,Karanga,1
 4,Q114,561,Tewe,12,MZ,shn,Shona,1
 4,Q114,582,Nama/Damara,13,NA,kho,Khoekhoe,1
 4,Q114,583,Oshiwambo,13,NA,mhu,Mbalanhu,1
@@ -3042,7 +2807,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q114,624,Efik,14,NG,efi,Efik,1
 4,Q114,625,Ebira,14,NG,ebi,Ebira,1
 4,Q114,626,Fulani,14,NG,fgo,Fulani (Gombe),1
-4,Q114,626,Fulani,14,NG,fua,Fula (Cameroonian),1
 4,Q114,628,Ibibio,14,NG,ibi,Ibibio,1
 4,Q114,629,Kanuri,14,NG,knr,Kanuri,1
 4,Q114,630,Tiv,14,NG,tiv,Tiv,1
@@ -3087,22 +2851,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q114,659,Jukun,14,NG,juk,Jukun,1
 4,Q114,660,Wolof,15,SN,wlf,Wolof,1
 4,Q114,661,Pulaar/Toucouleur,15,SN,fma,Fula (Mauritanian),1
-4,Q114,661,Pulaar/Toucouleur,15,SN,fus,Fula (Senegal),1
 4,Q114,662,Serer,15,SN,fbf,Fula (Burkina Faso),1
 4,Q114,662,Serer,15,SN,fgo,Fulani (Gombe),1
 4,Q114,662,Serer,15,SN,fgu,Fula (Guinean),1
-4,Q114,662,Serer,15,SN,fli,Ful (Liptako),1
 4,Q114,662,Serer,15,SN,fma,Fula (Mauritanian),1
 4,Q114,662,Serer,15,SN,fni,Fula (Nigerian),1
-4,Q114,662,Serer,15,SN,fua,Fula (Cameroonian),1
 4,Q114,662,Serer,15,SN,fum,Fulfulde (Maasina),1
-4,Q114,662,Serer,15,SN,fus,Fula (Senegal),1
 4,Q114,663,Mandinka/Bambara,15,SN,bam,Bambara,1
 4,Q114,663,Mandinka/Bambara,15,SN,dyu,Dyula,1
 4,Q114,663,Mandinka/Bambara,15,SN,maw,Maninka (Western),1
 4,Q114,663,Mandinka/Bambara,15,SN,mdk,Mandinka,1
 4,Q114,663,Mandinka/Bambara,15,SN,mka,Mauka,1
-4,Q114,663,Mandinka/Bambara,15,SN,mkg,Mandinka (Gambian),1
 4,Q114,663,Mandinka/Bambara,15,SN,mnk,Maninka,1
 4,Q114,663,Mandinka/Bambara,15,SN,xas,Xasonga,1
 4,Q114,665,Diola,15,SN,dio,Diola-Fogny,1
@@ -3115,8 +2874,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q114,706,Shangaan,16,ZA,tsn,Tsonga,1
 4,Q114,707,Swazi,16,ZA,swt,Swati,1
 4,Q114,708,Venda,16,ZA,ven,Venda,1
-4,Q114,709,Zulu,16,ZA,zno,Zulu (Northern),1
-4,Q114,709,Zulu,16,ZA,zso,Zulu (Southern),1
 4,Q114,709,Zulu,16,ZA,zul,Zulu,1
 4,Q114,740,Kinyakyusa,17,TZ,mmw,Mambwe,1
 4,Q114,740,Kinyakyusa,17,TZ,nyh,Nyiha,1
@@ -3139,7 +2896,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q114,795,Rukiga,18,UG,nko,Nkore-Kiga,1
 4,Q114,796,Rutooro,18,UG,rru,Runyoro-Rutooro,1
 4,Q114,797,Langi,18,UG,lan,Lango,1
-4,Q114,798,Kakwa,18,UG,bar,Bari,1
 4,Q114,798,Kakwa,18,UG,kuk,Kukú,1
 4,Q114,820,Bemba,19,ZM,lmb,Lamba,1
 4,Q114,821,Nyanja,19,ZM,cic,Chichewa,1
@@ -3156,10 +2912,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q114,846,Mbunda,19,ZM,luc,Lucazi,1
 4,Q114,860,Ndebele,20,ZW,swt,Swati,1
 4,Q114,860,Ndebele,20,ZW,xho,Xhosa,1
-4,Q114,860,Ndebele,20,ZW,zno,Zulu (Northern),1
-4,Q114,860,Ndebele,20,ZW,zso,Zulu (Southern),1
 4,Q114,860,Ndebele,20,ZW,zul,Zulu,1
-4,Q114,861,Shona,20,ZW,krg,Karanga,1
 4,Q114,861,Shona,20,ZW,shn,Shona,1
 4,Q114,863,Kalanga,20,ZW,klz,Kalanga,1
 4,Q114,865,Nambya,20,ZW,klz,Kalanga,1
@@ -3198,20 +2951,15 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,106,Peulh,1,BJ,fbf,Fula (Burkina Faso),1
 4,Q3,106,Peulh,1,BJ,fgo,Fulani (Gombe),1
 4,Q3,106,Peulh,1,BJ,fgu,Fula (Guinean),1
-4,Q3,106,Peulh,1,BJ,fli,Ful (Liptako),1
 4,Q3,106,Peulh,1,BJ,fma,Fula (Mauritanian),1
 4,Q3,106,Peulh,1,BJ,fni,Fula (Nigerian),1
-4,Q3,106,Peulh,1,BJ,fua,Fula (Cameroonian),1
 4,Q3,106,Peulh,1,BJ,fum,Fulfulde (Maasina),1
-4,Q3,106,Peulh,1,BJ,fus,Fula (Senegal),1
 4,Q3,107,Yoa,1,BJ,bmb,Bimoba,1
 4,Q3,107,Yoa,1,BJ,grm,Gurma,1
-4,Q3,107,Yoa,1,BJ,gut,Gurma (Togo),1
 4,Q3,107,Yoa,1,BJ,kkb,Konkomba,1
 4,Q3,107,Yoa,1,BJ,ncm,Ncàm,1
 4,Q3,108,Goun,1,BJ,guw,Gungbe,1
 4,Q3,109,Mina,1,BJ,ewa,Ewe (Anglo),1
-4,Q3,109,Mina,1,BJ,ewe,Ewe,1
 4,Q3,110,Idacha,1,BJ,yor,Yoruba,1
 4,Q3,111,Shabe,1,BJ,yor,Yoruba,1
 4,Q3,112,Warma,1,BJ,wwa,Waama,1
@@ -3228,11 +2976,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,146,Sembukushu,2,BW,bob,Bobangi,1
 4,Q3,146,Sembukushu,2,BW,bol,Bolia,1
 4,Q3,146,Sembukushu,2,BW,bsh,Bushoong,1
-4,Q3,146,Sembukushu,2,BW,cil,CiLuba,1
 4,Q3,146,Sembukushu,2,BW,dma,Duma,1
 4,Q3,146,Sembukushu,2,BW,dng,Ding,1
-4,Q3,146,Sembukushu,2,BW,dok,Doko,1
-4,Q3,146,Sembukushu,2,BW,fio,Fiote,1
 4,Q3,146,Sembukushu,2,BW,hem,Hemba,1
 4,Q3,146,Sembukushu,2,BW,her,Herero,1
 4,Q3,146,Sembukushu,2,BW,ifm,Ifumu,1
@@ -3273,9 +3018,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,182,Moore,3,BF,moo,Mooré,1
 4,Q3,183,Dioula,3,BF,dyu,Dyula,1
 4,Q3,184,Fulfude,3,BF,fbf,Fula (Burkina Faso),1
-4,Q3,184,Fulfude,3,BF,fli,Ful (Liptako),1
 4,Q3,185,Gulmacema,3,BF,grm,Gurma,1
-4,Q3,185,Gulmacema,3,BF,gut,Gurma (Togo),1
 4,Q3,186,Gourounsi,3,BF,grn,Gurenne,1
 4,Q3,187,Bobo,3,BF,bbf,Bobo Madaré (Northern),0
 4,Q3,188,Bissa,3,BF,bis,Bisa,1
@@ -3335,7 +3078,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,280,Mampruli,5,GH,mmp,Mampruli,1
 4,Q3,281,Talensi,5,GH,grn,Gurenne,1
 4,Q3,282,Bule,5,GH,buy,Buli (in Ghana),1
-4,Q3,283,Kasem,5,GH,ksm,Kasem,1
 4,Q3,283,Kasem,5,GH,xsm,Kàsim,1
 4,Q3,284,Brefo/Birfuo,5,GH,dga,Dagaare,1
 4,Q3,285,Basare,5,GH,ncm,Ncàm,1
@@ -3358,10 +3100,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,340,Sesotho,7,LS,ses,Sesotho,1
 4,Q3,342,Sethepu,7,LS,xho,Xhosa,1
 4,Q3,380,Bassa,8,LR,kla,Klao,0
-4,Q3,381,Belle,8,LR,aiz,Aizi,1
 4,Q3,381,Belle,8,LR,bet,Bété,1
 4,Q3,381,Belle,8,LR,ddj,Dadjriwalé,1
-4,Q3,381,Belle,8,LR,gdi,Godié,1
 4,Q3,381,Belle,8,LR,grb,Grebo,1
 4,Q3,381,Belle,8,LR,gue,Guere,1
 4,Q3,381,Belle,8,LR,kla,Klao,1
@@ -3369,7 +3109,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,381,Belle,8,LR,vat,Vata,1
 4,Q3,381,Belle,8,LR,wob,Wobe,1
 4,Q3,383,Gbandi,8,LR,bnd,Bandi,1
-4,Q3,384,Gio,8,LR,dan,Dan,1
 4,Q3,384,Gio,8,LR,dbw,Dan (Blowo),1
 4,Q3,385,Gola,8,LR,gol,Gola,1
 4,Q3,386,Grebo,8,LR,grb,Grebo,1
@@ -3423,7 +3162,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,508,Khassonke,11,ML,xas,Xasonga,1
 4,Q3,509,Malinke,11,ML,maw,Maninka (Western),1
 4,Q3,509,Malinke,11,ML,mdk,Mandinka,1
-4,Q3,509,Malinke,11,ML,mkg,Mandinka (Gambian),1
 4,Q3,509,Malinke,11,ML,xas,Xasonga,1
 4,Q3,510,Maure,11,ML,ahs,Arabic (Bani-Hassan),1
 4,Q3,511,Mossi,11,ML,moo,Mooré,1
@@ -3434,19 +3172,15 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,515,Sonrhai,11,ML,kse,Koyraboro Senni,1
 4,Q3,515,Sonrhai,11,ML,zar,Zarma,1
 4,Q3,516,Tamasheq,11,ML,tai,Tuareg (Air),1
-4,Q3,516,Tamasheq,11,ML,tgh,Tuareg (Ghat),1
 4,Q3,516,Tamasheq,11,ML,tsk,Tamashek,1
-4,Q3,516,Tamasheq,11,ML,tug,Tuareg (Ahaggar),1
 4,Q3,518,Haoussa,11,ML,hau,Hausa,1
 4,Q3,520,Kakolo,11,ML,maw,Maninka (Western),1
 4,Q3,520,Kakolo,11,ML,mdk,Mandinka,1
-4,Q3,520,Kakolo,11,ML,mkg,Mandinka (Gambian),1
 4,Q3,520,Kakolo,11,ML,xas,Xasonga,1
 4,Q3,522,Samogo,11,ML,bbf,Bobo Madaré (Northern),1
 4,Q3,525,Zerma,11,ML,zar,Zarma,1
 4,Q3,541,Makua,12,MZ,mua,Makua,1
 4,Q3,542,Sena,12,MZ,sen,Sena,1
-4,Q3,543,Ndau,12,MZ,krg,Karanga,1
 4,Q3,543,Ndau,12,MZ,shn,Shona,1
 4,Q3,544,Nyanja,12,MZ,cic,Chichewa,1
 4,Q3,545,Changana,12,MZ,tsn,Tsonga,1
@@ -3462,8 +3196,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,546,Chope,12,MZ,tsw,Tswana,1
 4,Q3,546,Chope,12,MZ,ven,Venda,1
 4,Q3,546,Chope,12,MZ,xho,Xhosa,1
-4,Q3,546,Chope,12,MZ,zno,Zulu (Northern),1
-4,Q3,546,Chope,12,MZ,zso,Zulu (Southern),1
 4,Q3,546,Chope,12,MZ,zul,Zulu,1
 4,Q3,547,Bitonga,12,MZ,eko,Ekoti,1
 4,Q3,547,Bitonga,12,MZ,loz,Lozi,1
@@ -3477,26 +3209,20 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,547,Bitonga,12,MZ,tsw,Tswana,1
 4,Q3,547,Bitonga,12,MZ,ven,Venda,1
 4,Q3,547,Bitonga,12,MZ,xho,Xhosa,1
-4,Q3,547,Bitonga,12,MZ,zno,Zulu (Northern),1
-4,Q3,547,Bitonga,12,MZ,zso,Zulu (Southern),1
 4,Q3,547,Bitonga,12,MZ,zul,Zulu,1
 4,Q3,548,Makonde,12,MZ,mkd,Makonde,1
 4,Q3,549,Chuabo,12,MZ,eko,Ekoti,1
 4,Q3,549,Chuabo,12,MZ,mua,Makua,1
 4,Q3,550,Ajua,12,MZ,yao,Yao (in Malawi),1
 4,Q3,551,Chewa,12,MZ,cic,Chichewa,1
-4,Q3,552,Chiute,12,MZ,krg,Karanga,1
 4,Q3,552,Chiute,12,MZ,shn,Shona,1
 4,Q3,553,Coti,12,MZ,eko,Ekoti,1
 4,Q3,555,Lomwe,12,MZ,mua,Makua,1
-4,Q3,556,Nhungue,12,MZ,krg,Karanga,1
 4,Q3,556,Nhungue,12,MZ,shn,Shona,1
 4,Q3,557,Matsua,12,MZ,rga,Ronga,1
 4,Q3,557,Matsua,12,MZ,tsn,Tsonga,1
 4,Q3,558,Ronga,12,MZ,rga,Ronga,1
-4,Q3,559,Shona,12,MZ,krg,Karanga,1
 4,Q3,559,Shona,12,MZ,shn,Shona,1
-4,Q3,561,Tewe,12,MZ,krg,Karanga,1
 4,Q3,561,Tewe,12,MZ,shn,Shona,1
 4,Q3,562,Xitsau,12,MZ,rga,Ronga,1
 4,Q3,562,Xitsau,12,MZ,tsn,Tsonga,1
@@ -3516,11 +3242,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,587,Thimbukushu,13,NA,bob,Bobangi,1
 4,Q3,587,Thimbukushu,13,NA,bol,Bolia,1
 4,Q3,587,Thimbukushu,13,NA,bsh,Bushoong,1
-4,Q3,587,Thimbukushu,13,NA,cil,CiLuba,1
 4,Q3,587,Thimbukushu,13,NA,dma,Duma,1
 4,Q3,587,Thimbukushu,13,NA,dng,Ding,1
-4,Q3,587,Thimbukushu,13,NA,dok,Doko,1
-4,Q3,587,Thimbukushu,13,NA,fio,Fiote,1
 4,Q3,587,Thimbukushu,13,NA,hem,Hemba,1
 4,Q3,587,Thimbukushu,13,NA,her,Herero,1
 4,Q3,587,Thimbukushu,13,NA,ifm,Ifumu,1
@@ -3569,7 +3292,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,624,Efik,14,NG,efi,Efik,1
 4,Q3,625,Ebira,14,NG,ebi,Ebira,1
 4,Q3,626,Fulani,14,NG,fgo,Fulani (Gombe),1
-4,Q3,626,Fulani,14,NG,fua,Fula (Cameroonian),1
 4,Q3,627,Isoko,14,NG,iso,Isoko,1
 4,Q3,628,Ibibio,14,NG,ibi,Ibibio,1
 4,Q3,629,Kanuri,14,NG,knr,Kanuri,1
@@ -3614,22 +3336,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,659,Jukun,14,NG,juk,Jukun,1
 4,Q3,660,Wolof,15,SN,wlf,Wolof,1
 4,Q3,661,Pulaar/Toucouleur,15,SN,fma,Fula (Mauritanian),1
-4,Q3,661,Pulaar/Toucouleur,15,SN,fus,Fula (Senegal),1
 4,Q3,662,Serer,15,SN,fbf,Fula (Burkina Faso),1
 4,Q3,662,Serer,15,SN,fgo,Fulani (Gombe),1
 4,Q3,662,Serer,15,SN,fgu,Fula (Guinean),1
-4,Q3,662,Serer,15,SN,fli,Ful (Liptako),1
 4,Q3,662,Serer,15,SN,fma,Fula (Mauritanian),1
 4,Q3,662,Serer,15,SN,fni,Fula (Nigerian),1
-4,Q3,662,Serer,15,SN,fua,Fula (Cameroonian),1
 4,Q3,662,Serer,15,SN,fum,Fulfulde (Maasina),1
-4,Q3,662,Serer,15,SN,fus,Fula (Senegal),1
 4,Q3,663,Mandinka/Bambara,15,SN,bam,Bambara,1
 4,Q3,663,Mandinka/Bambara,15,SN,dyu,Dyula,1
 4,Q3,663,Mandinka/Bambara,15,SN,maw,Maninka (Western),1
 4,Q3,663,Mandinka/Bambara,15,SN,mdk,Mandinka,1
 4,Q3,663,Mandinka/Bambara,15,SN,mka,Mauka,1
-4,Q3,663,Mandinka/Bambara,15,SN,mkg,Mandinka (Gambian),1
 4,Q3,663,Mandinka/Bambara,15,SN,mnk,Maninka,1
 4,Q3,663,Mandinka/Bambara,15,SN,xas,Xasonga,1
 4,Q3,664,Soninke,15,SN,snn,Soninke,1
@@ -3640,12 +3357,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,667,Bainouk,15,SN,fbf,Fula (Burkina Faso),1
 4,Q3,667,Bainouk,15,SN,fgo,Fulani (Gombe),1
 4,Q3,667,Bainouk,15,SN,fgu,Fula (Guinean),1
-4,Q3,667,Bainouk,15,SN,fli,Ful (Liptako),1
 4,Q3,667,Bainouk,15,SN,fma,Fula (Mauritanian),1
 4,Q3,667,Bainouk,15,SN,fni,Fula (Nigerian),1
-4,Q3,667,Bainouk,15,SN,fua,Fula (Cameroonian),1
 4,Q3,667,Bainouk,15,SN,fum,Fulfulde (Maasina),1
-4,Q3,667,Bainouk,15,SN,fus,Fula (Senegal),1
 4,Q3,667,Bainouk,15,SN,kgi,Konyagi,1
 4,Q3,667,Bainouk,15,SN,ndt,Ndut,1
 4,Q3,667,Bainouk,15,SN,noo,Noon,1
@@ -3662,8 +3376,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,706,Shangaan,16,ZA,tsn,Tsonga,1
 4,Q3,707,Swazi,16,ZA,swt,Swati,1
 4,Q3,708,Venda,16,ZA,ven,Venda,1
-4,Q3,709,Zulu,16,ZA,zno,Zulu (Northern),1
-4,Q3,709,Zulu,16,ZA,zso,Zulu (Southern),1
 4,Q3,709,Zulu,16,ZA,zul,Zulu,1
 4,Q3,710,Asian/Indian,16,ZA,hin,Hindi,1
 4,Q3,740,Kinyakyusa,17,TZ,mmw,Mambwe,1
@@ -3738,7 +3450,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,795,Rukiga,18,UG,nko,Nkore-Kiga,1
 4,Q3,796,Rutooro,18,UG,rru,Runyoro-Rutooro,1
 4,Q3,797,Langi,18,UG,lan,Lango,1
-4,Q3,798,Kakwa,18,UG,bar,Bari,1
 4,Q3,798,Kakwa,18,UG,kuk,Kukú,1
 4,Q3,799,Kumam,18,UG,lan,Lango,1
 4,Q3,800,Lululi,18,UG,nko,Nkore-Kiga,1
@@ -3764,7 +3475,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,830,Lunda,19,ZM,lbu,Lunda,1
 4,Q3,831,Bisa,19,ZM,lmb,Lamba,1
 4,Q3,832,Nkoya,19,ZM,blu,Bena-Lulua,1
-4,Q3,832,Nkoya,19,ZM,cil,CiLuba,1
 4,Q3,832,Nkoya,19,ZM,hem,Hemba,1
 4,Q3,832,Nkoya,19,ZM,kil,Kiluba,1
 4,Q3,832,Nkoya,19,ZM,kyo,Kanyok,1
@@ -3787,10 +3497,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 4,Q3,845,Ushi,19,ZM,lmb,Lamba,1
 4,Q3,860,Ndebele,20,ZW,swt,Swati,1
 4,Q3,860,Ndebele,20,ZW,xho,Xhosa,1
-4,Q3,860,Ndebele,20,ZW,zno,Zulu (Northern),1
-4,Q3,860,Ndebele,20,ZW,zso,Zulu (Southern),1
 4,Q3,860,Ndebele,20,ZW,zul,Zulu,1
-4,Q3,861,Shona,20,ZW,krg,Karanga,1
 4,Q3,861,Shona,20,ZW,shn,Shona,1
 4,Q3,862,Venda,20,ZW,ven,Venda,1
 4,Q3,863,Kalanga,20,ZW,klz,Kalanga,1
@@ -3861,9 +3568,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q103,13,Dioula,3,BF,dyu,Dyula,1
 5,Q103,13,Dioula,27,CI,dyu,Dyula,1
 5,Q103,15,Fulfuldé,3,BF,fbf,Fula (Burkina Faso),1
-5,Q103,15,Fulfuldé,3,BF,fli,Ful (Liptako),1
 5,Q103,15,Fulfuldé,23,NE,fbf,Fula (Burkina Faso),1
-5,Q103,15,Fulfuldé,23,NE,fli,Ful (Liptako),1
 5,Q103,15,Fulfuldé,23,NE,fni,Fula (Nigerian),1
 5,Q103,17,Hausa,5,GH,hau,Hausa,1
 5,Q103,17,Hausa,14,NG,hau,Hausa,1
@@ -3871,9 +3576,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q103,26,Luo,18,UG,acl,Acholi,1
 5,Q103,26,Luo,18,UG,lan,Lango,1
 5,Q103,26,Luo,18,UG,luo,Luo,1
-5,Q103,29,Ndau,12,MZ,krg,Karanga,1
 5,Q103,29,Ndau,12,MZ,shn,Shona,1
-5,Q103,29,Ndau,20,ZW,krg,Karanga,1
 5,Q103,29,Ndau,20,ZW,shn,Shona,1
 5,Q103,35,siSwati,16,ZA,swt,Swati,1
 5,Q103,35,siSwati,30,SZ,swt,Swati,1
@@ -3907,9 +3610,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q103,513,Peulh / Fulfude,11,ML,fum,Fulfulde (Maasina),1
 5,Q103,516,Soninke,11,ML,snn,Soninke,1
 5,Q103,518,Tamasheq,11,ML,tai,Tuareg (Air),1
-5,Q103,518,Tamasheq,11,ML,tgh,Tuareg (Ghat),1
 5,Q103,518,Tamasheq,11,ML,tsk,Tamashek,1
-5,Q103,518,Tamasheq,11,ML,tug,Tuareg (Ahaggar),1
 5,Q103,540,Makua,12,MZ,mua,Makua,1
 5,Q103,541,Sena,12,MZ,sen,Sena,1
 5,Q103,543,Changana,12,MZ,tsn,Tsonga,1
@@ -3921,7 +3622,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q103,623,Pidgin English,14,NG,npi,Nigerian Pidgin,0
 5,Q103,660,Wolof,15,SN,wlf,Wolof,1
 5,Q103,661,Pulaar/Toucouleur,15,SN,fma,Fula (Mauritanian),1
-5,Q103,661,Pulaar/Toucouleur,15,SN,fus,Fula (Senegal),1
 5,Q103,665,Diola,15,SN,dio,Diola-Fogny,1
 5,Q103,702,Xhosa,16,ZA,xho,Xhosa,1
 5,Q103,703,Pedi/Spedi/North Sotho,16,ZA,stn,Sotho (Northern),1
@@ -3930,8 +3630,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q103,706,Shangaan,16,ZA,tsn,Tsonga,1
 5,Q103,707,Swazi,16,ZA,swt,Swati,1
 5,Q103,708,Venda,16,ZA,ven,Venda,1
-5,Q103,709,Zulu,16,ZA,zno,Zulu (Northern),1
-5,Q103,709,Zulu,16,ZA,zso,Zulu (Southern),1
 5,Q103,709,Zulu,16,ZA,zul,Zulu,1
 5,Q103,711,Mixed - English/Afrikaans,16,ZA,afr,Afrikaans,1
 5,Q103,712,Tsonga,16,ZA,tsn,Tsonga,0
@@ -3955,10 +3653,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q103,824,Silozi,19,ZM,loz,Lozi,1
 5,Q103,860,Ndebele,20,ZW,swt,Swati,1
 5,Q103,860,Ndebele,20,ZW,xho,Xhosa,1
-5,Q103,860,Ndebele,20,ZW,zno,Zulu (Northern),1
-5,Q103,860,Ndebele,20,ZW,zso,Zulu (Southern),1
 5,Q103,860,Ndebele,20,ZW,zul,Zulu,1
-5,Q103,861,Shona,20,ZW,krg,Karanga,1
 5,Q103,861,Shona,20,ZW,shn,Shona,1
 5,Q103,900,Creole,21,MU,mcr,Mauritian Creole,0
 5,Q103,930,Krio,22,SL,npi,Nigerian Pidgin,0
@@ -3972,22 +3667,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q103,1100,Haoussa,23,NE,hau,Hausa,1
 5,Q103,1101,Zarrma/Songhaï,23,NE,zar,Zarma,1
 5,Q103,1103,Touareg,23,NE,tai,Tuareg (Air),1
-5,Q103,1103,Touareg,23,NE,tgh,Tuareg (Ghat),1
 5,Q103,1103,Touareg,23,NE,tsk,Tamashek,1
-5,Q103,1103,Touareg,23,NE,tug,Tuareg (Ahaggar),1
 5,Q103,1140,Ewé,24,TG,ewa,Ewe (Anglo),1
-5,Q103,1140,Ewé,24,TG,ewe,Ewe,1
 5,Q103,1142,Kabyè,24,TG,kby,Kabiyé,1
 5,Q103,1143,Tem (Kotokoli),24,TG,tem,Tem,1
 5,Q103,1144,Ben (Moba),24,TG,bmb,Bimoba,1
 5,Q103,1145,Nawdem (Losso),24,TG,bmb,Bimoba,1
 5,Q103,1145,Nawdem (Losso),24,TG,grm,Gurma,1
-5,Q103,1145,Nawdem (Losso),24,TG,gut,Gurma (Togo),1
 5,Q103,1145,Nawdem (Losso),24,TG,kkb,Konkomba,1
 5,Q103,1145,Nawdem (Losso),24,TG,ncm,Ncàm,1
 5,Q103,1180,Kirundi,25,BI,rnd,Rundi,1
 5,Q103,1220,Foufoulde,26,CM,fgo,Fulani (Gombe),1
-5,Q103,1220,Foufoulde,26,CM,fua,Fula (Cameroonian),1
 5,Q103,1221,Pidgin,26,CM,npi,Nigerian Pidgin,0
 5,Q103,1222,Ewondo,26,CM,ewo,Ewondo,1
 5,Q103,1223,Bafang,26,CM,fef,Fe'fe',1
@@ -3997,6 +3687,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q103,1303,Kpélé,28,GN,kpe,Kpelle,1
 5,Q103,1304,Toma,28,GN,lma,Loma,1
 5,Q103,1305,Kissié,28,GN,kis,Kisi,1
+5,Q103,1305,Kissié,28,GN,kss,Kisi (Southern),1
 5,Q103,9995,Other,1,BJ,,,
 5,Q103,9995,Other,6,KE,,,
 5,Q103,9995,Other,7,LS,,,
@@ -4028,21 +3719,15 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,10,Bassa,14,NG,duk,Duka,0
 5,Q116,10,Bassa,26,CM,bas,Basaá,0
 5,Q116,15,Fulfuldé,3,BF,fbf,Fula (Burkina Faso),1
-5,Q116,15,Fulfuldé,3,BF,fli,Ful (Liptako),1
 5,Q116,15,Fulfuldé,23,NE,fbf,Fula (Burkina Faso),1
-5,Q116,15,Fulfuldé,23,NE,fli,Ful (Liptako),1
 5,Q116,15,Fulfuldé,23,NE,fni,Fula (Nigerian),1
 5,Q116,17,Hausa,5,GH,hau,Hausa,1
 5,Q116,17,Hausa,14,NG,hau,Hausa,1
-5,Q116,29,Ndau,12,MZ,krg,Karanga,1
 5,Q116,29,Ndau,12,MZ,shn,Shona,1
-5,Q116,29,Ndau,20,ZW,krg,Karanga,1
 5,Q116,29,Ndau,20,ZW,shn,Shona,1
 5,Q116,30,Ndebele,16,ZA,ndb,Ndebele (in South Africa),1
 5,Q116,30,Ndebele,20,ZW,swt,Swati,1
 5,Q116,30,Ndebele,20,ZW,xho,Xhosa,1
-5,Q116,30,Ndebele,20,ZW,zno,Zulu (Northern),1
-5,Q116,30,Ndebele,20,ZW,zso,Zulu (Southern),1
 5,Q116,30,Ndebele,20,ZW,zul,Zulu,1
 5,Q116,39,Yoruba,1,BJ,yor,Yoruba,1
 5,Q116,39,Yoruba,14,NG,yor,Yoruba,1
@@ -4053,12 +3738,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,106,Peulh,1,BJ,fbf,Fula (Burkina Faso),1
 5,Q116,106,Peulh,1,BJ,fgo,Fulani (Gombe),1
 5,Q116,106,Peulh,1,BJ,fgu,Fula (Guinean),1
-5,Q116,106,Peulh,1,BJ,fli,Ful (Liptako),1
 5,Q116,106,Peulh,1,BJ,fma,Fula (Mauritanian),1
 5,Q116,106,Peulh,1,BJ,fni,Fula (Nigerian),1
-5,Q116,106,Peulh,1,BJ,fua,Fula (Cameroonian),1
 5,Q116,106,Peulh,1,BJ,fum,Fulfulde (Maasina),1
-5,Q116,106,Peulh,1,BJ,fus,Fula (Senegal),1
 5,Q116,108,Boo,1,BJ,bok,Boko,1
 5,Q116,140,Setswana,2,BW,tsw,Tswana,1
 5,Q116,144,Ikalanga/Sekalaka,2,BW,klz,Kalanga,1
@@ -4069,7 +3751,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,185,Bissa,3,BF,bis,Bisa,1
 5,Q116,189,Lobi,3,BF,lob,Lobi,1
 5,Q116,192,Bwamu,3,BF,kfe,Koromfe,0
-5,Q116,196,Kassena,3,BF,ksm,Kasem,1
 5,Q116,196,Kassena,3,BF,xsm,Kàsim,1
 5,Q116,197,Fulsé,3,BF,kfe,Koromfe,1
 5,Q116,220,Crioulo,4,CV,ago,Angolar,0
@@ -4092,7 +3773,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,306,Meru / Embu,6,KE,kik,Kikuyu,1
 5,Q116,310,Somali,6,KE,som,Somali,1
 5,Q116,340,Sesotho,7,LS,ses,Sesotho,1
-5,Q116,384,Gio,8,LR,dan,Dan,1
 5,Q116,384,Gio,8,LR,dbw,Dan (Blowo),1
 5,Q116,385,Gola,8,LR,gol,Gola,1
 5,Q116,386,Grebo,8,LR,grb,Grebo,1
@@ -4118,22 +3798,18 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,505,Dogon,11,ML,tms,Tommo So,0
 5,Q116,509,Malinké,11,ML,maw,Maninka (Western),1
 5,Q116,509,Malinké,11,ML,mdk,Mandinka,1
-5,Q116,509,Malinké,11,ML,mkg,Mandinka (Gambian),1
 5,Q116,509,Malinké,11,ML,xas,Xasonga,1
 5,Q116,513,Peulh / Fulfude,11,ML,fum,Fulfulde (Maasina),1
 5,Q116,516,Soninké / Sarakollé,11,ML,snn,Soninke,1
 5,Q116,517,Sonrhaï,11,ML,kse,Koyraboro Senni,1
 5,Q116,517,Sonrhaï,11,ML,zar,Zarma,1
 5,Q116,518,Tamasheq,11,ML,tai,Tuareg (Air),1
-5,Q116,518,Tamasheq,11,ML,tgh,Tuareg (Ghat),1
 5,Q116,518,Tamasheq,11,ML,tsk,Tamashek,1
-5,Q116,518,Tamasheq,11,ML,tug,Tuareg (Ahaggar),1
 5,Q116,540,Makua,12,MZ,mua,Makua,1
 5,Q116,541,Sena,12,MZ,sen,Sena,1
 5,Q116,543,Changana,12,MZ,tsn,Tsonga,1
 5,Q116,548,Chuabo,12,MZ,eko,Ekoti,1
 5,Q116,548,Chuabo,12,MZ,mua,Makua,1
-5,Q116,554,Chitewe,12,MZ,krg,Karanga,1
 5,Q116,554,Chitewe,12,MZ,shn,Shona,1
 5,Q116,555,Chitswa,12,MZ,rga,Ronga,1
 5,Q116,555,Chitswa,12,MZ,tsn,Tsonga,1
@@ -4157,22 +3833,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,652,Bajju,14,NG,gwo,Gworok,0
 5,Q116,660,Wolof,15,SN,wlf,Wolof,1
 5,Q116,661,Pulaar/Toucouleur,15,SN,fma,Fula (Mauritanian),1
-5,Q116,661,Pulaar/Toucouleur,15,SN,fus,Fula (Senegal),1
 5,Q116,662,Serer,15,SN,fbf,Fula (Burkina Faso),1
 5,Q116,662,Serer,15,SN,fgo,Fulani (Gombe),1
 5,Q116,662,Serer,15,SN,fgu,Fula (Guinean),1
-5,Q116,662,Serer,15,SN,fli,Ful (Liptako),1
 5,Q116,662,Serer,15,SN,fma,Fula (Mauritanian),1
 5,Q116,662,Serer,15,SN,fni,Fula (Nigerian),1
-5,Q116,662,Serer,15,SN,fua,Fula (Cameroonian),1
 5,Q116,662,Serer,15,SN,fum,Fulfulde (Maasina),1
-5,Q116,662,Serer,15,SN,fus,Fula (Senegal),1
 5,Q116,663,Mandinka/Bambara,15,SN,bam,Bambara,1
 5,Q116,663,Mandinka/Bambara,15,SN,dyu,Dyula,1
 5,Q116,663,Mandinka/Bambara,15,SN,maw,Maninka (Western),1
 5,Q116,663,Mandinka/Bambara,15,SN,mdk,Mandinka,1
 5,Q116,663,Mandinka/Bambara,15,SN,mka,Mauka,1
-5,Q116,663,Mandinka/Bambara,15,SN,mkg,Mandinka (Gambian),1
 5,Q116,663,Mandinka/Bambara,15,SN,mnk,Maninka,1
 5,Q116,663,Mandinka/Bambara,15,SN,xas,Xasonga,1
 5,Q116,664,Soninke,15,SN,snn,Soninke,1
@@ -4185,8 +3856,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,706,Shangaan,16,ZA,tsn,Tsonga,1
 5,Q116,707,Swazi,16,ZA,swt,Swati,1
 5,Q116,708,Venda,16,ZA,ven,Venda,1
-5,Q116,709,Zulu,16,ZA,zno,Zulu (Northern),1
-5,Q116,709,Zulu,16,ZA,zso,Zulu (Southern),1
 5,Q116,709,Zulu,16,ZA,zul,Zulu,1
 5,Q116,740,Kinyakyusa,17,TZ,mmw,Mambwe,1
 5,Q116,740,Kinyakyusa,17,TZ,nyh,Nyiha,1
@@ -4231,15 +3900,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,833,Senga,19,ZM,nse,Nsenga,1
 5,Q116,845,Ila,19,ZM,ila,Ila,1
 5,Q116,846,Nyika,19,ZM,nyh,Nyiha,1
-5,Q116,861,Shona,20,ZW,krg,Karanga,1
 5,Q116,861,Shona,20,ZW,shn,Shona,1
-5,Q116,862,Zezuru,20,ZW,krg,Karanga,1
 5,Q116,862,Zezuru,20,ZW,shn,Shona,1
-5,Q116,863,Korekore,20,ZW,krg,Karanga,1
 5,Q116,863,Korekore,20,ZW,shn,Shona,1
-5,Q116,864,Karanga,20,ZW,krg,Karanga,1
 5,Q116,864,Karanga,20,ZW,shn,Shona,1
-5,Q116,865,Manyika,20,ZW,krg,Karanga,1
 5,Q116,865,Manyika,20,ZW,shn,Shona,1
 5,Q116,900,Creole,21,MU,mcr,Mauritian Creole,0
 5,Q116,901,Bhojpuri,21,MU,bho,Bhojpuri,1
@@ -4254,26 +3918,20 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,1100,Haoussa,23,NE,hau,Hausa,1
 5,Q116,1101,Zarrma/Songhaï,23,NE,zar,Zarma,1
 5,Q116,1103,Touareg,23,NE,tai,Tuareg (Air),1
-5,Q116,1103,Touareg,23,NE,tgh,Tuareg (Ghat),1
 5,Q116,1103,Touareg,23,NE,tsk,Tamashek,1
-5,Q116,1103,Touareg,23,NE,tug,Tuareg (Ahaggar),1
 5,Q116,1140,Ewé,24,TG,ewa,Ewe (Anglo),1
-5,Q116,1140,Ewé,24,TG,ewe,Ewe,1
 5,Q116,1141,Mina (Guen),24,TG,ewa,Ewe (Anglo),1
-5,Q116,1141,Mina (Guen),24,TG,ewe,Ewe,1
 5,Q116,1142,Kabyè,24,TG,kby,Kabiyé,1
 5,Q116,1143,Tem (Kotokoli),24,TG,tem,Tem,1
 5,Q116,1144,Ben (Moba),24,TG,bmb,Bimoba,1
 5,Q116,1145,Nawdem (Losso),24,TG,bmb,Bimoba,1
 5,Q116,1145,Nawdem (Losso),24,TG,grm,Gurma,1
-5,Q116,1145,Nawdem (Losso),24,TG,gut,Gurma (Togo),1
 5,Q116,1145,Nawdem (Losso),24,TG,kkb,Konkomba,1
 5,Q116,1145,Nawdem (Losso),24,TG,ncm,Ncàm,1
 5,Q116,1148,Ikposso (Akposso),24,TG,kpo,Kposo,1
 5,Q116,1160,Anyanga,24,TG,cum,Chumburung,1
 5,Q116,1180,Kirundi,25,BI,rnd,Rundi,1
 5,Q116,1220,Foufoulde,26,CM,fgo,Fulani (Gombe),1
-5,Q116,1220,Foufoulde,26,CM,fua,Fula (Cameroonian),1
 5,Q116,1222,Ewondo,26,CM,ewo,Ewondo,1
 5,Q116,1225,Babjoun,26,CM,fef,Fe'fe',1
 5,Q116,1225,Babjoun,26,CM,yem,Yemba,1
@@ -4291,7 +3949,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,1232,Mbo,26,CM,bas,Basaá,1
 5,Q116,1232,Mbo,26,CM,bfi,Bafia,1
 5,Q116,1232,Mbo,26,CM,bga,Benga,1
-5,Q116,1232,Mbo,26,CM,bkn,Bakundu,1
 5,Q116,1232,Mbo,26,CM,bku,Bakueri,1
 5,Q116,1232,Mbo,26,CM,bnk,Bankon,1
 5,Q116,1232,Mbo,26,CM,buj,Bujeba,1
@@ -4319,7 +3976,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,1278,Sénoufo,27,CI,sup,Supyire,1
 5,Q116,1278,Sénoufo,27,CI,tny,Tenyer,1
 5,Q116,1280,WOBE,27,CI,wob,Wobe,1
-5,Q116,1281,TOURA,27,CI,dan,Dan,1
 5,Q116,1281,TOURA,27,CI,dbw,Dan (Blowo),1
 5,Q116,1282,DAHOMEY,27,CI,fon,Fongbe,1
 5,Q116,1283,ABOURE,27,CI,akn,Akan,1
@@ -4328,7 +3984,14 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,1283,ABOURE,27,CI,ble,Baule,1
 5,Q116,1283,ABOURE,27,CI,cum,Chumburung,1
 5,Q116,1283,ABOURE,27,CI,nkn,Nkonya,1
-5,Q116,1284,AHIZI,27,CI,aiz,Aizi,1
+5,Q116,1284,AHIZI,27,CI,bet,Bété,1
+5,Q116,1284,AHIZI,27,CI,ddj,Dadjriwalé,1
+5,Q116,1284,AHIZI,27,CI,grb,Grebo,1
+5,Q116,1284,AHIZI,27,CI,gue,Guere,1
+5,Q116,1284,AHIZI,27,CI,kla,Klao,1
+5,Q116,1284,AHIZI,27,CI,ney,Neyo,1
+5,Q116,1284,AHIZI,27,CI,vat,Vata,1
+5,Q116,1284,AHIZI,27,CI,wob,Wobe,1
 5,Q116,1300,Soussou,28,GN,sus,Susu,1
 5,Q116,1302,Poular,28,GN,fgu,Fula (Guinean),1
 5,Q116,1304,Diakanké,28,GN,maw,Maninka (Western),1
@@ -4337,7 +4000,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q116,1307,Kpelé,28,GN,kpe,Kpelle,1
 5,Q116,1310,Loma,28,GN,lma,Loma,1
 5,Q116,1312,Kissié,28,GN,kis,Kisi,1
-5,Q116,1500,Tamazight,33,MA,bma,Berber (Middle Atlas),1
+5,Q116,1312,Kissié,28,GN,kss,Kisi (Southern),1
 5,Q116,1500,Tamazight,33,MA,bse,Berber (Ayt Seghrouchen Middle Atlas),1
 5,Q116,1620,siSwati,30,SZ,swt,Swati,1
 5,Q116,2620,Jaba,14,NG,kgm,Kagoma,1
@@ -4415,7 +4078,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,7,Afrikaans,13,NA,afr,Afrikaans,1
 5,Q2,7,Afrikaans,16,ZA,afr,Afrikaans,1
 5,Q2,8,Amazigh,31,DZ,kbl,Kabyle,1
-5,Q2,8,Amazigh,33,MA,bma,Berber (Middle Atlas),1
 5,Q2,8,Amazigh,33,MA,bse,Berber (Ayt Seghrouchen Middle Atlas),1
 5,Q2,9,Bambara,11,ML,bam,Bambara,1
 5,Q2,9,Bambara,15,SN,bam,Bambara,1
@@ -4431,9 +4093,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,14,Fon,1,BJ,fon,Fongbe,1
 5,Q2,14,Fon,24,TG,fon,Fongbe,1
 5,Q2,15,Fulfuldé,3,BF,fbf,Fula (Burkina Faso),1
-5,Q2,15,Fulfuldé,3,BF,fli,Ful (Liptako),1
 5,Q2,15,Fulfuldé,23,NE,fbf,Fula (Burkina Faso),1
-5,Q2,15,Fulfuldé,23,NE,fli,Ful (Liptako),1
 5,Q2,15,Fulfuldé,23,NE,fni,Fula (Nigerian),1
 5,Q2,16,Haoussa,3,BF,hau,Hausa,1
 5,Q2,16,Haoussa,23,NE,hau,Hausa,1
@@ -4447,6 +4107,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,19,Kihangaza,17,TZ,rnd,Rundi,1
 5,Q2,20,Kissi,8,LR,kss,Kisi (Southern),1
 5,Q2,20,Kissi,22,SL,kis,Kisi,1
+5,Q2,20,Kissi,22,SL,kss,Kisi (Southern),1
 5,Q2,21,Konkomba,5,GH,kkb,Konkomba,1
 5,Q2,21,Konkomba,24,TG,kkb,Konkomba,1
 5,Q2,22,Kono,22,SL,vai,Vai,1
@@ -4465,20 +4126,14 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,27,Mano,28,GN,man,Mano,1
 5,Q2,28,Mende,8,LR,mde,Mende,1
 5,Q2,28,Mende,22,SL,mde,Mende,1
-5,Q2,29,Ndau,12,MZ,krg,Karanga,1
 5,Q2,29,Ndau,12,MZ,shn,Shona,1
-5,Q2,29,Ndau,20,ZW,krg,Karanga,1
 5,Q2,29,Ndau,20,ZW,shn,Shona,1
 5,Q2,30,Ndebele,16,ZA,ndb,Ndebele (in South Africa),1
 5,Q2,30,Ndebele,19,ZM,swt,Swati,1
 5,Q2,30,Ndebele,19,ZM,xho,Xhosa,1
-5,Q2,30,Ndebele,19,ZM,zno,Zulu (Northern),1
-5,Q2,30,Ndebele,19,ZM,zso,Zulu (Southern),1
 5,Q2,30,Ndebele,19,ZM,zul,Zulu,1
 5,Q2,30,Ndebele,20,ZW,swt,Swati,1
 5,Q2,30,Ndebele,20,ZW,xho,Xhosa,1
-5,Q2,30,Ndebele,20,ZW,zno,Zulu (Northern),1
-5,Q2,30,Ndebele,20,ZW,zso,Zulu (Southern),1
 5,Q2,30,Ndebele,20,ZW,zul,Zulu,1
 5,Q2,31,Nyanja,12,MZ,cic,Chichewa,1
 5,Q2,31,Nyanja,19,ZM,cic,Chichewa,1
@@ -4521,15 +4176,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,106,Peulh,1,BJ,fbf,Fula (Burkina Faso),1
 5,Q2,106,Peulh,1,BJ,fgo,Fulani (Gombe),1
 5,Q2,106,Peulh,1,BJ,fgu,Fula (Guinean),1
-5,Q2,106,Peulh,1,BJ,fli,Ful (Liptako),1
 5,Q2,106,Peulh,1,BJ,fma,Fula (Mauritanian),1
 5,Q2,106,Peulh,1,BJ,fni,Fula (Nigerian),1
-5,Q2,106,Peulh,1,BJ,fua,Fula (Cameroonian),1
 5,Q2,106,Peulh,1,BJ,fum,Fulfulde (Maasina),1
-5,Q2,106,Peulh,1,BJ,fus,Fula (Senegal),1
 5,Q2,107,Yoa,1,BJ,bmb,Bimoba,1
 5,Q2,107,Yoa,1,BJ,grm,Gurma,1
-5,Q2,107,Yoa,1,BJ,gut,Gurma (Togo),1
 5,Q2,107,Yoa,1,BJ,kkb,Konkomba,1
 5,Q2,107,Yoa,1,BJ,ncm,Ncàm,1
 5,Q2,108,Boo,1,BJ,bok,Boko,1
@@ -4545,11 +4196,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,146,Sembukushu,2,BW,bob,Bobangi,1
 5,Q2,146,Sembukushu,2,BW,bol,Bolia,1
 5,Q2,146,Sembukushu,2,BW,bsh,Bushoong,1
-5,Q2,146,Sembukushu,2,BW,cil,CiLuba,1
 5,Q2,146,Sembukushu,2,BW,dma,Duma,1
 5,Q2,146,Sembukushu,2,BW,dng,Ding,1
-5,Q2,146,Sembukushu,2,BW,dok,Doko,1
-5,Q2,146,Sembukushu,2,BW,fio,Fiote,1
 5,Q2,146,Sembukushu,2,BW,hem,Hemba,1
 5,Q2,146,Sembukushu,2,BW,her,Herero,1
 5,Q2,146,Sembukushu,2,BW,ifm,Ifumu,1
@@ -4590,7 +4238,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,152,Setswapong,2,BW,stn,Sotho (Northern),1
 5,Q2,180,Mooré,3,BF,moo,Mooré,1
 5,Q2,183,Gulmacema,3,BF,grm,Gurma,1
-5,Q2,183,Gulmacema,3,BF,gut,Gurma (Togo),1
 5,Q2,184,Gourounsi,3,BF,grn,Gurenne,1
 5,Q2,185,Bissa,3,BF,bis,Bisa,1
 5,Q2,186,Birifor,3,BF,dga,Dagaare,1
@@ -4599,7 +4246,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,189,Fulse,3,BF,kfe,Koromfe,1
 5,Q2,190,Goin,3,BF,kir,Kirma,1
 5,Q2,191,Karaboro,3,BF,tny,Tenyer,1
-5,Q2,192,Kassena,3,BF,ksm,Kasem,1
 5,Q2,192,Kassena,3,BF,xsm,Kàsim,1
 5,Q2,194,Marka,3,BF,bam,Bambara,1
 5,Q2,194,Marka,3,BF,dyu,Dyula,1
@@ -4610,6 +4256,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,197,Sonrai,3,BF,kse,Koyraboro Senni,1
 5,Q2,197,Sonrai,3,BF,zar,Zarma,1
 5,Q2,198,Toussian,3,BF,tou,Toussian,1
+5,Q2,198,Toussian,3,BF,tow,Toussian (Win),1
 5,Q2,199,Dafing,3,BF,bam,Bambara,1
 5,Q2,199,Dafing,3,BF,dyu,Dyula,1
 5,Q2,199,Dafing,3,BF,mka,Mauka,1
@@ -4627,7 +4274,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,268,Sissala,5,GH,ssa,Sisaala,1
 5,Q2,269,Kotonkoli,5,GH,tem,Tem,1
 5,Q2,270,Talensi,5,GH,grn,Gurenne,1
-5,Q2,271,Kasina,5,GH,ksm,Kasem,1
 5,Q2,271,Kasina,5,GH,xsm,Kàsim,1
 5,Q2,272,Frafra,5,GH,grn,Gurenne,1
 5,Q2,273,Gruni,5,GH,grn,Gurenne,1
@@ -4670,10 +4316,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,340,Sesotho,7,LS,ses,Sesotho,1
 5,Q2,341,Sephuthi,7,LS,swt,Swati,1
 5,Q2,342,Sethepu,7,LS,xho,Xhosa,1
-5,Q2,381,Belle,8,LR,aiz,Aizi,1
 5,Q2,381,Belle,8,LR,bet,Bété,1
 5,Q2,381,Belle,8,LR,ddj,Dadjriwalé,1
-5,Q2,381,Belle,8,LR,gdi,Godié,1
 5,Q2,381,Belle,8,LR,grb,Grebo,1
 5,Q2,381,Belle,8,LR,gue,Guere,1
 5,Q2,381,Belle,8,LR,kla,Klao,1
@@ -4685,7 +4329,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,382,Dei,8,LR,kla,Klao,1
 5,Q2,382,Dei,8,LR,wob,Wobe,1
 5,Q2,383,Gbandi,8,LR,bnd,Bandi,1
-5,Q2,384,Gio,8,LR,dan,Dan,1
 5,Q2,384,Gio,8,LR,dbw,Dan (Blowo),1
 5,Q2,385,Gola,8,LR,gol,Gola,1
 5,Q2,386,Grebo,8,LR,grb,Grebo,1
@@ -4723,12 +4366,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,505,Dogon,11,ML,tms,Tommo So,0
 5,Q2,507,Kakolo,11,ML,maw,Maninka (Western),1
 5,Q2,507,Kakolo,11,ML,mdk,Mandinka,1
-5,Q2,507,Kakolo,11,ML,mkg,Mandinka (Gambian),1
 5,Q2,507,Kakolo,11,ML,xas,Xasonga,1
 5,Q2,508,Khassonké,11,ML,xas,Xasonga,1
 5,Q2,509,Malinké,11,ML,maw,Maninka (Western),1
 5,Q2,509,Malinké,11,ML,mdk,Mandinka,1
-5,Q2,509,Malinké,11,ML,mkg,Mandinka (Gambian),1
 5,Q2,509,Malinké,11,ML,xas,Xasonga,1
 5,Q2,510,Maure,11,ML,ahs,Arabic (Bani-Hassan),1
 5,Q2,511,Mianka,11,ML,nrg,Nanerge,1
@@ -4741,9 +4382,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,517,Sonrhaï,11,ML,kse,Koyraboro Senni,1
 5,Q2,517,Sonrhaï,11,ML,zar,Zarma,1
 5,Q2,518,Tamasheq,11,ML,tai,Tuareg (Air),1
-5,Q2,518,Tamasheq,11,ML,tgh,Tuareg (Ghat),1
 5,Q2,518,Tamasheq,11,ML,tsk,Tamashek,1
-5,Q2,518,Tamasheq,11,ML,tug,Tuareg (Ahaggar),1
 5,Q2,540,Makua,12,MZ,mua,Makua,1
 5,Q2,541,Sena,12,MZ,sen,Sena,1
 5,Q2,544,Changana,12,MZ,tsn,Tsonga,1
@@ -4759,8 +4398,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,545,Chope,12,MZ,tsw,Tswana,1
 5,Q2,545,Chope,12,MZ,ven,Venda,1
 5,Q2,545,Chope,12,MZ,xho,Xhosa,1
-5,Q2,545,Chope,12,MZ,zno,Zulu (Northern),1
-5,Q2,545,Chope,12,MZ,zso,Zulu (Southern),1
 5,Q2,545,Chope,12,MZ,zul,Zulu,1
 5,Q2,546,Bitonga,12,MZ,eko,Ekoti,1
 5,Q2,546,Bitonga,12,MZ,loz,Lozi,1
@@ -4774,8 +4411,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,546,Bitonga,12,MZ,tsw,Tswana,1
 5,Q2,546,Bitonga,12,MZ,ven,Venda,1
 5,Q2,546,Bitonga,12,MZ,xho,Xhosa,1
-5,Q2,546,Bitonga,12,MZ,zno,Zulu (Northern),1
-5,Q2,546,Bitonga,12,MZ,zso,Zulu (Southern),1
 5,Q2,546,Bitonga,12,MZ,zul,Zulu,1
 5,Q2,547,Makonde,12,MZ,mkd,Makonde,1
 5,Q2,548,Chuabo,12,MZ,eko,Ekoti,1
@@ -4784,13 +4419,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,551,Chibarue,12,MZ,sen,Sena,1
 5,Q2,552,Chimarenge,12,MZ,eko,Ekoti,1
 5,Q2,552,Chimarenge,12,MZ,mua,Makua,1
-5,Q2,553,Chinhungue,12,MZ,krg,Karanga,1
 5,Q2,553,Chinhungue,12,MZ,shn,Shona,1
-5,Q2,554,Chitewe,12,MZ,krg,Karanga,1
 5,Q2,554,Chitewe,12,MZ,shn,Shona,1
 5,Q2,555,Chitswa,12,MZ,rga,Ronga,1
 5,Q2,555,Chitswa,12,MZ,tsn,Tsonga,1
-5,Q2,556,Chitawala,12,MZ,krg,Karanga,1
 5,Q2,556,Chitawala,12,MZ,shn,Shona,1
 5,Q2,557,Kimuani,12,MZ,swa,Swahili,1
 5,Q2,558,Lomwe,12,MZ,mua,Makua,1
@@ -4799,7 +4431,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,560,Ronga,12,MZ,rga,Ronga,1
 5,Q2,561,Tacuane,12,MZ,eko,Ekoti,1
 5,Q2,561,Tacuane,12,MZ,mua,Makua,1
-5,Q2,562,Chimanica,12,MZ,krg,Karanga,1
 5,Q2,562,Chimanica,12,MZ,shn,Shona,1
 5,Q2,581,German,13,NA,ger,German,0
 5,Q2,582,Nama/Damara,13,NA,kho,Khoekhoe,1
@@ -4815,11 +4446,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,587,Thimbukushu,13,NA,bob,Bobangi,1
 5,Q2,587,Thimbukushu,13,NA,bol,Bolia,1
 5,Q2,587,Thimbukushu,13,NA,bsh,Bushoong,1
-5,Q2,587,Thimbukushu,13,NA,cil,CiLuba,1
 5,Q2,587,Thimbukushu,13,NA,dma,Duma,1
 5,Q2,587,Thimbukushu,13,NA,dng,Ding,1
-5,Q2,587,Thimbukushu,13,NA,dok,Doko,1
-5,Q2,587,Thimbukushu,13,NA,fio,Fiote,1
 5,Q2,587,Thimbukushu,13,NA,hem,Hemba,1
 5,Q2,587,Thimbukushu,13,NA,her,Herero,1
 5,Q2,587,Thimbukushu,13,NA,ifm,Ifumu,1
@@ -4860,7 +4488,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,624,Efik,14,NG,efi,Efik,1
 5,Q2,625,Ebira,14,NG,ebi,Ebira,1
 5,Q2,626,Fulani,14,NG,fgo,Fulani (Gombe),1
-5,Q2,626,Fulani,14,NG,fua,Fula (Cameroonian),1
 5,Q2,627,Isoko,14,NG,iso,Isoko,1
 5,Q2,628,Ibibio,14,NG,ibi,Ibibio,1
 5,Q2,629,Kanuri,14,NG,knr,Kanuri,1
@@ -4911,16 +4538,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,658,Ohafia,14,NG,igb,Igbo,1
 5,Q2,660,Wolof,15,SN,wlf,Wolof,1
 5,Q2,661,Pulaar/Toucouleur,15,SN,fma,Fula (Mauritanian),1
-5,Q2,661,Pulaar/Toucouleur,15,SN,fus,Fula (Senegal),1
 5,Q2,662,Serer,15,SN,fbf,Fula (Burkina Faso),1
 5,Q2,662,Serer,15,SN,fgo,Fulani (Gombe),1
 5,Q2,662,Serer,15,SN,fgu,Fula (Guinean),1
-5,Q2,662,Serer,15,SN,fli,Ful (Liptako),1
 5,Q2,662,Serer,15,SN,fma,Fula (Mauritanian),1
 5,Q2,662,Serer,15,SN,fni,Fula (Nigerian),1
-5,Q2,662,Serer,15,SN,fua,Fula (Cameroonian),1
 5,Q2,662,Serer,15,SN,fum,Fulfulde (Maasina),1
-5,Q2,662,Serer,15,SN,fus,Fula (Senegal),1
 5,Q2,664,Soninke,15,SN,snn,Soninke,1
 5,Q2,665,Diola,15,SN,dio,Diola-Fogny,1
 5,Q2,666,Manjack,15,SN,mjk,Manjaku,1
@@ -4929,12 +4552,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,667,Bainouk,15,SN,fbf,Fula (Burkina Faso),1
 5,Q2,667,Bainouk,15,SN,fgo,Fulani (Gombe),1
 5,Q2,667,Bainouk,15,SN,fgu,Fula (Guinean),1
-5,Q2,667,Bainouk,15,SN,fli,Ful (Liptako),1
 5,Q2,667,Bainouk,15,SN,fma,Fula (Mauritanian),1
 5,Q2,667,Bainouk,15,SN,fni,Fula (Nigerian),1
-5,Q2,667,Bainouk,15,SN,fua,Fula (Cameroonian),1
 5,Q2,667,Bainouk,15,SN,fum,Fulfulde (Maasina),1
-5,Q2,667,Bainouk,15,SN,fus,Fula (Senegal),1
 5,Q2,667,Bainouk,15,SN,kgi,Konyagi,1
 5,Q2,667,Bainouk,15,SN,ndt,Ndut,1
 5,Q2,667,Bainouk,15,SN,noo,Noon,1
@@ -4944,8 +4564,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,702,Xhosa,16,ZA,xho,Xhosa,1
 5,Q2,703,Pedi/Spedi/North Sotho,16,ZA,stn,Sotho (Northern),1
 5,Q2,704,Sesotho/Sotho/South Sotho,16,ZA,ses,Sesotho,1
-5,Q2,709,Zulu,16,ZA,zno,Zulu (Northern),1
-5,Q2,709,Zulu,16,ZA,zso,Zulu (Southern),1
 5,Q2,709,Zulu,16,ZA,zul,Zulu,1
 5,Q2,710,Asian/Other,16,ZA,hin,Hindi,1
 5,Q2,740,Kinyakyusa,17,TZ,mmw,Mambwe,1
@@ -5057,7 +4675,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,804,Aringa,18,UG,lgt,Logoti,1
 5,Q2,804,Aringa,18,UG,lug,Lugbara,1
 5,Q2,805,Kumam,18,UG,lan,Lango,1
-5,Q2,806,Kakwa,18,UG,bar,Bari,1
 5,Q2,806,Kakwa,18,UG,kuk,Kukú,1
 5,Q2,820,Bemba,19,ZM,lmb,Lamba,1
 5,Q2,823,Lozi,19,ZM,loz,Lozi,1
@@ -5071,7 +4688,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,830,Lunda,19,ZM,lbu,Lunda,1
 5,Q2,831,Bisa,19,ZM,lmb,Lamba,1
 5,Q2,832,Nkoya,19,ZM,blu,Bena-Lulua,1
-5,Q2,832,Nkoya,19,ZM,cil,CiLuba,1
 5,Q2,832,Nkoya,19,ZM,hem,Hemba,1
 5,Q2,832,Nkoya,19,ZM,kil,Kiluba,1
 5,Q2,832,Nkoya,19,ZM,kyo,Kanyok,1
@@ -5095,27 +4711,17 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,848,Bwile,19,ZM,tbw,Tabwa,1
 5,Q2,849,Ngumbo,19,ZM,lmb,Lamba,1
 5,Q2,851,Tabwa,19,ZM,tbw,Tabwa,1
-5,Q2,852,Goba,19,ZM,krg,Karanga,1
 5,Q2,852,Goba,19,ZM,shn,Shona,1
-5,Q2,861,Shona,20,ZW,krg,Karanga,1
 5,Q2,861,Shona,20,ZW,shn,Shona,1
-5,Q2,862,Zezuru,20,ZW,krg,Karanga,1
 5,Q2,862,Zezuru,20,ZW,shn,Shona,1
-5,Q2,863,Korekore,20,ZW,krg,Karanga,1
 5,Q2,863,Korekore,20,ZW,shn,Shona,1
-5,Q2,864,Karanga,20,ZW,krg,Karanga,1
 5,Q2,864,Karanga,20,ZW,shn,Shona,1
-5,Q2,865,Manyika,20,ZW,krg,Karanga,1
 5,Q2,865,Manyika,20,ZW,shn,Shona,1
 5,Q2,868,Kalanga,20,ZW,klz,Kalanga,1
-5,Q2,870,Vhitori,20,ZW,krg,Karanga,1
 5,Q2,870,Vhitori,20,ZW,shn,Shona,1
 5,Q2,872,Nambya,20,ZW,klz,Kalanga,1
-5,Q2,873,Maungwe,20,ZW,krg,Karanga,1
 5,Q2,873,Maungwe,20,ZW,shn,Shona,1
-5,Q2,874,Buja,20,ZW,krg,Karanga,1
 5,Q2,874,Buja,20,ZW,shn,Shona,1
-5,Q2,875,Bocha,20,ZW,krg,Karanga,1
 5,Q2,875,Bocha,20,ZW,shn,Shona,1
 5,Q2,900,Creole,21,MU,mcr,Mauritian Creole,0
 5,Q2,901,Bhojpuri,21,MU,bho,Bhojpuri,1
@@ -5128,6 +4734,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,933,Limba,22,SL,tne,Temne,0
 5,Q2,934,Loko,22,SL,lok,Loko,1
 5,Q2,935,Sherbro,22,SL,kis,Kisi,1
+5,Q2,935,Sherbro,22,SL,kss,Kisi (Southern),1
 5,Q2,936,Fulla,22,SL,fgu,Fula (Guinean),1
 5,Q2,938,Kuranko,22,SL,kko,Koranko,1
 5,Q2,939,Madingo,22,SL,mnk,Maninka,1
@@ -5135,40 +4742,32 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,943,Yalunka,22,SL,sus,Susu,1
 5,Q2,1101,Zarrma/Songhaï,23,NE,zar,Zarma,1
 5,Q2,1103,Touareg,23,NE,tai,Tuareg (Air),1
-5,Q2,1103,Touareg,23,NE,tgh,Tuareg (Ghat),1
 5,Q2,1103,Touareg,23,NE,tsk,Tamashek,1
-5,Q2,1103,Touareg,23,NE,tug,Tuareg (Ahaggar),1
 5,Q2,1104,Béri béri,23,NE,knr,Kanuri,1
 5,Q2,1106,Arabe,23,NE,ahs,Arabic (Bani-Hassan),1
 5,Q2,1107,Toubou,23,NE,tbu,Tubu,1
 5,Q2,1140,Ewé,24,TG,ewa,Ewe (Anglo),1
-5,Q2,1140,Ewé,24,TG,ewe,Ewe,1
 5,Q2,1141,Mina (Guen),24,TG,ewa,Ewe (Anglo),1
-5,Q2,1141,Mina (Guen),24,TG,ewe,Ewe,1
 5,Q2,1142,Kabyè,24,TG,kby,Kabiyé,1
 5,Q2,1143,Tem (Kotokoli),24,TG,tem,Tem,1
 5,Q2,1144,Ben (Moba),24,TG,bmb,Bimoba,1
 5,Q2,1145,Nawdem (Losso),24,TG,bmb,Bimoba,1
 5,Q2,1145,Nawdem (Losso),24,TG,grm,Gurma,1
-5,Q2,1145,Nawdem (Losso),24,TG,gut,Gurma (Togo),1
 5,Q2,1145,Nawdem (Losso),24,TG,kkb,Konkomba,1
 5,Q2,1145,Nawdem (Losso),24,TG,ncm,Ncàm,1
 5,Q2,1147,Ana,24,TG,yor,Yoruba,1
 5,Q2,1148,Akposso,24,TG,kpo,Kposo,1
 5,Q2,1149,Bassar,24,TG,ncm,Ncàm,1
 5,Q2,1152,Ouatchi,24,TG,ewa,Ewe (Anglo),1
-5,Q2,1152,Ouatchi,24,TG,ewe,Ewe,1
 5,Q2,1153,Akébou,24,TG,avt,Avatime,1
 5,Q2,1153,Akébou,24,TG,kpo,Kposo,1
 5,Q2,1154,Gourma,24,TG,grm,Gurma,1
-5,Q2,1154,Gourma,24,TG,gut,Gurma (Togo),1
 5,Q2,1156,Ngam-Gam,24,TG,kkb,Konkomba,1
 5,Q2,1157,Tchamba,24,TG,ncm,Ncàm,1
 5,Q2,1159,Aklobo,24,TG,avt,Avatime,1
 5,Q2,1159,Aklobo,24,TG,kpo,Kposo,1
 5,Q2,1180,Kirundi,25,BI,rnd,Rundi,1
 5,Q2,1220,Foufoulde,26,CM,fgo,Fulani (Gombe),1
-5,Q2,1220,Foufoulde,26,CM,fua,Fula (Cameroonian),1
 5,Q2,1221,Pidgin,26,CM,npi,Nigerian Pidgin,0
 5,Q2,1222,Ewondo,26,CM,ewo,Ewondo,1
 5,Q2,1223,Bafang,26,CM,fef,Fe'fe',1
@@ -5177,7 +4776,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,1226,Bafut,26,CM,baf,Bafut,1
 5,Q2,1227,Bagangte,26,CM,fef,Fe'fe',1
 5,Q2,1227,Bagangte,26,CM,yem,Yemba,1
-5,Q2,1228,Bakundu,26,CM,bkn,Bakundu,1
 5,Q2,1228,Bakundu,26,CM,ldo,Londo,1
 5,Q2,1229,Bamileke,26,CM,fef,Fe'fe',1
 5,Q2,1229,Bamileke,26,CM,yem,Yemba,1
@@ -5191,7 +4789,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,1232,Bangwa,26,CM,mbz,Mbe',1
 5,Q2,1232,Bangwa,26,CM,mgk,Mungaka,1
 5,Q2,1232,Bangwa,26,CM,mkq,Mankon,1
-5,Q2,1232,Bangwa,26,CM,nge,Ngemba,1
 5,Q2,1232,Bangwa,26,CM,yba,Yamba,1
 5,Q2,1232,Bangwa,26,CM,yem,Yemba,1
 5,Q2,1233,Banso,26,CM,lns,Lamnso',1
@@ -5220,7 +4817,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,1249,Mafa,26,CM,ter,Tera,1
 5,Q2,1250,Maka,26,CM,mkz,Makaa,1
 5,Q2,1251,Mankon,26,CM,mkq,Mankon,1
-5,Q2,1251,Mankon,26,CM,nge,Ngemba,1
 5,Q2,1252,Massa,26,CM,lam,Lamé,1
 5,Q2,1253,Mbouda,26,CM,fef,Fe'fe',1
 5,Q2,1253,Mbouda,26,CM,yem,Yemba,1
@@ -5274,7 +4870,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,1268,Bété,27,CI,bet,Bété,0
 5,Q2,1269,Dida,27,CI,vat,Vata,1
 5,Q2,1270,Godié,27,CI,ddj,Dadjriwalé,1
-5,Q2,1270,Godié,27,CI,gdi,Godié,1
 5,Q2,1271,Gouro,27,CI,gro,Guro,1
 5,Q2,1273,Guéré,27,CI,gue,Guere,1
 5,Q2,1274,Koulango,27,CI,bmb,Bimoba,1
@@ -5284,14 +4879,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,1274,Koulango,27,CI,dgb,Dagbani,1
 5,Q2,1274,Koulango,27,CI,grm,Gurma,1
 5,Q2,1274,Koulango,27,CI,grn,Gurenne,1
-5,Q2,1274,Koulango,27,CI,gut,Gurma (Togo),1
 5,Q2,1274,Koulango,27,CI,kby,Kabiyé,1
 5,Q2,1274,Koulango,27,CI,kfe,Koromfe,1
 5,Q2,1274,Koulango,27,CI,kir,Kirma,1
 5,Q2,1274,Koulango,27,CI,kkb,Konkomba,1
 5,Q2,1274,Koulango,27,CI,kni,Konni,1
 5,Q2,1274,Koulango,27,CI,kow,Ko (Winye),1
-5,Q2,1274,Koulango,27,CI,ksm,Kasem,1
 5,Q2,1274,Koulango,27,CI,lob,Lobi,1
 5,Q2,1274,Koulango,27,CI,lye,Lyele,1
 5,Q2,1274,Koulango,27,CI,mmp,Mampruli,1
@@ -5303,11 +4896,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,1274,Koulango,27,CI,tem,Tem,1
 5,Q2,1274,Koulango,27,CI,tmp,Tampulma,1
 5,Q2,1274,Koulango,27,CI,tou,Toussian,1
+5,Q2,1274,Koulango,27,CI,tow,Toussian (Win),1
 5,Q2,1274,Koulango,27,CI,vag,Vagla,1
 5,Q2,1274,Koulango,27,CI,wwa,Waama,1
 5,Q2,1274,Koulango,27,CI,xsm,Kàsim,1
 5,Q2,1275,Kroumen,27,CI,grb,Grebo,1
-5,Q2,1279,Yacouba,27,CI,dan,Dan,1
 5,Q2,1279,Yacouba,27,CI,dbw,Dan (Blowo),1
 5,Q2,1280,Wobe,27,CI,wob,Wobe,1
 5,Q2,1281,Ebrie,27,CI,akn,Akan,1
@@ -5319,10 +4912,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,1282,Djimini,27,CI,dym,Dyimini,1
 5,Q2,1283,Bakwe,27,CI,bet,Bété,1
 5,Q2,1283,Bakwe,27,CI,ddj,Dadjriwalé,1
-5,Q2,1283,Bakwe,27,CI,gdi,Godié,1
 5,Q2,1283,Bakwe,27,CI,ney,Neyo,1
 5,Q2,1283,Bakwe,27,CI,vat,Vata,1
-5,Q2,1284,Ahizi,27,CI,aiz,Aizi,1
+5,Q2,1284,Ahizi,27,CI,bet,Bété,1
+5,Q2,1284,Ahizi,27,CI,ddj,Dadjriwalé,1
+5,Q2,1284,Ahizi,27,CI,grb,Grebo,1
+5,Q2,1284,Ahizi,27,CI,gue,Guere,1
+5,Q2,1284,Ahizi,27,CI,kla,Klao,1
+5,Q2,1284,Ahizi,27,CI,ney,Neyo,1
+5,Q2,1284,Ahizi,27,CI,vat,Vata,1
+5,Q2,1284,Ahizi,27,CI,wob,Wobe,1
 5,Q2,1285,Gniaboua,27,CI,gue,Guere,1
 5,Q2,1285,Gniaboua,27,CI,wob,Wobe,1
 5,Q2,1286,Kouzie,27,CI,gue,Guere,1
@@ -5348,13 +4947,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,1310,Loma,28,GN,lma,Loma,1
 5,Q2,1311,Manian,28,GN,man,Mano,1
 5,Q2,1312,Kissié,28,GN,kis,Kisi,1
+5,Q2,1312,Kissié,28,GN,kss,Kisi (Southern),1
 5,Q2,1313,Landouma,28,GN,bgs,Baga Sitemu,1
 5,Q2,1313,Landouma,28,GN,tne,Temne,1
 5,Q2,1314,Kouranko,28,GN,kko,Koranko,1
 5,Q2,1315,Kakabhe,28,GN,kko,Koranko,1
 5,Q2,1501,Hassaniya,33,MA,ahs,Arabic (Bani-Hassan),1
-5,Q2,1622,Isizulu,30,SZ,zno,Zulu (Northern),1
-5,Q2,1622,Isizulu,30,SZ,zso,Zulu (Southern),1
 5,Q2,1622,Isizulu,30,SZ,zul,Zulu,1
 5,Q2,2220,Tikari,26,CM,tik,Tikar,1
 5,Q2,2221,Toupouri,26,CM,tpr,Tupuri,1
@@ -5467,20 +5065,14 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q103,16,Ewe,11,GH,ewe,Ewe,0
 6,Q103,16,Ewe,32,TG,ewe,Ewe,0
 6,Q103,18,Fulfuldé,4,BF,fbf,Fula (Burkina Faso),1
-6,Q103,18,Fulfuldé,4,BF,fli,Ful (Liptako),1
 6,Q103,18,Fulfuldé,23,NE,fbf,Fula (Burkina Faso),1
-6,Q103,18,Fulfuldé,23,NE,fli,Ful (Liptako),1
 6,Q103,18,Fulfuldé,23,NE,fni,Fula (Nigerian),1
 6,Q103,20,Hausa,11,GH,hau,Hausa,1
 6,Q103,20,Hausa,24,NG,hau,Hausa,1
 6,Q103,32,Tamasheq,18,ML,tai,Tuareg (Air),1
-6,Q103,32,Tamasheq,18,ML,tgh,Tuareg (Ghat),1
 6,Q103,32,Tamasheq,18,ML,tsk,Tamashek,1
-6,Q103,32,Tamasheq,18,ML,tug,Tuareg (Ahaggar),1
 6,Q103,32,Tamasheq,23,NE,tai,Tuareg (Air),1
-6,Q103,32,Tamasheq,23,NE,tgh,Tuareg (Ghat),1
 6,Q103,32,Tamasheq,23,NE,tsk,Tamashek,1
-6,Q103,32,Tamasheq,23,NE,tug,Tuareg (Ahaggar),1
 6,Q103,35,Yoruba,2,BJ,yor,Yoruba,1
 6,Q103,35,Yoruba,24,NG,yor,Yoruba,1
 6,Q103,100,Fon,2,BJ,fon,Fongbe,1
@@ -5490,17 +5082,13 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q103,105,Peulh,2,BJ,fbf,Fula (Burkina Faso),1
 6,Q103,105,Peulh,2,BJ,fgo,Fulani (Gombe),1
 6,Q103,105,Peulh,2,BJ,fgu,Fula (Guinean),1
-6,Q103,105,Peulh,2,BJ,fli,Ful (Liptako),1
 6,Q103,105,Peulh,2,BJ,fma,Fula (Mauritanian),1
 6,Q103,105,Peulh,2,BJ,fni,Fula (Nigerian),1
-6,Q103,105,Peulh,2,BJ,fua,Fula (Cameroonian),1
 6,Q103,105,Peulh,2,BJ,fum,Fulfulde (Maasina),1
-6,Q103,105,Peulh,2,BJ,fus,Fula (Senegal),1
 6,Q103,106,Lopka,2,BJ,kby,Kabiyé,1
 6,Q103,140,Setswana,3,BW,tsw,Tswana,1
 6,Q103,180,Mooré,4,BF,moo,Mooré,1
 6,Q103,183,Gulmacema,4,BF,grm,Gurma,1
-6,Q103,183,Gulmacema,4,BF,gut,Gurma (Togo),1
 6,Q103,184,Gourounsi,4,BF,grn,Gurenne,1
 6,Q103,220,Crioulo,7,CV,ago,Angolar,0
 6,Q103,220,Crioulo,7,CV,gbc,Guinea Bissau Crioulo,0
@@ -5535,7 +5123,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q103,518,Sonrhai,18,ML,kse,Koyraboro Senni,0
 6,Q103,540,Makua,21,MZ,mua,Makua,1
 6,Q103,541,Sena,21,MZ,sen,Sena,1
-6,Q103,542,Ndau,21,MZ,krg,Karanga,1
 6,Q103,542,Ndau,21,MZ,shn,Shona,1
 6,Q103,543,Changana,21,MZ,tsn,Tsonga,1
 6,Q103,581,Oshiwambo (Oshindonga/Oshikwanyama),22,NA,mhu,Mbalanhu,1
@@ -5574,8 +5161,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q103,824,Lozi,35,ZM,loz,Lozi,1
 6,Q103,860,Ndebele,36,ZW,swt,Swati,1
 6,Q103,860,Ndebele,36,ZW,xho,Xhosa,1
-6,Q103,860,Ndebele,36,ZW,zno,Zulu (Northern),1
-6,Q103,860,Ndebele,36,ZW,zso,Zulu (Southern),1
 6,Q103,860,Ndebele,36,ZW,zul,Zulu,1
 6,Q103,861,Shona,36,ZW,shn,Shona,0
 6,Q103,900,Creole,19,MU,mcr,Mauritian Creole,0
@@ -5589,7 +5174,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q103,1144,Ben (Moba),32,TG,bmb,Bimoba,1
 6,Q103,1145,Nawdem (Losso),32,TG,bmb,Bimoba,1
 6,Q103,1145,Nawdem (Losso),32,TG,grm,Gurma,1
-6,Q103,1145,Nawdem (Losso),32,TG,gut,Gurma (Togo),1
 6,Q103,1145,Nawdem (Losso),32,TG,kkb,Konkomba,1
 6,Q103,1145,Nawdem (Losso),32,TG,ncm,Ncàm,1
 6,Q103,1180,Kirundi,5,BI,rnd,Rundi,1
@@ -5601,6 +5185,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q103,1305,Maninka,12,GN,mnk,Maninka,0
 6,Q103,1307,Kpèlè,12,GN,kpe,Kpelle,1
 6,Q103,1312,Kissié,12,GN,kis,Kisi,1
+6,Q103,1312,Kissié,12,GN,kss,Kisi (Southern),1
 6,Q103,1620,siSwati,30,SZ,swt,Swati,1
 6,Q103,1660,Creolo,25,ST,ago,Angolar,0
 6,Q103,9995,Other,6,CM,,,
@@ -5638,22 +5223,16 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,16,Ewe,11,GH,ewe,Ewe,0
 6,Q116,16,Ewe,32,TG,ewe,Ewe,0
 6,Q116,18,Fulfuldé,4,BF,fbf,Fula (Burkina Faso),1
-6,Q116,18,Fulfuldé,4,BF,fli,Ful (Liptako),1
 6,Q116,18,Fulfuldé,23,NE,fbf,Fula (Burkina Faso),1
-6,Q116,18,Fulfuldé,23,NE,fli,Ful (Liptako),1
 6,Q116,18,Fulfuldé,23,NE,fni,Fula (Nigerian),1
 6,Q116,20,Hausa,11,GH,hau,Hausa,1
 6,Q116,20,Hausa,24,NG,hau,Hausa,1
 6,Q116,28,Nyanja,21,MZ,cic,Chichewa,1
 6,Q116,28,Nyanja,35,ZM,cic,Chichewa,1
 6,Q116,32,Tamasheq,18,ML,tai,Tuareg (Air),1
-6,Q116,32,Tamasheq,18,ML,tgh,Tuareg (Ghat),1
 6,Q116,32,Tamasheq,18,ML,tsk,Tamashek,1
-6,Q116,32,Tamasheq,18,ML,tug,Tuareg (Ahaggar),1
 6,Q116,32,Tamasheq,23,NE,tai,Tuareg (Air),1
-6,Q116,32,Tamasheq,23,NE,tgh,Tuareg (Ghat),1
 6,Q116,32,Tamasheq,23,NE,tsk,Tamashek,1
-6,Q116,32,Tamasheq,23,NE,tug,Tuareg (Ahaggar),1
 6,Q116,35,Yoruba,2,BJ,yor,Yoruba,1
 6,Q116,35,Yoruba,24,NG,yor,Yoruba,1
 6,Q116,100,Fon,2,BJ,fon,Fongbe,1
@@ -5662,12 +5241,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,106,Peulh,2,BJ,fbf,Fula (Burkina Faso),1
 6,Q116,106,Peulh,2,BJ,fgo,Fulani (Gombe),1
 6,Q116,106,Peulh,2,BJ,fgu,Fula (Guinean),1
-6,Q116,106,Peulh,2,BJ,fli,Ful (Liptako),1
 6,Q116,106,Peulh,2,BJ,fma,Fula (Mauritanian),1
 6,Q116,106,Peulh,2,BJ,fni,Fula (Nigerian),1
-6,Q116,106,Peulh,2,BJ,fua,Fula (Cameroonian),1
 6,Q116,106,Peulh,2,BJ,fum,Fulfulde (Maasina),1
-6,Q116,106,Peulh,2,BJ,fus,Fula (Senegal),1
 6,Q116,107,Lopka,2,BJ,kby,Kabiyé,1
 6,Q116,140,Setswana,3,BW,tsw,Tswana,1
 6,Q116,142,Sekgalagadi,3,BW,tsw,Tswana,1
@@ -5676,7 +5252,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,180,Mooré,4,BF,moo,Mooré,1
 6,Q116,181,Dioula,4,BF,dyu,Dyula,1
 6,Q116,183,Gulmacema,4,BF,grm,Gurma,1
-6,Q116,183,Gulmacema,4,BF,gut,Gurma (Togo),1
 6,Q116,184,Gourounsi,4,BF,grn,Gurenne,1
 6,Q116,185,Bissa,4,BF,bis,Bisa,1
 6,Q116,190,Samo,4,BF,bok,Boko,1
@@ -5697,7 +5272,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,273,Dagaree,11,GH,dga,Dagaare,1
 6,Q116,275,Kotokoli,11,GH,tem,Tem,1
 6,Q116,279,Sissala,11,GH,ssa,Sisaala,1
-6,Q116,280,Kasem,11,GH,ksm,Kasem,1
 6,Q116,280,Kasem,11,GH,xsm,Kàsim,1
 6,Q116,300,Kikuyu,13,KE,kik,Kikuyu,1
 6,Q116,301,Luo,13,KE,luo,Luo,1
@@ -5743,7 +5317,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,518,Sonrhai,18,ML,kse,Koyraboro Senni,0
 6,Q116,540,Makua,21,MZ,mua,Makua,1
 6,Q116,541,Sena,21,MZ,sen,Sena,1
-6,Q116,542,Ndau,21,MZ,krg,Karanga,1
 6,Q116,542,Ndau,21,MZ,shn,Shona,1
 6,Q116,543,Changana,21,MZ,tsn,Tsonga,1
 6,Q116,545,Chope,21,MZ,eko,Ekoti,1
@@ -5758,8 +5331,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,545,Chope,21,MZ,tsw,Tswana,1
 6,Q116,545,Chope,21,MZ,ven,Venda,1
 6,Q116,545,Chope,21,MZ,xho,Xhosa,1
-6,Q116,545,Chope,21,MZ,zno,Zulu (Northern),1
-6,Q116,545,Chope,21,MZ,zso,Zulu (Southern),1
 6,Q116,545,Chope,21,MZ,zul,Zulu,1
 6,Q116,546,Bitonga,21,MZ,eko,Ekoti,1
 6,Q116,546,Bitonga,21,MZ,loz,Lozi,1
@@ -5773,8 +5344,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,546,Bitonga,21,MZ,tsw,Tswana,1
 6,Q116,546,Bitonga,21,MZ,ven,Venda,1
 6,Q116,546,Bitonga,21,MZ,xho,Xhosa,1
-6,Q116,546,Bitonga,21,MZ,zno,Zulu (Northern),1
-6,Q116,546,Bitonga,21,MZ,zso,Zulu (Southern),1
 6,Q116,546,Bitonga,21,MZ,zul,Zulu,1
 6,Q116,547,Makonde,21,MZ,mkd,Makonde,1
 6,Q116,548,Chuabo,21,MZ,eko,Ekoti,1
@@ -5813,18 +5382,14 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,662,Serer,26,SN,fbf,Fula (Burkina Faso),1
 6,Q116,662,Serer,26,SN,fgo,Fulani (Gombe),1
 6,Q116,662,Serer,26,SN,fgu,Fula (Guinean),1
-6,Q116,662,Serer,26,SN,fli,Ful (Liptako),1
 6,Q116,662,Serer,26,SN,fma,Fula (Mauritanian),1
 6,Q116,662,Serer,26,SN,fni,Fula (Nigerian),1
-6,Q116,662,Serer,26,SN,fua,Fula (Cameroonian),1
 6,Q116,662,Serer,26,SN,fum,Fulfulde (Maasina),1
-6,Q116,662,Serer,26,SN,fus,Fula (Senegal),1
 6,Q116,663,Mandinka/Bambara,26,SN,bam,Bambara,1
 6,Q116,663,Mandinka/Bambara,26,SN,dyu,Dyula,1
 6,Q116,663,Mandinka/Bambara,26,SN,maw,Maninka (Western),1
 6,Q116,663,Mandinka/Bambara,26,SN,mdk,Mandinka,1
 6,Q116,663,Mandinka/Bambara,26,SN,mka,Mauka,1
-6,Q116,663,Mandinka/Bambara,26,SN,mkg,Mandinka (Gambian),1
 6,Q116,663,Mandinka/Bambara,26,SN,mnk,Maninka,1
 6,Q116,663,Mandinka/Bambara,26,SN,xas,Xasonga,1
 6,Q116,665,Diola,26,SN,dio,Diola-Fogny,1
@@ -5872,14 +5437,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,841,Mambwe,35,ZM,mmw,Mambwe,1
 6,Q116,860,Ndebele,36,ZW,swt,Swati,1
 6,Q116,860,Ndebele,36,ZW,xho,Xhosa,1
-6,Q116,860,Ndebele,36,ZW,zno,Zulu (Northern),1
-6,Q116,860,Ndebele,36,ZW,zso,Zulu (Southern),1
 6,Q116,860,Ndebele,36,ZW,zul,Zulu,1
 6,Q116,861,Shona,36,ZW,shn,Shona,0
 6,Q116,862,Zezuru,36,ZW,shn,Shona,0
 6,Q116,863,Korekore,36,ZW,shn,Shona,0
 6,Q116,864,Karanga,36,ZW,krg,Karanga,0
-6,Q116,865,Manyika,36,ZW,krg,Karanga,1
 6,Q116,865,Manyika,36,ZW,shn,Shona,1
 6,Q116,900,Creole,19,MU,mcr,Mauritian Creole,0
 6,Q116,930,Krio,27,SL,npi,Nigerian Pidgin,0
@@ -5895,13 +5457,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,1100,Haoussa,23,NE,hau,Hausa,1
 6,Q116,1101,Zarma/Songhaï,23,NE,zar,Zarma,1
 6,Q116,1141,Mina (Guen),32,TG,ewa,Ewe (Anglo),1
-6,Q116,1141,Mina (Guen),32,TG,ewe,Ewe,1
 6,Q116,1142,Kabye,32,TG,kby,Kabiyé,1
 6,Q116,1143,Tem (Kotokoli),32,TG,tem,Tem,1
 6,Q116,1144,Ben (Moba),32,TG,bmb,Bimoba,1
 6,Q116,1145,Nawdem (Losso),32,TG,bmb,Bimoba,1
 6,Q116,1145,Nawdem (Losso),32,TG,grm,Gurma,1
-6,Q116,1145,Nawdem (Losso),32,TG,gut,Gurma (Togo),1
 6,Q116,1145,Nawdem (Losso),32,TG,kkb,Konkomba,1
 6,Q116,1145,Nawdem (Losso),32,TG,ncm,Ncàm,1
 6,Q116,1146,Lama (Lamba),32,TG,kby,Kabiyé,1
@@ -5915,7 +5475,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,1267,Baoulé,8,CI,ble,Baule,1
 6,Q116,1268,Bété,8,CI,bet,Bété,1
 6,Q116,1268,Bété,8,CI,ddj,Dadjriwalé,1
-6,Q116,1268,Bété,8,CI,gdi,Godié,1
 6,Q116,1271,Gouro,8,CI,gro,Guro,1
 6,Q116,1272,Guéré,8,CI,gue,Guere,1
 6,Q116,1277,Sénoufo,8,CI,dym,Dyimini,1
@@ -5924,7 +5483,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,1277,Sénoufo,8,CI,snd,Senadi,1
 6,Q116,1277,Sénoufo,8,CI,sup,Supyire,1
 6,Q116,1277,Sénoufo,8,CI,tny,Tenyer,1
-6,Q116,1283,Tour,8,CI,dan,Dan,1
 6,Q116,1283,Tour,8,CI,dbw,Dan (Blowo),1
 6,Q116,1300,Soussou,12,GN,sus,Susu,1
 6,Q116,1301,Poular,12,GN,fgu,Fula (Guinean),0
@@ -5932,8 +5490,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,1304,Kpèlè,12,GN,kpe,Kpelle,1
 6,Q116,1305,Toma,12,GN,lma,Loma,1
 6,Q116,1306,Kissié,12,GN,kis,Kisi,1
+6,Q116,1306,Kissié,12,GN,kss,Kisi (Southern),1
 6,Q116,1500,Berber Language,20,MA,bch,Berber (Chaouia),1
-6,Q116,1500,Berber Language,20,MA,bma,Berber (Middle Atlas),1
 6,Q116,1500,Berber Language,20,MA,bmz,Berber (Mzab),1
 6,Q116,1500,Berber Language,20,MA,bou,Berber (Wargla),1
 6,Q116,1500,Berber Language,20,MA,brf,Berber (Rif),1
@@ -5942,9 +5500,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,1500,Berber Language,20,MA,kbl,Kabyle,1
 6,Q116,1500,Berber Language,20,MA,tai,Tuareg (Air),1
 6,Q116,1500,Berber Language,20,MA,tas,Tashlhiyt,1
-6,Q116,1500,Berber Language,20,MA,tgh,Tuareg (Ghat),1
 6,Q116,1500,Berber Language,20,MA,tsk,Tamashek,1
-6,Q116,1500,Berber Language,20,MA,tug,Tuareg (Ahaggar),1
 6,Q116,1500,Berber Language,20,MA,zen,Zenaga,1
 6,Q116,1540,Sudanese Arabic,29,SD,abb,Arabic (Abbéché Chad),0
 6,Q116,1620,siSwati,30,SZ,swt,Swati,1
@@ -5963,14 +5519,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q116,2623,Maghai,24,NG,dgb,Dagbani,1
 6,Q116,2623,Maghai,24,NG,grm,Gurma,1
 6,Q116,2623,Maghai,24,NG,grn,Gurenne,1
-6,Q116,2623,Maghai,24,NG,gut,Gurma (Togo),1
 6,Q116,2623,Maghai,24,NG,kby,Kabiyé,1
 6,Q116,2623,Maghai,24,NG,kfe,Koromfe,1
 6,Q116,2623,Maghai,24,NG,kir,Kirma,1
 6,Q116,2623,Maghai,24,NG,kkb,Konkomba,1
 6,Q116,2623,Maghai,24,NG,kni,Konni,1
 6,Q116,2623,Maghai,24,NG,kow,Ko (Winye),1
-6,Q116,2623,Maghai,24,NG,ksm,Kasem,1
 6,Q116,2623,Maghai,24,NG,lob,Lobi,1
 6,Q116,2623,Maghai,24,NG,lye,Lyele,1
 6,Q116,2623,Maghai,24,NG,mmp,Mampruli,1
@@ -6047,7 +5601,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,10,Bassa,6,CM,bas,Basaá,0
 6,Q2,10,Bassa,15,LR,kla,Klao,0
 6,Q2,11,Berber Language,1,DZ,bch,Berber (Chaouia),1
-6,Q2,11,Berber Language,1,DZ,bma,Berber (Middle Atlas),1
 6,Q2,11,Berber Language,1,DZ,bmz,Berber (Mzab),1
 6,Q2,11,Berber Language,1,DZ,bou,Berber (Wargla),1
 6,Q2,11,Berber Language,1,DZ,brf,Berber (Rif),1
@@ -6056,12 +5609,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,11,Berber Language,1,DZ,kbl,Kabyle,1
 6,Q2,11,Berber Language,1,DZ,tai,Tuareg (Air),1
 6,Q2,11,Berber Language,1,DZ,tas,Tashlhiyt,1
-6,Q2,11,Berber Language,1,DZ,tgh,Tuareg (Ghat),1
 6,Q2,11,Berber Language,1,DZ,tsk,Tamashek,1
-6,Q2,11,Berber Language,1,DZ,tug,Tuareg (Ahaggar),1
 6,Q2,11,Berber Language,1,DZ,zen,Zenaga,1
 6,Q2,11,Berber Language,20,MA,bch,Berber (Chaouia),1
-6,Q2,11,Berber Language,20,MA,bma,Berber (Middle Atlas),1
 6,Q2,11,Berber Language,20,MA,bmz,Berber (Mzab),1
 6,Q2,11,Berber Language,20,MA,bou,Berber (Wargla),1
 6,Q2,11,Berber Language,20,MA,brf,Berber (Rif),1
@@ -6070,9 +5620,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,11,Berber Language,20,MA,kbl,Kabyle,1
 6,Q2,11,Berber Language,20,MA,tai,Tuareg (Air),1
 6,Q2,11,Berber Language,20,MA,tas,Tashlhiyt,1
-6,Q2,11,Berber Language,20,MA,tgh,Tuareg (Ghat),1
 6,Q2,11,Berber Language,20,MA,tsk,Tamashek,1
-6,Q2,11,Berber Language,20,MA,tug,Tuareg (Ahaggar),1
 6,Q2,11,Berber Language,20,MA,zen,Zenaga,1
 6,Q2,12,Bissa,4,BF,bis,Bisa,1
 6,Q2,12,Bissa,11,GH,bis,Bisa,1
@@ -6087,9 +5635,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,17,Fon,2,BJ,fon,Fongbe,1
 6,Q2,17,Fon,32,TG,fon,Fongbe,1
 6,Q2,18,Fulfuldé,4,BF,fbf,Fula (Burkina Faso),1
-6,Q2,18,Fulfuldé,4,BF,fli,Ful (Liptako),1
 6,Q2,18,Fulfuldé,23,NE,fbf,Fula (Burkina Faso),1
-6,Q2,18,Fulfuldé,23,NE,fli,Ful (Liptako),1
 6,Q2,18,Fulfuldé,23,NE,fni,Fula (Nigerian),1
 6,Q2,19,Haoussa,6,CM,hau,Hausa,1
 6,Q2,19,Haoussa,23,NE,hau,Hausa,1
@@ -6100,33 +5646,27 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,21,Kanuri,24,NG,knr,Kanuri,1
 6,Q2,22,Kissi,15,LR,kss,Kisi (Southern),1
 6,Q2,22,Kissi,27,SL,kis,Kisi,1
+6,Q2,22,Kissi,27,SL,kss,Kisi (Southern),1
 6,Q2,23,Lobi,4,BF,lob,Lobi,1
 6,Q2,23,Lobi,8,CI,lob,Lobi,1
 6,Q2,24,Mano,12,GN,man,Mano,1
 6,Q2,24,Mano,15,LR,man,Mano,1
 6,Q2,25,Mende,15,LR,mde,Mende,1
 6,Q2,25,Mende,27,SL,mde,Mende,1
-6,Q2,26,Ndau,21,MZ,krg,Karanga,1
 6,Q2,26,Ndau,21,MZ,shn,Shona,1
-6,Q2,26,Ndau,36,ZW,krg,Karanga,1
 6,Q2,26,Ndau,36,ZW,shn,Shona,1
 6,Q2,27,Ndebele,28,ZA,ndb,Ndebele (in South Africa),1
 6,Q2,27,Ndebele,36,ZW,swt,Swati,1
 6,Q2,27,Ndebele,36,ZW,xho,Xhosa,1
-6,Q2,27,Ndebele,36,ZW,zno,Zulu (Northern),1
-6,Q2,27,Ndebele,36,ZW,zso,Zulu (Southern),1
 6,Q2,27,Ndebele,36,ZW,zul,Zulu,1
 6,Q2,28,Nyanja,21,MZ,cic,Chichewa,1
 6,Q2,28,Nyanja,35,ZM,cic,Chichewa,1
 6,Q2,29,Peulh,2,BJ,fbf,Fula (Burkina Faso),1
 6,Q2,29,Peulh,2,BJ,fgo,Fulani (Gombe),1
 6,Q2,29,Peulh,2,BJ,fgu,Fula (Guinean),1
-6,Q2,29,Peulh,2,BJ,fli,Ful (Liptako),1
 6,Q2,29,Peulh,2,BJ,fma,Fula (Mauritanian),1
 6,Q2,29,Peulh,2,BJ,fni,Fula (Nigerian),1
-6,Q2,29,Peulh,2,BJ,fua,Fula (Cameroonian),1
 6,Q2,29,Peulh,2,BJ,fum,Fulfulde (Maasina),1
-6,Q2,29,Peulh,2,BJ,fus,Fula (Senegal),1
 6,Q2,29,Peulh,32,TG,fgu,Fula (Guinean),1
 6,Q2,29,Peulh,32,TG,fum,Fulfulde (Maasina),1
 6,Q2,30,Sénoufo,4,BF,dym,Dyimini,1
@@ -6144,13 +5684,9 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,31,Setswana,3,BW,tsw,Tswana,1
 6,Q2,31,Setswana,22,NA,tsw,Tswana,1
 6,Q2,32,Tamasheq,18,ML,tai,Tuareg (Air),1
-6,Q2,32,Tamasheq,18,ML,tgh,Tuareg (Ghat),1
 6,Q2,32,Tamasheq,18,ML,tsk,Tamashek,1
-6,Q2,32,Tamasheq,18,ML,tug,Tuareg (Ahaggar),1
 6,Q2,32,Tamasheq,23,NE,tai,Tuareg (Air),1
-6,Q2,32,Tamasheq,23,NE,tgh,Tuareg (Ghat),1
 6,Q2,32,Tamasheq,23,NE,tsk,Tamashek,1
-6,Q2,32,Tamasheq,23,NE,tug,Tuareg (Ahaggar),1
 6,Q2,33,Tonga,35,ZM,toz,Tonga (in Zambia),0
 6,Q2,33,Tonga,36,ZW,toz,Tonga (in Zambia),0
 6,Q2,34,Venda,28,ZA,ven,Venda,1
@@ -6173,11 +5709,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,146,Sembukushu,3,BW,bob,Bobangi,1
 6,Q2,146,Sembukushu,3,BW,bol,Bolia,1
 6,Q2,146,Sembukushu,3,BW,bsh,Bushoong,1
-6,Q2,146,Sembukushu,3,BW,cil,CiLuba,1
 6,Q2,146,Sembukushu,3,BW,dma,Duma,1
 6,Q2,146,Sembukushu,3,BW,dng,Ding,1
-6,Q2,146,Sembukushu,3,BW,dok,Doko,1
-6,Q2,146,Sembukushu,3,BW,fio,Fiote,1
 6,Q2,146,Sembukushu,3,BW,hem,Hemba,1
 6,Q2,146,Sembukushu,3,BW,her,Herero,1
 6,Q2,146,Sembukushu,3,BW,ifm,Ifumu,1
@@ -6216,7 +5749,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,149,Seyei,3,BW,yey,Yeyi,1
 6,Q2,180,Mooré,4,BF,moo,Mooré,1
 6,Q2,183,Gulmacema,4,BF,grm,Gurma,1
-6,Q2,183,Gulmacema,4,BF,gut,Gurma (Togo),1
 6,Q2,184,Gourounsi,4,BF,grn,Gurenne,1
 6,Q2,186,Birifor,4,BF,dga,Dagaare,1
 6,Q2,187,Bwamu,4,BF,kfe,Koromfe,0
@@ -6224,7 +5756,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,189,Fulse,4,BF,kfe,Koromfe,1
 6,Q2,190,Goin,4,BF,kir,Kirma,1
 6,Q2,191,Karaboro,4,BF,tny,Tenyer,1
-6,Q2,192,Kassena,4,BF,ksm,Kasem,1
 6,Q2,192,Kassena,4,BF,xsm,Kàsim,1
 6,Q2,194,Marka,4,BF,bam,Bambara,1
 6,Q2,194,Marka,4,BF,dyu,Dyula,1
@@ -6278,10 +5809,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,340,Sesotho,14,LS,ses,Sesotho,1
 6,Q2,341,Sephuthi,14,LS,swt,Swati,1
 6,Q2,342,Sethepu,14,LS,xho,Xhosa,1
-6,Q2,381,Belle,15,LR,aiz,Aizi,1
 6,Q2,381,Belle,15,LR,bet,Bété,1
 6,Q2,381,Belle,15,LR,ddj,Dadjriwalé,1
-6,Q2,381,Belle,15,LR,gdi,Godié,1
 6,Q2,381,Belle,15,LR,grb,Grebo,1
 6,Q2,381,Belle,15,LR,gue,Guere,1
 6,Q2,381,Belle,15,LR,kla,Klao,1
@@ -6335,7 +5864,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,506,Dogon,18,ML,tms,Tommo So,0
 6,Q2,509,Kakolo,18,ML,maw,Maninka (Western),1
 6,Q2,509,Kakolo,18,ML,mdk,Mandinka,1
-6,Q2,509,Kakolo,18,ML,mkg,Mandinka (Gambian),1
 6,Q2,509,Kakolo,18,ML,xas,Xasonga,1
 6,Q2,510,Khassonké,18,ML,xas,Xasonga,1
 6,Q2,511,Malinké,18,ML,maw,Maninka (Western),0
@@ -6365,8 +5893,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,545,Chope,21,MZ,tsw,Tswana,1
 6,Q2,545,Chope,21,MZ,ven,Venda,1
 6,Q2,545,Chope,21,MZ,xho,Xhosa,1
-6,Q2,545,Chope,21,MZ,zno,Zulu (Northern),1
-6,Q2,545,Chope,21,MZ,zso,Zulu (Southern),1
 6,Q2,545,Chope,21,MZ,zul,Zulu,1
 6,Q2,546,Bitonga,21,MZ,eko,Ekoti,1
 6,Q2,546,Bitonga,21,MZ,loz,Lozi,1
@@ -6380,8 +5906,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,546,Bitonga,21,MZ,tsw,Tswana,1
 6,Q2,546,Bitonga,21,MZ,ven,Venda,1
 6,Q2,546,Bitonga,21,MZ,xho,Xhosa,1
-6,Q2,546,Bitonga,21,MZ,zno,Zulu (Northern),1
-6,Q2,546,Bitonga,21,MZ,zso,Zulu (Southern),1
 6,Q2,546,Bitonga,21,MZ,zul,Zulu,1
 6,Q2,547,Makonde,21,MZ,mkd,Makonde,1
 6,Q2,548,Chuabo,21,MZ,eko,Ekoti,1
@@ -6405,11 +5929,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,587,Thimbukushu,22,NA,bob,Bobangi,1
 6,Q2,587,Thimbukushu,22,NA,bol,Bolia,1
 6,Q2,587,Thimbukushu,22,NA,bsh,Bushoong,1
-6,Q2,587,Thimbukushu,22,NA,cil,CiLuba,1
 6,Q2,587,Thimbukushu,22,NA,dma,Duma,1
 6,Q2,587,Thimbukushu,22,NA,dng,Ding,1
-6,Q2,587,Thimbukushu,22,NA,dok,Doko,1
-6,Q2,587,Thimbukushu,22,NA,fio,Fiote,1
 6,Q2,587,Thimbukushu,22,NA,hem,Hemba,1
 6,Q2,587,Thimbukushu,22,NA,her,Herero,1
 6,Q2,587,Thimbukushu,22,NA,ifm,Ifumu,1
@@ -6493,14 +6014,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,652,Waja,24,NG,dgb,Dagbani,1
 6,Q2,652,Waja,24,NG,grm,Gurma,1
 6,Q2,652,Waja,24,NG,grn,Gurenne,1
-6,Q2,652,Waja,24,NG,gut,Gurma (Togo),1
 6,Q2,652,Waja,24,NG,kby,Kabiyé,1
 6,Q2,652,Waja,24,NG,kfe,Koromfe,1
 6,Q2,652,Waja,24,NG,kir,Kirma,1
 6,Q2,652,Waja,24,NG,kkb,Konkomba,1
 6,Q2,652,Waja,24,NG,kni,Konni,1
 6,Q2,652,Waja,24,NG,kow,Ko (Winye),1
-6,Q2,652,Waja,24,NG,ksm,Kasem,1
 6,Q2,652,Waja,24,NG,lob,Lobi,1
 6,Q2,652,Waja,24,NG,lye,Lyele,1
 6,Q2,652,Waja,24,NG,mmp,Mampruli,1
@@ -6520,18 +6039,14 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,662,Serer,26,SN,fbf,Fula (Burkina Faso),1
 6,Q2,662,Serer,26,SN,fgo,Fulani (Gombe),1
 6,Q2,662,Serer,26,SN,fgu,Fula (Guinean),1
-6,Q2,662,Serer,26,SN,fli,Ful (Liptako),1
 6,Q2,662,Serer,26,SN,fma,Fula (Mauritanian),1
 6,Q2,662,Serer,26,SN,fni,Fula (Nigerian),1
-6,Q2,662,Serer,26,SN,fua,Fula (Cameroonian),1
 6,Q2,662,Serer,26,SN,fum,Fulfulde (Maasina),1
-6,Q2,662,Serer,26,SN,fus,Fula (Senegal),1
 6,Q2,663,Mandinka/Bambara,26,SN,bam,Bambara,1
 6,Q2,663,Mandinka/Bambara,26,SN,dyu,Dyula,1
 6,Q2,663,Mandinka/Bambara,26,SN,maw,Maninka (Western),1
 6,Q2,663,Mandinka/Bambara,26,SN,mdk,Mandinka,1
 6,Q2,663,Mandinka/Bambara,26,SN,mka,Mauka,1
-6,Q2,663,Mandinka/Bambara,26,SN,mkg,Mandinka (Gambian),1
 6,Q2,663,Mandinka/Bambara,26,SN,mnk,Maninka,1
 6,Q2,663,Mandinka/Bambara,26,SN,xas,Xasonga,1
 6,Q2,664,Soninke,26,SN,snn,Soninke,1
@@ -6628,7 +6143,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,830,Lunda,35,ZM,lbu,Lunda,0
 6,Q2,831,Bisa,35,ZM,lmb,Lamba,1
 6,Q2,832,Nkoya,35,ZM,blu,Bena-Lulua,1
-6,Q2,832,Nkoya,35,ZM,cil,CiLuba,1
 6,Q2,832,Nkoya,35,ZM,hem,Hemba,1
 6,Q2,832,Nkoya,35,ZM,kil,Kiluba,1
 6,Q2,832,Nkoya,35,ZM,kyo,Kanyok,1
@@ -6656,10 +6170,8 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,862,Zezuru,36,ZW,shn,Shona,0
 6,Q2,863,Korekore,36,ZW,shn,Shona,0
 6,Q2,864,Karanga,36,ZW,krg,Karanga,0
-6,Q2,865,Manyika,36,ZW,krg,Karanga,1
 6,Q2,865,Manyika,36,ZW,shn,Shona,1
 6,Q2,868,Kalanga,36,ZW,klz,Kalanga,1
-6,Q2,870,Buja,36,ZW,krg,Karanga,1
 6,Q2,870,Buja,36,ZW,shn,Shona,1
 6,Q2,871,Shangani,36,ZW,tsn,Tsonga,1
 6,Q2,872,Suthu,36,ZW,tsw,Tswana,1
@@ -6673,6 +6185,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,933,Limba,27,SL,tne,Temne,0
 6,Q2,934,Loko,27,SL,lok,Loko,1
 6,Q2,935,Sherbo,27,SL,kis,Kisi,1
+6,Q2,935,Sherbo,27,SL,kss,Kisi (Southern),1
 6,Q2,936,Fulla,27,SL,fgu,Fula (Guinean),0
 6,Q2,937,Kono,27,SL,vai,Vai,1
 6,Q2,938,Kuranko,27,SL,kko,Koranko,1
@@ -6682,13 +6195,11 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,1101,Zarma/Songhaï,23,NE,zar,Zarma,1
 6,Q2,1105,Goumantchéma,23,NE,grm,Gurma,0
 6,Q2,1141,Mina (Guen),32,TG,ewa,Ewe (Anglo),1
-6,Q2,1141,Mina (Guen),32,TG,ewe,Ewe,1
 6,Q2,1142,Kabye,32,TG,kby,Kabiyé,1
 6,Q2,1143,Tem (Kotokoli),32,TG,tem,Tem,1
 6,Q2,1144,Ben (Moba),32,TG,bmb,Bimoba,1
 6,Q2,1145,Nawdem (Losso),32,TG,bmb,Bimoba,1
 6,Q2,1145,Nawdem (Losso),32,TG,grm,Gurma,1
-6,Q2,1145,Nawdem (Losso),32,TG,gut,Gurma (Togo),1
 6,Q2,1145,Nawdem (Losso),32,TG,kkb,Konkomba,1
 6,Q2,1145,Nawdem (Losso),32,TG,ncm,Ncàm,1
 6,Q2,1146,Lama (Lamba),32,TG,kby,Kabiyé,1
@@ -6698,12 +6209,10 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,1151,Akebou,32,TG,avt,Avatime,1
 6,Q2,1151,Akebou,32,TG,kpo,Kposo,1
 6,Q2,1152,Gourma,32,TG,grm,Gurma,1
-6,Q2,1152,Gourma,32,TG,gut,Gurma (Togo),1
 6,Q2,1153,Konkomba,32,TG,kkb,Konkomba,1
 6,Q2,1154,Ngam-gam,32,TG,kkb,Konkomba,1
 6,Q2,1155,Tchamba,32,TG,ncm,Ncàm,1
 6,Q2,1157,Ouatchi,32,TG,ewa,Ewe (Anglo),1
-6,Q2,1157,Ouatchi,32,TG,ewe,Ewe,1
 6,Q2,1160,Tchpkossi (Anoufom),32,TG,anu,Anufo,1
 6,Q2,1180,Kirundi,5,BI,rnd,Rundi,1
 6,Q2,1220,Foufouldé,6,CM,fua,Fula (Cameroonian),0
@@ -6778,7 +6287,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,1267,Baoulé,8,CI,ble,Baule,1
 6,Q2,1268,Bété,8,CI,bet,Bété,1
 6,Q2,1268,Bété,8,CI,ddj,Dadjriwalé,1
-6,Q2,1268,Bété,8,CI,gdi,Godié,1
 6,Q2,1269,Dida,8,CI,vat,Vata,1
 6,Q2,1270,Godié,8,CI,gdi,Godié,0
 6,Q2,1271,Gouro,8,CI,gro,Guro,1
@@ -6790,14 +6298,12 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,1273,Koulango,8,CI,dgb,Dagbani,1
 6,Q2,1273,Koulango,8,CI,grm,Gurma,1
 6,Q2,1273,Koulango,8,CI,grn,Gurenne,1
-6,Q2,1273,Koulango,8,CI,gut,Gurma (Togo),1
 6,Q2,1273,Koulango,8,CI,kby,Kabiyé,1
 6,Q2,1273,Koulango,8,CI,kfe,Koromfe,1
 6,Q2,1273,Koulango,8,CI,kir,Kirma,1
 6,Q2,1273,Koulango,8,CI,kkb,Konkomba,1
 6,Q2,1273,Koulango,8,CI,kni,Konni,1
 6,Q2,1273,Koulango,8,CI,kow,Ko (Winye),1
-6,Q2,1273,Koulango,8,CI,ksm,Kasem,1
 6,Q2,1273,Koulango,8,CI,lob,Lobi,1
 6,Q2,1273,Koulango,8,CI,lye,Lyele,1
 6,Q2,1273,Koulango,8,CI,mmp,Mampruli,1
@@ -6809,6 +6315,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,1273,Koulango,8,CI,tem,Tem,1
 6,Q2,1273,Koulango,8,CI,tmp,Tampulma,1
 6,Q2,1273,Koulango,8,CI,tou,Toussian,1
+6,Q2,1273,Koulango,8,CI,tow,Toussian (Win),1
 6,Q2,1273,Koulango,8,CI,vag,Vagla,1
 6,Q2,1273,Koulango,8,CI,wwa,Waama,1
 6,Q2,1273,Koulango,8,CI,xsm,Kàsim,1
@@ -6825,6 +6332,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,1303,Kpèlè,12,GN,kpe,Kpelle,1
 6,Q2,1304,Loma,12,GN,lma,Loma,1
 6,Q2,1305,Kissié,12,GN,kis,Kisi,1
+6,Q2,1305,Kissié,12,GN,kss,Kisi (Southern),1
 6,Q2,1420,Algerian Arabic,1,DZ,amr,Arabic (Moroccan),0
 6,Q2,1420,Algerian Arabic,1,DZ,atu,Arabic (Tunisian),0
 6,Q2,1460,Egyptian Arabic,9,EG,aeg,Arabic (Egyptian),0
@@ -6843,7 +6351,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,1702,Kota,10,GA,bas,Basaá,1
 6,Q2,1702,Kota,10,GA,bfi,Bafia,1
 6,Q2,1702,Kota,10,GA,bga,Benga,1
-6,Q2,1702,Kota,10,GA,bkn,Bakundu,1
 6,Q2,1702,Kota,10,GA,bku,Bakueri,1
 6,Q2,1702,Kota,10,GA,bnk,Bankon,1
 6,Q2,1702,Kota,10,GA,buj,Bujeba,1
@@ -6861,7 +6368,6 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q2,1707,Kélè,10,GA,bas,Basaá,1
 6,Q2,1707,Kélè,10,GA,bfi,Bafia,1
 6,Q2,1707,Kélè,10,GA,bga,Benga,1
-6,Q2,1707,Kélè,10,GA,bkn,Bakundu,1
 6,Q2,1707,Kélè,10,GA,bku,Bakueri,1
 6,Q2,1707,Kélè,10,GA,bnk,Bankon,1
 6,Q2,1707,Kélè,10,GA,buj,Bujeba,1

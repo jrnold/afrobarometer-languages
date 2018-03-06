@@ -52,7 +52,8 @@ afrobarometer_other_to_iso %<>%
            inner_join(., iso_macrolangs, by = c(iso_639_3  = "iso_from")) %>%
              select(-iso_639_3, iso_639_3 = iso_to)
 )} %>%
-  distinct()
+  distinct() %>%
+  rename(iso_alpha2 = country)
 
 #' add ISO information
 afrobarometer_other_to_iso %<>%
@@ -65,9 +66,10 @@ afrobarometer_other_to_iso %<>%
 
 #' Add Additional info from Afrobarometer
 afrobarometer_other_to_iso <-
-  left_join(afrobarometer_langs_other,
+  left_join(select(afrobarometer_langs_other, round, variable, country,
+                   lang_name, value, iso_alpha2),
             afrobarometer_other_to_iso,
-            by = c("iso_alpha2" = "country", "lang_name")) %>%
+            by = c("iso_alpha2", "lang_name")) %>%
   select(round, variable, country, value, iso_639_3, iso_scope,
          iso_ref_name, iso_alpha2)
 

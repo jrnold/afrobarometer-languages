@@ -61,29 +61,17 @@ to_wals_filters <- IO$afrobarometer_mappings %>%
 # Use the Afrobarometer to Glottolog and Glottolog to WALS
 # mappings to fill in remaining Afrobarometer to WALS mappings
 to_wals_auto <-
-  IO$glottolog %>%
-  select(glottocode, wals_codes) %>%
-  inner_join(select(IO$afrobarometer_to_glottolog,
-                    round, variable, lang_id, country, iso_alpha2,
-                    glottocode),
-             by = "glottocode") %>%
-  anti_join(to_wals_manual, by = c("round", "variable", "lang_id", "country")) %>%
-  mutate(wals_codes = str_split(wals_codes, " "), auto = 1L) %>%
-  unnest(wals_codes) %>%
-  rename(wals_code = wals_codes) %>%
-  # Filter by countries
-  left_join(select(IO$wals, wals_code, countrycodes, genus),
-            by = "wals_code") %>%
+  IO$afrobarometer_to_glottolog %>%
+  select(round, variable, lang_id, country, iso_alpha2, glottocode) %>%
+  anti_join(to_wals_manual,
+            by = c("round", "variable", "lang_id", "country")) %>%
+  left_join(IO$glottolog_to_wals, by = "glottocode") %>%
+  distinct() %>%
+  left_join(select(IO$wals, wals_code, genus), by = "wals_code") %>%
   # I should always handle Creoles separately
   filter(genus != "Creoles and Pidgins") %>%
-  # Prefer matches within country
-  # mutate(in_country = str_detect(countrycodes, iso_alpha2)) %>%
-  # group_by(round, variable, lang_id, country) %>%
-  # filter(in_country == max(in_country)) %>%
-  ungroup() %>%
   select(round, variable, lang_id, country, wals_code) %>%
-  distinct() %>%
-  mutate(auto = 1)
+  mutate(auto = 1L)
 
 #' Combine the auto and manual matches
 afrobarometer_to_wals <- bind_rows(to_wals_manual, to_wals_auto)

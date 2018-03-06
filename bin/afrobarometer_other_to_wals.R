@@ -40,28 +40,18 @@ to_wals_manual <-
   mutate(auto = 0L)
 
 #' Fill any non-manually matched WALS variables
+# Use the Afrobarometer to Glottolog and Glottolog to WALS
+# mappings to fill in remaining Afrobarometer to WALS mappings
 to_wals_auto <-
-  IO$glottolog %>%
-  select(glottocode, wals_codes) %>%
-  inner_join(select(IO$afrobarometer_other_to_glottolog,
-                    round, variable, value, country, iso_alpha2,
-                    glottocode),
-             by = "glottocode") %>%
-  mutate(standardized_name = str_to_lower(value)) %>%
-  anti_join(to_wals_manual, by = c("round", "variable", "value", "country")) %>%
-  mutate(wals_codes = str_split(wals_codes, " "), auto = 1L) %>%
-  unnest(wals_codes) %>%
-  rename(wals_code = wals_codes) %>%
-  # Filter by countries
-  left_join(select(IO$wals, wals_code, countrycodes, genus),
-            by = "wals_code") %>%
+  IO$afrobarometer_other_to_glottolog %>%
+  filter(!is.na(glottocode)) %>%
+  anti_join(to_wals_manual,
+            by = c("round", "variable", "value", "country")) %>%
+  left_join(IO$glottolog_to_wals, by = "glottocode") %>%
+  distinct() %>%
+  left_join(select(IO$wals, wals_code, genus), by = "wals_code") %>%
   # I should always handle Creoles separately
   filter(genus != "Creoles and Pidgins") %>%
-  # Prefer matches within country
-  # mutate(in_country = str_detect(countrycodes, iso_alpha2)) %>%
-  # group_by(round, variable, lang_id, country) %>%
-  # filter(in_country == max(in_country)) %>%
-  ungroup() %>%
   select(round, variable, value, country, wals_code) %>%
   mutate(auto = 1L)
 
@@ -182,22 +172,22 @@ matches_unrelated_langs <-
   filter(n_genus > 1)
 
 #' All manual matches should be in the correct country
-country_nonmatches <-
-  afrobarometer_other_to_wals %>%
-  filter(!is.na(wals_code)) %>%
-  filter(!auto) %>%
-  anti_join(IO$afrobarometer_other_to_wals_country_nonmatches,
-            by = c("value", "iso_alpha2", "wals_code")) %>%
-  anti_join(unnest(select(wals, wals_code, countrycodes),
-                   countrycodes),
-            by = c("wals_code", iso_alpha2 = "countrycodes")) %>%
-  select(value, iso_alpha2, wals_code, wals_name) %>%
-  distinct()
-
-if (nrow(country_nonmatches)) {
-  print(country_nonmatches)
-  stop("Afrobarometer-to-WALS bad country matches found")
-}
+# country_nonmatches <-
+#   afrobarometer_other_to_wals %>%
+#   filter(!is.na(wals_code)) %>%
+#   filter(!auto) %>%
+#   anti_join(IO$afrobarometer_other_to_wals_country_nonmatches,
+#             by = c("value", "iso_alpha2", "wals_code")) %>%
+#   anti_join(unnest(select(wals, wals_code, countrycodes),
+#                    countrycodes),
+#             by = c("wals_code", iso_alpha2 = "countrycodes")) %>%
+#   select(value, iso_alpha2, wals_code, wals_name) %>%
+#   distinct()
+#
+# if (nrow(country_nonmatches)) {
+#   print(country_nonmatches)
+#   stop("Afrobarometer-to-WALS bad country matches found")
+# }
 
 #' Write output
 afrobarometer_other_to_wals %>%

@@ -4,7 +4,7 @@
 # for each country in the Afrobarometer surveys. This can be used
 # to check the plausibility of language matches since the Glottolog doesn't directly include country info.
 #
-source("src/R/init.R")
+source(here::here("src", "R", "init.R"))
 
 centroid <- function(countryCode, east, west, north, south, ...) {
   x <- matrix(c(east, east, west, west,

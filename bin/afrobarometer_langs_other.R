@@ -5,11 +5,13 @@
 #' List of all values of variables with free text fields for
 #' entering values of the language when "other" is selected.
 #'
-source("src/R/init.R")
+source(here::here("src", "R", "init.R"))
 
 OUTPUT <- project_path("data", "afrobarometer_langs_other.csv")
 
-afrobarometer_countries <- IO$afrobarometer_countries
+afrobarometer_countries <- IO$afrobarometer_countries %>%
+  select(round, country = value, iso_alpha2)
+
 
 #' For an Afrobarometer Dataset summarize the languages
 lang_summary <- function(lang_var, country_var, weight_var, .data) {
@@ -53,8 +55,7 @@ afrobarometer_langs_other_r <- function(.round) {
 
 afrobarometer_langs_other <- map_df(IO$misc_data$afrobarometer$rounds,
                                     afrobarometer_langs_other_r) %>%
-  left_join(select(afrobarometer_countries, -variable),
-            by = c("round", "country" = "value")) %>%
+  left_join(afrobarometer_countries, by = c("round", "country")) %>%
   select(round, variable, country, value, iso_alpha2, n_resp, prop) %>%
   arrange(round, variable, value)
 

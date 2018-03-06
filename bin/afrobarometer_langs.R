@@ -5,7 +5,7 @@
 #' Write Dataset of Afrobarometer Languages
 #'
 #'
-source("src/R/init.R")
+source(here::here("src", "R", "init.R"))
 
 OUTPUT <- project_path("data", "afrobarometer_langs.csv")
 
@@ -18,7 +18,6 @@ lang_summary <- function(lang_var, country_var, weight_var, .data) {
   mutate(country = as.integer(country),
          value = as.integer(lang),
          name = as.character(haven::as_factor(lang)),
-
   ) %>%
   group_by(country, value, name) %>%
   summarise(n_resp = n(), prop = sum(withinwt)) %>%
@@ -33,7 +32,8 @@ misc_data <- IO$misc_data
 
 #' Country Abbrevs
 afrobarometer_countries <- IO$afrobarometer_countries %>%
-  select(round, value, iso_alpha2)
+  select(round, value, iso_alpha2) %>%
+  rename(country = value)
 
 #' Create a dataset of all Afrobarometer datasets
 afrobarometer_langs_r <- function(.round) {
@@ -57,8 +57,7 @@ afrobarometer_langs_r <- function(.round) {
 
 afrobarometer_langs <- map_df(IO$misc_data$afrobarometer$rounds,
                               afrobarometer_langs_r) %>%
-  left_join(afrobarometer_countries,
-            by = c("round", "country" = "value")) %>%
+  left_join(afrobarometer_countries, by = c("round", "country")) %>%
   mutate(value = as.integer(value)) %>%
   select(round, variable, value, name, country, iso_alpha2,
          n_resp, prop) %>%
