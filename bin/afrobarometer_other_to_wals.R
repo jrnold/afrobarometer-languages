@@ -15,10 +15,7 @@ misc_data <- IO$misc_data
 wals <- IO$wals
 
 # Read Afrobarometer Other Languages
-afrobarometer_langs_other <-
-  IO$afrobarometer_langs_other %>%
-  # add variable to merge on
-  mutate(lang_name = str_to_lower(value))
+afrobarometer_langs_other <- IO$afrobarometer_langs_other
 
 #' Afrobarometer Mappings
 to_wals_manual <-
@@ -28,15 +25,15 @@ to_wals_manual <-
       out <- tidyr::crossing(iso_alpha2 = .x[["country"]],
 
                              wals_code = .x[["wals_codes"]])
-      out[["standardized_name"]] <- str_to_lower(.x$lang_name)
+      out[["lang_name_lower"]] <- str_to_lower(.x$lang_name)
       out
     }
   }) %>%
-  select(iso_alpha2, standardized_name, wals_code) %>%
+  select(iso_alpha2, lang_name_lower, wals_code) %>%
   left_join(mutate(IO$afrobarometer_langs_other,
-                   standardized_name = str_to_lower(value)),
-            by = c("standardized_name", "iso_alpha2")) %>%
-  select(round, variable, value, country, wals_code) %>%
+                   lang_name_lower = str_to_lower(lang_name)),
+            by = c("lang_name_lower", "iso_alpha2")) %>%
+  select(round, variable, lang_name, country, wals_code) %>%
   mutate(auto = 0L)
 
 #' Fill any non-manually matched WALS variables
@@ -46,13 +43,13 @@ to_wals_auto <-
   IO$afrobarometer_other_to_glottolog %>%
   filter(!is.na(glottocode)) %>%
   anti_join(to_wals_manual,
-            by = c("round", "variable", "value", "country")) %>%
+            by = c("round", "variable", "lang_name", "country")) %>%
   left_join(IO$glottolog_to_wals, by = "glottocode") %>%
   distinct() %>%
   left_join(select(IO$wals, wals_code, genus), by = "wals_code") %>%
   # I should always handle Creoles separately
   filter(genus != "Creoles and Pidgins") %>%
-  select(round, variable, value, country, wals_code) %>%
+  select(round, variable, lang_name, country, wals_code) %>%
   mutate(auto = 1L)
 
 #' Combine the auto and manual matches
@@ -70,10 +67,10 @@ afrobarometer_other_to_wals %<>%
 afrobarometer_other_to_wals <-
   left_join(afrobarometer_langs_other,
              afrobarometer_other_to_wals,
-             by = c("round", "variable", "country", "value")) %>%
-  select(round, variable, country, value, iso_alpha2, wals_code,
+             by = c("round", "variable", "country", "lang_name")) %>%
+  select(round, variable, country, lang_name, iso_alpha2, wals_code,
          wals_name, auto) %>%
-  arrange(round, variable, country, value)
+  arrange(round, variable, country, lang_name)
 
 #'
 #' # Tests
@@ -82,7 +79,7 @@ afrobarometer_other_to_wals <-
 # check primary key
 assert_that(
   nrow(distinct(afrobarometer_other_to_wals,
-                round, variable, country, value, wals_code)) ==
+                round, variable, country, lang_name, wals_code)) ==
     nrow(afrobarometer_other_to_wals)
 )
 
@@ -101,8 +98,8 @@ with(afrobarometer_other_to_wals, {
   assert_that(all(country >= 1 & country <= 36))
 
   # Lang Id
-  assert_that(all(!is.na(value)))
-  assert_that(is.character(value))
+  assert_that(all(!is.na(lang_name)))
+  assert_that(is.character(lang_name))
 
   # Wals code
   assert_that(is.character(wals_code))
@@ -138,9 +135,9 @@ missing_wals <-
   filter(is.na(wals_code)) %>%
   # missing ISO shouldn't match
   left_join(filter(IO$afrobarometer_other_to_glottolog) %>%
-              select(country, value, glottocode) %>%
+              select(country, lang_name, glottocode) %>%
               distinct(),
-            by = c("country", "value")) %>%
+            by = c("country", "lang_name")) %>%
   filter(is.na(wals_code) & !is.na(glottocode)) %>%
   distinct()
 if (nrow(missing_wals) > 0) {
@@ -167,27 +164,9 @@ matches_unrelated_langs <-
   # remove WALS non-matches
   filter(!is.na(wals_code)) %>%
   left_join(select(wals, wals_code, genus), by = "wals_code") %>%
-  group_by(round, variable, country, value) %>%
+  group_by(round, variable, country, lang_name) %>%
   summarise(n_genus = length(unique(genus))) %>%
   filter(n_genus > 1)
-
-#' All manual matches should be in the correct country
-# country_nonmatches <-
-#   afrobarometer_other_to_wals %>%
-#   filter(!is.na(wals_code)) %>%
-#   filter(!auto) %>%
-#   anti_join(IO$afrobarometer_other_to_wals_country_nonmatches,
-#             by = c("value", "iso_alpha2", "wals_code")) %>%
-#   anti_join(unnest(select(wals, wals_code, countrycodes),
-#                    countrycodes),
-#             by = c("wals_code", iso_alpha2 = "countrycodes")) %>%
-#   select(value, iso_alpha2, wals_code, wals_name) %>%
-#   distinct()
-#
-# if (nrow(country_nonmatches)) {
-#   print(country_nonmatches)
-#   stop("Afrobarometer-to-WALS bad country matches found")
-# }
 
 #' Write output
 afrobarometer_other_to_wals %>%

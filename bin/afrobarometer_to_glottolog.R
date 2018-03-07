@@ -34,26 +34,28 @@ to_glottocodes <-
     out
   }) %>%
   left_join(select(IO$afrobarometer_langs,
-                    round, variable, lang_id = value, iso_alpha2),
+                    round, variable, lang_id, iso_alpha2),
              by = c("round", "variable", "lang_id")) %>%
   filter(is.na(valid_country) | (valid_country == iso_alpha2)) %>%
   select(-valid_country)
 
 # All matches
 afrobarometer_to_glottolog <-
-  left_join(
-    select(IO$afrobarometer_langs, round,
-           lang_id = value, variable, iso_alpha2, country, lang_name = name),
-    to_glottocodes,
-    by = c("round", "variable", "lang_id", "iso_alpha2")) %>%
-  select(round, variable, lang_id, lang_name, country, iso_alpha2, glottocode) %>%
+  IO$afrobarometer_langs %>%
+  select(round, variable, lang_id, lang_name, country, iso_alpha2) %>%
+  left_join(to_glottocodes,
+            by = c("round", "variable", "lang_id", "iso_alpha2")) %>%
+  left_join(select(IO$glottolog_languoids, glottocode, level,
+                   glottolog_name = name),
+            by = "glottocode") %>%
+  select(round, lang_id, variable, iso_alpha2, country,
+         lang_name, glottocode, glottolog_name, level) %>%
   arrange(round, variable, lang_id, country)
 
 #'
 #' # Test data
 #'
-assert_that(nrow(afrobarometer_to_glottolog) ==
-              nrow(IO$afrobarometer_langs))
+assert_that(nrow(afrobarometer_to_glottolog) == nrow(IO$afrobarometer_langs))
 
 #' check primary key
 assert_that(nrow(distinct(afrobarometer_to_glottolog,
@@ -74,23 +76,12 @@ if (nrow(invalid_glottocode)) {
 to_glottolog_langmiss <-
   afrobarometer_to_glottolog %>%
   anti_join(IO$afrobarometer_langs,
-            by = c("round", "variable", "lang_id" = "value", "country"))
+            by = c("round", "variable", "lang_id", "country"))
 if (nrow(to_glottolog_langmiss)) {
   print(to_glottolog_langmiss)
   stop("Invalid Afrobarometer languages found")
 }
 
-#' If ISO code is non-missing, then the Glottocode should also be non-missing
-to_glottolog_nonmatches <-
-  IO$afrobarometer_langs %>%
-  anti_join(filter(IO$afrobarometer_to_iso, iso_scope == "S"),
-            by = c("round", "variable", "value" = "lang_id", "country")) %>%
-  anti_join(afrobarometer_to_glottolog,
-            by = c("round", "variable", "value" = "lang_id", "country"))
-if (nrow(to_glottolog_nonmatches)) {
-  print(to_glottolog_nonmatches)
-  stop("Unaccounted for non-matches found")
-}
 
 #' Check that all combinations of (country, language name)
 #' match the same Glottocodes across rounds
@@ -108,19 +99,6 @@ if (nrow(inconsistent_mappings)) {
   print(inconsistent_mappings)
   stop("There are inconsistent mappings across rounds in afrobaromter_to_glottolog")
 }
-
-#' All languages should be in the African Macroarea
-# glottolog_non_african <-
-#   afrobarometer_to_glottolog %>%
-#     filter(!is.na(glottocode)) %>%
-#     anti_join(filter(IO$glottolog_macroareas, macroarea == "Africa"),
-#               by = "glottocode") %>%
-#     filter(!glottocode %in% IO$misc_data$glottolog$non_african)
-# if (nrow(glottolog_non_african)) {
-#   print(select(glottolog_non_african,
-#                glottocode, lang_name, round, variable, lang_id))
-#   stop("Non-African Glottolog languages found")
-# }
 
 col_types <- cols(
   iso_alpha2 = col_character(),

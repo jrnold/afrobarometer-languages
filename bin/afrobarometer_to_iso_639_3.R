@@ -10,8 +10,7 @@ source("src/R/init.R")
 OUTPUT <- project_path("data", "afrobarometer_to_iso_639_3.csv")
 
 # Read Afrobarometer Languages
-afrobarometer_langs <- IO$afrobarometer_langs %>%
-  rename(lang_id = value, lang_name = name)
+afrobarometer_langs <- IO$afrobarometer_langs
 
 # Misc datan
 misc_data <- IO$misc_data

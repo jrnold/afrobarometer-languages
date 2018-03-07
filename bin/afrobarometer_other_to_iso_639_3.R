@@ -10,9 +10,7 @@ source("src/R/init.R")
 OUTPUT <- project_path("data", "afrobarometer_other_to_iso_639_3.csv")
 
 # Read Afrobarometer Languages
-afrobarometer_langs_other <- IO$afrobarometer_langs_other %>%
-  # add variable to merge on
-  mutate(lang_name = str_to_lower(value))
+afrobarometer_langs_other <- IO$afrobarometer_langs_other
 
 # Misc datan
 misc_data <- IO$misc_data
@@ -67,10 +65,10 @@ afrobarometer_other_to_iso %<>%
 #' Add Additional info from Afrobarometer
 afrobarometer_other_to_iso <-
   left_join(select(afrobarometer_langs_other, round, variable, country,
-                   lang_name, value, iso_alpha2),
+                   lang_name, lang_name, iso_alpha2),
             afrobarometer_other_to_iso,
             by = c("iso_alpha2", "lang_name")) %>%
-  select(round, variable, country, value, iso_639_3, iso_scope,
+  select(round, variable, country, lang_name, iso_639_3, iso_scope,
          iso_ref_name, iso_alpha2)
 
 
@@ -81,7 +79,7 @@ afrobarometer_other_to_iso <-
 # Primary Key
 assert_that(
   nrow(distinct(afrobarometer_other_to_iso, round, variable,
-                country, value, iso_639_3)) ==
+                country, lang_name, iso_639_3)) ==
     nrow(afrobarometer_other_to_iso)
 )
 
@@ -97,8 +95,8 @@ with(afrobarometer_other_to_iso, {
   assert_that(is.integer(country))
   assert_that(all(country >= 1 & country <= 36))
 
-  assert_that(all(!is.na(value)))
-  assert_that(is.character(value))
+  assert_that(all(!is.na(lang_name)))
+  assert_that(is.character(lang_name))
 
   # Iso Code
   assert_that(all(!is.na(iso_639_3)))
@@ -139,7 +137,7 @@ if (nrow(iso_country_non_matches)) {
 num_macrolangs <-
   afrobarometer_other_to_iso %>%
   filter(iso_scope == "M") %>%
-  count(round, variable, value, country) %>%
+  count(round, variable, lang_name, country) %>%
   filter(n > 1)
 if (nrow(num_macrolangs) > 1) {
   print(num_macrolangs)
@@ -150,7 +148,7 @@ if (nrow(num_macrolangs) > 1) {
 num_indiv_langs <-
   afrobarometer_other_to_iso %>%
   filter(iso_scope %in% c("I", "M")) %>%
-  group_by(round, variable, value, country) %>%
+  group_by(round, variable, lang_name, country) %>%
   summarise(n = sum(iso_scope == "I")) %>%
   filter(n == 0)
 if (nrow(num_indiv_langs) > 1) {

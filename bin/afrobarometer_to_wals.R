@@ -36,7 +36,7 @@ to_wals_manual <- IO$afrobarometer_mappings %>%
   }) %>%
   inner_join(IO$afrobarometer_langs,
              afrobarometer_to_wals,
-             by = c("round", "variable", lang_id = "value")) %>%
+             by = c("round", "variable", "lang_id")) %>%
   # keep only valid matches
   filter(is.na(valid_country) | valid_country == iso_alpha2) %>%
   select(round, variable, lang_id, country, wals_code) %>%
@@ -80,9 +80,7 @@ afrobarometer_to_wals <- bind_rows(to_wals_manual, to_wals_auto)
 afrobarometer_to_wals <-
   left_join(IO$afrobarometer_langs,
             afrobarometer_to_wals,
-            by = c("round", "variable", "country",
-                   value = "lang_id")) %>%
-  rename(lang_name = name, lang_id = value)
+            by = c("round", "variable", "country", "lang_id"))
 
 #' Add WALS info
 afrobarometer_to_wals %<>%
@@ -139,7 +137,7 @@ if (nrow(wals_nonmatches) > 0) {
 afrobarometer_lang_nonmatches <-
   anti_join(IO$afrobarometer_langs,
             afrobarometer_to_wals,
-            by = c("round", "variable", value = "lang_id", "country"))
+            by = c("round", "variable", "lang_id", "country"))
 stopifnot(nrow(afrobarometer_lang_nonmatches) == 0)
 
 #' All WALS languages should be from the Africa Macrolanguage unless accounted

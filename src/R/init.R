@@ -258,7 +258,7 @@ env_bind_fns(IO,
     path <- project_path("data-raw",
                          "afrobarometer_other_to_wals_country_nonmatches.csv")
     col_types <- cols_only(
-      value = col_character(),
+      lang_name = col_character(),
       iso_alpha2 = col_character(),
       wals_code = col_character()
     )
@@ -287,7 +287,7 @@ env_bind_fns(IO,
       round = col_integer(),
       variable = col_character(),
       country = col_integer(),
-      value = col_character(),
+      lang_name = col_character(),
       iso_alpha2 = col_character(),
       wals_code = col_character(),
       wals_name = col_character(),
@@ -302,7 +302,7 @@ env_bind_fns(IO,
       round = col_integer(),
       variable = col_character(),
       country = col_integer(),
-      value = col_character(),
+      lang_id = col_character(),
       iso_639_3 = col_character(),
       iso_scope = col_character(),
       iso_ref_name = col_character(),
@@ -317,7 +317,7 @@ env_bind_fns(IO,
       round = col_integer(),
       variable = col_character(),
       country = col_integer(),
-      value = col_character(),
+      lang_name = col_character(),
       iso_639_3 = col_character(),
       iso_scope = col_character(),
       iso_ref_name = col_character(),
@@ -373,8 +373,8 @@ env_bind_fns(IO, afrobarometer_langs = function() {
   col_types <- cols(
     round = col_integer(),
     variable = col_character(),
-    value = col_integer(),
-    name = col_character(),
+    lang_id = col_integer(),
+    lang_name = col_character(),
     country = col_integer(),
     iso_alpha2 = col_character()
   )
@@ -387,7 +387,7 @@ env_bind_fns(IO, afrobarometer_langs_other = function() {
     round = col_integer(),
     variable = col_character(),
     country = col_integer(),
-    value = col_character(),
+    lang_name = col_character(),
     iso_alpha2 = col_character()
   )
   read_csv(path, na = "", col_types = col_types)
@@ -426,7 +426,7 @@ env_bind_fns(IO, afrobarometer_other_to_iso = function() {
     round = col_integer(),
     variable = col_character(),
     country = col_integer(),
-    value = col_character(),
+    lang_id = col_character(),
     iso_639_3 = col_character(),
     iso_scope = col_character(),
     iso_ref_name = col_character(),
@@ -454,7 +454,7 @@ env_bind_fns(IO, afrobarometer_other_to_glottolog = function() {
   col_types <- cols(
     round = col_integer(),
     variable = col_character(),
-    value = col_character(),
+    lang_name = col_character(),
     iso_alpha2 = col_character(),
     country = col_integer(),
     glottocode = col_character()

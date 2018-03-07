@@ -1,4 +1,4 @@
-round,variable,value,name,country,iso_alpha2,n_resp,prop
+round,variable,lang_id,lang_name,country,iso_alpha2,n_resp,prop
 1,language,1,Afrikaans,1,BW,1,8.333333333333334e-4
 1,language,1,Afrikaans,6,NA,129,0.10904480135249366
 1,language,1,Afrikaans,8,ZA,383,0.1432667173761402
