@@ -16,10 +16,10 @@ lang_summary <- function(lang_var, country_var, weight_var, .data) {
          country = UQ(sym(country_var)),
          withinwt = UQ(sym(weight_var))) %>%
   mutate(country = as.integer(country),
-         value = as.integer(lang),
-         name = as.character(haven::as_factor(lang)),
+         lang_id = as.integer(lang),
+         lang_name = as.character(haven::as_factor(lang)),
   ) %>%
-  group_by(country, value, name) %>%
+  group_by(country, lang_id, lang_name) %>%
   summarise(n_resp = n(), prop = sum(withinwt)) %>%
   group_by(country) %>%
   mutate(prop = prop / sum(prop)) %>%
@@ -58,10 +58,10 @@ afrobarometer_langs_r <- function(.round) {
 afrobarometer_langs <- map_df(IO$misc_data$afrobarometer$rounds,
                               afrobarometer_langs_r) %>%
   left_join(afrobarometer_countries, by = c("round", "country")) %>%
-  mutate(value = as.integer(value)) %>%
-  select(round, variable, value, name, country, iso_alpha2,
+  mutate(lang_id = as.integer(lang_id)) %>%
+  select(round, variable, lang_id, lang_name, country, iso_alpha2,
          n_resp, prop) %>%
-  arrange(round, variable, value, iso_alpha2)
+  arrange(round, variable, lang_id, iso_alpha2)
 
 with(afrobarometer_langs, {
   assert_that(all(!is.na(round)))
@@ -72,12 +72,12 @@ with(afrobarometer_langs, {
   assert_that(all(!is.na(variable)))
 
   # Lang Id
-  assert_that(is.integer(value))
-  assert_that(all(value >= -1 & value <= 9999))
+  assert_that(is.integer(lang_id))
+  assert_that(all(lang_id >= -1 & lang_id <= 9999))
 
   # Lang Name
-  assert_that(all(!is.na(name)))
-  assert_that(is.character(name))
+  assert_that(all(!is.na(lang_name)))
+  assert_that(is.character(lang_name))
 
   # country
   assert_that(is.integer(country))
@@ -107,8 +107,8 @@ assert_that(!nrow(prop_sums_to_one))
 
 
 # unique keys are unique
-assert_that(nrow(distinct(afrobarometer_langs, round,
-                          variable, value, country)) ==
+assert_that(nrow(distinct(afrobarometer_langs, round, variable,
+                          lang_id, country)) ==
               nrow(afrobarometer_langs))
 
 #' Ouptut

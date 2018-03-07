@@ -6,7 +6,7 @@ glottolog_distances <- function() {
   glottolog_db <- src_sqlite("external/lingdata/glottolog.db")
 
   ab_to_glottolog <- IO$afrobarometer_to_glottolog %>%
-    select(round, country, variable, lang_id, country, glottocode, iso_alpha,
+    select(round, country, variable, lang_id, country, glottocode, iso_alpha2,
            level) %>%
     filter(!is.na(glottocode))
 
@@ -21,7 +21,7 @@ glottolog_distances <- function() {
 
   # Dialects to languages
   ab_to_glottolog_dialects <-
-    left_join(ab_to_glottolog, glottolog_languoids, by = "glottocode") %>%
+    left_join(select(ab_to_glottolog, -level), glottolog_languoids, by = "glottocode") %>%
     filter(level == "dialect") %>%
     select(-glottocode, -descendants, -level) %>%
     unnest(ancestors) %>%
@@ -81,8 +81,10 @@ asjp_distances <- function() {
            (country_1 != country_2) |
            (lang_id_1 < lang_id_2)) %>%
     # db only has distances for language_1 < language_2
-    mutate(asjp_language_ = if_else(asjp_language_2 < asjp_language_1, asjp_language_1, asjp_language_2),
-           asjp_language_1 = if_else(asjp_language_2 < asjp_language_1, asjp_language_2, asjp_language_1),
+    mutate(asjp_language_ = if_else(asjp_language_2 < asjp_language_1,
+                                    asjp_language_1, asjp_language_2),
+           asjp_language_1 = if_else(asjp_language_2 < asjp_language_1,
+                                     asjp_language_2, asjp_language_1),
            asjp_language_2 = asjp_language_) %>%
     select(-asjp_language_)
 

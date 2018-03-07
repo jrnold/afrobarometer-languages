@@ -16,12 +16,13 @@ afrobarometer_countries <- IO$afrobarometer_countries %>%
 #' For an Afrobarometer Dataset summarize the languages
 lang_summary <- function(lang_var, country_var, weight_var, .data) {
   select(.data,
-         value = UQ(sym(lang_var)),
+         lang_name = UQ(sym(lang_var)),
          country = UQ(sym(country_var)),
          withinwt = UQ(sym(weight_var))) %>%
-    filter(value != "") %>%
-    mutate(country = as.integer(country)) %>%
-    group_by(country, value) %>%
+    filter(lang_name != "") %>%
+    mutate(country = as.integer(country),
+           lang_name = str_to_lower(lang_name)) %>%
+    group_by(country, lang_name) %>%
     summarise(n_resp = n(), prop = sum(withinwt)) %>%
     group_by(country) %>%
     mutate(prop = prop / sum(prop)) %>%
@@ -56,8 +57,8 @@ afrobarometer_langs_other_r <- function(.round) {
 afrobarometer_langs_other <- map_df(IO$misc_data$afrobarometer$rounds,
                                     afrobarometer_langs_other_r) %>%
   left_join(afrobarometer_countries, by = c("round", "country")) %>%
-  select(round, variable, country, value, iso_alpha2, n_resp, prop) %>%
-  arrange(round, variable, value)
+  select(round, variable, country, lang_name, iso_alpha2, n_resp, prop) %>%
+  arrange(round, variable, lang_name)
 
 afrobarometer_langs_other %>%
   write_csv(OUTPUT, na = "")
