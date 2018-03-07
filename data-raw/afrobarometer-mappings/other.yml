@@ -3270,7 +3270,7 @@
   iso_639_3:
   - guj
   lang_name: indian
-  note: Assume Gujarati since it seems common
+  note: Assume Gujarati since it seems the most common Indian language in Kenya.
   wals_codes: null
 - country: KE
   glottocode: swah1253
@@ -3614,7 +3614,7 @@
 - country: MW
   glottocode: null
   iso_639_3:
-  - mis
+  - mwn
   lang_name: chinamwanga
   wals_codes: null
 - country: MW
@@ -3644,9 +3644,9 @@
   lang_name: chinkhonde
   wals_codes: null
 - country: MW
-  glottocode: null
+  glottocode: nyak1260
   iso_639_3:
-  - mis
+  - nyy
   lang_name: chinyakyusa
   wals_codes: null
 - country: MW
@@ -3662,9 +3662,9 @@
   lang_name: chinyika
   wals_codes: null
 - country: MW
-  glottocode: null
+  glottocode: nyun1248
   iso_639_3:
-  - mis
+  - nyu
   lang_name: chinyungwe
   wals_codes: null
 - country: MW
@@ -3680,11 +3680,13 @@
   lang_name: chitonga
   wals_codes: null
 - country: MW
-  glottocode: null
+  glottocode: mala1475
   iso_639_3:
-  - mis
+  - swk
   lang_name: chiwandya
   wals_codes: null
+  comment: >
+    Chimanganja is a dialect of Malawi Sena
 - country: MW
   glottocode: yaoo1241
   iso_639_3:
@@ -3698,11 +3700,13 @@
   lang_name: khokhola
   wals_codes: null
 - country: MW
-  glottocode: null
+  glottocode: nyam1275
   iso_639_3:
-  - mis
+  - mwn
   lang_name: namwanga
   wals_codes: null
+  comment: >
+    https://en.wikipedia.org/wiki/Mwanga_language
 - country: MW
   glottocode: ndal1241
   iso_639_3:
@@ -3716,11 +3720,13 @@
   lang_name: nyika
   wals_codes: null
 - country: MW
-  glottocode: null
+  glottocode: lala1264
   iso_639_3:
-  - mis
+  - leb
   lang_name: wiza
   wals_codes: null
+  comment: >
+    Wiza is a dialect of Lala-Bisa, spoken in Zambia.
 - country: MZ
   glottocode: gito1238
   iso_639_3:
@@ -3904,6 +3910,8 @@
   - mis
   lang_name: chona
   wals_codes: null
+  comment: >
+    Probably Shona (ndc).
 - country: MZ
   glottocode: null
   iso_639_3:
@@ -4551,6 +4559,8 @@
   - mis
   lang_name: shona, cheua
   wals_codes: null
+  comment: >
+    Could be Shona or Chewa. Not sure. Possibly nya or ndc
 - country: MZ
   glottocode: takw1238
   iso_639_3:
@@ -4709,6 +4719,8 @@
   - mis
   lang_name: abi
   wals_codes: null
+  comment: >
+    Abi is a LGA
 - country: NG
   glottocode: abua1244
   iso_639_3:
@@ -4727,6 +4739,8 @@
   - mfn
   lang_name: adun
   wals_codes: null
+  comment: >
+    Adun is a dialect of "Mbembe, Cross River"
 - country: NG
   glottocode: nucl1417
   iso_639_3:
@@ -4752,6 +4766,8 @@
   - mis
   lang_name: ahoada
   wals_codes: null
+  comment: >
+    Adhoada East and Ahoada West are LGAs
 - country: NG
   glottocode: null
   iso_639_3:
@@ -4764,12 +4780,17 @@
   - mis
   lang_name: aka
   wals_codes: null
+  comment: >
+    "aka" and "akan" appears in many languages. https://en.wikipedia.org/wiki/List_of_Languages_in_Nigeria.
 - country: NG
-  glottocode: null
+  glottocode: ikaa1238
   iso_639_3:
-  - mis
+  - ikk
   lang_name: akumazi
   wals_codes: null
+  comment: >
+    Akumazi are part of the Ika people <https://en.wikipedia.org/wiki/Ika_people>.
+    They speek Ika.
 - country: NG
   glottocode: gwan1268
   iso_639_3:
@@ -4839,17 +4860,22 @@
   lang_name: auchi
   wals_codes: null
 - country: NG
-  glottocode: null
+  glottocode: eloy1241
   iso_639_3:
-  - mis
+  - afo
   lang_name: aukwe
   wals_codes: null
+  comment: >
+    Akweya is a subgroup that include Eloyi (afo)
 - country: NG
   glottocode: null
   iso_639_3:
   - mis
   lang_name: awa
   wals_codes: null
+  comment: >
+    Awa ends the names of manu locations and languges, e.g. Adamawa.
+    Too many to find an unambiguous match.
 - country: NG
   glottocode: awak1250
   iso_639_3:
@@ -4862,6 +4888,8 @@
   - yor
   lang_name: awori
   wals_codes: null
+  comment: >
+    Awori are a tribe of Yoruba <https://en.wikipedia.org/wiki/Awori_tribe>.
 - country: NG
   glottocode: null
   iso_639_3:
@@ -6453,9 +6481,9 @@
   wals_codes:
   - pri
 - country: SZ
-  glottocode: null
+  glottocode: hind1269
   iso_639_3:
-  - und
+  - hin
   lang_name: indian
   wals_codes: null
 - country: SZ
@@ -6850,9 +6878,9 @@
   lang_name: kihangaza
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: hind1269
   iso_639_3:
-  - mis
+  - hin
   lang_name: kihindi
   wals_codes: null
 - country: TZ
@@ -8023,11 +8051,18 @@
   wals_codes:
   - mnd
 - country: ZA
-  glottocode: null
+  glottocode: hind1269
   iso_639_3:
-  - und
+  - hin
   lang_name: indian
   wals_codes: null
+  comment: >
+    Hindi, Urdu, and Tamil appear in https://www.ethnologue.com/country/ZA/languages.
+
+    Hindi, Tamil, Gujarati, Telugu, and Urdu tuaght in schools: https://www.ndtv.com/india-news/indian-languages-to-be-official-subjects-in-south-african-schools-554493.
+
+    Tamil is a Davidian language; Hindi and Urdu are Indo-European.
+
 - country: ZA
   glottocode: amha1245
   iso_639_3:
@@ -8379,9 +8414,9 @@
   lang_name: changani
   wals_codes: null
 - country: ZW
-  glottocode: null
+  glottocode: nyan1308
   iso_639_3:
-  - mis
+  - nya
   lang_name: chewa
   wals_codes: null
 - country: ZW
@@ -8427,9 +8462,9 @@
   lang_name: garwe
   wals_codes: null
 - country: ZW
-  glottocode: null
+  glottocode: hind1269
   iso_639_3:
-  - mis
+  - hin
   lang_name: hindi
   wals_codes: null
 - country: ZW
