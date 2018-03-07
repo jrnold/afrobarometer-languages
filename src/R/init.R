@@ -328,7 +328,7 @@ env_bind_fns(IO,
 
   glottolog_languoids = function() {
     src_sqlite("external/lingdata/glottolog.db") %>%
-      tbl("languages") %>%
+      tbl("languoids") %>%
       filter(!bookkeeping) %>%
       collect()
   },
