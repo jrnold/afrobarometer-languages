@@ -420,20 +420,6 @@ env_bind_fns(IO, afrobarometer_to_iso = function() {
   read_csv(path, na = "", col_types = col_types)
 })
 
-env_bind_fns(IO, afrobarometer_other_to_iso = function() {
-  path <- project_path("data", "afrobarometer_other_to_iso_639_3.csv")
-  col_types <- cols(
-    round = col_integer(),
-    variable = col_character(),
-    country = col_integer(),
-    lang_id = col_character(),
-    iso_639_3 = col_character(),
-    iso_scope = col_character(),
-    iso_ref_name = col_character(),
-    iso_alpha2 = col_character()
-  )
-  read_csv(path, na = "", col_types = col_types)
-})
 
 env_bind_fns(IO, afrobarometer_to_glottolog = function() {
   path <- project_path("data", "afrobarometer_to_glottolog.csv")
