@@ -53,7 +53,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 4,changani,Q3OTHER,ZW,20,,,
 4,cheua,Q3OTHER,MZ,12,nyan1308,Nyanja,language
 4,chewa,Q3OTHER,MZ,12,nyan1308,Nyanja,language
-4,chewa,Q3OTHER,ZW,20,,,
+4,chewa,Q3OTHER,ZW,20,nyan1308,Nyanja,language
 4,chewe,Q3OTHER,MZ,12,nyan1308,Nyanja,language
 4,chibok,Q3OTHER,NG,14,ciba1236,Cibak,language
 4,chichewa,Q3OTHER,ZA,16,nyan1308,Nyanja,language
@@ -108,7 +108,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 4,igara,Q3OTHER,NG,14,igal1242,Igala,language
 4,igede,Q3OTHER,NG,14,iged1239,Igede,language
 4,indian,Q3OTHER,KE,6,guja1252,Gujarati,language
-4,indian,Q3OTHER,ZA,16,,,
+4,indian,Q3OTHER,ZA,16,hind1269,Hindi,language
 4,ipia,Q3OTHER,NG,14,,,
 4,isixhoza,Q3OTHER,LS,7,xhos1239,Xhosa,language
 4,iyala,Q3OTHER,NG,14,yala1263,Yala,language
@@ -144,7 +144,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 4,kidigo,Q3OTHER,TZ,17,digo1243,Digo,language
 4,kiha,Q3OTHER,TZ,17,haaa1252,Ha,language
 4,kihangaza,Q3OTHER,TZ,17,hang1260,Hangaza,language
-4,kihindi,Q3OTHER,TZ,17,,,
+4,kihindi,Q3OTHER,TZ,17,hind1269,Hindi,language
 4,kiiraqi,Q3OTHER,TZ,17,,,
 4,kijaluo,Q3OTHER,TZ,17,,,
 4,kijita,Q3OTHER,TZ,17,jita1239,Jita,language
@@ -155,7 +155,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 4,kikonongo,Q3OTHER,TZ,17,kono1265,Konongo,language
 4,kikutu,Q3OTHER,TZ,17,kutu1263,Kutu,language
 4,kikwaya,Q3OTHER,TZ,17,kway1241,Kwaya,language
-4,kilambya,Q3OTHER,TZ,17,,,
+4,kilambya,Q3OTHER,TZ,17,lamb1272,Lambya,language
 4,kilindi,Q3OTHER,TZ,17,,,
 4,kilungwa,Q3OTHER,TZ,17,,,
 4,kimakua,Q3OTHER,TZ,17,makh1261,Makhuwa-Meetto,language
@@ -181,10 +181,10 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 4,kinyiha,Q3OTHER,TZ,17,nyik1247,Nyika (Tanzania),language
 4,kipangwa,Q3OTHER,TZ,17,pang1287,Pangwa,language
 4,kipimbwe,Q3OTHER,TZ,17,pimb1238,Pimbwe,language
-4,kipogoro,Q3OTHER,TZ,17,,,
+4,kipogoro,Q3OTHER,TZ,17,pogo1243,Pogolo,language
 4,kipsigis,Q3OTHER,KE,6,kips1239,Kipsigis,language
 4,kirangi,Q3OTHER,TZ,17,lang1320,Langi,language
-4,kiryeri,Q3OTHER,TZ,17,,,
+4,kiryeri,Q3OTHER,TZ,17,suba1252,Suba-Simbiti,language
 4,kisafwa,Q3OTHER,TZ,17,safw1238,Safwa,language
 4,kisagara,Q3OTHER,TZ,17,saga1256,Sagala,language
 4,kisambaa,Q3OTHER,TZ,17,sham1280,Shambala,language
@@ -261,7 +261,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 4,nafana,Q3OTHER,GH,5,nafa1258,Nafaanra,language
 4,nambia,Q3OTHER,ZW,20,,,
 4,nambya,Q3OTHER,ZW,20,namb1291,Nambya,language
-4,namwanga,Q3OTHER,MW,10,,,
+4,namwanga,Q3OTHER,MW,10,nyam1275,Nyamwanga,language
 4,nanum,Q3OTHER,GH,5,dagb1246,Dagbani,language
 4,ndali,Q3OTHER,MW,10,ndal1241,Ndali,language
 4,ndau,Q3OTHER,ZW,20,ndau1241,Ndau,language
@@ -345,7 +345,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 4,waala,Q3OTHER,GH,5,wali1263,Wali (Ghana),language
 4,waja,Q3OTHER,NG,14,waja1259,Waja,language
 4,wassa,Q3OTHER,GH,5,wasa1244,Wasa,language
-4,wiza,Q3OTHER,MW,10,,,
+4,wiza,Q3OTHER,MW,10,lala1264,Lala-Bisa,language
 4,xiteu,Q3OTHER,MZ,12,tewe1238,Tewe,language
 4,xitsua,Q3OTHER,MZ,12,tswa1255,Tswa,language
 4,yakur,Q3OTHER,NG,14,loka1252,Lokaa,language
@@ -462,7 +462,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 5,akan,Q2OTHER,GH,5,akan1250,Akan,language
 5,akebou,Q2OTHER,TG,24,akeb1238,Akebu,language
 5,aklobo,Q2OTHER,TG,24,,,
-5,akumazi,Q2OTHER,NG,14,,,
+5,akumazi,Q2OTHER,NG,14,ikaa1238,Ika,language
 5,akyode,Q2OTHER,GH,5,giky1238,Gikyode,language
 5,alago,Q2OTHER,NG,14,alag1242,Alago,language
 5,ambo-batibo,Q2OTHER,CM,26,,,
@@ -567,7 +567,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 5,chamba,Q2OTHER,NG,14,samb1311,Samba Daka,language
 5,chawai,Q2OTHER,NG,14,atsa1241,Atsam,language
 5,chechewa,Q2OTHER,MZ,12,nyan1308,Nyanja,language
-5,chewa,Q2OTHER,ZW,20,,,
+5,chewa,Q2OTHER,ZW,20,nyan1308,Nyanja,language
 5,chibarue,Q2OTHER,MZ,12,barw1243,Barwe,language
 5,chibaure,Q2OTHER,MZ,12,barw1243,Barwe,language
 5,chibok,Q2OTHER,NG,14,ciba1236,Cibak,language
@@ -587,7 +587,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 5,chingoni,Q2OTHER,MZ,12,ngon1269,Ngoni,language
 5,chingozi,Q2OTHER,MZ,12,,,
 5,chinhungue,Q2OTHER,MZ,12,many1258,Manyika,language
-5,chinyakyusa,Q2OTHER,MW,10,,,
+5,chinyakyusa,Q2OTHER,MW,10,nyak1260,Nyakyusa-Ngonde,language
 5,chinyika,Q2OTHER,MW,10,nyik1246,Nyika (Malawi and Zambia),language
 5,chitawala,Q2OTHER,MZ,12,tawa1270,Tawara,language
 5,chitawala,Q2OTHER,ZW,20,,,
@@ -659,7 +659,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 5,hassaniya,Q2OTHER,MA,33,hass1238,Hassaniyya,language
 5,higgi,Q2OTHER,NG,14,kamw1239,Kamwe,language
 5,hina,Q2OTHER,CM,26,mina1276,Mina (Cameroon),language
-5,hindi,Q2OTHER,ZW,20,,,
+5,hindi,Q2OTHER,ZW,20,hind1269,Hindi,language
 5,hindu,Q2OTHER,KE,6,hind1269,Hindi,language
 5,houssa,Q2OTHER,BJ,1,haus1257,Hausa,language
 5,hwesa,Q2OTHER,ZW,20,shon1251,Shona,language
@@ -741,7 +741,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 5,kimbulu,Q2OTHER,TZ,17,,,
 5,kimdale,Q2OTHER,TZ,17,,,
 5,kimuani,Q2OTHER,MZ,12,mwan1247,Mwani,language
-5,kimuwanji,Q2OTHER,TZ,17,,,
+5,kimuwanji,Q2OTHER,TZ,17,vwan1235,Vwanji,language
 5,kimwera,Q2OTHER,TZ,17,mwer1248,Mwera (Chimwera),language
 5,kinata,Q2OTHER,TZ,17,ikom1245,Ikoma-Nata-Isenye,language
 5,kindali,Q2OTHER,TZ,17,ndal1241,Ndali,language
@@ -749,7 +749,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 5,kindendeule,Q2OTHER,TZ,17,nden1249,Ndendeule,language
 5,kindengereko,Q2OTHER,TZ,17,nden1248,Ndengereko,language
 5,kingindo,Q2OTHER,TZ,17,ngin1244,Ngindo,language
-5,kinguu,Q2OTHER,TZ,17,,,
+5,kinguu,Q2OTHER,TZ,17,ngul1246,Ngulu,language
 5,kinyagatwa,Q2OTHER,TZ,17,,,
 5,kinyambo,Q2OTHER,TZ,17,nyam1277,Nyambo,language
 5,kinyamulenge,Q2OTHER,UG,18,kiny1244,Kinyarwanda,language
@@ -760,18 +760,18 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 5,kinyiha,Q2OTHER,TZ,17,nyik1247,Nyika (Tanzania),language
 5,kipagebi,Q2OTHER,TZ,17,,,
 5,kipangwa,Q2OTHER,TZ,17,pang1287,Pangwa,language
-5,kipemba,Q2OTHER,TZ,17,,,
+5,kipemba,Q2OTHER,TZ,17,pemb1239,Pemba,dialect
 5,kipimbwe,Q2OTHER,TZ,17,pimb1238,Pimbwe,language
-5,kipogoro,Q2OTHER,TZ,17,,,
+5,kipogoro,Q2OTHER,TZ,17,pogo1243,Pogolo,language
 5,kirangi,Q2OTHER,TZ,17,lang1320,Langi,language
 5,kirinyaga,Q2OTHER,KE,6,kiku1240,Kikuyu,language
-5,kirufiji,Q2OTHER,TZ,17,,,
+5,kirufiji,Q2OTHER,TZ,17,rufi1236,Rufijic,family
 5,kisafwa,Q2OTHER,TZ,17,safw1238,Safwa,language
 5,kisagala,Q2OTHER,TZ,17,saga1256,Sagala,language
 5,kisambaa,Q2OTHER,TZ,17,sham1280,Shambala,language
 5,kisandawe,Q2OTHER,TZ,17,sand1273,Sandawe,language
 5,kisangu,Q2OTHER,TZ,17,sang1330,Sangu (Tanzania),language
-5,kisanzu,Q2OTHER,TZ,17,,,
+5,kisanzu,Q2OTHER,TZ,17,isan1243,Isanzu,language
 5,kishirazi,Q2OTHER,TZ,17,,,
 5,kisimbiti,Q2OTHER,TZ,17,suba1252,Suba-Simbiti,language
 5,kisubi,Q2OTHER,TZ,17,shub1238,Shubi,language
@@ -782,9 +782,9 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 5,kitongwe,Q2OTHER,TZ,17,tong1320,Tongwe,language
 5,kitumbatu,Q2OTHER,TZ,17,,,
 5,kituwan,Q2OTHER,TZ,17,,,
-5,kiuwanji,Q2OTHER,TZ,17,,,
+5,kiuwanji,Q2OTHER,TZ,17,vwan1235,Vwanji,language
 5,kiyao,Q2OTHER,TZ,17,yaoo1241,Yao,language
-5,kiyusi,Q2OTHER,TZ,17,,,
+5,kiyusi,Q2OTHER,TZ,17,gusi1247,Gusii,language
 5,kizanaki,Q2OTHER,TZ,17,zana1238,Zanaki,language
 5,kizaramo,Q2OTHER,TZ,17,zara1247,Zaramo,language
 5,kizigua,Q2OTHER,TZ,17,zigu1242,Zigula,language
@@ -1254,7 +1254,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 6,ashem,Q2OTHER,CM,6,,,
 6,asumb0,Q2OTHER,CM,6,ipul1238,Ipulo-Olulu,language
 6,atweti,Q2OTHER,GH,11,,,
-6,aukwe,Q2OTHER,NG,24,,,
+6,aukwe,Q2OTHER,NG,24,eloy1241,Eloyi,language
 6,avatime,Q2OTHER,GH,11,avat1244,Avatime,language
 6,babadjon,Q2OTHER,CM,6,,,
 6,babadjou,Q2OTHER,CM,6,ngom1271,Ngombale,language
@@ -1331,15 +1331,15 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 6,chena,Q2OTHER,MZ,21,nucl1396,Sena,language
 6,cheua,Q2OTHER,MZ,21,nyan1308,Nyanja,language
 6,chewa,Q2OTHER,MZ,21,nyan1308,Nyanja,language
-6,chewa,Q2OTHER,ZW,36,,,
+6,chewa,Q2OTHER,ZW,36,nyan1308,Nyanja,language
 6,chewe,Q2OTHER,MZ,21,nyan1308,Nyanja,language
 6,chikunda,Q2OTHER,ZM,35,kund1255,Chikunda,language
 6,chimambwe,Q2OTHER,MW,17,,,
 6,chindali,Q2OTHER,MW,17,ndal1241,Ndali,language
-6,chinyakyusa,Q2OTHER,MW,17,,,
+6,chinyakyusa,Q2OTHER,MW,17,nyak1260,Nyakyusa-Ngonde,language
 6,chinyanja,Q2OTHER,MW,17,nyan1308,Nyanja,language
 6,chinyika,Q2OTHER,MW,17,nyik1246,Nyika (Malawi and Zambia),language
-6,chinyungwe,Q2OTHER,MW,17,,,
+6,chinyungwe,Q2OTHER,MW,17,nyun1248,Nyungwe,language
 6,chiswahili,Q2OTHER,MW,17,swah1253,Swahili,language
 6,chitcheiwa,Q2OTHER,MZ,21,nyan1308,Nyanja,language
 6,chitewe,Q2OTHER,MZ,21,tewe1238,Tewe,language
@@ -1347,7 +1347,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 6,chitoko,Q2OTHER,ZW,36,,,
 6,chitsua,Q2OTHER,MZ,21,tswa1255,Tswa,language
 6,chitxua,Q2OTHER,MZ,21,tswa1255,Tswa,language
-6,chiwandya,Q2OTHER,MW,17,,,
+6,chiwandya,Q2OTHER,MW,17,mala1475,Malawi Sena,language
 6,chiyamba,Q2OTHER,ZM,35,,,
 6,chona,Q2OTHER,MZ,21,,,
 6,choua,Q2OTHER,CM,6,,,
@@ -1435,7 +1435,7 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 6,haoussa,Q2OTHER,NE,23,haus1257,Hausa,language
 6,ibo,Q2OTHER,CM,6,,,
 6,ichen,Q2OTHER,NG,24,etky1238,Etkywan,language
-6,indian,Q2OTHER,SZ,30,,,
+6,indian,Q2OTHER,SZ,30,hind1269,Hindi,language
 6,isizulu,Q2OTHER,SZ,30,zulu1248,Zulu,language
 6,isu,Q2OTHER,CM,6,isuf1235,Isu (Fako Division),language
 6,ithopiwa,Q2OTHER,ZA,28,amha1245,Amharic,language
@@ -1505,10 +1505,10 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 6,kindamba,Q2OTHER,TZ,31,ndam1239,Ndamba,language
 6,kindendeule,Q2OTHER,TZ,31,nden1249,Ndendeule,language
 6,kindengereko,Q2OTHER,TZ,31,nden1248,Ndengereko,language
-6,kindonde,Q2OTHER,TZ,31,,,
-6,kindyewe,Q2OTHER,TZ,31,,,
+6,kindonde,Q2OTHER,TZ,31,mako1251,Makonde,language
+6,kindyewe,Q2OTHER,TZ,31,kere1283,Kerewe,language
 6,kingindo,Q2OTHER,TZ,31,ngin1244,Ngindo,language
-6,kinguu,Q2OTHER,TZ,31,,,
+6,kinguu,Q2OTHER,TZ,31,ngul1246,Ngulu,language
 6,kinyambo,Q2OTHER,TZ,31,nyam1277,Nyambo,language
 6,kinyamwanga,Q2OTHER,TZ,31,nyam1275,Nyamwanga,language
 6,kinyantuzu,Q2OTHER,TZ,31,,,
@@ -1516,12 +1516,12 @@ round,lang_name,variable,iso_alpha2,country,glottocode,glottolog_name,level
 6,kinyasa,Q2OTHER,TZ,31,mpot1240,Mpoto,language
 6,kinyaturu,Q2OTHER,TZ,31,nyat1246,Nyaturu,language
 6,kinyiha,Q2OTHER,TZ,31,nyik1247,Nyika (Tanzania),language
-6,kinyimbo,Q2OTHER,TZ,31,,,
-6,kinyiramba,Q2OTHER,TZ,31,,,
+6,kinyimbo,Q2OTHER,TZ,31,nyam1277,Nyambo,language
+6,kinyiramba,Q2OTHER,TZ,31,nila1242,Nilamba,language
 6,kinyisanzu,Q2OTHER,TZ,31,isan1243,Isanzu,language
 6,kipangwa,Q2OTHER,TZ,31,pang1287,Pangwa,language
-6,kipemba,Q2OTHER,TZ,31,,,
-6,kipogoro,Q2OTHER,TZ,31,,,
+6,kipemba,Q2OTHER,TZ,31,pemb1239,Pemba,dialect
+6,kipogoro,Q2OTHER,TZ,31,pogo1243,Pogolo,language
 6,kipsigis,Q2OTHER,KE,13,kips1239,Kipsigis,language
 6,kirangi,Q2OTHER,TZ,31,lang1320,Langi,language
 6,kiruri,Q2OTHER,TZ,31,kway1241,Kwaya,language

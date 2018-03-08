@@ -154,6 +154,7 @@ wals_non_african <-
   filter(!is.na(macroarea)) %>%
   filter(!wals_code %in% misc_data$wals$non_african$values) %>%
   filter(!(macroarea %in% "Africa"))
+
 if (nrow(wals_non_african) > 0) {
   print(wals_non_african, n = 100, width = 10000)
   stop("There exist unaccounted for non-African languages in the data:\n")

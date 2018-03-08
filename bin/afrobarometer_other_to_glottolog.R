@@ -51,12 +51,13 @@ assert_that(nrow(distinct(afrobarometer_to_glottolog,
             == nrow(afrobarometer_to_glottolog))
 
 #' all glottolog langs should be valid
-invalid_glottocode <-
+invalid_glottocodes <-
   afrobarometer_to_glottolog %>%
   filter(!is.na(glottocode)) %>%
   anti_join(glottolog_languoids, by = c("glottocode" = "glottocode"))
-if (nrow(invalid_glottocode)) {
-  print(glottolog_glottocode)
+
+if (nrow(invalid_glottocodes)) {
+  print(invalid_glottocodes)
   stop("Unaccounted for non-matches found")
 }
 

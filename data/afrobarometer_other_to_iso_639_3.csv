@@ -56,7 +56,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,20,changani,mis,S,Uncoded languages,ZW
 4,Q3OTHER,12,cheua,nya,I,Nyanja,MZ
 4,Q3OTHER,12,chewa,nya,I,Nyanja,MZ
-4,Q3OTHER,20,chewa,mis,S,Uncoded languages,ZW
+4,Q3OTHER,20,chewa,nya,I,Nyanja,ZW
 4,Q3OTHER,12,chewe,nya,I,Nyanja,MZ
 4,Q3OTHER,14,chibok,ckl,I,Cibak,NG
 4,Q3OTHER,16,chichewa,nya,I,Nyanja,ZA
@@ -113,7 +113,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,14,igara,igl,I,Igala,NG
 4,Q3OTHER,14,igede,ige,I,Igede,NG
 4,Q3OTHER,6,indian,guj,I,Gujarati,KE
-4,Q3OTHER,16,indian,und,S,Undetermined,ZA
+4,Q3OTHER,16,indian,hin,I,Hindi,ZA
 4,Q3OTHER,14,ipia,mis,S,Uncoded languages,NG
 4,Q3OTHER,7,isixhoza,xho,I,Xhosa,LS
 4,Q3OTHER,14,iyala,yba,I,Yala,NG
@@ -149,7 +149,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,17,kidigo,dig,I,Digo,TZ
 4,Q3OTHER,17,kiha,haq,I,Ha,TZ
 4,Q3OTHER,17,kihangaza,han,I,Hangaza,TZ
-4,Q3OTHER,17,kihindi,mis,S,Uncoded languages,TZ
+4,Q3OTHER,17,kihindi,hin,I,Hindi,TZ
 4,Q3OTHER,17,kiiraqi,mis,S,Uncoded languages,TZ
 4,Q3OTHER,17,kijaluo,mis,S,Uncoded languages,TZ
 4,Q3OTHER,17,kijita,jit,I,Jita,TZ
@@ -160,7 +160,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,17,kikonongo,kcz,I,Konongo,TZ
 4,Q3OTHER,17,kikutu,kdc,I,Kutu,TZ
 4,Q3OTHER,17,kikwaya,kya,I,Kwaya,TZ
-4,Q3OTHER,17,kilambya,mis,S,Uncoded languages,TZ
+4,Q3OTHER,17,kilambya,lai,I,Lambya,TZ
 4,Q3OTHER,17,kilindi,mis,S,Uncoded languages,TZ
 4,Q3OTHER,17,kilungwa,mis,S,Uncoded languages,TZ
 4,Q3OTHER,17,kimakua,mgh,I,Makhuwa-Meetto,TZ
@@ -186,11 +186,11 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,17,kinyiha,nkt,I,Nyika (Tanzania),TZ
 4,Q3OTHER,17,kipangwa,pbr,I,Pangwa,TZ
 4,Q3OTHER,17,kipimbwe,piw,I,Pimbwe,TZ
-4,Q3OTHER,17,kipogoro,mis,S,Uncoded languages,TZ
+4,Q3OTHER,17,kipogoro,poy,I,Pogolo,TZ
 4,Q3OTHER,6,kipsigis,sgc,I,Kipsigis,KE
 4,Q3OTHER,6,kipsigis,kln,M,Kalenjin,KE
 4,Q3OTHER,17,kirangi,lag,I,Langi,TZ
-4,Q3OTHER,17,kiryeri,mis,S,Uncoded languages,TZ
+4,Q3OTHER,17,kiryeri,ssc,I,Suba-Simbiti,TZ
 4,Q3OTHER,17,kisafwa,sbk,I,Safwa,TZ
 4,Q3OTHER,17,kisagara,sbm,I,Sagala,TZ
 4,Q3OTHER,17,kisambaa,ksb,I,Shambala,TZ
@@ -268,7 +268,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,5,nafana,nfr,I,Nafaanra,GH
 4,Q3OTHER,20,nambia,mis,S,Uncoded languages,ZW
 4,Q3OTHER,20,nambya,nmq,I,Nambya,ZW
-4,Q3OTHER,10,namwanga,mis,S,Uncoded languages,MW
+4,Q3OTHER,10,namwanga,mwn,I,Nyamwanga,MW
 4,Q3OTHER,5,nanum,dag,I,Dagbani,GH
 4,Q3OTHER,10,ndali,ndh,I,Ndali,MW
 4,Q3OTHER,20,ndau,ndc,I,Ndau,ZW
@@ -357,7 +357,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,5,waala,wlx,I,Wali (Ghana),GH
 4,Q3OTHER,14,waja,wja,I,Waja,NG
 4,Q3OTHER,5,wassa,wss,I,Wasa,GH
-4,Q3OTHER,10,wiza,mis,S,Uncoded languages,MW
+4,Q3OTHER,10,wiza,leb,I,Lala-Bisa,MW
 4,Q3OTHER,12,xiteu,twx,I,Tewe,MZ
 4,Q3OTHER,12,xitsua,tsc,I,Tswa,MZ
 4,Q3OTHER,14,yakur,yaz,I,Lokaa,NG
@@ -485,7 +485,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,5,akan,twi,I,Twi,GH
 5,Q2OTHER,24,akebou,keu,I,Akebu,TG
 5,Q2OTHER,24,aklobo,mis,S,Uncoded languages,TG
-5,Q2OTHER,14,akumazi,mis,S,Uncoded languages,NG
+5,Q2OTHER,14,akumazi,ikk,I,Ika,NG
 5,Q2OTHER,5,akyode,acd,I,Gikyode,GH
 5,Q2OTHER,14,alago,ala,I,Alago,NG
 5,Q2OTHER,26,ambo-batibo,mis,S,Uncoded languages,CM
@@ -596,7 +596,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,14,chamba,ccg,I,Samba Daka,NG
 5,Q2OTHER,14,chawai,cch,I,Atsam,NG
 5,Q2OTHER,12,chechewa,nya,I,Nyanja,MZ
-5,Q2OTHER,20,chewa,mis,S,Uncoded languages,ZW
+5,Q2OTHER,20,chewa,nya,I,Nyanja,ZW
 5,Q2OTHER,12,chibarue,bwg,I,Barwe,MZ
 5,Q2OTHER,12,chibaure,bwg,I,Barwe,MZ
 5,Q2OTHER,14,chibok,ckl,I,Cibak,NG
@@ -608,7 +608,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,12,chimanica,mxc,I,Manyika,MZ
 5,Q2OTHER,12,chimarenge,mis,S,Uncoded languages,MZ
 5,Q2OTHER,5,chimullu,ncu,I,Chumburung,GH
-5,Q2OTHER,10,chinamwanga,mis,S,Uncoded languages,MW
+5,Q2OTHER,10,chinamwanga,mwn,I,Nyamwanga,MW
 5,Q2OTHER,10,chindali,ndh,I,Ndali,MW
 5,Q2OTHER,10,chindalii,ndh,I,Ndali,MW
 5,Q2OTHER,10,chindebele,nde,I,North Ndebele,MW
@@ -617,7 +617,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,12,chingoni,ngo,I,Ngoni,MZ
 5,Q2OTHER,12,chingozi,mis,S,Uncoded languages,MZ
 5,Q2OTHER,12,chinhungue,mxc,I,Manyika,MZ
-5,Q2OTHER,10,chinyakyusa,mis,S,Uncoded languages,MW
+5,Q2OTHER,10,chinyakyusa,nyy,I,Nyakyusa-Ngonde,MW
 5,Q2OTHER,10,chinyika,nkv,I,Nyika (Malawi and Zambia),MW
 5,Q2OTHER,12,chitawala,twl,I,Tawara,MZ
 5,Q2OTHER,20,chitawala,mis,S,Uncoded languages,ZW
@@ -692,7 +692,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,33,hassaniya,mey,I,Hassaniyya,MA
 5,Q2OTHER,14,higgi,hig,I,Kamwe,NG
 5,Q2OTHER,26,hina,hna,I,Mina (Cameroon),CM
-5,Q2OTHER,20,hindi,mis,S,Uncoded languages,ZW
+5,Q2OTHER,20,hindi,hin,I,Hindi,ZW
 5,Q2OTHER,6,hindu,hin,I,Hindi,KE
 5,Q2OTHER,1,houssa,hau,I,Hausa,BJ
 5,Q2OTHER,20,hwesa,sna,I,Shona,ZW
@@ -777,7 +777,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,17,kimbulu,mis,S,Uncoded languages,TZ
 5,Q2OTHER,17,kimdale,mis,S,Uncoded languages,TZ
 5,Q2OTHER,12,kimuani,wmw,I,Mwani,MZ
-5,Q2OTHER,17,kimuwanji,mis,S,Uncoded languages,TZ
+5,Q2OTHER,17,kimuwanji,wbi,I,Vwanji,TZ
 5,Q2OTHER,17,kimwera,mwe,I,Mwera (Chimwera),TZ
 5,Q2OTHER,17,kinata,ntk,I,Ikoma-Nata-Isenye,TZ
 5,Q2OTHER,17,kindali,ndh,I,Ndali,TZ
@@ -785,7 +785,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,17,kindendeule,dne,I,Ndendeule,TZ
 5,Q2OTHER,17,kindengereko,ndg,I,Ndengereko,TZ
 5,Q2OTHER,17,kingindo,nnq,I,Ngindo,TZ
-5,Q2OTHER,17,kinguu,mis,S,Uncoded languages,TZ
+5,Q2OTHER,17,kinguu,ngp,I,Ngulu,TZ
 5,Q2OTHER,17,kinyagatwa,mis,S,Uncoded languages,TZ
 5,Q2OTHER,17,kinyambo,now,I,Nyambo,TZ
 5,Q2OTHER,18,kinyamulenge,kin,I,Kinyarwanda,UG
@@ -796,18 +796,19 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,17,kinyiha,nkt,I,Nyika (Tanzania),TZ
 5,Q2OTHER,17,kipagebi,mis,S,Uncoded languages,TZ
 5,Q2OTHER,17,kipangwa,pbr,I,Pangwa,TZ
-5,Q2OTHER,17,kipemba,mis,S,Uncoded languages,TZ
+5,Q2OTHER,17,kipemba,swh,I,Swahili (individual language),TZ
+5,Q2OTHER,17,kipemba,swa,M,Swahili (macrolanguage),TZ
 5,Q2OTHER,17,kipimbwe,piw,I,Pimbwe,TZ
-5,Q2OTHER,17,kipogoro,mis,S,Uncoded languages,TZ
+5,Q2OTHER,17,kipogoro,poy,I,Pogolo,TZ
 5,Q2OTHER,17,kirangi,lag,I,Langi,TZ
 5,Q2OTHER,6,kirinyaga,kik,I,Kikuyu,KE
-5,Q2OTHER,17,kirufiji,mis,S,Uncoded languages,TZ
+5,Q2OTHER,17,kirufiji,rui,I,Rufiji,TZ
 5,Q2OTHER,17,kisafwa,sbk,I,Safwa,TZ
 5,Q2OTHER,17,kisagala,sbm,I,Sagala,TZ
 5,Q2OTHER,17,kisambaa,ksb,I,Shambala,TZ
 5,Q2OTHER,17,kisandawe,sad,I,Sandawe,TZ
 5,Q2OTHER,17,kisangu,sbp,I,Sangu (Tanzania),TZ
-5,Q2OTHER,17,kisanzu,mis,S,Uncoded languages,TZ
+5,Q2OTHER,17,kisanzu,isn,I,Isanzu,TZ
 5,Q2OTHER,17,kishirazi,mis,S,Uncoded languages,TZ
 5,Q2OTHER,17,kisimbiti,ssc,I,Suba-Simbiti,TZ
 5,Q2OTHER,17,kisubi,suj,I,Shubi,TZ
@@ -819,9 +820,9 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,17,kitongwe,tny,I,Tongwe,TZ
 5,Q2OTHER,17,kitumbatu,mis,S,Uncoded languages,TZ
 5,Q2OTHER,17,kituwan,mis,S,Uncoded languages,TZ
-5,Q2OTHER,17,kiuwanji,mis,S,Uncoded languages,TZ
+5,Q2OTHER,17,kiuwanji,wbi,I,Vwanji,TZ
 5,Q2OTHER,17,kiyao,yao,I,Yao,TZ
-5,Q2OTHER,17,kiyusi,mis,S,Uncoded languages,TZ
+5,Q2OTHER,17,kiyusi,guz,I,Gusii,TZ
 5,Q2OTHER,17,kizanaki,zak,I,Zanaki,TZ
 5,Q2OTHER,17,kizaramo,zaj,I,Zaramo,TZ
 5,Q2OTHER,17,kizigua,ziw,I,Zigula,TZ
@@ -1314,7 +1315,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,6,ashem,mis,S,Uncoded languages,CM
 6,Q2OTHER,6,asumb0,ass,I,Ipulo,CM
 6,Q2OTHER,11,atweti,mis,S,Uncoded languages,GH
-6,Q2OTHER,24,aukwe,mis,S,Uncoded languages,NG
+6,Q2OTHER,24,aukwe,afo,I,Eloyi,NG
 6,Q2OTHER,11,avatime,avn,I,Avatime,GH
 6,Q2OTHER,6,babadjon,mis,S,Uncoded languages,CM
 6,Q2OTHER,6,babadjou,nla,I,Ngombale,CM
@@ -1396,15 +1397,15 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,21,chena,seh,I,Sena,MZ
 6,Q2OTHER,21,cheua,nya,I,Nyanja,MZ
 6,Q2OTHER,21,chewa,nya,I,Nyanja,MZ
-6,Q2OTHER,36,chewa,mis,S,Uncoded languages,ZW
+6,Q2OTHER,36,chewa,nya,I,Nyanja,ZW
 6,Q2OTHER,21,chewe,nya,I,Nyanja,MZ
 6,Q2OTHER,35,chikunda,kdn,I,Kunda,ZM
 6,Q2OTHER,17,chimambwe,mis,S,Uncoded languages,MW
 6,Q2OTHER,17,chindali,ndh,I,Ndali,MW
-6,Q2OTHER,17,chinyakyusa,mis,S,Uncoded languages,MW
+6,Q2OTHER,17,chinyakyusa,nyy,I,Nyakyusa-Ngonde,MW
 6,Q2OTHER,17,chinyanja,nya,I,Nyanja,MW
 6,Q2OTHER,17,chinyika,nkv,I,Nyika (Malawi and Zambia),MW
-6,Q2OTHER,17,chinyungwe,mis,S,Uncoded languages,MW
+6,Q2OTHER,17,chinyungwe,nyu,I,Nyungwe,MW
 6,Q2OTHER,17,chiswahili,swh,I,Swahili (individual language),MW
 6,Q2OTHER,17,chiswahili,swa,M,Swahili (macrolanguage),MW
 6,Q2OTHER,21,chitcheiwa,nya,I,Nyanja,MZ
@@ -1413,7 +1414,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,36,chitoko,mis,S,Uncoded languages,ZW
 6,Q2OTHER,21,chitsua,tsc,I,Tswa,MZ
 6,Q2OTHER,21,chitxua,tsc,I,Tswa,MZ
-6,Q2OTHER,17,chiwandya,mis,S,Uncoded languages,MW
+6,Q2OTHER,17,chiwandya,swk,I,Malawi Sena,MW
 6,Q2OTHER,35,chiyamba,mis,S,Uncoded languages,ZM
 6,Q2OTHER,21,chona,mis,S,Uncoded languages,MZ
 6,Q2OTHER,6,choua,mis,S,Uncoded languages,CM
@@ -1509,7 +1510,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,23,haoussa,hau,I,Hausa,NE
 6,Q2OTHER,6,ibo,mis,S,Uncoded languages,CM
 6,Q2OTHER,24,ichen,ich,I,Etkywan,NG
-6,Q2OTHER,30,indian,und,S,Undetermined,SZ
+6,Q2OTHER,30,indian,hin,I,Hindi,SZ
 6,Q2OTHER,30,isizulu,zul,I,Zulu,SZ
 6,Q2OTHER,6,isu,szv,I,Isu (Fako Division),CM
 6,Q2OTHER,28,ithopiwa,amh,I,Amharic,ZA
@@ -1580,10 +1581,10 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,31,kindamba,ndj,I,Ndamba,TZ
 6,Q2OTHER,31,kindendeule,dne,I,Ndendeule,TZ
 6,Q2OTHER,31,kindengereko,ndg,I,Ndengereko,TZ
-6,Q2OTHER,31,kindonde,mis,S,Uncoded languages,TZ
-6,Q2OTHER,31,kindyewe,mis,S,Uncoded languages,TZ
+6,Q2OTHER,31,kindonde,njd,I,Ndonde Hamba,TZ
+6,Q2OTHER,31,kindyewe,ked,I,Kerewe,TZ
 6,Q2OTHER,31,kingindo,nnq,I,Ngindo,TZ
-6,Q2OTHER,31,kinguu,mis,S,Uncoded languages,TZ
+6,Q2OTHER,31,kinguu,ngp,I,Ngulu,TZ
 6,Q2OTHER,31,kinyambo,now,I,Nyambo,TZ
 6,Q2OTHER,31,kinyamwanga,mwn,I,Nyamwanga,TZ
 6,Q2OTHER,31,kinyantuzu,mis,S,Uncoded languages,TZ
@@ -1591,12 +1592,13 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,31,kinyasa,mpa,I,Mpoto,TZ
 6,Q2OTHER,31,kinyaturu,rim,I,Nyaturu,TZ
 6,Q2OTHER,31,kinyiha,nkt,I,Nyika (Tanzania),TZ
-6,Q2OTHER,31,kinyimbo,mis,S,Uncoded languages,TZ
-6,Q2OTHER,31,kinyiramba,mis,S,Uncoded languages,TZ
+6,Q2OTHER,31,kinyimbo,now,I,Nyambo,TZ
+6,Q2OTHER,31,kinyiramba,nim,I,Nilamba,TZ
 6,Q2OTHER,31,kinyisanzu,isn,I,Isanzu,TZ
 6,Q2OTHER,31,kipangwa,pbr,I,Pangwa,TZ
-6,Q2OTHER,31,kipemba,mis,S,Uncoded languages,TZ
-6,Q2OTHER,31,kipogoro,mis,S,Uncoded languages,TZ
+6,Q2OTHER,31,kipemba,swh,I,Swahili (individual language),TZ
+6,Q2OTHER,31,kipemba,swa,M,Swahili (macrolanguage),TZ
+6,Q2OTHER,31,kipogoro,poy,I,Pogolo,TZ
 6,Q2OTHER,13,kipsigis,sgc,I,Kipsigis,KE
 6,Q2OTHER,13,kipsigis,kln,M,Kalenjin,KE
 6,Q2OTHER,31,kirangi,lag,I,Langi,TZ

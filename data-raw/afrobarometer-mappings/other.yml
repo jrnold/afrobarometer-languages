@@ -7016,11 +7016,13 @@
   lang_name: kikwaya
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: lamb1272
   iso_639_3:
-  - mis
+  - lai
   lang_name: kilambya
   wals_codes: null
+  note: >
+    Kilambya is an alternate name fo Lambya. https://www.ethnologue.com/language/lai
 - country: TZ
   glottocode: null
   iso_639_3:
@@ -7135,6 +7137,8 @@
   - mis
   lang_name: kimbungo
   wals_codes: null
+  comment: >
+    Kimbunga
 - country: TZ
   glottocode: null
   iso_639_3:
@@ -7148,11 +7152,13 @@
   lang_name: kimeru
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: vwan1235
   iso_639_3:
-  - mis
+  - wbi
   lang_name: kimuwanji
   wals_codes: null
+  comment: >
+    Vwanji. No other similarly named languages.
 - country: TZ
   glottocode: mwer1248
   iso_639_3:
@@ -7190,17 +7196,23 @@
   lang_name: kindengereko
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: mako1251
   iso_639_3:
-  - mis
+  - njd
   lang_name: kindonde
   wals_codes: null
+  comment: >
+    kindonde is an alt name for Ndonde Hamba: https://www.ethnologue.com/country/TZ/languages.
+
+    Glottolog considers Ndonde Hamba a dialect of Makonde: http://glottolog.org/resource/languoid/id/mako1251
 - country: TZ
-  glottocode: null
+  glottocode: kere1283
   iso_639_3:
-  - mis
+  - ked
   lang_name: kindyewe
   wals_codes: null
+  comment: >
+    Of the Tanzanian languages, only Kerewe and alt-names/dialects ends in -ewe.https://www.ethnologue.com/country/TZ/languages
 - country: TZ
   glottocode: ngin1244
   iso_639_3:
@@ -7214,11 +7226,13 @@
   lang_name: kingoni
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: ngul1246
   iso_639_3:
-  - mis
+  - ngp
   lang_name: kinguu
   wals_codes: null
+  comment: >
+    Alt names of Ngulu include Kingulu and Nguu.
 - country: TZ
   glottocode: null
   iso_639_3:
@@ -7274,17 +7288,21 @@
   lang_name: kinyiha
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: nyam1277
   iso_639_3:
-  - mis
+  - now
   lang_name: kinyimbo
   wals_codes: null
+  comment: >
+    Nyambo has alt-name Kinyambo.
 - country: TZ
-  glottocode: null
+  glottocode: nila1242
   iso_639_3:
-  - mis
+  - nim
   lang_name: kinyiramba
   wals_codes: null
+  comment: >
+    Nilamba has alt names Kinilamba, Kiniramba, Kinilamba.
 - country: TZ
   glottocode: isan1243
   iso_639_3:
@@ -7304,11 +7322,13 @@
   lang_name: kipangwa
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: pemb1239
   iso_639_3:
-  - mis
+  - swh
   lang_name: kipemba
   wals_codes: null
+  comment: >
+    Pemba is a dialect of Swahili in Tanzania.https://www.ethnologue.com/country/TZ/languages
 - country: TZ
   glottocode: pimb1238
   iso_639_3:
@@ -7316,11 +7336,13 @@
   lang_name: kipimbwe
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: pogo1243
   iso_639_3:
-  - mis
+  - poy
   lang_name: kipogoro
   wals_codes: null
+  comment: >
+    Pogolo has alt names Pogoro and Cipogoro.
 - country: TZ
   glottocode: lang1320
   iso_639_3:
@@ -7328,11 +7350,14 @@
   lang_name: kirangi
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: rufi1236
   iso_639_3:
-  - mis
+  - rui
   lang_name: kirufiji
   wals_codes: null
+  comment: >
+    Rufiji. Glottolog does not have a separate language for it.
+
 - country: TZ
   glottocode: kway1241
   iso_639_3:
@@ -7340,11 +7365,13 @@
   lang_name: kiruri
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: suba1252
   iso_639_3:
-  - mis
+  - ssc
   lang_name: kiryeri
   wals_codes: null
+  comment: >
+    Rieri (Ryeri) is a dialect of Suba-Simbati. https://www.ethnologue.com/country/TZ/languages
 - country: TZ
   glottocode: safw1238
   iso_639_3:
@@ -7383,11 +7410,13 @@
   lang_name: kisangu
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: isan1243
   iso_639_3:
-  - mis
+  - isn
   lang_name: kisanzu
   wals_codes: null
+  comment: >
+    Isanzu has alt names Kiisanzu, Kinyihanzu, Kinyisanzu. https://www.ethnologue.com/country/TZ/languages
 - country: TZ
   glottocode: sege1246
   iso_639_3:
@@ -7485,11 +7514,13 @@
   lang_name: kituwan
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: vwan1235
   iso_639_3:
-  - mis
+  - wbi
   lang_name: kiuwanji
   wals_codes: null
+  comment: >
+    Vwanji is the only language in Tenzania ending in wanji.
 - country: TZ
   glottocode: vidu1238
   iso_639_3:
@@ -7509,11 +7540,13 @@
   lang_name: kiyao
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: gusi1247
   iso_639_3:
-  - mis
+  - guz
   lang_name: kiyusi
   wals_codes: null
+  comment: >
+    Ekegusi from Kenya has alt names Gusii, Guzii, Kisii.
 - country: TZ
   glottocode: zana1238
   iso_639_3:
