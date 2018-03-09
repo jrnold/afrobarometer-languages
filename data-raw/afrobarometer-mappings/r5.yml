@@ -460,7 +460,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 34
@@ -468,6 +468,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Shangaan (Changana) is a dialect of Tsonga
 - glottocodes: swat1243
   iso_639_3:
   - ssw
@@ -1354,7 +1356,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: xhos1239
+- glottocodes: them1241
   iso_639_3:
   - xho
   lang_id: 342
@@ -1862,7 +1864,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 543
@@ -1871,7 +1873,7 @@
   - Q103
   - Q116
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 544
@@ -1879,6 +1881,8 @@
   variables:
   - Q2
   wals_codes: null
+  comment: >
+    Changana is a dialect of Tsonga.
 - glottocodes: chop1243
   iso_639_3:
   - cce
@@ -2450,7 +2454,10 @@
   - ibo
   lang_id: 658
   lang_name: Ohafia
-  note: Dialect of Igbo. https://www.ethnologue.com/country/NG/languages
+  note: >
+    Bende (Ohafia) is a dialect of Igbo. https://www.ethnologue.com/language/ibo
+
+    Ohafia is an alt name of Igbohttp://glottolog.org/resource/languoid/id/nucl1417
   variables:
   - Q2
   wals_codes: null
@@ -2591,7 +2598,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 706
@@ -2636,7 +2643,8 @@
   - hin
   lang_id: 710
   lang_name: Asian/Other
-  note: Multiple languages.
+  note: >
+    This could be multiple languages including Tamil, and Urdu.
   variables:
   - Q2
   wals_codes: null
@@ -2794,7 +2802,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: nyam1276
+- glottocodes: nyan1306
   iso_639_3:
   - nym
   lang_id: 756
@@ -2986,7 +2994,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: nyor1246
+- glottocodes: nyor1247
   iso_639_3:
   - nyo
   lang_id: 782
@@ -2994,6 +3002,8 @@
   variables:
   - Q103
   wals_codes: null
+  note: >
+    Glottolog Nyoro-Tooro includes Nyoro (Runyoro) and Tooro (Rutooro) languages.
 - glottocodes: nyor1246
   iso_639_3:
   - nyo
@@ -3176,12 +3186,13 @@
   variables:
   - Q116
   wals_codes: null
-- glottocodes: nyor1246
+- glottocodes: ruta1240
   iso_639_3:
   - nyo
   lang_id: 800
   lang_name: Rutagwenda
-  note: Dialect of Nyoro. https://www.ethnologue.com/country/UG/languages
+  note: >
+    Rutawenda is a dialect of Nyoro. https://www.ethnologue.com/country/UG/languages
   variables:
   - Q2
   wals_codes: null
@@ -3362,7 +3373,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: lala1264
+- glottocodes: lala1265
   iso_639_3:
   - leb
   lang_id: 829
@@ -3370,6 +3381,8 @@
   variables:
   - Q116
   wals_codes: null
+  note: >
+    Lala is a dialect of Lala-Bisa [lala1264]
 - glottocodes: nyam1275
   iso_639_3:
   - mwn
@@ -3386,7 +3399,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: lala1264
+- glottocodes: bisa1264
   iso_639_3:
   - leb
   lang_id: 831
@@ -3394,6 +3407,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Bisa is a dialect of Lala-Bisa [lala1264]
 - glottocodes: nkoy1244
   iso_639_3:
   - nka
@@ -3427,7 +3442,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: ngon1271
   iso_639_3:
   - nse
   lang_id: 835
@@ -3477,7 +3492,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: lala1264
+- glottocodes: lala1265
   iso_639_3:
   - leb
   lang_id: 842
@@ -3485,6 +3500,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Lala is a dialect of Lala-Bisa [lala1264]
 - glottocodes: mamb1296
   iso_639_3:
   - mgr
@@ -3580,7 +3597,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: shon1251
+- glottocodes: zezu1238
   iso_639_3:
   - sna
   lang_id: 862
@@ -3589,7 +3606,9 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: shon1251
+  comment: >
+    Dialect / language of Shona [shon1251]
+- glottocodes: kore1281
   iso_639_3:
   - sna
   lang_id: 863
@@ -3598,7 +3617,9 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: shon1251
+  note: >
+    Korekore is a dialect of Shona [shon1251]
+- glottocodes: kara1480
   iso_639_3:
   - sna
   lang_id: 864
@@ -3629,7 +3650,10 @@
   - sna
   lang_id: 870
   lang_name: Vhitori
-  note: Is it a Karange dialect of Shona?
+  note: >
+    Vhitori is a Shona langauge, https://ndanae.wordpress.com/2016/03/18/is-there-a-language-called-shona/.
+
+
   variables:
   - Q2
   wals_codes: null
@@ -3650,7 +3674,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: shon1251
+- glottocodes: budy1238
   iso_639_3:
   - sna
   lang_id: 874
@@ -3658,12 +3682,16 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: many1258
+  note: >
+    Buja (Budya) is a dialect of Korekore, which is in the Shona family [shon1251]
+- glottocodes: boch1238
   iso_639_3:
   - mxc
   lang_id: 875
   lang_name: Bocha
-  note: dialect of Manyika. https://www.ethnologue.com/language/mxc
+  note: >
+    Bocha dialect of Manyika. https://www.ethnologue.com/language/mxc.
+
   variables:
   - Q2
   wals_codes: null
@@ -4102,7 +4130,8 @@
   - byv
   lang_id: 1227
   lang_name: Bagangte
-  note: https://en.wikipedia.org/wiki/Medumba_language
+  note: >
+    Bangante is an alt name for Medumba http://glottolog.org/resource/languoid/id/medu1238
   variables:
   - Q2
   wals_codes: null
@@ -4122,6 +4151,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Bakundu is an alt name for Oroko http://glottolog.org/resource/languoid/id/orok1266
 - glottocodes: eton1253
   iso_639_3:
   - eto
@@ -4157,6 +4188,8 @@
   variables:
   - Q116
   wals_codes: null
+  note: >
+    Kotoko is an alt name for Lagwan http://glottolog.org/resource/languoid/id/lagw1237
 - glottocodes: bamu1253
   iso_639_3:
   - bax
@@ -4181,6 +4214,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Bandjoun is an alt name for Ghomala http://glottolog.org/resource/languoid/id/ghom1247
 - glottocodes: mboc1235
   iso_639_3:
   - mbo
@@ -4198,12 +4233,13 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: fang1246
+- glottocodes: ntum1238
   iso_639_3:
   - fan
   lang_id: 1233
   lang_name: Ntoumou
-  note: Dialect of Fang
+  note: >
+    Ntoumou is an alternative name of Ntum, which is is aDialect of Fang [fang1246].
   variables:
   - Q116
   wals_codes: null
@@ -4215,12 +4251,15 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Banso is an alt name for Lamnso' http://glottolog.org/resource/languoid/id/lamn1239
 - glottocodes: suga1248
   iso_639_3:
   - sgi
   lang_id: 1234
   lang_name: Nyem Nyem
-  note: Nyemnyem is prejorative name for Suga
+  note: >
+    "Njemnjem" and "Nyamnyam" are prejorative names for Suga. http://glottolog.org/resource/languoid/id/suga1248
   variables:
   - Q116
   wals_codes: null
@@ -4698,7 +4737,9 @@
   - nwb
   lang_id: 1286
   lang_name: Kouzie
-  note: Dialect of Nyabwa. https://www.ethnologue.com/country/CI/languages
+  note: >
+    Kouzii (Kouzie) is a dialect of Nyabwa https://www.ethnologue.com/language/nwb.
+    There is no Glottolog dialect.
   variables:
   - Q2
   wals_codes: null
@@ -4719,12 +4760,13 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: maho1249
+- glottocodes: maho1250
   iso_639_3:
   - mxx
   lang_id: 1289
   lang_name: Mahouka
-  note: Dialect of Mahou. https://www.ethnologue.com/country/CI/languages
+  note: >
+    Dialect of Mahou [maho1249]. https://www.ethnologue.com/country/CI/languages
   variables:
   - Q2
   wals_codes: null
@@ -5007,12 +5049,12 @@
   variables:
   - Q116
   wals_codes: null
-- glottocodes: clel1238
+- glottocodes: lila1245
   iso_639_3:
   - dri
   lang_id: 2625
   lang_name: Zuru
-  note: Dialect of C'Lela
+  note: sub-Dialect of the Lila dialect of C'Lela (clel1238)
   variables:
   - Q116
   wals_codes: null
@@ -5186,12 +5228,13 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: kway1241
+- glottocodes: ruri1238
   iso_639_3:
   - kya
   lang_id: 2761
   lang_name: Kiluri
-  note: Luri is a dialect of Kwaya
+  note: >
+    Ruri is a dialect of Kwaya
   variables:
   - Q116
   wals_codes: null

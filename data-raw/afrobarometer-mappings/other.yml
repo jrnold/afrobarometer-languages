@@ -374,18 +374,19 @@
   lang_name: sexhosa
   wals_codes: null
 - country: BW
-  glottocode: shon1251
+  glottocode: zezu1238
   iso_639_3:
   - sna
   lang_name: sezezuru
-  note: Zezuru
+  note: >
+    Zezuru is a language / dialect of Shona.
   wals_codes: null
 - country: BW
-  glottocode: shon1251
+  glottocode: zezu1238
   iso_639_3:
   - sna
   lang_name: sezuru
-  note: Zezuru
+  note: Zezuru is a language / dialect of Shona.
   wals_codes: null
 - country: BW
   glottocode: shon1251
@@ -399,6 +400,8 @@
   - sna
   lang_name: shona/sezuru
   wals_codes: null
+  note: >
+    ZeZuru is a dialect of Shona.
 - country: BW
   glottocode: null
   iso_639_3:
@@ -406,11 +409,13 @@
   lang_name: tjimbanderu
   wals_codes: null
 - country: BW
-  glottocode: shon1251
+  glottocode: zezu1238
   iso_639_3:
   - sna
   lang_name: zezuru
   wals_codes: null
+  note: >
+    Zezuru is a language/dialect of Shona
 - country: CI
   glottocode: abid1235
   iso_639_3:
@@ -574,11 +579,11 @@
   lang_name: m'batto
   wals_codes: null
 - country: CI
-  glottocode: maho1249
+  glottocode: maho1250
   iso_639_3:
   - mxx
   lang_name: mahohka
-  note: Mahouka dialect
+  note: Mahouka is a dialect Mahou [maho1250]
   wals_codes: null
 - country: CI
   glottocode: maho1249
@@ -1157,11 +1162,13 @@
   lang_name: belibonachi
   wals_codes: null
 - country: CM
-  glottocode: bulu1251
+  glottocode: bene1244
   iso_639_3:
   - bum
   lang_name: bene
   wals_codes: null
+  note: >
+    Bene is a dialect of Bulu [bulu1251]
 - country: CM
   glottocode: null
   iso_639_3:
@@ -1994,11 +2001,13 @@
   lang_name: ntenako
   wals_codes: null
 - country: CM
-  glottocode: fang1246
+  glottocode: ntum1238
   iso_639_3:
   - fan
   lang_name: ntoumou
   wals_codes: null
+  note: >
+    Ntoumou is an alt name of Ntum dialect of Fang.
 - country: CM
   glottocode: ngwe1238
   iso_639_3:
@@ -2309,7 +2318,7 @@
   iso_639_3:
   - bib
   lang_name: bisab
-  note: Bisa
+  note: Bissa
   wals_codes: null
 - country: GH
   glottocode: biss1248
@@ -3507,9 +3516,9 @@
   lang_name: mzema
   wals_codes: null
 - country: LS
-  glottocode: null
+  glottocode: them1241
   iso_639_3:
-  - mis
+  - xho
   lang_name: sethepu
   wals_codes: null
 - country: LS
@@ -3720,13 +3729,13 @@
   lang_name: nyika
   wals_codes: null
 - country: MW
-  glottocode: lala1264
+  glottocode: bisa1264
   iso_639_3:
   - leb
   lang_name: wiza
   wals_codes: null
   comment: >
-    Wiza is a dialect of Lala-Bisa, spoken in Zambia.
+    Wiza is a sub-dialect of the Bisa dialect of Lala-Bisa, spoken in Zambia, https://www.ethnologue.com/language/leb.
 - country: MZ
   glottocode: gito1238
   iso_639_3:
@@ -4734,13 +4743,13 @@
   lang_name: adara
   wals_codes: null
 - country: NG
-  glottocode: cros1244
+  glottocode: adun1238
   iso_639_3:
   - mfn
   lang_name: adun
   wals_codes: null
   comment: >
-    Adun is a dialect of "Mbembe, Cross River"
+    Adun is a dialect of "Mbembe, Cross River" [cros1244]
 - country: NG
   glottocode: nucl1417
   iso_639_3:
@@ -6265,11 +6274,13 @@
   note: Zuru
   wals_codes: null
 - country: NG
-  glottocode: clel1238
+  glottocode: lila1245
   iso_639_3:
   - dri
   lang_name: zuru
   wals_codes: null
+  comment: >
+    Zuru is a sub-dialect of Lila, which is a dialect of C'Lela [clel1238].
 - country: SD
   glottocode: null
   iso_639_3:
@@ -7042,11 +7053,13 @@
   lang_name: kilungwa
   wals_codes: null
 - country: TZ
-  glottocode: null
+  glottocode: ruri1238
   iso_639_3:
-  - mis
+  - kya
   lang_name: kiluri
   wals_codes: null
+  note: >
+    Ruri is a dialect of Kwaya [kway1241]
 - country: TZ
   glottocode: makh1261
   iso_639_3:
@@ -7359,11 +7372,13 @@
     Rufiji. Glottolog does not have a separate language for it.
 
 - country: TZ
-  glottocode: kway1241
+  glottocode: ruri1238
   iso_639_3:
   - kya
   lang_name: kiruri
   wals_codes: null
+  note: >
+    Ruri is a dialect of Kwaya [kway1241]
 - country: TZ
   glottocode: suba1252
   iso_639_3:
@@ -8021,7 +8036,7 @@
   note: Lusongora dialect of Konzo
   wals_codes: null
 - country: UG
-  glottocode: nyor1246
+  glottocode: ruta1240
   iso_639_3:
   - nyo
   lang_name: rutagwenda
@@ -8153,11 +8168,13 @@
   lang_name: setsonga
   wals_codes: null
 - country: ZA
-  glottocode: tson1249
+  glottocode: chan1318
   iso_639_3:
   - tso
   lang_name: shangaan
   wals_codes: null
+  note: >
+    Shangaan (Changana) is a dialect of Tsonga
 - country: ZA
   glottocode: swat1243
   iso_639_3:
@@ -8423,7 +8440,7 @@
   lang_name: zezulu
   wals_codes: null
 - country: ZW
-  glottocode: many1258
+  glottocode: boch1238
   iso_639_3:
   - mxc
   lang_name: bocha
@@ -8435,17 +8452,21 @@
   lang_name: budya
   wals_codes: null
 - country: ZW
-  glottocode: null
+  glottocode: budy1238
   iso_639_3:
-  - mis
+  - sna
   lang_name: buja
   wals_codes: null
+  note: >
+    Buja (Budya) is a dialect of Korekore [kore1281]
 - country: ZW
-  glottocode: null
+  glottocode: chan1318
   iso_639_3:
-  - mis
+  - tso
   lang_name: changani
   wals_codes: null
+  note: >
+    Shangaan (Changana) [chan1318) is a dialect of Tsonga [tson1249]
 - country: ZW
   glottocode: nyan1308
   iso_639_3:
@@ -8453,11 +8474,13 @@
   lang_name: chewa
   wals_codes: null
 - country: ZW
-  glottocode: shon1251
+  glottocode: kara1480
   iso_639_3:
   - sna
   lang_name: chikaranga
   wals_codes: null
+  note: >
+    Karanga
 - country: ZW
   glottocode: kund1255
   iso_639_3:
@@ -8513,13 +8536,13 @@
   lang_name: jindwi
   wals_codes: null
 - country: ZW
-  glottocode: shon1251
+  glottocode: kara1480
   iso_639_3:
   - sna
   lang_name: karanga
   wals_codes: null
 - country: ZW
-  glottocode: shon1251
+  glottocode: kore1281
   iso_639_3:
   - sna
   lang_name: korekore
@@ -8709,8 +8732,10 @@
   lang_name: yao
   wals_codes: null
 - country: ZW
-  glottocode: shon1251
+  glottocode: zezu1238
   iso_639_3:
   - sna
   lang_name: zezuru
   wals_codes: null
+  note: >
+    Zezuru is a dialect/language of Shona

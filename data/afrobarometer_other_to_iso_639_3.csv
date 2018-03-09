@@ -53,7 +53,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,5,buzanga,mis,S,Uncoded languages,GH
 4,Q3OTHER,19,bwile,bwc,I,Bwile,ZM
 4,Q3OTHER,14,calabar,efi,I,Efik,NG
-4,Q3OTHER,20,changani,mis,S,Uncoded languages,ZW
+4,Q3OTHER,20,changani,tso,I,Tsonga,ZW
 4,Q3OTHER,12,cheua,nya,I,Nyanja,MZ
 4,Q3OTHER,12,chewa,nya,I,Nyanja,MZ
 4,Q3OTHER,20,chewa,nya,I,Nyanja,ZW
@@ -409,7 +409,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q103OTHER,6,pokot,kln,M,Kalenjin,KE
 5,Q103OTHER,12,ronga,rng,I,Ronga,MZ
 5,Q103OTHER,19,senga,tum,I,Tumbuka,ZM
-5,Q103OTHER,7,sethepu,mis,S,Uncoded languages,LS
+5,Q103OTHER,7,sethepu,xho,I,Xhosa,LS
 5,Q103OTHER,16,shangaan,tso,I,Tsonga,ZA
 5,Q103OTHER,22,sherbro,bun,I,Sherbro,SL
 5,Q103OTHER,20,shona & ndebele,nde,I,North Ndebele,ZW
@@ -449,7 +449,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q116OTHER,14,jarawa,jjr,I,Bankal,NG
 5,Q116OTHER,14,jukun,jbu,I,Jukun Takum,NG
 5,Q116OTHER,17,kijita,jit,I,Jita,TZ
-5,Q116OTHER,17,kiluri,mis,S,Uncoded languages,TZ
+5,Q116OTHER,17,kiluri,kya,I,Kwaya,TZ
 5,Q116OTHER,14,koro,ahs,I,Ashe,NG
 5,Q116OTHER,14,koro,bqv,I,Koro Wachi,NG
 5,Q116OTHER,14,koro,ldb,I,Dũya,NG
@@ -587,7 +587,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,26,bouda,mis,S,Uncoded languages,CM
 5,Q2OTHER,5,buile,mis,S,Uncoded languages,GH
 5,Q2OTHER,5,builsa,bwu,I,Buli (Ghana),GH
-5,Q2OTHER,20,buja,mis,S,Uncoded languages,ZW
+5,Q2OTHER,20,buja,sna,I,Shona,ZW
 5,Q2OTHER,16,bulgarian,bul,I,Bulgarian,ZA
 5,Q2OTHER,26,bum,mdd,I,Mbum,CM
 5,Q2OTHER,14,bura,bwr,I,Bura-Pabir,NG
@@ -766,7 +766,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,17,kikutu,kdc,I,Kutu,TZ
 5,Q2OTHER,17,kikwaya,kya,I,Kwaya,TZ
 5,Q2OTHER,17,kilongo,mis,S,Uncoded languages,TZ
-5,Q2OTHER,17,kiluri,mis,S,Uncoded languages,TZ
+5,Q2OTHER,17,kiluri,kya,I,Kwaya,TZ
 5,Q2OTHER,17,kimakua,mgh,I,Makhuwa-Meetto,TZ
 5,Q2OTHER,17,kimakunduchi,mis,S,Uncoded languages,TZ
 5,Q2OTHER,17,kimalila,mgq,I,Malila,TZ
@@ -1388,7 +1388,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,6,bu,boe,I,Mundabli,CM
 6,Q2OTHER,6,buda,mis,S,Uncoded languages,CM
 6,Q2OTHER,11,buem,lef,I,Lelemi,GH
-6,Q2OTHER,36,buja,mis,S,Uncoded languages,ZW
+6,Q2OTHER,36,buja,sna,I,Shona,ZW
 6,Q2OTHER,11,buli,bwu,I,Buli (Ghana),GH
 6,Q2OTHER,6,bulu,bum,I,Bulu (Cameroon),CM
 6,Q2OTHER,24,bussa,mis,S,Uncoded languages,NG

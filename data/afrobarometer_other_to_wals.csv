@@ -616,7 +616,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 4,Q3OTHER,19,usmi,ZM,,,
 4,Q3OTHER,19,zezulu,ZM,zul,Zulu,1
 4,Q3OTHER,20,budya,ZW,,,
-4,Q3OTHER,20,changani,ZW,,,
+4,Q3OTHER,20,changani,ZW,tsn,Tsonga,1
 4,Q3OTHER,20,chewa,ZW,cic,Chichewa,1
 4,Q3OTHER,20,chikaranga,ZW,shn,Shona,1
 4,Q3OTHER,20,dombe,ZW,toz,Tonga (in Zambia),1
@@ -648,7 +648,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 5,Q103OTHER,6,somali,KE,som,Somali,1
 5,Q103OTHER,6,swahili,KE,swa,Swahili,1
 5,Q103OTHER,6,turkana,KE,tna,Turkana,1
-5,Q103OTHER,7,sethepu,LS,,,
+5,Q103OTHER,7,sethepu,LS,xho,Xhosa,1
 5,Q103OTHER,8,standard english,LR,eng,English,1
 5,Q103OTHER,12,ronga,MZ,rga,Ronga,1
 5,Q103OTHER,12,xitsua,MZ,rga,Ronga,1
@@ -743,7 +743,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 5,Q116OTHER,14,sayawa,NG,paa,Pa'a,1
 5,Q116OTHER,14,zuru,NG,duk,Duka,1
 5,Q116OTHER,17,kijita,TZ,gus,Gusii,1
-5,Q116OTHER,17,kiluri,TZ,,,
+5,Q116OTHER,17,kiluri,TZ,gus,Gusii,1
 5,Q116OTHER,18,rufumbiira,UG,kin,Kinyarwanda,1
 5,Q116OTHER,19,nyika,ZM,nyh,Nyiha,1
 5,Q116OTHER,24,anyanga,TG,cum,Chumburung,1
@@ -1266,7 +1266,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 5,Q2OTHER,17,kikutu,TZ,kmi,Kami,1
 5,Q2OTHER,17,kikwaya,TZ,gus,Gusii,1
 5,Q2OTHER,17,kilongo,TZ,,,
-5,Q2OTHER,17,kiluri,TZ,,,
+5,Q2OTHER,17,kiluri,TZ,gus,Gusii,1
 5,Q2OTHER,17,kimakua,TZ,mua,Makua,1
 5,Q2OTHER,17,kimakunduchi,TZ,,,
 5,Q2OTHER,17,kimalila,TZ,mmw,Mambwe,1
@@ -1463,7 +1463,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 5,Q2OTHER,19,swaka,ZM,lmb,Lamba,1
 5,Q2OTHER,19,yawa,ZM,,,
 5,Q2OTHER,20,bocha,ZW,shn,Shona,1
-5,Q2OTHER,20,buja,ZW,,,
+5,Q2OTHER,20,buja,ZW,shn,Shona,1
 5,Q2OTHER,20,chewa,ZW,cic,Chichewa,1
 5,Q2OTHER,20,chikunda,ZW,cic,Chichewa,1
 5,Q2OTHER,20,chikunda,ZW,sen,Sena,1
@@ -3463,7 +3463,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 6,Q2OTHER,35,sala,ZM,ila,Ila,1
 6,Q2OTHER,35,swahili,ZM,,,
 6,Q2OTHER,36,bocha,ZW,shn,Shona,1
-6,Q2OTHER,36,buja,ZW,,,
+6,Q2OTHER,36,buja,ZW,shn,Shona,1
 6,Q2OTHER,36,chewa,ZW,cic,Chichewa,1
 6,Q2OTHER,36,chitoko,ZW,,,
 6,Q2OTHER,36,dumbe,ZW,,,

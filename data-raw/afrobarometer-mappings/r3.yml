@@ -108,7 +108,7 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 106
@@ -118,6 +118,8 @@
   - q114
   - q3
   wals_codes: null
+  note: >
+    Changana (Shangaan) is a dialect of Tsonga
 - glottocodes: swat1243
   iso_639_3:
   - ssw
@@ -567,7 +569,7 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: cent2274
+- glottocodes: meru1245
   iso_639_3:
   - ebu
   - mer
@@ -578,6 +580,8 @@
   - q114
   - q3
   wals_codes: null
+  note: >
+    Use the first language mentioned.
 - glottocodes: gusi1247
   iso_639_3:
   - guz
@@ -1266,7 +1270,7 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 304
@@ -1276,6 +1280,8 @@
   - q114
   - q3
   wals_codes: null
+  note: >
+    Changana is a dialect of Tsonga.
 - glottocodes: chop1243
   iso_639_3:
   - cce
@@ -2001,7 +2007,7 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: nyam1276
+- glottocodes: nyan1306
   iso_639_3:
   - nym
   lang_id: 396
@@ -2293,7 +2299,7 @@
   variables:
   - q3
   wals_codes: null
-- glottocodes: lala1264
+- glottocodes: bisa1264
   iso_639_3:
   - leb
   lang_id: 431
@@ -2301,6 +2307,8 @@
   variables:
   - q3
   wals_codes: null
+  note: >
+    Bisa is a dialect of Lala-Bisa [lala1264]
 - glottocodes: ilaa1246
   iso_639_3:
   - ilb
@@ -2359,12 +2367,12 @@
   variables:
   - q3
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: ngon1271
   iso_639_3:
   - nse
   lang_id: 439
   lang_name: Ngoni
-  note: In Zambia, Ngoni is dialect of Nsenga but also Chichewa.
+  note: In Zambia, Ngoni is dialect of Nsenga [nsen1242] but also Chichewa.
   variables:
   - q3
   wals_codes: null
@@ -2489,12 +2497,15 @@
   variables:
   - q3
   wals_codes: null
-- glottocodes: nyor1246
+  note: >
+    Runyoro is an alt-name of Nyoro http://glottolog.org/resource/languoid/id/nyor1246
+- glottocodes: ruta1240
   iso_639_3:
   - nyo
   lang_id: 507
   lang_name: Rutagwenda
-  note: Dialect of Nyoro. https://www.ethnologue.com/country/UG/languages
+  note: >
+    Rutagwenda is a Dialect of Nyoro http://glottolog.org/resource/languoid/id/ruta1240
   variables:
   - q3
   wals_codes: null
@@ -2917,7 +2928,7 @@
   variables:
   - q3
   wals_codes: null
-- glottocodes: lala1264
+- glottocodes: lala1265
   iso_639_3:
   - leb
   lang_id: 866
@@ -2925,6 +2936,8 @@
   variables:
   - q3
   wals_codes: null
+  comment: >
+    Lala is a dialect of Lala-Bisa (lala1264)
 - glottocodes: null
   iso_639_3:
   - und

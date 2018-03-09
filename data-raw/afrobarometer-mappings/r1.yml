@@ -156,10 +156,16 @@
     - ZA
   lang_id: 17
   lang_name: Shangaan/Tsonga/Ronga/Tswa
-  note: South Africa (ZA) and Zimbabwe (ZW)
   variables:
   - language
   wals_codes: null
+  note: >
+    For South Africa (ZA) and Zimbabwe (ZW)
+
+    - Shangaan (Changana) [chan1318) is a dialect of Tsonga [tson1249]
+    - Ronga [rong1268] spoken in MZ, ZA
+    - Tsonga [tson1249] spoken in MZ, ZA, SZ, ZW
+    - Tswa [tswa1255] spoken in MZ, ZA, ZW
 - glottocodes: shon1251
   iso_639_3:
   - sna

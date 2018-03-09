@@ -5142,6 +5142,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 6,Q103,709,Zulu,28,ZA,zul,Zulu,0
 6,Q103,780,Luganda,34,UG,lda,Luganda,1
 6,Q103,781,Runyankore-Rukiga,34,UG,nko,Nkore-Kiga,1
+6,Q103,781,Runyankore-Rukiga,34,UG,rny,Runyankore,1
 6,Q103,782,Runyoro-Rutooro,34,UG,rru,Runyoro-Rutooro,1
 6,Q103,783,Lusoga,34,UG,lda,Luganda,1
 6,Q103,784,Lumasaaba,34,UG,buk,Bukusu,1

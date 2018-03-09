@@ -68,7 +68,7 @@ invalid_glottocode <-
   filter(!is.na(glottocode)) %>%
   anti_join(glottolog_languoids, by = c("glottocode"))
 if (nrow(invalid_glottocode)) {
-  print(invalid_glottocode)
+  print(invalid_glottocode, n = 100)
   stop("Unaccounted for non-matches found")
 }
 
@@ -96,7 +96,7 @@ inconsistent_mappings <-
   filter(length(unique(glottocode)) > 1) %>%
   arrange(lang_name, iso_alpha2)
 if (nrow(inconsistent_mappings)) {
-  print(inconsistent_mappings)
+  print(inconsistent_mappings, n = 100)
   stop("There are inconsistent mappings across rounds in afrobaromter_to_glottolog")
 }
 

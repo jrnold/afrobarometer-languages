@@ -1074,23 +1074,28 @@
   - mer
   lang_id: 306
   lang_name: Meru/Samburu
-  note: 'Meru is a dialect of Kimiiru and diff from Meru of Tanzania (rnk)
+  note: >
+    Meru is a dialect of Kimiiru and diff from Meru of Tanzania (rnk)
 
     Meru (mer) and Samburu (saq) are distinct languages. Use only the first mentioned
     language.'
   variables:
   - Q103
   wals_codes: null
-- glottocodes: cent2274
+- glottocodes: meru1245
   iso_639_3:
   - mer
   - ebu
   lang_id: 306
   lang_name: Meru/Embu
-  note: 'Meru is a dialect of Kimiiru and diff from Meru of Tanzania (rnk).
+  note: >
+    Meru is a dialect of Kimiiru and diff from Meru of Tanzania (rnk).
 
     Meru (mer) and Embu (ebu) are distinct languages. Use only the first mentioned
-    language.'
+    language.
+
+    Meru [1245] and Embu [1241] are under the Central Kenya Bantu [cent2274].
+
   variables:
   - Q116
   - Q2
@@ -1205,12 +1210,14 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: xhos1239
+  note: >
+    Alternative name for Swati.
+- glottocodes: them1241
   iso_639_3:
   - xho
   lang_id: 342
   lang_name: Sethepu
-  note: 'Sethepu is a name for Thembu, which is a dialect of Xhosa: https://en.wikipedia.org/wiki/Thembu_people'
+  note: 'Sethepu is a name for Thembu, which is a dialect of Xhosa [xhos1239]: https://en.wikipedia.org/wiki/Thembu_people'
   variables:
   - Q2
   wals_codes: null
@@ -1701,7 +1708,7 @@
   - Q103
   - Q116
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 543
@@ -2404,6 +2411,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Shangaan (Changana) [chan1318] is a dialect of Tsonga [tson1249].
 - glottocodes: swat1243
   iso_639_3:
   - ssw
@@ -2579,12 +2588,12 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: nyam1276
+- glottocodes: nyan1306
   iso_639_3:
   - nym
   lang_id: 756
   lang_name: Kimanyema
-  note: Nyanyembe is a dialect of Nyamwezi
+  note: Nyanyembe is a dialect of Nyamwezi [nyam1276]
   variables:
   - Q2
   wals_codes: null
@@ -2797,7 +2806,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: chig1238
+- glottocodes: nkor1241
   iso_639_3:
   - cgg
   lang_id: 781
@@ -2805,6 +2814,8 @@
   variables:
   - Q103
   wals_codes: null
+  note: >
+    Nkore-Kiga
 - glottocodes: nyan1307
   iso_639_3:
   - nyn
@@ -2814,7 +2825,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: nyor1246
+- glottocodes: nyor1247
   iso_639_3:
   - nyo
   lang_id: 782
@@ -2832,6 +2843,8 @@
   - Q116
   - Q2
   wals_codes: null
+  note: >
+    Runyoro is an alt name of Nyoro. http://glottolog.org/resource/languoid/id/nyor1246
 - glottocodes: soga1242
   iso_639_3:
   - xog
@@ -3136,7 +3149,7 @@
   - Q2
   wals_codes:
   - lbu
-- glottocodes: lala1264
+- glottocodes: bisa1264
   iso_639_3:
   - leb
   lang_id: 831
@@ -3144,6 +3157,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Bisa is a dialect of Lala-Bisa [lala1264]
 - glottocodes: nkoy1244
   iso_639_3:
   - nka
@@ -3168,15 +3183,16 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: ngon1271
   iso_639_3:
   - nse
   lang_id: 835
   lang_name: Ngoni
-  note: Zambia
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Zambia. Ngoni is a dialect of Nsenga. Different thatn Ngoni (ngon1269)
 - glottocodes: soli1239
   iso_639_3:
   - sby
@@ -3242,7 +3258,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: lala1264
+- glottocodes: lala1265
   iso_639_3:
   - leb
   lang_id: 842
@@ -3250,6 +3266,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Lala is a dialect of Lala-Bisa [lala1264]
 - glottocodes: lamb1271
   iso_639_3:
   - lam
@@ -3322,7 +3340,7 @@
   - Q2
   wals_codes:
   - shn
-- glottocodes: shon1251
+- glottocodes: zezu1238
   iso_639_3:
   - sna
   lang_id: 862
@@ -3332,7 +3350,7 @@
   - Q2
   wals_codes:
   - shn
-- glottocodes: shon1251
+- glottocodes: kore1281
   iso_639_3:
   - sna
   lang_id: 863
@@ -3342,7 +3360,9 @@
   - Q2
   wals_codes:
   - shn
-- glottocodes: shon1251
+  note: >
+    Korekore is a lang/dialect of Shona
+- glottocodes: kara1480
   iso_639_3:
   - sna
   lang_id: 864
@@ -3352,6 +3372,8 @@
   - Q2
   wals_codes:
   - krg
+  note: >
+    Karanga is a lang/dialect of Shona
 - glottocodes: many1258
   iso_639_3:
   - mxc
@@ -3369,16 +3391,18 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: shon1251
+- glottocodes: budy1238
   iso_639_3:
   - sna
   lang_id: 870
   lang_name: Buja
-  note: Buja is a subdialect of Korekore. https://en.wikipedia.org/wiki/Talk:Shona_language
+  note: >
+    Buja (Budya) is a subdialect of Korekore. https://en.wikipedia.org/wiki/Talk:Shona_language.
+
   variables:
   - Q2
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 871
@@ -3386,6 +3410,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Changana is a dialect of Tsonga.
 - glottocodes: tswa1253
   iso_639_3:
   - tsn
@@ -4429,7 +4455,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 1621
@@ -4560,7 +4586,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: bulu1251
+- glottocodes: bene1244
   iso_639_3:
   - bum
   lang_id: 2222
@@ -4568,6 +4594,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Bene is a dialect of Bulu (Cameroon)
 - glottocodes: jjuu1238
   iso_639_3:
   - kaj
@@ -4603,12 +4631,16 @@
   variables:
   - Q116
   wals_codes: null
-- glottocodes: clel1238
+- glottocodes: lila1245
   iso_639_3:
   - dri
   lang_id: 2624
   lang_name: Zuru
-  note: Dialect of C'Lela https://www.ethnologue.com/country/NG/languages
+  note: >
+    Zuru is a sub-dialect of the Lila dialect of C'Lela  https://www.ethnologue.com/country/NG/languages.
+
+    Lila is a dialect of C'Lela [clel1238]
+
   variables:
   - Q116
   wals_codes: null
@@ -4695,15 +4727,16 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: kway1241
+- glottocodes: ruri1238
   iso_639_3:
   - kya
   lang_id: 2749
   lang_name: Kiruri
-  note: Dialect of Kwaya. https://www.ethnologue.com/country/TZ/languages
   variables:
   - Q116
   wals_codes: null
+  note: >
+    Ruri is a dialect of Kwaya [kway1241]. https://www.ethnologue.com/country/TZ/languages
 - glottocodes: nucl1379
   iso_639_3:
   - zga

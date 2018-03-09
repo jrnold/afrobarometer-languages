@@ -343,7 +343,7 @@
   - q83
   - q97
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 85
@@ -353,6 +353,8 @@
   - q83
   - q97
   wals_codes: null
+  note: >
+    Changana is a dialect of Tsonga
 - glottocodes: chop1243
   iso_639_3:
   - cce
@@ -556,7 +558,7 @@
   - q83
   - q97
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 106
@@ -566,6 +568,9 @@
   - q83
   - q97
   wals_codes: null
+  note: >
+    Shangaan (Changana) is a dialect of Tsonga
+
 - glottocodes: swat1243
   iso_639_3:
   - ssw
@@ -1597,7 +1602,7 @@
   - q110
   - q83
   wals_codes: null
-- glottocodes: lala1264
+- glottocodes: bisa1264
   iso_639_3:
   - leb
   lang_id: 312
@@ -1605,7 +1610,9 @@
   variables:
   - q83
   wals_codes: null
-- glottocodes: lala1264
+  note: >
+    Bisa is a dialect of Lala-Bisa [lala1264]
+- glottocodes: lala1265
   iso_639_3:
   - leb
   lang_id: 313
@@ -1613,6 +1620,8 @@
   variables:
   - q83
   wals_codes: null
+  note: >
+    Lala is a dialect of Lala-Bisa [lala1264]
 - glottocodes: nsen1242
   iso_639_3:
   - nse
@@ -1629,7 +1638,7 @@
   variables:
   - q83
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: ngon1271
   iso_639_3:
   - nse
   lang_id: 316
@@ -1637,6 +1646,9 @@
   variables:
   - q83
   wals_codes: null
+  note: >
+    Zambia. Ngoni is a dialect of Nsenga. Note to be confused with
+    Ngoni (ngon1269)
 - glottocodes: nyam1275
   iso_639_3:
   - mwn

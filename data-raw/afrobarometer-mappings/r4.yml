@@ -883,7 +883,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: cent2274
+- glottocodes: meru1245
   iso_639_3:
   - ebu
   - mer
@@ -894,6 +894,8 @@
   - Q114
   - Q3
   wals_codes: null
+  note: >
+    Use the first language mentioned.
 - glottocodes: nucl1431
   iso_639_3:
   - mas
@@ -988,7 +990,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: xhos1239
+- glottocodes: them1241
   iso_639_3:
   - xho
   lang_id: 342
@@ -1362,13 +1364,14 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: lala1264
+- glottocodes: bisa1264
   iso_639_3:
   - leb
   lang_id: 477
   lang_name: Wiza
-  note: Malawi (MW). Wiza listed as a dialect of Lala-Bisa. Spoken widely in neighboring
-    Zambia (ZM).
+  note: Malawi (MW). Wiza is a sub-dialect of the Bisa dialect of Lala-Bisa [lala1264] https://www.ethnologue.com/language/leb.
+
+    Lala-Bisa Spoken widely in neighboring Zambia (ZM).
   variables:
   - Q103
   - Q114
@@ -1629,7 +1632,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 545
@@ -1639,6 +1642,8 @@
   - Q114
   - Q3
   wals_codes: null
+  comment: >
+    Changana is a dialect of Tsonga.
 - glottocodes: chop1243
   iso_639_3:
   - cce
@@ -2521,7 +2526,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: tson1249
+- glottocodes: chan1318
   iso_639_3:
   - tso
   lang_id: 706
@@ -2531,6 +2536,8 @@
   - Q114
   - Q3
   wals_codes: null
+  note: >
+    Shangaan (Changana) is a dialect of Tsonga
 - glottocodes: swat1243
   iso_639_3:
   - ssw
@@ -2721,7 +2728,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: nyam1276
+- glottocodes: nyan1306
   iso_639_3:
   - nym
   lang_id: 756
@@ -3323,7 +3330,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: lala1264
+- glottocodes: bisa1264
   iso_639_3:
   - leb
   lang_id: 831
@@ -3333,6 +3340,8 @@
   - Q114
   - Q3
   wals_codes: null
+  note: >
+    Bisa is a dialect of Lala-Bisa.
 - glottocodes: nkoy1244
   iso_639_3:
   - nka
@@ -3363,7 +3372,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: ngon1271
   iso_639_3:
   - nse
   lang_id: 835
@@ -3405,7 +3414,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: lala1264
+- glottocodes: lala1265
   iso_639_3:
   - leb
   lang_id: 839
