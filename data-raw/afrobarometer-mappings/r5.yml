@@ -198,7 +198,7 @@
     - BF
     kfe:
     - ML
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 12
@@ -622,7 +622,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: kgal1244
+- glottocodes: nucl1377
   iso_639_3:
   - xkv
   lang_id: 142
@@ -680,7 +680,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: kgal1244
+- glottocodes: ngol1245
   iso_639_3:
   - xkv
   lang_id: 148
@@ -1542,7 +1542,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 461
@@ -1566,7 +1566,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 463
@@ -1583,7 +1583,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: ngon1270
   iso_639_3:
   - nya
   lang_id: 465
@@ -3259,7 +3259,8 @@
   - nya
   lang_id: 820
   lang_name: Chewa/nyanja
-  note: Name for Chichewa
+  note: >
+    Use the Nyanja language that includes Chewa and Nyanja.
   variables:
   - Q103
   wals_codes: null
@@ -3328,7 +3329,7 @@
   variables:
   - Q103
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 824
@@ -3337,7 +3338,7 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: nucl1397
   iso_639_3:
   - nse
   lang_id: 825
@@ -3417,7 +3418,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: nucl1397
   iso_639_3:
   - nse
   lang_id: 833
@@ -3426,7 +3427,7 @@
   variables:
   - Q116
   wals_codes: null
-- glottocodes: mamb1296
+- glottocodes: mamb1297
   iso_639_3:
   - mgr
   lang_id: 833
@@ -3502,7 +3503,7 @@
   wals_codes: null
   note: >
     Lala is a dialect of Lala-Bisa [lala1264]
-- glottocodes: mamb1296
+- glottocodes: rung1256
   iso_639_3:
   - mgr
   lang_id: 844
@@ -3527,7 +3528,7 @@
   variables:
   - Q116
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: nucl1397
   iso_639_3:
   - nse
   lang_id: 846
@@ -4320,7 +4321,7 @@
   - sle
   - tpr
   - ygd
-- glottocodes: ewon1239
+- glottocodes: fong1242
   iso_639_3:
   - ewo
   lang_id: 1241
@@ -5202,9 +5203,9 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: zigu1242
+- glottocodes: ngul1246
   iso_639_3:
-  - ziw
+  - ngp
   lang_id: 2752
   lang_name: Kinguu
   variables:

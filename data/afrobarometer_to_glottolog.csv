@@ -2,9 +2,9 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 1,1,language,BW,1,Afrikaans,afri1274,Afrikaans,language
 1,1,language,NA,6,Afrikaans,afri1274,Afrikaans,language
 1,1,language,ZA,8,Afrikaans,afri1274,Afrikaans,language
-1,2,language,BW,1,Chewa,nyan1308,Nyanja,language
-1,2,language,MW,4,Chewa,nyan1308,Nyanja,language
-1,2,language,ZW,12,Chewa,nyan1308,Nyanja,language
+1,2,language,BW,1,Chewa,chew1246,Chewa,dialect
+1,2,language,MW,4,Chewa,chew1246,Chewa,dialect
+1,2,language,ZW,12,Chewa,chew1246,Chewa,dialect
 1,3,language,MW,4,Chinyungwe,nyun1248,Nyungwe,language
 1,3,language,NA,6,Chinyungwe,nyun1248,Nyungwe,language
 1,4,language,MW,4,Chisena,mala1475,Malawi Sena,language
@@ -323,7 +323,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,124,q110,GH,2,Hausa,haus1257,Hausa,language
 2,140,q110,MW,4,Tumbuka,tumb1250,Tumbuka,language
 2,142,q110,MW,4,Lambya,lamb1272,Lambya,language
-2,143,q110,MW,4,Chewa,nyan1308,Nyanja,language
+2,143,q110,MW,4,Chewa,chew1246,Chewa,dialect
 2,144,q110,MW,4,Yao,yaoo1241,Yao,language
 2,146,q110,MW,4,Lomwe,mala1256,Malawi Lomwe,language
 2,164,q110,ML,5,Bambara,bamb1269,Bambara,language
@@ -464,7 +464,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,94,q83,MZ,15,Xirhonga,rong1268,Ronga,language
 2,95,q83,MZ,15,Xibarue,barw1243,Barwe,language
 2,96,q83,MZ,15,Cimanyika,many1258,Manyika,language
-2,97,q83,MZ,15,Chichewa,nyan1308,Nyanja,language
+2,97,q83,MZ,15,Chichewa,chew1246,Chewa,dialect
 2,98,q83,MZ,15,Shona,ndau1241,Ndau,language
 2,99,q83,MZ,15,Swazi,swat1243,Swati,language
 2,100,q83,ZA,8,Afrikaans,afri1274,Afrikaans,language
@@ -484,14 +484,14 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,124,q83,GH,2,Hausa,haus1257,Hausa,language
 2,140,q83,MW,4,Tumbuka,tumb1250,Tumbuka,language
 2,141,q83,MW,4,Nkhonde,nkon1246,Nkonde,dialect
-2,143,q83,MW,4,Chewa,nyan1308,Nyanja,language
+2,143,q83,MW,4,Chewa,chew1246,Chewa,dialect
 2,144,q83,MW,4,Yao,yaoo1241,Yao,language
 2,145,q83,MW,4,Ngoni,ngon1270,Ngoni (Nyanja),dialect
 2,146,q83,MW,4,Lomwe,mala1256,Malawi Lomwe,language
 2,147,q83,MW,4,Mang'anja,nyan1308,Nyanja,language
 2,148,q83,MW,4,Sena,mala1475,Malawi Sena,language
 2,149,q83,MW,4,Chindali,ndal1241,Ndali,language
-2,150,q83,MW,4,Senga,tumb1250,Tumbuka,language
+2,150,q83,MW,4,Senga,seng1277,Senga,dialect
 2,151,q83,MW,4,Tonga,tong1321,Tonga (Nyasa),language
 2,160,q83,ML,5,Arabic,hass1238,Hassaniyya,language
 2,161,q83,ML,5,Haoussa,haus1257,Hausa,language
@@ -535,7 +535,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,241,q83,BW,1,Sekalanga,kala1384,Kalanga,language
 2,242,q83,BW,1,Sesarwa,tsoa1238,Tsoa,language
 2,243,q83,BW,1,Sesobeya,subi1246,Subiya,language
-2,244,q83,BW,1,Sekgalagadi,kgal1244,Kgalagadi,language
+2,244,q83,BW,1,Sekgalagadi,nucl1377,Nuclear Kgalagadi,dialect
 2,245,q83,BW,1,Seherero,here1253,Herero,language
 2,246,q83,BW,1,Sembukushu,mbuk1240,Mbukushu,language
 2,247,q83,BW,1,Seyei,yeyi1239,Yeyi,language
@@ -565,7 +565,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,283,q83,ZW,12,Tonga,tong1318,Tonga (Zambia),language
 2,284,q83,ZW,12,Sena,nsen1242,Nsenga,language
 2,300,q83,ZM,11,Bemba,bemb1257,Bemba (Zambia),language
-2,301,q83,ZM,11,Chewa,nyan1308,Nyanja,language
+2,301,q83,ZM,11,Chewa,chew1246,Chewa,dialect
 2,302,q83,ZM,11,kaonde,kaon1241,Kaonde,language
 2,303,q83,ZM,11,Lozi,lozi1239,Lozi,language
 2,304,q83,ZM,11,Lunda,lund1266,Lunda,language
@@ -573,12 +573,12 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,306,q83,ZM,11,Nyanja,nyan1308,Nyanja,language
 2,307,q83,ZM,11,Tonga,tong1318,Tonga (Zambia),language
 2,308,q83,ZM,11,Tumbuka,tumb1250,Tumbuka,language
-2,309,q83,ZM,11,Senga,nsen1242,Nsenga,language
+2,309,q83,ZM,11,Senga,nucl1397,Nuclear Nsenga,dialect
 2,310,q83,ZM,11,Nyika,cent2285,Central and Southern Nyika,family
 2,311,q83,ZM,11,Lamba,lamb1271,Lamba,language
 2,312,q83,ZM,11,Bisa,bisa1264,Bisa,dialect
 2,313,q83,ZM,11,Lala,lala1265,Lala (Lala-Bisa),dialect
-2,314,q83,ZM,11,Nsenga,nsen1242,Nsenga,language
+2,314,q83,ZM,11,Nsenga,nucl1397,Nuclear Nsenga,dialect
 2,315,q83,ZM,11,Lenje,lenj1248,Lenje,language
 2,316,q83,ZM,11,Ngoni,ngon1271,Ngoni (Nsenga),dialect
 2,317,q83,ZM,11,Namwanga,nyam1275,Nyamwanga,language
@@ -611,7 +611,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,396,q83,KE,14,Pokot,poko1263,Pökoot,language
 2,397,q83,KE,14,Bajuni,swah1253,Swahili,language
 2,399,q83,KE,14,Gujarati,guja1252,Gujarati,language
-2,440,q83,ZM,11,Mambwe,mamb1296,Mambwe-Lungu,language
+2,440,q83,ZM,11,Mambwe,mamb1297,Mambwe,dialect
 2,441,q83,ZM,11,Chikunda,kund1255,Chikunda,language
 2,442,q83,ZM,11,Swaka,lala1264,Lala-Bisa,language
 2,443,q83,ZM,11,Luchazi,luch1239,Luchazi,language
@@ -696,7 +696,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,94,q97,MZ,15,Xirhonga,rong1268,Ronga,language
 2,95,q97,MZ,15,Xibarue,barw1243,Barwe,language
 2,96,q97,MZ,15,Cimanyika,many1258,Manyika,language
-2,97,q97,MZ,15,Chichewa,nyan1308,Nyanja,language
+2,97,q97,MZ,15,Chichewa,chew1246,Chewa,dialect
 2,98,q97,MZ,15,Shona,ndau1241,Ndau,language
 2,100,q97,ZA,8,Afrikaans,afri1274,Afrikaans,language
 2,101,q97,ZA,8,Ndebele,sout2808,Sumayela Ndebele,language
@@ -714,7 +714,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,123,q97,GH,2,Ga,gaaa1244,Ga,language
 2,124,q97,GH,2,Hausa,haus1257,Hausa,language
 2,140,q97,MW,4,Tumbuka,tumb1250,Tumbuka,language
-2,143,q97,MW,4,Chewa,nyan1308,Nyanja,language
+2,143,q97,MW,4,Chewa,chew1246,Chewa,dialect
 2,144,q97,MW,4,Yao,yaoo1241,Yao,language
 2,146,q97,MW,4,Lomwe,mala1256,Malawi Lomwe,language
 2,164,q97,ML,5,Bambara,bamb1269,Bambara,language
@@ -754,7 +754,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,280,q97,ZW,12,Shona,shon1251,Shona,language
 2,281,q97,ZW,12,Ndebele,nort2795,Zimbabwean Ndebele,language
 2,300,q97,ZM,11,Bemba,bemb1257,Bemba (Zambia),language
-2,301,q97,ZM,11,Chewa,nyan1308,Nyanja,language
+2,301,q97,ZM,11,Chewa,chew1246,Chewa,dialect
 2,302,q97,ZM,11,kaonda,kaon1241,Kaonde,language
 2,303,q97,ZM,11,Lozi,lozi1239,Lozi,language
 2,304,q97,ZM,11,Lunda,lund1266,Lunda,language
@@ -762,7 +762,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 2,306,q97,ZM,11,Nyanja,nyan1308,Nyanja,language
 2,307,q97,ZM,11,Tonga,tong1318,Tonga (Zambia),language
 2,308,q97,ZM,11,Tumbuka,tumb1250,Tumbuka,language
-2,309,q97,ZM,11,Senga,nsen1242,Nsenga,language
+2,309,q97,ZM,11,Senga,nucl1397,Nuclear Nsenga,dialect
 2,320,q97,NA,6,Afrikaans,afri1274,Afrikaans,language
 2,321,q97,NA,6,Oshiwambo,kuan1247,Kuanyama,language
 2,380,q97,KE,14,kalenjin,kale1246,Kalenjin,family
@@ -879,7 +879,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 3,240,q103,MG,7,malg officiel,plat1254,Plateau Malagasy,language
 3,241,q103,MG,7,dialect malg,mala1537,Malagasic,family
 3,260,q103,MW,8,Tumbuka,tumb1250,Tumbuka,language
-3,263,q103,MW,8,Chewa,nyan1308,Nyanja,language
+3,263,q103,MW,8,Chewa,chew1246,Chewa,dialect
 3,264,q103,MW,8,Yao,yaoo1241,Yao,language
 3,280,q103,ML,9,Bambara,bamb1269,Bambara,language
 3,281,q103,ML,9,Peuhl/Fulfulde,maas1239,Maasina Fulfulde,language
@@ -1002,7 +1002,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 3,240,q114,MG,7,malagasy officiel,plat1254,Plateau Malagasy,language
 3,241,q114,MG,7,dialecte,mala1537,Malagasic,family
 3,260,q114,MW,8,Tumbuka,tumb1250,Tumbuka,language
-3,263,q114,MW,8,Chewa,nyan1308,Nyanja,language
+3,263,q114,MW,8,Chewa,chew1246,Chewa,dialect
 3,267,q114,MW,8,Manga'nja,nyan1308,Nyanja,language
 3,268,q114,MW,8,Sena,mala1475,Malawi Sena,language
 3,280,q114,ML,9,Bambara,bamb1269,Bambara,language
@@ -1055,8 +1055,8 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 3,421,q114,ZM,17,Nyanja,nyan1308,Nyanja,language
 3,422,q114,ZM,17,Tonga,tong1318,Tonga (Zambia),language
 3,423,q114,ZM,17,Lozi,lozi1239,Lozi,language
-3,424,q114,ZM,17,Chewa,nyan1308,Nyanja,language
-3,425,q114,ZM,17,Nsenga,nsen1242,Nsenga,language
+3,424,q114,ZM,17,Chewa,chew1246,Chewa,dialect
+3,425,q114,ZM,17,Nsenga,nucl1397,Nuclear Nsenga,dialect
 3,427,q114,ZM,17,Kaonda,kaon1241,Kaonde,language
 3,428,q114,ZM,17,Luvale,luva1239,Luvale,language
 3,440,q114,ZW,18,Ndebele,nort2795,Zimbabwean Ndebele,language
@@ -1121,13 +1121,13 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 3,130,q3,BJ,1,Lamba,lama1275,Lama (Togo),language
 3,140,q3,BW,2,Setswana,tswa1253,Tswana,language
 3,141,q3,BW,2,Sesarwa,tsoa1238,Tsoa,language
-3,142,q3,BW,2,Sekgaladi,kgal1244,Kgalagadi,language
+3,142,q3,BW,2,Sekgaladi,nucl1377,Nuclear Kgalagadi,dialect
 3,143,q3,BW,2,Sesobea,subi1246,Subiya,language
 3,144,q3,BW,2,Sekalanga,kala1384,Kalanga,language
 3,145,q3,BW,2,Seherero,here1253,Herero,language
 3,146,q3,BW,2,Sembukushu,mbuk1240,Mbukushu,language
 3,147,q3,BW,2,Sebirwa,birw1238,Birwa,language
-3,148,q3,BW,2,Sengologa,kgal1244,Kgalagadi,language
+3,148,q3,BW,2,Sengologa,ngol1245,Ngologa,dialect
 3,149,q3,BW,2,Seyei,yeyi1239,Yeyi,language
 3,165,q3,CV,3,Creole,kabu1256,Kabuverdianu,language
 3,180,q3,GH,4,AKAN,akan1250,Akan,language
@@ -1165,7 +1165,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 3,260,q3,MW,8,Tumbuka,tumb1250,Tumbuka,language
 3,261,q3,MW,8,Nkhonde,nkon1246,Nkonde,dialect
 3,262,q3,MW,8,Lambya,lamb1272,Lambya,language
-3,263,q3,MW,8,Chewa,nyan1308,Nyanja,language
+3,263,q3,MW,8,Chewa,chew1246,Chewa,dialect
 3,264,q3,MW,8,Yao,yaoo1241,Yao,language
 3,265,q3,MW,8,Ngoni,ngon1270,Ngoni (Nyanja),dialect
 3,266,q3,MW,8,Lomwe,mala1256,Malawi Lomwe,language
@@ -1286,8 +1286,8 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 3,421,q3,ZM,17,Nyanja,nyan1308,Nyanja,language
 3,422,q3,ZM,17,Tonga,tong1318,Tonga (Zambia),language
 3,423,q3,ZM,17,Lozi,lozi1239,Lozi,language
-3,424,q3,ZM,17,Chewa,nyan1308,Nyanja,language
-3,425,q3,ZM,17,Nsenga,nsen1242,Nsenga,language
+3,424,q3,ZM,17,Chewa,chew1246,Chewa,dialect
+3,425,q3,ZM,17,Nsenga,nucl1397,Nuclear Nsenga,dialect
 3,426,q3,ZM,17,Tumbuka,tumb1250,Tumbuka,language
 3,427,q3,ZM,17,Kaonde,kaon1241,Kaonde,language
 3,428,q3,ZM,17,Luvale,luva1239,Luvale,language
@@ -1295,7 +1295,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 3,431,q3,ZM,17,Bisa,bisa1264,Bisa,dialect
 3,432,q3,ZM,17,lla,ilaa1246,Ila,language
 3,433,q3,ZM,17,Nkaya,nyan1308,Nyanja,language
-3,434,q3,ZM,17,Mambwe,mamb1296,Mambwe-Lungu,language
+3,434,q3,ZM,17,Mambwe,mamb1297,Mambwe,dialect
 3,435,q3,ZM,17,Lunda,lund1266,Lunda,language
 3,436,q3,ZM,17,Lenje,lenj1248,Lenje,language
 3,437,q3,ZM,17,Lamba,lamb1271,Lamba,language
@@ -1348,7 +1348,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 3,819,q3,KE,5,Kuria,kuri1259,Kuria,language
 3,820,q3,KE,5,Gare,garr1259,Garre,language
 3,860,q3,ZM,17,Soli,soli1239,Soli,language
-3,861,q3,ZM,17,Senga,nsen1242,Nsenga,language
+3,861,q3,ZM,17,Senga,nucl1397,Nuclear Nsenga,dialect
 3,862,q3,ZM,17,Chokwe,chok1245,Chokwe,language
 3,863,q3,ZM,17,Luchazi,luch1239,Luchazi,language
 3,864,q3,ZM,17,Kwamashi,mash1267,Mashi (Zambia),language
@@ -1423,7 +1423,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,420,Q103,MG,9,Official malagasy,plat1254,Plateau Malagasy,language
 4,421,Q103,MG,9,Malagasy with regional variation,mala1537,Malagasic,family
 4,460,Q103,MW,10,Tumbuka,tumb1250,Tumbuka,language
-4,463,Q103,MW,10,Chewa,nyan1308,Nyanja,language
+4,463,Q103,MW,10,Chewa,chew1246,Chewa,dialect
 4,464,Q103,MW,10,Yao,yaoo1241,Yao,language
 4,500,Q103,ML,11,Arabe,hass1238,Hassaniyya,language
 4,512,Q103,ML,11,Peulh/ Fulfulde,maas1239,Maasina Fulfulde,language
@@ -1497,7 +1497,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,104,Q114,BJ,1,Yoruba,yoru1245,Yoruba,language
 4,105,Q114,BJ,1,Otamari,dita1238,Ditammari,language
 4,140,Q114,BW,2,Setswana,tswa1253,Tswana,language
-4,142,Q114,BW,2,Sekgalagadi,kgal1244,Kgalagadi,language
+4,142,Q114,BW,2,Sekgalagadi,nucl1377,Nuclear Kgalagadi,dialect
 4,144,Q114,BW,2,Sekalanga,kala1384,Kalanga,language
 4,145,Q114,BW,2,Seherero,here1253,Herero,language
 4,182,Q114,BF,3,Moore,moss1236,Mossi,language
@@ -1537,7 +1537,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,420,Q114,MG,9,Official malagasy,plat1254,Plateau Malagasy,language
 4,421,Q114,MG,9,Malagasy with regional variation,mala1537,Malagasic,family
 4,460,Q114,MW,10,Tumbuka,tumb1250,Tumbuka,language
-4,463,Q114,MW,10,Chewa,nyan1308,Nyanja,language
+4,463,Q114,MW,10,Chewa,chew1246,Chewa,dialect
 4,465,Q114,MW,10,Ngoni,ngon1270,Ngoni (Nyanja),dialect
 4,466,Q114,MW,10,Lomwe,mala1256,Malawi Lomwe,language
 4,467,Q114,MW,10,Mang'anja,nyan1308,Nyanja,language
@@ -1638,13 +1638,13 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,821,Q114,ZM,19,Nyanja,nyan1308,Nyanja,language
 4,822,Q114,ZM,19,Tonga,tong1318,Tonga (Zambia),language
 4,823,Q114,ZM,19,Lozi,lozi1239,Lozi,language
-4,824,Q114,ZM,19,Chewa,nyan1308,Nyanja,language
-4,825,Q114,ZM,19,Nsenga,nsen1242,Nsenga,language
+4,824,Q114,ZM,19,Chewa,chew1246,Chewa,dialect
+4,825,Q114,ZM,19,Nsenga,nucl1397,Nuclear Nsenga,dialect
 4,826,Q114,ZM,19,Tumbuka,tumb1250,Tumbuka,language
 4,827,Q114,ZM,19,Kaonde,kaon1241,Kaonde,language
 4,828,Q114,ZM,19,Luvale,luva1239,Luvale,language
 4,830,Q114,ZM,19,Lunda,lund1266,Lunda,language
-4,833,Q114,ZM,19,Mambwe,mamb1296,Mambwe-Lungu,language
+4,833,Q114,ZM,19,Mambwe,mamb1297,Mambwe,dialect
 4,846,Q114,ZM,19,Mbunda,mbun1249,Mbunda,language
 4,860,Q114,ZW,20,Ndebele,nort2795,Zimbabwean Ndebele,language
 4,861,Q114,ZW,20,Shona,shon1251,Shona,language
@@ -1691,13 +1691,13 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,112,Q3,BJ,1,Warma,waam1244,Waama,language
 4,140,Q3,BW,2,Setswana,tswa1253,Tswana,language
 4,141,Q3,BW,2,Sesarwa,tsoa1238,Tsoa,language
-4,142,Q3,BW,2,Sekgalagadi,kgal1244,Kgalagadi,language
+4,142,Q3,BW,2,Sekgalagadi,nucl1377,Nuclear Kgalagadi,dialect
 4,143,Q3,BW,2,Sesobea,subi1246,Subiya,language
 4,144,Q3,BW,2,Sekalanga,kala1384,Kalanga,language
 4,145,Q3,BW,2,Seherero,here1253,Herero,language
 4,146,Q3,BW,2,Sembukushu,mbuk1240,Mbukushu,language
 4,147,Q3,BW,2,Sebirwa,birw1238,Birwa,language
-4,148,Q3,BW,2,Sengologa,kgal1244,Kgalagadi,language
+4,148,Q3,BW,2,Sengologa,ngol1245,Ngologa,dialect
 4,149,Q3,BW,2,Seyei,yeyi1239,Yeyi,language
 4,152,Q3,BW,2,Setswapong,tswa1237,Tswapong,language
 4,182,Q3,BF,3,Moore,moss1236,Mossi,language
@@ -1788,14 +1788,14 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,460,Q3,MW,10,Tumbuka,tumb1250,Tumbuka,language
 4,461,Q3,MW,10,Nkhonde,nkon1246,Nkonde,dialect
 4,462,Q3,MW,10,Lambya,lamb1272,Lambya,language
-4,463,Q3,MW,10,Chewa,nyan1308,Nyanja,language
+4,463,Q3,MW,10,Chewa,chew1246,Chewa,dialect
 4,464,Q3,MW,10,Yao,yaoo1241,Yao,language
 4,465,Q3,MW,10,Ngoni,ngon1270,Ngoni (Nyanja),dialect
 4,466,Q3,MW,10,Lomwe,mala1256,Malawi Lomwe,language
 4,467,Q3,MW,10,Mang'anja,nyan1308,Nyanja,language
 4,468,Q3,MW,10,Sena,mala1475,Malawi Sena,language
 4,469,Q3,MW,10,Sukwa,ndal1241,Ndali,language
-4,470,Q3,MW,10,Senga,tumb1250,Tumbuka,language
+4,470,Q3,MW,10,Senga,seng1277,Senga,dialect
 4,471,Q3,MW,10,Tonga,tong1321,Tonga (Nyasa),language
 4,472,Q3,MW,10,Khokhola,koko1267,Kokola,language
 4,473,Q3,MW,10,Ndali,ndal1241,Ndali,language
@@ -1831,7 +1831,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,548,Q3,MZ,12,Makonde,mako1251,Makonde,language
 4,549,Q3,MZ,12,Chuabo,chuw1238,Chuwabu,language
 4,550,Q3,MZ,12,Ajua,yaoo1241,Yao,language
-4,551,Q3,MZ,12,Chewa,nyan1308,Nyanja,language
+4,551,Q3,MZ,12,Chewa,chew1246,Chewa,dialect
 4,552,Q3,MZ,12,Chiute,tewe1238,Tewe,language
 4,553,Q3,MZ,12,Coti,koti1238,Koti,language
 4,555,Q3,MZ,12,Lomwe,lomw1241,Mozambique Lomwe,language
@@ -1981,8 +1981,8 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,821,Q3,ZM,19,Nyanja,nyan1308,Nyanja,language
 4,822,Q3,ZM,19,Tonga,tong1318,Tonga (Zambia),language
 4,823,Q3,ZM,19,Lozi,lozi1239,Lozi,language
-4,824,Q3,ZM,19,Chewa,nyan1308,Nyanja,language
-4,825,Q3,ZM,19,Nsenga,nsen1242,Nsenga,language
+4,824,Q3,ZM,19,Chewa,chew1246,Chewa,dialect
+4,825,Q3,ZM,19,Nsenga,nucl1397,Nuclear Nsenga,dialect
 4,826,Q3,ZM,19,Tumbuka,tumb1250,Tumbuka,language
 4,827,Q3,ZM,19,Kaonde,kaon1241,Kaonde,language
 4,828,Q3,ZM,19,Luvale,luva1239,Luvale,language
@@ -1990,7 +1990,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,830,Q3,ZM,19,Lunda,lund1266,Lunda,language
 4,831,Q3,ZM,19,Bisa,bisa1264,Bisa,dialect
 4,832,Q3,ZM,19,Nkoya,nkoy1244,Nkoya,language
-4,833,Q3,ZM,19,Mambwe,mamb1296,Mambwe-Lungu,language
+4,833,Q3,ZM,19,Mambwe,mamb1297,Mambwe,dialect
 4,834,Q3,ZM,19,Lenje,lenj1248,Lenje,language
 4,835,Q3,ZM,19,Ngoni,ngon1271,Ngoni (Nsenga),dialect
 4,836,Q3,ZM,19,Soli,soli1239,Soli,language
@@ -1998,9 +1998,9 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,838,Q3,ZM,19,Kunda,tumb1253,Tumbuka-Sena-Nyanja,family
 4,839,Q3,ZM,19,Lala,lala1265,Lala (Lala-Bisa),dialect
 4,840,Q3,ZM,19,Lamba,lamb1271,Lamba,language
-4,841,Q3,ZM,19,Lungu,mamb1296,Mambwe-Lungu,language
+4,841,Q3,ZM,19,Lungu,rung1256,Rungu,dialect
 4,842,Q3,ZM,19,Nyika,cent2285,Central and Southern Nyika,family
-4,843,Q3,ZM,19,Senga,nsen1242,Nsenga,language
+4,843,Q3,ZM,19,Senga,nucl1397,Nuclear Nsenga,dialect
 4,844,Q3,ZM,19,Tokaleya,tong1318,Tonga (Zambia),language
 4,845,Q3,ZM,19,Ushi,aush1241,Aushi,language
 4,860,Q3,ZW,20,Ndebele,nort2795,Zimbabwean Ndebele,language
@@ -2105,7 +2105,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,420,Q103,MG,9,"""Official"" Malagasy",plat1254,Plateau Malagasy,language
 5,421,Q103,MG,9,Malagasy dialect,mala1537,Malagasic,family
 5,460,Q103,MW,10,Chitumbuka,tumb1250,Tumbuka,language
-5,461,Q103,MW,10,Chichewa,nyan1308,Nyanja,language
+5,461,Q103,MW,10,Chichewa,chew1246,Chewa,dialect
 5,501,Q103,ML,11,Bambara,bamb1269,Bambara,language
 5,513,Q103,ML,11,Peulh / Fulfude,maas1239,Maasina Fulfulde,language
 5,516,Q103,ML,11,Soninke,soni1259,Soninke,language
@@ -2260,7 +2260,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,420,Q116,MG,9,"""Official"" Malagasy",plat1254,Plateau Malagasy,language
 5,421,Q116,MG,9,Malagasy dialect,mala1537,Malagasic,family
 5,460,Q116,MW,10,Chitumbuka,tumb1250,Tumbuka,language
-5,463,Q116,MW,10,Chichewa,nyan1308,Nyanja,language
+5,463,Q116,MW,10,Chichewa,chew1246,Chewa,dialect
 5,466,Q116,MW,10,Chilomwe,mala1256,Malawi Lomwe,language
 5,471,Q116,MW,10,Chitonga,tong1321,Tonga (Nyasa),language
 5,501,Q116,ML,11,Bambara,bamb1269,Bambara,language
@@ -2341,12 +2341,12 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,821,Q116,ZM,19,Nyanja,nyan1308,Nyanja,language
 5,822,Q116,ZM,19,Tonga,tong1318,Tonga (Zambia),language
 5,823,Q116,ZM,19,Lozi,lozi1239,Lozi,language
-5,825,Q116,ZM,19,Nsenga,nsen1242,Nsenga,language
+5,825,Q116,ZM,19,Nsenga,nucl1397,Nuclear Nsenga,dialect
 5,826,Q116,ZM,19,Tumbuka,tumb1250,Tumbuka,language
 5,827,Q116,ZM,19,Kaonde,kaon1241,Kaonde,language
 5,828,Q116,ZM,19,Luvale,luva1239,Luvale,language
 5,829,Q116,ZM,19,Lala,lala1265,Lala (Lala-Bisa),dialect
-5,833,Q116,ZM,19,Senga,nsen1242,Nsenga,language
+5,833,Q116,ZM,19,Senga,nucl1397,Nuclear Nsenga,dialect
 5,845,Q116,ZM,19,Ila,ilaa1246,Ila,language
 5,846,Q116,ZM,19,Nyika,cent2285,Central and Southern Nyika,family
 5,861,Q116,ZW,20,Shona,shon1251,Shona,language
@@ -2484,8 +2484,8 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,10,Q2,CM,26,Bassa,basa1284,Basa (Cameroon),language
 5,11,Q2,BF,3,Bobo,bobo1253,Bobo,family
 5,11,Q2,ML,11,Bobo,bomu1247,Bomu,language
-5,12,Q2,MW,10,Chichewa,nyan1308,Nyanja,language
-5,12,Q2,MZ,12,Chichewa,nyan1308,Nyanja,language
+5,12,Q2,MW,10,Chichewa,chew1246,Chewa,dialect
+5,12,Q2,MZ,12,Chichewa,chew1246,Chewa,dialect
 5,13,Q2,BF,3,Dioula,dyul1238,Dyula,language
 5,13,Q2,CI,27,Dioula,dyul1238,Dyula,language
 5,14,Q2,BJ,1,Fon,fonn1241,Fon,language
@@ -2554,13 +2554,13 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,107,Q2,BJ,1,Yoa,yomm1242,Yom,language
 5,108,Q2,BJ,1,Boo,boko1266,Boko (Benin),language
 5,141,Q2,BW,2,Sesarwa,tsoa1238,Tsoa,language
-5,142,Q2,BW,2,Sekgalagadi,kgal1244,Kgalagadi,language
+5,142,Q2,BW,2,Sekgalagadi,nucl1377,Nuclear Kgalagadi,dialect
 5,143,Q2,BW,2,Sesubia,subi1246,Subiya,language
 5,144,Q2,BW,2,Ikalanga/Sekala,kala1384,Kalanga,language
 5,145,Q2,BW,2,Seherero,here1253,Herero,language
 5,146,Q2,BW,2,Sembukushu,mbuk1240,Mbukushu,language
 5,147,Q2,BW,2,Sebirwa,birw1238,Birwa,language
-5,148,Q2,BW,2,Sengologa,kgal1244,Kgalagadi,language
+5,148,Q2,BW,2,Sengologa,ngol1245,Ngologa,dialect
 5,149,Q2,BW,2,Seyeyi,yeyi1239,Yeyi,language
 5,151,Q2,BW,2,Sekgothu,nama1264,Nama (Namibia),language
 5,152,Q2,BW,2,Setswapong,tswa1237,Tswapong,language
@@ -2644,7 +2644,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,461,Q2,MW,10,Chinkhonde,nkon1246,Nkonde,dialect
 5,462,Q2,MW,10,Chilambya,lamb1272,Lambya,language
 5,464,Q2,MW,10,Chiyao,yaoo1241,Yao,language
-5,465,Q2,MW,10,Chingoni,nyan1308,Nyanja,language
+5,465,Q2,MW,10,Chingoni,ngon1270,Ngoni (Nyanja),dialect
 5,466,Q2,MW,10,Chilomwe,mala1256,Malawi Lomwe,language
 5,467,Q2,MW,10,Chimang’anja,mala1475,Malawi Sena,language
 5,468,Q2,MW,10,Chisena,mala1475,Malawi Sena,language
@@ -2809,8 +2809,8 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,806,Q2,UG,18,Kakwa,kakw1240,Kakwa,language
 5,820,Q2,ZM,19,Bemba,bemb1257,Bemba (Zambia),language
 5,823,Q2,ZM,19,Lozi,lozi1239,Lozi,language
-5,824,Q2,ZM,19,Chewa,nyan1308,Nyanja,language
-5,825,Q2,ZM,19,Nsenga,nsen1242,Nsenga,language
+5,824,Q2,ZM,19,Chewa,chew1246,Chewa,dialect
+5,825,Q2,ZM,19,Nsenga,nucl1397,Nuclear Nsenga,dialect
 5,826,Q2,ZM,19,Tumbuka,tumb1250,Tumbuka,language
 5,827,Q2,ZM,19,Kaonde,kaon1241,Kaonde,language
 5,828,Q2,ZM,19,Luvale,luva1239,Luvale,language
@@ -2818,7 +2818,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,830,Q2,ZM,19,Lunda,lund1266,Lunda,language
 5,831,Q2,ZM,19,Bisa,bisa1264,Bisa,dialect
 5,832,Q2,ZM,19,Nkoya,nkoy1244,Nkoya,language
-5,833,Q2,ZM,19,Mambwe,mamb1296,Mambwe-Lungu,language
+5,833,Q2,ZM,19,Mambwe,mamb1297,Mambwe,dialect
 5,834,Q2,ZM,19,Lenje,lenj1248,Lenje,language
 5,835,Q2,ZM,19,Ngoni,ngon1271,Ngoni (Nsenga),dialect
 5,836,Q2,ZM,19,Soli,soli1239,Soli,language
@@ -2827,8 +2827,8 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,840,Q2,ZM,19,Mbunda,mbun1249,Mbunda,language
 5,841,Q2,ZM,19,Kunda,tumb1253,Tumbuka-Sena-Nyanja,family
 5,842,Q2,ZM,19,Lala,lala1265,Lala (Lala-Bisa),dialect
-5,844,Q2,ZM,19,Lungu,mamb1296,Mambwe-Lungu,language
-5,846,Q2,ZM,19,Senga,nsen1242,Nsenga,language
+5,844,Q2,ZM,19,Lungu,rung1256,Rungu,dialect
+5,846,Q2,ZM,19,Senga,nucl1397,Nuclear Nsenga,dialect
 5,847,Q2,ZM,19,Tokaleya,tong1318,Tonga (Zambia),language
 5,848,Q2,ZM,19,Bwile,bwil1245,Bwile,language
 5,849,Q2,ZM,19,Ngumbo,bemb1257,Bemba (Zambia),language
@@ -2898,7 +2898,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,1238,Q2,CM,26,Dschang,yemb1246,Yemba,language
 5,1239,Q2,CM,26,Eton,eton1253,Eton-Mengisa,language
 5,1240,Q2,CM,26,Fali,adam1254,Adamawa Fali,family
-5,1241,Q2,CM,26,Fong,ewon1239,Ewondo,language
+5,1241,Q2,CM,26,Fong,fong1242,Fong,dialect
 5,1242,Q2,CM,26,Gbaya,nort2775,Northwest Gbaya,language
 5,1243,Q2,CM,26,Guidar,gida1247,Gidar,language
 5,1244,Q2,CM,26,Guiziga,maro1246,Maroua,family
@@ -2971,7 +2971,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,2749,Q2,TZ,17,Kipangwa,pang1287,Pangwa,language
 5,2750,Q2,TZ,17,Kindengereko,nden1248,Ndengereko,language
 5,2751,Q2,TZ,17,Kingindo,ngin1244,Ngindo,language
-5,2752,Q2,TZ,17,Kinguu,zigu1242,Zigula,language
+5,2752,Q2,TZ,17,Kinguu,ngul1246,Ngulu,language
 5,2753,Q2,TZ,17,Kinyiha,nyik1249,Nyika,family
 5,2754,Q2,TZ,17,Kinyamwanga,nyam1275,Nyamwanga,language
 5,9995,Q2,BJ,1,Others,,,
@@ -3094,7 +3094,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,420,Q103,MG,16,Malgache « officiel »,plat1254,Plateau Malagasy,language
 6,421,Q103,MG,16,Malgache avec spécificité régionale,mala1537,Malagasic,family
 6,460,Q103,MW,17,Chitumbuka,tumb1250,Tumbuka,language
-6,463,Q103,MW,17,Chichewa,nyan1308,Nyanja,language
+6,463,Q103,MW,17,Chichewa,chew1246,Chewa,dialect
 6,501,Q103,ML,18,Bambara,bamb1269,Bambara,language
 6,514,Q103,ML,18,Peulh/Fulfude,maas1239,Maasina Fulfulde,language
 6,517,Q103,ML,18,Soninké,soni1259,Soninke,language
@@ -3206,7 +3206,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,106,Q116,BJ,2,Peulh,fula1264,Fula,family
 6,107,Q116,BJ,2,Lopka,lukp1238,Lukpa,language
 6,140,Q116,BW,3,Setswana,tswa1253,Tswana,language
-6,142,Q116,BW,3,Sekgalagadi,kgal1244,Kgalagadi,language
+6,142,Q116,BW,3,Sekgalagadi,nucl1377,Nuclear Kgalagadi,dialect
 6,143,Q116,BW,3,Sesubia,subi1246,Subiya,language
 6,144,Q116,BW,3,Ikalanga/Sekalaka,kala1384,Kalanga,language
 6,180,Q116,BF,4,Mooré,moss1236,Mossi,language
@@ -3251,7 +3251,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,421,Q116,MG,16,Malgache avec spécificité régionale,mala1537,Malagasic,family
 6,460,Q116,MW,17,Chitumbuka,tumb1250,Tumbuka,language
 6,461,Q116,MW,17,Chinkhonde,nkon1246,Nkonde,dialect
-6,463,Q116,MW,17,Chichewa,nyan1308,Nyanja,language
+6,463,Q116,MW,17,Chichewa,chew1246,Chewa,dialect
 6,464,Q116,MW,17,Chiyao,yaoo1241,Yao,language
 6,466,Q116,MW,17,Chilomwe,mala1256,Malawi Lomwe,language
 6,471,Q116,MW,17,Chitonga,tong1321,Tonga (Nyasa),language
@@ -3292,8 +3292,8 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,654,Q116,NG,24,Lemoro,lemo1242,Lemoro,language
 6,655,Q116,NG,24,Igede,iged1239,Igede,language
 6,656,Q116,NG,24,Gbagyi,gbag1258,Gbagyi,language
-6,657,Q116,NG,24,Buju,jere1244,Jere,language
-6,658,Q116,NG,24,Buji,jere1244,Jere,language
+6,657,Q116,NG,24,Buju,buji1242,Buji,dialect
+6,658,Q116,NG,24,Buji,buji1242,Buji,dialect
 6,659,Q116,NG,24,Bandawa,shoo1247,Shoo-Minda-Nye,language
 6,660,Q116,SN,26,Wolof,nucl1347,Wolof,language
 6,661,Q116,SN,26,Pulaar/Toucouleur,pula1263,Pulaar,language
@@ -3336,11 +3336,11 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,820,Q116,ZM,35,Bemba,bemb1257,Bemba (Zambia),language
 6,822,Q116,ZM,35,Tonga,tong1318,Tonga (Zambia),language
 6,823,Q116,ZM,35,Lozi,lozi1239,Lozi,language
-6,824,Q116,ZM,35,Chewa,nyan1308,Nyanja,language
+6,824,Q116,ZM,35,Chewa,chew1246,Chewa,dialect
 6,827,Q116,ZM,35,Kaonde,kaon1241,Kaonde,language
 6,828,Q116,ZM,35,Luvale,luva1239,Luvale,language
 6,838,Q116,ZM,35,Lunda,lund1266,Lunda,language
-6,841,Q116,ZM,35,Mambwe,mamb1296,Mambwe-Lungu,language
+6,841,Q116,ZM,35,Mambwe,mamb1297,Mambwe,dialect
 6,860,Q116,ZW,36,Ndebele,nort2795,Zimbabwean Ndebele,language
 6,861,Q116,ZW,36,Shona,shon1251,Shona,language
 6,862,Q116,ZW,36,Zezuru,zezu1238,Zezuru,dialect
@@ -3460,8 +3460,8 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,12,Q2,GH,11,Bissa,biss1248,Bissa,language
 6,13,Q2,BF,4,Bobo,bobo1253,Bobo,family
 6,13,Q2,ML,18,Bobo,bomu1247,Bomu,language
-6,14,Q2,MZ,21,Chewa,nyan1308,Nyanja,language
-6,14,Q2,ZM,35,Chewa,nyan1308,Nyanja,language
+6,14,Q2,MZ,21,Chewa,chew1246,Chewa,dialect
+6,14,Q2,ZM,35,Chewa,chew1246,Chewa,dialect
 6,15,Q2,BF,4,Dioula,dyul1238,Dyula,language
 6,15,Q2,CI,8,Dioula,dyul1238,Dyula,language
 6,16,Q2,GH,11,Ewe,ewee1241,Ewe,language
@@ -3510,13 +3510,13 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,105,Q2,BJ,2,Otamari,dita1238,Ditammari,language
 6,107,Q2,BJ,2,Lopka,lukp1238,Lukpa,language
 6,141,Q2,BW,3,Sesarwa,tsoa1238,Tsoa,language
-6,142,Q2,BW,3,Sekgalagadi,kgal1244,Kgalagadi,language
+6,142,Q2,BW,3,Sekgalagadi,nucl1377,Nuclear Kgalagadi,dialect
 6,143,Q2,BW,3,Sesubia,subi1246,Subiya,language
 6,144,Q2,BW,3,Ikalanga/Sekalaka,kala1384,Kalanga,language
 6,145,Q2,BW,3,Seherero,here1253,Herero,language
 6,146,Q2,BW,3,Sembukushu,mbuk1240,Mbukushu,language
 6,147,Q2,BW,3,Sebirwa,birw1238,Birwa,language
-6,148,Q2,BW,3,Sengologa,kgal1244,Kgalagadi,language
+6,148,Q2,BW,3,Sengologa,ngol1245,Ngologa,dialect
 6,149,Q2,BW,3,Seyei,yeyi1239,Yeyi,language
 6,180,Q2,BF,4,Mooré,moss1236,Mossi,language
 6,183,Q2,BF,4,Gulmacema,gour1243,Gourmanchéma,language
@@ -3586,9 +3586,9 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,460,Q2,MW,17,Chitumbuka,tumb1250,Tumbuka,language
 6,461,Q2,MW,17,Chinkhonde,nkon1246,Nkonde,dialect
 6,462,Q2,MW,17,Chilambya,lamb1272,Lambya,language
-6,463,Q2,MW,17,Chichewa,nyan1308,Nyanja,language
+6,463,Q2,MW,17,Chichewa,chew1246,Chewa,dialect
 6,464,Q2,MW,17,Chiyao,yaoo1241,Yao,language
-6,465,Q2,MW,17,Chingoni,nyan1308,Nyanja,language
+6,465,Q2,MW,17,Chingoni,ngon1270,Ngoni (Nyanja),dialect
 6,466,Q2,MW,17,Chilomwe,mala1256,Malawi Lomwe,language
 6,467,Q2,MW,17,Chimang'anja,mala1475,Malawi Sena,language
 6,468,Q2,MW,17,Chisena,mala1475,Malawi Sena,language
@@ -3695,7 +3695,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,756,Q2,TZ,31,Kimanyema,nyan1306,Nyanyembe,dialect
 6,757,Q2,TZ,31,Kinyiramba,nila1242,Nilamba,language
 6,758,Q2,TZ,31,Kinyaturu,nyat1246,Nyaturu,language
-6,759,Q2,TZ,31,Kiarusha,masa1300,Masai,language
+6,759,Q2,TZ,31,Kiarusha,arus1243,Arusa,dialect
 6,760,Q2,TZ,31,Kibena,bena1262,Bena (Tanzania),language
 6,761,Q2,TZ,31,Kiha,haaa1252,Ha,language
 6,762,Q2,TZ,31,Kiiraq,iraq1241,Iraqw,language
@@ -3711,7 +3711,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,772,Q2,TZ,31,Kindendeule,nden1249,Ndendeule,language
 6,773,Q2,TZ,31,Kindengereko,nden1248,Ndengereko,language
 6,774,Q2,TZ,31,Kingindo,ngin1244,Ngindo,language
-6,775,Q2,TZ,31,Kinguu,zigu1242,Zigula,language
+6,775,Q2,TZ,31,Kinguu,ngul1246,Ngulu,language
 6,776,Q2,TZ,31,Kinyambo,nyam1277,Nyambo,language
 6,777,Q2,TZ,31,Kinyiha,nyik1249,Nyika,family
 6,778,Q2,TZ,31,Kipogoro,pogo1243,Pogolo,language
@@ -3739,7 +3739,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,800,Q2,UG,34,Rufumbira,kiny1244,Kinyarwanda,language
 6,820,Q2,ZM,35,Bemba,bemb1257,Bemba (Zambia),language
 6,823,Q2,ZM,35,Lozi,lozi1239,Lozi,language
-6,825,Q2,ZM,35,Nsenga,nsen1242,Nsenga,language
+6,825,Q2,ZM,35,Nsenga,nucl1397,Nuclear Nsenga,dialect
 6,826,Q2,ZM,35,Tumbuka,tumb1250,Tumbuka,language
 6,827,Q2,ZM,35,Kaonde,kaon1241,Kaonde,language
 6,828,Q2,ZM,35,Luvale,luva1239,Luvale,language
@@ -3747,7 +3747,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,830,Q2,ZM,35,Lunda,lund1266,Lunda,language
 6,831,Q2,ZM,35,Bisa,bisa1264,Bisa,dialect
 6,832,Q2,ZM,35,Nkoya,nkoy1244,Nkoya,language
-6,833,Q2,ZM,35,Mambwe,mamb1296,Mambwe-Lungu,language
+6,833,Q2,ZM,35,Mambwe,mamb1297,Mambwe,dialect
 6,834,Q2,ZM,35,Lenje,lenj1248,Lenje,language
 6,835,Q2,ZM,35,Ngoni,ngon1271,Ngoni (Nsenga),dialect
 6,836,Q2,ZM,35,Soli,soli1239,Soli,language
@@ -3758,9 +3758,9 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,841,Q2,ZM,35,Kunda,tumb1253,Tumbuka-Sena-Nyanja,family
 6,842,Q2,ZM,35,Lala,lala1265,Lala (Lala-Bisa),dialect
 6,843,Q2,ZM,35,Lamba,lamb1271,Lamba,language
-6,844,Q2,ZM,35,Lungu,mamb1296,Mambwe-Lungu,language
+6,844,Q2,ZM,35,Lungu,rung1256,Rungu,dialect
 6,845,Q2,ZM,35,Nyika,cent2285,Central and Southern Nyika,family
-6,846,Q2,ZM,35,Senga,nsen1242,Nsenga,language
+6,846,Q2,ZM,35,Senga,nucl1397,Nuclear Nsenga,dialect
 6,847,Q2,ZM,35,Tokaleya,tong1318,Tonga (Zambia),language
 6,851,Q2,ZM,35,Tabwa,taab1238,Taabwa,language
 6,861,Q2,ZW,36,Shona,shon1251,Shona,language
@@ -3823,7 +3823,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 6,1238,Q2,CM,6,Dschang,yemb1246,Yemba,language
 6,1239,Q2,CM,6,Eton,eton1253,Eton-Mengisa,language
 6,1240,Q2,CM,6,Fali,adam1254,Adamawa Fali,family
-6,1241,Q2,CM,6,Fong,ewon1239,Ewondo,language
+6,1241,Q2,CM,6,Fong,fong1242,Fong,dialect
 6,1242,Q2,CM,6,Gbaya,nort2775,Northwest Gbaya,language
 6,1243,Q2,CM,6,Guider,gida1247,Gidar,language
 6,1244,Q2,CM,6,Guiziga,maro1246,Maroua,family

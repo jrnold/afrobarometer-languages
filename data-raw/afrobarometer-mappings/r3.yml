@@ -355,7 +355,7 @@
   variables:
   - q3
   wals_codes: null
-- glottocodes: kgal1244
+- glottocodes: nucl1377
   iso_639_3:
   - xkv
   lang_id: 142
@@ -408,7 +408,7 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: kgal1244
+- glottocodes: ngol1245
   iso_639_3:
   - xkv
   lang_id: 148
@@ -915,7 +915,7 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 263
@@ -2238,7 +2238,7 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 424
@@ -2247,7 +2247,7 @@
   - q114
   - q3
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: nucl1397
   iso_639_3:
   - nse
   lang_id: 425
@@ -2326,7 +2326,7 @@
   variables:
   - q3
   wals_codes: null
-- glottocodes: mamb1296
+- glottocodes: mamb1297
   iso_639_3:
   - mgr
   lang_id: 434
@@ -2887,7 +2887,7 @@
   variables:
   - q3
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: nucl1397
   iso_639_3:
   - nse
   lang_id: 861
@@ -2895,6 +2895,8 @@
   variables:
   - q3
   wals_codes: null
+  note: >
+    Zambia
 - glottocodes: chok1245
   iso_639_3:
   - cjk

@@ -314,16 +314,16 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,2,segxereku,mis,S,Uncoded languages,BW
 4,Q3OTHER,12,sena,seh,I,Sena,MZ
 4,Q3OTHER,2,senajwa,mis,S,Uncoded languages,BW
-4,Q3OTHER,19,senga,tum,I,Tumbuka,ZM
+4,Q3OTHER,19,senga,nse,I,Nsenga,ZM
 4,Q3OTHER,2,seshona,sna,I,Shona,BW
 4,Q3OTHER,2,sesotho,sot,I,Southern Sotho,BW
 4,Q3OTHER,2,setlharwa,mis,S,Uncoded languages,BW
 4,Q3OTHER,2,setswapong,two,I,Tswapong,BW
 4,Q3OTHER,2,sezezuru,sna,I,Shona,BW
 4,Q3OTHER,20,shangani,tso,I,Tsonga,ZW
-4,Q3OTHER,12,shona,mis,S,Uncoded languages,MZ
+4,Q3OTHER,12,shona,sna,I,Shona,MZ
 4,Q3OTHER,19,shona,sna,I,Shona,ZM
-4,Q3OTHER,12,"shona, cheua",mis,S,Uncoded languages,MZ
+4,Q3OTHER,12,"shona, cheua",sna,I,Shona,MZ
 4,Q3OTHER,14,shuwa arab,shu,I,Chadian Arabic,NG
 4,Q3OTHER,14,shuwa arab,ara,M,Arabic,NG
 4,Q3OTHER,13,sifwe,fwe,I,Fwe,NA
@@ -337,7 +337,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 4,Q3OTHER,5,tampulma,tpm,I,Tampulma,GH
 4,Q3OTHER,14,tangale,tan,I,Tangale,NG
 4,Q3OTHER,14,tarah,ttr,I,Tera,NG
-4,Q3OTHER,20,taura (mozambican),mis,S,Uncoded languages,ZW
+4,Q3OTHER,20,taura (mozambican),twl,I,Tawara,ZW
 4,Q3OTHER,14,tera,ttr,I,Tera,NG
 4,Q3OTHER,6,teso,teo,I,Teso,KE
 4,Q3OTHER,12,tewe,twx,I,Tewe,MZ
@@ -408,11 +408,11 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q103OTHER,6,pokot,pko,I,Pökoot,KE
 5,Q103OTHER,6,pokot,kln,M,Kalenjin,KE
 5,Q103OTHER,12,ronga,rng,I,Ronga,MZ
-5,Q103OTHER,19,senga,tum,I,Tumbuka,ZM
+5,Q103OTHER,19,senga,nse,I,Nsenga,ZM
 5,Q103OTHER,7,sethepu,xho,I,Xhosa,LS
 5,Q103OTHER,16,shangaan,tso,I,Tsonga,ZA
 5,Q103OTHER,22,sherbro,bun,I,Sherbro,SL
-5,Q103OTHER,20,shona & ndebele,nde,I,North Ndebele,ZW
+5,Q103OTHER,20,shona & ndebele,sna,I,Shona,ZW
 5,Q103OTHER,16,siswati,ssw,I,Swati,ZA
 5,Q103OTHER,6,somali,som,I,Somali,KE
 5,Q103OTHER,8,standard english,eng,I,English,LR
@@ -1084,7 +1084,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 5,Q2OTHER,3,toussian,mis,S,Uncoded languages,BF
 5,Q2OTHER,16,tsonga,tso,I,Tsonga,ZA
 5,Q2OTHER,30,tsonga,tso,I,Tsonga,SZ
-5,Q2OTHER,20,tumbuka,mis,S,Uncoded languages,ZW
+5,Q2OTHER,20,tumbuka,tum,I,Tumbuka,ZW
 5,Q2OTHER,3,turka,tuz,I,Turka,BF
 5,Q2OTHER,14,ukwale,ukw,I,Ukwuani-Aboh-Ndoni,NG
 5,Q2OTHER,14,ukwani,ukw,I,Ukwuani-Aboh-Ndoni,NG
@@ -1400,7 +1400,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,36,chewa,nya,I,Nyanja,ZW
 6,Q2OTHER,21,chewe,nya,I,Nyanja,MZ
 6,Q2OTHER,35,chikunda,kdn,I,Kunda,ZM
-6,Q2OTHER,17,chimambwe,mis,S,Uncoded languages,MW
+6,Q2OTHER,17,chimambwe,mgr,I,Mambwe-Lungu,MW
 6,Q2OTHER,17,chindali,ndh,I,Ndali,MW
 6,Q2OTHER,17,chinyakyusa,nyy,I,Nyakyusa-Ngonde,MW
 6,Q2OTHER,17,chinyanja,nya,I,Nyanja,MW
@@ -1745,7 +1745,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,6,moghagno,mis,S,Uncoded languages,CM
 6,Q2OTHER,21,monga,rng,I,Ronga,MZ
 6,Q2OTHER,6,monghaka,mis,S,Uncoded languages,CM
-6,Q2OTHER,21,moniaco,mis,S,Uncoded languages,MZ
+6,Q2OTHER,21,moniaco,mhm,I,Makhuwa-Moniga,MZ
 6,Q2OTHER,21,moniga,mhm,I,Makhuwa-Moniga,MZ
 6,Q2OTHER,3,morotsi,mis,S,Uncoded languages,BW
 6,Q2OTHER,11,moshie,mos,I,Mossi,GH
@@ -1887,7 +1887,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,3,sezuru,sna,I,Shona,BW
 6,Q2OTHER,36,shangani,tso,I,Tsonga,ZW
 6,Q2OTHER,3,shona,sna,I,Shona,BW
-6,Q2OTHER,21,shona,mis,S,Uncoded languages,MZ
+6,Q2OTHER,21,shona,sna,I,Shona,MZ
 6,Q2OTHER,3,shona/sezuru,sna,I,Shona,BW
 6,Q2OTHER,8,siaka,kga,I,Koyaga,CI
 6,Q2OTHER,36,sidombe,mis,S,Uncoded languages,ZW
@@ -1919,7 +1919,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,24,tarok,yer,I,Tarok,NG
 6,Q2OTHER,12,tcheddere,mis,S,Uncoded languages,GN
 6,Q2OTHER,21,tchitchewa,nya,I,Nyanja,MZ
-6,Q2OTHER,21,tchthewa,mis,S,Uncoded languages,MZ
+6,Q2OTHER,21,tchthewa,nya,I,Nyanja,MZ
 6,Q2OTHER,24,tera,ttr,I,Tera,NG
 6,Q2OTHER,13,teso,teo,I,Teso,KE
 6,Q2OTHER,21,tewe,twx,I,Tewe,MZ
@@ -1929,7 +1929,7 @@ round,variable,country,lang_name,iso_639_3,iso_scope,iso_ref_name,iso_alpha2
 6,Q2OTHER,12,touba,mis,S,Uncoded languages,GN
 6,Q2OTHER,8,toura,neb,I,Toura (Côte d'Ivoire),CI
 6,Q2OTHER,4,toussian,mis,S,Uncoded languages,BF
-6,Q2OTHER,36,tsenga,mis,S,Uncoded languages,ZW
+6,Q2OTHER,36,tsenga,nse,I,Nsenga,ZW
 6,Q2OTHER,24,tula,tul,I,Tula,NG
 6,Q2OTHER,4,turka,tuz,I,Turka,BF
 6,Q2OTHER,4,vigue,vig,I,Viemo,BF

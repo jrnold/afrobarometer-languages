@@ -3615,9 +3615,9 @@
   note: Lambya
   wals_codes: null
 - country: MW
-  glottocode: null
+  glottocode: mamb1297
   iso_639_3:
-  - mis
+  - mgr
   lang_name: chimambwe
   wals_codes: null
 - country: MW
@@ -3756,7 +3756,7 @@
   note: Chopi
   wals_codes: null
 - country: MZ
-  glottocode: nyan1308
+  glottocode: chew1246
   iso_639_3:
   - nya
   lang_name: chechewa
@@ -3775,13 +3775,13 @@
   lang_name: cheua
   wals_codes: null
 - country: MZ
-  glottocode: nyan1308
+  glottocode: chew1246
   iso_639_3:
   - nya
   lang_name: chewa
   wals_codes: null
 - country: MZ
-  glottocode: nyan1308
+  glottocode: chew1246
   iso_639_3:
   - nya
   lang_name: chewe
@@ -3808,7 +3808,7 @@
   note: Barwe
   wals_codes: null
 - country: MZ
-  glottocode: nyan1308
+  glottocode: chew1246
   iso_639_3:
   - nya
   lang_name: chichewa
@@ -3833,11 +3833,13 @@
   lang_name: chimarenge
   wals_codes: null
 - country: MZ
-  glottocode: ngon1269
+  glottocode: ngon1270
   iso_639_3:
   - ngo
   lang_name: chingoni
   wals_codes: null
+  note: >
+    Chingoni is an alt-name for Ngoni
 - country: MZ
   glottocode: null
   iso_639_3:
@@ -3859,11 +3861,12 @@
   note: Tawara/Tawala
   wals_codes: null
 - country: MZ
-  glottocode: nyan1308
+  glottocode: chew1246
   iso_639_3:
   - nya
   lang_name: chitcheiwa
-  note: Chichewa
+  note: >
+    Chitcheiwa seems to be Chitchewa, an alt-name for Chewa, a dialect of Nyanja.
   wals_codes: null
 - country: MZ
   glottocode: tewe1238
@@ -4239,11 +4242,13 @@
   note: Ronga
   wals_codes: null
 - country: MZ
-  glottocode: null
+  glottocode: makh1265
   iso_639_3:
-  - mis
+  - mhm
   lang_name: moniaco
   wals_codes: null
+  note: >
+    Seems to mean Moniga from Makhuwa-Moniga
 - country: MZ
   glottocode: makh1265
   iso_639_3:
@@ -4431,7 +4436,7 @@
   lang_name: njungur
   wals_codes: null
 - country: MZ
-  glottocode: nsen1242
+  glottocode: nucl1377
   iso_639_3:
   - nse
   lang_name: nsenga
@@ -4556,20 +4561,23 @@
   - seh
   lang_name: sena e portugues
   wals_codes: null
+  note: >
+    Use Sena as the first language, and Portuguese as the second.
 - country: MZ
-  glottocode: null
+  glottocode: shon1251
   iso_639_3:
-  - mis
+  - sna
   lang_name: shona
   wals_codes: null
 - country: MZ
-  glottocode: null
+  glottocode: shon1251
   iso_639_3:
-  - mis
+  - sna
   lang_name: shona, cheua
   wals_codes: null
   comment: >
-    Could be Shona or Chewa. Not sure. Possibly nya or ndc
+    This appears to be Shona as first language and Chewa as a 2nd language.
+    In Mozambique, Shona appears to
 - country: MZ
   glottocode: takw1238
   iso_639_3:
@@ -4577,18 +4585,20 @@
   lang_name: tacuane
   wals_codes: null
 - country: MZ
-  glottocode: nyan1308
+  glottocode: chew1246
   iso_639_3:
   - nya
   lang_name: tchitchewa
   note: Chichewa dialect of Nyanja
   wals_codes: null
 - country: MZ
-  glottocode: null
+  glottocode: chew1246
   iso_639_3:
-  - mis
+  - nya
   lang_name: tchthewa
   wals_codes: null
+  note: >
+    Likely Chewa?
 - country: MZ
   glottocode: tewe1238
   iso_639_3:
@@ -7091,7 +7101,7 @@
   lang_name: kimalili
   wals_codes: null
 - country: TZ
-  glottocode: mamb1296
+  glottocode: mamb1297
   iso_639_3:
   - mgr
   lang_name: kimambwe
@@ -8086,7 +8096,7 @@
   lang_name: bulgarian
   wals_codes: null
 - country: ZA
-  glottocode: nyan1308
+  glottocode: chew1246
   iso_639_3:
   - nya
   lang_name: chichewa
@@ -8296,7 +8306,7 @@
   lang_name: lunda kazembe
   wals_codes: null
 - country: ZM
-  glottocode: mamb1296
+  glottocode: rung1256
   iso_639_3:
   - mgr
   lang_name: lungu
@@ -8338,7 +8348,7 @@
   lang_name: ngumbo
   wals_codes: null
 - country: ZM
-  glottocode: nsen1242
+  glottocode: nucl1377
   iso_639_3:
   - nse
   lang_name: nsenga
@@ -8362,11 +8372,13 @@
   lang_name: sala
   wals_codes: null
 - country: ZM
-  glottocode: tumb1250
+  glottocode: nucl1397
   iso_639_3:
-  - tum
+  - nse
   lang_name: senga
   wals_codes: null
+  note: >
+    Alt name of Nsenga.
 - country: ZM
   glottocode: taab1238
   iso_639_3:
@@ -8468,7 +8480,7 @@
   note: >
     Shangaan (Changana) [chan1318) is a dialect of Tsonga [tson1249]
 - country: ZW
-  glottocode: nyan1308
+  glottocode: chew1246
   iso_639_3:
   - nya
   lang_name: chewa
@@ -8671,11 +8683,13 @@
   lang_name: shangwe
   wals_codes: null
 - country: ZW
-  glottocode: nort2795
+  glottocode: shon1251
   iso_639_3:
-  - nde
+  - sna
   lang_name: shona & ndebele
   wals_codes: null
+  note: >
+    Use Shona as the first language.
 - country: ZW
   glottocode: null
   iso_639_3:
@@ -8696,21 +8710,25 @@
   lang_name: suthu
   wals_codes: null
 - country: ZW
-  glottocode: null
+  glottocode: tawa1270
   iso_639_3:
-  - mis
+  - twl
   lang_name: taura (mozambican)
   wals_codes: null
+  note: >
+    Probably Twara.
 - country: ZW
-  glottocode: null
+  glottocode: nucl1397
   iso_639_3:
-  - mis
+  - nse
   lang_name: tsenga
   wals_codes: null
+  note: >
+    Alt name of NSenga
 - country: ZW
-  glottocode: null
+  glottocode: tumb1250
   iso_639_3:
-  - mis
+  - tum
   lang_name: tumbuka
   wals_codes: null
 - country: ZW

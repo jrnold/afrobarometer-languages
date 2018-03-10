@@ -4028,7 +4028,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,2749,Kipangwa,17,TZ,pbr,Pangwa,I
 5,Q2,2750,Kindengereko,17,TZ,ndg,Ndengereko,I
 5,Q2,2751,Kingindo,17,TZ,nnq,Ngindo,I
-5,Q2,2752,Kinguu,17,TZ,ziw,Zigula,I
+5,Q2,2752,Kinguu,17,TZ,ngp,Ngulu,I
 5,Q2,2753,Kinyiha,17,TZ,nih,Nyiha (Tanzania),I
 5,Q2,2753,Kinyiha,17,TZ,nkt,Nyika (Tanzania),I
 5,Q2,2754,Kinyamwanga,17,TZ,mwn,Nyamwanga,I
@@ -5053,7 +5053,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 6,Q2,772,Kindendeule,31,TZ,dne,Ndendeule,I
 6,Q2,773,Kindengereko,31,TZ,ndg,Ndengereko,I
 6,Q2,774,Kingindo,31,TZ,nnq,Ngindo,I
-6,Q2,775,Kinguu,31,TZ,ziw,Zigula,I
+6,Q2,775,Kinguu,31,TZ,ngp,Ngulu,I
 6,Q2,776,Kinyambo,31,TZ,now,Nyambo,I
 6,Q2,777,Kinyiha,31,TZ,nih,Nyiha (Tanzania),I
 6,Q2,777,Kinyiha,31,TZ,nkt,Nyika (Tanzania),I

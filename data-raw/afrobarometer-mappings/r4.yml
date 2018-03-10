@@ -205,7 +205,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: kgal1244
+- glottocodes: nucl1377
   iso_639_3:
   - xkv
   lang_id: 142
@@ -265,7 +265,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: kgal1244
+- glottocodes: ngol1245
   iso_639_3:
   - xkv
   lang_id: 148
@@ -1229,7 +1229,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 463
@@ -1303,7 +1303,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: tumb1250
+- glottocodes: seng1277
   iso_639_3:
   - tum
   lang_id: 470
@@ -1313,6 +1313,8 @@
   - Q114
   - Q3
   wals_codes: null
+  note: >
+    Malawi. Senga dialect of Tumbuka. Distinct from Nsenga spoken in ZA, ZW, MZ.
 - glottocodes: tong1321
   iso_639_3:
   - tog
@@ -1696,7 +1698,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 551
@@ -3259,7 +3261,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 824
@@ -3269,7 +3271,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: nucl1397
   iso_639_3:
   - nse
   lang_id: 825
@@ -3352,7 +3354,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: mamb1296
+- glottocodes: mamb1297
   iso_639_3:
   - mgr
   lang_id: 833
@@ -3434,7 +3436,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: mamb1296
+- glottocodes: rung1256
   iso_639_3:
   - mgr
   lang_id: 841
@@ -3455,7 +3457,7 @@
   - Q114
   - Q3
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: nucl1397
   iso_639_3:
   - nse
   lang_id: 843

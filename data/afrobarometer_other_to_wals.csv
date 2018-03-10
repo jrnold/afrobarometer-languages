@@ -145,8 +145,8 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 4,Q3OTHER,12,nyungue,MZ,sen,Sena,1
 4,Q3OTHER,12,ronga,MZ,rga,Ronga,1
 4,Q3OTHER,12,sena,MZ,sen,Sena,1
-4,Q3OTHER,12,shona,MZ,,,
-4,Q3OTHER,12,"shona, cheua",MZ,,,
+4,Q3OTHER,12,shona,MZ,shn,Shona,1
+4,Q3OTHER,12,"shona, cheua",MZ,shn,Shona,1
 4,Q3OTHER,12,tacuane,MZ,eko,Ekoti,1
 4,Q3OTHER,12,tacuane,MZ,mua,Makua,1
 4,Q3OTHER,12,tewe,MZ,shn,Shona,1
@@ -607,8 +607,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 4,Q3OTHER,19,nyika,ZM,nyh,Nyiha,1
 4,Q3OTHER,19,sala,ZM,toz,Tonga (in Zambia),1
 4,Q3OTHER,19,sala,ZM,ila,Ila,1
-4,Q3OTHER,19,senga,ZM,cic,Chichewa,1
-4,Q3OTHER,19,senga,ZM,sen,Sena,1
+4,Q3OTHER,19,senga,ZM,nse,Nsenga,1
 4,Q3OTHER,19,shona,ZM,shn,Shona,1
 4,Q3OTHER,19,swaka,ZM,lmb,Lamba,1
 4,Q3OTHER,19,tokaleya,ZM,,,
@@ -634,7 +633,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 4,Q3OTHER,20,nyaho (chawa),ZW,cic,Chichewa,1
 4,Q3OTHER,20,nyanja,ZW,cic,Chichewa,1
 4,Q3OTHER,20,shangani,ZW,tsn,Tsonga,1
-4,Q3OTHER,20,taura (mozambican),ZW,,,
+4,Q3OTHER,20,taura (mozambican),ZW,shn,Shona,1
 4,Q3OTHER,20,yao,ZW,yao,Yao (in Malawi),1
 4,Q3OTHER,20,zezuru,ZW,shn,Shona,1
 5,Q103OTHER,1,boo,BJ,,,
@@ -658,16 +657,13 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 5,Q103OTHER,16,siswati,ZA,swt,Swati,1
 5,Q103OTHER,16,tsonga,ZA,tsn,Tsonga,1
 5,Q103OTHER,18,lugwere,UG,lda,Luganda,1
-5,Q103OTHER,19,senga,ZM,cic,Chichewa,1
-5,Q103OTHER,19,senga,ZM,sen,Sena,1
+5,Q103OTHER,19,senga,ZM,nse,Nsenga,1
 5,Q103OTHER,19,tumbuka,ZM,cic,Chichewa,1
 5,Q103OTHER,19,tumbuka,ZM,sen,Sena,1
 5,Q103OTHER,20,nambya,ZW,klz,Kalanga,1
 5,Q103OTHER,20,ndau,ZW,shn,Shona,1
 5,Q103OTHER,20,nyanja,ZW,cic,Chichewa,1
-5,Q103OTHER,20,shona & ndebele,ZW,xho,Xhosa,1
-5,Q103OTHER,20,shona & ndebele,ZW,swt,Swati,1
-5,Q103OTHER,20,shona & ndebele,ZW,zul,Zulu,1
+5,Q103OTHER,20,shona & ndebele,ZW,shn,Shona,1
 5,Q103OTHER,21,bhojpuri,MU,bho,Bhojpuri,1
 5,Q103OTHER,22,limba,SL,bgs,Baga Sitemu,0
 5,Q103OTHER,22,limba,SL,gol,Gola,0
@@ -985,7 +981,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 5,Q2OTHER,12,chigorongozi,MZ,,,
 5,Q2OTHER,12,chimanica,MZ,shn,Shona,1
 5,Q2OTHER,12,chimarenge,MZ,,,
-5,Q2OTHER,12,chingoni,MZ,ngo,Ngoni,1
+5,Q2OTHER,12,chingoni,MZ,cic,Chichewa,1
 5,Q2OTHER,12,chingozi,MZ,,,
 5,Q2OTHER,12,chinhungue,MZ,shn,Shona,1
 5,Q2OTHER,12,chitawala,MZ,shn,Shona,1
@@ -1001,7 +997,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 5,Q2OTHER,12,lumwe,MZ,mua,Makua,1
 5,Q2OTHER,12,manhawa,MZ,,,
 5,Q2OTHER,12,nharinga,MZ,,,
-5,Q2OTHER,12,nsenga,MZ,nse,Nsenga,1
+5,Q2OTHER,12,nsenga,MZ,tsw,Tswana,1
 5,Q2OTHER,12,ronga,MZ,rga,Ronga,1
 5,Q2OTHER,12,tacuane,MZ,eko,Ekoti,1
 5,Q2OTHER,12,tacuane,MZ,mua,Makua,1
@@ -1483,7 +1479,8 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 5,Q2OTHER,20,shangani,ZW,tsn,Tsonga,1
 5,Q2OTHER,20,shangwe,ZW,shn,Shona,1
 5,Q2OTHER,20,sotho,ZW,stn,Sotho (Northern),1
-5,Q2OTHER,20,tumbuka,ZW,,,
+5,Q2OTHER,20,tumbuka,ZW,cic,Chichewa,1
+5,Q2OTHER,20,tumbuka,ZW,sen,Sena,1
 5,Q2OTHER,20,vhitori,ZW,,,
 5,Q2OTHER,20,xhosa,ZW,xho,Xhosa,1
 5,Q2OTHER,24,adele,TG,llm,Lelemi,1
@@ -2110,7 +2107,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 6,Q103OTHER,34,rufumbira,UG,kin,Kinyarwanda,1
 6,Q103OTHER,34,runyarwanda,UG,kin,Kinyarwanda,1
 6,Q103OTHER,35,bisa,ZM,lmb,Lamba,1
-6,Q103OTHER,35,nsenga,ZM,nse,Nsenga,1
+6,Q103OTHER,35,nsenga,ZM,tsw,Tswana,1
 6,Q103OTHER,35,tumbka,ZM,,,
 6,Q116OTHER,6,bafoussam,CM,,,
 6,Q116OTHER,6,bamileke,CM,,,
@@ -2848,7 +2845,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 6,Q2OTHER,13,teso,KE,tes,Teso,1
 6,Q2OTHER,16,betsimisaraka,MG,mal,Malagasy,1
 6,Q2OTHER,16,tanala,MG,mal,Malagasy,1
-6,Q2OTHER,17,chimambwe,MW,,,
+6,Q2OTHER,17,chimambwe,MW,mmw,Mambwe,1
 6,Q2OTHER,17,chindali,MW,nyh,Nyiha,1
 6,Q2OTHER,17,chindali,MW,mmw,Mambwe,1
 6,Q2OTHER,17,chinyakyusa,MW,nyh,Nyiha,1
@@ -2907,7 +2904,7 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 6,Q2OTHER,21,medindo,MZ,eko,Ekoti,1
 6,Q2OTHER,21,medindo,MZ,mua,Makua,1
 6,Q2OTHER,21,monga,MZ,rga,Ronga,1
-6,Q2OTHER,21,moniaco,MZ,,,
+6,Q2OTHER,21,moniaco,MZ,mua,Makua,1
 6,Q2OTHER,21,moniga,MZ,mua,Makua,1
 6,Q2OTHER,21,mtsua,MZ,rga,Ronga,1
 6,Q2OTHER,21,mtsua,MZ,tsn,Tsonga,1
@@ -2941,9 +2938,9 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 6,Q2OTHER,21,nyungue,MZ,sen,Sena,1
 6,Q2OTHER,21,nyungunhe,MZ,sen,Sena,1
 6,Q2OTHER,21,ronga,MZ,rga,Ronga,1
-6,Q2OTHER,21,shona,MZ,,,
+6,Q2OTHER,21,shona,MZ,shn,Shona,1
 6,Q2OTHER,21,tchitchewa,MZ,cic,Chichewa,1
-6,Q2OTHER,21,tchthewa,MZ,,,
+6,Q2OTHER,21,tchthewa,MZ,cic,Chichewa,1
 6,Q2OTHER,21,tewe,MZ,shn,Shona,1
 6,Q2OTHER,21,xitsua,MZ,rga,Ronga,1
 6,Q2OTHER,21,xitsua,MZ,tsn,Tsonga,1
@@ -3477,4 +3474,4 @@ round,variable,country,lang_name,iso_alpha2,wals_code,wals_name,auto
 6,Q2OTHER,36,shangani,ZW,tsn,Tsonga,1
 6,Q2OTHER,36,sidombe,ZW,,,
 6,Q2OTHER,36,suthu,ZW,stn,Sotho (Northern),1
-6,Q2OTHER,36,tsenga,ZW,,,
+6,Q2OTHER,36,tsenga,ZW,nse,Nsenga,1

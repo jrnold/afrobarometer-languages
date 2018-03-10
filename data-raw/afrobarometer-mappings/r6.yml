@@ -216,7 +216,7 @@
     - BF
     kfe:
     - ML
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 14
@@ -224,6 +224,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Chewa is an alt-name and dialect of Nyanja: http://glottolog.org/resource/languoid/id/nyan1308
 - glottocodes: dyul1238
   iso_639_3:
   - dyu
@@ -582,7 +584,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: kgal1244
+- glottocodes: nucl1377
   iso_639_3:
   - xkv
   lang_id: 142
@@ -591,6 +593,8 @@
   - Q116
   - Q2
   wals_codes: null
+  note: >
+    Sekgalagadi is an alt-name for Kgalagadi http://glottolog.org/resource/languoid/id/kgal1244
 - glottocodes: subi1246
   iso_639_3:
   - sbs
@@ -637,15 +641,16 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: kgal1244
+- glottocodes: ngol1245
   iso_639_3:
   - xkv
   lang_id: 148
   lang_name: Sengologa
-  note: Kgalagadi or Ngologa
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Ngologa is a dialect of Kgalagadi http://glottolog.org/resource/languoid/id/kgal1244
 - glottocodes: yeyi1239
   iso_639_3:
   - yey
@@ -894,11 +899,12 @@
   - xon
   lang_id: 268
   lang_name: Likpakpaln
-  note: Konkomba
   variables:
   - Q116
   - Q2
   wals_codes: null
+  comment: >
+    Likpakpaanl is an autonym for Konkomba https://www.ethnologue.com/language/xon
 - glottocodes: kusa1250
   iso_639_3:
   - kus
@@ -1418,7 +1424,7 @@
   - Q2
   wals_codes:
   - lmb
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 463
@@ -1428,6 +1434,8 @@
   - Q116
   - Q2
   wals_codes: null
+  note: >
+    Chewa (Chichewa) is an alt-name and dialect of Nyanja http://glottolog.org/resource/languoid/id/nyan1308
 - glottocodes: yaoo1241
   iso_639_3:
   - yao
@@ -1437,15 +1445,16 @@
   - Q116
   - Q2
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: ngon1270
   iso_639_3:
   - nya
   lang_id: 465
   lang_name: Chingoni
-  note: Chichewa/Ngoni
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Ngoni is a dialect of Nyanja http://glottolog.org/resource/languoid/id/nyan1308
 - glottocodes: mala1256
   iso_639_3:
   - lon
@@ -2215,21 +2224,21 @@
   variables:
   - Q116
   wals_codes: null
-- glottocodes: jere1244
+- glottocodes: buji1242
   iso_639_3:
   - jer
   lang_id: 657
   lang_name: Buju
-  note: Buji is a dialect of https://www.ethnologue.com/country/NG/languages
+  note: Buji is a dialect of Jere http://glottolog.org/resource/languoid/id/jere1244
   variables:
   - Q116
   wals_codes: null
-- glottocodes: jere1244
+- glottocodes: buji1242
   iso_639_3:
   - jer
   lang_id: 658
   lang_name: Buji
-  note: Buji is a dialect of https://www.ethnologue.com/country/NG/languages
+  note: Buji is a dialect of Jere http://glottolog.org/resource/languoid/id/jere1244
   variables:
   - Q116
   wals_codes: null
@@ -2541,7 +2550,8 @@
   - mas
   lang_id: 750
   lang_name: Kimasai
-  note: Maasai
+  note: >
+    Kimaasi is an alt-name for Masai http://glottolog.org/resource/languoid/id/masa1300
   variables:
   - Q2
   wals_codes: null
@@ -2614,12 +2624,13 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: masa1300
+- glottocodes: arus1243
   iso_639_3:
   - mas
   lang_id: 759
   lang_name: Kiarusha
-  note: Arusha speak Maasi (https://en.wikipedia.org/wiki/Arusha_people)
+  note: >
+    Arusha is a dialect of Maasai https://www.ethnologue.com/language/mas
   variables:
   - Q2
   wals_codes: null
@@ -2698,10 +2709,11 @@
   - irk
   lang_id: 768
   lang_name: Kimbulu
-  note: Iraqw
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Mbulu is an alt-name for Iraqw http://glottolog.org/resource/languoid/id/iraq1241
 - glottocodes: mwer1248
   iso_639_3:
   - mwe
@@ -2753,12 +2765,13 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: zigu1242
+- glottocodes: ngul1246
   iso_639_3:
-  - ziw
+  - ngp
   lang_id: 775
   lang_name: Kinguu
-  note: https://en.wikipedia.org/wiki/Zigula_language
+  note: >
+    Kingulu is an alt-name for Ngulu https://www.ethnologue.com/language/ngp
   variables:
   - Q2
   wals_codes: null
@@ -3034,6 +3047,8 @@
   variables:
   - Q103
   wals_codes: null
+  note: >
+    Chewa is a dialect and alt-name of Nyanja. http://glottolog.org/resource/languoid/id/nyan1308
 - glottocodes: bemb1257
   iso_639_3:
   - bem
@@ -3089,7 +3104,7 @@
   variables:
   - Q103
   wals_codes: null
-- glottocodes: nyan1308
+- glottocodes: chew1246
   iso_639_3:
   - nya
   lang_id: 824
@@ -3097,12 +3112,15 @@
   variables:
   - Q116
   wals_codes: null
-- glottocodes: nsen1242
+  note: >
+    Chewa is an alt-name and dialect of Nyanja http://glottolog.org/resource/languoid/id/nyan1308
+- glottocodes: nucl1397
   iso_639_3:
   - nse
   lang_id: 825
   lang_name: Nsenga
-  note: Zambia
+  note: >
+    For Glottocode, use the nuclear Nsenga dialect.
   variables:
   - Q2
   wals_codes: null
@@ -3167,7 +3185,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: mamb1296
+- glottocodes: mamb1297
   iso_639_3:
   - mgr
   lang_id: 833
@@ -3192,7 +3210,7 @@
   - Q2
   wals_codes: null
   note: >
-    Zambia. Ngoni is a dialect of Nsenga. Different thatn Ngoni (ngon1269)
+    Zambia. Ngoni is a dialect of Nsenga. Different than Ngoni (ngon1269)
 - glottocodes: soli1239
   iso_639_3:
   - sby
@@ -3241,7 +3259,7 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: mamb1296
+- glottocodes: mamb1297
   iso_639_3:
   - mgr
   lang_id: 841
@@ -3277,7 +3295,7 @@
   - Q2
   wals_codes:
   - lmb
-- glottocodes: mamb1296
+- glottocodes: rung1256
   iso_639_3:
   - mgr
   lang_id: 844
@@ -3285,6 +3303,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Lungu is alt-name for Rungu
 - glottocodes: cent2285
   iso_639_3:
   - nih
@@ -3294,21 +3314,25 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: nsen1242
+- glottocodes: nucl1397
   iso_639_3:
   - nse
   lang_id: 846
   lang_name: Senga
-  note: Zambia
+  note: >
+    Senga is an alt-name for Nsenga. Use the nuclear Nsenga dialect.
   variables:
   - Q2
   wals_codes: null
+
 - glottocodes: tong1318
   iso_639_3:
   - toi
   lang_id: 847
   lang_name: Tokaleya
-  note: https://www.ethnologue.com/country/zm/languages
+  note: >
+    Toka-Leya speak Tonga. https://www.ethnologue.com/country/zm/languages.
+    Toka and Leya are also dialects.
   variables:
   - Q2
   wals_codes: null
@@ -3869,6 +3893,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Banso is an alt name for Lamano http://glottolog.org/resource/languoid/id/lamn1239
 - glottocodes: bata1285
   iso_639_3:
   - bnm
@@ -3927,7 +3953,7 @@
   - sle
   - tpr
   - ygd
-- glottocodes: ewon1239
+- glottocodes: fong1242
   iso_639_3:
   - ewo
   lang_id: 1241
@@ -3935,6 +3961,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Fong is a dialect of Ewondo. http://glottolog.org/resource/languoid/id/ewon1239
 - glottocodes: nort2775
   iso_639_3:
   - gya
@@ -4582,7 +4610,11 @@
   - dua
   lang_id: 2221
   lang_name: Yabassi
-  note: 'Yabassi only mentioned in Duala entry: https://www.ethnologue.com/country/CM/languages'
+  note: >
+    Yabassi only mentioned in Duala entry: https://www.ethnologue.com/country/CM/languages
+
+    https://main.journalofwestafricanlanguages.org/index.php/downloads/download/69-volume2401/333-the-interaction-of-tonal-features-in-yabassi
+    suggests that it Yabassi is a Duala dialect.
   variables:
   - Q2
   wals_codes: null
@@ -4727,6 +4759,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Kizigua is an alt-name for Kizigula
 - glottocodes: ruri1238
   iso_639_3:
   - kya
