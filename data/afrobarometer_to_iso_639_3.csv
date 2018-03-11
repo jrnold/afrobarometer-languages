@@ -2907,7 +2907,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q103,707,Swazi,16,ZA,ssw,Swati,I
 5,Q103,708,Venda,16,ZA,ven,Venda,I
 5,Q103,709,Zulu,16,ZA,zul,Zulu,I
-5,Q103,711,Mixed - English/Afrikaans,16,ZA,afr,Afrikaans,I
+5,Q103,711,Mixed - English/Afrikaans,16,ZA,eng,English,I
 5,Q103,712,Tsonga,16,ZA,tso,Tsonga,I
 5,Q103,780,Luganda,18,UG,lug,Ganda,I
 5,Q103,781,Runyankole-Rukiga,18,UG,nyn,Nyankole,I
@@ -3901,7 +3901,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,iso_639_3,iso_ref_name,iso_s
 5,Q2,1154,Gourma,24,TG,gux,Gourmanchéma,I
 5,Q2,1156,Ngam-Gam,24,TG,gng,Ngangam,I
 5,Q2,1157,Tchamba,24,TG,aks,Akaselem,I
-5,Q2,1159,Aklobo,24,TG,keu,Akebu,I
+5,Q2,1159,Aklobo,24,TG,ewe,Ewe,I
 5,Q2,1180,Kirundi,25,BI,run,Rundi,I
 5,Q2,1220,Foufoulde,26,CM,fub,Adamawa Fulfulde,I
 5,Q2,1220,Foufoulde,26,CM,ful,Fulah,M

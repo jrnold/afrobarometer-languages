@@ -902,6 +902,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Dafing is an alt-name for Marka. Not a dialect http://glottolog.org/resource/languoid/id/mark1256
 - glottocodes: kabu1256
   iso_639_3:
   - kea
@@ -997,6 +999,8 @@
   variables:
   - Q2
   wals_codes: null
+  note: >
+    Same of Mosi.
 - glottocodes: sisa1248
   iso_639_3:
   - sil
@@ -1757,6 +1761,8 @@
   - Q116
   - Q2
   wals_codes: null
+  note: >
+    Maure is an alt-name for Hassaniyya. https://www.ethnologue.com/language/mey
 - glottocodes: mama1271
   iso_639_3:
   - myk
@@ -1947,12 +1953,12 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: many1258
+- glottocodes: hung1277
   iso_639_3:
   - mxc
   lang_id: 553
   lang_name: Chinhungue
-  note: Name similar to Hungwe, and alt name of Manyika
+  note: Name similar to Hungwe, a dialect Manyika
   variables:
   - Q2
   wals_codes: null
@@ -2112,6 +2118,8 @@
   - Q116
   - Q2
   wals_codes: null
+  note: >
+    Thimbukushu is an alt-name for Mbukushu. Not a dialect. http://glottolog.org/resource/languoid/id/mbuk1240
 - glottocodes: lozi1239
   iso_639_3:
   - loz
@@ -2648,14 +2656,16 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: afri1274
+- glottocodes: stan1293
   iso_639_3:
-  - afr
+  - eng
   lang_id: 711
   lang_name: Mixed - English/Afrikaans
   variables:
   - Q103
   wals_codes: null
+  note: >
+    Use English because it is mentioned first.
 - glottocodes: tson1249
   iso_639_3:
   - tso
@@ -4015,12 +4025,16 @@
   variables:
   - Q2
   wals_codes: null
-- glottocodes: akeb1238
+- glottocodes: ewee1241
   iso_639_3:
-  - keu
+  - ewe
   lang_id: 1159
   lang_name: Aklobo
-  note: Akebu?
+  note: >
+    Unsure of the language. The respondents who answered this mostly answered
+    in Ewe (or French). The all lived in Maritime region. This is consistent
+    with Ewe. Google searches turned up nothing. No dialects named Aklobo
+    in Ethnologue of Glottolog.
   variables:
   - Q2
   wals_codes: null
@@ -4675,7 +4689,10 @@
   - fon
   lang_id: 1282
   lang_name: DAHOMEY
-  note: Dohomey refers to Fon. https://en.wikipedia.org/wiki/Fon_people
+  note: >
+    Dohomey is a name for the Fon people and Benin. However, this was used
+    in the Ivory Coast. It was only used by an interviewer, so it is possible
+    that they aren't
   variables:
   - Q116
   wals_codes: null

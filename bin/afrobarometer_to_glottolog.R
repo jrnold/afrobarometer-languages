@@ -62,13 +62,44 @@ assert_that(nrow(distinct(afrobarometer_to_glottolog,
                           round, variable, lang_id, country))
             == nrow(afrobarometer_to_glottolog))
 
+rlang::eval_tidy(quo({
+  assert_that(all(!is.na(.data$round)))
+  assert_that(is.integer(.data$round))
+  assert_that(all(.data$round %in% 1:6))
+
+  assert_that(all(!is.na(.data$lang_id)))
+  assert_that(is.integer(.data$lang_id))
+  assert_that(all(.data$lang_id >= -1 & .data$lang_id <= 9999))
+
+  assert_that(all(!is.na(.data$iso_alpha2)))
+  assert_that(is.character(.data$iso_alpha2))
+  assert_that(all(str_detect(.data$iso_alpha2, "^[A-Z]{2}$")))
+
+  assert_that(all(!is.na(.data$country)))
+  assert_that(is.integer(.data$country))
+  assert_that(all(.data$country >= 1))
+
+  assert_that(all(!is.na(.data$lang_name)))
+  assert_that(is.character(.data$lang_name))
+
+  assert_that(is.character(glottocode))
+  assert_that(all(str_detect(na.omit(glottocode), "^[a-z0-9]{4}[0-9]{4}$")))
+
+  assert_that(is.character(glottolog_name))
+
+  assert_that(is.character(.data$level))
+  assert_that(all(na.omit(.data$level) %in% c("language", "dialect", "family")))
+
+}), data = afrobarometer_to_glottolog)
+
+
 #' all glottolog langs should be valid
 invalid_glottocode <-
   afrobarometer_to_glottolog %>%
   filter(!is.na(glottocode)) %>%
   anti_join(glottolog_languoids, by = c("glottocode"))
 if (nrow(invalid_glottocode)) {
-  print(invalid_glottocode, n = 100)
+  print(invalid_glottocode, n = 1000)
   stop("Unaccounted for non-matches found")
 }
 
@@ -82,6 +113,18 @@ if (nrow(to_glottolog_langmiss)) {
   stop("Invalid Afrobarometer languages found")
 }
 
+
+#' No non-missing values
+to_glottolog_missing_vals <-
+  afrobarometer_to_glottolog %>%
+  filter(is.na(glottocode)) %>%
+  anti_join(IO$afrobarometer_to_glottolog_nonmatches,
+            by = c("round", "variable", "iso_alpha2", "lang_name"))
+
+if (nrow(to_glottolog_missing_vals)) {
+  print(to_glottolog_missing_vals)
+  stop("Missing glottocode values found")
+}
 
 #' Check that all combinations of (country, language name)
 #' match the same Glottocodes across rounds
@@ -98,44 +141,6 @@ inconsistent_mappings <-
 if (nrow(inconsistent_mappings)) {
   print(inconsistent_mappings, n = 100)
   stop("There are inconsistent mappings across rounds in afrobaromter_to_glottolog")
-}
-
-col_types <- cols(
-  iso_alpha2 = col_character(),
-  east = col_double(),
-  west = col_double(),
-  north = col_double(),
-  south = col_double(),
-  languages = col_character(),
-  longitude = col_double(),
-  latitude = col_double()
-)
-country_geo <- read_csv("data-raw/country_geo_info.csv", col_types = col_types,
-                        na = "")
-col_types <- cols(
-  iso_alpha2 = col_character(),
-  glottocode = col_character()
-)
-known_country_non_matches <- read_csv("data-raw/afrobarometer_to_glottocode_country_non_matches.csv", col_types = col_types, na = "")
-
-#' Check that language location is either inside the bounding box of the country
-#' or accounted for
-COMMON_LANGS <- c("stan1293", "port1283", "stan1290")
-country_non_matches <-
-  left_join(afrobarometer_to_glottolog,
-            select(country_geo, iso_alpha2, east, west, north, south),
-            by = "iso_alpha2") %>%
-  left_join(select(IO$glottolog_languoids, glottocode, longitude, latitude),
-            by = "glottocode") %>%
-  filter(longitude < west | longitude > east |
-           latitude > north | latitude < south) %>%
-  filter(!glottocode %in% COMMON_LANGS) %>%
-  anti_join(known_country_non_matches, by = c("iso_alpha2", "glottocode")) %>%
-  select(lang_name, iso_alpha2, glottocode) %>%
-  distinct()
-if (nrow(country_non_matches)) {
-  print(country_non_matches)
-  stop("Language matches outside the country in afrobarometer_to_glottocode")
 }
 
 #' Write data

@@ -448,6 +448,18 @@ env_bind_fns(IO, afrobarometer_other_to_glottolog = function() {
   read_csv(path, na = "", col_types = col_types)
 })
 
+#' Known missing values for glottolog
+env_bind_fns(IO, afrobarometer_to_glottolog_nonmatches = function() {
+  path <- project_path("data-raw", "afrobarometer_to_glottolog_nonmatches.csv")
+  read_csv(path, na = "",
+           col_types = cols(
+               round = col_integer(),
+               variable = col_character(),
+               iso_alpha2 = col_character(),
+               lang_name = col_character()
+             ))
+})
+
 
 #' Countries associated with each ISO 639
 iso_639_countries <- function() {

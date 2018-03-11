@@ -167,7 +167,8 @@ respno_to_langs_round <- function(.round) {
 
 respno_to_langs <- function() {
   map_df(1:6, respno_to_langs_round) %>%
-    select(round, respno, variable, iso_639_3, wals_code, glottocode) %>%
+    select(round, respno, variable, iso_639_3, wals_code, glottocode,
+           other) %>%
     arrange(round, variable, respno)
 }
 
@@ -206,6 +207,8 @@ rlang::eval_tidy(quo({
 
   assert_that(is.character(glottocode))
   assert_that(all(str_detect(na.omit(glottocode), "^[a-z0-9]{4}[0-9]{4}$")))
+
+  assert_that(is.logical(other))
 
 }), data = afrobarometer_respno_to_langs)
 

@@ -3631,7 +3631,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q103,707,Swazi,16,ZA,swt,Swati,1
 5,Q103,708,Venda,16,ZA,ven,Venda,1
 5,Q103,709,Zulu,16,ZA,zul,Zulu,1
-5,Q103,711,Mixed - English/Afrikaans,16,ZA,afr,Afrikaans,1
+5,Q103,711,Mixed - English/Afrikaans,16,ZA,eng,English,1
 5,Q103,712,Tsonga,16,ZA,tsn,Tsonga,0
 5,Q103,780,Luganda,18,UG,lda,Luganda,1
 5,Q103,781,Runyankole-Rukiga,18,UG,rny,Runyankore,1
@@ -4764,8 +4764,7 @@ round,variable,lang_id,lang_name,country,iso_alpha2,wals_code,wals_name,auto
 5,Q2,1154,Gourma,24,TG,grm,Gurma,1
 5,Q2,1156,Ngam-Gam,24,TG,kkb,Konkomba,1
 5,Q2,1157,Tchamba,24,TG,ncm,Ncàm,1
-5,Q2,1159,Aklobo,24,TG,avt,Avatime,1
-5,Q2,1159,Aklobo,24,TG,kpo,Kposo,1
+5,Q2,1159,Aklobo,24,TG,ewa,Ewe (Anglo),1
 5,Q2,1180,Kirundi,25,BI,rnd,Rundi,1
 5,Q2,1220,Foufoulde,26,CM,fgo,Fulani (Gombe),1
 5,Q2,1221,Pidgin,26,CM,npi,Nigerian Pidgin,0

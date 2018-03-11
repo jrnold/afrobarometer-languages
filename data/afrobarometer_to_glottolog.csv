@@ -906,7 +906,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 3,308,q103,MZ,10,Chuabo,chuw1238,Chuwabu,language
 3,309,q103,MZ,10,Ajua,yaoo1241,Yao,language
 3,310,q103,MZ,10,Quimuane,mwan1247,Mwani,language
-3,312,q103,MZ,10,Nhungue,many1258,Manyika,language
+3,312,q103,MZ,10,Nhungue,hung1277,Hungwe,dialect
 3,320,q103,NA,11,Nama/Damara,nama1264,Nama (Namibia),language
 3,321,q103,NA,11,Afrikaans,afri1274,Afrikaans,language
 3,322,q103,NA,11,Rukwangali,kwan1273,Kwangali,language
@@ -1204,7 +1204,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 3,309,q3,MZ,10,Ajua,yaoo1241,Yao,language
 3,310,q3,MZ,10,Quimuane,mwan1247,Mwani,language
 3,311,q3,MZ,10,Muaui,mwan1247,Mwani,language
-3,312,q3,MZ,10,Nhungue,many1258,Manyika,language
+3,312,q3,MZ,10,Nhungue,hung1277,Hungwe,dialect
 3,320,q3,NA,11,Nama/Damara,nama1264,Nama (Namibia),language
 3,321,q3,NA,11,Afrikaans,afri1274,Afrikaans,language
 3,322,q3,NA,11,Rukwangali,kwan1273,Kwangali,language
@@ -1835,7 +1835,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 4,552,Q3,MZ,12,Chiute,tewe1238,Tewe,language
 4,553,Q3,MZ,12,Coti,koti1238,Koti,language
 4,555,Q3,MZ,12,Lomwe,lomw1241,Mozambique Lomwe,language
-4,556,Q3,MZ,12,Nhungue,many1258,Manyika,language
+4,556,Q3,MZ,12,Nhungue,hung1277,Hungwe,dialect
 4,557,Q3,MZ,12,Matsua,tswa1255,Tswa,language
 4,558,Q3,MZ,12,Ronga,rong1268,Ronga,language
 4,559,Q3,MZ,12,Shona,ndau1241,Ndau,language
@@ -2129,7 +2129,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,707,Q103,ZA,16,Swazi,swat1243,Swati,language
 5,708,Q103,ZA,16,Venda,vend1245,Venda,language
 5,709,Q103,ZA,16,Zulu,zulu1248,Zulu,language
-5,711,Q103,ZA,16,Mixed - English/Afrikaans,afri1274,Afrikaans,language
+5,711,Q103,ZA,16,Mixed - English/Afrikaans,stan1293,English,language
 5,712,Q103,ZA,16,Tsonga,tson1249,Tsonga,language
 5,780,Q103,UG,18,Luganda,gand1255,Ganda,language
 5,781,Q103,UG,18,Runyankole-Rukiga,nyan1307,Nyankole,language
@@ -2676,7 +2676,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,549,Q2,MZ,12,Ajaua,yaoo1241,Yao,language
 5,551,Q2,MZ,12,Chibarue,barw1243,Barwe,language
 5,552,Q2,MZ,12,Chimarenge,mare1260,Marenje,language
-5,553,Q2,MZ,12,Chinhungue,many1258,Manyika,language
+5,553,Q2,MZ,12,Chinhungue,hung1277,Hungwe,dialect
 5,554,Q2,MZ,12,Chitewe,tewe1238,Tewe,language
 5,555,Q2,MZ,12,Chitswa,tswa1255,Tswa,language
 5,556,Q2,MZ,12,Chitawala,tawa1270,Tawara,language
@@ -2876,7 +2876,7 @@ round,lang_id,variable,iso_alpha2,country,lang_name,glottocode,glottolog_name,le
 5,1154,Q2,TG,24,Gourma,gour1243,Gourmanchéma,language
 5,1156,Q2,TG,24,Ngam-Gam,ngan1299,Ngangam,language
 5,1157,Q2,TG,24,Tchamba,akas1242,Akaselem,language
-5,1159,Q2,TG,24,Aklobo,akeb1238,Akebu,language
+5,1159,Q2,TG,24,Aklobo,ewee1241,Ewe,language
 5,1180,Q2,BI,25,Kirundi,rund1242,Rundi,language
 5,1220,Q2,CM,26,Foufoulde,adam1253,Adamawa Fulfulde,language
 5,1221,Q2,CM,26,Pidgin,came1254,Cameroon Pidgin,language
