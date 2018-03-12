@@ -68,17 +68,17 @@ glottolog_distances <- function() {
   ab_dists <-
     crossing(rename_all(ab_to_glottolog, str_c, "_1"),
              rename_all(ab_to_glottolog, str_c, "_2")) %>%
-    filter((round_1 != round_2) |
-             (variable_1 != variable_2) |
-             (iso_alpha2_1 != iso_alpha2_2) |
-             (lang_id_1 != lang_id_2)) %>%
+    filter(!((round_1 == round_2) &
+             (variable_1 == variable_2) &
+             (iso_alpha2_1 == iso_alpha2_2) &
+             (lang_id_1 == lang_id_2)),
+           lang_id_1 < lang_id_2) %>%
     left_join(select(tbl(glottolog_db, "distances"), -geo),
               by = c("glottocode_1", "glottocode_2"),
               copy = TRUE) %>%
     group_by(round_1, variable_1, lang_id_1, iso_alpha2_1,
              round_2, variable_2, lang_id_2, iso_alpha2_2) %>%
-    summarise(shared = mean(shared),
-              dist = mean(sqrt(shared / max_depth)))
+    summarise(shared = median(shared))
 }
 
 # asjp_distances <- function() {
