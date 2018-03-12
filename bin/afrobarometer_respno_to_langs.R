@@ -52,7 +52,8 @@ map_lang_vars <- function(.data, x, mappings, lang_vars,
       filter(!is.na(UQ(sym(x)))) %>%
       left_join(select(lang_vars, variable, type), by = "variable") %>%
       select(-variable) %>%
-      rename(variable = type)
+      rename(variable = type) %>%
+      mutate(other = other)
     out
   }
 }
@@ -145,10 +146,9 @@ respno_to_langs_round <- function(.round) {
 
     if (!is.null(to_glottolog_other)) {
       to_glottolog <- bind_rows(
-        to_glottolog,
-        anti_join(to_glottolog_other, to_glottolog,
-                  by = c("respno", "variable")))
-
+        mutate(anti_join(to_glottolog_other, to_glottolog,
+                         by = c("respno", "variable")),
+               other = TRUE))
     }
   }
 
