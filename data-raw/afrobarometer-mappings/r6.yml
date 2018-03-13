@@ -1563,7 +1563,7 @@
   - dts
   lang_id: 506
   lang_name: Dogon
-  note: There are many Dogon languages. These seem to be some of the most common.
+  note:
   variables:
   - Q116
   - Q2
