@@ -112,12 +112,14 @@
     - NA
     - ZA
 - name: afrikaans and local languages
+  multi: true
   glottocode: afri1274
   iso_639_3:
   - afr
   country:
   - NA
 - name: afrikaans and oshiwambo
+  multi: true
   glottocode: afri1274
   iso_639_3:
   - afr
@@ -550,30 +552,36 @@
   - mis
   country:
   - CM
-- name: asian
-  glottocode: hind1269
-  iso_639_3:
-  - hin
-  country:
-  - ZA
+
 - name: asian south
   glottocode: guja1252
   iso_639_3:
   - guj
   country:
   - KE
-- name: asian/indian
+- name:
+  - asian
+  - asian/indian
+  - asian/other
   glottocode: hind1269
   iso_639_3:
   - hin
   country:
   - ZA
-- name: asian/other
-  glottocode: hind1269
-  iso_639_3:
-  - hin
-  country:
-  - ZA
+  note: >
+    In South Africa, Hindi is the most common. However, it could be other
+    languages:
+
+    - [Hindi](https://www.ethnologue.com/language/hin). Speakers: 361,000 speakers (2003); Status: 5. Dispersed.
+    - [Bhojpuri](https://www.ethnologue.com/language/bho).
+    - [Urdu](https://www.ethnologue.com/language/urd). Speakers: 12,000 (2006). Status: 5. Dispersed.
+    - [Tamil](https://www.ethnologue.com/language/tam). Speakers: 250,000 (2015). Status: 4. Educational
+
+    Of these: Hindi, Bhojpuri, and Urdu are in the Indo-European family,
+    and Tamil is in the Dravidian family (Ethnologue).
+
+    This inference could be improved with geographic and religious information.
+
 - name: assin
   glottocode: null
   iso_639_3:
@@ -865,18 +873,21 @@
   - mis
   country:
   - NG
-- name: baham
-  glottocode: ghom1247
+
+- name:
+  - baham
+  - baham/bafoussam
+  glottocode: ghom1250
   iso_639_3:
   - bbj
   country:
   - CM
-- name: baham/bafoussam
-  glottocode: ghom1247
-  iso_639_3:
-  - bbj
-  country:
-  - CM
+  note: >
+    Baham is a sub-dialect of the Ghomálá’ Central dialect of Ghomálá' <https://www.ethnologue.com/language/bbj>.
+
+    Bafoussam is an alt-name for Ghomálá' <http://glottolog.org/resource/languoid/id/ghom1247>.
+
+    Not to be confused with the Indonesian language Baham.
 - name: bahumono
   glottocode: kohu1244
   iso_639_3:
@@ -1587,18 +1598,17 @@
   note: >
     Beriberi is pejorative for [Central Kanuri](https://www.ethnologue.com/language/knc) (knc)
 
-- name: berom
+- name:
+  - beron/birom
+  - berom
   glottocode: bero1242
   iso_639_3:
   - bom
   country:
   - NG
-- name: beron/birom
-  glottocode: bero1242
-  iso_639_3:
-  - bom
-  country:
-  - NG
+  note: >
+    "Beron" is close to "Berom". Birom is an alt-name for Berom <http://glottolog.org/resource/languoid/id/bero1242>.
+
 - name: besa
   glottocode: null
   iso_639_3:
@@ -1870,6 +1880,14 @@
   - biv
   country:
   - GH
+  note: >
+    [Birifor](http://glottolog.org/resource/languoid/id/biri1257) is a family.
+    [Southern Birifor](http://glottolog.org/resource/languoid/id/sout2790) is spoken
+    spoken in Ghana.
+
+    The names "brefo" and "birfuo" are close to the various names for
+    Birifor: (Birifo), and no other languages in Ghana have similar names.
+
 - name: brong
   glottocode: abro1238
   iso_639_3:
@@ -1900,6 +1918,10 @@
   - lef
   country:
   - GH
+  note: >
+    Buem is an alt-name for [Lelemi](http://glottolog.org/resource/languoid/id/lele1264).
+    Buam is probably an alt-spelling of Buem (Bwem).
+
 - name: buda
   glottocode: null
   iso_639_3:
@@ -2122,12 +2144,7 @@
   - cch
   country:
   - NG
-- name: chechewa
-  glottocode: chew1246
-  iso_639_3:
-  - nya
-  country:
-  - MZ
+
 - name: chekosi
   glottocode: anuf1239
   iso_639_3:
@@ -2140,13 +2157,15 @@
   - seh
   country:
   - MZ
-- name: cheua
-  glottocode: nyan1308
-  iso_639_3:
-  - nya
-  country:
-  - MZ
-- name: chewa
+
+- name:
+  - chewa
+  - chewa/nyanja
+  - chewe
+  - cheua
+  - chechewa
+  - chichewa
+  - tchitchewa
   glottocode: chew1246
   iso_639_3:
   - nya
@@ -2156,18 +2175,11 @@
     - MZ
     - ZM
     - ZW
-- name: chewa/nyanja
-  glottocode: nyan1308
-  iso_639_3:
-  - nya
-  country:
-  - ZM
-- name: chewe
-  glottocode: chew1246
-  iso_639_3:
-  - nya
-  country:
-  - MZ
+  note: >
+    Use the Chewa dialect (chew1246) of Nyanja (nyan1308) in Glottolog.
+
+    Include various alt-spellings.
+
 - name: chibarue
   glottocode: barw1243
   iso_639_3:
@@ -2192,14 +2204,7 @@
   - bwg
   country:
   - MZ
-- name: chichewa
-  glottocode: chew1246
-  iso_639_3:
-  - nya
-  country:
-    - MW
-    - MZ
-    - ZA
+
 - name: chigorongozi
   glottocode: null
   iso_639_3:
@@ -3267,12 +3272,7 @@
   - ebu
   country:
   - KE
-- name: eng and swahili
-  glottocode: stan1293
-  iso_639_3:
-  - eng
-  country:
-  - KE
+
 - name: english
   glottocode: stan1293
   iso_639_3:
@@ -3301,132 +3301,147 @@
     - ZA
     - ZM
     - ZW
-- name: english + afrikaans
-  glottocode: stan1293
-  iso_639_3:
-  - eng
-  country:
-  - ZA
+
 - name: english + ndebele
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - ZA
+  multi: true
 - name: english + pedi/n. sotho
+  multi: true
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - ZA
+  multi: true
 - name: english + sesotho/s. sotho
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - ZA
+  multi: true
 - name: english + setswana
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - ZA
+  multi: true
 - name: english + venda
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - ZA
+  multi: true
 - name: english + xhosa
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - ZA
+  multi: true
 - name: english + zulu
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - ZA
-- name: english and afrikaans
+  multi: true
+- name:
+  - english and afrikaans
+  - english + afrikaans
   glottocode: afri1274
   iso_639_3:
   - afr
   country:
   - NA
+  multi: true
 - name: english and kamba
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - KE
+  multi: true
 - name: english and kikuyu
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - KE
-- name: english and kiswahili
+  multi: true
+- name:
+  - english and kiswahili
+  - eng and swahili
+  - english/swahili
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - KE
+  multi: true
 - name: english and local languages
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - NA
+  multi: true
 - name: english and luo
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - KE
+  multi: true
 - name: english and oshiwambo
   glottocode: kuan1247
   iso_639_3:
   - kua
   country:
   - NA
+  multi: true
 - name: english, afrikaans and local languages
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - NA
+  multi: true
 - name: english, kiswahili and kalenjin
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - KE
+  multi: true
 - name: english, kiswahili and kikuyu
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - KE
+  multi: true
 - name: english, kiswahili and meru
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - KE
+  multi: true
 - name: english, kiswahili, and kamba
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - KE
-- name: english/swahili
-  glottocode: stan1293
-  iso_639_3:
-  - eng
-  country:
-  - KE
+  multi: true
+
 - name: epeye
   glottocode: ekpe1253
   iso_639_3:
@@ -3517,6 +3532,12 @@
   - ewe
   country:
   - GH
+  mutli: true
+  note: >
+    These are unrelated. Use the first language.
+
+    - [Ewe](http://glottolog.org/resource/languoid/id/ewee1241)
+    - [Fante](http://glottolog.org/resource/languoid/id/fant1241) is a dialect/langauge of Akan fant1241
 - name: ewodi
   glottocode: dual1243
   iso_639_3:
@@ -3773,8 +3794,9 @@
   country:
   - GH
   note: >
-    Link to the family that includes both
-    Ga (gaa) and Dangbe (ada) languages.
+    [Ga](http://glottolog.org/resource/languoid/id/gaaa1244) and [Adangbe](http://glottolog.org/resource/languoid/id/adan1247) are closely related.
+
+    Link to the family that includes both Ga (gaa) and Dangbe (ada) languages.
 - name: gabra
   glottocode: gabr1255
   iso_639_3:
@@ -4395,24 +4417,19 @@
   - ife
   country:
   - TG
-- name: igala
+
+- name:
+  - igala
+  - igala/idoma
+  - igara
   glottocode: igal1242
   iso_639_3:
   - igl
   country:
   - NG
-- name: igala/idoma
-  glottocode: igal1242
-  iso_639_3:
-  - igl
-  country:
-  - NG
-- name: igara
-  glottocode: igal1242
-  iso_639_3:
-  - igl
-  country:
-  - NG
+  note: >
+    Idoma people speak Igala.
+
 - name: igbira
   glottocode: ebir1243
   iso_639_3:
@@ -4446,24 +4463,43 @@
   - ijc
   country:
   - NG
+  multi: true
+  note: >
+    This splits into two subgroups of Niger-Atlantic Congo Languages.
+    Glototlog splits them into the Ijoid and Volta Congo families.
+
+    - Niger-Congo, Atlantic-Congo, Ijoid
+      - Ijaw is an alt-name for Izon. <https://www.ethnologue.com/language/ijc>
+      - Nembe is a dialect of Souteast Ijo <https://www.ethnologue.com/language/ijs>
+      - Okirika is an alt-name for Kirike <https://www.ethnologue.com/language/okr>    - Okirika is an alt-name for Kirike <https://www.ethnologue.com/language/okr>
+      - Kalabari is a language <https://www.ethnologue.com/language/ijn>
+    - Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Cross River, Delta Cross
+      - Ogoni is an alt-name for Khana <https://www.ethnologue.com/language/ogo>
+      - Andoni is an alt-name for Obolo <https://www.ethnologue.com/language/ann>
+
+    As such, I have to consider this entry as constituting separate langauges.
+    However, this seems too many to be a multiple-languages entry.
+
 - name: ika
   glottocode: ikaa1238
   iso_639_3:
   - ikk
   country:
   - NG
-- name: ikalanga/sekala
-  glottocode: kala1384
+- name:
+  - ikalanga/sekala
+  - ikalanga/sekalaka
+  glottocode: ikal1242
   iso_639_3:
   - kck
   country:
   - BW
-- name: ikalanga/sekalaka
-  glottocode: kala1384
-  iso_639_3:
-  - kck
-  country:
-  - BW
+  note: >
+    Ikalanga is the autonym for Kalanga. Sekalaka is an alt-name. <https://www.ethnologue.com/language/kck>
+
+    Since there is a specific dialect Ikalanga of [Kalanga](http://glottolog.org/resource/languoid/id/kala1384) in Glottolog,
+    use that.
+
 - name: ikan
   glottocode: null
   iso_639_3:
@@ -4549,6 +4585,7 @@
   - iri
   country:
   - NG
+# here for checking multi
 - name: irobo/urhobo
   glottocode: urho1239
   iso_639_3:
@@ -6042,6 +6079,7 @@
   note: >
     Kiswahili is an alt-name for Swahili.
 - name: kiswahili and kalenjin
+  multi: true
   glottocode: swah1253
   iso_639_3:
     - swh
@@ -6050,6 +6088,7 @@
   note: >
     Use the first language named.
 - name: kiswahili and kamba
+  multi: true
   glottocode: swah1253
   iso_639_3:
     - swh
@@ -6058,6 +6097,7 @@
   note: >
     Use the first language named.
 - name: kiswahili and kikuyu
+  multi: true
   glottocode: swah1253
   iso_639_3:
     - swh
@@ -6065,22 +6105,18 @@
   - KE
   note: >
     Use the first language named.
-- name: kiswahili and luhya
+- name:
+  - kiswahili and luhya
+  - kiswahili/luhya
+  multi: true
   glottocode: swah1253
   iso_639_3:
     - swh
   country:
   - KE
   note: >
-    Use the first language named.
-- name: kiswahili/luhya
-  glottocode: swah1253
-  iso_639_3:
-    - swh
-  country:
-  - KE
-  note: >
-    Use the first language named.
+    Kiswahili and Luhya are unrelated. Use the first language named.
+
 - name: kitaturu
   glottocode: null
   iso_639_3:
@@ -7221,20 +7257,18 @@
   - gwa
   country:
   - CI
-- name: maasai / samburu
+- name:
+  - maasai / samburu
+  - maasai/samburu
   glottocode: nucl1431
   iso_639_3:
     - mas
     - saq
   country:
   - KE
-- name: maasai/samburu
-  glottocode: nucl1431
-  iso_639_3:
-    - mas
-    - saq
-  country:
-  - KE
+  note: >
+    Maasai and Samburu are languages in the [Nuclear Maa](http://glottolog.org/resource/languoid/id/nucl1431) family.
+
 - name: mabawe
   glottocode: null
   iso_639_3:
@@ -7387,7 +7421,7 @@
   - malagasy officiel
   glottocode: plat1254
   iso_639_3:
-    - plt
+  - plt
   country:
   - MG
 
@@ -7991,32 +8025,42 @@
   - mer
   country:
   - KE
-- name: meru / embu
+- name:
+  - meru / embu
+  - meru/embu
   glottocode: cent2274
   iso_639_3:
     - ebu
     - mer
   country:
   - KE
-- name: meru/embu
-  glottocode: meru1245
-  iso_639_3:
-    - ebu
-    - mer
-  country:
-  - KE
+  note: >
+    [Meru](http://glottolog.org/resource/languoid/id/meru1245) and
+    [Embu](http://glottolog.org/resource/languoid/id/embu1241) are
+    both Bantoid languages but on different branches of the
+    [Central Kenya Bantu](http://glottolog.org/resource/languoid/id/cent2274)
+    family.
+
 - name: meru/kimeru
-  glottocode: meru1245
+  glottocode: nucl1245
   iso_639_3:
   - mer
   country:
   - KE
+  note: >
+    Kimeru is an alternative name for Meru <http://glottolog.org/resource/languoid/id/meru1245>.
 - name: meru/samburu
   glottocode: meru1245
   iso_639_3:
   - mer
   country:
   - KE
+  multi: true
+  note: >
+    Meru and Samburu are unrelated languages.
+    [Samburu](http://glottolog.org/resource/languoid/id/samb1315)
+    is a Nilotic language. [Meru](http://glottolog.org/resource/languoid/id/meru1245) is
+    a Bantoid language.
 - name: mesagie
   glottocode: null
   iso_639_3:
@@ -8186,12 +8230,13 @@
   country:
   - CM
 
-- name: mixed - english/afrikaans
+- name: "mixed - english/afrikaans"
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
   - ZA
+  multi: true
 - name: miyawa
   glottocode: miya1266
   iso_639_3:
@@ -8329,30 +8374,23 @@
   - mis
   country:
   - CM
-- name: mougoum
-  glottocode: null
-  iso_639_3:
-  - mis
-  country:
-  - CM
+
 - name: moundang
   glottocode: mund1325
   iso_639_3:
   - mua
   country:
   - CM
-- name: mousgoum
+- name:
+  - mougoum
+  - mousgoum
+  - mousgoun
   glottocode: musg1254
   iso_639_3:
   - mug
   country:
   - CM
-- name: mousgoun
-  glottocode: musg1254
-  iso_639_3:
-  - mug
-  country:
-  - CM
+
 - name: mozambican
   glottocode: null
   iso_639_3:
@@ -8720,31 +8758,22 @@
   country:
     - NA
     - ZW
-- name: nama / damara
-  glottocode: nama1264
+- name:
+  - nama / damara
+  - nama/damara
+  glottocode:
+  - nama1264
   iso_639_3:
   - naq
   country:
   - NA
-- name: nama/damara
-  glottocode: nama1264
-  iso_639_3:
-  - naq
-  country:
-  - NA
-- name: nambia
-  glottocode: null
-  iso_639_3:
-  - mis
-  country:
-  - ZW
-- name: nambiya
-  glottocode: null
-  iso_639_3:
-  - mis
-  country:
-  - ZW
-- name: nambya
+  note: >
+    [Damara](http://glottolog.org/resource/languoid/id/dama1270)
+    is a dialect of [Nama](http://glottolog.org/resource/languoid/id/nama1264).
+
+- name:
+  - nambya
+  - nambiya
   glottocode: namb1291
   iso_639_3:
   - nmq
@@ -9319,8 +9348,7 @@
   country:
   - KE
   note: >
-    In Kenya and Uganda this probably refers to the
-    Nubi language, which is an Arabic pidgin.
+    In Kenya and Uganda this probably refers to the Nubi language, which is an Arabic pidgin.
 - name: nubian
   glottocode: nubi1253
   iso_639_3:
@@ -10664,17 +10692,15 @@
   - afu
   country:
   - GH
-- name: sepedi
+
+- name:
+  - sepedi
+  - sepedi/n.sotho
   glottocode: pedi1238
   iso_639_3:
   - nso
   country:
-  - BW
-- name: sepedi/n.sotho
-  glottocode: pedi1238
-  iso_639_3:
-  - nso
-  country:
+    - BW
     - NA
     - ZA
 - name: sephotsa
@@ -10683,42 +10709,27 @@
   - xho
   country:
   - LS
-- name: sephuthi
+
+- name:
+  - sephuthi
+  - sephuti
+  - seputhi
+  - seputi
   glottocode: swat1243
   iso_639_3:
   - ssw
   country:
   - LS
-- name: sephuti
-  glottocode: swat1243
-  iso_639_3:
-  - ssw
-  country:
-  - LS
-- name: seputhi
-  glottocode: swat1243
-  iso_639_3:
-  - ssw
-  country:
-  - LS
-- name: seputi
-  glottocode: swat1243
-  iso_639_3:
-  - ssw
-  country:
-  - LS
-- name: serer
+
+- name:
+  - serer
+  - serere
   glottocode: sere1260
   iso_639_3:
   - srr
   country:
   - SN
-- name: serere
-  glottocode: sere1260
-  iso_639_3:
-  - srr
-  country:
-  - SN
+
 - name: sesarwa
   glottocode: tsoa1238
   iso_639_3:
@@ -10743,38 +10754,20 @@
   - sbs
   country:
   - BW
-- name: sesotho
+
+- name:
+  - sesotho
+  - sesotho/south sotho
+  - sesotho/sotho/south sotho
+  - sesotho/sotho/ south sotho
+  - sesotho,sotho, s.sotho
   glottocode: sout2807
   iso_639_3:
   - sot
   country:
-    - BW
-    - LS
-- name: sesotho,sotho, s.sotho
-  glottocode: sout2807
-  iso_639_3:
-  - sot
-  country:
-    - BW
-    - LS
-    - ZA
-- name: sesotho/sotho/ south sotho
-  glottocode: sout2807
-  iso_639_3:
-  - sot
-  country:
+  - BW
+  - LS
   - ZA
-- name: sesotho/sotho/south sotho
-  glottocode: sout2807
-  iso_639_3:
-  - sot
-  country:
-  - ZA
-- name: sesotho/south sotho
-  glottocode: sout2807
-  iso_639_3:
-  - sot
-  country:
   - ZA
 - name: sesubia
   glottocode: subi1246
@@ -10812,28 +10805,17 @@
   - tso
   country:
   - ZA
-- name: setswana
-  glottocode: tswa1253
-  iso_639_3:
-  - tsn
-  country:
-  - BW
-  - NA
-  - ZA
-- name: setswana/ tswana
+
+- name:
+  - setswana
+  - setswana/ tswana
+  - setswana/tswana
   glottocode: tswa1253
   iso_639_3:
   - tsn
   country:
   - ZA
-- name: setswana/tswana
-  glottocode: tswa1253
-  iso_639_3:
-  - tsn
-  country:
-    - BW
-    - NA
-    - ZA
+
 - name: setswapong
   glottocode: tswa1237
   iso_639_3:
@@ -11487,12 +11469,7 @@
   - mis
   country:
   - GN
-- name: tchitchewa
-  glottocode: chew1246
-  iso_639_3:
-  - nya
-  country:
-  - MZ
+
 - name: tchokossi
   glottocode: anuf1239
   iso_639_3:
@@ -12300,18 +12277,18 @@
   - zaj
   country:
   - TZ
-- name: zarma/songhaï
+- name:
+  - zarma/songhaï
+  - zarrma/songhaï
   glottocode: zarm1239
   iso_639_3:
   - dje
   country:
   - NE
-- name: zarrma/songhaï
-  glottocode: zarm1239
-  iso_639_3:
-  - dje
-  country:
-  - NE
+  note: >
+    [Zarma](http://glottolog.org/resource/languoid/id/zarm1239)
+    is a language and branch of the [Songhay](http://glottolog.org/resource/languoid/id/song1307) family.
+
 - name: zembas
   glottocode: zemb1238
   iso_639_3:
