@@ -5,7 +5,6 @@ Authors@R: c(person("Jeffrey", "Arnold", email = "jeffrey.arnold@gmail.com",
 Description: R package dependencies for jrnold/afrobarometer-languages.
 Version: 0.0.1
 Imports:
-  assertthat,
   httr,
   magrittr,
   rlang,

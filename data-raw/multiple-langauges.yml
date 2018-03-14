@@ -1,0 +1,187 @@
+- from: afrikaans and oshiwambo
+  to:
+  - afrikaans
+  - oshiwambo
+
+- from: eng and swahili
+  to:
+  - english
+  - swahili
+
+- from: ewe and fante
+  to:
+  - ewe
+  - fante
+
+- from: english and afrikaans
+  to:
+  - english
+  - afrikaans
+
+- from: english and kamba
+  to:
+  - english
+  - kamba
+
+- from: english and kikuyu
+  to:
+  - english
+  - kikuyu
+
+- from: english and kiswahili
+  to:
+  - english
+  - kiswahili
+
+- from: english and luo
+  to:
+  - english
+  - luo
+
+- from: english and oshiwambo
+  to:
+  - english
+  - oshiwambo
+
+- from: english, afrikaans and local languages
+  to:
+  - english
+  - afrikaans
+  - local languages
+
+- from: english, kiswahili and kalenjin
+  to:
+  - english
+  - kiswahili
+  - kalenjin
+
+- from: english, kiswahili and kikuyu
+  to:
+  - english
+  - kiswahili
+  - kikuyu
+
+- from: english, kiswahili, and kamba
+  to:
+  - english
+  - kiswahili
+  - kamba
+
+- from: english, kiswahili and meru
+  to:
+  - english
+  - kiswahili
+  - meru
+
+- from:  english, kiswahili, and kamba
+  to:
+  - english
+  - kiswahili
+  - kamba
+
+- from: ewe and fante
+  to:
+  - ewe
+  - fante
+
+- from: kiswahili and kalenjin
+  to:
+  - kiswahili
+  - kalenjin
+
+- from: kiswahili and kamba
+  to:
+  - kiswahili
+  - kamba
+
+- from: kiswahili and kikuyu
+  to:
+  - kiswahili
+  - kikuyu
+
+- from: kiswahili and luhya
+  to:
+  - kiswahili
+  - luhya
+
+- from: kiswahili and luhya
+  to:
+  - kiswahili
+  - luhya
+
+- from: meru/samburu
+  to:
+  - meru
+  - samburu
+
+- from: "mixed - english/afrikaans"
+  to:
+  - english
+  - afrikaans
+
+- from: "english + afrikaans"
+  to:
+  - english
+  - afrikaans
+
+- from: "english + afrikaans"
+  to:
+  - english
+  - afrikaans
+
+- from: english + ndebele
+  to:
+  - english
+  - ndebele
+
+- from: english + pedi/n. sotho
+  to:
+  - english
+  - n. sotho
+
+- from:  english + setswana
+  to:
+  - english
+  - setswana
+
+- from: english + venda
+  to:
+  - english
+  - venda
+
+- from: english + xhosa
+  to:
+  - english
+  - xhosa
+
+- from: english + zulu
+  to:
+  - english
+  - zulu
+
+- from: english/swahili
+  to:
+  - english
+  - swahili
+
+- from: ijaw/kalabari/okirika/andoni/ogoni/nembe
+  to:
+  - ijaw
+  - kalabari
+  - okirika
+  - andoni
+  - ogoni
+  - nembe
+  note: >
+    This seems unusual. Unrelated languages (Ijoid and Volta-Congo families),
+    but too many to be mulitiple-langauges.
+
+- from: kiswahili/luhya
+  to:
+  - kiswahili
+  - luhya
+
+- from: ewe and fante
+  to:
+  - ewe
+  - fante

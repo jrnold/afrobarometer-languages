@@ -1,0 +1,137 @@
+round,value,label,iso_alpha2
+1,1,Botswana,BW
+1,2,Ghana,GH
+1,3,Lesotho,LS
+1,4,Malawi,MW
+1,5,Mali,ML
+1,6,Namibia,NA
+1,7,Nigeria,NG
+1,8,South Africa,ZA
+1,9,Tanzania,TZ
+1,10,Uganda,UG
+1,11,Zambia,ZM
+1,12,Zimbabwe,ZW
+2,1,Botswana,BW
+2,2,Ghana,GH
+2,3,Lesotho,LS
+2,4,Malawi,MW
+2,5,Mali,ML
+2,6,Namibia,NA
+2,7,Nigeria,NG
+2,8,South Africa,ZA
+2,9,Tanzania,TZ
+2,10,Uganda,UG
+2,11,Zambia,ZM
+2,12,Zimbabwe,ZW
+2,13,Cape Verde,CV
+2,14,Kenya,KE
+2,15,Mozambique,MZ
+2,16,Senegal,SN
+3,1,Benin,BJ
+3,2,Botswana,BW
+3,3,Cape Verde,CV
+3,4,Ghana,GH
+3,5,Kenya,KE
+3,6,Lesotho,LS
+3,7,Madagascar,MG
+3,8,Malawi,MW
+3,9,Mali,ML
+3,10,Mozambique,MZ
+3,11,Namibia,NA
+3,12,Nigeria,NG
+3,13,Senegal,SN
+3,14,South Africa,ZA
+3,15,Tanzania,TZ
+3,16,Uganda,UG
+3,17,Zambia,ZM
+3,18,Zimbabwe,ZW
+4,1,Benin,BJ
+4,2,Botswana,BW
+4,3,Burkina Faso,BF
+4,4,Cape Verde,CV
+4,5,Ghana,GH
+4,6,Kenya,KE
+4,7,Lesotho,LS
+4,8,Liberia,LR
+4,9,Madagascar,MG
+4,10,Malawi,MW
+4,11,Mali,ML
+4,12,Mozambique,MZ
+4,13,Namibia,NA
+4,14,Nigeria,NG
+4,15,Senegal,SN
+4,16,South Africa,ZA
+4,17,Tanzania,TZ
+4,18,Uganda,UG
+4,19,Zambia,ZM
+4,20,Zimbabwe,ZW
+5,1,Benin,BJ
+5,2,Botswana,BW
+5,3,Burkina Faso,BF
+5,4,Cape Verde,CV
+5,5,Ghana,GH
+5,6,Kenya,KE
+5,7,Lesotho,LS
+5,8,Liberia,LR
+5,9,Madagascar,MG
+5,10,Malawi,MW
+5,11,Mali,ML
+5,12,Mozambique,MZ
+5,13,Namibia,NA
+5,14,Nigeria,NG
+5,15,Senegal,SN
+5,16,South Africa,ZA
+5,17,Tanzania,TZ
+5,18,Uganda,UG
+5,19,Zambia,ZM
+5,20,Zimbabwe,ZW
+5,21,Mauritius,MU
+5,22,Sierra Leone,SL
+5,23,Niger,NE
+5,24,Togo,TG
+5,25,Burundi,BI
+5,26,Cameroon,CM
+5,27,Cote d’Ivoire,CI
+5,28,Guinea,GN
+5,30,Swaziland,SZ
+5,31,Algeria,DZ
+5,32,Egypt,EG
+5,33,Morocco,MA
+5,34,Sudan,SD
+5,35,Tunisia,TN
+6,1,Algeria,DZ
+6,2,Benin,BJ
+6,3,Botswana,BW
+6,4,Burkina Faso,BF
+6,5,Burundi,BI
+6,6,Cameroon,CM
+6,7,Cape Verde,CV
+6,8,Cote d'Ivoire,CI
+6,9,Egypt,EG
+6,10,Gabon,GA
+6,11,Ghana,GH
+6,12,Guinea,GN
+6,13,Kenya,KE
+6,14,Lesotho,LS
+6,15,Liberia,LR
+6,16,Madagascar,MG
+6,17,Malawi,MW
+6,18,Mali,ML
+6,19,Mauritius,MU
+6,20,Morocco,MA
+6,21,Mozambique,MZ
+6,22,Namibia,NA
+6,23,Niger,NE
+6,24,Nigeria,NG
+6,25,São Tomé and Príncipe,ST
+6,26,Senegal,SN
+6,27,Sierra Leone,SL
+6,28,South Africa,ZA
+6,29,Sudan,SD
+6,30,Swaziland,SZ
+6,31,Tanzania,TZ
+6,32,Togo,TG
+6,33,Tunisia,TN
+6,34,Uganda,UG
+6,35,Zambia,ZM
+6,36,Zimbabwe,ZW

@@ -1,0 +1,12422 @@
+- name: abbey
+  glottocode: abee1242
+  iso_639_3:
+  - aba
+  country:
+  - CI
+- name: abi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: abidji
+  glottocode: abid1235
+  iso_639_3:
+  - abi
+  country:
+  - CI
+- name: abo
+  glottocode: bank1256
+  iso_639_3:
+  - abb
+  country:
+  - CM
+- name: aboure
+  glottocode: abur1243
+  iso_639_3:
+  - abu
+  country:
+  - CI
+- name: abron
+  glottocode: abro1238
+  iso_639_3:
+  - abr
+  country:
+  - CI
+- name: abua
+  glottocode: abua1244
+  iso_639_3:
+  - abn
+  country:
+  - NG
+- name: acholi
+  glottocode: acol1236
+  iso_639_3:
+  - ach
+  country:
+  - UG
+- name: acholi-langi
+  glottocode: sout2831
+  iso_639_3:
+    - ach
+    - laj
+  country:
+  - UG
+- name: ada
+  glottocode: adan1247
+  iso_639_3:
+  - ada
+  country:
+  - GH
+- name: adara
+  glottocode: kada1284
+  iso_639_3:
+  - kad
+  country:
+  - NG
+- name: adele
+  glottocode: adel1244
+  iso_639_3:
+  - ade
+  country:
+    - GH
+    - TG
+- name: adja
+  glottocode: ajab1235
+  iso_639_3:
+  - ajg
+  country:
+  - BJ
+  - TG
+- name: adjoukrou
+  glottocode: adio1239
+  iso_639_3:
+  - adj
+  country:
+  - CI
+- name: adun
+  glottocode: adun1238
+  iso_639_3:
+  - mfn
+  country:
+  - NG
+- name: afikpo
+  glottocode: nucl1417
+  iso_639_3:
+  - ibo
+  country:
+  - NG
+- name: afizere
+  glottocode: izer1241
+  iso_639_3:
+  - izr
+  country:
+  - NG
+- name: afrikaans
+  glottocode: afri1274
+  iso_639_3:
+  - afr
+  country:
+    - BW
+    - NA
+    - ZA
+- name: afrikaans and local languages
+  multi: true
+  glottocode: afri1274
+  iso_639_3:
+  - afr
+  country:
+  - NA
+- name: afrikaans and oshiwambo
+  multi: true
+  glottocode: afri1274
+  iso_639_3:
+  - afr
+  country:
+  - NA
+- name: agbor
+  glottocode: ikaa1238
+  iso_639_3:
+  - ikk
+  country:
+  - NG
+- name: aghem
+  glottocode: aghe1239
+  iso_639_3:
+  - agq
+  country:
+  - CM
+- name: agni
+  glottocode: anyi1245
+  iso_639_3:
+  - any
+  country:
+  - CI
+- name: agny
+  glottocode: anyi1245
+  iso_639_3:
+  - any
+  country:
+  - CI
+- name: ahanta
+  glottocode: ahan1243
+  iso_639_3:
+  - aha
+  country:
+  - GH
+- name: ahizi
+  glottocode: aizi1248
+  iso_639_3:
+    - ahi
+    - ahm
+    - ahp
+  country:
+  - CI
+- name: ahoada
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ahuda
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ajaua
+  glottocode: yaoo1241
+  iso_639_3:
+  - yao
+  country:
+  - MZ
+- name: ajua
+  glottocode: yaoo1241
+  iso_639_3:
+  - yao
+  country:
+  - MZ
+- name: ajuran
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - KE
+- name: aka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: akan
+  glottocode: akan1250
+  iso_639_3:
+    - aka
+  country:
+  - GH
+  note: >
+    In Glottolog, Akan is a family, and in ISO 639-3 it is a macrolanguage.
+- name: akaramojonj
+  glottocode: kara1483
+  iso_639_3:
+  - kdj
+  country:
+  - UG
+- name: akassa
+  glottocode: sout2774
+  iso_639_3:
+  - ijs
+  country:
+  - NG
+- name: akebou
+  glottocode: akeb1238
+  iso_639_3:
+  - keu
+  country:
+  - TG
+- name: akébou
+  glottocode: akeb1238
+  iso_639_3:
+  - keu
+  country:
+  - TG
+- name: aklobo
+  glottocode: ewee1241
+  iso_639_3:
+  - ewe
+  country:
+  - TG
+- name: akosse
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: akposso
+  glottocode: ikpo1238
+  iso_639_3:
+  - kpo
+  country:
+  - TG
+- name: akumazi
+  glottocode: ikaa1238
+  iso_639_3:
+  - ikk
+  country:
+  - NG
+- name: akumu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - UG
+- name: akur
+  glottocode: alur1250
+  iso_639_3:
+  - alz
+  country:
+  - UG
+- name: akwandara
+  glottocode: gwan1268
+  iso_639_3:
+  - gwn
+  country:
+  - NG
+- name: akyode
+  glottocode: giky1238
+  iso_639_3:
+  - acd
+  country:
+  - GH
+- name: alago
+  glottocode: alag1242
+  iso_639_3:
+  - ala
+  country:
+  - NG
+- name:
+  - algerian arabic
+  - arabic
+  glottocode: alge1239
+  iso_639_3:
+    - arq
+  wals:
+  - atu
+  country:
+  - DZ
+  note: >
+    Use Tunisian Arabic for WALS since there is no Algerian Arabic in WALS.
+- name: alhassania
+  glottocode: hass1238
+  iso_639_3:
+  - mey
+  country:
+  - MA
+- name: alladjan
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: alur
+  glottocode: alur1250
+  iso_639_3:
+  - alz
+  country:
+  - UG
+- name: amazigh
+  glottocode: cent2194
+  iso_639_3:
+    - tzm
+    - zgh
+  country:
+  - MA
+- name: amazigh
+  glottocode: kaby1243
+  iso_639_3:
+  - kab
+  country:
+  - DZ
+- name: ambele
+  glottocode: ambe1247
+  iso_639_3:
+  - ael
+  country:
+  - CM
+- name: ambo-batibo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: amoh
+  glottocode: amoo1242
+  iso_639_3:
+  - amo
+  country:
+  - NG
+- name: ana
+  glottocode: ifee1241
+  iso_639_3:
+  - ife
+  country:
+  - TG
+- name: anago
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TG
+- name: anam
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: anang
+  glottocode: anaa1238
+  iso_639_3:
+  - anw
+  country:
+  - NG
+- name: andoh
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: andoni
+  glottocode: obol1243
+  iso_639_3:
+  - ann
+  country:
+  - NG
+- name: angas
+  glottocode: ngas1240
+  iso_639_3:
+  - anc
+  country:
+  - NG
+
+- name: angolan:portuguese
+  glottocode: port1283
+  iso_639_3:
+  - por
+  country:
+  - NA
+- name: angolan:rumbundu
+  glottocode: umbu1257
+  iso_639_3:
+  - umb
+  country:
+  - NA
+- name:
+  - angolan
+  - angolar
+  - angulares
+  - creolo
+  glottocode: ango1258
+  iso_639_3:
+  - aoa
+  wals:
+  - ago
+  country:
+  - ST
+
+- name: ankwai
+  glottocode: goem1240
+  iso_639_3:
+  - ank
+  country:
+  - NG
+- name: ankwe
+  glottocode: goem1240
+  iso_639_3:
+  - ank
+  country:
+  - NG
+- name: annag
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: anyanga
+  glottocode: giny1241
+  iso_639_3:
+  - ayg
+  country:
+  - TG
+- name: anyinam
+  glottocode: anyi1245
+  iso_639_3:
+  - any
+  country:
+  - GH
+- name: appolo
+  glottocode: nzim1238
+  iso_639_3:
+  - nzi
+  country:
+  - CI
+- name: arab
+  glottocode: oman1239
+  iso_639_3:
+    - acx
+  country:
+  - KE
+  note: >
+    Ethnolouge lists Omani Spoken Arabic (acx)
+    as the form spoken in Kenya.
+- name: arabe
+  glottocode: chad1249
+  iso_639_3:
+    - shu
+  country:
+  - CM
+- name: arabe
+  glottocode: hass1238
+  iso_639_3:
+  - mey
+  country:
+    - ML
+    - NE
+- name: arabe choa
+  glottocode: chad1249
+  iso_639_3:
+    - shu
+  country:
+  - CM
+
+- name:
+  - arabic
+  - egyptian arabic
+  glottocode: egyp1253
+  iso_639_3:
+    - arz
+  wals:
+    - aeg
+  country:
+  - EG
+- name: arabic
+  glottocode: hass1238
+  iso_639_3:
+  - mey
+  country:
+  - ML
+- name: arabic
+  glottocode: moro1292
+  iso_639_3:
+    - ary
+  wals:
+    - amr
+  country:
+  - MA
+- name: arabic
+  glottocode: oman1239
+  iso_639_3:
+    - acx
+  country:
+  - KE
+- name:
+  - arabic
+  - sudanese arabic
+  glottocode: suda1236
+  iso_639_3:
+    - apd
+  wals:
+    - abb
+  country:
+  - SD
+- name:
+  - arabic
+  glottocode: tuni1259
+  iso_639_3:
+    - aeb
+  wals:
+  - atu
+  country:
+  - TN
+- name: arago
+  glottocode: alag1242
+  iso_639_3:
+  - ala
+  country:
+  - NG
+- name: aringa
+  glottocode: arin1244
+  iso_639_3:
+  - luc
+  country:
+  - UG
+- name: ashanti
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TG
+- name: ashem
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+
+- name: asian south
+  glottocode: guja1252
+  iso_639_3:
+  - guj
+  country:
+  - KE
+- name:
+  - asian
+  - asian/indian
+  - asian/other
+  glottocode: hind1269
+  iso_639_3:
+  - hin
+  country:
+  - ZA
+  note: >
+    In South Africa, Hindi is the most common. However, it could be other
+    languages:
+
+    - [Hindi](https://www.ethnologue.com/language/hin). Speakers: 361,000 speakers (2003); Status: 5. Dispersed.
+    - [Bhojpuri](https://www.ethnologue.com/language/bho).
+    - [Urdu](https://www.ethnologue.com/language/urd). Speakers: 12,000 (2006). Status: 5. Dispersed.
+    - [Tamil](https://www.ethnologue.com/language/tam). Speakers: 250,000 (2015). Status: 4. Educational
+
+    Of these: Hindi, Bhojpuri, and Urdu are in the Indo-European family,
+    and Tamil is in the Dravidian family (Ethnologue).
+
+    This inference could be improved with geographic and religious information.
+
+- name: assin
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: asumb0
+  glottocode: ipul1238
+  iso_639_3:
+  - ass
+  country:
+  - CM
+- name: ateso
+  glottocode: teso1249
+  iso_639_3:
+  - teo
+  country:
+  - UG
+- name: attakar
+  glottocode: tyap1238
+  iso_639_3:
+  - kcg
+  country:
+  - NG
+- name: attié
+  glottocode: atti1239
+  iso_639_3:
+  - ati
+  country:
+  - CI
+- name: atweti
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: auche
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: auchi
+  glottocode: yekh1238
+  iso_639_3:
+  - ets
+  country:
+  - NG
+- name: aukwe
+  glottocode: eloy1241
+  iso_639_3:
+  - afo
+  country:
+  - NG
+- name: aushi
+  glottocode: aush1241
+  iso_639_3:
+  - auh
+  country:
+  - ZM
+- name: avatime
+  glottocode: avat1244
+  iso_639_3:
+  - avn
+  country:
+  - GH
+- name: avikam
+  glottocode: avik1243
+  iso_639_3:
+  - avi
+  country:
+  - CI
+- name: awa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: awak
+  glottocode: awak1250
+  iso_639_3:
+  - awo
+  country:
+  - NG
+- name: awori
+  glottocode: yoru1245
+  iso_639_3:
+  - yor
+  country:
+  - NG
+- name: awutu
+  glottocode: awut1241
+  iso_639_3:
+  - afu
+  country:
+  - GH
+- name: ayigbe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: azoqo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: babadjon
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: babadjou
+  glottocode: ngom1271
+  iso_639_3:
+  - nla
+  country:
+  - CM
+- name: babanjou
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: babis
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: babjoun
+  glottocode: ghom1247
+  iso_639_3:
+  - bbj
+  country:
+  - CM
+- name: baboute
+  glottocode: vute1244
+  iso_639_3:
+  - vut
+  country:
+  - CM
+- name: babungo
+  glottocode: veng1238
+  iso_639_3:
+  - bav
+  country:
+  - CM
+- name: babur
+  glottocode: bura1292
+  iso_639_3:
+  - bwr
+  country:
+  - NG
+- name: bachama
+  glottocode: baca1246
+  iso_639_3:
+  - bcy
+  country:
+  - NG
+- name: bachiotia
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bacoue
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: bada
+  glottocode: bade1248
+  iso_639_3:
+  - bde
+  country:
+  - NG
+- name: badenkop
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: badiaranke
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SN
+- name: badjoue
+  glottocode: koon1245
+  iso_639_3:
+  - ozm
+  country:
+  - CM
+- name: badukke
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: bafang
+  glottocode: fefe1239
+  iso_639_3:
+  - fmp
+  country:
+  - CM
+- name: bafanji
+  glottocode: bafa1249
+  iso_639_3:
+  - bfj
+  country:
+  - CM
+- name: bafaw
+  glottocode: bafa1247
+  iso_639_3:
+  - bwt
+  country:
+  - CM
+- name: bafia
+  glottocode: bafi1243
+  iso_639_3:
+  - ksf
+  country:
+  - CM
+- name: bafmen
+  glottocode: mmen1238
+  iso_639_3:
+  - bfm
+  country:
+  - CM
+- name: bafo
+  glottocode: bafa1247
+  iso_639_3:
+  - bwt
+  country:
+  - CM
+- name: bafounda
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bafoussam
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bafut
+  glottocode: bafu1246
+  iso_639_3:
+  - bfd
+  country:
+  - CM
+- name: baga
+  glottocode: temn1245
+  iso_639_3:
+    - bcg
+    - bmd
+    - bsp
+    - ldm
+  country:
+  - GN
+- name: bagangte
+  glottocode: medu1238
+  iso_639_3:
+  - byv
+  country:
+  - CM
+- name: bago
+  glottocode: bago1245
+  iso_639_3:
+  - bqg
+  country:
+  - TG
+- name: bagungu
+  glottocode: gung1250
+  iso_639_3:
+  - rub
+  country:
+  - UG
+- name: bagwom
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+
+- name:
+  - baham
+  - baham/bafoussam
+  glottocode: ghom1250
+  iso_639_3:
+  - bbj
+  country:
+  - CM
+  note: >
+    Baham is a sub-dialect of the Ghomálá’ Central dialect of Ghomálá' <https://www.ethnologue.com/language/bbj>.
+
+    Bafoussam is an alt-name for Ghomálá' <http://glottolog.org/resource/languoid/id/ghom1247>.
+
+    Not to be confused with the Indonesian language Baham.
+- name: bahumono
+  glottocode: kohu1244
+  iso_639_3:
+  - bcs
+  country:
+  - NG
+- name: bainouk
+  glottocode: bain1261
+  iso_639_3:
+    - bcb
+    - bcz
+  country:
+  - SN
+- name:
+  - bajju
+  - baju
+  glottocode: jjuu1238
+  iso_639_3:
+  - kaj
+  wals:
+  - gwo
+  country:
+  - NG
+  note: >
+    Bajju refer to Jju speaking people. https://en.wikipedia.org/wiki/Bajju_people
+
+- name: bajun
+  glottocode: baju1245
+  iso_639_3:
+    - swh
+  country:
+  - KE
+  note: >
+    Bajun is an alt-name for Bajuni, a dialect of Swahili. http://glottolog.org/resource/languoid/id/baju1245
+- name: bajuni
+  glottocode: baju1245
+  iso_639_3:
+    - swh
+  country:
+  - KE
+  note: >
+    Bajuni is a dialect of Swahili spoken in Kenya. http://glottolog.org/resource/languoid/id/baju1245
+
+- name: bakamuka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: bakassi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bakenyi
+  glottocode: keny1278
+  iso_639_3:
+  - lke
+  country:
+  - UG
+- name: bakoko
+  glottocode: bako1249
+  iso_639_3:
+  - bkh
+  country:
+  - CM
+- name: bakosi
+  glottocode: akoo1248
+  iso_639_3:
+  - bss
+  country:
+  - CM
+- name: bakossi
+  glottocode: akoo1248
+  iso_639_3:
+  - bss
+  country:
+  - CM
+- name: bakoue
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: bakundu
+  glottocode: orok1266
+  iso_639_3:
+  - bdu
+  country:
+  - CM
+- name: bakwari
+  glottocode: mokp1239
+  iso_639_3:
+  - bri
+  country:
+  - CM
+- name: bakwe
+  glottocode: bakw1243
+  iso_639_3:
+  - bjw
+  country:
+  - CI
+- name: bakwere
+  glottocode: mokp1239
+  iso_639_3:
+  - bri
+  country:
+  - CM
+- name: bakweri
+  glottocode: mokp1239
+  iso_639_3:
+  - bri
+  country:
+  - CM
+- name: balante
+  glottocode: bala1302
+  iso_639_3:
+  - bjt
+  country:
+  - SN
+- name: balati
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: balawa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: balcweri
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: baleng
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: balengou
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bali
+  glottocode: mung1266
+  iso_639_3:
+  - mhk
+  country:
+  - CM
+- name: bali nyonga
+  glottocode: mung1266
+  iso_639_3:
+  - mhk
+  country:
+  - CM
+- name: balikumbat
+  glottocode: bamu1254
+  iso_639_3:
+  - bqt
+  country:
+  - CM
+- name: balinyongya
+  glottocode: mung1266
+  iso_639_3:
+  - mhk
+  country:
+  - CM
+- name: balong
+  glottocode: bafa1247
+  iso_639_3:
+  - bwt
+  country:
+  - CM
+- name: baloundo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: baluya
+  glottocode: luyi1234
+  iso_639_3:
+    - lsm
+  country:
+  - UG
+  note: >
+    "ba" is a prefix. Saamya-gwe is the Luya
+    language spoken in Uganda.
+- name: bamabara
+  glottocode: bamb1269
+  iso_639_3:
+  - bam
+  country:
+  - SN
+- name: bambara
+  glottocode: bamb1269
+  iso_639_3:
+  - bam
+  country:
+    - CI
+    - ML
+    - SN
+- name: bambele
+  glottocode: tuki1240
+  iso_639_3:
+  - bag
+  country:
+  - CM
+- name: bambili
+  glottocode: bamb1266
+  iso_639_3:
+  - baw
+  country:
+  - CM
+- name: bamedjou
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bameka
+  glottocode: ghom1247
+  iso_639_3:
+  - bbj
+  country:
+  - CM
+- name: bamenda
+  glottocode: mend1261
+  iso_639_3:
+  - mfd
+  country:
+  - CM
+- name: bamendjing
+  glottocode: meng1264
+  iso_639_3:
+  - xmg
+  country:
+  - CM
+- name: bamendjou
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bamessing
+  glottocode: kens1251
+  iso_639_3:
+  - ndb
+  country:
+  - CM
+- name: bamileke
+  glottocode: bami1239
+  iso_639_3:
+    - bbj
+    - bko
+    - byv
+    - fmp
+    - jgo
+    - nla
+    - nnh
+    - nnz
+    - nwe
+    - xmg
+    - ybb
+  country:
+  - CM
+- name: bamougoum
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bamoun
+  glottocode: bamu1253
+  iso_639_3:
+  - bax
+  country:
+  - CM
+- name: bamumbu
+  glottocode: mund1327
+  iso_639_3:
+  - mnf
+  country:
+  - CM
+- name: banbawa
+  glottocode: shoo1247
+  iso_639_3:
+  - bcv
+  country:
+  - NG
+- name: banda
+  glottocode: nafa1258
+  iso_639_3:
+  - nfr
+  country:
+  - GH
+- name: bandawa
+  glottocode: shoo1247
+  iso_639_3:
+  - bcv
+  country:
+  - NG
+- name: bandjoun
+  glottocode: ghom1247
+  iso_639_3:
+  - bbj
+  country:
+  - CM
+- name: banen
+  glottocode: tune1261
+  iso_639_3:
+  - tvu
+  country:
+  - CM
+- name: bangangté
+  glottocode: medu1238
+  iso_639_3:
+  - byv
+  country:
+  - CM
+- name: bangou
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bangwa
+  glottocode: mbam1249
+  iso_639_3:
+    - nge
+    - nnz
+  country:
+  - CM
+- name: banossi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: banso
+  glottocode: lamn1239
+  iso_639_3:
+  - lns
+  country:
+  - CM
+- name: banvele
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: baoulé
+  glottocode: baou1238
+  iso_639_3:
+  - bci
+  country:
+  - CI
+- name: bapa
+  glottocode: baba1264
+  iso_639_3:
+  - bbw
+  country:
+  - CM
+- name: bapoukou
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: barakwena
+  glottocode: kxoe1243
+  iso_639_3:
+  - xuu
+  country:
+  - NA
+- name: bariba
+  glottocode: baat1238
+  iso_639_3:
+  - bba
+  country:
+  - BJ
+- name: baruba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: basange
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: basare
+  glottocode: ntch1242
+  iso_639_3:
+  - bud
+  country:
+  - GH
+- name: basari
+  glottocode: ntch1242
+  iso_639_3:
+  - bud
+  country:
+  - GH
+- name: bassa
+  glottocode: basa1282
+  iso_639_3:
+  - bzw
+  wals:
+  - duk
+  country:
+  - NG
+  note: >
+    Not to be confused with Bassa in Cameroon and Nigeria.
+
+- name: bassa
+  glottocode: basa1284
+  iso_639_3:
+  - bas
+  wals:
+  - bas
+  country:
+  - CM
+  note: >
+    Different from Bassa in Liberia and Cameroon.
+- name: bassa
+  glottocode: nucl1418
+  iso_639_3:
+  - bsq
+  wals:
+  - kla
+  country:
+  - LR
+  note: >
+    Different from Bassa in Cameroon and Nigeria
+- name:
+  - bassano foula
+  - poular
+  glottocode: pula1262
+  iso_639_3:
+  - fuf
+  country:
+  - GN
+
+- name: bassar
+  glottocode: ntch1242
+  iso_639_3:
+  - bud
+  country:
+  - TG
+- name: bassari
+  glottocode: bass1258
+  iso_639_3:
+  - bsc
+  country:
+  - SN
+- name: basseli
+  glottocode: ntch1242
+  iso_639_3:
+  - bud
+  country:
+  - GH
+- name: basso
+  glottocode: ngom1271
+  iso_639_3:
+  - nla
+  country:
+  - CM
+- name: bata
+  glottocode: bata1314
+  iso_639_3:
+  - bta
+  country:
+  - CM
+- name: batanga
+  glottocode: bata1285
+  iso_639_3:
+  - bnm
+  country:
+  - CM
+- name: batcham
+  glottocode: ngie1241
+  iso_639_3:
+  - nnh
+  country:
+  - CM
+- name: batibo
+  glottocode: meta1238
+  iso_639_3:
+  - mgo
+  country:
+  - CM
+- name: batie
+  glottocode: ghom1247
+  iso_639_3:
+  - bbj
+  country:
+  - CM
+- name: batoe
+  glottocode: ewee1241
+  iso_639_3:
+  - ewe
+  country:
+  - GH
+- name: batomow
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: baton
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: battor
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: bawaje
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: bawan
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bawara
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: baya
+  glottocode: nort2775
+  iso_639_3:
+    - gya
+  country:
+  - CM
+- name: bayam
+  glottocode: nort2775
+  iso_639_3:
+    - gya
+  country:
+  - NG
+- name: bayangam
+  glottocode: keny1279
+  iso_639_3:
+  - ken
+  country:
+  - CM
+- name: bayangi
+  glottocode: keny1279
+  iso_639_3:
+  - ken
+  country:
+  - CM
+- name: bayotte
+  glottocode: bayo1255
+  iso_639_3:
+  - bda
+  country:
+  - SN
+- name: bazanfara
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: befang
+  glottocode: befa1241
+  iso_639_3:
+  - bby
+  country:
+  - CM
+- name: beka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GN
+- name: bekwaira
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: bekwarr
+  glottocode: bekw1241
+  iso_639_3:
+  - bkv
+  country:
+  - NG
+- name: belibonachi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bella
+  glottocode: koyr1242
+  iso_639_3:
+  - ses
+  country:
+  - ML
+- name: bella
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BF
+- name: belle
+  glottocode: kuwa1247
+  iso_639_3:
+  - blh
+  country:
+  - LR
+- name: bemba
+  glottocode: bemb1257
+  iso_639_3:
+  - bem
+  country:
+  - ZM
+- name: bembia
+  glottocode: bemb1257
+  iso_639_3:
+  - bem
+  country:
+  - ZM
+- name: bemuba
+  glottocode: bimo1239
+  iso_639_3:
+  - bim
+  country:
+  - GH
+- name: ben (moba)
+  glottocode: moba1244
+  iso_639_3:
+  - mfq
+  country:
+  - TG
+- name: bene
+  glottocode: bene1244
+  iso_639_3:
+  - bum
+  country:
+  - CM
+- name: benegun
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bengwi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: berber language
+  glottocode: berb1260
+  iso_639_3:
+    - kab
+    - shi
+    - shy
+  country:
+  - DZ
+- name: berber language
+  glottocode: berb1260
+  iso_639_3:
+    - rif
+    - shi
+    - tzm
+    - zgh
+  country:
+  - MA
+- name: béri béri
+  glottocode: cent2050
+  iso_639_3:
+    - knc
+  country:
+  - NE
+  note: >
+    Beriberi is pejorative for [Central Kanuri](https://www.ethnologue.com/language/knc) (knc)
+
+- name: berieberi
+  glottocode: cent2050
+  iso_639_3:
+    - knc
+  country:
+  - NG
+  note: >
+    Beriberi is pejorative for [Central Kanuri](https://www.ethnologue.com/language/knc) (knc)
+
+- name:
+  - beron/birom
+  - berom
+  glottocode: bero1242
+  iso_639_3:
+  - bom
+  country:
+  - NG
+  note: >
+    "Beron" is close to "Berom". Birom is an alt-name for Berom <http://glottolog.org/resource/languoid/id/bero1242>.
+
+- name: besa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bété
+  glottocode: bete1265
+  iso_639_3:
+    - bet
+    - bev
+    - btg
+  wals:
+  - bet
+  country:
+  - CI
+- name: betem
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: betsimisaraka
+  glottocode: nort3196
+  iso_639_3:
+    - bmm
+    - bzc
+  country:
+  - MG
+  note: >
+    There are Southern and Northern Betsimisaraka
+    Malagasy.
+- name: bette
+  glottocode: bete1262
+  iso_639_3:
+  - btt
+  country:
+  - NG
+- name: beudick
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SN
+- name: bhojpuri
+  glottocode: bhoj1244
+  iso_639_3:
+  - bho
+  country:
+  - MU
+- name: biali
+  glottocode: bial1238
+  iso_639_3:
+  - beh
+  country:
+  - BJ
+- name: bijim
+  glottocode: vagh1247
+  iso_639_3:
+  - bij
+  country:
+  - NG
+- name: bikom
+  glottocode: komc1235
+  iso_639_3:
+  - bkm
+  country:
+  - CM
+- name: bille
+  glottocode: bile1244
+  iso_639_3:
+  - bil
+  country:
+  - NG
+- name: bimoba
+  glottocode: bimo1239
+  iso_639_3:
+  - bim
+  country:
+  - GH
+- name: birifor
+  glottocode: malb1235
+  iso_639_3:
+  - bfo
+  country:
+  - BF
+- name: birifori
+  glottocode: sout2790
+  iso_639_3:
+  - biv
+  country:
+  - GH
+- name: birom
+  glottocode: bero1242
+  iso_639_3:
+  - bom
+  country:
+  - NG
+- name: bisa
+  glottocode: bisa1264
+  iso_639_3:
+  - leb
+  country:
+  - ZM
+- name: bisa
+  glottocode: busa1253
+  iso_639_3:
+  - bqp
+  country:
+  - NG
+- name: bisab
+  glottocode: biss1248
+  iso_639_3:
+  - bib
+  country:
+  - GH
+- name: bissa
+  glottocode: biss1248
+  iso_639_3:
+  - bib
+  country:
+    - BF
+    - GH
+- name: bitonga
+  glottocode: gito1238
+  iso_639_3:
+  - toh
+  country:
+  - MZ
+- name: bobis
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bobo
+  glottocode: bobo1253
+  iso_639_3:
+  - bbo
+  - bwq
+  wals:
+  - bbf
+  country:
+  - BF
+  note: >
+    Bobo in Burkina Faso is a Mande language and
+    different from Bobo in Mali, which is a Gur language.
+- name: bobo
+  glottocode: bomu1247
+  iso_639_3:
+  - bmq
+  wals:
+  - kfe
+  country:
+  - ML
+  note: >
+    Bobo in Burkina Faso is a Mande language and
+    different from Bobo in Mali, which is a Gur language.
+
+- name: bocha
+  glottocode: boch1238
+  iso_639_3:
+  - mxc
+  country:
+  - ZW
+- name: bogobara
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: boiyana
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: boki
+  glottocode: boky1238
+  iso_639_3:
+  - bky
+  country:
+  - NG
+- name: bole
+  glottocode: nucl1695
+  iso_639_3:
+  - bol
+  country:
+  - NG
+- name: bolon
+  glottocode: bolo1266
+  iso_639_3:
+  - bof
+  country:
+  - BF
+- name: bongken
+  glottocode: bonk1243
+  iso_639_3:
+  - bvg
+  country:
+  - CM
+- name: bono
+  glottocode: abro1238
+  iso_639_3:
+  - abr
+  country:
+  - GH
+- name: boo
+  glottocode: boko1266
+  iso_639_3:
+  - bqc
+  country:
+  - BJ
+- name:
+  - boran
+  - borana
+  glottocode: bora1272
+  iso_639_3:
+  - gax
+  wals:
+  - orb
+  country:
+  - KE
+  note: >
+    Use the Glottolog dialect of Borana-Arsi-Guji-Oromo
+    named Borana.
+
+- name: borom
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: bouda
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: bozo
+  glottocode: bozo1252
+  iso_639_3:
+  - boz
+  - bze
+  - boo
+  - bzx
+  wals:
+  - boz
+  country:
+  - ML
+  note: >
+    In Mali, Bozo refers to a Mande language.
+
+- name: brass
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: brefo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: brefo/birfuo
+  glottocode: sout2790
+  iso_639_3:
+  - biv
+  country:
+  - GH
+  note: >
+    [Birifor](http://glottolog.org/resource/languoid/id/biri1257) is a family.
+    [Southern Birifor](http://glottolog.org/resource/languoid/id/sout2790) is spoken
+    spoken in Ghana.
+
+    The names "brefo" and "birfuo" are close to the various names for
+    Birifor: (Birifo), and no other languages in Ghana have similar names.
+
+- name: brong
+  glottocode: abro1238
+  iso_639_3:
+  - abr
+  country:
+  - GH
+- name: brosa
+  glottocode: anyi1245
+  iso_639_3:
+  - any
+  country:
+  - GH
+- name: brown amer language
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SD
+- name: bu
+  glottocode: mund1328
+  iso_639_3:
+  - boe
+  country:
+  - CM
+- name: buam/lelemi
+  glottocode: lele1264
+  iso_639_3:
+  - lef
+  country:
+  - GH
+  note: >
+    Buem is an alt-name for [Lelemi](http://glottolog.org/resource/languoid/id/lele1264).
+    Buam is probably an alt-spelling of Buem (Bwem).
+
+- name: buda
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: budya
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: buem
+  glottocode: lele1264
+  iso_639_3:
+  - lef
+  country:
+  - GH
+- name: buile
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: builsa
+  glottocode: buli1254
+  iso_639_3:
+  - bwu
+  country:
+  - GH
+- name: buja
+  glottocode: budy1238
+  iso_639_3:
+  - sna
+  country:
+  - ZW
+- name: buji
+  glottocode: buji1242
+  iso_639_3:
+  - jer
+  country:
+  - NG
+- name: bujja
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: buju
+  glottocode: buji1242
+  iso_639_3:
+  - jer
+  country:
+  - NG
+- name: bukusu
+  glottocode: buku1249
+  iso_639_3:
+    - bxk
+  country:
+  - KE
+- name: bule
+  glottocode: buli1254
+  iso_639_3:
+  - bwu
+  country:
+  - GH
+- name: bulgarian
+  glottocode: bulg1262
+  iso_639_3:
+  - bul
+  country:
+  - ZA
+- name: buli
+  glottocode: buli1254
+  iso_639_3:
+  - bwu
+  country:
+  - GH
+- name: bulsa
+  glottocode: buli1254
+  iso_639_3:
+  - bwu
+  country:
+  - GH
+- name: bulu
+  glottocode: bulu1251
+  iso_639_3:
+  - bum
+  country:
+  - CM
+- name: bum
+  glottocode: mbum1254
+  iso_639_3:
+  - mdd
+  country:
+  - CM
+- name: bura
+  glottocode: bura1292
+  iso_639_3:
+  - bwr
+  country:
+  - NG
+- name: burah
+  glottocode: bura1292
+  iso_639_3:
+  - bwr
+  country:
+  - NG
+- name: burji
+  glottocode: burj1242
+  iso_639_3:
+  - bji
+  country:
+  - KE
+- name: busanga
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: bussa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: buzanga
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: bwamu
+  glottocode: bwam1247
+  iso_639_3:
+    - bmq
+    - box
+  wals:
+  - kfe
+  country:
+  - BF
+  note: >
+    This is a Gur language.
+- name: bwile
+  glottocode: bwil1245
+  iso_639_3:
+  - bwc
+  country:
+  - ZM
+- name: cabarmawa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+
+- name: calabar
+  glottocode: efik1245
+  iso_639_3:
+  - efi
+  country:
+  - NG
+- name: caprivi languages
+  glottocode: lozi1239
+  iso_639_3:
+  - loz
+  country:
+  - NA
+- name: chaewa
+  glottocode: nyan1308
+  iso_639_3:
+  - nya
+  country:
+  - MZ
+- name: chagga
+  glottocode: moch1256
+  iso_639_3:
+  - old
+  country:
+  - TZ
+- name: chamawa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: chamba
+  glottocode: ntch1242
+  iso_639_3:
+  - bud
+  country:
+  - GH
+- name: chamba
+  glottocode: samb1311
+  iso_639_3:
+  - ccg
+  country:
+  - NG
+- name: changana
+  glottocode: chan1318
+  iso_639_3:
+  - tso
+  country:
+  - MZ
+- name: changani
+  glottocode: chan1318
+  iso_639_3:
+  - tso
+  country:
+  - ZW
+- name: chape
+  glottocode: chop1243
+  iso_639_3:
+  - cce
+  country:
+  - MZ
+- name: chawai
+  glottocode: atsa1241
+  iso_639_3:
+  - cch
+  country:
+  - NG
+
+- name: chekosi
+  glottocode: anuf1239
+  iso_639_3:
+  - cko
+  country:
+  - GH
+- name: chena
+  glottocode: nucl1396
+  iso_639_3:
+  - seh
+  country:
+  - MZ
+
+- name:
+  - chewa
+  - chewa/nyanja
+  - chewe
+  - cheua
+  - chechewa
+  - chichewa
+  - tchitchewa
+  glottocode: chew1246
+  iso_639_3:
+  - nya
+  country:
+    - BW
+    - MW
+    - MZ
+    - ZM
+    - ZW
+  note: >
+    Use the Chewa dialect (chew1246) of Nyanja (nyan1308) in Glottolog.
+
+    Include various alt-spellings.
+
+- name: chibarue
+  glottocode: barw1243
+  iso_639_3:
+  - bwg
+  country:
+  - MZ
+- name: chibaure
+  glottocode: barw1243
+  iso_639_3:
+  - bwg
+  country:
+  - MZ
+- name: chibok
+  glottocode: ciba1236
+  iso_639_3:
+  - ckl
+  country:
+  - NG
+- name: chiburue
+  glottocode: barw1243
+  iso_639_3:
+  - bwg
+  country:
+  - MZ
+
+- name: chigorongozi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: chikaranga
+  glottocode: kara1480
+  iso_639_3:
+  - sna
+  country:
+  - ZW
+- name: chikunda
+  glottocode: kund1255
+  iso_639_3:
+  - kdn
+  country:
+    - ZM
+    - ZW
+- name: chilambya
+  glottocode: lamb1272
+  iso_639_3:
+  - lai
+  wals:
+  - lmb
+  country:
+  - MW
+
+- name: chilomwe
+  glottocode: mala1256
+  iso_639_3:
+  - lon
+  country:
+  - MW
+- name: chimambwe
+  glottocode: mamb1297
+  iso_639_3:
+  - mgr
+  country:
+  - MW
+- name: chimang'anja
+  glottocode: mala1475
+  iso_639_3:
+  - swk
+  country:
+  - MW
+- name: chimang’anja
+  glottocode: mala1475
+  iso_639_3:
+  - swk
+  country:
+  - MW
+- name: chimanica
+  glottocode: many1258
+  iso_639_3:
+  - mxc
+  country:
+  - MZ
+- name: chimarenge
+  glottocode: mare1260
+  iso_639_3:
+  - vmr
+  country:
+  - MZ
+- name: chimullu
+  glottocode: chum1261
+  iso_639_3:
+  - ncu
+  country:
+  - GH
+- name: chinamwanga
+  glottocode: null
+  iso_639_3:
+  - mwn
+  country:
+  - MW
+- name: chindali
+  glottocode: ndal1241
+  iso_639_3:
+  - ndh
+  country:
+  - MW
+- name: chindalii
+  glottocode: ndal1241
+  iso_639_3:
+  - ndh
+  country:
+  - MW
+- name: chindebele
+  glottocode: nort2795
+  iso_639_3:
+  - nde
+  country:
+  - MW
+- name: chinese
+  glottocode: mand1415
+  iso_639_3:
+    - cmn
+    - zho
+  country:
+  - ZA
+- name: chingoni
+  glottocode: ngon1270
+  iso_639_3:
+  - ngo
+  country:
+  - MZ
+- name: chingoni
+  glottocode: ngon1270
+  iso_639_3:
+  - nya
+  country:
+  - MW
+- name: chingozi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: chinhungue
+  glottocode: hung1277
+  iso_639_3:
+  - mxc
+  country:
+  - MZ
+- name: chinkhonde
+  glottocode: nkon1246
+  iso_639_3:
+  - nyy
+  country:
+  - MW
+- name: chinyakyusa
+  glottocode: nyak1260
+  iso_639_3:
+  - nyy
+  country:
+  - MW
+- name: chinyanja
+  glottocode: nyan1308
+  iso_639_3:
+  - nya
+  country:
+  - MW
+- name: chinyika
+  glottocode: nyik1246
+  iso_639_3:
+  - nkv
+  country:
+  - MW
+- name: chinyungwe
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+    - MW
+    - NA
+- name: chip
+  glottocode: mish1244
+  iso_639_3:
+  - mjs
+  country:
+  - NG
+- name: chisena
+  glottocode: mala1475
+  iso_639_3:
+  - swk
+  country:
+    - MW
+    - ZM
+- name: chisenga
+  glottocode: seng1277
+  iso_639_3:
+  - tum
+  country:
+  - MW
+- name: chishinga
+  glottocode: bemb1257
+  iso_639_3:
+  - bem
+  country:
+  - ZM
+- name: chisukwa
+  glottocode: ndal1241
+  iso_639_3:
+  - ndh
+  country:
+  - MW
+- name: chiswahili
+  glottocode: swah1253
+  iso_639_3:
+    - swh
+  country:
+  - MW
+  note: >
+    Assume that it is the more common Swahili (swh) and
+    not Congo Swahili (swc).
+- name: chitawala
+  glottocode: tawa1270
+  iso_639_3:
+  - twl
+  country:
+  - MZ
+- name: chitawala
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: chitcheiwa
+  glottocode: chew1246
+  iso_639_3:
+  - nya
+  country:
+  - MZ
+- name: chiteue
+  glottocode: tewe1238
+  iso_639_3:
+  - twx
+  country:
+  - MZ
+- name: chitewe
+  glottocode: tewe1238
+  iso_639_3:
+  - twx
+  country:
+  - MZ
+- name: chiteye
+  glottocode: tewe1238
+  iso_639_3:
+  - twx
+  country:
+  - MZ
+- name: chitoko
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: chitonga
+  glottocode: tong1321
+  iso_639_3:
+  - tog
+  country:
+  - MW
+- name: chitsua
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: chitswa
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: chitumbuka
+  glottocode: tumb1250
+  iso_639_3:
+  - tum
+  country:
+  - MW
+- name: chitxua
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: chiute
+  glottocode: tewe1238
+  iso_639_3:
+  - twx
+  country:
+  - MZ
+- name: chiwandya
+  glottocode: mala1475
+  iso_639_3:
+  - swk
+  country:
+  - MW
+- name: chiyamba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: chiyao
+  glottocode: yaoo1241
+  iso_639_3:
+  - yao
+  country:
+  - MW
+- name: chokosi
+  glottocode: anuf1239
+  iso_639_3:
+  - cko
+  country:
+  - GH
+- name: chokwe
+  glottocode: chok1245
+  iso_639_3:
+  - cjk
+  country:
+  - ZM
+- name: chona
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: chongo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: chonyi
+  glottocode: chon1287
+  iso_639_3:
+  - coh
+  country:
+  - KE
+- name: chope
+  glottocode: chop1243
+  iso_639_3:
+  - cce
+  country:
+  - MZ
+- name: choua
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: chuabo
+  glottocode: chuw1238
+  iso_639_3:
+  - chw
+  country:
+  - MZ
+- name: chukusi
+  glottocode: anuf1239
+  iso_639_3:
+  - cko
+  country:
+  - GH
+- name: chumburu
+  glottocode: chum1261
+  iso_639_3:
+  - ncu
+  country:
+  - GH
+- name: chutcua
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: cicopi
+  glottocode: chop1243
+  iso_639_3:
+  - cce
+  country:
+  - MZ
+- name: cicoti
+  glottocode: koti1238
+  iso_639_3:
+  - eko
+  country:
+  - MZ
+- name: cimanyika
+  glottocode: many1258
+  iso_639_3:
+  - mxc
+  country:
+  - MZ
+- name: cindau
+  glottocode: ndau1241
+  iso_639_3:
+  - ndc
+  country:
+  - MZ
+- name: cinyanja
+  glottocode: nyan1308
+  iso_639_3:
+  - nya
+  country:
+  - MZ
+- name: cinyungwe
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: cisena
+  glottocode: nucl1396
+  iso_639_3:
+  - seh
+  country:
+  - MZ
+- name: citshwa
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: comorien
+  glottocode: como1260
+  iso_639_3:
+    - swb
+    - wlc
+    - wni
+    - zdj
+  country:
+  - MG
+- name: coti
+  glottocode: koti1238
+  iso_639_3:
+  - eko
+  country:
+  - MZ
+- name: creol
+  glottocode: uppe1455
+  iso_639_3:
+  - pov
+  wals:
+  - gbc
+  country:
+  - SN
+  note: >
+    Crioulo, Upper Guinea is Portguese based Creole spoken in
+    Guinea-Bissau and Senegal.
+
+- name: creole
+  glottocode: mori1278
+  iso_639_3:
+  - mfe
+  country:
+  - MU
+  wals:
+  - mcr
+  note: >
+    Morisyen (Mauritanian French Creole)
+
+- name:
+  - crioulo
+  - creole
+  - caboverdiano
+  glottocode: kabu1256
+  iso_639_3:
+  - kea
+  wals:
+  - por
+  country:
+  - CV
+  - ST
+  note: >
+    Kabuverdianu is a Portuguese-based creole spoken in the Cape Verde Islands.
+
+    It is not included in WALS. Ethnologue notes that it is similar to
+    Portguese.
+
+- name: cross river yala
+  glottocode: yala1263
+  iso_639_3:
+  - yba
+  country:
+  - NG
+- name: daba
+  glottocode: nucl1683
+  iso_639_3:
+  - dbq
+  country:
+  - CM
+- name: dador
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: dafing
+  glottocode: mark1256
+  iso_639_3:
+  - rkm
+  country:
+    - BF
+    - ML
+- name: dagaare
+  glottocode: sout2789
+  iso_639_3:
+  - dga
+  country:
+  - GH
+- name: dagaari
+  glottocode: sout2789
+  iso_639_3:
+  - dga
+  country:
+  - GH
+- name: dagaarti
+  glottocode: sout2789
+  iso_639_3:
+  - dga
+  country:
+  - GH
+- name: dagare
+  glottocode: sout2789
+  iso_639_3:
+  - dga
+  country:
+  - GH
+- name: dagaree
+  glottocode: sout2789
+  iso_639_3:
+  - dga
+  country:
+  - GH
+- name: dagari
+  glottocode: nort2780
+  iso_639_3:
+  - dgi
+  country:
+  - BF
+- name: dagate
+  glottocode: sout2789
+  iso_639_3:
+  - dga
+  country:
+  - GH
+- name: dagbane
+  glottocode: dagb1246
+  iso_639_3:
+  - dag
+  country:
+  - GH
+- name: dagbani
+  glottocode: dagb1246
+  iso_639_3:
+  - dag
+  country:
+  - GH
+- name: dagomba
+  glottocode: dagb1246
+  iso_639_3:
+  - dag
+  country:
+  - GH
+- name: dahomey
+  glottocode: fonn1241
+  iso_639_3:
+  - fon
+  country:
+  - CI
+- name: dakarkari
+  glottocode: clel1238
+  iso_639_3:
+  - dri
+  country:
+  - NG
+- name: damara
+  glottocode: nama1264
+  iso_639_3:
+  - naq
+  country:
+    - BW
+    - NA
+    - ZM
+    - ZW
+- name: dangaare
+  glottocode: sout2789
+  iso_639_3:
+  - dga
+  country:
+  - GH
+- name: dangbe
+  glottocode: adan1247
+  iso_639_3:
+  - ada
+  country:
+  - GH
+- name: dbo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: deg-(moo)
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: degema
+  glottocode: dege1246
+  iso_639_3:
+  - deg
+  country:
+  - NG
+- name: dei
+  glottocode: dewo1238
+  iso_639_3:
+  - dee
+  country:
+  - LR
+- name: delta
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: dendi
+  glottocode: dend1243
+  iso_639_3:
+  - ddn
+  country:
+  - BJ
+- name: diahanke
+  glottocode: west2500
+  iso_639_3:
+    - man
+    - mlq
+  country:
+  - SN
+- name: diaka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ML
+- name: diakanke
+  glottocode: jaha1245
+  iso_639_3:
+  - jad
+  country:
+  - GN
+- name: diakanké
+  glottocode: jaha1245
+  iso_639_3:
+  - jad
+  country:
+  - GN
+- name: diakhanke
+  glottocode: west2500
+  iso_639_3:
+    - man
+    - mlq
+  country:
+  - SN
+- name:
+  - dialect malg
+  - dialecte
+  - langue régionale
+  - malagasy dialect
+  - malgache avec spécificité régionale
+  - malagasy with regional variation
+  glottocode: mala1537
+  iso_639_3:
+    - bhr
+    - bmm
+    - bzc
+    - msh
+    - skg
+    - tdx
+    - tkg
+    - txy
+    - xmv
+    - xmw
+  country:
+  - MG
+  note: >
+    Plateau Malagasy (plt) is the "official" Malagasy.
+    Use all other languages in the malagasy macrolanguage (mlg)
+    for dialects.
+
+- name: dibebi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: dida
+  glottocode: dida1245
+  iso_639_3:
+    - dic
+    - gud
+  country:
+  - CI
+- name: diemak
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: digo
+  glottocode: digo1243
+  iso_639_3:
+  - dig
+  country:
+  - KE
+- name: dii
+  glottocode: diii1241
+  iso_639_3:
+  - dur
+  country:
+  - CM
+- name: dinka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - KE
+- name: diola
+  glottocode: jola1263
+  iso_639_3:
+  - dyo
+  country:
+  - SN
+- name: dioula
+  glottocode: dyul1238
+  iso_639_3:
+  - dyu
+  country:
+    - BF
+    - CI
+- name: ditamari
+  glottocode: dita1238
+  iso_639_3:
+  - tbz
+  country:
+  - BJ
+- name: djalounké
+  glottocode: yalu1240
+  iso_639_3:
+  - yal
+  country:
+  - GN
+- name: djanch
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: djem
+  glottocode: njye1238
+  iso_639_3:
+  - njy
+  country:
+  - CM
+- name: djerma
+  glottocode: zarm1239
+  iso_639_3:
+  - dje
+  country:
+  - BF
+- name: djimini
+  glottocode: djim1235
+  iso_639_3:
+  - dyi
+  country:
+  - CI
+- name: docces
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BF
+- name: dogon
+  glottocode: dogo1299
+  iso_639_3:
+  - aqd
+  - dtj
+  - dbw
+  - dbt
+  - dbu
+  - dgb
+  - dbg
+  - dds
+  - djm
+  - dmb
+  - nnz
+  - dtu
+  - dtk
+  - tde
+  - dto
+  - dtm
+  - dts
+  - dtt
+  - dym
+  wals:
+  - dds
+  - dds
+  - dts
+  - jms
+  - tms
+  country:
+  - ML
+  note: >
+    Include all Mali languges in https://www.ethnologue.com/subgroups/dogon.
+
+    Of these, Toro So Dogon (dts) is used in Education.
+    and Donno So Dogon (dds) is developing.
+
+- name:
+  - dogon
+  - dogons
+  glottocode: plai1257
+  iso_639_3:
+    - djm
+    - dtm
+  country:
+  - BF
+  note: >
+    Use all Dogon languages appearing in Burkina Faso [Ethnologue](https://www.ethnologue.com/country/BF/languages) page.
+
+- name: dogose
+  glottocode: dogo1295
+  iso_639_3:
+  - dos
+  country:
+  - BF
+
+- name: dogosse
+  glottocode: dogo1295
+  iso_639_3:
+  - dos
+  country:
+  - BF
+- name: dolime
+  glottocode: wali1263
+  iso_639_3:
+  - wlx
+  country:
+  - GH
+- name: dolimuu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: dombe
+  glottocode: domb1246
+  iso_639_3:
+  - dov
+  country:
+  - ZW
+
+- name: donsin
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BF
+- name: douala
+  glottocode: dual1243
+  iso_639_3:
+  - dua
+  country:
+  - CM
+- name: dourou
+  glottocode: diii1241
+  iso_639_3:
+  - dur
+  country:
+  - CM
+- name: dschang
+  glottocode: yemb1246
+  iso_639_3:
+  - ybb
+  country:
+  - CM
+- name: du
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: dumbe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: duruma
+  glottocode: duru1249
+  iso_639_3:
+  - dug
+  country:
+  - KE
+- name: eapie
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ebira
+  glottocode: ebir1243
+  iso_639_3:
+  - igb
+  country:
+  - NG
+- name: ebrie
+  glottocode: ebri1238
+  iso_639_3:
+  - ebr
+  country:
+  - CI
+- name: echuwabu
+  glottocode: chuw1238
+  iso_639_3:
+  - chw
+  country:
+  - MZ
+- name: ecthie
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: edjagham
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: edo
+  glottocode: bini1246
+  iso_639_3:
+  - bin
+  country:
+  - NG
+- name: efik
+  glottocode: efik1245
+  iso_639_3:
+  - efi
+  country:
+  - NG
+- name: efutu
+  glottocode: awut1241
+  iso_639_3:
+  - afu
+  country:
+  - GH
+- name: ega
+  glottocode: egaa1242
+  iso_639_3:
+  - ega
+  country:
+  - CI
+- name: egbema
+  glottocode: izon1238
+  iso_639_3:
+  - ijc
+  country:
+  - NG
+- name: egbma
+  glottocode: izon1238
+  iso_639_3:
+  - ijc
+  country:
+  - NG
+- name: egbueuakaa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: egede
+  glottocode: iged1239
+  iso_639_3:
+  - ige
+  country:
+  - NG
+- name: eggon
+  glottocode: eggo1239
+  iso_639_3:
+  - ego
+  country:
+  - NG
+- name: egi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+
+- name: ehotile
+  glottocode: beti1248
+  iso_639_3:
+  - eot
+  country:
+  - CI
+  note: >
+    Similar to Eotile, an alt-name for [Beti](https://www.ethnologue.com/language/eot),
+    though it is listed by Ethnologue as almost extinct.
+- name: ejagam
+  glottocode: ejag1239
+  iso_639_3:
+  - etu
+  country:
+    - CM
+    - NG
+- name: ejagham
+  glottocode: ejag1239
+  iso_639_3:
+  - etu
+  country:
+  - CM
+- name: ejaka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ejakam
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ekote
+  glottocode: koti1238
+  iso_639_3:
+  - eko
+  country:
+  - MZ
+- name: ekpeye
+  glottocode: ekpe1253
+  iso_639_3:
+  - ekp
+  country:
+  - NG
+- name: elam eguo
+  glottocode: esim1238
+  iso_639_3:
+  - ags
+  country:
+  - CM
+- name: elam equ0
+  glottocode: esim1238
+  iso_639_3:
+  - ags
+  country:
+  - CM
+- name: elam equo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: eleme
+  glottocode: elem1253
+  iso_639_3:
+  - elm
+  country:
+  - NG
+- name: emakhuwa
+  glottocode: makh1264
+  iso_639_3:
+  - vmw
+  country:
+  - MZ
+- name: embu
+  glottocode: embu1241
+  iso_639_3:
+  - ebu
+  country:
+  - KE
+
+- name: english
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+    - BF
+    - BJ
+    - BW
+    - CM
+    - CV
+    - GH
+    - KE
+    - LR
+    - LS
+    - MG
+    - MU
+    - MW
+    - MZ
+    - NA
+    - NG
+    - SD
+    - SL
+    - SN
+    - SZ
+    - UG
+    - ZA
+    - ZM
+    - ZW
+
+- name: english + ndebele
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - ZA
+  multi: true
+- name: english + pedi/n. sotho
+  multi: true
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - ZA
+  multi: true
+- name: english + sesotho/s. sotho
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - ZA
+  multi: true
+- name: english + setswana
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - ZA
+  multi: true
+- name: english + venda
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - ZA
+  multi: true
+- name: english + xhosa
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - ZA
+  multi: true
+- name: english + zulu
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - ZA
+  multi: true
+- name:
+  - english and afrikaans
+  - english + afrikaans
+  glottocode: afri1274
+  iso_639_3:
+  - afr
+  country:
+  - NA
+  multi: true
+- name: english and kamba
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - KE
+  multi: true
+- name: english and kikuyu
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - KE
+  multi: true
+- name:
+  - english and kiswahili
+  - eng and swahili
+  - english/swahili
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - KE
+  multi: true
+- name: english and local languages
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - NA
+  multi: true
+- name: english and luo
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - KE
+  multi: true
+- name: english and oshiwambo
+  glottocode: kuan1247
+  iso_639_3:
+  - kua
+  country:
+  - NA
+  multi: true
+- name: english, afrikaans and local languages
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - NA
+  multi: true
+- name: english, kiswahili and kalenjin
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - KE
+  multi: true
+- name: english, kiswahili and kikuyu
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - KE
+  multi: true
+- name: english, kiswahili and meru
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - KE
+  multi: true
+- name: english, kiswahili, and kamba
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - KE
+  multi: true
+
+- name: epeye
+  glottocode: ekpe1253
+  iso_639_3:
+  - ekp
+  country:
+  - NG
+- name: epia
+  glottocode: epie1238
+  iso_639_3:
+  - epi
+  country:
+  - NG
+- name: epie
+  glottocode: epie1238
+  iso_639_3:
+  - epi
+  country:
+  - NG
+- name: esako
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: esan
+  glottocode: esan1238
+  iso_639_3:
+  - ish
+  country:
+  - NG
+- name: esimbi
+  glottocode: esim1238
+  iso_639_3:
+  - ags
+  country:
+  - CM
+- name: essimbi
+  glottocode: esim1238
+  iso_639_3:
+  - ags
+  country:
+  - CM
+- name: esu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: etenga
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: eterco
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: eton
+  glottocode: eton1253
+  iso_639_3:
+  - eto
+  country:
+  - CM
+- name: etsako
+  glottocode: yekh1238
+  iso_639_3:
+  - ets
+  country:
+  - NG
+- name:
+  - ewe
+  - ewé
+  glottocode: ewee1241
+  iso_639_3:
+  - ewe
+  wals:
+  - ewe
+  country:
+    - GH
+    - TG
+
+- name: ewe and fante
+  glottocode: ewee1241
+  iso_639_3:
+  - ewe
+  country:
+  - GH
+  mutli: true
+  note: >
+    These are unrelated. Use the first language.
+
+    - [Ewe](http://glottolog.org/resource/languoid/id/ewee1241)
+    - [Fante](http://glottolog.org/resource/languoid/id/fant1241) is a dialect/langauge of Akan fant1241
+- name: ewodi
+  glottocode: dual1243
+  iso_639_3:
+  - dua
+  country:
+  - CM
+- name: ewondo
+  glottocode: ewon1239
+  iso_639_3:
+  - ewo
+  country:
+  - CM
+- name: ezi delta igbo
+  glottocode: nucl1417
+  iso_639_3:
+  - ibo
+  country:
+  - NG
+- name: fakama
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: fakawa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: fakun
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: fali
+  glottocode: adam1254
+  iso_639_3:
+  - fal
+  - fll
+  country:
+  - CM
+  note: >
+    See notes on Fali. For WALS, use all Adamawa genus languages spoken in Cameroon.
+- name: fali
+  glottocode: fali1285
+  iso_639_3:
+  - fli
+  country:
+  - NG
+- name: faliya
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: fang
+  glottocode: fang1246
+  iso_639_3:
+  - fan
+  country:
+    - CM
+    - GA
+- name: fante
+  glottocode: fant1241
+  iso_639_3:
+    - fat
+  country:
+  - GH
+- name: fanti
+  glottocode: fant1241
+  iso_639_3:
+    - fat
+  country:
+  - GH
+- name: femawa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: fipa
+  glottocode: fipa1238
+  iso_639_3:
+  - fip
+  country:
+  - TZ
+- name: fodo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BJ
+- name: fon
+  glottocode: fonn1241
+  iso_639_3:
+  - fon
+  country:
+    - BJ
+    - TG
+- name: fong
+  glottocode: fong1242
+  iso_639_3:
+  - ewo
+  country:
+  - CM
+- name: forgeron (noumou)
+  glottocode: kpee1234
+  iso_639_3:
+  - cpo
+  country:
+  - BF
+- name:
+  - foro
+  - forro
+  glottocode: saot1239
+  iso_639_3:
+  - cri
+  wals:
+  - pri
+  - ago
+  country:
+  - ST
+  note: >
+    Forro is an alt-name for Sãotomense. Sãotomense is
+    a Portguese-based creole.
+
+    Most similar to Principense and Angolar.
+
+- name:
+  - foufoulde
+  - foufouldé
+  - fulami
+  - fulane
+  - peulh
+  wals:
+  - fgo
+  - fni
+  glottocode: adam1253
+  iso_639_3:
+  - fub
+  country:
+  - CM
+
+- name: foulbe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: frafra
+  glottocode: fare1241
+  iso_639_3:
+  - gur
+  country:
+  - GH
+
+- name:
+  - french
+  - francaise
+  - francais
+  glottocode: stan1290
+  iso_639_3:
+  - fra
+  country:
+    - BF
+    - BI
+    - BJ
+    - BW
+    - CI
+    - CM
+    - DZ
+    - GA
+    - GH
+    - GN
+    - KE
+    - MA
+    - MG
+    - ML
+    - MU
+    - NA
+    - NE
+    - SD
+    - SN
+    - TG
+    - TN
+    - UG
+
+- name: fulani
+  glottocode: adam1253
+  iso_639_3:
+  - fub
+  country:
+  - NG
+- name: fulani
+  glottocode: maas1239
+  iso_639_3:
+  - ffm
+  country:
+  - GH
+- name: fulfude
+  glottocode: west2454
+  iso_639_3:
+    - fuh
+  country:
+  - BF
+- name: fulfuldé
+  glottocode: cent2018
+  iso_639_3:
+    - fuh
+    - fuq
+  country:
+  - NE
+- name: fulfuldé
+  glottocode: west2454
+  iso_639_3:
+    - fuh
+  country:
+  - BF
+
+- name:
+  - fulla
+  - fullah
+  glottocode: pula1262
+  iso_639_3:
+  - fuf
+  country:
+  - SL
+
+- name:
+  - fuls
+  - fulse
+  - fulsé
+  glottocode: koro1298
+  iso_639_3:
+  - kfz
+  country:
+  - BF
+
+- name: ga
+  glottocode: gaaa1244
+  iso_639_3:
+  - gaa
+  country:
+  - GH
+- name: ga/dangbe
+  glottocode: gada1257
+  iso_639_3:
+  - ada
+  - gaa
+  wals:
+  - ga
+  country:
+  - GH
+  note: >
+    [Ga](http://glottolog.org/resource/languoid/id/gaaa1244) and [Adangbe](http://glottolog.org/resource/languoid/id/adan1247) are closely related.
+
+    Link to the family that includes both Ga (gaa) and Dangbe (ada) languages.
+- name: gabra
+  glottocode: gabr1255
+  iso_639_3:
+    - gax
+  country:
+  - KE
+- name: gabsiki
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: gagou
+  glottocode: gagu1242
+  iso_639_3:
+  - ggu
+  country:
+  - CI
+- name: gain
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: gangan
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TG
+- name: gare
+  glottocode: garr1259
+  iso_639_3:
+  - gex
+  country:
+  - KE
+- name: garre
+  glottocode: garr1259
+  iso_639_3:
+  - gex
+  country:
+  - KE
+- name: garwe
+  glottocode: ndau1241
+  iso_639_3:
+  - ndc
+  country:
+  - ZW
+- name: gawu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: gbagi
+  glottocode: gbag1258
+  iso_639_3:
+  - gbr
+  country:
+  - NG
+- name: gbagyi
+  glottocode: gbag1258
+  iso_639_3:
+  - gbr
+  country:
+  - NG
+- name: gbaji
+  glottocode: gbag1258
+  iso_639_3:
+  - gbr
+  country:
+  - NG
+- name: gbandi
+  glottocode: band1352
+  iso_639_3:
+  - bza
+  country:
+  - LR
+- name: gbaya
+  glottocode: nort2775
+  iso_639_3:
+    - gya
+  country:
+  - CM
+- name: gbile
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: gekyode
+  glottocode: giky1238
+  iso_639_3:
+  - acd
+  country:
+  - GH
+- name: geomai
+  glottocode: goem1240
+  iso_639_3:
+  - ank
+  country:
+  - NG
+- name: german
+  glottocode: stan1295
+  iso_639_3:
+  - deu
+  country:
+    - BW
+    - NA
+  wals:
+  - ger
+- name: geum
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ghemba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ghomala
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: gio
+  glottocode: dann1241
+  iso_639_3:
+  - dnj
+  wals:
+  - dan
+  country:
+  - LR
+  note: >
+    Gio is an alt-name for [Dan](https://www.ethnologue.com/language/dnj).
+- name: giriama
+  glottocode: giry1241
+  iso_639_3:
+  - nyf
+  country:
+  - KE
+- name: gitonga
+  glottocode: gito1238
+  iso_639_3:
+  - toh
+  country:
+  - MZ
+- name: gizzigare
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: glanda
+  glottocode: glav1244
+  iso_639_3:
+  - glw
+  country:
+  - NG
+- name: gnanboua
+  glottocode: nyab1255
+  iso_639_3:
+  - nwb
+  country:
+  - CI
+- name: gniaboua
+  glottocode: nyab1255
+  iso_639_3:
+  - nwb
+  country:
+  - CI
+- name: gnideboua
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: goba
+  glottocode: shon1251
+  iso_639_3:
+  - sna
+  country:
+  - ZM
+- name: godié
+  glottocode: godi1239
+  iso_639_3:
+  - god
+  country:
+  - CI
+- name: goin
+  glottocode: cerm1238
+  iso_639_3:
+  - cme
+  country:
+  - BF
+- name: gola
+  glottocode: gola1255
+  iso_639_3:
+  - gol
+  country:
+  - LR
+- name: gomai
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: gomu
+  glottocode: mooo1239
+  iso_639_3:
+  - gwg
+  country:
+  - NG
+- name: gonja
+  glottocode: gonj1241
+  iso_639_3:
+  - gjn
+  country:
+  - GH
+- name: gouife
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: goumantchéma
+  glottocode: gour1243
+  iso_639_3:
+  - gux
+  country:
+  - NE
+- name: goun
+  glottocode: gunn1250
+  iso_639_3:
+  - guw
+  country:
+  - BJ
+- name: gourma
+  glottocode: gour1243
+  iso_639_3:
+  - gux
+  country:
+  - TG
+- name: gouro
+  glottocode: guro1248
+  iso_639_3:
+  - goa
+  country:
+  - CI
+- name: gourounsi
+  glottocode: fare1241
+  iso_639_3:
+  - gur
+  country:
+  - BF
+- name: grebo
+  glottocode: greb1256
+  iso_639_3:
+    - grb
+  country:
+  - LR
+  note: >
+    Grebo (grb) is an ISO 639-3 macrolanguage.
+    All the languages in it are named Grebo and spoken in Liberia.
+- name: gruma
+  glottocode: bimo1239
+  iso_639_3:
+  - bim
+  country:
+  - GH
+- name: gruni
+  glottocode: fare1241
+  iso_639_3:
+  - gur
+  country:
+  - GH
+- name: grushi
+  glottocode: kase1253
+  iso_639_3:
+  - xsm
+  country:
+  - GH
+- name: grushie
+  glottocode: kase1253
+  iso_639_3:
+  - xsm
+  country:
+  - GH
+- name:
+  - grusi
+  - grussi
+  glottocode: grus1239
+  iso_639_3:
+  - cll
+  - kdh
+  - mzw
+  - ntr
+  - sig
+  - sil
+  - ssl
+  - tpm
+  - vag
+  - xsm
+  country:
+  - GH
+  wals:
+  - xsm
+  note: >
+    Languages in the Grusi subgroup (https://www.ethnologue.com/subgroups/southern-32)
+    spoken in Ghana with status >= 6a.
+
+- name: guan
+  glottocode: guaa1238
+  iso_639_3:
+  - gwx
+  wals:
+  - nkn
+  country:
+  - GH
+- name: guéré
+  glottocode: guer1240
+  iso_639_3:
+    - gxx
+    - wec
+  country:
+  - CI
+- name: guerze
+  glottocode: guin1254
+  iso_639_3:
+    - gkp
+  country:
+  - GN
+- name: guidar
+  glottocode: gida1247
+  iso_639_3:
+  - gid
+  country:
+  - CM
+- name: guider
+  glottocode: gida1247
+  iso_639_3:
+  - gid
+  country:
+  - CM
+- name: guiziga
+  glottocode: maro1246
+  iso_639_3:
+    - gis
+    - giz
+  country:
+  - CM
+- name: gujarat
+  glottocode: guja1252
+  iso_639_3:
+  - guj
+  country:
+  - KE
+- name: gujarati
+  glottocode: guja1252
+  iso_639_3:
+  - guj
+  country:
+  - KE
+- name: gujrathi
+  glottocode: guja1252
+  iso_639_3:
+  - guj
+  country:
+  - KE
+- name: gulmacema
+  glottocode: gour1243
+  iso_639_3:
+  - gux
+  country:
+  - BF
+- name: gunya
+  glottocode: baju1245
+  iso_639_3:
+    - swh
+  country:
+  - KE
+  note: >
+    Gunya is a dialect of Swahili (sub-dialect of the
+    Bajuni dialect).
+- name: gurerze
+  glottocode: guin1254
+  iso_639_3:
+    - gkp
+  country:
+  - GN
+- name: guruma
+  glottocode: bimo1239
+  iso_639_3:
+  - bim
+  country:
+  - GH
+- name: guruni
+  glottocode: fare1241
+  iso_639_3:
+  - gur
+  country:
+  - GH
+- name: gwandara
+  glottocode: gwan1268
+  iso_639_3:
+  - gwn
+  country:
+  - NG
+- name: gwari
+  glottocode: gbag1256
+  iso_639_3:
+    - gbr
+    - gby
+  country:
+  - NG
+- name: gwong
+  glottocode: kago1247
+  iso_639_3:
+  - kdm
+  country:
+  - NG
+- name: gwoza
+  glottocode: dghw1240
+  iso_639_3:
+    - gdf
+    - ngs
+  country:
+  - NG
+- name: gyerawa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: half taita, half zai
+  glottocode: tait1250
+  iso_639_3:
+  - dav
+  country:
+  - KE
+- name: hanga
+  glottocode: hang1258
+  iso_639_3:
+  - hag
+  country:
+  - GH
+- name: haoussa
+  glottocode: haus1257
+  iso_639_3:
+  - hau
+  country:
+    - BF
+    - BJ
+    - CM
+    - GA
+    - ML
+    - NE
+    - TG
+- name: hassaniya
+  glottocode: hass1238
+  iso_639_3:
+  - mey
+  country:
+  - MA
+- name: hausa
+  glottocode: haus1257
+  iso_639_3:
+  - hau
+  country:
+    - GH
+    - NG
+- name: haya
+  glottocode: haya1250
+  iso_639_3:
+  - hay
+  country:
+  - TZ
+- name: hehe
+  glottocode: hehe1240
+  iso_639_3:
+  - heh
+  country:
+  - TZ
+- name: herero languages
+  glottocode: here1253
+  iso_639_3:
+  - her
+  country:
+  - NA
+- name: higgi
+  glottocode: kamw1239
+  iso_639_3:
+  - hig
+  country:
+  - NG
+- name: hina
+  glottocode: mina1276
+  iso_639_3:
+  - hna
+  country:
+  - CM
+- name: hindi
+  glottocode: hind1269
+  iso_639_3:
+  - hin
+  country:
+  - ZW
+- name: hindu
+  glottocode: hind1269
+  iso_639_3:
+  - hin
+  country:
+  - KE
+- name: houssa
+  glottocode: haus1257
+  iso_639_3:
+  - hau
+  country:
+  - BJ
+- name: husa
+  glottocode: haus1257
+  iso_639_3:
+  - hau
+  country:
+  - GH
+- name: hwesa
+  glottocode: shon1251
+  iso_639_3:
+  - sna
+  country:
+  - ZW
+- name: ibaji
+  glottocode: igal1242
+  iso_639_3:
+  - igl
+  country:
+  - NG
+- name: ibani
+  glottocode: iban1261
+  iso_639_3:
+  - iby
+  country:
+  - NG
+- name: ibibio
+  glottocode: ibib1240
+  iso_639_3:
+  - ibb
+  country:
+  - NG
+- name: ibibio-efik
+  glottocode: efik1244
+  iso_639_3:
+    - efi
+    - ibb
+  country:
+  - NG
+- name: ibie
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ibo
+  glottocode: nucl1417
+  iso_639_3:
+  - ibo
+  country:
+  - NG
+- name: ibo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ichen
+  glottocode: etky1238
+  iso_639_3:
+  - ich
+  country:
+  - NG
+- name: ichibemba
+  glottocode: bemb1257
+  iso_639_3:
+  - bem
+  country:
+  - ZM
+- name: icishila
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: idacha
+  glottocode: edei1244
+  iso_639_3:
+  - idd
+  country:
+  - BJ
+- name: ide
+  glottocode: edei1245
+  iso_639_3:
+  - ijj
+  country:
+  - BJ
+- name: idoma
+  glottocode: idom1241
+  iso_639_3:
+  - idu
+  country:
+  - NG
+- name: ife (ana)
+  glottocode: ifee1241
+  iso_639_3:
+  - ife
+  country:
+  - TG
+
+- name:
+  - igala
+  - igala/idoma
+  - igara
+  glottocode: igal1242
+  iso_639_3:
+  - igl
+  country:
+  - NG
+  note: >
+    Idoma people speak Igala.
+
+- name: igbira
+  glottocode: ebir1243
+  iso_639_3:
+  - igb
+  country:
+  - NG
+- name: igbo
+  glottocode: nucl1417
+  iso_639_3:
+  - ibo
+  wals:
+  - igb
+  country:
+  - NG
+- name: igede
+  glottocode: iged1239
+  iso_639_3:
+  - ige
+  country:
+  - NG
+- name: ijaw
+  glottocode: ijoo1239
+  iso_639_3:
+    - ijc
+    - ijs
+  country:
+  - NG
+- name: ijaw/kalabari/okirika/andoni/ogoni/nembe
+  glottocode: izon1238
+  iso_639_3:
+  - ijc
+  country:
+  - NG
+  multi: true
+  note: >
+    This splits into two subgroups of Niger-Atlantic Congo Languages.
+    Glototlog splits them into the Ijoid and Volta Congo families.
+
+    - Niger-Congo, Atlantic-Congo, Ijoid
+      - Ijaw is an alt-name for Izon. <https://www.ethnologue.com/language/ijc>
+      - Nembe is a dialect of Souteast Ijo <https://www.ethnologue.com/language/ijs>
+      - Okirika is an alt-name for Kirike <https://www.ethnologue.com/language/okr>    - Okirika is an alt-name for Kirike <https://www.ethnologue.com/language/okr>
+      - Kalabari is a language <https://www.ethnologue.com/language/ijn>
+    - Niger-Congo, Atlantic-Congo, Volta-Congo, Benue-Congo, Cross River, Delta Cross
+      - Ogoni is an alt-name for Khana <https://www.ethnologue.com/language/ogo>
+      - Andoni is an alt-name for Obolo <https://www.ethnologue.com/language/ann>
+
+    As such, I have to consider this entry as constituting separate langauges.
+    However, this seems too many to be a multiple-languages entry.
+
+- name: ika
+  glottocode: ikaa1238
+  iso_639_3:
+  - ikk
+  country:
+  - NG
+- name:
+  - ikalanga/sekala
+  - ikalanga/sekalaka
+  glottocode: ikal1242
+  iso_639_3:
+  - kck
+  country:
+  - BW
+  note: >
+    Ikalanga is the autonym for Kalanga. Sekalaka is an alt-name. <https://www.ethnologue.com/language/kck>
+
+    Since there is a specific dialect Ikalanga of [Kalanga](http://glottolog.org/resource/languoid/id/kala1384) in Glottolog,
+    use that.
+
+- name: ikan
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ikewere
+  glottocode: ikwe1242
+  iso_639_3:
+  - ikw
+  country:
+  - NG
+- name: ikom
+  glottocode: olul1245
+  iso_639_3:
+  - iko
+  country:
+  - NG
+- name: ikpena
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ikpon
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ikposso (akposso)
+  glottocode: ikpo1238
+  iso_639_3:
+  - kpo
+  country:
+  - TG
+- name: ikwere
+  glottocode: ikwe1242
+  iso_639_3:
+  - ikw
+  country:
+  - NG
+- name: ikwerre
+  glottocode: ikwe1242
+  iso_639_3:
+  - ikw
+  country:
+  - NG
+- name: ila
+  glottocode: ilaa1246
+  iso_639_3:
+  - ilb
+  country:
+  - ZM
+- name: indian
+  glottocode: guja1252
+  iso_639_3:
+  - guj
+  country:
+  - KE
+- name: indian
+  glottocode: hind1269
+  iso_639_3:
+  - hin
+  country:
+    - SZ
+    - ZA
+- name: ipia
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: iregwe
+  glottocode: irig1241
+  iso_639_3:
+  - iri
+  country:
+  - NG
+- name: irigwe
+  glottocode: irig1241
+  iso_639_3:
+  - iri
+  country:
+  - NG
+# here for checking multi
+- name: irobo/urhobo
+  glottocode: urho1239
+  iso_639_3:
+  - urh
+  country:
+  - NG
+- name: ishan/esan
+  glottocode: esan1238
+  iso_639_3:
+  - ish
+  country:
+  - NG
+- name: isixhoza
+  glottocode: xhos1239
+  iso_639_3:
+  - xho
+  country:
+  - LS
+
+- name: isoko
+  glottocode: isok1239
+  iso_639_3:
+  - iso
+  country:
+  - NG
+- name: isu
+  glottocode: isuf1235
+  iso_639_3:
+  - szv
+  country:
+  - CM
+- name: ithopiwa
+  glottocode: amha1245
+  iso_639_3:
+  - amh
+  country:
+  - ZA
+- name: itsekiri
+  glottocode: isek1239
+  iso_639_3:
+  - its
+  country:
+  - NG
+- name: iyala
+  glottocode: yala1263
+  iso_639_3:
+  - yba
+  country:
+  - NG
+- name: izere
+  glottocode: izer1241
+  iso_639_3:
+  - izr
+  country:
+  - NG
+- name: jaba
+  glottocode: idun1241
+  iso_639_3:
+  - ldb
+  country:
+  - NG
+- name: jaja
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: jaluo
+  glottocode: luok1236
+  iso_639_3:
+  - luo
+  country:
+  - TZ
+- name: japadhola
+  glottocode: adho1243
+  iso_639_3:
+  - adh
+  country:
+  - UG
+- name: japhadhola
+  glottocode: adho1243
+  iso_639_3:
+  - adh
+  country:
+  - UG
+- name: jarawa
+  glottocode: jara1263
+  iso_639_3:
+    - jgk
+    - jjr
+  country:
+  - NG
+- name: jenjo
+  glottocode: dzaa1238
+  iso_639_3:
+  - jen
+  country:
+  - NG
+- name: jindwi
+  glottocode: many1258
+  iso_639_3:
+  - mxc
+  country:
+  - ZW
+- name: jonam
+  glottocode: alur1250
+  iso_639_3:
+  - alz
+  country:
+  - UG
+- name: jukum
+  glottocode: wapa1235
+  iso_639_3:
+  - juk
+  country:
+  - NG
+- name: jukum
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: jukun
+  glottocode: juku1254
+  iso_639_3:
+  - jbu
+  country:
+  - NG
+- name: jukun donga
+  glottocode: juku1254
+  iso_639_3:
+  - jbu
+  country:
+  - NG
+- name: jukun wanu
+  glottocode: wann1241
+  iso_639_3:
+  - jub
+  country:
+  - NG
+- name: kaakye
+  glottocode: krac1238
+  iso_639_3:
+  - kye
+  country:
+  - GH
+- name: kabarasi
+  glottocode: kabr1240
+  iso_639_3:
+    - lkb
+  country:
+  - KE
+- name: kabba
+  glottocode: mbon1253
+  iso_639_3:
+  - bgu
+  country:
+  - NG
+- name: kabba/bunu
+  glottocode: mbon1253
+  iso_639_3:
+  - bgu
+  country:
+  - NG
+- name: kabba/koro
+  glottocode: koro1301
+  iso_639_3:
+    - ahs
+    - bqv
+    - ldb
+    - 'yes'
+  country:
+  - NG
+- name: kabye
+  glottocode: kabi1261
+  iso_639_3:
+  - kbp
+  country:
+  - TG
+- name: kabyè
+  glottocode: kabi1261
+  iso_639_3:
+  - kbp
+  country:
+  - TG
+- name: kadara
+  glottocode: kada1284
+  iso_639_3:
+  - kad
+  country:
+  - NG
+- name: kado
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BF
+- name: kagara
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: kagoma
+  glottocode: kago1247
+  iso_639_3:
+  - kdm
+  country:
+  - NG
+- name: kagoro
+  glottocode: tyap1238
+  iso_639_3:
+  - kcg
+  country:
+  - NG
+- name: kagoru
+  glottocode: tyap1238
+  iso_639_3:
+  - kcg
+  country:
+  - NG
+- name: kaika
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: kaka
+  glottocode: yamb1251
+  iso_639_3:
+  - yam
+  country:
+  - NG
+- name: kakabari
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: kakabhe
+  glottocode: kaka1265
+  iso_639_3:
+  - kke
+  country:
+  - GN
+- name: kakaguru
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kakolo
+  glottocode: kago1248
+  iso_639_3:
+  - xkg
+  country:
+  - ML
+- name: kakwa
+  glottocode: kakw1240
+  iso_639_3:
+  - keo
+  country:
+  - UG
+- name: kalabari
+  glottocode: kala1381
+  iso_639_3:
+  - ijn
+  country:
+  - NG
+- name: kalanga
+  glottocode: kala1384
+  iso_639_3:
+  - kck
+  country:
+  - ZW
+- name:
+  - kalejin
+  - kalenjin
+  glottocode: kale1246
+  iso_639_3:
+    - kln
+  wals:
+  - "nan"
+  country:
+  - KE
+  note: >
+    Without out further information, use
+    the entire Kalenjin macrolanguage.
+
+    For WALS use Nandi.
+- name: kamba
+  glottocode: kamb1297
+  iso_639_3:
+  - kam
+  country:
+  - KE
+- name: kambari
+  glottocode: loka1252
+  iso_639_3:
+  - yaz
+  country:
+  - NG
+- name: kamboli
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TG
+- name: kambu
+  glottocode: limb1268
+  iso_639_3:
+  - lmp
+  country:
+  - NG
+- name: kambu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: kangyang
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: kanjaga
+  glottocode: buli1254
+  iso_639_3:
+  - bwu
+  country:
+  - GH
+- name: kanouri
+  glottocode: cent2050
+  iso_639_3:
+    - knc
+  country:
+  - CM
+  note: >
+    Kanouri is an alt name for Kanuri, Central. <https://www.ethnologue.com/language/knc>.
+    This is the only Kanuri listed by Ethnologue as spoken in Cameroon.
+- name: kanuri
+  glottocode: kanu1281
+  iso_639_3:
+    - kau
+  country:
+    - NE
+  note: >
+    All languages in the Kanuri macrolanguage are spoken in Niger.
+
+- name: kanuri
+  glottocode: kanu1281
+  iso_639_3:
+    - kby
+    - knc
+  country:
+    - NG
+  note: >
+    Ethnologue lists Kanuri, Central (knc) and
+    Kanuri, Manga as spoken in Nigeria.
+- name: kaonda
+  glottocode: kaon1241
+  iso_639_3:
+  - kqn
+  country:
+  - ZM
+- name: kaonde
+  glottocode: kaon1241
+  iso_639_3:
+  - kqn
+  country:
+  - ZM
+- name: kapsabinyi
+  glottocode: kups1238
+  iso_639_3:
+  - kpz
+  country:
+  - UG
+- name: kapsiki
+  glottocode: psik1239
+  iso_639_3:
+  - kvj
+  country:
+  - CM
+- name: karaboro
+  glottocode: kara1479
+  iso_639_3:
+    - kza
+    - xrb
+  country:
+  - BF
+- name: karakan
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BF
+- name: karamajong
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - UG
+- name: karanga
+  glottocode: kara1480
+  iso_639_3:
+  - sna
+  country:
+  - ZW
+- name: kare kare
+  glottocode: kare1348
+  iso_639_3:
+  - kai
+  country:
+  - NG
+- name: karekare
+  glottocode: kare1348
+  iso_639_3:
+  - kai
+  country:
+  - NG
+- name: kari-kari
+  glottocode: kare1348
+  iso_639_3:
+  - kai
+  country:
+  - NG
+- name: karmo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: kasari
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: kasem
+  glottocode: kase1253
+  iso_639_3:
+  - xsm
+  country:
+  - GH
+- name: kasena
+  glottocode: kase1253
+  iso_639_3:
+  - xsm
+  country:
+  - GH
+- name: kasina
+  glottocode: kase1253
+  iso_639_3:
+  - xsm
+  country:
+  - GH
+- name: kassena
+  glottocode: kase1253
+  iso_639_3:
+  - xsm
+  country:
+  - BF
+- name: kataf
+  glottocode: tyap1238
+  iso_639_3:
+  - kcg
+  country:
+  - NG
+- name: kataf (atyap)
+  glottocode: tyap1238
+  iso_639_3:
+  - kcg
+  country:
+  - NG
+- name: kataf(atyap)
+  glottocode: tyap1238
+  iso_639_3:
+  - kcg
+  country:
+  - NG
+- name: katap
+  glottocode: tyap1238
+  iso_639_3:
+  - kcg
+  country:
+  - NG
+- name: katongu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: kavango
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NA
+- name: kavango languages
+  glottocode: cent2260
+  iso_639_3:
+    - diu
+    - kwn
+    - mho
+  country:
+  - NA
+- name: kebu
+  glottocode: ndoo1242
+  iso_639_3:
+  - ndp
+  country:
+  - UG
+- name: kebu.
+  glottocode: nnam1238
+  iso_639_3:
+  - nbp
+  country:
+  - UG
+- name: kélè
+  glottocode: kele1257
+  iso_639_3:
+  - keb
+  country:
+  - GA
+- name: kenyan
+  glottocode: swah1253
+  iso_639_3:
+    - swh
+  country:
+  - KE
+  note: >
+    Swahili is the national language of Kenya.
+- name: keyka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: khana
+  glottocode: khan1278
+  iso_639_3:
+  - ogo
+  country:
+  - NG
+- name: khasonk
+  glottocode: xaas1235
+  iso_639_3:
+  - kao
+  country:
+  - ML
+- name: khasonke
+  glottocode: xaas1235
+  iso_639_3:
+  - kao
+  country:
+  - ML
+- name: khassonke
+  glottocode: xaas1235
+  iso_639_3:
+  - kao
+  country:
+  - ML
+- name: khassonké
+  glottocode: xaas1235
+  iso_639_3:
+  - kao
+  country:
+  - ML
+- name: khoi
+  glottocode: nama1264
+  iso_639_3:
+  - naq
+  country:
+  - ZA
+- name: khois
+  glottocode: nama1264
+  iso_639_3:
+  - naq
+  country:
+  - ZA
+- name: khoisan
+  glottocode: nama1264
+  iso_639_3:
+  - naq
+  country:
+  - ZA
+- name: khokhola
+  glottocode: koko1267
+  iso_639_3:
+  - kzn
+  country:
+  - MW
+- name: kial-yorobi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kiarusha
+  glottocode: arus1243
+  iso_639_3:
+  - mas
+  country:
+  - TZ
+- name: kiasi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kibaku
+  glottocode: ciba1236
+  iso_639_3:
+  - ckl
+  country:
+  - NG
+- name: kibarbaik
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kibembe
+  glottocode: bemb1255
+  iso_639_3:
+  - bmb
+  country:
+  - TZ
+- name: kibena
+  glottocode: bena1262
+  iso_639_3:
+  - bez
+  country:
+  - TZ
+- name: kibende
+  glottocode: bend1258
+  iso_639_3:
+  - bdp
+  country:
+  - TZ
+- name: kibondei
+  glottocode: bond1247
+  iso_639_3:
+  - bou
+  country:
+  - TZ
+- name: kiborana
+  glottocode: bora1272
+  iso_639_3:
+  - gax
+  wals:
+  - orb
+  country:
+  - TZ
+  note: >
+    "ki" is a prefix. Borana must
+    refer to the Borana language spoken in
+    neighboring Kenya.
+- name: kibunga
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kibungu
+  glottocode: bung1265
+  iso_639_3:
+  - wun
+  country:
+  - TZ
+- name: kichaga
+  glottocode: moch1256
+  iso_639_3:
+  - old
+  country:
+  - TZ
+- name: kidigo
+  glottocode: digo1243
+  iso_639_3:
+  - dig
+  country:
+  - TZ
+- name: kidoe
+  glottocode: doee1238
+  iso_639_3:
+  - doe
+  country:
+  - TZ
+- name: kifipa
+  glottocode: fipa1238
+  iso_639_3:
+  - fip
+  country:
+  - TZ
+- name: kigindo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kigogo
+  glottocode: gogo1263
+  iso_639_3:
+  - gog
+  country:
+  - TZ
+- name: kigunya
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kigweno
+  glottocode: gwen1239
+  iso_639_3:
+  - gwe
+  country:
+  - TZ
+- name: kiha
+  glottocode: haaa1252
+  iso_639_3:
+  - haq
+  country:
+  - TZ
+- name: kihangaza
+  glottocode: hang1260
+  iso_639_3:
+  - han
+  country:
+  - TZ
+- name: kihaya
+  glottocode: haya1250
+  iso_639_3:
+  - hay
+  country:
+  - TZ
+- name: kihehe
+  glottocode: hehe1240
+  iso_639_3:
+  - heh
+  country:
+  - TZ
+- name: kihindi
+  glottocode: hind1269
+  iso_639_3:
+  - hin
+  country:
+  - TZ
+- name: kiiba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: kiikizu
+  glottocode: ikiz1238
+  iso_639_3:
+  - ikz
+  country:
+  - TZ
+- name: kiiraq
+  glottocode: iraq1241
+  iso_639_3:
+  - irk
+  country:
+  - TZ
+- name: kiiraqi
+  glottocode: iraq1241
+  iso_639_3:
+  - irk
+  country:
+  - TZ
+- name: kijahidiri
+  glottocode: iraq1241
+  iso_639_3:
+  - irk
+  country:
+  - TZ
+- name: kijaluo
+  glottocode: luok1236
+  iso_639_3:
+  - luo
+  country:
+  - TZ
+- name: kijita
+  glottocode: jita1239
+  iso_639_3:
+  - jit
+  country:
+  - TZ
+- name: kikabwa
+  glottocode: kabw1241
+  iso_639_3:
+  - cwa
+  country:
+  - TZ
+- name: kikagulu
+  glottocode: kagu1239
+  iso_639_3:
+  - kki
+  country:
+  - TZ
+- name: kikaguru
+  glottocode: kagu1239
+  iso_639_3:
+  - kki
+  country:
+  - TZ
+- name: kikahe
+  glottocode: kahe1238
+  iso_639_3:
+  - hka
+  country:
+  - TZ
+- name: kikala
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kikamba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kikaonde
+  glottocode: kaon1241
+  iso_639_3:
+  - kqn
+  country:
+  - ZM
+- name: kikara
+  glottocode: kara1481
+  iso_639_3:
+  - reg
+  country:
+  - TZ
+- name: kikerewe
+  glottocode: kere1283
+  iso_639_3:
+  - ked
+  country:
+  - TZ
+- name: kikiizu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kikimbu
+  glottocode: kimb1242
+  iso_639_3:
+  - kiv
+  country:
+  - TZ
+- name: kikine
+  glottocode: suba1252
+  iso_639_3:
+  - ssc
+  country:
+  - TZ
+- name: kikinga
+  glottocode: nucl1379
+  iso_639_3:
+  - zga
+  country:
+  - TZ
+- name: kikisi
+  glottocode: kisi1243
+  iso_639_3:
+  - kiz
+  country:
+  - TZ
+- name: kikonongo
+  glottocode: kono1265
+  iso_639_3:
+  - kcz
+  country:
+  - TZ
+- name: kikurya
+  glottocode: kuri1259
+  iso_639_3:
+  - kuj
+  country:
+  - TZ
+- name: kikutu
+  glottocode: kutu1263
+  iso_639_3:
+  - kdc
+  country:
+  - TZ
+- name: kikuyu
+  glottocode: kiku1240
+  iso_639_3:
+  - kik
+  country:
+  - KE
+- name: kikwaya
+  glottocode: kway1241
+  iso_639_3:
+  - kya
+  country:
+  - TZ
+- name: kikwere
+  glottocode: kere1283
+  iso_639_3:
+  - ked
+  country:
+  - TZ
+- name: kilambya
+  glottocode: lamb1272
+  iso_639_3:
+  - lai
+  country:
+  - TZ
+- name: kilba babar
+  glottocode: bura1292
+  iso_639_3:
+  - bwr
+  country:
+  - NG
+- name: kilindi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kilongo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kiluguru
+  glottocode: lugu1238
+  iso_639_3:
+  - ruf
+  country:
+  - TZ
+- name: kilungwa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kiluri
+  glottocode: ruri1238
+  iso_639_3:
+  - kya
+  country:
+  - TZ
+- name: kimakonde
+  glottocode: mako1251
+  iso_639_3:
+  - kde
+  country:
+  - TZ
+- name: kimakua
+  glottocode: makh1261
+  iso_639_3:
+  - mgh
+  country:
+  - TZ
+- name: kimakunduchi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kimakuwa
+  glottocode: makh1261
+  iso_639_3:
+  - mgh
+  country:
+  - TZ
+- name: kimalila
+  glottocode: mali1279
+  iso_639_3:
+  - mgq
+  country:
+  - TZ
+- name: kimalili
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kimambwe
+  glottocode: mamb1297
+  iso_639_3:
+  - mgr
+  country:
+  - TZ
+- name: kimanda
+  glottocode: mand1423
+  iso_639_3:
+  - mgs
+  country:
+  - TZ
+- name: kimang'ati
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kimanyema
+  glottocode: nyan1306
+  iso_639_3:
+  - nym
+  country:
+  - TZ
+- name: kimasai
+  glottocode: masa1300
+  iso_639_3:
+  - mas
+  country:
+  - TZ
+- name: kimatambwe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kimatengo
+  glottocode: mate1258
+  iso_639_3:
+  - mgv
+  country:
+  - TZ
+- name: kimatumbi
+  glottocode: matu1259
+  iso_639_3:
+  - mgw
+  country:
+  - TZ
+- name: kimazuruni
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kimbembe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kimbulu
+  glottocode: iraq1241
+  iso_639_3:
+  - irk
+  country:
+  - TZ
+- name: kimbungo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kimdale
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kimeru
+  glottocode: rwaa1238
+  iso_639_3:
+  - rwk
+  country:
+  - TZ
+- name: kimuani
+  glottocode: mwan1247
+  iso_639_3:
+  - wmw
+  country:
+  - MZ
+- name: kimuwanji
+  glottocode: vwan1235
+  iso_639_3:
+  - wbi
+  country:
+  - TZ
+- name: kimwani
+  glottocode: mwan1247
+  iso_639_3:
+  - wmw
+  country:
+  - MZ
+- name: kimwera
+  glottocode: mwer1248
+  iso_639_3:
+  - mwe
+  country:
+  - TZ
+- name: kinata
+  glottocode: ikom1245
+  iso_639_3:
+  - ntk
+  country:
+  - TZ
+- name: kindali
+  glottocode: ndal1241
+  iso_639_3:
+  - ndh
+  country:
+  - TZ
+- name: kindamba
+  glottocode: ndam1239
+  iso_639_3:
+  - ndj
+  country:
+  - TZ
+- name: kindendeule
+  glottocode: nden1249
+  iso_639_3:
+  - dne
+  country:
+  - TZ
+- name: kindengereko
+  glottocode: nden1248
+  iso_639_3:
+  - ndg
+  country:
+  - TZ
+- name: kindonde
+  glottocode: mako1251
+  iso_639_3:
+  - njd
+  country:
+  - TZ
+- name: kindyewe
+  glottocode: kere1283
+  iso_639_3:
+  - ked
+  country:
+  - TZ
+- name: kingindo
+  glottocode: ngin1244
+  iso_639_3:
+  - nnq
+  country:
+  - TZ
+- name: kingoni
+  glottocode: ngon1269
+  iso_639_3:
+  - ngo
+  country:
+  - TZ
+- name: kinguu
+  glottocode: ngul1246
+  iso_639_3:
+  - ngp
+  country:
+  - TZ
+- name: kinyagatwa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kinyagazwa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kinyakyusa
+  glottocode: nyak1260
+  iso_639_3:
+  - nyy
+  country:
+  - TZ
+- name: kinyambo
+  glottocode: nyam1277
+  iso_639_3:
+  - now
+  country:
+  - TZ
+- name: kinyamulenge
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: kinyamwanga
+  glottocode: nyam1275
+  iso_639_3:
+  - mwn
+  country:
+  - TZ
+- name: kinyamwezi
+  glottocode: nyam1276
+  iso_639_3:
+  - nym
+  country:
+  - TZ
+- name: kinyantuzu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kinyarwanda
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: kinyasa
+  glottocode: mpot1240
+  iso_639_3:
+  - mpa
+  country:
+  - TZ
+- name: kinyaturu
+  glottocode: nyat1246
+  iso_639_3:
+  - rim
+  country:
+  - TZ
+- name: kinyiha
+  glottocode: nyik1249
+  iso_639_3:
+    - nih
+    - nkt
+  country:
+  - TZ
+- name: kinyimbo
+  glottocode: nyam1277
+  iso_639_3:
+  - now
+  country:
+  - TZ
+- name: kinyiramba
+  glottocode: nila1242
+  iso_639_3:
+  - nim
+  country:
+  - TZ
+- name: kinyisanzu
+  glottocode: isan1243
+  iso_639_3:
+  - isn
+  country:
+  - TZ
+- name: kipagebi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kipangwa
+  glottocode: pang1287
+  iso_639_3:
+  - pbr
+  country:
+  - TZ
+- name: kipare
+  glottocode: asut1235
+  iso_639_3:
+  - asa
+  country:
+  - TZ
+- name: kipemba
+  glottocode: pemb1239
+  iso_639_3:
+    - swh
+  country:
+  - TZ
+  note: >
+    Pemba is a dialect of Swahili spoken in Tanzania. https://www.ethnologue.com/language/swh.
+
+- name: kipimbwe
+  glottocode: pimb1238
+  iso_639_3:
+  - piw
+  country:
+  - TZ
+- name: kipogoro
+  glottocode: pogo1243
+  iso_639_3:
+  - poy
+  country:
+  - TZ
+- name: kipsigis
+  glottocode: kips1239
+  iso_639_3:
+    - sgc
+  country:
+  - KE
+- name: kirangi
+  glottocode: lang1320
+  iso_639_3:
+  - lag
+  country:
+  - TZ
+- name: kirinyaga
+  glottocode: kiku1240
+  iso_639_3:
+  - kik
+  country:
+  - KE
+- name: kirufiji
+  glottocode: rufi1236
+  iso_639_3:
+  - rui
+  country:
+  - TZ
+- name: kirundi
+  glottocode: rund1242
+  iso_639_3:
+  - run
+  country:
+  - BI
+- name: kiruri
+  glottocode: ruri1238
+  iso_639_3:
+  - kya
+  country:
+  - TZ
+- name: kiryeri
+  glottocode: suba1252
+  iso_639_3:
+  - ssc
+  country:
+  - TZ
+- name: kisafwa
+  glottocode: safw1238
+  iso_639_3:
+  - sbk
+  country:
+  - TZ
+- name: kisagala
+  glottocode: saga1256
+  iso_639_3:
+  - sbm
+  country:
+  - TZ
+- name: kisagara
+  glottocode: saga1256
+  iso_639_3:
+  - sbm
+  country:
+  - TZ
+- name: kisambaa
+  glottocode: sham1280
+  iso_639_3:
+  - ksb
+  country:
+  - TZ
+- name: kisandawe
+  glottocode: sand1273
+  iso_639_3:
+  - sad
+  wals:
+  - sdw
+  country:
+  - TZ
+- name: kisangu
+  glottocode: sang1330
+  iso_639_3:
+  - sbp
+  country:
+  - TZ
+- name: kisanzu
+  glottocode: isan1243
+  iso_639_3:
+  - isn
+  country:
+  - TZ
+- name: kisegeju
+  glottocode: sege1246
+  iso_639_3:
+  - seg
+  country:
+  - TZ
+- name: kishihiri
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kishirazi
+  glottocode: ikiz1238
+  iso_639_3:
+  - ikz
+  country:
+  - TZ
+- name: kishubi
+  glottocode: shub1238
+  iso_639_3:
+  - suj
+  country:
+  - TZ
+- name: kisii
+  glottocode: gusi1247
+  iso_639_3:
+  - guz
+  country:
+  - KE
+- name: kisimbiti
+  glottocode: suba1252
+  iso_639_3:
+  - ssc
+  country:
+  - TZ
+- name: kisizaki
+  glottocode: ikiz1238
+  iso_639_3:
+  - ikz
+  country:
+  - TZ
+- name: kissi
+  glottocode: kiss1245
+  iso_639_3:
+    - kqs
+    - kss
+  country:
+  - SL
+- name: kissi
+  glottocode: nort2765
+  iso_639_3:
+  - kqs
+  country:
+  - GN
+- name: kissi
+  glottocode: sout2778
+  iso_639_3:
+  - kss
+  country:
+  - LR
+- name: kissié
+  glottocode: nort2765
+  iso_639_3:
+  - kqs
+  country:
+  - GN
+- name: kisuba
+  glottocode: suba1252
+  iso_639_3:
+  - ssc
+  country:
+  - TZ
+- name: kisubi
+  glottocode: shub1238
+  iso_639_3:
+  - suj
+  country:
+  - TZ
+- name: kisukuma
+  glottocode: suku1261
+  iso_639_3:
+  - suk
+  country:
+  - TZ
+- name: kisumbwa
+  glottocode: sumb1240
+  iso_639_3:
+  - suw
+  country:
+  - TZ
+- name: kisunva
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kiswahili
+  glottocode: cong1236
+  iso_639_3:
+    - swc
+  country:
+  - ZM
+  note: >
+    In Zambia, Congo Swahili is spoken.
+- name: kiswahili
+  glottocode: swah1253
+  iso_639_3:
+    - swh
+  country:
+    - BI
+    - BW
+    - KE
+    - MW
+    - MZ
+    - TZ
+    - UG
+  note: >
+    Kiswahili is an alt-name for Swahili.
+- name: kiswahili and kalenjin
+  multi: true
+  glottocode: swah1253
+  iso_639_3:
+    - swh
+  country:
+  - KE
+  note: >
+    Use the first language named.
+- name: kiswahili and kamba
+  multi: true
+  glottocode: swah1253
+  iso_639_3:
+    - swh
+  country:
+  - KE
+  note: >
+    Use the first language named.
+- name: kiswahili and kikuyu
+  multi: true
+  glottocode: swah1253
+  iso_639_3:
+    - swh
+  country:
+  - KE
+  note: >
+    Use the first language named.
+- name:
+  - kiswahili and luhya
+  - kiswahili/luhya
+  multi: true
+  glottocode: swah1253
+  iso_639_3:
+    - swh
+  country:
+  - KE
+  note: >
+    Kiswahili and Luhya are unrelated. Use the first language named.
+
+- name: kitaturu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kitatuu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kitongwe
+  glottocode: tong1320
+  iso_639_3:
+  - tny
+  country:
+  - TZ
+- name: kitumbatu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kituwan
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TZ
+- name: kiuwanji
+  glottocode: vwan1235
+  iso_639_3:
+  - wbi
+  country:
+  - TZ
+- name: kividunda
+  glottocode: vidu1238
+  iso_639_3:
+  - vid
+  country:
+  - TZ
+- name: kiwanji
+  glottocode: vwan1235
+  iso_639_3:
+  - wbi
+  country:
+  - TZ
+- name: kiyao
+  glottocode: yaoo1241
+  iso_639_3:
+  - yao
+  country:
+  - TZ
+- name: kiyusi
+  glottocode: gusi1247
+  iso_639_3:
+  - guz
+  country:
+  - TZ
+- name: kizanaki
+  glottocode: zana1238
+  iso_639_3:
+  - zak
+  country:
+  - TZ
+- name: kizaramo
+  glottocode: zara1247
+  iso_639_3:
+  - zaj
+  country:
+  - TZ
+- name: kizigua
+  glottocode: zigu1242
+  iso_639_3:
+  - ziw
+  country:
+  - TZ
+- name: kizinza
+  glottocode: zinz1238
+  iso_639_3:
+  - zin
+  country:
+  - TZ
+- name: klum
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: knale
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: kodia
+  glottocode: kodi1246
+  iso_639_3:
+  - kwp
+  country:
+  - CI
+- name: kokomba
+  glottocode: konk1269
+  iso_639_3:
+  - xon
+  country:
+  - GH
+- name: kokonba
+  glottocode: konk1269
+  iso_639_3:
+  - xon
+  country:
+  - GH
+- name: kom
+  glottocode: mfum1238
+  iso_639_3:
+  - nfu
+  country:
+  - CM
+- name: komkomba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TG
+- name: komono
+  glottocode: khis1238
+  iso_639_3:
+  - kqm
+  country:
+  - BF
+- name: komonon
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: kona
+  glottocode: jiba1237
+  iso_639_3:
+  - juo
+  country:
+  - NG
+- name: koniadie
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SN
+- name: konianké
+  glottocode: kony1250
+  iso_639_3:
+    - man
+    - mku
+  country:
+  - GN
+- name: konkoba
+  glottocode: konk1269
+  iso_639_3:
+  - xon
+  country:
+  - GH
+- name: konkomba
+  glottocode: konk1269
+  iso_639_3:
+  - xon
+  country:
+    - GH
+    - TG
+- name: kono
+  glottocode: kono1267
+  iso_639_3:
+  - knu
+  country:
+  - GN
+- name: kono
+  glottocode: kono1268
+  iso_639_3:
+  - kno
+  country:
+  - SL
+- name: konon
+  glottocode: kono1267
+  iso_639_3:
+  - knu
+  country:
+  - GN
+- name: korekore
+  glottocode: kore1281
+  iso_639_3:
+  - sna
+  country:
+  - ZW
+- name: koro
+  glottocode: koro1301
+  iso_639_3:
+    - ahs
+    - bqv
+    - ldb
+    - 'yes'
+  country:
+  - NG
+- name: koro
+  glottocode: koro1306
+  iso_639_3:
+  - kfo
+  country:
+  - CI
+- name: korro
+  glottocode: koro1301
+  iso_639_3:
+    - ahs
+    - bqv
+    - ldb
+    - 'yes'
+  country:
+  - NG
+- name: koshin
+  glottocode: kosh1246
+  iso_639_3:
+  - kid
+  country:
+  - CM
+- name: kota
+  glottocode: kota1274
+  iso_639_3:
+  - koq
+  country:
+  - GA
+- name: kotocoli
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BJ
+- name: kotoko
+  glottocode: lagw1237
+  iso_639_3:
+  - kot
+  country:
+  - CM
+- name: kotokoli
+  glottocode: temm1241
+  iso_639_3:
+  - kdh
+  country:
+  - GH
+- name: kotokoli/chamba
+  glottocode: temm1241
+  iso_639_3:
+  - kdh
+  country:
+  - GH
+- name: kotonkoli
+  glottocode: temm1241
+  iso_639_3:
+  - kdh
+  country:
+  - GH
+- name: koulango
+  glottocode: kula1277
+  iso_639_3:
+    - kzc
+    - nku
+  country:
+  - CI
+- name: kouloumi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TG
+- name: koura
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BJ
+- name: kouranko
+  glottocode: kura1250
+  iso_639_3:
+  - knk
+  country:
+  - GN
+- name: koussountou
+  glottocode: bago1245
+  iso_639_3:
+  - bqg
+  country:
+  - TG
+- name: kouya
+  glottocode: kouy1238
+  iso_639_3:
+  - kyf
+  country:
+  - CI
+- name: kouzie
+  glottocode: nyab1255
+  iso_639_3:
+  - nwb
+  country:
+  - CI
+- name: koyaka
+  glottocode: koya1253
+  iso_639_3:
+  - kga
+  country:
+  - CI
+
+- name:
+  - kpelé
+  - kpélé
+  - kpèlè
+  glottocode: guin1254
+  iso_639_3:
+    - gkp
+  country:
+  - GN
+
+- name: kpelle
+  glottocode: libe1247
+  iso_639_3:
+    - xpe
+  country:
+  - LR
+
+- name: kpessi
+  glottocode: kpes1238
+  iso_639_3:
+  - kef
+  country:
+  - TG
+- name: krachi
+  glottocode: krac1238
+  iso_639_3:
+  - kye
+  country:
+  - GH
+- name: krahn
+  glottocode: weea1234
+  iso_639_3:
+    - kqo
+    - krw
+  country:
+  - LR
+- name: krakyi
+  glottocode: krac1238
+  iso_639_3:
+  - kye
+  country:
+  - GH
+- name: krio
+  glottocode: krio1253
+  iso_639_3:
+  - kri
+  wals:
+  - jcr
+  country:
+  - SL
+  note: >
+    Krio is an English based Creole spoken in Sierra Leone.
+    Ethnologue lists Jamaican and Sea Islands Creole as most similar creoles.
+- name: krobo
+  glottocode: adan1247
+  iso_639_3:
+  - ada
+  country:
+  - GH
+- name: krobou
+  glottocode: krob1245
+  iso_639_3:
+  - kxb
+  country:
+  - CI
+- name: kroumen
+  glottocode: ivor1240
+  iso_639_3:
+    - pye
+    - ted
+  country:
+  - CI
+- name: kru
+  glottocode: klao1243
+  iso_639_3:
+  - klu
+  country:
+    - LR
+    - SL
+- name: kuba
+  glottocode: chee1238
+  iso_639_3:
+  - ruk
+  country:
+  - NG
+- name: kuksabin
+  glottocode: kups1238
+  iso_639_3:
+  - kpz
+  country:
+  - UG
+- name: kumam
+  glottocode: kuma1275
+  iso_639_3:
+  - kdi
+  country:
+  - UG
+- name: kunda
+  glottocode: tumb1253
+  iso_639_3:
+    - kdn
+    - nya
+  country:
+  - ZM
+- name: kupsabinyi
+  glottocode: kups1238
+  iso_639_3:
+  - kpz
+  country:
+  - UG
+- name: kurama
+  glottocode: kura1249
+  iso_639_3:
+  - krh
+  country:
+  - NG
+- name: kuranko
+  glottocode: kura1250
+  iso_639_3:
+  - knk
+  country:
+  - SL
+- name: kuria
+  glottocode: kuri1259
+  iso_639_3:
+  - kuj
+  country:
+  - KE
+- name: kurya
+  glottocode: kuri1259
+  iso_639_3:
+  - kuj
+  country:
+  - TZ
+- name: kusaasi
+  glottocode: kusa1250
+  iso_639_3:
+  - kus
+  country:
+  - GH
+- name: kusal
+  glottocode: kusa1250
+  iso_639_3:
+  - kus
+  country:
+  - GH
+- name: kusasi
+  glottocode: kusa1250
+  iso_639_3:
+  - kus
+  country:
+  - GH
+- name: kusasi/kusaase
+  glottocode: kusa1250
+  iso_639_3:
+  - kus
+  country:
+  - GH
+- name: kuteb
+  glottocode: kute1248
+  iso_639_3:
+  - kub
+  country:
+  - NG
+- name: kwahu
+  glottocode: kwaw1238
+  iso_639_3:
+    - twi
+  country:
+  - GH
+  note: >
+    Kwahu is an alt-name for Kwawu, a dialect of Akan. http://glottolog.org/resource/languoid/id/kwaw1238
+
+    Ethnologue considers Kwawu a Twi dialect.
+- name: kwalla
+  glottocode: kofy1242
+  iso_639_3:
+  - kwl
+  country:
+  - NG
+- name: kwamashi
+  glottocode: mash1267
+  iso_639_3:
+  - mho
+  country:
+  - ZM
+- name: laka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: lakpakaw
+  glottocode: konk1269
+  iso_639_3:
+  - xon
+  country:
+  - GH
+- name: lala
+  glottocode: lala1265
+  iso_639_3:
+  - leb
+  country:
+  - ZM
+- name: lama (lamba)
+  glottocode: lama1275
+  iso_639_3:
+  - las
+  country:
+  - TG
+- name: lamba
+  glottocode: lama1275
+  iso_639_3:
+  - las
+  country:
+    - BJ
+    - TG
+- name: lamba
+  glottocode: lamb1271
+  iso_639_3:
+  - lam
+  country:
+  - ZM
+- name: lambia
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: lambo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: lambya
+  glottocode: lamb1272
+  iso_639_3:
+  - lai
+  country:
+    - MW
+    - ZM
+- name: lamnso
+  glottocode: lamn1239
+  iso_639_3:
+  - lns
+  country:
+  - CM
+- name: landouma
+  glottocode: land1256
+  iso_639_3:
+  - ldm
+  country:
+  - GN
+- name: langi
+  glottocode: lang1324
+  iso_639_3:
+  - laj
+  country:
+  - UG
+- name: language almapat
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SD
+- name: language fellata
+  glottocode: adam1253
+  iso_639_3:
+  - fub
+  country:
+  - SD
+  note: >
+    Fellata is an alt-name of [Adamawa Fulfulde](https://www.ethnologue.com/country/SD/languages)
+- name: language inqasna
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SD
+
+- name: lanta
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: lantan
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: larteh
+  glottocode: lart1238
+  iso_639_3:
+  - lar
+  country:
+  - GH
+- name: laru
+  glottocode: laru1238
+  iso_639_3:
+  - lan
+  country:
+  - NG
+- name: lawabe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: lebialem
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: lekpekpe
+  glottocode: sekp1241
+  iso_639_3:
+  - lip
+  country:
+  - GH
+- name: lele
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: lemande
+  glottocode: noma1260
+  iso_639_3:
+  - lem
+  country:
+  - CM
+- name: lemoro
+  glottocode: lemo1242
+  iso_639_3:
+  - ldj
+  country:
+  - NG
+- name: lendu
+  glottocode: lend1245
+  iso_639_3:
+  - led
+  country:
+  - UG
+- name: lenje
+  glottocode: lenj1248
+  iso_639_3:
+  - leh
+  country:
+  - ZM
+- name:
+  - liberian english
+  - liberian simple english
+  - simple liberian english
+  glottocode: libe1240
+  iso_639_3:
+  - lir
+  wals:
+  - npi
+  country:
+  - LR
+  note: >
+    Refers the Liberian pidgin English.
+
+    Since Liberian English is not in WALS, use Nigerian Pidgin English instead.
+- name: ligete
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: ligode
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: ligote
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: ligoute
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: likpakpaln
+  glottocode: konk1269
+  iso_639_3:
+  - xon
+  country:
+  - GH
+- name: limba
+  glottocode: limb1267
+  iso_639_3:
+    - lia
+    - lma
+  wals:
+  - bgs
+  - gol
+  - kis
+  - kss
+  - tne
+  note: >
+    Glottolog puts Limba as its [own branch](http://glottolog.org/resource/languoid/id/limb1267)
+    of the Atlantic Congo languages. Since Glottolog groups it in a [Southern](https://www.ethnologue.com/subgroups/southern-13)
+    with Mel, I use the Mel genus for WALS.
+  country:
+  - SL
+- name: limbum
+  glottocode: limb1268
+  iso_639_3:
+  - lmp
+  country:
+  - CM
+- name: limbun
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: lingua mapex
+  glottocode: port1283
+  iso_639_3:
+  - por
+  country:
+  - MZ
+- name: lla
+  glottocode: ilaa1246
+  iso_639_3:
+  - ilb
+  country:
+  - ZM
+- name: lobi
+  glottocode: lobi1245
+  iso_639_3:
+  - lob
+  country:
+    - BF
+    - CI
+- name: logba
+  glottocode: logb1245
+  iso_639_3:
+  - lgq
+  country:
+  - GH
+- name: logba
+  glottocode: lukp1238
+  iso_639_3:
+  - dop
+  country:
+  - TG
+- name: logote
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: loko
+  glottocode: loko1255
+  iso_639_3:
+  - lok
+  country:
+  - SL
+- name: lolo
+  glottocode: lolo1261
+  iso_639_3:
+  - llb
+  country:
+  - MZ
+- name: loma
+  glottocode: toma1245
+  iso_639_3:
+  - tod
+  country:
+  - GN
+- name: lomue
+  glottocode: lomw1241
+  iso_639_3:
+  - ngl
+  country:
+  - MZ
+- name: lomwe
+  glottocode: lomw1241
+  iso_639_3:
+  - ngl
+  country:
+  - MZ
+- name: lomwe
+  glottocode: mala1256
+  iso_639_3:
+  - lon
+  country:
+  - MW
+- name: lopka
+  glottocode: lukp1238
+  iso_639_3:
+  - dop
+  country:
+  - BJ
+- name: loriba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: lorma
+  glottocode: loma1260
+  iso_639_3:
+  - lom
+  country:
+  - LR
+- name: lozi
+  glottocode: lozi1239
+  iso_639_3:
+  - loz
+  country:
+  - ZM
+- name: lozwi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: luba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: lubukusu
+  glottocode: buku1249
+  iso_639_3:
+    - bxk
+  country:
+  - UG
+- name: luchazi
+  glottocode: luch1239
+  iso_639_3:
+  - lch
+  country:
+  - ZM
+- name: ludama
+  glottocode: adho1243
+  iso_639_3:
+  - adh
+  country:
+  - UG
+- name: lufubila
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: lufumbira
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: luganda
+  glottocode: gand1255
+  iso_639_3:
+  - lug
+  country:
+  - UG
+- name: lugbara
+  glottocode: lugb1240
+  iso_639_3:
+  - lgg
+  country:
+  - UG
+- name: lugishu/lumasaba
+  glottocode: masa1299
+  iso_639_3:
+  - myx
+  country:
+  - UG
+- name: lugisu
+  glottocode: masa1299
+  iso_639_3:
+  - myx
+  country:
+  - UG
+- name: luguru
+  glottocode: lugu1238
+  iso_639_3:
+  - ruf
+  country:
+  - TZ
+- name: lugwere
+  glottocode: gwer1238
+  iso_639_3:
+  - gwr
+  country:
+  - UG
+- name: luhya
+  glottocode: luyi1234
+  iso_639_3:
+  - luy
+  wals:
+  - luy
+  country:
+  - KE
+  note: >
+    Use the Luhya macrolanguage.
+- name: lujaluwo
+  glottocode: alur1250
+  iso_639_3:
+  - alz
+  country:
+  - UG
+- name: lukene
+  glottocode: keny1278
+  iso_639_3:
+  - lke
+  country:
+  - UG
+- name: lukhonjo
+  glottocode: konz1239
+  iso_639_3:
+  - koo
+  country:
+  - UG
+- name: lukuku
+  glottocode: bari1284
+  iso_639_3:
+  - bfa
+  country:
+  - UG
+- name: lulamogi
+  glottocode: soga1242
+  iso_639_3:
+  - xog
+  country:
+  - UG
+- name: lululi
+  glottocode: ruul1235
+  iso_639_3:
+  - ruc
+  country:
+  - UG
+- name: luluri
+  glottocode: ruul1235
+  iso_639_3:
+  - ruc
+  country:
+  - UG
+- name: lumama
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: lumasaaba
+  glottocode: masa1299
+  iso_639_3:
+  - myx
+  country:
+  - UG
+- name: lumasaba
+  glottocode: masa1299
+  iso_639_3:
+  - myx
+  country:
+  - UG
+- name: lumwe
+  glottocode: lomw1241
+  iso_639_3:
+  - ngl
+  country:
+  - MZ
+- name: lunda
+  glottocode: lund1266
+  iso_639_3:
+  - lun
+  country:
+  - ZM
+- name: lunda kazembe
+  glottocode: bemb1257
+  iso_639_3:
+  - bem
+  country:
+  - ZM
+- name: lungu
+  glottocode: rung1256
+  iso_639_3:
+  - mgr
+  country:
+  - ZM
+- name: lunguda
+  glottocode: long1389
+  iso_639_3:
+  - lnu
+  country:
+  - NG
+- name: luniga
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: lunyala
+  glottocode: ruul1235
+  iso_639_3:
+  - ruc
+  country:
+  - UG
+- name: lunyara
+  glottocode: ruul1235
+  iso_639_3:
+  - ruc
+  country:
+  - UG
+- name: lunyarwanda
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: lunyole
+  glottocode: nyol1238
+  iso_639_3:
+  - nuj
+  country:
+  - UG
+- name: lunyoli
+  glottocode: nyol1238
+  iso_639_3:
+  - nuj
+  country:
+  - UG
+- name: lunyoro
+  glottocode: nyor1246
+  iso_639_3:
+  - nyo
+  country:
+  - UG
+- name: luo
+  glottocode: luok1236
+  iso_639_3:
+  - luo
+  country:
+  - KE
+- name: luo
+  glottocode: sout2831
+  iso_639_3:
+    - ach
+    - adh
+    - alz
+    - kdi
+    - laj
+    - lth
+  country:
+  - UG
+- name: luruli
+  glottocode: ruul1235
+  iso_639_3:
+  - ruc
+  country:
+  - UG
+- name: lurundi
+  glottocode: rund1242
+  iso_639_3:
+  - run
+  country:
+  - UG
+- name: lururu
+  glottocode: ruul1235
+  iso_639_3:
+  - ruc
+  country:
+  - UG
+- name: lusamia
+  glottocode: saam1283
+  iso_639_3:
+  - lsm
+  wals:
+  - luy
+  country:
+  - UG
+- name: lusoga
+  glottocode: soga1242
+  iso_639_3:
+  - xog
+  country:
+  - UG
+- name:
+  - lusudan
+  - lusudani
+  glottocode: suda1236
+  iso_639_3:
+    - apd
+  wals:
+    - abb
+  country:
+  - UG
+  note: >
+    "lu" is a prefix. "Sudani" is spoken Sudanese.
+
+- name: lutu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: luvale
+  glottocode: luva1239
+  iso_639_3:
+  - lue
+  country:
+  - ZM
+- name: lwamba
+  glottocode: amba1263
+  iso_639_3:
+  - rwm
+  country:
+  - UG
+- name: m'batto
+  glottocode: mbat1247
+  iso_639_3:
+  - gwa
+  country:
+  - CI
+- name:
+  - maasai / samburu
+  - maasai/samburu
+  glottocode: nucl1431
+  iso_639_3:
+    - mas
+    - saq
+  country:
+  - KE
+  note: >
+    Maasai and Samburu are languages in the [Nuclear Maa](http://glottolog.org/resource/languoid/id/nucl1431) family.
+
+- name: mabawe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: mabi
+  glottocode: kwas1243
+  iso_639_3:
+  - nmg
+  country:
+  - CM
+- name: macheua
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: mada
+  glottocode: mada1282
+  iso_639_3:
+  - mda
+  country:
+  - NG
+- name: mada
+  glottocode: mada1293
+  iso_639_3:
+  - mxu
+  country:
+  - CM
+- name: madara
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: madi
+  glottocode: sout2827
+  iso_639_3:
+    - mhi
+    - snm
+  country:
+  - UG
+- name: madingo
+  glottocode: east2426
+  iso_639_3:
+    - emk
+    - man
+  country:
+  - SL
+- name: mafa
+  glottocode: mafa1239
+  iso_639_3:
+  - maf
+  country:
+    - CM
+    - NG
+- name: mafwe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NA
+- name: maghai
+  glottocode: magh1238
+  iso_639_3:
+  - gmd
+  country:
+  - NG
+- name: magu
+  glottocode: mvan1238
+  iso_639_3:
+  - mcj
+  country:
+  - NG
+- name: mahawea
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: mahohka
+  glottocode: maho1250
+  iso_639_3:
+  - mxx
+  country:
+  - CI
+- name: mahouka
+  glottocode: maho1250
+  iso_639_3:
+  - mxx
+  country:
+  - CI
+- name: maindo
+  glottocode: main1272
+  iso_639_3:
+  - cwb
+  country:
+  - MZ
+- name: maka
+  glottocode: byep1241
+  iso_639_3:
+  - mkk
+  country:
+  - CM
+- name: makonde
+  glottocode: mako1251
+  iso_639_3:
+  - kde
+  country:
+    - MZ
+    - TZ
+- name: makua
+  glottocode: maku1279
+  iso_639_3:
+    - mgh
+    - mhm
+    - vmk
+    - vmw
+    - xmc
+    - xsq
+  country:
+  - MZ
+- name: makwe
+  glottocode: makw1236
+  iso_639_3:
+  - ymk
+  country:
+  - MZ
+
+- name: malawian
+  glottocode: peta1244
+  iso_639_3:
+  - nya
+  country:
+  - ZW
+  note: >
+    Chichewi is a langauge of Malawi,
+    and Malwai is the name of a dialect of Chichewa. https://www.ethnologue.com/language/nya.
+    Chichewa is spoken in Malawi.
+
+    http://glottolog.org/resource/languoid/id/peta1244 lists
+    Malawi as an alt-name of Peta.
+- name:
+  - malg officiel
+  - malgache « officiel »
+  - malgache officielle
+  - official malagasy
+  - '"official" malagasy'
+  - malagasy officiel
+  glottocode: plat1254
+  iso_639_3:
+  - plt
+  country:
+  - MG
+
+- name: malimba
+  glottocode: mali1280
+  iso_639_3:
+  - mzd
+  country:
+  - CM
+- name:
+  - malink
+  - malinke
+  - malinké
+  glottocode: west2499
+  iso_639_3:
+  - man
+  - mlq
+  - mwk
+  wals:
+  - maw
+  - mdk
+  country:
+  - ML
+
+- name: malinké/ dioula
+  glottocode: woje1238
+  iso_639_3:
+  - jod
+  country:
+  - CI
+
+- name: malolo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: mambila
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mambilla
+  glottocode: nige1255
+  iso_639_3:
+  - mzk
+  country:
+  - NG
+- name: mambwe
+  glottocode: mamb1297
+  iso_639_3:
+  - mgr
+  country:
+  - ZM
+- name: mampruli
+  glottocode: mamp1244
+  iso_639_3:
+  - maw
+  country:
+  - GH
+- name: mamprulni
+  glottocode: mamp1244
+  iso_639_3:
+  - maw
+  country:
+  - GH
+- name: mamprusi
+  glottocode: mamp1244
+  iso_639_3:
+  - maw
+  country:
+  - GH
+- name: mamunye
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: mandara
+  glottocode: wand1278
+  iso_639_3:
+  - mfi
+  country:
+  - CM
+- name: mandarai
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BF
+- name: mandingo
+  glottocode: many1261
+  iso_639_3:
+  - mzj
+  country:
+  - LR
+- name: mandinka
+  glottocode: mand1436
+  iso_639_3:
+    - man
+    - mnk
+  country:
+  - SN
+- name: mandinka/bambara
+  glottocode: mand1435
+  iso_639_3:
+    - bam
+    - man
+    - mnk
+  country:
+  - SN
+- name: mandoua
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mang'anja
+  glottocode: nyan1308
+  iso_639_3:
+  - nya
+  country:
+  - MW
+- name: manga
+  glottocode: mang1399
+  iso_639_3:
+    - kau
+    - kby
+  country:
+  - NG
+- name: manga'nja
+  glottocode: nyan1308
+  iso_639_3:
+  - nya
+  country:
+  - MW
+- name: manguissa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: manhawa
+  glottocode: many1259
+  iso_639_3:
+  - mny
+  country:
+  - MZ
+- name: manhembane
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: manhgue
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: manhungue
+  glottocode: many1258
+  iso_639_3:
+  - mxc
+  country:
+  - MZ
+- name: manian
+  glottocode: mann1248
+  iso_639_3:
+  - mev
+  country:
+  - GN
+- name: manica (mozambican)
+  glottocode: many1258
+  iso_639_3:
+  - mxc
+  country:
+  - ZW
+- name: maninka
+  glottocode: east2426
+  iso_639_3:
+    - emk
+    - man
+  country:
+  - GN
+- name: manjack
+  glottocode: mand1419
+  iso_639_3:
+  - mfv
+  country:
+  - SN
+- name: mankagne
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SN
+- name: mankon
+  glottocode: ngem1255
+  iso_639_3:
+  - nge
+  country:
+  - CM
+- name: mano
+  glottocode: mann1248
+  iso_639_3:
+  - mev
+  country:
+    - GN
+    - LR
+- name: manyika
+  glottocode: many1258
+  iso_639_3:
+  - mxc
+  country:
+  - ZW
+- name: maone
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: mapex
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: marachi
+  glottocode: mara1393
+  iso_639_3:
+    - lri
+  country:
+  - KE
+- name: maragoli
+  glottocode: logo1258
+  iso_639_3:
+    - rag
+  country:
+  - KE
+- name: marama
+  glottocode: mara1392
+  iso_639_3:
+    - lrm
+  country:
+  - KE
+- name: marenge
+  glottocode: mare1260
+  iso_639_3:
+  - vmr
+  country:
+  - MZ
+- name: marenje
+  glottocode: mare1260
+  iso_639_3:
+  - vmr
+  country:
+  - MZ
+- name: marghi
+  glottocode: bura1296
+  iso_639_3:
+    - mfl
+    - mfm
+    - mrt
+  country:
+  - NG
+- name: margi
+  glottocode: marg1265
+  iso_639_3:
+  - mrt
+  country:
+  - NG
+- name: marka
+  glottocode: mark1256
+  iso_639_3:
+  - rkm
+  country:
+  - BF
+- name: marocain
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SN
+- name: maronga
+  glottocode: rong1268
+  iso_639_3:
+  - rng
+  country:
+  - MZ
+- name: masai
+  glottocode: masa1300
+  iso_639_3:
+  - mas
+  country:
+    - KE
+    - TZ
+- name: masai/samburu
+  glottocode: nucl1431
+  iso_639_3:
+    - mas
+    - saq
+  country:
+  - KE
+- name: massa
+  glottocode: masa1322
+  iso_639_3:
+  - mcn
+  country:
+  - CM
+- name: massema
+  glottocode: nucl1396
+  iso_639_3:
+  - seh
+  country:
+  - MZ
+- name: massonke
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SN
+- name: masubia
+  glottocode: subi1246
+  iso_639_3:
+  - sbs
+  country:
+  - NA
+- name: matcwe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: mateu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: mateue
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: matewe
+  glottocode: tewe1238
+  iso_639_3:
+  - twx
+  country:
+  - MZ
+- name: mateyu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: mathewe
+  glottocode: tewe1238
+  iso_639_3:
+  - twx
+  country:
+  - MZ
+- name: matowe
+  glottocode: tewe1238
+  iso_639_3:
+  - twx
+  country:
+  - MZ
+- name: matsua
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: matswa
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: matxsua
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: maungwe
+  glottocode: many1258
+  iso_639_3:
+  - mxc
+  country:
+  - ZW
+- name: maure
+  glottocode: hass1238
+  iso_639_3:
+  - mey
+  country:
+    - ML
+    - SN
+- name: mba vele
+  glottocode: tuki1240
+  iso_639_3:
+  - bag
+  country:
+  - CM
+- name: mbamois
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mbamoise
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mbang
+  glottocode: bako1249
+  iso_639_3:
+  - bkh
+  country:
+  - CM
+- name: mbatto
+  glottocode: mbat1247
+  iso_639_3:
+  - gwa
+  country:
+  - CI
+- name: mbe mbe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mbebe
+  glottocode: sout2774
+  iso_639_3:
+  - ijs
+  country:
+  - NG
+- name: mbédè
+  glottocode: mber1257
+  iso_639_3:
+  - mdt
+  country:
+  - GA
+- name: mbeere
+  glottocode: embu1241
+  iso_639_3:
+  - ebu
+  country:
+  - KE
+- name: mbem
+  glottocode: yamb1251
+  iso_639_3:
+  - yam
+  country:
+  - CM
+- name: mbembe
+  glottocode: cros1244
+  iso_639_3:
+  - mfn
+  country:
+  - NG
+- name: mbesah
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mbessa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mbo
+  glottocode: mboc1235
+  iso_639_3:
+  - mbo
+  country:
+  - CM
+- name: mbo'o
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mbororo
+  glottocode: nige1253
+  iso_639_3:
+    - fuv
+  country:
+  - CM
+- name: mbouda
+  glottocode: bami1239
+  iso_639_3:
+    - jgo
+    - nla
+    - nnh
+  country:
+  - CM
+- name: mboum
+  glottocode: mbum1254
+  iso_639_3:
+  - mdd
+  country:
+  - CM
+- name: mbu
+  glottocode: ngam1267
+  iso_639_3:
+  - nbv
+  country:
+  - CM
+- name: mbube
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: mbukushu/thimbukushu
+  glottocode: mbuk1240
+  iso_639_3:
+  - mhw
+  country:
+  - NA
+- name: mbulu
+  glottocode: iraq1241
+  iso_639_3:
+  - irk
+  country:
+  - TZ
+- name: mbunda
+  glottocode: mbun1249
+  iso_639_3:
+  - mck
+  country:
+  - ZM
+- name: mdombe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: medindo
+  glottocode: main1272
+  iso_639_3:
+  - cwb
+  country:
+  - MZ
+- name: medoumba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mefewele
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mefi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mekaf
+  glottocode: naki1238
+  iso_639_3:
+  - mff
+  country:
+  - CM
+- name: mendakwe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mende
+  glottocode: mend1266
+  iso_639_3:
+  - men
+  country:
+    - LR
+    - SL
+- name: menka
+  glottocode: piny1238
+  iso_639_3:
+  - pny
+  country:
+  - CM
+- name: meru
+  glottocode: meru1245
+  iso_639_3:
+  - mer
+  country:
+  - KE
+- name:
+  - meru / embu
+  - meru/embu
+  glottocode: cent2274
+  iso_639_3:
+    - ebu
+    - mer
+  country:
+  - KE
+  note: >
+    [Meru](http://glottolog.org/resource/languoid/id/meru1245) and
+    [Embu](http://glottolog.org/resource/languoid/id/embu1241) are
+    both Bantoid languages but on different branches of the
+    [Central Kenya Bantu](http://glottolog.org/resource/languoid/id/cent2274)
+    family.
+
+- name: meru/kimeru
+  glottocode: nucl1245
+  iso_639_3:
+  - mer
+  country:
+  - KE
+  note: >
+    Kimeru is an alternative name for Meru <http://glottolog.org/resource/languoid/id/meru1245>.
+- name: meru/samburu
+  glottocode: meru1245
+  iso_639_3:
+  - mer
+  country:
+  - KE
+  multi: true
+  note: >
+    Meru and Samburu are unrelated languages.
+    [Samburu](http://glottolog.org/resource/languoid/id/samb1315)
+    is a Nilotic language. [Meru](http://glottolog.org/resource/languoid/id/meru1245) is
+    a Bantoid language.
+- name: mesagie
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: meta
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: metsa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: metu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mezima
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mezime
+  glottocode: mpon1254
+  iso_639_3:
+  - mgg
+  country:
+  - CM
+- name: mgas
+  glottocode: ngas1240
+  iso_639_3:
+  - anc
+  country:
+  - NG
+- name: mhalangwe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NA
+- name: miango
+  glottocode: irig1241
+  iso_639_3:
+  - iri
+  country:
+  - NG
+- name: mianka
+  glottocode: mama1271
+  iso_639_3:
+  - myk
+  country:
+  - ML
+- name: michica
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: michika
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: michinka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: migili
+  glottocode: liji1238
+  iso_639_3:
+  - mgi
+  wals:
+  - bir
+  - fye
+  - gwo
+  - kgm
+  - mdz
+  - tok
+  note: >
+    Alt-name for Lijili. https://www.ethnologue.com/country/NG/languages WALS
+    codes are to exclude Platoid and exclude Bantoid genus matches.
+
+  country:
+  - NG
+- name: miguiforet
+  glottocode: mixi1241
+  iso_639_3:
+  - mfg
+  country:
+  - GN
+- name: mijikenda
+  glottocode: miji1238
+  iso_639_3:
+    - coh
+    - dug
+    - nyf
+    - dig
+  country:
+  - KE
+  note: >
+    Use ISO languages corresponding to languages in the Mijikenda family (miji1238)
+    which have Kenya listed as a country.
+- name: mikhifore
+  glottocode: mixi1241
+  iso_639_3:
+  - mfg
+  country:
+  - GN
+- name: mikifore
+  glottocode: mixi1241
+  iso_639_3:
+  - mfg
+  country:
+  - GN
+- name: mikundu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: mina
+  glottocode: genn1243
+  iso_639_3:
+  - gej
+  country:
+    - BJ
+    - TG
+- name: mina (guen)
+  glottocode: genn1243
+  iso_639_3:
+  - gej
+  country:
+  - TG
+- name: minchika
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: minyam
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: mionga
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BF
+- name: misanje
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+
+- name: "mixed - english/afrikaans"
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - ZA
+  multi: true
+- name: miyawa
+  glottocode: miya1266
+  iso_639_3:
+  - mkf
+  country:
+  - NG
+- name: mlemba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: mo
+  glottocode: degg1238
+  iso_639_3:
+  - mzw
+  country:
+  - GH
+- name: moar
+  glottocode: bimo1239
+  iso_639_3:
+  - bim
+  country:
+  - GH
+- name: mobakoh
+  glottocode: mbuk1243
+  iso_639_3:
+  - mqb
+  country:
+  - CM
+- name: mockbie
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: moghagno
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mokaa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: monga
+  glottocode: rong1268
+  iso_639_3:
+  - rng
+  country:
+  - MZ
+- name: monghaka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: moniaco
+  glottocode: makh1265
+  iso_639_3:
+  - mhm
+  country:
+  - MZ
+- name: moniga
+  glottocode: makh1265
+  iso_639_3:
+  - mhm
+  country:
+  - MZ
+- name:
+  - moore
+  - mooré
+  glottocode: moss1236
+  iso_639_3:
+  - mos
+  country:
+  - BF
+
+- name: more than one local language
+  glottocode: null
+  iso_639_3:
+  - mul
+  country:
+  - NA
+- name: morotsi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: moshie
+  glottocode: moss1236
+  iso_639_3:
+  - mos
+  country:
+  - GH
+- name: mossi
+  glottocode: moss1236
+  iso_639_3:
+  - mos
+  country:
+    - GH
+    - ML
+    - TG
+- name: mossicthe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NE
+- name: moudan
+  glottocode: mund1327
+  iso_639_3:
+  - mnf
+  country:
+  - CM
+- name: moudang
+  glottocode: mund1325
+  iso_639_3:
+  - mua
+  country:
+  - CM
+- name: moudani
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: moudini
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+
+- name: moundang
+  glottocode: mund1325
+  iso_639_3:
+  - mua
+  country:
+  - CM
+- name:
+  - mougoum
+  - mousgoum
+  - mousgoun
+  glottocode: musg1254
+  iso_639_3:
+  - mug
+  country:
+  - CM
+
+- name: mozambican
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: mozeuille
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mpongo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mtsua
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: muali
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: muandi
+  glottocode: mwan1247
+  iso_639_3:
+  - wmw
+  country:
+  - MZ
+- name: muani
+  glottocode: mwan1247
+  iso_639_3:
+  - wmw
+  country:
+  - MZ
+- name: muany
+  glottocode: mwan1247
+  iso_639_3:
+  - wmw
+  country:
+  - MZ
+- name: muaui
+  glottocode: mwan1247
+  iso_639_3:
+  - wmw
+  country:
+  - MZ
+- name: muauni
+  glottocode: mwan1247
+  iso_639_3:
+  - wmw
+  country:
+  - MZ
+- name: mubako
+  glottocode: nyon1241
+  iso_639_3:
+  - muo
+  country:
+  - CM
+- name: mubwisi
+  glottocode: tali1258
+  iso_639_3:
+  - tlj
+  country:
+  - UG
+- name: mudele
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mufumbira
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: mufwe
+  glottocode: fwee1238
+  iso_639_3:
+  - fwe
+  country:
+  - NA
+- name: mugaka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: mugishu
+  glottocode: masa1299
+  iso_639_3:
+  - myx
+  country:
+  - UG
+- name: mugungu
+  glottocode: gung1250
+  iso_639_3:
+  - rub
+  country:
+  - UG
+- name: muhera
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: mulambya
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: mulamogi
+  glottocode: soga1242
+  iso_639_3:
+  - xog
+  country:
+  - UG
+- name: mululi
+  glottocode: ruul1235
+  iso_639_3:
+  - ruc
+  country:
+  - UG
+- name: mulundi
+  glottocode: rund1242
+  iso_639_3:
+  - run
+  country:
+  - UG
+- name: mumba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: mumugar
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: mumuye
+  glottocode: nucl1240
+  iso_639_3:
+  - mzm
+  country:
+  - NG
+- name: mundani
+  glottocode: mund1327
+  iso_639_3:
+  - mnf
+  country:
+  - CM
+- name: munga
+  glottocode: makh1265
+  iso_639_3:
+  - mhm
+  country:
+  - MZ
+- name: muni
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: muniga
+  glottocode: makh1265
+  iso_639_3:
+  - mhm
+  country:
+  - MZ
+- name: muninga
+  glottocode: makh1265
+  iso_639_3:
+  - mhm
+  country:
+  - MZ
+- name: munoga
+  glottocode: makh1265
+  iso_639_3:
+  - mhm
+  country:
+  - MZ
+- name: munyabindi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - UG
+- name: munyarwanda
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: munyaya
+  glottocode: orma1241
+  iso_639_3:
+    - orc
+  country:
+  - KE
+- name: mupun
+  glottocode: mwag1236
+  iso_639_3:
+  - sur
+  country:
+  - NG
+- name: muruli
+  glottocode: ruul1235
+  iso_639_3:
+  - ruc
+  country:
+  - UG
+- name: murundi
+  glottocode: rund1242
+  iso_639_3:
+  - run
+  country:
+  - UG
+- name: muryang
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: musgum
+  glottocode: musg1254
+  iso_639_3:
+  - mug
+  country:
+  - CM
+- name: mushangwe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: musungora
+  glottocode: konz1239
+  iso_639_3:
+  - koo
+  country:
+  - UG
+- name: mutagwenda
+  glottocode: nyor1246
+  iso_639_3:
+  - nyo
+  country:
+  - UG
+- name: mutgwenda
+  glottocode: nyor1246
+  iso_639_3:
+  - nyo
+  country:
+  - UG
+- name: mwaghauw
+  glottocode: mwag1236
+  iso_639_3:
+  - sur
+  country:
+  - NG
+- name: mwaghavul
+  glottocode: mwag1236
+  iso_639_3:
+  - sur
+  country:
+  - NG
+- name: mwaghawul
+  glottocode: mwag1236
+  iso_639_3:
+  - sur
+  country:
+  - NG
+- name: mwamba
+  glottocode: amba1263
+  iso_639_3:
+  - rwm
+  country:
+  - UG
+- name: mwangavul
+  glottocode: mwag1236
+  iso_639_3:
+  - sur
+  country:
+  - NG
+- name: myénè
+  glottocode: myen1241
+  iso_639_3:
+  - mye
+  country:
+  - GA
+- name: myungue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: mzema
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - LS
+- name: n'tcha (bassar)
+  glottocode: ntch1242
+  iso_639_3:
+  - bud
+  country:
+  - TG
+- name: nabdam
+  glottocode: fare1241
+  iso_639_3:
+  - gur
+  country:
+  - GH
+- name: nabi
+  glottocode: fare1241
+  iso_639_3:
+  - gur
+  country:
+  - GH
+- name: nafaana
+  glottocode: nafa1258
+  iso_639_3:
+  - nfr
+  country:
+  - GH
+- name: nafana
+  glottocode: nafa1258
+  iso_639_3:
+  - nfr
+  country:
+  - GH
+- name: nahumuru
+  glottocode: chum1261
+  iso_639_3:
+  - ncu
+  country:
+  - GH
+- name: naindo
+  glottocode: main1272
+  iso_639_3:
+  - cwb
+  country:
+  - MZ
+- name: nallou
+  glottocode: nalu1240
+  iso_639_3:
+  - naj
+  country:
+  - GN
+- name: nama
+  glottocode: nama1264
+  iso_639_3:
+  - naq
+  country:
+    - NA
+    - ZW
+- name:
+  - nama / damara
+  - nama/damara
+  glottocode:
+  - nama1264
+  iso_639_3:
+  - naq
+  country:
+  - NA
+  note: >
+    [Damara](http://glottolog.org/resource/languoid/id/dama1270)
+    is a dialect of [Nama](http://glottolog.org/resource/languoid/id/nama1264).
+
+- name:
+  - nambya
+  - nambiya
+  glottocode: namb1291
+  iso_639_3:
+  - nmq
+  country:
+  - ZW
+- name: namica
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: namwanga
+  glottocode: nyam1275
+  iso_639_3:
+  - mwn
+  country:
+    - MW
+    - ZM
+- name: nanba/wanba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: nandi
+  glottocode: nand1266
+  iso_639_3:
+    - niq
+  country:
+  - KE
+- name: nankan
+  glottocode: fare1241
+  iso_639_3:
+  - gur
+  country:
+  - GH
+- name: nankani
+  glottocode: fare1241
+  iso_639_3:
+  - gur
+  country:
+  - GH
+- name: nanum
+  glottocode: dagb1246
+  iso_639_3:
+  - dag
+  country:
+  - GH
+- name: nanumba
+  glottocode: dagb1246
+  iso_639_3:
+  - dag
+  country:
+  - GH
+- name: naoniga
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: natimba
+  glottocode: nate1242
+  iso_639_3:
+  - ntm
+  country:
+  - BJ
+- name: national language
+  glottocode: port1283
+  iso_639_3:
+  - por
+  country:
+  - MZ
+- name: naturalise
+  glottocode: null
+  iso_639_3:
+  - und
+  country:
+  - CI
+- name: nawdem (losso)
+  glottocode: nawd1238
+  iso_639_3:
+  - nmz
+  country:
+  - TG
+- name: nawuri
+  glottocode: nawu1242
+  iso_639_3:
+  - naw
+  country:
+  - GH
+- name: nawurt
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: nbula
+  glottocode: ndoo1241
+  iso_639_3:
+  - ndr
+  country:
+  - NG
+- name: nchang
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: nchani
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: nchanih
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: nchunmuru
+  glottocode: chum1261
+  iso_639_3:
+  - ncu
+  country:
+  - GH
+- name: ndala
+  glottocode: ndoo1241
+  iso_639_3:
+  - ndr
+  country:
+  - NG
+- name: ndali
+  glottocode: ndal1241
+  iso_639_3:
+  - ndh
+  country:
+  - MW
+- name: ndau
+  glottocode: ndau1241
+  iso_639_3:
+  - ndc
+  country:
+    - MZ
+    - ZW
+- name: ndebela
+  glottocode: sout2808
+  iso_639_3:
+  - nbl
+  country:
+  - ZA
+- name: ndebele
+  glottocode: nort2795
+  iso_639_3:
+  - nde
+  country:
+    - BW
+    - NA
+    - ZM
+    - ZW
+- name: ndebele
+  glottocode: sout2808
+  iso_639_3:
+  - nbl
+  country:
+    - LS
+    - SZ
+    - ZA
+- name: ndi
+  glottocode: wawa1246
+  iso_639_3:
+  - www
+  country:
+  - CM
+- name: ndochi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ndola
+  glottocode: ndoo1241
+  iso_639_3:
+  - ndr
+  country:
+  - NG
+- name: ndoro
+  glottocode: ndoo1241
+  iso_639_3:
+  - ndr
+  country:
+  - NG
+- name: nedere
+  glottocode: koma1266
+  iso_639_3:
+  - kmy
+  country:
+  - NG
+- name: nembe
+  glottocode: sout2774
+  iso_639_3:
+  - ijs
+  country:
+  - NG
+- name: neyo
+  glottocode: wewe1238
+  iso_639_3:
+  - wec
+  country:
+  - CI
+- name: ngakarimajong
+  glottocode: kara1483
+  iso_639_3:
+  - kdj
+  country:
+  - UG
+- name: ngam-gam
+  glottocode: ngan1299
+  iso_639_3:
+  - gng
+  country:
+  - TG
+- name: ngambaye
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ngas
+  glottocode: ngas1240
+  iso_639_3:
+  - anc
+  country:
+  - NG
+- name: ngemba
+  glottocode: ngem1255
+  iso_639_3:
+  - nge
+  country:
+  - CM
+- name: ngi
+  glottocode: ngie1242
+  iso_639_3:
+  - ngj
+  country:
+  - CM
+- name: ngoa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ngobale
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ngoni
+  glottocode: ngon1269
+  iso_639_3:
+  - ngo
+  country:
+  - TZ
+- name: ngoni
+  glottocode: ngon1270
+  iso_639_3:
+  - nya
+  country:
+  - MW
+- name: ngoni
+  glottocode: ngon1271
+  iso_639_3:
+  - nse
+  country:
+  - ZM
+- name: ngony
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: ngou
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ngueba
+  glottocode: ngie1241
+  iso_639_3:
+  - nnh
+  country:
+  - CM
+- name: ngumbo
+  glottocode: bemb1257
+  iso_639_3:
+  - bem
+  country:
+  - ZM
+- name: ngungue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nguo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ngwoh
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ngyemboon
+  glottocode: ngie1241
+  iso_639_3:
+  - nnh
+  country:
+  - CM
+- name: nharinga
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: nhugue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nhumgue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nhungoe
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nhungue
+  glottocode: hung1277
+  iso_639_3:
+  - mxc
+  country:
+  - MZ
+- name: nhunguem
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nhungwe
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nhunhue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nhunque
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nigili
+  glottocode: liji1238
+  iso_639_3:
+  - mgi
+  country:
+  - NG
+- name: ningawa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ninzom
+  glottocode: ninz1246
+  iso_639_3:
+  - nin
+  country:
+  - NG
+- name: njikwa
+  glottocode: ngwo1241
+  iso_639_3:
+  - ngn
+  country:
+  - CM
+- name: njumgue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: njungue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: njungur
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nkambe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: nkaya
+  glottocode: nyan1308
+  iso_639_3:
+  - nya
+  country:
+  - ZM
+- name: nkhonde
+  glottocode: nkon1246
+  iso_639_3:
+  - nyy
+  country:
+  - MW
+- name: nkona
+  glottocode: nkon1245
+  iso_639_3:
+  - nko
+  country:
+  - GH
+- name: nkoya
+  glottocode: nkoy1244
+  iso_639_3:
+  - nka
+  country:
+  - ZM
+- name: nkura
+  glottocode: kula1277
+  iso_639_3:
+  - nku
+  country:
+  - GH
+- name: nkwana
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: nkwen
+  glottocode: mend1261
+  iso_639_3:
+  - mfd
+  country:
+  - CM
+- name: nleya zambia
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: nlimbom
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: nnaga eboko
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: noingo
+  glottocode: adan1247
+  iso_639_3:
+  - ada
+  country:
+  - GH
+- name: noni
+  glottocode: noon1243
+  iso_639_3:
+  - nhu
+  country:
+  - CM
+- name: normana
+  glottocode: numa1252
+  iso_639_3:
+  - nbr
+  country:
+  - NG
+- name: north ivie
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: nsahas
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: nsenga
+  glottocode: nucl1377
+  iso_639_3:
+  - nse
+  country:
+  - MZ
+- name: nsenga
+  glottocode: nucl1397
+  iso_639_3:
+  - nse
+  country:
+  - ZM
+- name: nsie
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: nso
+  glottocode: lamn1239
+  iso_639_3:
+  - lns
+  country:
+  - CM
+- name: nswaka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: ntem
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ntenako
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: ntoumou
+  glottocode: ntum1238
+  iso_639_3:
+  - fan
+  country:
+  - CM
+- name:
+  - nubi
+  glottocode: nubi1253
+  iso_639_3:
+  - kcn
+  wals:
+  - nub
+  country:
+  - KE
+  note: >
+    In Kenya and Uganda this probably refers to the Nubi language, which is an Arabic pidgin.
+- name: nubian
+  glottocode: nubi1253
+  iso_639_3:
+  - kcn
+  wals:
+  - nub
+  country:
+    - KE
+    - UG
+  note: >
+    Is this referring to the Nubi language (kcn), a
+    Sudanese arabic based pidgin, or Nubian languages.
+
+    However, this could be Sudanese displaced by war.
+- name: nubian language
+  glottocode: nubi1251
+  iso_639_3:
+  - dgl
+  - fia
+  - ghl
+  - kdu
+  - kko
+  - mei
+  - wll
+  country:
+  - SD
+  note: >
+    Use major ISO languages in the Nubian family.
+    Not included: brk (extinct), Dair (drb) is moribund,
+    Dilling (dil) is moribund, El Hugeirat (elh) is moribund
+    with no monolinguals.
+- name: numana
+  glottocode: numa1252
+  iso_639_3:
+  - nbr
+  country:
+  - NG
+- name: nunga
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: nungu
+  glottocode: nung1292
+  iso_639_3:
+  - rin
+  country:
+  - NG
+- name: nupe
+  glottocode: nupe1254
+  iso_639_3:
+  - nup
+  country:
+  - NG
+- name: nusu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: nuto
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - MZ
+- name: nwangavul
+  glottocode: mwag1236
+  iso_639_3:
+  - sur
+  country:
+  - NG
+- name: nweh
+  glottocode: ngwe1238
+  iso_639_3:
+  - nwe
+  country:
+  - CM
+- name: nyaho (chawa)
+  glottocode: chew1246
+  iso_639_3:
+  - nya
+  country:
+  - ZW
+- name: nyakyusa
+  glottocode: nyak1260
+  iso_639_3:
+  - nyy
+  country:
+  - TZ
+- name: nyala
+  glottocode: east2409
+  iso_639_3:
+    - nle
+  country:
+  - KE
+- name: nyamwezi
+  glottocode: nyam1276
+  iso_639_3:
+  - nym
+  country:
+  - TZ
+- name: nyandang
+  glottocode: yend1241
+  iso_639_3:
+  - ynq
+  country:
+  - NG
+- name: nyanja
+  glottocode: nyan1308
+  iso_639_3:
+  - nya
+  country:
+    - MW
+    - MZ
+    - ZM
+    - ZW
+- name: nyarwanda
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - KE
+- name: nyasa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - KE
+- name: nyasaland
+  glottocode: nyas1241
+  iso_639_3:
+  - nya
+  country:
+  - ZW
+- name: nyem nyem
+  glottocode: suga1248
+  iso_639_3:
+  - sgi
+  country:
+  - CM
+- name: nyemba
+  glottocode: kuan1247
+  iso_639_3:
+  - kua
+  country:
+  - NA
+- name: nyhungue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nyika
+  glottocode: cent2285
+  iso_639_3:
+    - nih
+    - nkv
+  country:
+  - ZM
+- name: nyika
+  glottocode: nyik1246
+  iso_639_3:
+  - nkv
+  country:
+  - MW
+- name: nyokon
+  glottocode: nyok1243
+  iso_639_3:
+  - nvo
+  country:
+  - CM
+- name: nyongue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nyore
+  glottocode: nyor1244
+  iso_639_3:
+    - nyd
+  country:
+  - KE
+- name: nyuenge
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nyugue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nyunge
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nyungue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nyungunhe
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nyungwe
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nyyngue
+  glottocode: nyun1248
+  iso_639_3:
+  - nyu
+  country:
+  - MZ
+- name: nzébi/métié
+  glottocode: njeb1242
+  iso_639_3:
+  - nzb
+  country:
+  - GA
+- name: nzema
+  glottocode: nzim1238
+  iso_639_3:
+  - nzi
+  country:
+  - GH
+- name: nzime
+  glottocode: koon1245
+  iso_639_3:
+  - ozm
+  country:
+  - CM
+- name: obang
+  glottocode: ejag1239
+  iso_639_3:
+  - etu
+  country:
+  - CM
+- name: obodu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: obubra
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: odienneka
+  glottocode: woje1238
+  iso_639_3:
+  - jod
+  country:
+  - CI
+
+- name: ogae
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ogaja
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ogba
+  glottocode: ogba1241
+  iso_639_3:
+  - ogc
+  country:
+  - NG
+- name: ogbia
+  glottocode: ogbi1239
+  iso_639_3:
+  - ogb
+  country:
+  - NG
+- name: ogiek
+  glottocode: okie1245
+  iso_639_3:
+    - oki
+  country:
+  - KE
+- name: ogoja
+  glottocode: yala1263
+  iso_639_3:
+  - yba
+  country:
+  - NG
+- name: ogoni
+  glottocode: khan1278
+  iso_639_3:
+  - ogo
+  country:
+  - NG
+- name: ohafia
+  glottocode: nucl1417
+  iso_639_3:
+  - ibo
+  country:
+  - NG
+- name: okebu
+  glottocode: ndoo1242
+  iso_639_3:
+  - ndp
+  country:
+  - UG
+- name: okirika
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: okjiherero
+  glottocode: here1253
+  iso_639_3:
+  - her
+  country:
+  - NA
+- name: okpe
+  glottocode: okpe1250
+  iso_639_3:
+  - oke
+  country:
+  - NG
+- name: okpella
+  glottocode: ivbi1241
+  iso_639_3:
+  - atg
+  country:
+  - NG
+- name: okre
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: okrika
+  glottocode: kiri1254
+  iso_639_3:
+  - okr
+  country:
+  - NG
+- name: oku
+  glottocode: okuu1243
+  iso_639_3:
+  - oku
+  country:
+  - CM
+- name: okun
+  glottocode: yoru1245
+  iso_639_3:
+  - yor
+  country:
+  - NG
+- name: olukumi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ombach
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - UG
+- name: omoku
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: once
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: opobo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: ora
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: oroko
+  glottocode: orok1266
+  iso_639_3:
+  - bdu
+  country:
+  - CM
+- name: oroma
+  glottocode: waat1239
+  iso_639_3:
+    - orc
+  country:
+  - KE
+  note: >
+    Probably Orma, the Oromo language spoken in Kenya.
+
+    Use the Glottolog dialect of Orma that lists Kenya in its name, similar http://glottolog.org/resource/languoid/id/waat1239.
+- name: oron
+  glottocode: oroo1241
+  iso_639_3:
+  - orx
+  country:
+  - NG
+- name: oshe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: oshie
+  glottocode: ngos1238
+  iso_639_3:
+  - nsh
+  country:
+  - CM
+- name: oshiwambo
+  glottocode: kuan1247
+  iso_639_3:
+  - kua
+  country:
+  - NA
+- name: oshiwambo (oshindonga/oshikwanyama)
+  glottocode: ndon1253
+  iso_639_3:
+    - kua
+    - ndo
+  country:
+  - NA
+- name: ososo
+  glottocode: osos1238
+  iso_639_3:
+  - oso
+  country:
+  - NG
+- name: otamari
+  glottocode: dita1238
+  iso_639_3:
+  - tbz
+  country:
+  - BJ
+
+- name: other eastern languages
+  glottocode: null
+  iso_639_3:
+  - und
+  country:
+  - UG
+- name: other kavango:rugririku
+  glottocode: diri1252
+  iso_639_3:
+  - diu
+  country:
+  - NA
+- name: other kavango:thimbukushu
+  glottocode: mbuk1240
+  iso_639_3:
+  - mhw
+  country:
+  - NA
+- name: other northern languages
+  glottocode: null
+  iso_639_3:
+  - und
+  country:
+    - GH
+    - UG
+- name: other western languages
+  glottocode: null
+  iso_639_3:
+  - und
+  country:
+  - UG
+
+- name: otjiherero
+  glottocode: here1253
+  iso_639_3:
+  - her
+  country:
+    - BW
+    - NA
+- name: ouatchi
+  glottocode: waci1239
+  iso_639_3:
+  - wci
+  country:
+  - TG
+- name: outamari
+  glottocode: dita1238
+  iso_639_3:
+  - tbz
+  country:
+  - BJ
+- name: outra lingua
+  glottocode: null
+  iso_639_3:
+  - und
+  country:
+  - MZ
+- name: outras linguas
+  glottocode: null
+  iso_639_3:
+  - und
+  country:
+  - MZ
+- name: ovambo languages
+  glottocode: kuan1247
+  iso_639_3:
+  - kua
+  country:
+  - NA
+- name: owan
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: pakistanais
+  glottocode: guja1252
+  iso_639_3:
+  - guj
+  country:
+  - MG
+- name: panso
+  glottocode: lamn1239
+  iso_639_3:
+  - lns
+  country:
+  - NG
+- name: parakarungu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: pare
+  glottocode: asut1235
+  iso_639_3:
+  - asa
+  country:
+  - TZ
+- name: pashto
+  glottocode: nort2646
+  iso_639_3:
+    - pbu
+    - pus
+  country:
+  - ZA
+- name: pedi
+  glottocode: pedi1238
+  iso_639_3:
+  - nso
+  country:
+  - ZA
+- name: pedi/north sotho
+  glottocode: pedi1238
+  iso_639_3:
+  - nso
+  country:
+  - ZA
+- name: pedi/spedi/ north sotho
+  glottocode: pedi1238
+  iso_639_3:
+  - nso
+  country:
+  - ZA
+- name: pedi/spedi/north sotho
+  glottocode: pedi1238
+  iso_639_3:
+  - nso
+  country:
+  - ZA
+- name: pepele
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SN
+- name:
+  - fulfulde/peul
+  - peugl/fulfulde
+  - peuhl
+  - peuhl/fulfulde
+  - peulh / fulfude
+  - peulh/ fulfulde
+  - peulh/fulfude
+  glottocode: maas1239
+  iso_639_3:
+  - ffm
+  wals:
+  - fum
+  country:
+  - ML
+
+- name: peul
+  glottocode: borg1235
+  iso_639_3:
+  - fue
+  country:
+  - TG
+
+- name: peulh
+  glottocode: borg1235
+  iso_639_3:
+  - fue
+  country:
+  - TG
+- name: peulh
+  glottocode: fula1264
+  iso_639_3:
+  - fue
+  - fuh
+  country:
+  - BJ
+- name: peulh
+  glottocode: maas1239
+  iso_639_3:
+  - ffm
+  wals:
+  - fum
+  country:
+  - CI
+
+- name: pidgin
+  glottocode: came1254
+  iso_639_3:
+  - wes
+  country:
+  - CM
+- name: pidgin english
+  glottocode: nige1257
+  iso_639_3:
+  - pcm
+  wals:
+  - npi
+  country:
+  - NG
+
+- name: pinyin
+  glottocode: piny1238
+  iso_639_3:
+  - pny
+  country:
+  - CM
+
+- name: poetugues e xitsua
+  glottocode: port1283
+  iso_639_3:
+  - por
+  country:
+  - MZ
+- name: pokomo
+  glottocode: poko1261
+  iso_639_3:
+  - pkb
+  country:
+  - KE
+- name: pokot
+  glottocode: poko1263
+  iso_639_3:
+  - pko
+  wals:
+  - pkt
+  country:
+  - KE
+- name:
+  - portueguese
+  - portugais
+  - portugues
+  - português
+  - portuguese
+  glottocode: port1283
+  iso_639_3:
+  - por
+  country:
+  - NA
+  - SN
+  - CV
+  - BW
+  - CV
+  - KE
+  - MG
+  - MW
+  - MZ
+  - NA
+  - SN
+  - ST
+  - SZ
+  - TZ
+  - UG
+  - ZA
+  - ZM
+  - ZW
+- name: portugues e outras linguas
+  glottocode: port1283
+  iso_639_3:
+  - por
+  country:
+  - MZ
+
+- name: portugues e sena
+  glottocode: port1283
+  iso_639_3:
+  - por
+  country:
+  - MZ
+
+- name: pougouli
+  glottocode: phui1238
+  iso_639_3:
+  - pug
+  country:
+  - BF
+
+- name:
+  - pulaar
+  - pulaar/toucouleur
+  - pular
+  glottocode: pula1263
+  iso_639_3:
+  - fuc
+  wals:
+  - fus
+  country:
+  - SN
+
+- name: punjabi
+  glottocode: panj1256
+  iso_639_3:
+  - pan
+  country:
+  - KE
+- name: punu/mériè
+  glottocode: punu1239
+  iso_639_3:
+  - puu
+  country:
+  - GA
+- name: pyam
+  glottocode: fyam1238
+  iso_639_3:
+  - pym
+  country:
+  - NG
+- name: pyem
+  glottocode: fyam1238
+  iso_639_3:
+  - pym
+  country:
+  - NG
+- name: quimuane
+  glottocode: mwan1247
+  iso_639_3:
+  - wmw
+  country:
+  - MZ
+
+- name: rendere
+  glottocode: nung1292
+  iso_639_3:
+  - rin
+  country:
+  - NG
+- name: rendile
+  glottocode: rend1243
+  iso_639_3:
+  - rel
+  country:
+  - KE
+- name: rendille
+  glottocode: rend1243
+  iso_639_3:
+  - rel
+  country:
+  - KE
+- name: ron
+  glottocode: ronn1241
+  iso_639_3:
+  - cla
+  country:
+  - NG
+- name: ronga
+  glottocode: rong1268
+  iso_639_3:
+  - rng
+  country:
+  - MZ
+- name: rufumbia
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: rufumbiira
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: rufumbira
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: rugisu
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: rugririku
+  glottocode: diri1252
+  iso_639_3:
+  - diu
+  country:
+  - NA
+- name: rugririku/rumanyo
+  glottocode: diri1252
+  iso_639_3:
+  - diu
+  country:
+  - NA
+- name: ruhororo
+  glottocode: nyan1307
+  iso_639_3:
+  - nyn
+  country:
+  - UG
+- name: rukiga
+  glottocode: chig1238
+  iso_639_3:
+  - cgg
+  country:
+  - UG
+- name: rukonjo
+  glottocode: konz1239
+  iso_639_3:
+  - koo
+  country:
+  - UG
+- name: rukonzo
+  glottocode: konz1239
+  iso_639_3:
+  - koo
+  country:
+  - UG
+- name: rukuba
+  glottocode: chee1238
+  iso_639_3:
+  - ruk
+  country:
+  - NG
+- name: rukwangali
+  glottocode: kwan1273
+  iso_639_3:
+  - kwn
+  country:
+  - NA
+- name: rululi
+  glottocode: ruul1235
+  iso_639_3:
+  - ruc
+  country:
+  - UG
+- name: rulundi
+  glottocode: rund1242
+  iso_639_3:
+  - run
+  country:
+  - UG
+- name: rumbundu
+  glottocode: umbu1257
+  iso_639_3:
+  - umb
+  country:
+  - NA
+- name: rungungu
+  glottocode: gung1250
+  iso_639_3:
+  - rub
+  country:
+  - UG
+- name: runyankole
+  glottocode: nyan1307
+  iso_639_3:
+  - nyn
+  country:
+  - UG
+- name: runyankole - rukiga
+  glottocode: nkor1241
+  iso_639_3:
+    - cgg
+    - nyn
+  country:
+  - UG
+- name: runyankole-rukiga
+  glottocode: nyan1307
+  iso_639_3:
+  - nyn
+  country:
+  - UG
+- name: runyankore-rukiga
+  glottocode: nkor1241
+  iso_639_3:
+  - cgg
+  country:
+  - UG
+- name: runyarwanda
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: runyolo
+  glottocode: nyor1246
+  iso_639_3:
+  - nyo
+  country:
+  - UG
+- name: runyoro
+  glottocode: nyor1246
+  iso_639_3:
+  - nyo
+  country:
+  - UG
+- name: runyoro - rutooro
+  glottocode: nyor1247
+  iso_639_3:
+    - nyo
+    - ttj
+  country:
+  - UG
+- name: runyoro-rutooro
+  glottocode: nyor1247
+  iso_639_3:
+  - nyo
+  country:
+  - UG
+- name: ruruli
+  glottocode: ruul1235
+  iso_639_3:
+  - ruc
+  country:
+  - UG
+- name: rusongora
+  glottocode: konz1239
+  iso_639_3:
+  - koo
+  country:
+  - UG
+- name: rutagwenda
+  glottocode: ruta1240
+  iso_639_3:
+  - nyo
+  country:
+  - UG
+- name: rutooro
+  glottocode: toor1238
+  iso_639_3:
+  - ttj
+  country:
+  - UG
+- name: rutoro
+  glottocode: toor1238
+  iso_639_3:
+  - ttj
+  country:
+  - UG
+- name: ruyankole
+  glottocode: nyan1307
+  iso_639_3:
+  - nyn
+  country:
+  - UG
+- name: rwamba
+  glottocode: amba1263
+  iso_639_3:
+  - rwm
+  country:
+  - UG
+- name: rwandese
+  glottocode: kiny1244
+  iso_639_3:
+  - kin
+  country:
+  - UG
+- name: sabaot
+  glottocode: saba1262
+  iso_639_3:
+    - spy
+  country:
+  - KE
+- name: sabiny
+  glottocode: kups1238
+  iso_639_3:
+  - kpz
+  country:
+  - UG
+- name: saboti
+  glottocode: saba1262
+  iso_639_3:
+    - spy
+  country:
+  - KE
+- name: sala
+  glottocode: sala1266
+  iso_639_3:
+  - shq
+  country:
+  - ZM
+- name: sambla
+  glottocode: seek1238
+  iso_639_3:
+  - sos
+  country:
+  - BF
+- name: samia
+  glottocode: saam1283
+  iso_639_3:
+    - lsm
+  country:
+  - UG
+- name: samia-lugwe
+  glottocode: saam1283
+  iso_639_3:
+    - lsm
+  country:
+  - UG
+- name: samo
+  glottocode: mand1437
+  iso_639_3:
+    - sbd
+    - stj
+    - sym
+  country:
+  - BF
+- name: samogo
+  glottocode: duun1242
+  iso_639_3:
+  - dux
+  country:
+  - ML
+- name: samoko
+  glottocode: duun1242
+  iso_639_3:
+  - dux
+  country:
+  - ML
+- name: samoro
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: sampa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: san
+  glottocode: juho1239
+  iso_639_3:
+  - ktz
+  wals:
+  - juh
+  country:
+  - NA
+  note: >
+    This is problematic. The San speak languages from the Khoe, Kx'a, and Tuu language families. https://en.wikipedia.org/wiki/San_people.
+
+    This can refer to various Khoe-san languages. But, Khoekoe (naq) is included as Nama in Afrobarometer.
+    Ju|''hoansi is a recognized language, so it''s used.'
+
+    https://www.ethnologue.com/country/NA/languages lists these
+    languages from the Tuu, Kx'a, and Khoe-Kwandi families.
+
+    - !Xóõ (nmn) Tuu, Taa
+    - Northwestern !Kung (vaj) Kx'a, !Kung
+    - Naro (nhr) Khoe-Kwadi, Khoe, Kalahari Khoe, Southwest.
+    - Kung-Ekoka (knw) Kx’a, !Kung
+    - Khwedam (xuu)  Khoe-Kwadi, Khoe, Kalahari Khoe, Northwes
+    - Khoekhoe (naq) Khoe-Kwadi, Khoe, Khoekhoe, Nama.
+    - Ju|’hoansi (ktz) Kx’a, !Kung
+    - Hai||om (hgm) Khoe-Kwadi, Khoe, Khoekhoe, Hainum.
+
+    Khoekhoe is already inclueded as Nama that round.
+    Ju|’hoansi is the only recognized language of the remaining
+    San languages.
+
+
+- name: sanaga
+  glottocode: tuki1240
+  iso_639_3:
+  - bag
+  country:
+  - CM
+- name: sapo
+  glottocode: sapo1251
+  iso_639_3:
+  - krn
+  country:
+  - LR
+- name: sara
+  glottocode: ngam1268
+  iso_639_3:
+  - sba
+  country:
+  - CM
+- name: sarpo
+  glottocode: sapo1251
+  iso_639_3:
+  - krn
+  country:
+  - LR
+- name: sawa
+  glottocode: dual1243
+  iso_639_3:
+  - dua
+  country:
+  - CM
+- name: sayawa
+  glottocode: saya1246
+  iso_639_3:
+  - say
+  country:
+  - NG
+- name: sebanderu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: sebirwa
+  glottocode: birw1238
+  iso_639_3:
+  - brl
+  country:
+  - BW
+- name: sebolongwe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: sefwi
+  glottocode: sehw1238
+  iso_639_3:
+  - sfw
+  country:
+  - GH
+- name: sefwi/sehwi
+  glottocode: sehw1238
+  iso_639_3:
+  - sfw
+  country:
+  - GH
+- name: segxereku
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: seherero
+  glottocode: here1253
+  iso_639_3:
+  - her
+  country:
+  - BW
+- name: sekalanga
+  glottocode: kala1384
+  iso_639_3:
+  - kck
+  country:
+  - BW
+- name: sekgaladi
+  glottocode: nucl1377
+  iso_639_3:
+  - xkv
+  country:
+  - BW
+- name: sekgalagadi
+  glottocode: nucl1377
+  iso_639_3:
+  - xkv
+  country:
+  - BW
+- name: sekgothu
+  glottocode: nama1264
+  iso_639_3:
+  - naq
+  country:
+  - BW
+- name: sekhurutsi
+  glottocode: tswa1253
+  iso_639_3:
+  - tsn
+  country:
+  - BW
+- name: sekolong
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: sembukushu
+  glottocode: mbuk1240
+  iso_639_3:
+  - mhw
+  country:
+  - BW
+- name: sena
+  glottocode: mala1475
+  iso_639_3:
+  - swk
+  country:
+  - MW
+- name: sena
+  glottocode: nsen1242
+  iso_639_3:
+  - nse
+  country:
+  - ZW
+- name: sena
+  glottocode: nucl1396
+  iso_639_3:
+  - seh
+  country:
+  - MZ
+- name: sena e portugues
+  glottocode: nucl1396
+  iso_639_3:
+  - seh
+  country:
+  - MZ
+- name: senajwa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: senanjwa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: senga
+  glottocode: nucl1397
+  iso_639_3:
+  - nse
+  country:
+  - ZM
+- name: senga
+  glottocode: seng1277
+  iso_639_3:
+  - tum
+  country:
+  - MW
+- name: sengologa
+  glottocode: ngol1245
+  iso_639_3:
+  - xkv
+  country:
+  - BW
+- name: senoufo
+  glottocode: senu1239
+  iso_639_3:
+    - kza
+    - sen
+    - sep
+    - seq
+    - xrb
+  country:
+  - BF
+- name: sénoufo
+  glottocode: senu1239
+  iso_639_3:
+    - dyi
+    - plr
+    - seb
+    - sef
+    - sev
+    - tgw
+  country:
+  - CI
+- name: sénoufo
+  glottocode: senu1239
+  iso_639_3:
+    - kza
+    - sen
+    - sep
+    - seq
+    - xrb
+  country:
+  - BF
+- name: senufo
+  glottocode: nort3254
+  iso_639_3:
+    - myk
+    - shz
+    - spp
+  country:
+  - ML
+- name: senufo/ mianka
+  glottocode: mama1271
+  iso_639_3:
+  - myk
+  country:
+  - ML
+- name: senya
+  glottocode: awut1241
+  iso_639_3:
+  - afu
+  country:
+  - GH
+
+- name:
+  - sepedi
+  - sepedi/n.sotho
+  glottocode: pedi1238
+  iso_639_3:
+  - nso
+  country:
+    - BW
+    - NA
+    - ZA
+- name: sephotsa
+  glottocode: xhos1239
+  iso_639_3:
+  - xho
+  country:
+  - LS
+
+- name:
+  - sephuthi
+  - sephuti
+  - seputhi
+  - seputi
+  glottocode: swat1243
+  iso_639_3:
+  - ssw
+  country:
+  - LS
+
+- name:
+  - serer
+  - serere
+  glottocode: sere1260
+  iso_639_3:
+  - srr
+  country:
+  - SN
+
+- name: sesarwa
+  glottocode: tsoa1238
+  iso_639_3:
+  - hio
+  country:
+  - BW
+- name: seshona
+  glottocode: shon1251
+  iso_639_3:
+  - sna
+  country:
+  - BW
+- name: sesobea
+  glottocode: subi1246
+  iso_639_3:
+  - sbs
+  country:
+  - BW
+- name: sesobeya
+  glottocode: subi1246
+  iso_639_3:
+  - sbs
+  country:
+  - BW
+
+- name:
+  - sesotho
+  - sesotho/south sotho
+  - sesotho/sotho/south sotho
+  - sesotho/sotho/ south sotho
+  - sesotho,sotho, s.sotho
+  glottocode: sout2807
+  iso_639_3:
+  - sot
+  country:
+  - BW
+  - LS
+  - ZA
+  - ZA
+- name: sesubia
+  glottocode: subi1246
+  iso_639_3:
+  - sbs
+  country:
+  - BW
+- name: setebele
+  glottocode: nort2795
+  iso_639_3:
+  - nde
+  country:
+  - BW
+- name: sethepu
+  glottocode: them1241
+  iso_639_3:
+  - xho
+  country:
+  - LS
+- name: setlharo
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: setlharwa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: setsonga
+  glottocode: tson1249
+  iso_639_3:
+  - tso
+  country:
+  - ZA
+
+- name:
+  - setswana
+  - setswana/ tswana
+  - setswana/tswana
+  glottocode: tswa1253
+  iso_639_3:
+  - tsn
+  country:
+  - ZA
+
+- name: setswapong
+  glottocode: tswa1237
+  iso_639_3:
+  - two
+  country:
+  - BW
+- name: sexhereko
+  glottocode: here1253
+  iso_639_3:
+  - her
+  country:
+  - BW
+- name: sexhosa
+  glottocode: xhos1239
+  iso_639_3:
+  - xho
+  country:
+  - BW
+- name: seyei
+  glottocode: yeyi1239
+  iso_639_3:
+  - yey
+  country:
+  - BW
+- name: seyeyi
+  glottocode: yeyi1239
+  iso_639_3:
+  - yey
+  country:
+  - BW
+- name: sezezuru
+  glottocode: zezu1238
+  iso_639_3:
+  - sna
+  country:
+  - BW
+- name: sezuru
+  glottocode: zezu1238
+  iso_639_3:
+  - sna
+  country:
+  - BW
+- name: shabe
+  glottocode: edec1238
+  iso_639_3:
+  - cbj
+  country:
+  - BJ
+- name: shangaan
+  glottocode: chan1318
+  iso_639_3:
+  - tso
+  country:
+    - SZ
+    - ZA
+    - ZW
+- name: shangaan/tsonga
+  glottocode: tson1249
+  iso_639_3:
+  - tso
+  country:
+  - ZA
+- name: shangaan/tsonga/ronga/tswa
+  glottocode: tswa1254
+  iso_639_3:
+    - tsc
+    - tso
+  country:
+    - ZA
+    - ZW
+- name: shangani
+  glottocode: chan1318
+  iso_639_3:
+  - tso
+  country:
+  - ZW
+- name: shangwe
+  glottocode: shon1251
+  iso_639_3:
+  - sna
+  country:
+  - ZW
+- name: shelshel
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - KE
+- name: sherbo
+  glottocode: sher1258
+  iso_639_3:
+  - bun
+  country:
+  - SL
+- name: sherbro
+  glottocode: sher1258
+  iso_639_3:
+  - bun
+  country:
+  - SL
+- name: shila
+  glottocode: taab1238
+  iso_639_3:
+  - tap
+  country:
+  - ZM
+- name: shimakonde
+  glottocode: mako1251
+  iso_639_3:
+  - kde
+  country:
+  - MZ
+- name: shona
+  glottocode: ndau1241
+  iso_639_3:
+  - ndc
+  country:
+  - MZ
+- name: shona
+  glottocode: shon1251
+  iso_639_3:
+  - sna
+  country:
+    - BW
+    - NA
+    - ZM
+    - ZW
+- name: shona & ndebele
+  glottocode: shon1251
+  iso_639_3:
+  - sna
+  country:
+  - ZW
+- name: shona, cheua
+  glottocode: shon1251
+  iso_639_3:
+  - sna
+  country:
+  - MZ
+- name: shona/sezuru
+  glottocode: shon1251
+  iso_639_3:
+  - sna
+  country:
+  - BW
+- name: shuwa
+  glottocode: chad1249
+  iso_639_3:
+    - shu
+  country:
+  - NG
+- name: shuwa arab
+  glottocode: chad1249
+  iso_639_3:
+    - shu
+  country:
+  - NG
+- name: siaka
+  glottocode: koya1253
+  iso_639_3:
+  - kga
+  country:
+  - CI
+- name: sidawa
+  glottocode: saya1246
+  iso_639_3:
+  - say
+  country:
+  - NG
+- name: sidombe
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZW
+- name: sifwe
+  glottocode: fwee1238
+  iso_639_3:
+  - fwe
+  country:
+  - NA
+- name: silozi
+  glottocode: lozi1239
+  iso_639_3:
+  - loz
+  country:
+    - BW
+    - NA
+    - ZM
+- name: siluchazi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+
+- name: sirka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TG
+- name: sisaala
+  glottocode: sisa1248
+  iso_639_3:
+    - sil
+    - ssl
+  country:
+  - GH
+- name: sisila
+  glottocode: sisa1248
+  iso_639_3:
+    - sil
+    - ssl
+  country:
+  - GH
+- name: sissaba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BF
+- name: sissala
+  glottocode: sisa1248
+  iso_639_3:
+    - sil
+    - ssl
+  country:
+  - GH
+- name: sissali
+  glottocode: sisa1248
+  iso_639_3:
+    - sil
+    - ssl
+  country:
+  - GH
+- name: siswati
+  glottocode: swat1243
+  iso_639_3:
+  - ssw
+  country:
+    - SZ
+    - ZA
+- name: siswazi
+  glottocode: swat1243
+  iso_639_3:
+  - ssw
+  country:
+  - ZA
+- name: siyawa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+
+- name: so'o
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: sokouya
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: sola
+  glottocode: miyo1238
+  iso_639_3:
+  - soy
+  country:
+    - BJ
+    - TG
+- name: soli
+  glottocode: soli1239
+  iso_639_3:
+  - sby
+  country:
+  - ZM
+- name: somali
+  glottocode: soma1255
+  iso_639_3:
+  - som
+  country:
+  - KE
+- name: someja
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: sonike
+  glottocode: soni1259
+  iso_639_3:
+  - snk
+  country:
+  - SN
+- name: sonink
+  glottocode: soni1259
+  iso_639_3:
+  - snk
+  country:
+  - ML
+- name: soninke
+  glottocode: soni1259
+  iso_639_3:
+  - snk
+  country:
+    - ML
+    - SN
+- name: soninké
+  glottocode: soni1259
+  iso_639_3:
+  - snk
+  country:
+  - ML
+- name: soninké / sarakollé
+  glottocode: soni1259
+  iso_639_3:
+  - snk
+  country:
+  - ML
+- name: soninke/ sarakoll
+  glottocode: soni1259
+  iso_639_3:
+  - snk
+  country:
+  - ML
+- name: soninké/sarakolé
+  glottocode: soni1259
+  iso_639_3:
+  - snk
+  country:
+  - ML
+- name:
+  - sonra
+  - sonrai
+  glottocode: humb1243
+  iso_639_3:
+  - hmb
+  country:
+  - BF
+
+- name:
+  - sonrha
+  - sonrhai
+  - sonrhaï
+  glottocode: song1307
+  iso_639_3:
+  - hmb
+  - khq
+  - ses
+  wals:
+  - kch
+  - kse
+  country:
+  - ML
+
+- name: soro
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: sotho
+  glottocode: pedi1238
+  iso_639_3:
+  - nso
+  country:
+  - ZW
+- name: sotho/south sotho
+  glottocode: sout2807
+  iso_639_3:
+  - sot
+  country:
+  - ZA
+- name: soussou
+  glottocode: susu1250
+  iso_639_3:
+  - sus
+  country:
+  - GN
+  - SN
+- name: standard english
+  glottocode: stan1293
+  iso_639_3:
+  - eng
+  country:
+  - LR
+  note: >
+    The modifier "standard" is used to distinguish English from Liberian (pidgin) English.
+
+- name: suba
+  glottocode: suba1238
+  iso_639_3:
+  - sxb
+  country:
+  - KE
+
+- name: sukuma
+  glottocode: suku1261
+  iso_639_3:
+  - suk
+  country:
+  - TZ
+- name: sukwa
+  glottocode: ndal1241
+  iso_639_3:
+  - ndh
+  country:
+  - MW
+- name: susu
+  glottocode: susu1250
+  iso_639_3:
+  - sus
+  country:
+  - SL
+- name: suthu
+  glottocode: tswa1253
+  iso_639_3:
+  - tsn
+  country:
+  - ZW
+- name: swahili
+  glottocode: swah1253
+  iso_639_3:
+    - swh
+  country:
+    - BI
+    - KE
+    - SZ
+    - TZ
+    - UG
+  note: >
+    Use Swaili (swh) for Swahili everywhere
+    but DRC and Zambia.
+- name: swahili
+  glottocode: cong1236
+  iso_639_3:
+  - swc
+  country:
+  - ZM
+  note: >
+    Ethnologue lists Congo Swahili as the form of
+    Swahili spoken in Zambia.
+- name: swaka
+  glottocode: lala1264
+  iso_639_3:
+  - leb
+  country:
+  - ZM
+- name: swazi
+  glottocode: swat1243
+  iso_639_3:
+  - ssw
+  country:
+    - MZ
+    - ZA
+    - ZM
+    - ZW
+- name: taba
+  glottocode: idun1241
+  iso_639_3:
+  - ldb
+  country:
+  - NG
+- name: tabwa
+  glottocode: taab1238
+  iso_639_3:
+  - tap
+  country:
+  - ZM
+- name: tacuane
+  glottocode: takw1238
+  iso_639_3:
+  - tke
+  country:
+  - MZ
+- name: tagbana
+  glottocode: tagw1240
+  iso_639_3:
+  - tgw
+  country:
+  - CI
+- name: tagbanan
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: taita
+  glottocode: tait1250
+  iso_639_3:
+  - dav
+  country:
+  - KE
+- name: talensi
+  glottocode: fare1241
+  iso_639_3:
+  - gur
+  country:
+  - GH
+- name: tamacheck
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BF
+- name: tamasheq
+  glottocode: tuar1240
+  iso_639_3:
+    - taq
+    - ttq
+  country:
+  - ML
+  note: >
+    For ISO 639-3, langauges in the [Tamashek macrolanguage](https://www.ethnologue.com/language/tmh)
+    listed as being spoken in Mali.
+- name: tamasheq
+  glottocode: tuar1240
+  iso_639_3:
+    - thv
+    - thz
+    - ttq
+  country:
+  - NE
+- name: tamazight
+  glottocode: cent2194
+  iso_639_3:
+    - tzm
+    - zgh
+  country:
+  - MA
+- name: tamazight
+  glottocode: kaby1243
+  iso_639_3:
+  - kab
+  country:
+  - DZ
+- name: tamberma
+  glottocode: dita1238
+  iso_639_3:
+  - tbz
+  country:
+  - TG
+- name: tampulma
+  glottocode: tamp1252
+  iso_639_3:
+  - tpm
+  country:
+  - GH
+- name: tanala
+  glottocode: tana1285
+  iso_639_3:
+    - plt
+  country:
+  - MG
+  note: >
+    Tanala is a dialect of [Plateau Malagasy](https://www.ethnologue.com/language/plt).
+- name: tanchoni
+  glottocode: tach1242
+  iso_639_3:
+    - lts
+  country:
+  - KE
+- name: tanda
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SN
+- name: tangale
+  glottocode: nucl1696
+  iso_639_3:
+  - tan
+  country:
+  - NG
+- name: tangali
+  glottocode: nucl1696
+  iso_639_3:
+  - tan
+  country:
+  - NG
+- name: tangoa
+  glottocode: otan1238
+  iso_639_3:
+  - uta
+  country:
+  - NG
+- name: tanzanian
+  glottocode: swah1253
+  iso_639_3:
+    - swh
+  country:
+  - UG
+  note: >
+    Swahili is the national language of Tanzania.
+- name: tapulsi
+  glottocode: tamp1252
+  iso_639_3:
+  - tpm
+  country:
+  - GH
+- name: tarah
+  glottocode: tera1251
+  iso_639_3:
+  - ttr
+  country:
+  - NG
+- name: taroh
+  glottocode: taro1263
+  iso_639_3:
+  - yer
+  country:
+  - NG
+- name: tarok
+  glottocode: taro1263
+  iso_639_3:
+  - yer
+  country:
+  - NG
+- name: taura (mozambican)
+  glottocode: tawa1270
+  iso_639_3:
+  - twl
+  country:
+  - ZW
+- name: taveta
+  glottocode: tave1240
+  iso_639_3:
+  - tvs
+  country:
+  - KE
+- name: tchamba
+  glottocode: akas1242
+  iso_639_3:
+  - aks
+  country:
+  - TG
+- name: tchang
+  glottocode: yemb1246
+  iso_639_3:
+  - ybb
+  country:
+  - CM
+- name: tcheddere
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GN
+
+- name: tchokossi
+  glottocode: anuf1239
+  iso_639_3:
+  - cko
+  country:
+  - TG
+- name: tchpkossi (anoufom)
+  glottocode: anuf1239
+  iso_639_3:
+  - cko
+  country:
+  - TG
+- name: tchthewa
+  glottocode: chew1246
+  iso_639_3:
+  - nya
+  country:
+  - MZ
+- name: tem (kotokoli)
+  glottocode: temm1241
+  iso_639_3:
+  - kdh
+  country:
+  - TG
+- name: temberma
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TG
+- name: temne
+  glottocode: timn1235
+  iso_639_3:
+  - tem
+  country:
+  - SL
+- name: teninka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: tera
+  glottocode: tera1251
+  iso_639_3:
+  - ttr
+  country:
+  - NG
+- name: teso
+  glottocode: teso1249
+  iso_639_3:
+  - teo
+  country:
+  - KE
+- name: tewe
+  glottocode: tewe1238
+  iso_639_3:
+  - twx
+  country:
+  - MZ
+- name: tharaka
+  glottocode: thar1283
+  iso_639_3:
+  - thk
+  country:
+  - KE
+- name: thimbukushu
+  glottocode: mbuk1240
+  iso_639_3:
+  - mhw
+  country:
+  - NA
+- name: tigum
+  glottocode: tigo1236
+  iso_639_3:
+  - nza
+  country:
+  - NG
+- name: tigun
+  glottocode: tigo1236
+  iso_639_3:
+  - nza
+  country:
+  - NG
+- name: tikar
+  glottocode: tika1246
+  iso_639_3:
+  - tik
+  country:
+  - CM
+- name: tikari
+  glottocode: tika1246
+  iso_639_3:
+  - tik
+  country:
+  - CM
+- name: timbru
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: tiriki
+  glottocode: idak1243
+  iso_639_3:
+    - ida
+  country:
+  - KE
+- name: tiv
+  glottocode: tivv1240
+  iso_639_3:
+  - tiv
+  country:
+  - NG
+- name: tjimbanderu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BW
+- name: tokaleya
+  glottocode: tong1318
+  iso_639_3:
+  - toi
+  country:
+  - ZM
+- name: toma
+  glottocode: toma1245
+  iso_639_3:
+  - tod
+  country:
+  - GN
+- name: toma mania
+  glottocode: toma1245
+  iso_639_3:
+  - tod
+  country:
+  - GN
+- name: tombolon
+  glottocode: tamp1252
+  iso_639_3:
+  - tpm
+  country:
+  - GH
+- name: tonga
+  glottocode: tong1318
+  iso_639_3:
+  - toi
+  wals:
+  - toz
+  country:
+    - ZM
+    - ZW
+  note: >
+    Not to be confused with other Tonga languages.
+- name: tonga
+  glottocode: tong1321
+  iso_639_3:
+  - tog
+  country:
+  - MW
+  note: >
+    Not to be confused with other Tonga languages.
+
+- name: tonga
+  glottocode: tson1249
+  iso_639_3:
+  - tso
+  country:
+    - MZ
+    - SZ
+    - ZA
+  note: >
+    Not to be confused with other Tonga languages.
+
+- name: totela
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NA
+- name: touareg
+  glottocode: tuar1240
+  iso_639_3:
+    - thv
+    - thz
+    - ttq
+  country:
+  - NE
+  note: >
+    Tamashek languages spoken in Niger.
+- name: touba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GN
+- name: toubou
+  glottocode: daza1242
+  iso_639_3:
+  - dzg
+  country:
+  - NE
+- name: toupouri
+  glottocode: tupu1244
+  iso_639_3:
+  - tui
+  country:
+  - CM
+- name: tour
+  glottocode: tour1242
+  iso_639_3:
+  - neb
+  country:
+  - CI
+- name: toura
+  glottocode: tour1242
+  iso_639_3:
+  - neb
+  country:
+  - CI
+- name: tourka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - SN
+- name: toussian
+  glottocode: tusi1238
+  iso_639_3:
+    - tsp
+    - wib
+  country:
+  - BF
+- name: trouka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ML
+- name: tsenga
+  glottocode: nucl1397
+  iso_639_3:
+  - nse
+  country:
+  - ZW
+- name: tsogho
+  glottocode: tsog1243
+  iso_639_3:
+  - tsv
+  country:
+  - GA
+- name: tsonga
+  glottocode: tson1249
+  iso_639_3:
+  - tso
+  country:
+    - SZ
+    - ZA
+- name: tswana
+  glottocode: tswa1253
+  iso_639_3:
+  - tsn
+  country:
+  - NA
+  - ZA
+- name: tugen
+  glottocode: tuge1241
+  iso_639_3:
+    - tuy
+  country:
+  - KE
+- name: tukun
+  glottocode: tigo1236
+  iso_639_3:
+  - nza
+  country:
+  - NG
+- name: tula
+  glottocode: tula1252
+  iso_639_3:
+  - tul
+  country:
+  - NG
+- name: tumbka
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: tumbuka
+  glottocode: tumb1250
+  iso_639_3:
+  - tum
+  country:
+    - MW
+    - ZM
+    - ZW
+- name: turka
+  glottocode: turk1306
+  iso_639_3:
+  - tuz
+  country:
+  - BF
+- name: turkana
+  glottocode: turk1308
+  iso_639_3:
+  - tuv
+  country:
+  - KE
+- name: ubibio
+  glottocode: ibib1240
+  iso_639_3:
+  - ibb
+  country:
+  - NG
+- name: ugep
+  glottocode: loka1252
+  iso_639_3:
+  - yaz
+  country:
+  - NG
+- name: ukwale
+  glottocode: ukwu1241
+  iso_639_3:
+  - ukw
+  country:
+  - NG
+- name: ukwani
+  glottocode: ukwu1241
+  iso_639_3:
+  - ukw
+  country:
+  - NG
+- name: umone
+  glottocode: kohu1243
+  iso_639_3:
+    - bcs
+    - umm
+  country:
+  - NG
+- name: urhobo
+  glottocode: urho1239
+  iso_639_3:
+  - urh
+  country:
+  - NG
+- name: ushi
+  glottocode: aush1241
+  iso_639_3:
+  - auh
+  country:
+  - ZM
+- name: usmi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: uumbundu
+  glottocode: umbu1257
+  iso_639_3:
+  - umb
+  country:
+  - NA
+- name: uwa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: uzeba
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: vai
+  glottocode: vaii1241
+  iso_639_3:
+  - vai
+  country:
+    - LR
+    - SL
+- name: vatsotso
+  glottocode: tsot1241
+  iso_639_3:
+    - lto
+  country:
+  - KE
+- name: venda
+  glottocode: vend1245
+  iso_639_3:
+  - ven
+  country:
+    - NA
+    - ZA
+    - ZW
+- name: vhitori
+  glottocode: shon1251
+  iso_639_3:
+  - sna
+  country:
+  - ZW
+- name: vigue
+  glottocode: viem1243
+  iso_639_3:
+  - vig
+  country:
+  - BF
+- name: wa dormu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: waala
+  glottocode: wali1263
+  iso_639_3:
+  - wlx
+  country:
+  - GH
+- name: waale
+  glottocode: wali1263
+  iso_639_3:
+  - wlx
+  country:
+  - GH
+- name: waama
+  glottocode: waam1244
+  iso_639_3:
+  - wwa
+  country:
+  - BJ
+- name: waja
+  glottocode: waja1259
+  iso_639_3:
+  - wja
+  country:
+  - NG
+- name: wan
+  glottocode: wann1242
+  iso_639_3:
+  - wan
+  country:
+  - CI
+- name: wandala
+  glottocode: wand1278
+  iso_639_3:
+  - mfi
+  country:
+  - CM
+- name: wanga
+  glottocode: wang1294
+  iso_639_3:
+    - lwg
+  country:
+  - KE
+- name: wangara
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: wangra
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: wardei
+  glottocode: soma1255
+  iso_639_3:
+  - som
+  country:
+  - KE
+- name: warma
+  glottocode: waam1244
+  iso_639_3:
+  - wwa
+  country:
+  - BJ
+- name: wassa
+  glottocode: wasa1244
+  iso_639_3:
+  - wss
+  country:
+  - GH
+- name: watchi
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - TG
+- name: weh
+  glottocode: wehh1238
+  iso_639_3:
+  - weh
+  country:
+  - CM
+- name: wibum
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: widikum
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: wimbum
+  glottocode: limb1268
+  iso_639_3:
+  - lmp
+  country:
+  - CM
+- name: wiza
+  glottocode: bisa1264
+  iso_639_3:
+  - leb
+  country:
+  - MW
+- name: wobe
+  glottocode: weno1238
+  iso_639_3:
+  - wob
+  country:
+  - CI
+- name: wolof
+  glottocode: nucl1347
+  iso_639_3:
+  - wol
+  country:
+  - SN
+  - ML
+- name: wome
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GN
+- name: womela
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: worodougou
+  glottocode: woro1256
+  iso_639_3:
+  - jud
+  country:
+  - CI
+- name: wulisa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: wurkum
+  glottocode: piya1245
+  iso_639_3:
+  - piy
+  country:
+  - NG
+- name: wurkun
+  glottocode: piya1245
+  iso_639_3:
+  - piy
+  country:
+  - NG
+- name: xhosa
+  glottocode: xhos1239
+  iso_639_3:
+  - xho
+  country:
+    - LS
+    - ZA
+    - ZW
+- name: xibarue
+  glottocode: barw1243
+  iso_639_3:
+  - bwg
+  country:
+  - MZ
+- name: xichangana
+  glottocode: chan1318
+  iso_639_3:
+  - tso
+  country:
+  - MZ
+- name: xirhonga
+  glottocode: rong1268
+  iso_639_3:
+  - rng
+  country:
+  - MZ
+- name: xiteu
+  glottocode: tewe1238
+  iso_639_3:
+  - twx
+  country:
+  - MZ
+- name: xitsau
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: xitsonga
+  glottocode: tson1249
+  iso_639_3:
+  - tso
+  country:
+  - ZA
+- name: xitsua
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: xitswa
+  glottocode: tswa1255
+  iso_639_3:
+  - tsc
+  country:
+  - MZ
+- name: xtsonga
+  glottocode: tson1249
+  iso_639_3:
+  - tso
+  country:
+  - ZA
+- name: yabassi
+  glottocode: dual1243
+  iso_639_3:
+  - dua
+  country:
+  - CM
+- name: yacouba
+  glottocode: dann1241
+  iso_639_3:
+  - dnj
+  country:
+  - CI
+- name: yakhor
+  glottocode: loka1252
+  iso_639_3:
+  - yaz
+  country:
+  - NG
+- name: yakur
+  glottocode: loka1252
+  iso_639_3:
+  - yaz
+  country:
+  - NG
+- name: yakuri
+  glottocode: loka1252
+  iso_639_3:
+  - yaz
+  country:
+  - NG
+- name: yakurr
+  glottocode: loka1252
+  iso_639_3:
+  - yaz
+  country:
+  - NG
+- name: yala
+  glottocode: yala1263
+  iso_639_3:
+  - yba
+  country:
+  - NG
+- name: yalunka
+  glottocode: yalu1240
+  iso_639_3:
+  - yal
+  country:
+  - SL
+- name: yamba
+  glottocode: yamb1251
+  iso_639_3:
+  - yam
+  country:
+  - CM
+- name: yambassa
+  glottocode: yang1293
+  iso_639_3:
+  - yav
+  country:
+  - CM
+- name: yamben
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: yanan
+  glottocode: moss1236
+  iso_639_3:
+  - mos
+  country:
+  - BF
+- name: yanga
+  glottocode: moss1236
+  iso_639_3:
+  - mos
+  country:
+  - TG
+- name: yao
+  glottocode: yaoo1241
+  iso_639_3:
+  - yao
+  country:
+    - MW
+    - MZ
+    - ZW
+- name: yaoure
+  glottocode: yaou1238
+  iso_639_3:
+  - yre
+  country:
+  - CI
+- name: yawa
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - ZM
+- name: yebekol
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CM
+- name: yoa
+  glottocode: yomm1242
+  iso_639_3:
+  - pil
+  country:
+  - BJ
+- name: yom
+  glottocode: yomm1242
+  iso_639_3:
+  - pil
+  country:
+  - BJ
+- name: yorouba
+  glottocode: yoru1245
+  iso_639_3:
+  - yor
+  country:
+  - TG
+- name: yoruba
+  glottocode: yoru1245
+  iso_639_3:
+  - yor
+  country:
+    - BJ
+    - NG
+    - TG
+- name: youm
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: zabagle
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: zabrama
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: zamji
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - NG
+- name: zamrama
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name: zar
+  glottocode: saya1246
+  iso_639_3:
+  - say
+  country:
+  - NG
+- name: zaramo
+  glottocode: zara1247
+  iso_639_3:
+  - zaj
+  country:
+  - TZ
+- name:
+  - zarma/songhaï
+  - zarrma/songhaï
+  glottocode: zarm1239
+  iso_639_3:
+  - dje
+  country:
+  - NE
+  note: >
+    [Zarma](http://glottolog.org/resource/languoid/id/zarm1239)
+    is a language and branch of the [Songhay](http://glottolog.org/resource/languoid/id/song1307) family.
+
+- name: zembas
+  glottocode: zemb1238
+  iso_639_3:
+  - dhm
+  country:
+  - NA
+- name: zerma
+  glottocode: zarm1239
+  iso_639_3:
+  - dje
+  country:
+  - ML
+- name: zerma
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - BJ
+- name: zezulu
+  glottocode: zulu1248
+  iso_639_3:
+  - zul
+  country:
+  - ZM
+- name: zezuru
+  glottocode: zezu1238
+  iso_639_3:
+  - sna
+  country:
+    - BW
+    - ZW
+- name: zhoza
+  glottocode: xhos1239
+  iso_639_3:
+  - xho
+  country:
+  - LS
+- name: zinninga
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - CI
+- name: zoulgo
+  glottocode: zulg1242
+  iso_639_3:
+  - gnd
+  country:
+  - CM
+- name: zugu
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - GH
+- name:
+  - isizulu
+  - sizulu
+  - zulu
+  glottocode: zulu1248
+  iso_639_3:
+  - zul
+  wals:
+  - zul
+  country:
+    - BW
+    - SZ
+    - ZA
+
+- name:
+  - zuro
+  - zuru
+  glottocode: lila1245
+  iso_639_3:
+  - dri
+  country:
+  - NG
+  note: >
+    Zuru is a sub-dialect/alt-name of Lila, a dialect of C'lela.
+
+    I assume that "zuro" is a mis-spelling of "zuru" since no other
+    Nigerian entries start with "zur".
+- name:
+  - missing data
+  - missing
+  - refused to answer
+  - don't know
+  - other
+  - others
+  - ''
+  - '-1'
+  iso_639_3:
+  - und
+  glottocode: null
+  country:
+    - BF
+    - BI
+    - BJ
+    - BW
+    - CI
+    - CM
+    - CV
+    - DZ
+    - EG
+    - GA
+    - GH
+    - GN
+    - KE
+    - LR
+    - LS
+    - MA
+    - MG
+    - ML
+    - MU
+    - MW
+    - MZ
+    - "NA"
+    - NE
+    - NG
+    - SD
+    - SL
+    - SN
+    - ST
+    - SZ
+    - TN
+    - TG
+    - TZ
+    - UG
+    - ZA
+    - ZM
+    - ZW
