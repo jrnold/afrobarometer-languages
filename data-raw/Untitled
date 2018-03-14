@@ -1,0 +1,93 @@
+# afrobarometer_variables (done)
+
+Metadata about Afrobarometer rounds, primarily the names of variables.
+
+- round
+- country
+- withinwt
+- combinwt
+- respondent
+- respondent_other
+- respondent
+- respondent_other
+- interview
+- interview_other
+- interviewer
+- interviewer_other
+
+
+# language_variables (done)
+
+- round: Afrobarometer round number. integer. 1--6.
+- variable: string. Variable name in Afrobarometer
+- type: string. Variable type
+- other: boolean. Whether this variable has the literal responses for the "Other".
+
+# countries
+
+Afrobarometer countries in each round
+
+- round: Afrobarometer round number. integer. 1--6.
+- value: Value of the country variable
+- label: Label of the country variable
+- iso_alpha2: ISO 3166 Alpha-2 code for the country.
+
+# language_names
+
+Matches names to variables
+
+- name: character. All lower case (but non-ASCII unicode characters allowed) version
+    name.
+- country: character. ISO 3166 Alpha-2
+- Glottolog: space sep list of Glottolog codes
+- ISO 639-3: space sep list of ISO 639-3 codes
+- WALS: space sep list of WALS codes
+
+
+# language_country
+
+Afrobarometer languages in each round
+
+- round: Afrobarometer round number. integer. 1--6.
+- value: Value of the language variable
+- label: Label of the language variable.
+- lang_name: Name used to match with values in this dataset.
+- n: number of observations
+- withinwt: weighted number observations within the country
+
+
+# langauge_respno
+
+Afrobarometer language by respondent.
+
+- round
+- respno
+- variable
+- lang_name
+- lang_name
+
+# language dists
+
+Distances between survey language values.
+
+
+
+
+## Notes
+
+- ISO 639-3
+  - non-missing (use und/mis, etc. codes)
+  - all missing values are accounted for
+  - one macrolanguage only
+  - country usage
+- Glottolog
+  - only one match
+  - whitelist family entries
+  - country usage
+  - only missing if ISO 639-3 is
+  - African macroarea
+- WALS
+  - all in same genus
+  - country usage
+  - only missing if ISO 639-3 is
+  - African macroarea

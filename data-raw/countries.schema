@@ -1,0 +1,38 @@
+{
+ "type": "array",
+ "definitions": {},
+ "description": "This matches the names of countries in the Afrobarometer, which are inconsistent over rounds, to standard ISO country identifiers.",
+ "$schema": "http://json-schema.org/draft-06/schema#",
+ "items": {
+   "type": "object",
+   "properties": {
+     "iso_alpha2": {
+       "type": "string",
+       "pattern": "^[A-Z]{2}$",
+       "description": "[ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) country identifier.",
+       "examples": [
+         "BF"
+       ]
+     },
+     "iso_alpha3": {
+       "type": "string",
+       "pattern": "^[A-Z]{3}$",
+       "description": "[ISO 3166-1 alpha-3](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3) country identifier.",
+       "examples": [
+         "BFA"
+       ]
+     },
+     "name": {
+       "type": "array",
+       "items": {
+         "type": "string",
+         "description": "Country names. The label of a country variable appearing in an Afrobarometer survey.",
+         "minItems": 1,
+         "examples": [
+           "Burkina Faso"
+         ]
+       }
+     }
+   }
+ }
+}

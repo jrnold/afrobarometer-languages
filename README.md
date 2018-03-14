@@ -9,7 +9,7 @@ Currently only languages for Afrobarometer Round 6 (2016) have been mapped.
 
 The data consist of several comma-separated tables in the `data` directory.
 
-# Build
+# Install and Build
 
 The output data is checked into the repo and contained in `data/`, so there should be no need to rebuild the data to use it.
 
@@ -19,7 +19,26 @@ $ Rscript -e 'devtools::install()'
 $ pip install requirements.txt
 ```
 
-Re-build the data:
+Download data and build the Afrobarometer language data:
 ```console
-$ build.sh
+make build
+```
+
+This will create CSV files in the `data` directory.
+There is also a `datapackage.json` file with documentation about the data, following the [datapackage standard](https://frictionlessdata.io/data-packages/).
+
+
+# Validation and Testing
+
+Validating the YAML data sources requires NodeJS and a few packages.
+After installing node, install them with
+```console
+npm install -g ajv-cli yamljs
+```
+
+YAML files are documented and validated against [JSON Schema](http://json-schema.org/).
+Each YAML file `data-raw/foo.yml` has an associated JSON schema `data-raw/foo.schema`.
+
+Run the validation,
+```console
 ```

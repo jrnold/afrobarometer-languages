@@ -1,0 +1,80 @@
+{
+  "$schema": "http://json-schema.org/draft-06/schema#",
+  "items": {
+    "id": "/items",
+    "properties": {
+      "name": {
+        "anyOf": [
+          {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minItems": 1
+            }
+          },
+          {
+            "type": "string"
+          }
+        ],
+        "description": "Strings appearing in Afrobarometer language variables that will be matched."
+      },
+      "iso_639_3": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[a-z]{3}$"
+        },
+        "description": "ISO 639-3 language identifiers. One-or-more ISO 639-3 identifiers can match. If a macrolanguage is used, only one macrolanguage should be included. This must be included. Use one of the special ISO 639-3 codes for missing values."
+      },
+      "country": {
+        "type": "array",
+        "items": {
+          "type": "string",
+          "pattern": "^[A-Z]{2}$",
+          "description": "A two-letter ISO 3166 alpha-2 code for a country"
+        },
+        "description": "Countries for which the language name is matched. The same name can match different languages in different countries. Countries must be explicitly added."
+      },
+      "wals": {
+        "anyOf": [
+          {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "pattern": "^[a-z]{2,3}$"
+            },
+            "minItems": 1
+          },
+          {"type": "null"}
+        ],
+        "description": "WALS codes matching the language. A language can match zero or more WALS languages. If `null`, the WALS language(s) will be derived from the Glottolog languages. In general, `null` values should be used. A non-`null` value is usually not needed, but is used to override that method."
+      },
+      "note": {
+        "anyOf": [
+          {"type": "null"},
+          {"type": "string"}
+        ],
+        "description": "Any comments on the matches."
+      },
+      "glottocode": {
+        "anyOf": [
+          {"type": "null"},
+          {
+            "type": "string",
+            "pattern": "^[a-z0-9]{4}[0-9]{4}$"
+          }
+        ],
+        "description": "Glottolog identifier. Each language can only match one glottolog identifier. Use families to match multiple related languages"
+      }
+    },
+    "required": [
+      "name",
+      "country",
+      "glottocode",
+      "iso_639_3"
+    ],
+    "type": "object",
+    "additionalProperties": false
+  },
+  "type": "array"
+}
