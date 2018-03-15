@@ -11,7 +11,7 @@ IO$afrobarometer(4) %>%
   select(respno = RESPNO, country = COUNTRY,
          languages = UQ(lang_var)) %>%
   mutate(languages = str_replace(languages, "\\s+", " "),
-         languages = str_split(str_to_lower(languages), "\\s*([,;.+/&]| (e|n|and) )\\s*"),
+         languages = str_split(str_to_lower(languages), "\\s*([,;&+]| (e|n|and) )\\s*"),
          country = as.integer(country),
          respno = as.character(respno)) %>%
   left_join(countries, by = c("country" = "value")) %>%
