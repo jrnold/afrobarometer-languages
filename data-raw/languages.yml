@@ -109,7 +109,7 @@
   - afr
   country:
     - BW
-    - NA
+    - "NA"
     - ZA
 - name: afrikaans and local languages
   multi: true
@@ -117,14 +117,14 @@
   iso_639_3:
   - afr
   country:
-  - NA
+  - "NA"
 - name: afrikaans and oshiwambo
   multi: true
   glottocode: afri1274
   iso_639_3:
   - afr
   country:
-  - NA
+  - "NA"
 - name: agbor
   glottocode: ikaa1238
   iso_639_3:
@@ -394,13 +394,13 @@
   iso_639_3:
   - por
   country:
-  - NA
+  - "NA"
 - name: angolan:rumbundu
   glottocode: umbu1257
   iso_639_3:
   - umb
   country:
-  - NA
+  - "NA"
 - name:
   - angolan
   - angolar
@@ -1270,7 +1270,7 @@
   iso_639_3:
   - xuu
   country:
-  - NA
+  - "NA"
 - name: bariba
   glottocode: baat1238
   iso_639_3:
@@ -1497,6 +1497,18 @@
   - bkv
   country:
   - NG
+  wals:
+  - efi
+  - gok
+  - ibi
+  - kan
+  - koh
+  - agb
+  - obo
+  - ogb
+  - obg
+  note: >
+    In WALS, use all languages in the Cross River Genus.
 - name: belibonachi
   glottocode: null
   iso_639_3:
@@ -1647,6 +1659,18 @@
   - btt
   country:
   - NG
+  wals:
+  - efi
+  - gok
+  - ibi
+  - kan
+  - koh
+  - agb
+  - obo
+  - ogb
+  - obg
+  note: >
+    This is a Bendic Bantoid language. Use the Cross River genus in WALS.
 - name: beudick
   glottocode: null
   iso_639_3:
@@ -1792,6 +1816,20 @@
   - bky
   country:
   - NG
+  wals:
+  - efi
+  - gok
+  - ibi
+  - kan
+  - koh
+  - agb
+  - obo
+  - ogb
+  - obg
+  note: >
+    Boki is an alt name for [Bokyi](https://www.ethnologue.com/language/bky).
+
+    In WALS, use all languages in the Cross River Genus.
 - name: bole
   glottocode: nucl1695
   iso_639_3:
@@ -1911,8 +1949,50 @@
   glottocode: mund1328
   iso_639_3:
   - boe
+  wals:
+  - agh
+  - bab
+  - bfi
+  - baf
+  - bku
+  - bkn
+  - bmn
+  - bnk
+  - bas
+  - buj
+  - buw
+  - dua
+  - eja
+  - ewo
+  - fef
+  - gun
+  - kyg
+  - kou
+  - lns
+  - ldo
+  - mkz
+  - mla
+  - mkq
+  - mbz
+  - mbi
+  - mud
+  - mgk
+  - nge
+  - non
+  - oku
+  - tik
+  - tki
+  - tnn
+  - yba
+  - yem
   country:
   - CM
+  note: >
+    Bu (Buu) is listed as an alt-name of Mundabli in the  [Glottolog](http://glottolog.org/resource/languoid/id/mund1328)
+    and in the [Ethnologue](https://www.ethnologue.com/language/boe).
+
+    Use all Cameroon languages in WALS Bantoid genus.
+
 - name: buam/lelemi
   multi: false
   glottocode: lele1264
@@ -2091,7 +2171,7 @@
   iso_639_3:
   - loz
   country:
-  - NA
+  - "NA"
 - name: chaewa
   glottocode: nyan1308
   iso_639_3:
@@ -2175,6 +2255,7 @@
     - BW
     - MW
     - MZ
+    - ZA
     - ZM
     - ZW
   note: >
@@ -2278,11 +2359,13 @@
   country:
   - GH
 - name: chinamwanga
-  glottocode: null
+  glottocode: nyam1275
   iso_639_3:
   - mwn
   country:
   - MW
+  note: >
+    Chinamwanga is an alt-name for [Nyamwangwa](http://glottolog.org/resource/languoid/id/nyam1275)
 - name: chindali
   glottocode: ndal1241
   iso_639_3:
@@ -2305,7 +2388,6 @@
   glottocode: mand1415
   iso_639_3:
     - cmn
-    - zho
   country:
   - ZA
 - name: chingoni
@@ -2362,7 +2444,7 @@
   - nyu
   country:
     - MW
-    - NA
+    - "NA"
 - name: chip
   glottocode: mish1244
   iso_639_3:
@@ -2772,7 +2854,7 @@
   - naq
   country:
     - BW
-    - NA
+    - "NA"
     - ZM
     - ZW
 - name: dangaare
@@ -2826,7 +2908,6 @@
 - name: diahanke
   glottocode: west2500
   iso_639_3:
-    - man
     - mlq
   country:
   - SN
@@ -2851,7 +2932,6 @@
 - name: diakhanke
   glottocode: west2500
   iso_639_3:
-    - man
     - mlq
   country:
   - SN
@@ -2977,7 +3057,7 @@
   glottocode: dogo1299
   iso_639_3:
   - aqd
-  - dtj
+  - dti
   - dbw
   - dbt
   - dbu
@@ -3293,7 +3373,7 @@
     - MU
     - MW
     - MZ
-    - NA
+    - "NA"
     - NG
     - SD
     - SL
@@ -3360,7 +3440,8 @@
   iso_639_3:
   - afr
   country:
-  - NA
+  - "NA"
+  - ZA
   multi: true
 - name: english and kamba
   glottocode: stan1293
@@ -3391,7 +3472,7 @@
   iso_639_3:
   - eng
   country:
-  - NA
+  - "NA"
   multi: true
 - name: english and luo
   glottocode: stan1293
@@ -3405,14 +3486,14 @@
   iso_639_3:
   - kua
   country:
-  - NA
+  - "NA"
   multi: true
 - name: english, afrikaans and local languages
   glottocode: stan1293
   iso_639_3:
   - eng
   country:
-  - NA
+  - "NA"
   multi: true
 - name: english, kiswahili and kalenjin
   glottocode: stan1293
@@ -3720,7 +3801,7 @@
     - MG
     - ML
     - MU
-    - NA
+    - "NA"
     - NE
     - SD
     - SN
@@ -3907,7 +3988,7 @@
   - deu
   country:
     - BW
-    - NA
+    - "NA"
   wals:
   - ger
 - name: geum
@@ -4249,6 +4330,24 @@
 
     It's unclear what Zai refers to: Zaire Swahili?
 
+- name: taita
+  glottocode: tait1250
+  iso_639_3:
+  - dav
+  country:
+  - KE
+  note: >
+    Taita is an alt-name for [Dawida](https://www.ethnologue.com/language/dav).
+
+- name: zai
+  glottocode: null
+  iso_639_3:
+  - mis
+  country:
+  - KE
+  note: >
+    Could this be Zaire (Congo) Swahili?
+
 - name: hanga
   glottocode: hang1258
   iso_639_3:
@@ -4297,7 +4396,7 @@
   iso_639_3:
   - her
   country:
-  - NA
+  - "NA"
 - name: higgi
   glottocode: kamw1239
   iso_639_3:
@@ -5113,32 +5212,35 @@
   - mis
   country:
   - NG
-- name: kavango
-  glottocode: null
-  iso_639_3:
-  - mis
-  country:
-  - NA
-- name: kavango languages
+- name:
+  - kavango
+  - kavango languages
   glottocode: cent2260
   iso_639_3:
     - diu
     - kwn
-    - mho
+  wals:
+  - kwn
   country:
-  - NA
-- name: kebu
-  glottocode: ndoo1242
-  iso_639_3:
-  - ndp
-  country:
-  - UG
-- name: kebu.
-  glottocode: nnam1238
-  iso_639_3:
-  - nbp
-  country:
-  - UG
+  - "NA"
+  note: >
+    It's unclear what this refers to.
+
+    [Kvango-Soutwest Bantu](https://en.wikipedia.org/wiki/Kavango_%E2%80%93_Southwest_Bantu_languages)
+    languages consist of:
+
+    - [Kwangali](https://www.ethnologue.com/language/kwn)
+    - [Gciriku](https://www.ethnologue.com/language/diu)
+
+    However the [Ethnologue](https://www.ethnologue.com/country/NA/languages)
+    also lists other languages as spoken in the Kavango regions.
+
+    In the Glottolog, the [Central-Western Bantu](http://glottolog.org/resource/languoid/id/cent2260)
+    contains Kwangali and Gciriku.
+
+    Need to specify the WALS code for [Kwangali](http://wals.info/languoid/lect/wals_code_kwn)
+    or it will match some Creoles.
+
 - name: kélè
   glottocode: kele1257
   iso_639_3:
@@ -6304,7 +6406,6 @@
 - name: konianké
   glottocode: kony1250
   iso_639_3:
-    - man
     - mku
   country:
   - GN
@@ -6373,8 +6474,46 @@
   glottocode: kosh1246
   iso_639_3:
   - kid
+  wals:
+  - agh
+  - bab
+  - bfi
+  - baf
+  - bku
+  - bkn
+  - bmn
+  - bnk
+  - bas
+  - buj
+  - buw
+  - dua
+  - eja
+  - ewo
+  - fef
+  - gun
+  - kyg
+  - kou
+  - lns
+  - ldo
+  - mkz
+  - mla
+  - mkq
+  - mbz
+  - mbi
+  - mud
+  - mgk
+  - nge
+  - non
+  - oku
+  - tik
+  - tki
+  - tnn
+  - yba
+  - yem
   country:
   - CM
+  note: >
+    Use all Cameroon languages in WALS Bantoid genus.
 - name: kota
   glottocode: kota1274
   iso_639_3:
@@ -6660,6 +6799,20 @@
   - mho
   country:
   - ZM
+  wals:
+  - luc
+  - luv
+  - loz
+  - kwn
+  - sub
+  note: >
+    For WALS - use any matches in the Niger-Congo/Atlantic-Congo/Volta-Congo/Benue-Congo/Bantoid/Southern/Narrow Bantu/Central/K
+
+    - Lucazi
+    - Luvale
+    - Lozi
+    - Kwangali
+    - Subiya
 - name: laka
   glottocode: null
   iso_639_3:
@@ -7366,7 +7519,6 @@
   glottocode: east2426
   iso_639_3:
     - emk
-    - man
   country:
   - SL
 - name: mafa
@@ -7381,7 +7533,7 @@
   iso_639_3:
   - mis
   country:
-  - NA
+  - "NA"
 - name: maghai
   glottocode: magh1238
   iso_639_3:
@@ -7487,7 +7639,6 @@
   - malinké
   glottocode: west2499
   iso_639_3:
-  - man
   - mlq
   - mwk
   wals:
@@ -7577,7 +7728,6 @@
 - name: mandinka
   glottocode: mand1436
   iso_639_3:
-    - man
     - mnk
   country:
   - SN
@@ -7609,7 +7759,6 @@
 - name: manga
   glottocode: mang1399
   iso_639_3:
-    - kau
     - kby
   country:
   - NG
@@ -7665,7 +7814,6 @@
   glottocode: east2426
   iso_639_3:
     - emk
-    - man
   country:
   - GN
 - name: manjack
@@ -7816,7 +7964,7 @@
   iso_639_3:
   - sbs
   country:
-  - NA
+  - "NA"
 - name: matcwe
   glottocode: null
   iso_639_3:
@@ -8016,8 +8164,14 @@
   glottocode: mbuk1240
   iso_639_3:
   - mhw
+  wals:
+  - luc
+  - luv
+  - loz
+  - kwn
+  - sub
   country:
-  - NA
+  - "NA"
   multi: false
   note: >
     Thimbukushu is an alt-name for [Mbukushu](http://glottolog.org/resource/languoid/id/mbuk1240)
@@ -8111,7 +8265,7 @@
     family.
 
 - name: meru/kimeru
-  glottocode: nucl1245
+  glottocode: nucl1387
   iso_639_3:
   - mer
   country:
@@ -8178,7 +8332,7 @@
   iso_639_3:
   - mis
   country:
-  - NA
+  - "NA"
 - name: miango
   glottocode: irig1241
   iso_639_3:
@@ -8393,7 +8547,7 @@
   iso_639_3:
   - mul
   country:
-  - NA
+  - "NA"
 - name: morotsi
   glottocode: null
   iso_639_3:
@@ -8550,7 +8704,7 @@
   iso_639_3:
   - fwe
   country:
-  - NA
+  - "NA"
 - name: mugaka
   glottocode: null
   iso_639_3:
@@ -8826,7 +8980,7 @@
   iso_639_3:
   - naq
   country:
-    - NA
+    - "NA"
     - ZW
 - name:
   - nama / damara
@@ -8836,7 +8990,7 @@
   iso_639_3:
   - naq
   country:
-  - NA
+  - "NA"
   note: >
     [Damara](http://glottolog.org/resource/languoid/id/dama1270)
     is a dialect of [Nama](http://glottolog.org/resource/languoid/id/nama1264).
@@ -8844,6 +8998,7 @@
 - name:
   - nambya
   - nambiya
+  - nambia
   glottocode: namb1291
   iso_639_3:
   - nmq
@@ -9001,7 +9156,7 @@
   - nde
   country:
     - BW
-    - NA
+    - "NA"
     - ZM
     - ZW
 - name: ndebele
@@ -9566,7 +9721,7 @@
   iso_639_3:
   - kua
   country:
-  - NA
+  - "NA"
 - name: nyhungue
   glottocode: nyun1248
   iso_639_3:
@@ -9740,12 +9895,25 @@
   - ibo
   country:
   - NG
-- name: okebu
-  glottocode: ndoo1242
+- name:
+  - okebu
+  - kebu
+  - kebu.
+  glottocode: okeb1238
   iso_639_3:
   - ndp
   country:
   - UG
+  wals:
+  - les
+  - mmv
+  note: >
+    Kebu is a dialect/alt-name of [Ndo](https://www.ethnologue.com/language/ndp) (a language of Uganda).
+
+    Glottolog matches too many WALS codes. Use the Magnbutu-Efe genus in WALS,
+    which is how it is classified in Glottolog <https://www.ethnologue.com/subgroups/central-sudanic>.
+
+    Use the Oke'bu dialect of [Ndo](http://glottolog.org/resource/languoid/id/ndoo1242) in Glottolog.
 - name: okirika
   glottocode: null
   iso_639_3:
@@ -9757,7 +9925,7 @@
   iso_639_3:
   - her
   country:
-  - NA
+  - "NA"
 - name: okpe
   glottocode: okpe1250
   iso_639_3:
@@ -9869,14 +10037,14 @@
   iso_639_3:
   - kua
   country:
-  - NA
+  - "NA"
 - name: oshiwambo (oshindonga/oshikwanyama)
   glottocode: ndon1253
   iso_639_3:
     - kua
     - ndo
   country:
-  - NA
+  - "NA"
   note: >
     [Kuanyama](http://glottolog.org/resource/languoid/id/kuan1247) has alt-names of
     Oshikwanyama.
@@ -9911,13 +10079,19 @@
   iso_639_3:
   - diu
   country:
-  - NA
+  - "NA"
 - name: other kavango:thimbukushu
   glottocode: mbuk1240
   iso_639_3:
   - mhw
   country:
-  - NA
+  - "NA"
+  wals:
+  - luc
+  - luv
+  - loz
+  - kwn
+  - sub
 - name: other northern languages
   glottocode: null
   iso_639_3:
@@ -9938,7 +10112,7 @@
   - her
   country:
     - BW
-    - NA
+    - "NA"
 - name: ouatchi
   glottocode: waci1239
   iso_639_3:
@@ -9968,7 +10142,7 @@
   iso_639_3:
   - kua
   country:
-  - NA
+  - "NA"
 - name: owan
   glottocode: null
   iso_639_3:
@@ -10003,7 +10177,6 @@
   glottocode: nort2646
   iso_639_3:
     - pbu
-    - pus
   country:
   - ZA
 - name: pedi
@@ -10123,11 +10296,12 @@
   - portugues
   - português
   - portuguese
+  - poetugues
   glottocode: port1283
   iso_639_3:
   - por
   country:
-  - NA
+  - "NA"
   - SN
   - CV
   - BW
@@ -10136,7 +10310,7 @@
   - MG
   - MW
   - MZ
-  - NA
+  - "NA"
   - SN
   - ST
   - SZ
@@ -10274,7 +10448,7 @@
   iso_639_3:
   - diu
   country:
-  - NA
+  - "NA"
   note: >
     - Rugciriku is an alt-name for [Gciriku](https://www.ethnologue.com/language/diu)
     - Rumanyo is an alt-name for [Diriku](http://glottolog.org/resource/languoid/id/diri1252),
@@ -10314,7 +10488,7 @@
   iso_639_3:
   - kwn
   country:
-  - NA
+  - "NA"
 - name: rululi
   glottocode: ruul1235
   iso_639_3:
@@ -10332,7 +10506,7 @@
   iso_639_3:
   - umb
   country:
-  - NA
+  - "NA"
 - name: rungungu
   glottocode: gung1250
   iso_639_3:
@@ -10524,7 +10698,7 @@
   wals:
   - juh
   country:
-  - NA
+  - "NA"
   note: >
     This is problematic. The San speak languages from the Khoe, Kx'a, and Tuu language families. https://en.wikipedia.org/wiki/San_people.
 
@@ -10668,8 +10842,22 @@
   glottocode: mbuk1240
   iso_639_3:
   - mhw
+  wals:
+  - luc
+  - luv
+  - loz
+  - kwn
+  - sub
   country:
   - BW
+  note: >
+    For WALS - use any matches in the Niger-Congo/Atlantic-Congo/Volta-Congo/Benue-Congo/Bantoid/Southern/Narrow Bantu/Central/K
+
+    - Lucazi
+    - Luvale
+    - Lozi
+    - Kwangali
+    - Subiya
 - name: sena
   glottocode: mala1475
   iso_639_3:
@@ -10788,7 +10976,7 @@
   - nso
   country:
     - BW
-    - NA
+    - "NA"
     - ZA
 - name: sephotsa
   glottocode: xhos1239
@@ -10902,6 +11090,8 @@
   - tsn
   country:
   - ZA
+  - BW
+  - "NA"
 
 - name: setswapong
   glottocode: tswa1237
@@ -11036,7 +11226,7 @@
   - sna
   country:
     - BW
-    - NA
+    - "NA"
     - ZM
     - ZW
 - name: shona & ndebele
@@ -11104,14 +11294,14 @@
   iso_639_3:
   - fwe
   country:
-  - NA
+  - "NA"
 - name: silozi
   glottocode: lozi1239
   iso_639_3:
   - loz
   country:
     - BW
-    - NA
+    - "NA"
     - ZM
 - name: siluchazi
   glottocode: null
@@ -11632,8 +11822,14 @@
   glottocode: mbuk1240
   iso_639_3:
   - mhw
+  wals:
+  - luc
+  - luv
+  - loz
+  - kwn
+  - sub
   country:
-  - NA
+  - "NA"
 - name: tigum
   glottocode: tigo1236
   iso_639_3:
@@ -11742,7 +11938,7 @@
   iso_639_3:
   - mis
   country:
-  - NA
+  - "NA"
 - name: touareg
   glottocode: tuar1240
   iso_639_3:
@@ -11826,7 +12022,7 @@
   iso_639_3:
   - tsn
   country:
-  - NA
+  - "NA"
   - ZA
 - name: tugen
   glottocode: tuge1241
@@ -11926,7 +12122,7 @@
   iso_639_3:
   - umb
   country:
-  - NA
+  - "NA"
 - name: uwa
   glottocode: null
   iso_639_3:
@@ -11957,7 +12153,7 @@
   iso_639_3:
   - ven
   country:
-    - NA
+    - "NA"
     - ZA
     - ZW
 - name: vhitori
@@ -12386,7 +12582,7 @@
   iso_639_3:
   - dhm
   country:
-  - NA
+  - "NA"
 - name: zerma
   glottocode: zarm1239
   iso_639_3:

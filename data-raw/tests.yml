@@ -1,0 +1,37 @@
+wals:
+  non_african:
+    - abh
+    - arh
+    - arj
+    - ars
+    - bho
+    - bul
+    - eng
+    - fre
+    - ger
+    - guj
+    - hin
+    - jcr
+    - pan
+    - por
+    - por
+    - psh
+    - wuc
+  families:
+    - Afro-Asiatic
+    - Austronesian
+    - Central Sudanic
+    - Dogon
+    - Eastern Sudanic
+    - Ijoid
+    - Indo-European
+    - Khoe-Kwadi
+    - Kxa
+    - Mande
+    - Muskogean
+    - Niger-Congo
+    - other
+    - Saharan
+    - Sandawe
+    - Sino-Tibetan
+    - Songhay    

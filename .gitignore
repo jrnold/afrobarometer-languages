@@ -8,3 +8,4 @@ external/*
 *.bak
 data/afrobarometer_lang_dists.csv.gz
 data/*.csv.gz
+data-raw/*.json
