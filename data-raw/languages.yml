@@ -1875,6 +1875,7 @@
   country:
   - GH
 - name: brefo/birfuo
+  multi: false
   glottocode: sout2790
   iso_639_3:
   - biv
@@ -1913,6 +1914,7 @@
   country:
   - CM
 - name: buam/lelemi
+  multi: false
   glottocode: lele1264
   iso_639_3:
   - lef
@@ -3316,7 +3318,6 @@
   - eng
   country:
   - ZA
-  multi: true
 - name: english + sesotho/s. sotho
   glottocode: stan1293
   iso_639_3:
@@ -3793,6 +3794,7 @@
   - ga
   country:
   - GH
+  multi: false
   note: >
     [Ga](http://glottolog.org/resource/languoid/id/gaaa1244) and [Adangbe](http://glottolog.org/resource/languoid/id/adan1247) are closely related.
 
@@ -4241,6 +4243,12 @@
   - dav
   country:
   - KE
+  multi: true
+  note: >
+    Taita is an alt-name for [Dawida](https://www.ethnologue.com/language/dav).
+
+    It's unclear what Zai refers to: Zaire Swahili?
+
 - name: hanga
   glottocode: hang1258
   iso_639_3:
@@ -4592,12 +4600,19 @@
   - urh
   country:
   - NG
+  multi: false
+  note: >
+    - [Urhobo](http://glottolog.org/resource/languoid/id/urho1239) language
+    - Irhobo does not appear on Nigeria page in Ethnologue: https://www.ethnologue.com/country/NG/languages.
 - name: ishan/esan
+  multi: false
   glottocode: esan1238
   iso_639_3:
   - ish
   country:
   - NG
+  note: >
+    Ishan is an alt-name for [Esan](http://glottolog.org/resource/languoid/id/esan1238)
 - name: isixhoza
   glottocode: xhos1239
   iso_639_3:
@@ -4744,13 +4759,21 @@
   - bgu
   country:
   - NG
+  note: >
+    [Mbongno](https://www.ethnologue.com/language/bgu) has alt-names Kakaba and Bunu in Ethnologue.
+    This could also be Kabba Laka (https://www.ethnologue.com/language/lap) of the CAR.
 - name: kabba/bunu
   glottocode: mbon1253
   iso_639_3:
   - bgu
   country:
   - NG
+  multi: false
+  note: >
+    [Mbongno](https://www.ethnologue.com/language/bgu) has alt-names Kakaba and Bunu in Ethnologue.
+    Don't confuse with Kabba Laka (https://www.ethnologue.com/language/lap) of the CAR.
 - name: kabba/koro
+  multi: false
   glottocode: koro1301
   iso_639_3:
     - ahs
@@ -4759,18 +4782,29 @@
     - 'yes'
   country:
   - NG
-- name: kabye
+  note: >
+    This is ambiguous.
+
+    [Koro](https://www.ethnologue.com/language/kfo) is a Manding language spoken in CV,
+    similar to [Koyaga](https://www.ethnologue.com/language/kga).
+
+    [Ashe](https://www.ethnologue.com/language/ahs) is Nigerian language with alt-name Koro.
+    Ethnologue calls Ashe (bqv), Duya, Koro Wachi (ldb), annd Nyankpa (yes) as the Koro cluster.
+    Also says Koro is a cover term for Ashe (ashe) and Koro Wachi (bqv). No Kabba alt-names or dialects in Glottolog
+    or mentions in Ethnologue.
+
+    [Ija-Zuba](https://www.ethnologue.com/language/vki) is a distinct language called Koro Afiki, Koro Ija, Koro Zuba,
+    and distinct from Ashe (ahs.)
+
+- name:
+  - kabye
+  - kabyè
   glottocode: kabi1261
   iso_639_3:
   - kbp
   country:
   - TG
-- name: kabyè
-  glottocode: kabi1261
-  iso_639_3:
-  - kbp
-  country:
-  - TG
+
 - name: kadara
   glottocode: kada1284
   iso_639_3:
@@ -6371,6 +6405,16 @@
   - kdh
   country:
   - GH
+  multi: true
+  note: >
+    Alt-names of [Tem](https://www.ethnologue.com/language/kdh) are Cotocoli, Kotokoli, and Temba.
+    No Chamba language in [Ghana](https://www.ethnologue.com/country/gh/languages).
+
+    Chamba is an alt-name of [Akasalem](https://www.ethnologue.com/language/aks), spoken in neighboring Togo.
+
+    This may be multi-lingual, since the [Ethnologue](https://www.ethnologue.com/language/aks) notes that
+    Akaselem speakers often also use Tem.
+
 - name: kotonkoli
   glottocode: temm1241
   iso_639_3:
@@ -6580,11 +6624,14 @@
   country:
   - GH
 - name: kusasi/kusaase
+  multi: false
   glottocode: kusa1250
   iso_639_3:
   - kus
   country:
   - GH
+  note: >
+    [Kusaal](https://www.ethnologue.com/language/kus) has alt-names Kusaasi, Kusale, and Kusasi and autonymn Kusaas.
 - name: kuteb
   glottocode: kute1248
   iso_639_3:
@@ -7006,11 +7053,14 @@
   country:
   - UG
 - name: lugishu/lumasaba
+  multi: false
   glottocode: masa1299
   iso_639_3:
   - myx
   country:
   - UG
+  note: >
+    Alt-names for [Masaaba](https://www.ethnologue.com/language/myx) are Bagisu, Gisu, Kisu, Lugisu, Masaba
 - name: lugisu
   glottocode: masa1299
   iso_639_3:
@@ -7447,12 +7497,17 @@
   - ML
 
 - name: malinké/ dioula
-  glottocode: woje1238
+  multi: false
+  glottocode: east2425
   iso_639_3:
-  - jod
+  - emk
+  - dyu
   country:
   - CI
+  note: >
+    Dioula is comprehensible with [Eastern Maninkakahn](https://www.ethnologue.com/language/emk) (Malinke).
 
+    East Manding includes Dyula and Manenkan.
 - name: malolo
   glottocode: null
   iso_639_3:
@@ -7527,13 +7582,18 @@
   country:
   - SN
 - name: mandinka/bambara
+  multi: false
   glottocode: mand1435
   iso_639_3:
     - bam
-    - man
     - mnk
   country:
   - SN
+  note: >
+    Mandika (mnk) and Bambara (bam) are closely related.
+
+    [Manding Family](http://glottolog.org/resource/languoid/id/mand1435) includes
+    both Mandika in the West Manding branch and Bambara in the East Manding branch.
 - name: mandoua
   glottocode: null
   iso_639_3:
@@ -7721,12 +7781,18 @@
     - KE
     - TZ
 - name: masai/samburu
+  multi: false
   glottocode: nucl1431
   iso_639_3:
     - mas
     - saq
   country:
   - KE
+  note: >
+    [Samburu](http://glottolog.org/resource/languoid/id/samb1315) and
+    [Masai](http://glottolog.org/resource/languoid/id/masa1300) are languages
+    in the [Nuclear Maa](http://glottolog.org/resource/languoid/id/nucl1431)
+    family of the Glottolog.
 - name: massa
   glottocode: masa1322
   iso_639_3:
@@ -7952,6 +8018,9 @@
   - mhw
   country:
   - NA
+  multi: false
+  note: >
+    Thimbukushu is an alt-name for [Mbukushu](http://glottolog.org/resource/languoid/id/mbuk1240)
 - name: mbulu
   glottocode: iraq1241
   iso_639_3:
@@ -8047,6 +8116,7 @@
   - mer
   country:
   - KE
+  multi: false
   note: >
     Kimeru is an alternative name for Meru <http://glottolog.org/resource/languoid/id/meru1245>.
 - name: meru/samburu
@@ -9582,6 +9652,9 @@
   - nzb
   country:
   - GA
+  note: >
+    Nzebi is an alt-naeme for [Njebi](http://glottolog.org/resource/languoid/id/njeb1242).
+    I could not find Metie as an alt-language.
 - name: nzema
   glottocode: nzim1238
   iso_639_3:
@@ -9804,6 +9877,16 @@
     - ndo
   country:
   - NA
+  note: >
+    [Kuanyama](http://glottolog.org/resource/languoid/id/kuan1247) has alt-names of
+    Oshikwanyama.
+
+    Oshikwanyama and Oshiwambo are autonymns for [Oshiwambo](https://www.ethnologue.com/language/kua)
+
+    [Ndonga](https://www.ethnologue.com/language/ndo) is closely related language that is intelligable with Oshiwambo.
+
+    In Glottolog, [Kwambi-Ndonga](http://glottolog.org/resource/languoid/id/kwam1257) family includes Kuanyama and Ndonga.
+
 - name: ososo
   glottocode: osos1238
   iso_639_3:
@@ -9929,24 +10012,16 @@
   - nso
   country:
   - ZA
-- name: pedi/north sotho
+- name:
+  - pedi/north sotho
+  - pedi/spedi/ north sotho
+  - pedi/spedi/north sotho
   glottocode: pedi1238
   iso_639_3:
   - nso
   country:
   - ZA
-- name: pedi/spedi/ north sotho
-  glottocode: pedi1238
-  iso_639_3:
-  - nso
-  country:
-  - ZA
-- name: pedi/spedi/north sotho
-  glottocode: pedi1238
-  iso_639_3:
-  - nso
-  country:
-  - ZA
+
 - name: pepele
   glottocode: null
   iso_639_3:
@@ -10026,6 +10101,8 @@
   - por
   country:
   - MZ
+  multi: true
+
 - name: pokomo
   glottocode: poko1261
   iso_639_3:
@@ -10074,6 +10151,7 @@
   - por
   country:
   - MZ
+  multi: true
 
 - name: portugues e sena
   glottocode: port1283
@@ -10113,6 +10191,17 @@
   - puu
   country:
   - GA
+  multi: true
+  note: >
+    - Punu language in [Ethnologue](https://www.ethnologue.com/language/puu).
+      No alt-names or dialects that are similar to Merie.
+    - [Merey](https://www.ethnologue.com/language/meq) is language spoken in
+      Cameroon on its northern border.
+
+    Punu is a Bantu language, but Merey is Chadic.
+
+
+
 - name: pyam
   glottocode: fyam1238
   iso_639_3:
@@ -10162,19 +10251,11 @@
   - rng
   country:
   - MZ
-- name: rufumbia
-  glottocode: kiny1244
-  iso_639_3:
-  - kin
-  country:
-  - UG
-- name: rufumbiira
-  glottocode: kiny1244
-  iso_639_3:
-  - kin
-  country:
-  - UG
-- name: rufumbira
+
+- name:
+  - rufumbira
+  - rufumbiira
+  - rufumbia
   glottocode: kiny1244
   iso_639_3:
   - kin
@@ -10186,18 +10267,18 @@
   - kin
   country:
   - UG
-- name: rugririku
+- name:
+  - rugririku/rumanyo
+  - rugririku
   glottocode: diri1252
   iso_639_3:
   - diu
   country:
   - NA
-- name: rugririku/rumanyo
-  glottocode: diri1252
-  iso_639_3:
-  - diu
-  country:
-  - NA
+  note: >
+    - Rugciriku is an alt-name for [Gciriku](https://www.ethnologue.com/language/diu)
+    - Rumanyo is an alt-name for [Diriku](http://glottolog.org/resource/languoid/id/diri1252),
+      and the autonymn <https://www.ethnologue.com/language/diu>
 - name: ruhororo
   glottocode: nyan1307
   iso_639_3:
@@ -10533,6 +10614,8 @@
   - sfw
   country:
   - GH
+  note: >
+    Sefwi is an alt-name for [Sehwi](https://www.ethnologue.com/language/sfw)
 - name: segxereku
   glottocode: null
   iso_639_3:
@@ -10611,6 +10694,7 @@
   - seh
   country:
   - MZ
+  multi: true
 - name: senajwa
   glottocode: null
   iso_639_3:
@@ -10681,18 +10765,21 @@
   country:
   - ML
 - name: senufo/ mianka
+  multi: false
   glottocode: mama1271
   iso_639_3:
   - myk
   country:
   - ML
+  note: >
+    Mianka is an alt-name for [Mamara Senoufo](http://glottolog.org/resource/languoid/id/mama1271),
+    a Senufu language spoken in Mali.
 - name: senya
   glottocode: awut1241
   iso_639_3:
   - afu
   country:
   - GH
-
 - name:
   - sepedi
   - sepedi/n.sotho
@@ -10846,18 +10933,7 @@
   - yey
   country:
   - BW
-- name: sezezuru
-  glottocode: zezu1238
-  iso_639_3:
-  - sna
-  country:
-  - BW
-- name: sezuru
-  glottocode: zezu1238
-  iso_639_3:
-  - sna
-  country:
-  - BW
+
 - name: shabe
   glottocode: edec1238
   iso_639_3:
@@ -10873,19 +10949,39 @@
     - ZA
     - ZW
 - name: shangaan/tsonga
-  glottocode: tson1249
+  multi: false
+  glottocode: chan1318
   iso_639_3:
   - tso
   country:
   - ZA
+  note: >
+    In Ethnologue, Shangaan is a dialect of [Tsonga](https://www.ethnologue.com/language/tso).
+    In Glottolog, Shangaan is listed as an alt-name of [Tsonga](http://glottolog.org/resource/languoid/id/tson1249),
+    and the dialect [Changana](http://glottolog.org/resource/languoid/id/chan1318).
+
 - name: shangaan/tsonga/ronga/tswa
+  multi: false
   glottocode: tswa1254
   iso_639_3:
     - tsc
     - tso
+    - rng
   country:
     - ZA
     - ZW
+  note: >
+    In Ethnologue, Shangaan is a dialect of [Tsonga](https://www.ethnologue.com/language/tso).
+    In Glottolog, Shangaan is listed as an alt-name of [Tsonga](http://glottolog.org/resource/languoid/id/tson1249),
+    and the dialect [Changana](http://glottolog.org/resource/languoid/id/chan1318).
+
+    Ronga is a language is [Glottolog](http://glottolog.org/resource/languoid/id/rong1268) and [Ethnologue](https://www.ethnologue.com/language/rng).
+
+    Tswa is langauge in [Glottolog](http://glottolog.org/resource/languoid/id/tswa1255) and [Ethnologue](https://www.ethnologue.com/language/tsc)
+
+    [Tswa-Ronga](http://glottolog.org/resource/languoid/id/tswa1254) is a Glottolog family that includes
+    Tsonga (Shangaan), Tswa, and Ronga.
+
 - name: shangani
   glottocode: chan1318
   iso_639_3:
@@ -10949,30 +11045,42 @@
   - sna
   country:
   - ZW
+  multi: true
+  note: >
+    Shona (sna) and [Ndebele](https://www.ethnologue.com/language/nde) are distinct languages.
 - name: shona, cheua
   glottocode: shon1251
   iso_639_3:
   - sna
   country:
   - MZ
-- name: shona/sezuru
-  glottocode: shon1251
+  multi: true
+  note: >
+    [Shona](https://www.ethnologue.com/language/sna) and [Chichewa](https://www.ethnologue.com/language/nya)
+    are distinct languages with the Ethnologue noting that Shona is often an L2 of Chichewa speakers.
+
+- name:
+  - shona/sezuru
+  - sezezuru
+  - sezuru
+  glottocode: zezu1238
   iso_639_3:
   - sna
   country:
   - BW
-- name: shuwa
+  note: >
+    In Botswana, [Shona](https://www.ethnologue.com/language/sna) is called Zezuru.
+
+    For Glottolog, use the [Zezuru](http://glottolog.org/resource/languoid/id/zezu1238) dialect of [Shona](http://glottolog.org/resource/languoid/id/shon1251)
+- name:
+  - shuwa
+  - shuwa arab
   glottocode: chad1249
   iso_639_3:
     - shu
   country:
   - NG
-- name: shuwa arab
-  glottocode: chad1249
-  iso_639_3:
-    - shu
-  country:
-  - NG
+
 - name: siaka
   glottocode: koya1253
   iso_639_3:
@@ -11109,49 +11217,32 @@
   - mis
   country:
   - GH
-- name: sonike
+
+- name:
+  - sonink
+  - sonike
+  - soninké
+  - soninke
   glottocode: soni1259
   iso_639_3:
   - snk
   country:
+  - ML
   - SN
-- name: sonink
+
+- name:
+  - soninké / sarakollé
+  - soninke/ sarakoll
+  - soninké/sarakolé
   glottocode: soni1259
   iso_639_3:
   - snk
   country:
   - ML
-- name: soninke
-  glottocode: soni1259
-  iso_639_3:
-  - snk
-  country:
-    - ML
-    - SN
-- name: soninké
-  glottocode: soni1259
-  iso_639_3:
-  - snk
-  country:
-  - ML
-- name: soninké / sarakollé
-  glottocode: soni1259
-  iso_639_3:
-  - snk
-  country:
-  - ML
-- name: soninke/ sarakoll
-  glottocode: soni1259
-  iso_639_3:
-  - snk
-  country:
-  - ML
-- name: soninké/sarakolé
-  glottocode: soni1259
-  iso_639_3:
-  - snk
-  country:
-  - ML
+  note: >
+    Sarakole, Sarakolle, Sarakule, Sarakulle, Sarangkole, Sarangkolle are
+    all alt-name for Soninke.
+
 - name:
   - sonra
   - sonrai
@@ -11189,6 +11280,7 @@
   country:
   - ZW
 - name: sotho/south sotho
+  multi: false
   glottocode: sout2807
   iso_639_3:
   - sot

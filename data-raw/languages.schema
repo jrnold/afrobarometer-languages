@@ -67,6 +67,11 @@
         "description": "Glottolog identifier. Each language can only match one glottolog identifier. Use families to match multiple related languages"
       }
     },
+    "multi": {
+      "type": "boolean",
+      "default": false,
+      "description": "Does the entry refer to multiple distinct or unrelated languages."
+    },
     "required": [
       "name",
       "country",

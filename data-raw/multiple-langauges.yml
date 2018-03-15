@@ -185,3 +185,48 @@
   to:
   - ewe
   - fante
+
+- from: punu/mériè
+  to:
+  - ewe
+  - mériè
+
+- from: shona, cheua
+  to:
+  - shona
+  - cheua
+
+- from: kotokoli/chamba
+  to:
+  - kotokoli
+  - chamba
+
+- from:  half taita, half zai
+  to:
+  - taita
+  - zai
+
+- from: shona & ndebele
+  to:
+  - shona
+  - ndebele
+
+- from: poetugues e xitsua
+  to:
+  - poetugues
+  - xitsua
+
+- from: portugues e outras linguas
+  to:
+  - portugues
+  - outras linguas
+
+- from: portugues e sena
+  to:
+  - portugues
+  - sena
+
+- from: sena e portugues
+  to:
+  - sena
+  - portugues
