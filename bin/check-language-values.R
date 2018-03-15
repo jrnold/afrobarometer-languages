@@ -78,6 +78,32 @@ lang_glottolog <- language_values %>%
   left_join(tbl(glottolog_db, "languoids"),
             by = c("glottocode" = "glottocode"), copy = TRUE)
 
+#' Check that all Glottolog codes should exist
+glotto_bad_codes <- lang_glottolog %>% filter(is.na(name))
+if (nrow(glotto_bad_codes)) {
+  print("Glottolog languages with invalid codes.")
+  print(distinct(glotto_bad_codes, glottocode))
+}
+
+#' Glottolog languages should be in the African macroarea unless known not to be
+glotto_bad_macroareas <- language_values %>%
+  filter(!is.na(glottocode)) %>%
+  select(round, variable, lang_name, country, glottocode) %>%
+  left_join(tbl(glottolog_db, "macroareas"),
+            by = c("glottocode" = "glottocode"), copy = TRUE) %>%
+  filter(macroarea != "Africa") %>%
+  distinct(glottocode, macroarea) %>%
+  left_join(select(tbl(glottolog_db, "languoids"), "glottocode", "name"),
+            by = "glottocode", copy = TRUE) %>%
+  filter(!glottocode %in% TESTDATA[["glottolog"]][["non_african"]])
+if (nrow(glotto_bad_macroareas)) {
+  print("Glottolog languages not in the African macroarea were found.")
+  print(distinct(bad_glotto_macroareas, glottocode))
+}
+
+
+
+###
 
 TESTDATA <- yaml::read_yaml(here::here("data-raw", "tests.yml"))
 

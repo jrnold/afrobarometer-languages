@@ -34,4 +34,23 @@ wals:
     - Saharan
     - Sandawe
     - Sino-Tibetan
-    - Songhay    
+    - Songhay
+glottolog:
+  non_african:
+    - stan1293
+    - stan1295
+    - port1283
+    - guja1252
+    - stan1290
+    - oman1239
+    - hind1269
+    - nort2646
+    - bhoj1244
+    - bata1285
+    - panj1256
+    - bulg1262
+    - mand1415
+    - nort3196
+    - tana1285
+    - mala1537
+    - plat1254

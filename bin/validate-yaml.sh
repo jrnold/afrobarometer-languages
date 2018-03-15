@@ -24,7 +24,6 @@ validate() {
 
 for f in $YAMLFILES
 do
-
   tojson $f
   validate $f
 done
