@@ -32,8 +32,8 @@ download-lingdata: bin/lingdata.sh
 data/%.csv:
 	$(R) bin/$(basename $(notdir $@)).R
 
-data/datapackage.json: bin/yaml2json.py data-raw/datapackage.yml
-	$(PYTHON) $^ $@
+data/datapackage.json: bin/yaml2json.R data-raw/datapackage.yml
+	$(R) $^ $@
 data: data/datapackage.json
 
 data/afrobarometer_variables.csv: bin/afrobarometer_variables.R \

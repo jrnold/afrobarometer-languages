@@ -3782,6 +3782,9 @@
   - french
   - francaise
   - francais
+  - fancais
+  - frabcais
+  - ffrancais
   glottocode: stan1290
   iso_639_3:
   - fra
@@ -3982,13 +3985,16 @@
   - ank
   country:
   - NG
-- name: german
+- name:
+  - german
+  - allemand
   glottocode: stan1295
   iso_639_3:
   - deu
   country:
     - BW
     - "NA"
+    - "BJ"
   wals:
   - ger
 - name: geum
@@ -6200,7 +6206,8 @@
   - ZM
   note: >
     In Zambia, Congo Swahili is spoken.
-- name: kiswahili
+- name:
+  - kiswahili
   glottocode: swah1253
   iso_639_3:
     - swh
@@ -6984,6 +6991,7 @@
   - liberian english
   - liberian simple english
   - simple liberian english
+  - simple english
   glottocode: libe1240
   iso_639_3:
   - lir
@@ -10179,7 +10187,10 @@
     - pbu
   country:
   - ZA
-- name: pedi
+- name:
+  - pedi
+  - spedi
+  - sipedi
   glottocode: pedi1238
   iso_639_3:
   - nso
@@ -10345,6 +10356,7 @@
   - pulaar
   - pulaar/toucouleur
   - pular
+  - toucouleur
   glottocode: pula1263
   iso_639_3:
   - fuc
@@ -10934,7 +10946,9 @@
     - tgw
   country:
   - CI
-- name: sénoufo
+- name:
+  - sénoufo
+  - senoufou
   glottocode: senu1239
   iso_639_3:
     - kza
@@ -11036,14 +11050,22 @@
   - sesotho/sotho/south sotho
   - sesotho/sotho/ south sotho
   - sesotho,sotho, s.sotho
+  - s sotho
+  - sestho
+  - sesetho
+  - setsotho
+  - sotho
+  - sothoi
+  - sosotho
   glottocode: sout2807
   iso_639_3:
   - sot
   country:
   - BW
+  - "NA"
   - LS
   - ZA
-  - ZA
+  - ZW
 - name: sesubia
   glottocode: subi1246
   iso_639_3:
@@ -11056,7 +11078,9 @@
   - nde
   country:
   - BW
-- name: sethepu
+- name:
+  - sethepu
+  - sthepha
   glottocode: them1241
   iso_639_3:
   - xho
@@ -11074,7 +11098,9 @@
   - mis
   country:
   - BW
-- name: setsonga
+- name:
+  - setsonga
+  - sitsonga
   glottocode: tson1249
   iso_639_3:
   - tso
@@ -11085,6 +11111,12 @@
   - setswana
   - setswana/ tswana
   - setswana/tswana
+  - sitswana
+  - sotswana
+  - setswan
+  - setsw
+  - setsoana
+  - setswhana
   glottocode: tswa1253
   iso_639_3:
   - tsn
@@ -11092,6 +11124,8 @@
   - ZA
   - BW
   - "NA"
+  - "LS"
+  - "LSW"
 
 - name: setswapong
   glottocode: tswa1237
@@ -11111,12 +11145,15 @@
   - xho
   country:
   - BW
-- name: seyei
+- name:
+  - seyei
+  - siyeyi
   glottocode: yeyi1239
   iso_639_3:
   - yey
   country:
   - BW
+  - "NA"
 - name: seyeyi
   glottocode: yeyi1239
   iso_639_3:
@@ -11130,11 +11167,23 @@
   - cbj
   country:
   - BJ
-- name: shangaan
+- name:
+  - shangaan
+  - shangani
+  - shangan
+  - shagaan
+  - shangana
+  - seshangana
+  - seshangani
+  - sechangane
+  - sechangani
+  - sechangana
+  - sechankana
   glottocode: chan1318
   iso_639_3:
   - tso
   country:
+    - LS
     - SZ
     - ZA
     - ZW
@@ -11172,12 +11221,7 @@
     [Tswa-Ronga](http://glottolog.org/resource/languoid/id/tswa1254) is a Glottolog family that includes
     Tsonga (Shangaan), Tswa, and Ronga.
 
-- name: shangani
-  glottocode: chan1318
-  iso_639_3:
-  - tso
-  country:
-  - ZW
+
 - name: shangwe
   glottocode: shon1251
   iso_639_3:
@@ -11295,7 +11339,9 @@
   - fwe
   country:
   - "NA"
-- name: silozi
+- name:
+  - silozi
+  - siloze
   glottocode: lozi1239
   iso_639_3:
   - loz
@@ -11316,41 +11362,33 @@
   - mis
   country:
   - TG
-- name: sisaala
+- name:
+  - sisaala
+  - sisala
+  - sisali
+  - sisela
+  - sisila
+  - sissala
+  - sissali
   glottocode: sisa1248
   iso_639_3:
     - sil
     - ssl
   country:
   - GH
-- name: sisila
-  glottocode: sisa1248
-  iso_639_3:
-    - sil
-    - ssl
-  country:
-  - GH
+  - BF
+
 - name: sissaba
   glottocode: null
   iso_639_3:
   - mis
   country:
   - BF
-- name: sissala
-  glottocode: sisa1248
-  iso_639_3:
-    - sil
-    - ssl
-  country:
-  - GH
-- name: sissali
-  glottocode: sisa1248
-  iso_639_3:
-    - sil
-    - ssl
-  country:
-  - GH
-- name: siswati
+
+- name:
+  - siswati
+  - swati
+  - swoti
   glottocode: swat1243
   iso_639_3:
   - ssw
@@ -11424,6 +11462,7 @@
   - soninké / sarakollé
   - soninke/ sarakoll
   - soninké/sarakolé
+  - soninke / sarakolle
   glottocode: soni1259
   iso_639_3:
   - snk
@@ -11523,7 +11562,15 @@
   - tsn
   country:
   - ZW
-- name: swahili
+- name:
+  - swahili
+  - suahile
+  - suaile
+  - swahii
+  - swahili
+  - swaili
+  - swali
+  - swhaili
   glottocode: swah1253
   iso_639_3:
     - swh
@@ -11533,6 +11580,9 @@
     - SZ
     - TZ
     - UG
+    - "MW"
+    - "ZW"
+    - "MZ"
   note: >
     Use Swaili (swh) for Swahili everywhere
     but DRC and Zambia.
@@ -11572,7 +11622,9 @@
   - tap
   country:
   - ZM
-- name: tacuane
+- name:
+  - tacuane
+  - taquane
   glottocode: takw1238
   iso_639_3:
   - tke
@@ -11602,7 +11654,9 @@
   - gur
   country:
   - GH
-- name: tamacheck
+- name:
+  - tamacheck
+  - tamachek
   glottocode: null
   iso_639_3:
   - mis
@@ -11721,7 +11775,9 @@
   - yer
   country:
   - NG
-- name: taura (mozambican)
+- name:
+  - taura (mozambican)
+  - taura
   glottocode: tawa1270
   iso_639_3:
   - twl
@@ -12331,7 +12387,15 @@
   - piy
   country:
   - NG
-- name: xhosa
+- name:
+  - xhosa
+  - sixhosa
+  - sizhosa
+  - sexhovza
+  - sexhouza
+  - sexhosa
+  - sexhoaza
+  - sexhauza
   glottocode: xhos1239
   iso_639_3:
   - xho
@@ -12636,6 +12700,7 @@
   - isizulu
   - sizulu
   - zulu
+  - sezulu
   glottocode: zulu1248
   iso_639_3:
   - zul
@@ -12708,3 +12773,24 @@
     - ZA
     - ZM
     - ZW
+
+- name:
+  - espagnol
+  - spanish
+  iso_639_3:
+  - spa
+  glottolog: stan1288
+  countries:
+  - BJ
+  - GH
+  - LS
+  - "NA"
+  - "ZA"
+
+- name:
+  - swedish
+  iso_639_3:
+  - swe
+  glottolog: swed1254
+  countries:
+  - KE

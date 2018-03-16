@@ -148,15 +148,26 @@ cleaned_langs <-
 split_langs <-
   cleaned_langs %>%
   select(-languages) %>%
-  mutate(languages = str_split(languages_clean, "\\s+")) %>%
+  rename(languages = languages_clean) %>%
+  mutate(languages = str_split(languages, "\\s+")) %>%
   # rename(languages = languages_clean) %>%
   unnest() %>%
-  pluck("languages") %>%
-  final_clean() %>%
-  unique() %>%
-  sort() %>%
-  str_c(collapse = "\n") %>%
-  cat(file = "data-raw/q88e-responses.text")
+  mutate(languages = final_clean(languages)) %>%
+  rename(lang_name = languages)
+
+language_names <- read_csv(here::here("data", "language_names.csv"), na = "",
+                           col_types = cols(
+                             country = col_character(),
+                             name = col_character(),
+                             iso_639_3 = col_character(),
+                             glottocode = col_character(),
+                             wals = col_character()
+                           ))
+
+split_langs %>%
+  anti_join(language_names, by = c("country", "lang_name" = "name")) %>%
+  distinct(country, lang_name)
+
 
 # need to resolve these issues.
 # po: Oshiwambo, Russian, English, French, Afrikaans, Po Not sure.
