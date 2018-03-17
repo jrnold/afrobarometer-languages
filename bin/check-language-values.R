@@ -22,6 +22,8 @@ language_values <- read_csv("data/language_values.csv", na = "",
 
 ISO_MISSING <- c("und", "mul", "mis")
 
+TESTDATA <- yaml::read_yaml(here::here("data-raw", "tests.yml"))
+
 #' Check that glottolog is only missing if iso_639_3 is missing
 verify(language_values,  iso_639_3 %in% ISO_MISSING | !is.na(glottocode))
 
@@ -105,7 +107,6 @@ if (nrow(glotto_bad_macroareas)) {
 
 ###
 
-TESTDATA <- yaml::read_yaml(here::here("data-raw", "tests.yml"))
 
 #' ## WALS Matches
 wals_db <- src_sqlite(here::here("external/lingdata/wals.db"))

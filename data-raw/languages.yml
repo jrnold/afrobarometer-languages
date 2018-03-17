@@ -12911,7 +12911,7 @@
   - espanhol
   iso_639_3:
   - spa
-  glottocode stan1288
+  glottocode: stan1288
   countries:
   - BJ
   - CV
@@ -12925,7 +12925,7 @@
   - swedish
   iso_639_3:
   - swe
-  glottocode swed1254
+  glottocode: swed1254
   countries:
   - KE
 
@@ -12934,7 +12934,7 @@
   - flemish
   iso_639_3:
   - nld
-  glottocode
+  glottocode:
   - dutc1256
   countries:
   - LR
@@ -12944,7 +12944,7 @@
   - hebrew
   iso_639_3:
   - heb
-  glottocode hebr1246
+  glottocode: hebr1246
   countries:
   - ZA
 
@@ -12956,7 +12956,7 @@
   - italiano
   iso_639_3:
   - ita
-  glottocode ital1282
+  glottocode: ital1282
   countries:
   - MG
   - CV
@@ -12969,7 +12969,7 @@
   - japonais
   iso_639_3:
   - jpn
-  glottocode nucl1643
+  glottocode: nucl1643
   countries:
   - MW
   - MG
@@ -12978,7 +12978,7 @@
   - russian
   iso_639_3:
   - rus
-  glottocode russ1263
+  glottocode: russ1263
   countries:
   - LS
   - "NA"
@@ -12987,6 +12987,6 @@
   - finish
   iso_639_3:
   - fin
-  glottocode finn1318
+  glottocode: finn1318
   countries:
   - "ZA"
