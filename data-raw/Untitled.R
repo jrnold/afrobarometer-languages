@@ -27,11 +27,13 @@ REGEX_COMBINE <- c("\\bdamara(ra)? nama\\b" = "damara_/_nama",
                     "\\bkari? kari?\\b" = "kari-kari",
                     "\\bshi (tcheua|shewa)\\b" = "shi-\\1",
                     "\\b(nyanja|sena) chewa\\b" = "\\1_/_chewa",
-                    "\\bsimple liberian english\\b" = "simple_liberian_english")
+                    "\\bsimple liberian english\\b" = "simple_liberian_english",
+                    "\\b(south(ern)) sotho\\b" = "\\1_sotho",
+                    "\\b(north(ern)) sotho\\b" = "\\1_sotho")
 
 REGEX_FIXES <- c("\\s*[(]" = "_(",
                  "\\band a little\\b" = " ",
-                 "\\b(some|language)\\b" = " ",
+                 "\\b(some|language|only)\\b" = " ",
                  "\\bet apparentes\\b" = " ",
                  "\\b([ns])\\s*sotho\\b" = " \\1_sotho ",
                  "italien_anglais" = "italien anglais",
@@ -101,7 +103,7 @@ REGEX_FIXES <- c("\\s*[(]" = "_(",
                  # other speakers of soninke speak ouolof
                  " ou$" = " oulof",
                  # and/e
-                 " (e|and) " = " ",
+                 "\\b(e|and)\\b" = " ",
                  # n = and, but don't match North Sotho
                  " n " = " ")
 
@@ -165,14 +167,6 @@ language_names <- read_csv(here::here("data", "language_names.csv"), na = "",
                            ))
 
 split_langs %>%
-  anti_join(language_names, by = c("country", "lang_name" = "name")) %>%
-  distinct(country, lang_name)
+  anti_join(language_names, by = c("country", "lang_name" = "name"))
 
 
-# need to resolve these issues.
-# po: Oshiwambo, Russian, English, French, Afrikaans, Po Not sure.
-# gu: from English, Afrikaans, Zulu, Xhosa, Kokni, Arabic, Gu ??
-# ao - ok!
-# ki
-# ko
-# ad
