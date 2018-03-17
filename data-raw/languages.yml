@@ -394,7 +394,9 @@
   - mis
   country:
   - CI
-- name: andoni
+- name:
+  - andoni
+  - ndoni
   glottocode: obol1243
   iso_639_3:
   - ann
@@ -444,7 +446,9 @@
   - ank
   country:
   - NG
-- name: annag
+- name:
+  - annag
+  - annang
   glottocode: null
   iso_639_3:
   - mis
@@ -493,7 +497,7 @@
 - name: arabe choa
   glottocode: chad1249
   iso_639_3:
-    - shu
+  - shu
   country:
   - CM
 
@@ -1965,7 +1969,9 @@
   - mis
   country:
   - GH
-- name: brefo/birfuo
+- name:
+  - brefo/birfuo
+  - brifo
   multi: false
   glottocode: sout2790
   iso_639_3:
@@ -2192,6 +2198,7 @@
 - name:
   - bwamu
   - bwamou
+  - bwaba
   glottocode: bwam1247
   iso_639_3:
     - bmq
@@ -2269,7 +2276,10 @@
   - tso
   country:
   - ZW
-- name: chape
+- name:
+  - chopi
+  - chape
+  - shope
   glottocode: chop1243
   iso_639_3:
   - cce
@@ -2497,7 +2507,9 @@
   - nya
   country:
   - MW
-- name: chinyika
+- name:
+  - chinyika
+  - kinyika
   glottocode: nyik1246
   iso_639_3:
   - nkv
@@ -2739,7 +2751,9 @@
   - ndc
   country:
   - MZ
-- name: cinyanja
+- name:
+  - cinyanja
+  - nhanja
   glottocode: nyan1308
   iso_639_3:
   - nya
@@ -4151,13 +4165,14 @@
   iso_639_3:
   - deu
   country:
-    - BW
-    - "NA"
     - "BJ"
+    - BW
     - GH
     - KE
     - LS
     - MG
+    - "NA"
+    - SN
   wals:
   - ger
 - name: geum
@@ -4655,7 +4670,9 @@
   - iby
   country:
   - NG
-- name: ibibio
+- name:
+  - ibibio
+  - ibibo
   glottocode: ibib1240
   iso_639_3:
   - ibb
@@ -4803,6 +4820,7 @@
 - name:
   - ikalanga/sekala
   - ikalanga/sekalaka
+  - sekalnga
   glottocode: ikal1242
   iso_639_3:
   - kck
@@ -5373,6 +5391,7 @@
 - name:
   - kasem
   - kasim
+  - kassim
   glottocode: kase1253
   iso_639_3:
   - xsm
@@ -5907,6 +5926,7 @@
   - kde
   country:
   - TZ
+  - MZ
 - name:
   - kimakua
   - makhuwa
@@ -5916,6 +5936,7 @@
   - mgh
   country:
   - TZ
+  - MZ
 - name: kimakunduchi
   glottocode: null
   iso_639_3:
@@ -7974,24 +7995,17 @@
   - mgr
   country:
   - ZM
-- name: mampruli
+- name:
+  - mampruli
+  - mamprulni
+  - manpursi
+  - mamprusi
   glottocode: mamp1244
   iso_639_3:
   - maw
   country:
   - GH
-- name: mamprulni
-  glottocode: mamp1244
-  iso_639_3:
-  - maw
-  country:
-  - GH
-- name: mamprusi
-  glottocode: mamp1244
-  iso_639_3:
-  - maw
-  country:
-  - GH
+
 - name: mamunye
   glottocode: null
   iso_639_3:
@@ -8477,7 +8491,9 @@
   - irk
   country:
   - TZ
-- name: mbunda
+- name:
+  - mbunda
+  - bunda
   glottocode: mbun1249
   iso_639_3:
   - mck
@@ -8871,6 +8887,8 @@
   iso_639_3:
   - mos
   country:
+    - BF
+    - BJ
     - GH
     - ML
     - TG
@@ -10355,6 +10373,21 @@
   - kua
   country:
   - "NA"
+
+- name: oshiwambo (oshindongo)
+  glottocode: ndon1253
+  iso_639_3:
+  - ndo
+  country:
+  - "NA"
+
+- name: oshiwambo (oshikwanyama)
+  glottocode: kuan1247
+  iso_639_3:
+  - kua
+  country:
+  - "NA"
+
 - name: oshiwambo (oshindonga/oshikwanyama)
   glottocode: ndon1253
   iso_639_3:
@@ -11442,6 +11475,7 @@
   - nde
   country:
   - BW
+  - LS
 - name:
   - sethepu
   - sthepha
@@ -11465,6 +11499,7 @@
 - name:
   - setsonga
   - sitsonga
+  - tshonga
   glottocode: tson1249
   iso_639_3:
   - tso
@@ -11481,7 +11516,8 @@
   - setsw
   - setsoana
   - setswhana
-  - teswana
+  - tswana
+  - setwana
   glottocode: tswa1253
   iso_639_3:
   - tsn
@@ -11550,6 +11586,7 @@
   - tso
   country:
     - LS
+    - MZ
     - SZ
     - ZA
     - ZW
@@ -12806,6 +12843,7 @@
   iso_639_3:
   - xho
   country:
+    - BW
     - LS
     - "NA"
     - ZA
@@ -12816,7 +12854,9 @@
   - bwg
   country:
   - MZ
-- name: xichangana
+- name:
+  - xichangana
+  - changa
   glottocode: chan1318
   iso_639_3:
   - tso
@@ -13110,8 +13150,8 @@
   - GH
 - name:
   - isizulu
-  - sizulu
   - zulu
+  - sizulu
   - sezulu
   - isuzulu
   - tsizulu
@@ -13124,6 +13164,7 @@
   country:
     - BW
     - LS
+    - MW
     - MZ
     - "NA"
     - SZ
@@ -13230,6 +13271,7 @@
   glottocode:
   - dutc1256
   country:
+  - CV
   - LR
   - "NA"
 
@@ -13457,7 +13499,7 @@
   - GH
   iso_639_3:
   - adq
-  glottocode:x adan1248
+  glottocode: adan1248
 
 - name:
   - arabe
@@ -13469,12 +13511,14 @@
 
 - name:
   - arabic
+  - arabe
   country:
-  - NG
   - BF
+  - BJ
+  - NG
   iso_639_3:
   - shu
-  glottocode: chas1249
+  glottocode: chad1249
 
 - name:
   - soce
@@ -13503,3 +13547,108 @@
   glottocode: samb1310
   note: >
     Dialect of Kwangali
+
+- name:
+  - manding
+  - mandingue
+  country:
+  - SN
+  iso_639_3:
+  - mnk
+  glottocode: mand1436
+
+- name:
+  - markweeta
+  - marakwet
+  country:
+  - KE
+  iso_639_3:
+  - enb
+  glottocode: mark1255
+
+- name:
+  - bemba
+  country:
+  - MW
+  iso_639_3:
+  - bem
+  glottocode: bemb1257
+
+- name:
+  - arab
+  - arabic
+  country:
+  - ZA
+  iso_639_3:
+  - ara
+  glottocode: arab1395
+  note: >
+    Can't asisgn it to a specific Arabic language.
+
+- name:
+  - arabo
+  country:
+  - MG
+  iso_639_3:
+  - ara
+  glottocode: arab1395
+  note: >
+    Can't asisgn it to a specific Arabic language.
+
+- name:
+  - rabai
+  country:
+  - KE
+  iso_639_3:
+  - nyf
+  glottocode: raba1248
+  note: >
+    Rabai is a dialect of [Kigiryama](https://www.ethnologue.com/language/nyf).
+
+- name:
+  - arabic
+  country:
+  - UG
+  iso_639_3:
+  - ara
+  glottocode: arab1395
+  note: >
+    Can't asisgn it to a specific Arabic language.
+
+- name:
+  - mbukushu
+  country:
+  - "NA"
+  iso_639_3:
+  - mhw
+  glottocode: mbuk1240
+
+- name:
+  - kissi
+  country:
+  - "KE"
+  iso_639_3:
+  - kiz
+  note: >
+    No to be confused with the Guinean and Liberian Kisi.
+  glottocode: kisi1243
+
+- name:
+  - wemba
+  country:
+  - "MW"
+  iso_639_3:
+  - bem
+  glottocode: bemb1257
+  note: >
+    Wemba is an alt-name for [Wemba](https://www.ethnologue.com/language/bem)
+
+- name:
+  - dialonké
+  country:
+  - SN
+  iso_639_3:
+  - yal
+  glottocode: yalu1240
+  note: >
+    Dialonke is an alt-name for [Yalunka](https://www.ethnologue.com/language/yal)

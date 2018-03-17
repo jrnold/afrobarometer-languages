@@ -28,8 +28,8 @@ REGEX_COMBINE <- c("\\bdamara(ra)? nama\\b" = "damara_/_nama",
                     "\\bshi (tcheua|shewa)\\b" = "shi-\\1",
                     "\\b(nyanja|sena) chewa\\b" = "\\1_/_chewa",
                     "\\bsimple liberian english\\b" = "simple_liberian_english",
-                    "\\b(south(ern)) sotho\\b" = "\\1_sotho",
-                    "\\b(north(ern)) sotho\\b" = "\\1_sotho")
+                    "\\b(south(ern)?) sotho\\b" = "\\1_sotho",
+                    "\\b(north(ern)?) sotho\\b" = "\\1_sotho")
 
 REGEX_FIXES <- c("\\s*[(]" = "_(",
                  "\\band a little\\b" = " ",
@@ -167,6 +167,7 @@ language_names <- read_csv(here::here("data", "language_names.csv"), na = "",
                            ))
 
 split_langs %>%
-  anti_join(language_names, by = c("country", "lang_name" = "name"))
-
+  anti_join(language_names, by = c("country", "lang_name" = "name")) %>%
+  count(country, lang_name) %>%
+  arrange(desc(n))
 
