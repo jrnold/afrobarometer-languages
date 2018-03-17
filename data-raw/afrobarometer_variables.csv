@@ -1,0 +1,7 @@
+round,respno,country,withinwt,combinwt,respondent,respondent_other,interview,interview_other,interviewer,interviewer_other
+1,refnumb,country,withinwt,combinwt,language,,,,,
+2,respno,country,withinwt,combinwt,q83,,q97,,q110,
+3,respno,country,withinwt,combinwt,q3,,q103,,q114,
+4,RESPNO,COUNTRY,Withinwt,combinwt,Q3,Q3OTHER,Q103,,Q114,
+5,RESPNO,COUNTRY,withinwt,combinwt,Q2,Q2OTHER,Q103,Q103OTHER,Q116,Q116OTHER
+6,RESPNO,COUNTRY,withinwt,Combinwt,Q2,Q2OTHER,Q103,Q103OTHER,Q116,Q116OTHER

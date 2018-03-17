@@ -103,7 +103,17 @@
   - izr
   country:
   - NG
-- name: afrikaans
+- name:
+  - afrikaans
+  - afrikaa
+  - afrikaanns
+  - afrikaanse
+  - afrikance
+  - afrikans
+  - afrilaans
+  - afrkaans
+  - afrikanse
+  - afikaans
   glottocode: afri1274
   iso_639_3:
   - afr
@@ -540,12 +550,20 @@
   - luc
   country:
   - UG
-- name: ashanti
+- name:
+  - ashanti
+  - ashante
+  - asante
   glottocode: null
   iso_639_3:
   - mis
   country:
   - TG
+  - BJ
+  - BF
+  - BH
+  - ML
+  - GH
 - name: ashem
   glottocode: null
   iso_639_3:
@@ -732,7 +750,10 @@
   - bav
   country:
   - CM
-- name: babur
+- name:
+  - babur
+  - baburo
+  - baburu
   glottocode: bura1292
   iso_639_3:
   - bwr
@@ -894,7 +915,9 @@
   - bcs
   country:
   - NG
-- name: bainouk
+- name:
+  - bainouk
+  - bainouck
   glottocode: bain1261
   iso_639_3:
     - bcb
@@ -1003,7 +1026,9 @@
   - bri
   country:
   - CM
-- name: balante
+- name:
+  - balante
+  - balnte
   glottocode: bala1302
   iso_639_3:
   - bjt
@@ -1271,7 +1296,10 @@
   - xuu
   country:
   - "NA"
-- name: bariba
+- name:
+  - bariba
+  - barib
+  - barida
   glottocode: baat1238
   iso_639_3:
   - bba
@@ -1533,13 +1561,9 @@
   - blh
   country:
   - LR
-- name: bemba
-  glottocode: bemb1257
-  iso_639_3:
-  - bem
-  country:
-  - ZM
-- name: bembia
+- name:
+  - bemba
+  - bembia
   glottocode: bemb1257
   iso_639_3:
   - bem
@@ -1613,6 +1637,7 @@
 - name:
   - beron/birom
   - berom
+  - biromi
   glottocode: bero1242
   iso_639_3:
   - bom
@@ -2384,12 +2409,15 @@
   - nde
   country:
   - MW
-- name: chinese
+- name:
+  - chinese
   glottocode: mand1415
   iso_639_3:
     - cmn
   country:
   - ZA
+  - LS
+  - ZW
 - name: chingoni
   glottocode: ngon1270
   iso_639_3:
@@ -2710,7 +2738,10 @@
   - eko
   country:
   - MZ
-- name: creol
+- name:
+  - creol
+  - créole
+  - creole
   glottocode: uppe1455
   iso_639_3:
   - pov
@@ -2776,37 +2807,25 @@
   country:
     - BF
     - ML
-- name: dagaare
+
+- name:
+  - dagaare
+  - dagaari
+  - dagaarti
+  - dagare
+  - dagaree
+  - dangari
+  - dagari
+  - dagara
   glottocode: sout2789
   iso_639_3:
   - dga
   country:
   - GH
-- name: dagaari
-  glottocode: sout2789
-  iso_639_3:
-  - dga
-  country:
-  - GH
-- name: dagaarti
-  glottocode: sout2789
-  iso_639_3:
-  - dga
-  country:
-  - GH
-- name: dagare
-  glottocode: sout2789
-  iso_639_3:
-  - dga
-  country:
-  - GH
-- name: dagaree
-  glottocode: sout2789
-  iso_639_3:
-  - dga
-  country:
-  - GH
-- name: dagari
+
+- name:
+  - dagari
+  - dagara
   glottocode: nort2780
   iso_639_3:
   - dgi
@@ -2818,13 +2837,12 @@
   - dga
   country:
   - GH
-- name: dagbane
-  glottocode: dagb1246
-  iso_639_3:
-  - dag
-  country:
-  - GH
-- name: dagbani
+
+- name:
+  - dagbani
+  - dangbani
+  - dagbami
+  - dagbane
   glottocode: dagb1246
   iso_639_3:
   - dag
@@ -2857,7 +2875,9 @@
     - "NA"
     - ZM
     - ZW
-- name: dangaare
+- name:
+  - dangaare
+  - dangari
   glottocode: sout2789
   iso_639_3:
   - dga
@@ -2998,13 +3018,17 @@
   - mis
   country:
   - KE
-- name: diola
+- name:
+  - diola
+  - diol
   glottocode: jola1263
   iso_639_3:
   - dyo
   country:
   - SN
-- name: dioula
+- name:
+  - dioula
+  - dioule
   glottocode: dyul1238
   iso_639_3:
   - dyu
@@ -3355,7 +3379,27 @@
   country:
   - KE
 
-- name: english
+- name:
+  - english
+  - ehglish
+  - eng
+  - engels
+  - engilsh
+  - engish
+  - england
+  - engli
+  - engliish
+  - englihs
+  - englisha
+  - englishj
+  - englism
+  - engllish
+  - engllish
+  - enlish
+  - ennglish
+  - ingles
+  - inglês
+  - inglles
   glottocode: stan1293
   iso_639_3:
   - eng
@@ -3599,6 +3643,8 @@
 - name:
   - ewe
   - ewé
+  - ew
+  - ewi
   glottocode: ewee1241
   iso_639_3:
   - ewe
@@ -3684,18 +3730,16 @@
   country:
     - CM
     - GA
-- name: fante
+
+- name:
+  - fanti
+  - fante
   glottocode: fant1241
   iso_639_3:
     - fat
   country:
   - GH
-- name: fanti
-  glottocode: fant1241
-  iso_639_3:
-    - fat
-  country:
-  - GH
+  - ML
 - name: femawa
   glottocode: null
   iso_639_3:
@@ -3782,9 +3826,27 @@
   - french
   - francaise
   - francais
+  - français
   - fancais
   - frabcais
   - ffrancais
+  - ffrançais
+  - fancais
+  - fançais
+  - fracais
+  - frabcais
+  - fran
+  - franc
+  - frança
+  - freneh
+  - francis
+  - francês
+  - frances
+  - francai
+  - frantsay
+  - fratsay
+  - freneh
+  - frncai
   glottocode: stan1290
   iso_639_3:
   - fra
@@ -3857,19 +3919,26 @@
   - fuls
   - fulse
   - fulsé
+  - foulse
+  - foulce
   glottocode: koro1298
   iso_639_3:
   - kfz
   country:
   - BF
 
-- name: ga
+- name:
+  - ga
+  - gaa
   glottocode: gaaa1244
   iso_639_3:
   - gaa
   country:
   - GH
-- name: ga/dangbe
+- name:
+  - ga/dangbe
+  - ga / adangbe
+  - ga / dange
   glottocode: gada1257
   iso_639_3:
   - ada
@@ -3987,6 +4056,7 @@
   - NG
 - name:
   - german
+  - germa
   - allemand
   glottocode: stan1295
   iso_639_3:
@@ -3995,6 +4065,9 @@
     - BW
     - "NA"
     - "BJ"
+    - GH
+    - KE
+    - LS
   wals:
   - ger
 - name: geum
@@ -4121,25 +4194,34 @@
   - gux
   country:
   - NE
-- name: goun
+- name:
+  - goun
+  - gouin
   glottocode: gunn1250
   iso_639_3:
   - guw
   country:
   - BJ
-- name: gourma
+- name:
+  - gourma
   glottocode: gour1243
   iso_639_3:
   - gux
   country:
   - TG
+  - BF
 - name: gouro
   glottocode: guro1248
   iso_639_3:
   - goa
   country:
   - CI
-- name: gourounsi
+- name:
+  - gourounsi
+  - gouroussi
+  - gourouso
+  - gourousi
+  - gourounssi
   glottocode: fare1241
   iso_639_3:
   - gur
@@ -4154,7 +4236,10 @@
   note: >
     Grebo (grb) is an ISO 639-3 macrolanguage.
     All the languages in it are named Grebo and spoken in Liberia.
-- name: gruma
+- name:
+  - gruma
+  - grumah
+  - grunna
   glottocode: bimo1239
   iso_639_3:
   - bim
@@ -4259,7 +4344,12 @@
   - guj
   country:
   - KE
-- name: gulmacema
+- name:
+  - gulmacema
+  - goulmacema
+  - gourmacema
+  - gourmatche
+  - gourmatchema
   glottocode: gour1243
   iso_639_3:
   - gux
@@ -4360,7 +4450,11 @@
   - hag
   country:
   - GH
-- name: haoussa
+- name:
+  - haoussa
+  - haus
+  - hause
+  - haousa
   glottocode: haus1257
   iso_639_3:
   - hau
@@ -4371,6 +4465,7 @@
     - GA
     - ML
     - NE
+    - NG
     - TG
 - name: hassaniya
   glottocode: hass1238
@@ -4378,7 +4473,9 @@
   - mey
   country:
   - MA
-- name: hausa
+- name:
+  - hausa
+  - hhausa
   glottocode: haus1257
   iso_639_3:
   - hau
@@ -4415,24 +4512,26 @@
   - hna
   country:
   - CM
-- name: hindi
-  glottocode: hind1269
-  iso_639_3:
-  - hin
-  country:
-  - ZW
-- name: hindu
+- name:
+  - hindi
+  - hindu
   glottocode: hind1269
   iso_639_3:
   - hin
   country:
   - KE
-- name: houssa
+  - ZA
+  - ZW
+- name:
+  - houssa
+  - ahousa
+  - ahoussa
   glottocode: haus1257
   iso_639_3:
   - hau
   country:
   - BJ
+  - SN
 - name: husa
   glottocode: haus1257
   iso_639_3:
@@ -5003,6 +5102,8 @@
 - name:
   - kalejin
   - kalenjin
+  - kakenjin
+  - kallenjin
   glottocode: kale1246
   iso_639_3:
     - kln
@@ -8993,6 +9094,7 @@
 - name:
   - nama / damara
   - nama/damara
+  - damara / name
   glottocode:
   - nama1264
   iso_639_3:
@@ -10263,7 +10365,14 @@
   - wes
   country:
   - CM
-- name: pidgin english
+- name:
+  - pidgin english
+  - pidgin
+  - english (pidgin)
+  - pidgun
+  - pigin
+  - pidigin
+  - pidgen
   glottocode: nige1257
   iso_639_3:
   - pcm
@@ -10308,6 +10417,17 @@
   - português
   - portuguese
   - poetugues
+  - portgues
+  - portrugues
+  - portuges
+  - portugu
+  - portuguese
+  - portuguesees
+  - potugues
+  - pportugues
+  - portugese
+  - portugeese
+  - portrugues
   glottocode: port1283
   iso_639_3:
   - por
@@ -10357,6 +10477,8 @@
   - pulaar/toucouleur
   - pular
   - toucouleur
+  - plaar
+  - pulaaar
   glottocode: pula1263
   iso_639_3:
   - fuc
@@ -10882,7 +11004,9 @@
   - nse
   country:
   - ZW
-- name: sena
+- name:
+  - sena
+  - sene
   glottocode: nucl1396
   iso_639_3:
   - seh
@@ -11057,6 +11181,8 @@
   - sotho
   - sothoi
   - sosotho
+  - isisuthu
+  - isisotho
   glottocode: sout2807
   iso_639_3:
   - sot
@@ -12389,6 +12515,10 @@
   - NG
 - name:
   - xhosa
+  - ixhosa
+  - isixhosa
+  - isizhoza
+  - isixhoza
   - sixhosa
   - sizhosa
   - sexhovza
@@ -12775,22 +12905,88 @@
     - ZW
 
 - name:
+  - espagno
   - espagnol
   - spanish
+  - espanhol
   iso_639_3:
   - spa
-  glottolog: stan1288
+  glottocode stan1288
   countries:
   - BJ
+  - CV
   - GH
   - LS
   - "NA"
   - "ZA"
+  - SN
 
 - name:
   - swedish
   iso_639_3:
   - swe
-  glottolog: swed1254
+  glottocode swed1254
   countries:
   - KE
+
+- name:
+  - dutch
+  - flemish
+  iso_639_3:
+  - nld
+  glottocode
+  - dutc1256
+  countries:
+  - LR
+  - "NA"
+
+- name:
+  - hebrew
+  iso_639_3:
+  - heb
+  glottocode hebr1246
+  countries:
+  - ZA
+
+- name:
+  - italian
+  - italien
+  - italiane
+  - italitn
+  - italiano
+  iso_639_3:
+  - ita
+  glottocode ital1282
+  countries:
+  - MG
+  - CV
+  - MZ
+  - MG
+  - SN
+
+- name:
+  - japanese
+  - japonais
+  iso_639_3:
+  - jpn
+  glottocode nucl1643
+  countries:
+  - MW
+  - MG
+
+- name:
+  - russian
+  iso_639_3:
+  - rus
+  glottocode russ1263
+  countries:
+  - LS
+  - "NA"
+
+- name:
+  - finish
+  iso_639_3:
+  - fin
+  glottocode finn1318
+  countries:
+  - "ZA"
