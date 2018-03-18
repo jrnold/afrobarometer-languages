@@ -9,6 +9,12 @@ source(here::here("src", "R", "init.R"))
 
 OUTPUT <- project_path("data", "languages_respno.csv")
 
+
+clean_lang <- function(x) {
+  str_replace_all(str_to_lower(x), "\\s*/\\s*", "/") %>%
+    str_replace_all("\\s*-\\s*", "-")
+}
+
 #' For an Afrobarometer Dataset summarize the languages
 summarize_lang <- function(vartype, varname, x, country, withinwt) {
   if (is.na(varname)) {
@@ -36,7 +42,7 @@ summarize_lang <- function(vartype, varname, x, country, withinwt) {
     ungroup() %>%
     mutate(variable = UQ(varname),
            type = UQ(vartype),
-           lang_name = str_to_lower(label))
+           lang_name = clean_lang(label))
   }
 }
 

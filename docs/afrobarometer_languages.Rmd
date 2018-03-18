@@ -1,0 +1,100 @@
+---
+title: "Afrobarometer Languages Across Rounds"
+author: "Jeffrey Arnold"
+date: "3/18/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+options(knitr.kable.NA = "")
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r message=FALSE}
+library("tidyverse")
+library("glue")
+source(here::here("src", "R", "init.R"))
+
+glottolog_db <- src_sqlite(here::here("external", "lingdata", "glottolog.db"))
+iso_639_3_db <- src_sqlite(here::here("external", "lingdata", "iso_639_3.db"))
+```
+
+
+# Languages Across Rounds
+
+```{r results='asis'}
+language_values <- read_csv(here::here("data", "language_values.csv"), na = "",
+                           col_types = cols(
+                            round = col_integer(),
+                            variable = col_character(),
+                            type = col_character(),
+                            value = col_integer(),
+                            label = col_character(),
+                            country = col_character(),
+                            lang_name = col_character(),
+                            iso_639_3 = col_character(),
+                            glottocode = col_character(),
+                            wals = col_character(),
+                            n_resp = col_integer(),
+                            prop = col_double()
+                          ))
+
+countries <- sort(unique(language_values$country))
+
+# add glottolog names
+language_values <- 
+  left_join(language_values, 
+            select(tbl(glottolog_db, "languoids"), glottocode, name),
+            by = "glottocode", copy = TRUE) %>%
+  mutate(glottolog_url = glottolog_url(glottocode)) %>%
+  mutate(glottocode = str_c("[", name, "](", glottocode, ")"))
+
+# add iso 639 codes
+language_values_iso <- 
+  language_values %>%
+  mutate(iso_639_3 = str_split(iso_639_3, " +")) %>%
+  unnest() %>%
+  distinct(country, lang_name, iso_639_3) %>%
+  left_join(select(tbl(iso_639_3_db, "iso_639_3"), iso_639_3 = Id, Ref_Name),  
+            by = c("iso_639_3"), copy = TRUE) %>%
+  mutate(iso_codes = str_c("[", Ref_Name, "](", iso_639_url(iso_639_3), ")")) %>%
+  filter(!is.na(iso_codes)) %>%
+  group_by(country, lang_name) %>%
+  summarise(iso_codes = str_c(sort(unique(iso_codes)), collapse = ", "))
+
+language_values <- left_join(language_values, language_values_iso,
+                             by = c("lang_name", "country"))
+
+for (country in countries) {
+  cat(glue("\n\n## {country}\n"))  
+  for (vartype in c("respondent", "interview")) {  
+    country_langs <- 
+      language_values %>%
+        filter(type %in% UQ(vartype), country == UQ(country)) %>%
+        select(round, lang_name, glottocode, iso_codes, prop) %>%
+        group_by(lang_name, glottocode, iso_codes) %>%
+        mutate(avg_prop = mean(prop), min_rnd = min(round)) %>%
+        ungroup()
+    # there are often bugs here. splitting it here makes it easier to 
+    # debug because I can insepct country langs
+    
+    country_langs %>%
+      spread(round, prop) %>%
+      arrange(min_rnd, -avg_prop) %>%
+      select(lang_name, `ISO 639-3` = iso_codes, 
+             Glottolog = glottocode,
+             matches("^[0-9]$")) %>%
+      knitr::kable(digits = 2, 
+                   caption = glue("Responses for {vartype} in {country}")) %>%
+      print()
+  }
+}
+
+```
+
+# All Mapppings
+
+```{r results='asis'}
+
+
+```

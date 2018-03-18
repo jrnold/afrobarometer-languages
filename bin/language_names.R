@@ -13,11 +13,7 @@ glotto2wals <- tbl(glottolog_db, "wals_codes") %>%
   summarise(wals_code = str_c(sort(unique(wals_code)), collapse = " ")) %>%
   deframe()
 
-options(warn = 2, error = recover)
 process_lang <- function(x) {
-  if (is.null(x[["country"]])) {
-    print(x)
-  }
   x[["country"]] <- sort(unique(x[["country"]]))
   x[["name"]] <- sort(unique(x[["name"]]))
   x[["iso_639_3"]] <- str_c(x[["iso_639_3"]], collapse = " ")

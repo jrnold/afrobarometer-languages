@@ -193,3 +193,38 @@ env_bind_fns(IO,
 seteq <- function(x, y) {
   !length(setdiff(x, y)) && !length(setdiff(y, x))
 }
+
+
+ethnologue_url <- function(id) {
+  str_c("https://www.ethnologue.com/language/", id)
+}
+
+iso_639_url <- function(id) {
+  str_c("http://www-01.sil.org/iso639-3/documentation.asp?id=", id)
+}
+
+glottolog_url <- function(id) {
+  str_c("http://glottolog.org/resource/languoid/id/", id)
+}
+
+wals_url <- function(id, type="language") {
+  switch(type,
+    language = str_c("http://wals.info/languoid/lect/wals_code_", id),
+    genus = str_c("http://wals.info/languoid/genus/", id),
+    family = str_c("http://wals.info/languoid/family/", id)
+  )
+
+}
+
+# fct_set_na <- function(f, na_values = character(), na_default = "(Missing)") {
+#   out <- fct_explicit_na(f, na_level)
+#   attr(fct_with_na, "na_values") <- na_values
+#   structure(f, class = c("factor_na", "factor"))
+# }
+#
+# # Method to remove NA values.
+# # - factor
+# # - fct_with_na
+# fct_rm_na <- function(f, ...) {
+#
+# }

@@ -14,17 +14,17 @@ ROUND <- 4
 OUTFILE <- here::here("data", "multiple_languages.csv")
 
 #' Regexes that combine previously split languages into one language
-REGEX_COMBINE <- c("\\bdamara(ra)? nama\\b" = "damara_/_nama",
-                    "\\bpeulh fulfulde\\b" = "peulh_/_fulfulde",
-                    "\\bga adangbe\\b" = "ga_/_adangbe",
-                    "\\bga dangbe\\b" = "ga_/_dangbe",
-                    "\\bsoninke sarakolle\\b" = "soninke_/_sarakolle",
-                    "\\bsenufo mianka\\b" = "senufo_/_mianka ",
+REGEX_COMBINE <- c("\\bdamara(ra)? nama\\b" = "damara/nama",
+                    "\\bpeulh fulfulde\\b" = "peulh/fulfulde",
+                    "\\bga adangbe\\b" = "ga/adangbe",
+                    "\\bga dangbe\\b" = "ga/dangbe",
+                    "\\bsoninke sarakolle\\b" = "soninke/sarakolle",
+                    "\\bsenufo mianka\\b" = "senufo/mianka ",
                     "\\b(pidgin|simple) english\\b" = "\\1_english",
                     "\\bkete krachi\\b" = "kete-krachi",
                     "\\bkari? kari?\\b" = "kari-kari",
                     "\\bshi (tcheua|shewa)\\b" = "shi-\\1",
-                    "\\b(nyanja|sena) chewa\\b" = "\\1_/_chewa",
+                    "\\b(nyanja|sena) chewa\\b" = "\\1/chewa",
                     "\\bsimple liberian english\\b" = "simple_liberian_english",
                     "\\b(south(ern)?) sotho\\b" = "\\1_sotho",
                     "\\b(north(ern)?) sotho\\b" = "\\1_sotho")

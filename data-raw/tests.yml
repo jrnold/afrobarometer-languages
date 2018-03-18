@@ -1,3 +1,9 @@
+iso:
+  special:
+    - mis
+    - mul
+    - und
+    - zxx
 wals:
   non_african:
     - abh
