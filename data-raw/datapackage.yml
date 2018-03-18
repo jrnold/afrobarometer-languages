@@ -260,13 +260,14 @@ resources:
     - <<: *round
     - name: variable
       <<: *variable-type
-    - name: respno
-      type: string
-      label: Respondent ID
-      description: >
-        Respondent identifier
-      constraints:
-        required: true
+    - <<: &respno
+        name: respno
+        type: string
+        label: Respondent ID
+        description: >
+          Respondent identifier
+        constraints:
+          required: true
     - name: country
       <<: *iso-alpha2
     - name: lang_name
@@ -341,3 +342,31 @@ resources:
         required: true
         minimum: 0
         maximum: 1
+
+- name: multiple_languages
+  path: multiple_languages
+  title: Languages spoken by the respondent
+  description: >
+    Links for all languages.
+  <<: *csv
+  schema:
+    fields:
+    - <<: *round
+    - name: country
+      <<: *iso-alpha2
+    - <<: *respno
+    - name: lang_name
+      description: >
+        Language name (verbatim). The verbatim responses were edited to
+        split the string into multiple languages, but otherwise the names
+        are left unchanged.
+    - <<: *iso-639-3
+    - <<: *glottocode
+    - <<: *wals
+    - name: lang_number
+      type: integer
+      constraints:
+        minimum: 1
+      label: Language number
+      description: >
+        Language number for each respondent in the order it was listed by the respondent.

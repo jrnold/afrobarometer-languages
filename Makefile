@@ -77,6 +77,13 @@ data/language_values.csv: bin/language_values.R \
 	$(INIT)
 data: data/language_values.csv
 
+data/multiple_languages.csv: bin/multiple_languages.R \
+	data/countries.csv \
+	data/language_names.csv \
+	$(AFROBAROMETER_DATA) \
+	$(INIT)
+data: data/multiple_languages.csv
+
 # --- Validate mappings ---
 validate-mappings: bin/validate-yaml.sh $(subst %.schema,%.yml,$(wildcard data-raw/*.schema))
 	$<

@@ -126,7 +126,7 @@ NG,alago,ala,alag1242,ido
 DZ,algerian arabic,arq,alge1239,atu
 DZ,arabic,arq,alge1239,atu
 MA,alhassania,mey,hass1238,ahs
-CI,alladjan,mis,,
+CI,alladjan,ald,alla1248,ald
 UG,alur,alz,alur1250,luo
 MA,amazigh,tzm zgh,cent2194,bse
 DZ,amazigh,kab,kaby1243,kbl
@@ -137,7 +137,7 @@ TG,ana,ife,ifee1241,yor
 TG,anago,mis,,
 NG,anam,mis,,
 NG,anang,anw,anaa1238,efi ibi
-CI,andoh,mis,,
+CI,andoh,bci,baou1238,ble
 NG,andoni,ann,obol1243,obo
 NG,ndoni,ann,obol1243,obo
 NG,angas,anc,ngas1240,anc
@@ -169,6 +169,12 @@ SD,sudanese arabic,apd,suda1236,abb
 TN,arabic,aeb,tuni1259,atu
 NG,arago,ala,alag1242,ido
 UG,aringa,luc,arin1244,avo lgt lug
+BF,achanti,twi,asan1239,akn
+BH,achanti,twi,asan1239,akn
+BJ,achanti,twi,asan1239,akn
+GH,achanti,twi,asan1239,akn
+ML,achanti,twi,asan1239,akn
+TG,achanti,twi,asan1239,akn
 BF,asante,twi,asan1239,akn
 BH,asante,twi,asan1239,akn
 BJ,asante,twi,asan1239,akn
@@ -201,7 +207,8 @@ ZA,asian/other,hin,hind1269,hin
 GH,assin,mis,,
 CM,asumb0,ass,ipul1238,tiv
 UG,ateso,teo,teso1249,tes
-NG,attakar,kcg,tyap1238,gwo
+NG,atakat,kcg,atak1251,gwo
+NG,attakar,kcg,atak1251,gwo
 CI,attié,ati,atti1239,abd adi akn ald anu avk ayi ble cum nkn
 GH,atweti,mis,,
 NG,auche,mis,,
@@ -227,6 +234,7 @@ NG,babur,bwr,bura1292,bpa
 NG,baburo,bwr,bura1292,bpa
 NG,baburu,bwr,bura1292,bpa
 NG,bachama,bcy,baca1246,gud
+NG,chamawa,bcy,baca1246,gud
 CM,bachiotia,mis,,
 CI,bacoue,mis,,
 NG,bada,bde,bade1248,bad
@@ -241,13 +249,15 @@ CM,bafia,ksf,bafi1243,bfi
 CM,bafmen,bfm,mmen1238,kou oku
 CM,bafo,bwt,bafa1247,bas bfi bga bku bnk buj buw dua ewo ldo mkz mpo tgo
 CM,bafounda,mis,,
-CM,bafoussam,mis,,
 CM,bafut,bfd,bafu1246,baf
 GN,baga,bcg bmd bsp ldm,temn1245,bgs tne
 CM,bagangte,byv,medu1238,fef yem
+CM,bangangté,byv,medu1238,fef yem
+CM,medoumba,byv,medu1238,fef yem
 TG,bago,bqg,bago1245,tem
 UG,bagungu,rub,gung1250,buk gus hnd hya kin lda luy nbo nde nko rnd rny rru tal
 NG,bagwom,mis,,
+CM,bafoussam,bbj,ghom1250,fef yem
 CM,baham,bbj,ghom1250,fef yem
 CM,baham/bafoussam,bbj,ghom1250,fef yem
 NG,bahumono,bcs,kohu1244,koh
@@ -304,7 +314,6 @@ GH,banda,nfr,nafa1258,naf
 NG,bandawa,bcv,shoo1247,juk
 CM,bandjoun,bbj,ghom1247,fef yem
 CM,banen,tvu,tune1261,gun tki
-CM,bangangté,byv,medu1238,fef yem
 CM,bangou,mis,,
 CM,bangwa,nge nnz,mbam1249,baf bmn fef mbi mbz mgk mkq yba yem
 CM,banossi,mis,,
@@ -415,7 +424,8 @@ NG,borom,mis,,
 CM,bouda,mis,,
 ML,bozo,boz bze boo bzx,bozo1252,boz
 NG,brass,mis,,
-GH,brefo,mis,,
+GH,birfuo,biv,sout2790,dga
+GH,brefo,biv,sout2790,dga
 GH,brefo/birfuo,biv,sout2790,dga
 GH,brifo,biv,sout2790,dga
 GH,brong,abr,abro1238,akn
@@ -424,27 +434,24 @@ SD,brown amer language,mis,,
 CM,bu,boe,mund1328,agh bab bfi baf bku bkn bmn bnk bas buj buw dua eja ewo fef gun kyg kou lns ldo mkz mla mkq mbz mbi mud mgk nge non oku tik tki tnn yba yem
 GH,buam/lelemi,lef,lele1264,llm
 CM,buda,mis,,
-ZW,budya,mis,,
-GH,buem,lef,lele1264,llm
-GH,buile,mis,,
-GH,builsa,bwu,buli1254,buy
+ZW,budya,sna,budy1238,shn
 ZW,buja,sna,budy1238,shn
-NG,buji,jer,buji1242,amo
+GH,buem,lef,lele1264,llm
 NG,bujja,mis,,
+NG,buji,jer,buji1242,amo
 NG,buju,jer,buji1242,amo
 KE,bukusu,bxk,buku1249,buk
+GH,buile,bwu,buli1254,buy
+GH,builsa,bwu,buli1254,buy
 GH,bule,bwu,buli1254,buy
+GH,bulsa,bwu,buli1254,buy
 ZA,bulgarian,bul,bulg1262,bul
 GH,buli,bwu,buli1254,buy
-GH,bulsa,bwu,buli1254,buy
 CM,bulu,bum,bulu1251,buw
 CM,bum,mdd,mbum1254,mbm
 NG,bura,bwr,bura1292,bpa
 NG,burah,bwr,bura1292,bpa
 KE,burji,bji,burj1242,brj
-GH,busanga,mis,,
-NG,bussa,mis,,
-GH,buzanga,mis,,
 BF,bwaba,bmq box,bwam1247,kfe
 BF,bwamou,bmq box,bwam1247,kfe
 BF,bwamu,bmq box,bwam1247,kfe
@@ -454,13 +461,13 @@ NG,calabar,efi,efik1245,efi
 NA,caprivi languages,loz,lozi1239,loz
 MZ,chaewa,nya,nyan1308,cic
 TZ,chagga,old,moch1256,cga
-NG,chamawa,mis,,
 GH,chamba,bud,ntch1242,ncm
 NG,chamba,ccg,samb1311,mla tik
 MZ,changana,tso,chan1318,tsn
 ZW,changani,tso,chan1318,tsn
 MZ,chape,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul
 MZ,chopi,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul
+MZ,machope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul
 MZ,shope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul
 NG,chawai,cch,atsa1241,amo
 GH,chekosi,cko,anuf1239,anu
@@ -527,8 +534,8 @@ ZM,tchitchewa,nya,chew1246,cic
 ZW,tchitchewa,nya,chew1246,cic
 MZ,chibarue,bwg,barw1243,sen
 MZ,chibaure,bwg,barw1243,sen
-NG,chibok,ckl,ciba1236,bpa
 MZ,chiburue,bwg,barw1243,sen
+NG,chibok,ckl,ciba1236,bpa
 MZ,chigorongozi,mis,,
 ZW,chikaranga,sna,kara1480,shn
 ZM,chikunda,kdn,kund1255,cic sen
@@ -541,6 +548,8 @@ MW,chimang’anja,swk,mala1475,sen
 MZ,chimanica,mxc,many1258,shn
 MZ,chimanyca,mxc,many1258,shn
 MZ,cimanica,mxc,many1258,shn
+MZ,manhica,mxc,many1258,shn
+MZ,munica,mxc,many1258,shn
 MZ,chimarenge,vmr,mare1260,eko mua
 GH,chimullu,ncu,chum1261,cum
 MW,chinamwanga,mwn,nyam1275,mmw
@@ -588,7 +597,6 @@ MW,chiao,yao,yaoo1241,yao
 MW,chiyao,yao,yaoo1241,yao
 GH,chokosi,cko,anuf1239,anu
 ZM,chokwe,cjk,chok1245,luv
-MZ,chona,mis,,
 MZ,chongo,mis,,
 KE,chonyi,coh,chon1287,com
 MZ,chope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul
@@ -643,8 +651,9 @@ GH,dagati,dga,sout2789,dga
 GH,dagbami,dag,dagb1246,dgb
 GH,dagbane,dag,dagb1246,dgb
 GH,dagbani,dag,dagb1246,dgb
-GH,dangbani,dag,dagb1246,dgb
 GH,dagomba,dag,dagb1246,dgb
+GH,danbge,dag,dagb1246,dgb
+GH,dangbani,dag,dagb1246,dgb
 CI,dahomey,fon,fonn1241,fon
 NG,dakarkari,dri,clel1238,duk
 BW,damara,naq,nama1264,kho
@@ -660,10 +669,10 @@ NG,degema,deg,dege1246,deg
 LR,dei,dee,dewo1238,grb gue kla wob
 NG,delta,mis,,
 BJ,dendi,ddn,dend1243,zar
-SN,diahanke,mlq,west2500,maw
 ML,diaka,mis,,
 GN,diakanke,jad,jaha1245,maw xas
 GN,diakanké,jad,jaha1245,maw xas
+SN,diahanke,mlq,west2500,maw
 SN,diakhanke,mlq,west2500,maw
 MG,dialect malg,bhr bmm bzc msh skg tdx tkg txy xmv xmw,mala1537,mal
 MG,dialecte,bhr bmm bzc msh skg tdx tkg txy xmv xmw,mala1537,mal
@@ -675,6 +684,9 @@ GH,dibebi,mis,,
 CI,dida,dic gud,dida1245,vat
 NG,diemak,mis,,
 KE,digo,dig,digo1243,com
+TZ,digo,dig,digo1243,com
+KE,kidigo,dig,digo1243,com
+TZ,kidigo,dig,digo1243,com
 CM,dii,dur,diii1241,ygd
 KE,dinka,mis,,
 SN,diol,dyo,jola1263,dio
@@ -703,7 +715,7 @@ BF,dogons,djm dtm,plai1257,jms
 BF,dogose,dos,dogo1295,brb kby kir kow lob lye nnn ssa tem tmp vag xsm
 BF,dogosse,dos,dogo1295,brb kby kir kow lob lye nnn ssa tem tmp vag xsm
 GH,dolime,wlx,wali1263,dga
-GH,dolimuu,mis,,
+GH,dolimuu,wlx,wali1263,dga
 ZW,dombe,dov,domb1246,ila toz
 BF,donsin,mis,,
 CM,douala,dua,dual1243,dua
@@ -726,19 +738,20 @@ NG,egbema,ijc,izon1238,ijo
 NG,egbma,ijc,izon1238,ijo
 NG,egbueuakaa,mis,,
 NG,egede,ige,iged1239,ige
+NG,eggan,ego,eggo1239,bir fye gwo kgm mdz tok
 NG,eggon,ego,eggo1239,bir fye gwo kgm mdz tok
+NG,egon,ego,eggo1239,bir fye gwo kgm mdz tok
 NG,egi,mis,,
 CI,ehotile,eot,beti1248,akn anu ayi ble cum nkn
 CM,ejagam,etu,ejag1239,eja
 NG,ejagam,etu,ejag1239,eja
 CM,ejagham,etu,ejag1239,eja
-CM,ejaka,mis,,
-CM,ejakam,mis,,
+CM,ejaka,etu,ejag1239,eja
+CM,ejakam,etu,ejag1239,eja
 MZ,ekote,eko,koti1238,eko
 NG,ekpeye,ekp,ekpe1253,igb izi
-CM,elam eguo,ags,esim1238,tiv
 CM,elam equ0,ags,esim1238,tiv
-CM,elam equo,mis,,
+CM,elam equo,ags,esim1238,tiv
 NG,eleme,elm,elem1253,gok kan
 MZ,emakhuwa,vmw,makh1264,mua
 KE,embu,ebu,embu1241,kik
@@ -1341,13 +1354,17 @@ NG,fakawa,mis,,
 NG,fakun,mis,,
 CM,fali,fal fll,adam1254,aiz
 NG,fali,fli,fali1285,gud
-NG,faliya,mis,,
+NG,faliya,fli,fali1285,gud
 CM,fang,fan,fang1246,buw ewo
 GA,fang,fan,fang1246,buw ewo
 GH,fante,fat,fant1241,akn
 ML,fante,fat,fant1241,akn
 GH,fanti,fat,fant1241,akn
 ML,fanti,fat,fant1241,akn
+GH,fantla,fat,fant1241,akn
+ML,fantla,fat,fant1241,akn
+GH,nfante,fat,fant1241,akn
+ML,nfante,fat,fant1241,akn
 NG,femawa,mis,,
 TZ,fipa,fip,fipa1238,mmw
 BJ,fodo,mis,,
@@ -1377,6 +1394,7 @@ GH,fancais,fra,stan1290,fre
 GN,fancais,fra,stan1290,fre
 KE,fancais,fra,stan1290,fre
 LR,fancais,fra,stan1290,fre
+LS,fancais,fra,stan1290,fre
 MA,fancais,fra,stan1290,fre
 MG,fancais,fra,stan1290,fre
 ML,fancais,fra,stan1290,fre
@@ -1406,6 +1424,7 @@ GH,fançais,fra,stan1290,fre
 GN,fançais,fra,stan1290,fre
 KE,fançais,fra,stan1290,fre
 LR,fançais,fra,stan1290,fre
+LS,fançais,fra,stan1290,fre
 MA,fançais,fra,stan1290,fre
 MG,fançais,fra,stan1290,fre
 ML,fançais,fra,stan1290,fre
@@ -1435,6 +1454,7 @@ GH,farancais,fra,stan1290,fre
 GN,farancais,fra,stan1290,fre
 KE,farancais,fra,stan1290,fre
 LR,farancais,fra,stan1290,fre
+LS,farancais,fra,stan1290,fre
 MA,farancais,fra,stan1290,fre
 MG,farancais,fra,stan1290,fre
 ML,farancais,fra,stan1290,fre
@@ -1464,6 +1484,7 @@ GH,ffrancais,fra,stan1290,fre
 GN,ffrancais,fra,stan1290,fre
 KE,ffrancais,fra,stan1290,fre
 LR,ffrancais,fra,stan1290,fre
+LS,ffrancais,fra,stan1290,fre
 MA,ffrancais,fra,stan1290,fre
 MG,ffrancais,fra,stan1290,fre
 ML,ffrancais,fra,stan1290,fre
@@ -1493,6 +1514,7 @@ GH,ffrançais,fra,stan1290,fre
 GN,ffrançais,fra,stan1290,fre
 KE,ffrançais,fra,stan1290,fre
 LR,ffrançais,fra,stan1290,fre
+LS,ffrançais,fra,stan1290,fre
 MA,ffrançais,fra,stan1290,fre
 MG,ffrançais,fra,stan1290,fre
 ML,ffrançais,fra,stan1290,fre
@@ -1522,6 +1544,7 @@ GH,frabcais,fra,stan1290,fre
 GN,frabcais,fra,stan1290,fre
 KE,frabcais,fra,stan1290,fre
 LR,frabcais,fra,stan1290,fre
+LS,frabcais,fra,stan1290,fre
 MA,frabcais,fra,stan1290,fre
 MG,frabcais,fra,stan1290,fre
 ML,frabcais,fra,stan1290,fre
@@ -1551,6 +1574,7 @@ GH,fracais,fra,stan1290,fre
 GN,fracais,fra,stan1290,fre
 KE,fracais,fra,stan1290,fre
 LR,fracais,fra,stan1290,fre
+LS,fracais,fra,stan1290,fre
 MA,fracais,fra,stan1290,fre
 MG,fracais,fra,stan1290,fre
 ML,fracais,fra,stan1290,fre
@@ -1580,6 +1604,7 @@ GH,fraicais,fra,stan1290,fre
 GN,fraicais,fra,stan1290,fre
 KE,fraicais,fra,stan1290,fre
 LR,fraicais,fra,stan1290,fre
+LS,fraicais,fra,stan1290,fre
 MA,fraicais,fra,stan1290,fre
 MG,fraicais,fra,stan1290,fre
 ML,fraicais,fra,stan1290,fre
@@ -1609,6 +1634,7 @@ GH,fran,fra,stan1290,fre
 GN,fran,fra,stan1290,fre
 KE,fran,fra,stan1290,fre
 LR,fran,fra,stan1290,fre
+LS,fran,fra,stan1290,fre
 MA,fran,fra,stan1290,fre
 MG,fran,fra,stan1290,fre
 ML,fran,fra,stan1290,fre
@@ -1638,6 +1664,7 @@ GH,franc,fra,stan1290,fre
 GN,franc,fra,stan1290,fre
 KE,franc,fra,stan1290,fre
 LR,franc,fra,stan1290,fre
+LS,franc,fra,stan1290,fre
 MA,franc,fra,stan1290,fre
 MG,franc,fra,stan1290,fre
 ML,franc,fra,stan1290,fre
@@ -1667,6 +1694,7 @@ GH,franç,fra,stan1290,fre
 GN,franç,fra,stan1290,fre
 KE,franç,fra,stan1290,fre
 LR,franç,fra,stan1290,fre
+LS,franç,fra,stan1290,fre
 MA,franç,fra,stan1290,fre
 MG,franç,fra,stan1290,fre
 ML,franç,fra,stan1290,fre
@@ -1696,6 +1724,7 @@ GH,frança,fra,stan1290,fre
 GN,frança,fra,stan1290,fre
 KE,frança,fra,stan1290,fre
 LR,frança,fra,stan1290,fre
+LS,frança,fra,stan1290,fre
 MA,frança,fra,stan1290,fre
 MG,frança,fra,stan1290,fre
 ML,frança,fra,stan1290,fre
@@ -1725,6 +1754,7 @@ GH,francai,fra,stan1290,fre
 GN,francai,fra,stan1290,fre
 KE,francai,fra,stan1290,fre
 LR,francai,fra,stan1290,fre
+LS,francai,fra,stan1290,fre
 MA,francai,fra,stan1290,fre
 MG,francai,fra,stan1290,fre
 ML,francai,fra,stan1290,fre
@@ -1754,6 +1784,7 @@ GH,francais,fra,stan1290,fre
 GN,francais,fra,stan1290,fre
 KE,francais,fra,stan1290,fre
 LR,francais,fra,stan1290,fre
+LS,francais,fra,stan1290,fre
 MA,francais,fra,stan1290,fre
 MG,francais,fra,stan1290,fre
 ML,francais,fra,stan1290,fre
@@ -1783,6 +1814,7 @@ GH,français,fra,stan1290,fre
 GN,français,fra,stan1290,fre
 KE,français,fra,stan1290,fre
 LR,français,fra,stan1290,fre
+LS,français,fra,stan1290,fre
 MA,français,fra,stan1290,fre
 MG,français,fra,stan1290,fre
 ML,français,fra,stan1290,fre
@@ -1812,6 +1844,7 @@ GH,francaise,fra,stan1290,fre
 GN,francaise,fra,stan1290,fre
 KE,francaise,fra,stan1290,fre
 LR,francaise,fra,stan1290,fre
+LS,francaise,fra,stan1290,fre
 MA,francaise,fra,stan1290,fre
 MG,francaise,fra,stan1290,fre
 ML,francaise,fra,stan1290,fre
@@ -1841,6 +1874,7 @@ GH,frances,fra,stan1290,fre
 GN,frances,fra,stan1290,fre
 KE,frances,fra,stan1290,fre
 LR,frances,fra,stan1290,fre
+LS,frances,fra,stan1290,fre
 MA,frances,fra,stan1290,fre
 MG,frances,fra,stan1290,fre
 ML,frances,fra,stan1290,fre
@@ -1870,6 +1904,7 @@ GH,francês,fra,stan1290,fre
 GN,francês,fra,stan1290,fre
 KE,francês,fra,stan1290,fre
 LR,francês,fra,stan1290,fre
+LS,francês,fra,stan1290,fre
 MA,francês,fra,stan1290,fre
 MG,francês,fra,stan1290,fre
 ML,francês,fra,stan1290,fre
@@ -1899,6 +1934,7 @@ GH,francias,fra,stan1290,fre
 GN,francias,fra,stan1290,fre
 KE,francias,fra,stan1290,fre
 LR,francias,fra,stan1290,fre
+LS,francias,fra,stan1290,fre
 MA,francias,fra,stan1290,fre
 MG,francias,fra,stan1290,fre
 ML,francias,fra,stan1290,fre
@@ -1928,6 +1964,7 @@ GH,francis,fra,stan1290,fre
 GN,francis,fra,stan1290,fre
 KE,francis,fra,stan1290,fre
 LR,francis,fra,stan1290,fre
+LS,francis,fra,stan1290,fre
 MA,francis,fra,stan1290,fre
 MG,francis,fra,stan1290,fre
 ML,francis,fra,stan1290,fre
@@ -1957,6 +1994,7 @@ GH,frantsay,fra,stan1290,fre
 GN,frantsay,fra,stan1290,fre
 KE,frantsay,fra,stan1290,fre
 LR,frantsay,fra,stan1290,fre
+LS,frantsay,fra,stan1290,fre
 MA,frantsay,fra,stan1290,fre
 MG,frantsay,fra,stan1290,fre
 ML,frantsay,fra,stan1290,fre
@@ -1986,6 +2024,7 @@ GH,fratsay,fra,stan1290,fre
 GN,fratsay,fra,stan1290,fre
 KE,fratsay,fra,stan1290,fre
 LR,fratsay,fra,stan1290,fre
+LS,fratsay,fra,stan1290,fre
 MA,fratsay,fra,stan1290,fre
 MG,fratsay,fra,stan1290,fre
 ML,fratsay,fra,stan1290,fre
@@ -2015,6 +2054,7 @@ GH,french,fra,stan1290,fre
 GN,french,fra,stan1290,fre
 KE,french,fra,stan1290,fre
 LR,french,fra,stan1290,fre
+LS,french,fra,stan1290,fre
 MA,french,fra,stan1290,fre
 MG,french,fra,stan1290,fre
 ML,french,fra,stan1290,fre
@@ -2044,6 +2084,7 @@ GH,freneh,fra,stan1290,fre
 GN,freneh,fra,stan1290,fre
 KE,freneh,fra,stan1290,fre
 LR,freneh,fra,stan1290,fre
+LS,freneh,fra,stan1290,fre
 MA,freneh,fra,stan1290,fre
 MG,freneh,fra,stan1290,fre
 ML,freneh,fra,stan1290,fre
@@ -2073,6 +2114,7 @@ GH,frncai,fra,stan1290,fre
 GN,frncai,fra,stan1290,fre
 KE,frncai,fra,stan1290,fre
 LR,frncai,fra,stan1290,fre
+LS,frncai,fra,stan1290,fre
 MA,frncai,fra,stan1290,fre
 MG,frncai,fra,stan1290,fre
 ML,frncai,fra,stan1290,fre
@@ -2089,7 +2131,12 @@ TN,frncai,fra,stan1290,fre
 UG,frncai,fra,stan1290,fre
 ZA,frncai,fra,stan1290,fre
 ZM,frncai,fra,stan1290,fre
-NG,fulani,fub,adam1253,fgo
+NG,fuka,fuv,nige1253,fni
+NG,fulani,fuv,nige1253,fni
+NG,fulatanli,fuv,nige1253,fni
+NG,fulfude,fuv,nige1253,fni
+NG,fulful,fuv,nige1253,fni
+NG,fulfulde,fuv,nige1253,fni
 GH,fulani,ffm,maas1239,fum
 BF,fulfude,fuh,west2454,fbf
 BF,fulfulde,fuh,west2454,fbf
@@ -2152,13 +2199,17 @@ NA,german,deu,stan1295,ger
 SN,german,deu,stan1295,ger
 NG,geum,mis,,
 CM,ghemba,mis,,
-CM,ghomala,mis,,
+CM,ghomala,bbj,ghom1247,fef yem
 LR,gio,dnj,dann1241,dan
 KE,giriama,nyf,giry1241,com
 KE,kigiriama,nyf,giry1241,com
 MZ,gitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul
 CM,gizzigare,mis,,
 NG,glanda,glw,glav1244,mlg
+NG,glaoda,glw,glav1244,mlg
+NG,glauda,glw,glav1244,mlg
+NG,glavda,glw,glav1244,mlg
+NG,glawda,glw,glav1244,mlg
 CI,gnanboua,nwb,nyab1255,gue wob
 CI,gniaboua,nwb,nyab1255,gue wob
 CI,gnideboua,mis,,
@@ -2169,6 +2220,7 @@ BF,gouin,cme,cerm1238,kir
 LR,gola,gol,gola1255,gol
 NG,gomai,mis,,
 NG,gomu,gwg,mooo1239,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp vag wwa xsm
+GH,gonga,gjn,gonj1241,cum nkn
 GH,gonja,gjn,gonj1241,cum nkn
 CM,gouife,mis,,
 NE,goumantchéma,gux,gour1243,grm
@@ -2183,10 +2235,12 @@ BF,gourousi,gur,fare1241,grn
 BF,gourouso,gur,fare1241,grn
 BF,gouroussi,gur,fare1241,grn
 LR,grebo,grb,greb1256,grb
+GH,groma,bim,bimo1239,bmb
 GH,gruma,bim,bimo1239,bmb
 GH,grumah,bim,bimo1239,bmb
 GH,grunna,bim,bimo1239,bmb
 GH,gruni,gur,fare1241,grn
+GH,gurumi,gur,fare1241,grn
 GH,grushi,xsm,kase1253,xsm
 GH,grushie,xsm,kase1253,xsm
 GH,grusi,cll kdh mzw ntr sig sil ssl tpm vag xsm,grus1239,xsm
@@ -2358,8 +2412,8 @@ NG,kadara,kad,kada1284,bir fye gwo kgm mdz tok
 BF,kado,mis,,
 NG,kagara,mis,,
 NG,kagoma,kdm,kago1247,kgm
-NG,kagoro,kcg,tyap1238,gwo
-NG,kagoru,kcg,tyap1238,gwo
+NG,kagoro,kcg,kago1246,gwo
+NG,kagoru,kcg,kago1246,gwo
 NG,kaika,mis,,
 NG,kaka,yam,yamb1251,yba
 NG,kakabari,mis,,
@@ -2373,6 +2427,7 @@ KE,kakenjin,kln,kale1246,nan
 KE,kalejin,kln,kale1246,nan
 KE,kalenjin,kln,kale1246,nan
 KE,kallenjin,kln,kale1246,nan
+KE,kikakenjin,kln,kale1246,nan
 KE,klalenjin,kln,kale1246,nan
 KE,kamba,kam,kamb1297,kba
 KE,kikamba,kam,kamb1297,kba
@@ -2385,6 +2440,7 @@ GH,kanjaga,bwu,buli1254,buy
 CM,kanouri,knc,cent2050,knr
 NE,kanuri,kau,kanu1281,knr
 NG,kanuri,kby knc,kanu1281,knr
+NG,kaunri,kby knc,kanu1281,knr
 ZM,kaonda,kqn,kaon1241,kil
 ZM,kaonde,kqn,kaon1241,kil
 UG,kapsabinyi,kpz,kups1238,seb
@@ -2398,18 +2454,20 @@ NG,kare kare,kai,kare1348,blq
 NG,karekare,kai,kare1348,blq
 NG,kari-kari,kai,kare1348,blq
 NG,karikari,kai,kare1348,blq
+NG,kerekare,kai,kare1348,blq
 NG,karmo,mis,,
 GH,kasari,mis,,
 GH,kasem,xsm,kase1253,xsm
-GH,kasim,xsm,kase1253,xsm
-GH,kassim,xsm,kase1253,xsm
+GH,kasen,xsm,kase1253,xsm
 GH,kasena,xsm,kase1253,xsm
+GH,kasim,xsm,kase1253,xsm
 GH,kasina,xsm,kase1253,xsm
+GH,kassim,xsm,kase1253,xsm
 BF,kassena,xsm,kase1253,xsm
 NG,kataf,kcg,tyap1238,gwo
-NG,kataf (atyap),kcg,tyap1238,gwo
-NG,kataf(atyap),kcg,tyap1238,gwo
 NG,katap,kcg,tyap1238,gwo
+NG,kataf (atyap),kcg,kata1265,gwo
+NG,kataf(atyap),kcg,kata1265,gwo
 NG,katongu,mis,,
 NA,kavango,diu kwn,cent2260,kwn
 NA,kavango languages,diu kwn,cent2260,kwn
@@ -2440,8 +2498,6 @@ TZ,kiborana,gax,bora1272,orb
 TZ,kibunga,mis,,
 TZ,kibungu,wun,bung1265,mmw
 TZ,kichaga,old,moch1256,cga
-KE,kidigo,dig,digo1243,com
-TZ,kidigo,dig,digo1243,com
 TZ,kidoe,doe,doee1238,kmi
 TZ,kifipa,fip,fipa1238,mmw
 TZ,kigindo,mis,,
@@ -2499,20 +2555,19 @@ MZ,makonde,kde,mako1251,mkd
 TZ,makonde,kde,mako1251,mkd
 MZ,kimakua,mgh,makh1261,mua
 TZ,kimakua,mgh,makh1261,mua
+MZ,kimakuwa,mgh,makh1261,mua
+TZ,kimakuwa,mgh,makh1261,mua
 MZ,macua,mgh,makh1261,mua
 TZ,macua,mgh,makh1261,mua
 MZ,makhuwa,mgh,makh1261,mua
 TZ,makhuwa,mgh,makh1261,mua
 TZ,kimakunduchi,mis,,
-TZ,kimakuwa,mgh,makh1261,mua
 TZ,kimalila,mgq,mali1279,mmw nyh
-TZ,kimalili,mis,,
+TZ,kimalili,mgq,mali1279,mmw nyh
 TZ,kimambwe,mgr,mamb1297,mmw
 TZ,kimanda,mgs,mand1423,ngo
 TZ,kimang'ati,mis,,
 TZ,kimanyema,nym,nyan1306,nym
-KE,kimasai,mas,masa1300,maa
-TZ,kimasai,mas,masa1300,maa
 TZ,kimatambwe,mis,,
 TZ,kimatengo,mgv,mate1258,mtb
 TZ,kimatumbi,mgw,matu1259,mtb
@@ -2522,6 +2577,7 @@ TZ,kimbulu,irk,iraq1241,irq
 TZ,kimbungo,mis,,
 TZ,kimdale,mis,,
 TZ,kimeru,rwk,rwaa1238,cga
+MZ,kemuani,wmw,mwan1247,swa
 MZ,kimuani,wmw,mwan1247,swa
 TZ,kimuwanji,wbi,vwan1235,heh kga ngo png
 MZ,kimwani,wmw,mwan1247,swa
@@ -2562,6 +2618,7 @@ TZ,kirangi,lag,lang1320,lgi
 KE,kirinyaga,kik,kiku1240,kik
 TZ,kirufiji,rui,rufi1236,mtb
 BI,kirundi,run,rund1242,rnd
+TZ,kirundi,run,rund1242,rnd
 TZ,kiruri,kya,ruri1238,gus
 TZ,kiryeri,ssc,suba1252,gus
 TZ,kisafwa,sbk,safw1238,mmw nyh
@@ -2580,54 +2637,13 @@ TZ,kisimbiti,ssc,suba1252,gus
 TZ,kisizaki,ikz,ikiz1238,gus
 SL,kissi,kqs kss,kiss1245,kis kss
 GN,kissi,kqs,nort2765,kis kss
-LR,kissi,kss,sout2778,kss
 GN,kissié,kqs,nort2765,kis kss
+LR,kissi,kss,sout2778,kss
 TZ,kisuba,ssc,suba1252,gus
 TZ,kisubi,suj,shub1238,kin rnd
 TZ,kisukuma,suk,suku1261,skm
 TZ,kisumbwa,suw,sumb1240,nym skm
 TZ,kisunva,mis,,
-ZM,kiswahili,swc,cong1236,swa
-KE,kisawhili,swh,swah1253,swa
-MZ,kisawhili,swh,swah1253,swa
-TZ,kisawhili,swh,swah1253,swa
-KE,kiswahii,swh,swah1253,swa
-MZ,kiswahii,swh,swah1253,swa
-TZ,kiswahii,swh,swah1253,swa
-KE,kiswahiil,swh,swah1253,swa
-MZ,kiswahiil,swh,swah1253,swa
-TZ,kiswahiil,swh,swah1253,swa
-KE,kiswahiki,swh,swah1253,swa
-MZ,kiswahiki,swh,swah1253,swa
-TZ,kiswahiki,swh,swah1253,swa
-KE,kiswahil,swh,swah1253,swa
-MZ,kiswahil,swh,swah1253,swa
-TZ,kiswahil,swh,swah1253,swa
-KE,kiswahili,swh,swah1253,swa
-MZ,kiswahili,swh,swah1253,swa
-TZ,kiswahili,swh,swah1253,swa
-KE,kiswahilli,swh,swah1253,swa
-MZ,kiswahilli,swh,swah1253,swa
-TZ,kiswahilli,swh,swah1253,swa
-KE,kiswahli,swh,swah1253,swa
-MZ,kiswahli,swh,swah1253,swa
-TZ,kiswahli,swh,swah1253,swa
-KE,kiswhahili,swh,swah1253,swa
-MZ,kiswhahili,swh,swah1253,swa
-TZ,kiswhahili,swh,swah1253,swa
-KE,kiswhaili,swh,swah1253,swa
-MZ,kiswhaili,swh,swah1253,swa
-TZ,kiswhaili,swh,swah1253,swa
-KE,kiswhili,swh,swah1253,swa
-MZ,kiswhili,swh,swah1253,swa
-TZ,kiswhili,swh,swah1253,swa
-KE,kswahili,swh,swah1253,swa
-MZ,kswahili,swh,swah1253,swa
-TZ,kswahili,swh,swah1253,swa
-BI,kiswahili,swh,swah1253,swa
-BW,kiswahili,swh,swah1253,swa
-MW,kiswahili,swh,swah1253,swa
-UG,kiswahili,swh,swah1253,swa
 KE,kiswahili and kalenjin,swh,swah1253,swa
 KE,kiswahili and kamba,swh,swah1253,swa
 KE,kiswahili and kikuyu,swh,swah1253,swa
@@ -2636,7 +2652,7 @@ KE,kiswahili/luhya,swh,swah1253,swa
 TZ,kitaturu,mis,,
 TZ,kitatuu,mis,,
 TZ,kitongwe,tny,tong1320,buk cga com dbd gus heh hnd hya kba kga kgr kik kin kmi lda luy nbo nde ngo nko nym png pre rnd rny rru shm skm swa tal
-TZ,kitumbatu,mis,,
+TZ,kitumbatu,gog,gogo1263,shm
 TZ,kituwan,mis,,
 TZ,kiuwanji,wbi,vwan1235,heh kga ngo png
 TZ,kividunda,vid,vidu1238,shm
@@ -2650,18 +2666,24 @@ TZ,kizinza,zin,zinz1238,hya lda nbo nko rny rru tal
 CM,klum,mis,,
 NG,knale,mis,,
 CI,kodia,kwp,kodi1246,bet ddj ney vat
-GH,kokomba,xon,konk1269,kkb
-GH,kokonba,xon,konk1269,kkb
 CM,kom,nfu,mfum1238,mbz yba
-TG,komkomba,mis,,
 BF,komono,kqm,khis1238,brb kby kir kow lob lye nnn ssa tem tmp vag xsm
 CI,komonon,mis,,
 NG,kona,juo,jiba1237,juk
 SN,koniadie,mis,,
 GN,konianké,mku,kony1250,mnk
+GH,kokomba,xon,konk1269,kkb
+TG,kokomba,xon,konk1269,kkb
+GH,kokonba,xon,konk1269,kkb
+TG,kokonba,xon,konk1269,kkb
+GH,komkomba,xon,konk1269,kkb
+TG,komkomba,xon,konk1269,kkb
 GH,konkoba,xon,konk1269,kkb
+TG,konkoba,xon,konk1269,kkb
 GH,konkomba,xon,konk1269,kkb
 TG,konkomba,xon,konk1269,kkb
+GH,konkonba,xon,konk1269,kkb
+TG,konkonba,xon,konk1269,kkb
 GN,kono,knu,kono1267,kpe
 SL,kono,kno,kono1268,vai
 GN,konon,knu,kono1267,kpe
@@ -2842,8 +2864,6 @@ UG,lwamba,rwm,amba1263,bia
 CI,m'batto,gwa,mbat1247,akn anu ayi ble cum nkn
 KE,maasai / samburu,mas saq,nucl1431,maa
 KE,maasai/samburu,mas saq,nucl1431,maa
-KE,maasai,mas,masa1300,maa
-KE,masaai,mas,masa1300,maa
 MZ,mabawe,mis,,
 CM,mabi,nmg,kwas1243,buj
 MZ,macheua,mis,,
@@ -2854,7 +2874,7 @@ UG,madi,mhi snm,sout2827,mad
 SL,madingo,emk,east2426,mnk
 CM,mafa,maf,mafa1239,dab gnd gud hna ter
 NG,mafa,maf,mafa1239,dab gnd gud hna ter
-NA,mafwe,mis,,
+NA,mafwe,fwe,fwee1238,sub
 NG,maghai,gmd,magh1238,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp vag wwa xsm
 NG,magu,mcj,mvan1238,mla
 MZ,mahawea,mis,,
@@ -2882,13 +2902,16 @@ MZ,malolo,mis,,
 CM,mambila,mis,,
 NG,mambilla,mzk,nige1255,mla
 ZM,mambwe,mgr,mamb1297,mmw
+GH,mampril,maw,mamp1244,mmp
 GH,mampruli,maw,mamp1244,mmp
 GH,mamprulni,maw,mamp1244,mmp
 GH,mamprusi,maw,mamp1244,mmp
+GH,manpurise,maw,mamp1244,mmp
 GH,manpursi,maw,mamp1244,mmp
 NG,mamunye,mis,,
 CM,mandara,mfi,wand1278,mlg
 BF,mandarai,mis,,
+LR,mandigo,mzj,many1261,mnk
 LR,mandingo,mzj,many1261,mnk
 SN,mandika,mnk,mand1436,mdk
 SN,mandikara,mnk,mand1436,mdk
@@ -2926,6 +2949,12 @@ NG,margi,mrt,marg1265,mrg
 BF,marka,rkm,mark1256,bam dyu mka mnk
 SN,marocain,mis,,
 MZ,maronga,rng,rong1268,rga
+KE,kimasai,mas,masa1300,maa
+TZ,kimasai,mas,masa1300,maa
+KE,maasai,mas,masa1300,maa
+TZ,maasai,mas,masa1300,maa
+KE,masaai,mas,masa1300,maa
+TZ,masaai,mas,masa1300,maa
 KE,masai,mas,masa1300,maa
 TZ,masai,mas,masa1300,maa
 KE,masai/samburu,mas saq,nucl1431,maa
@@ -2957,8 +2986,8 @@ GA,mbédè,mdt,mber1257,mbe
 KE,mbeere,ebu,embu1241,kik
 CM,mbem,yam,yamb1251,yba
 NG,mbembe,mfn,cros1244,agb
-CM,mbesah,mis,,
-CM,mbessa,mis,,
+CM,mbesah,yas,nugu1242,gun
+CM,mbessah,yas,nugu1242,gun
 CM,mbo,mbo,mboc1235,bas bfi bga bku bnk buj buw dua ewo ldo mkz mpo tgo
 CM,mbo'o,mis,,
 CM,mbororo,fuv,nige1253,fni
@@ -2972,11 +3001,12 @@ ZM,bunda,mck,mbun1249,luc
 ZM,mbunda,mck,mbun1249,luc
 ZW,mdombe,mis,,
 MZ,medindo,cwb,main1272,eko mua
-CM,medoumba,mis,,
 CM,mefewele,mis,,
 CM,mefi,mis,,
 CM,mekaf,mff,naki1238,non
 CM,mendakwe,mis,,
+LR,mande,men,mend1266,mde
+SL,mande,men,mend1266,mde
 LR,mende,men,mend1266,mde
 SL,mende,men,mend1266,mde
 CM,menka,pny,piny1238,baf mbi mkq
@@ -2988,10 +3018,10 @@ KE,meru/embu,ebu mer,cent2274,kba kik
 KE,meru/kimeru,mer,nucl1387,kba kik
 KE,meru/samburu,mer,meru1245,kba kik
 CM,mesagie,mis,,
-CM,meta,mis,,
-CM,metsa,mis,,
-CM,metu,mis,,
-CM,mezima,mis,,
+CM,meta,mgo,meta1238,mud
+CM,metsa,mgo,meta1238,mud
+CM,metu,mgo,meta1238,mud
+CM,mezima,mgg,mpon1254,mkz
 CM,mezime,mgg,mpon1254,mkz
 NG,mgas,anc,ngas1240,anc
 NA,mhalangwe,mis,,
@@ -3003,6 +3033,7 @@ NG,michinka,mis,,
 NG,migili,mgi,liji1238,bir fye gwo kgm mdz tok
 GN,miguiforet,mfg,mixi1241,kko
 KE,kijimkenda,coh dug nyf dig,miji1238,com
+KE,kimijikenda,coh dug nyf dig,miji1238,com
 KE,mijikenda,coh dug nyf dig,miji1238,com
 KE,mjikenda,coh dug nyf dig,miji1238,com
 GN,mikhifore,mfg,mixi1241,kko
@@ -3040,17 +3071,36 @@ BF,more,mos,moss1236,moo
 BJ,more,mos,moss1236,moo
 NA,more than one local language,mul,,
 BW,morotsi,mis,,
+BF,moshe,mos,moss1236,moo
+BJ,moshe,mos,moss1236,moo
+GH,moshe,mos,moss1236,moo
+ML,moshe,mos,moss1236,moo
+TG,moshe,mos,moss1236,moo
+BF,moshie,mos,moss1236,moo
+BJ,moshie,mos,moss1236,moo
 GH,moshie,mos,moss1236,moo
+ML,moshie,mos,moss1236,moo
+TG,moshie,mos,moss1236,moo
+BF,moshiyi,mos,moss1236,moo
+BJ,moshiyi,mos,moss1236,moo
+GH,moshiyi,mos,moss1236,moo
+ML,moshiyi,mos,moss1236,moo
+TG,moshiyi,mos,moss1236,moo
 BF,mossi,mos,moss1236,moo
 BJ,mossi,mos,moss1236,moo
 GH,mossi,mos,moss1236,moo
 ML,mossi,mos,moss1236,moo
 TG,mossi,mos,moss1236,moo
+BF,mushi,mos,moss1236,moo
+BJ,mushi,mos,moss1236,moo
+GH,mushi,mos,moss1236,moo
+ML,mushi,mos,moss1236,moo
+TG,mushi,mos,moss1236,moo
 NE,mossicthe,mis,,
 CM,moudan,mnf,mund1327,mud
+CM,moudani,mnf,mund1327,mud
+CM,moudini,mnf,mund1327,mud
 CM,moudang,mua,mund1325,mdg
-CM,moudani,mis,,
-CM,moudini,mis,,
 CM,moundang,mua,mund1325,mdg
 CM,mougoum,mug,musg1254,mgu
 CM,mousgoum,mug,musg1254,mgu
@@ -3301,7 +3351,7 @@ NG,ohafia,ibo,nucl1417,igb
 UG,kebu,ndp,okeb1238,les mmv
 UG,kebu.,ndp,okeb1238,les mmv
 UG,okebu,ndp,okeb1238,les mmv
-NG,okirika,mis,,
+NG,okirika,okr,kiri1254,ijo
 NA,okjiherero,her,here1253,her
 NG,okpe,oke,okpe1250,iso urh
 NG,okpella,atg,ivbi1241,bni ets gho ora
@@ -3360,6 +3410,7 @@ ML,fulfulde/peul,ffm,maas1239,fum
 ML,peugl/fulfulde,ffm,maas1239,fum
 ML,peuhl,ffm,maas1239,fum
 ML,peuhl/fulfulde,ffm,maas1239,fum
+ML,peulh,ffm,maas1239,fum
 ML,peulh / fulfude,ffm,maas1239,fum
 ML,peulh / fulfulde,ffm,maas1239,fum
 ML,peulh/ fulfulde,ffm,maas1239,fum
@@ -3374,9 +3425,11 @@ NG,english (pidgin),pcm,nige1257,npi
 NG,pidgen,pcm,nige1257,npi
 NG,pidgin,pcm,nige1257,npi
 NG,pidgin english,pcm,nige1257,npi
+NG,pidginenglish,pcm,nige1257,npi
 NG,pidgun,pcm,nige1257,npi
 NG,pidigin,pcm,nige1257,npi
 NG,pigin,pcm,nige1257,npi
+NG,piginenglish,pcm,nige1257,npi
 CM,pinyin,pny,piny1238,baf mbi mkq
 MZ,poetugues e xitsua,por,port1283,por
 KE,kipokomo,pkb,poko1261,com
@@ -3731,6 +3784,7 @@ NA,rukwangali,kwn,kwan1273,kwn
 NA,rukwangalii,kwn,kwan1273,kwn
 UG,rululi,ruc,ruul1235,nko rny rru tal
 UG,rulundi,run,rund1242,rnd
+NA,kimbundu,umb,umbu1257,umb
 NA,rumbundu,umb,umbu1257,umb
 UG,rungungu,rub,gung1250,buk gus hnd hya kin lda luy nbo nde nko rnd rny rru tal
 UG,runyankole,nyn,nyan1307,rny
@@ -3817,10 +3871,10 @@ LS,sepeli,nso,pedi1238,stn
 NA,sepeli,nso,pedi1238,stn
 ZA,sepeli,nso,pedi1238,stn
 LS,sephotsa,xho,xhos1239,xho
-LS,sephuthi,ssw,swat1243,swt
-LS,sephuti,ssw,swat1243,swt
-LS,seputhi,ssw,swat1243,swt
-LS,seputi,ssw,swat1243,swt
+LS,sephuthi,ssw,phut1246,swt
+LS,sephuti,ssw,phut1246,swt
+LS,seputhi,ssw,phut1246,swt
+LS,seputi,ssw,phut1246,swt
 SN,sere,srr,sere1260,fbf fgo fgu fma fni fum
 SN,serer,srr,sere1260,fbf fgo fgu fma fni fum
 SN,serere,srr,sere1260,fbf fgo fgu fma fni fum
@@ -3932,6 +3986,7 @@ BW,sesubia,sbs,subi1246,sub
 BW,setebele,nde,nort2795,swt xho zul
 LS,setebele,nde,nort2795,swt xho zul
 LS,sethepu,xho,them1241,xho
+LS,sethupu,xho,them1241,xho
 LS,sthepha,xho,them1241,xho
 BW,setlharo,mis,,
 BW,setlharwa,mis,,
@@ -3988,11 +4043,21 @@ LS,sotswana,tsn,tswa1253,tsw
 NA,sotswana,tsn,tswa1253,tsw
 ZA,sotswana,tsn,tswa1253,tsw
 ZW,sotswana,tsn,tswa1253,tsw
+BW,stwana,tsn,tswa1253,tsw
+LS,stwana,tsn,tswa1253,tsw
+NA,stwana,tsn,tswa1253,tsw
+ZA,stwana,tsn,tswa1253,tsw
+ZW,stwana,tsn,tswa1253,tsw
 BW,tswana,tsn,tswa1253,tsw
 LS,tswana,tsn,tswa1253,tsw
 NA,tswana,tsn,tswa1253,tsw
 ZA,tswana,tsn,tswa1253,tsw
 ZW,tswana,tsn,tswa1253,tsw
+BW,twana,tsn,tswa1253,tsw
+LS,twana,tsn,tswa1253,tsw
+NA,twana,tsn,tswa1253,tsw
+ZA,twana,tsn,tswa1253,tsw
+ZW,twana,tsn,tswa1253,tsw
 BW,setswapong,two,tswa1237,stn
 BW,sexhereko,her,here1253,her
 BW,sexhosa,xho,xhos1239,xho
@@ -4071,6 +4136,7 @@ SL,sherbo,bun,sher1258,kis kss
 SL,sherbro,bun,sher1258,kis kss
 ZM,shila,tap,taab1238,tbw
 MZ,shimakonde,kde,mako1251,mkd
+MZ,chona,ndc,ndau1241,shn
 MZ,shona,ndc,ndau1241,shn
 BW,shona,sna,shon1251,shn
 NA,shona,sna,shon1251,shn
@@ -4110,10 +4176,16 @@ GH,sissala,sil ssl,sisa1248,ssa
 BF,sissali,sil ssl,sisa1248,ssa
 GH,sissali,sil ssl,sisa1248,ssa
 BF,sissaba,mis,,
+LS,seswati,ssw,swat1243,swt
+SZ,seswati,ssw,swat1243,swt
+ZA,seswati,ssw,swat1243,swt
+LS,siswati,ssw,swat1243,swt
 SZ,siswati,ssw,swat1243,swt
 ZA,siswati,ssw,swat1243,swt
+LS,swati,ssw,swat1243,swt
 SZ,swati,ssw,swat1243,swt
 ZA,swati,ssw,swat1243,swt
+LS,swoti,ssw,swat1243,swt
 SZ,swoti,ssw,swat1243,swt
 ZA,swoti,ssw,swat1243,swt
 ZA,siswazi,ssw,swat1243,swt
@@ -4164,6 +4236,126 @@ TZ,sukuma,suk,suku1261,skm
 MW,sukwa,ndh,ndal1241,mmw nyh
 SL,susu,sus,susu1250,sus
 ZW,suthu,tsn,tswa1253,tsw
+BI,kisawhili,swh,swah1253,swa
+KE,kisawhili,swh,swah1253,swa
+MW,kisawhili,swh,swah1253,swa
+MZ,kisawhili,swh,swah1253,swa
+SZ,kisawhili,swh,swah1253,swa
+TZ,kisawhili,swh,swah1253,swa
+UG,kisawhili,swh,swah1253,swa
+ZW,kisawhili,swh,swah1253,swa
+BI,kiswahii,swh,swah1253,swa
+KE,kiswahii,swh,swah1253,swa
+MW,kiswahii,swh,swah1253,swa
+MZ,kiswahii,swh,swah1253,swa
+SZ,kiswahii,swh,swah1253,swa
+TZ,kiswahii,swh,swah1253,swa
+UG,kiswahii,swh,swah1253,swa
+ZW,kiswahii,swh,swah1253,swa
+BI,kiswahiil,swh,swah1253,swa
+KE,kiswahiil,swh,swah1253,swa
+MW,kiswahiil,swh,swah1253,swa
+MZ,kiswahiil,swh,swah1253,swa
+SZ,kiswahiil,swh,swah1253,swa
+TZ,kiswahiil,swh,swah1253,swa
+UG,kiswahiil,swh,swah1253,swa
+ZW,kiswahiil,swh,swah1253,swa
+BI,kiswahiki,swh,swah1253,swa
+KE,kiswahiki,swh,swah1253,swa
+MW,kiswahiki,swh,swah1253,swa
+MZ,kiswahiki,swh,swah1253,swa
+SZ,kiswahiki,swh,swah1253,swa
+TZ,kiswahiki,swh,swah1253,swa
+UG,kiswahiki,swh,swah1253,swa
+ZW,kiswahiki,swh,swah1253,swa
+BI,kiswahil,swh,swah1253,swa
+KE,kiswahil,swh,swah1253,swa
+MW,kiswahil,swh,swah1253,swa
+MZ,kiswahil,swh,swah1253,swa
+SZ,kiswahil,swh,swah1253,swa
+TZ,kiswahil,swh,swah1253,swa
+UG,kiswahil,swh,swah1253,swa
+ZW,kiswahil,swh,swah1253,swa
+BI,kiswahili,swh,swah1253,swa
+KE,kiswahili,swh,swah1253,swa
+MW,kiswahili,swh,swah1253,swa
+MZ,kiswahili,swh,swah1253,swa
+SZ,kiswahili,swh,swah1253,swa
+TZ,kiswahili,swh,swah1253,swa
+UG,kiswahili,swh,swah1253,swa
+ZW,kiswahili,swh,swah1253,swa
+BI,kiswahilli,swh,swah1253,swa
+KE,kiswahilli,swh,swah1253,swa
+MW,kiswahilli,swh,swah1253,swa
+MZ,kiswahilli,swh,swah1253,swa
+SZ,kiswahilli,swh,swah1253,swa
+TZ,kiswahilli,swh,swah1253,swa
+UG,kiswahilli,swh,swah1253,swa
+ZW,kiswahilli,swh,swah1253,swa
+BI,kiswahli,swh,swah1253,swa
+KE,kiswahli,swh,swah1253,swa
+MW,kiswahli,swh,swah1253,swa
+MZ,kiswahli,swh,swah1253,swa
+SZ,kiswahli,swh,swah1253,swa
+TZ,kiswahli,swh,swah1253,swa
+UG,kiswahli,swh,swah1253,swa
+ZW,kiswahli,swh,swah1253,swa
+BI,kiswali,swh,swah1253,swa
+KE,kiswali,swh,swah1253,swa
+MW,kiswali,swh,swah1253,swa
+MZ,kiswali,swh,swah1253,swa
+SZ,kiswali,swh,swah1253,swa
+TZ,kiswali,swh,swah1253,swa
+UG,kiswali,swh,swah1253,swa
+ZW,kiswali,swh,swah1253,swa
+BI,kiswhahili,swh,swah1253,swa
+KE,kiswhahili,swh,swah1253,swa
+MW,kiswhahili,swh,swah1253,swa
+MZ,kiswhahili,swh,swah1253,swa
+SZ,kiswhahili,swh,swah1253,swa
+TZ,kiswhahili,swh,swah1253,swa
+UG,kiswhahili,swh,swah1253,swa
+ZW,kiswhahili,swh,swah1253,swa
+BI,kiswhaili,swh,swah1253,swa
+KE,kiswhaili,swh,swah1253,swa
+MW,kiswhaili,swh,swah1253,swa
+MZ,kiswhaili,swh,swah1253,swa
+SZ,kiswhaili,swh,swah1253,swa
+TZ,kiswhaili,swh,swah1253,swa
+UG,kiswhaili,swh,swah1253,swa
+ZW,kiswhaili,swh,swah1253,swa
+BI,kiswhili,swh,swah1253,swa
+KE,kiswhili,swh,swah1253,swa
+MW,kiswhili,swh,swah1253,swa
+MZ,kiswhili,swh,swah1253,swa
+SZ,kiswhili,swh,swah1253,swa
+TZ,kiswhili,swh,swah1253,swa
+UG,kiswhili,swh,swah1253,swa
+ZW,kiswhili,swh,swah1253,swa
+BI,kiwahili,swh,swah1253,swa
+KE,kiwahili,swh,swah1253,swa
+MW,kiwahili,swh,swah1253,swa
+MZ,kiwahili,swh,swah1253,swa
+SZ,kiwahili,swh,swah1253,swa
+TZ,kiwahili,swh,swah1253,swa
+UG,kiwahili,swh,swah1253,swa
+ZW,kiwahili,swh,swah1253,swa
+BI,kiwhili,swh,swah1253,swa
+KE,kiwhili,swh,swah1253,swa
+MW,kiwhili,swh,swah1253,swa
+MZ,kiwhili,swh,swah1253,swa
+SZ,kiwhili,swh,swah1253,swa
+TZ,kiwhili,swh,swah1253,swa
+UG,kiwhili,swh,swah1253,swa
+ZW,kiwhili,swh,swah1253,swa
+BI,kswahili,swh,swah1253,swa
+KE,kswahili,swh,swah1253,swa
+MW,kswahili,swh,swah1253,swa
+MZ,kswahili,swh,swah1253,swa
+SZ,kswahili,swh,swah1253,swa
+TZ,kswahili,swh,swah1253,swa
+UG,kswahili,swh,swah1253,swa
+ZW,kswahili,swh,swah1253,swa
 BI,suahile,swh,swah1253,swa
 KE,suahile,swh,swah1253,swa
 MW,suahile,swh,swah1253,swa
@@ -4228,6 +4420,7 @@ SZ,swhailil,swh,swah1253,swa
 TZ,swhailil,swh,swah1253,swa
 UG,swhailil,swh,swah1253,swa
 ZW,swhailil,swh,swah1253,swa
+ZM,kiswahili,swc,cong1236,swa
 ZM,swahili,swc,cong1236,swa
 ZM,swaka,leb,lala1264,lmb
 MZ,swazi,ssw,swat1243,swt
@@ -4322,7 +4515,9 @@ ZA,tswana,tsn,tswa1253,tsw
 KE,tugen,tuy,tuge1241,nan
 NG,tukun,nza,tigo1236,juk
 NG,tula,tul,tula1252,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp vag wwa xsm
-ZM,tumbka,mis,,
+MW,tumbka,tum,tumb1250,cic sen
+ZM,tumbka,tum,tumb1250,cic sen
+ZW,tumbka,tum,tumb1250,cic sen
 MW,tumbuka,tum,tumb1250,cic sen
 ZM,tumbuka,tum,tumb1250,cic sen
 ZW,tumbuka,tum,tumb1250,cic sen
@@ -4341,6 +4536,8 @@ NG,uwa,mis,,
 NG,uzeba,mis,,
 LR,vai,vai,vaii1241,vai
 SL,vai,vai,vaii1241,vai
+LR,via,vai,vaii1241,vai
+SL,via,vai,vaii1241,vai
 KE,vatsotso,lto,tsot1241,luy
 NA,tshivenda,ven,vend1245,ven
 ZA,tshivenda,ven,vend1245,ven
@@ -4361,8 +4558,9 @@ ZW,vhitori,sna,shon1251,shn
 BF,vigue,vig,viem1243,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp tou tow vag wwa xsm
 GH,wa dormu,mis,,
 GH,waala,wlx,wali1263,dga
-GH,wala,wlx,wali1263,dga
 GH,waale,wlx,wali1263,dga
+GH,wala,wlx,wali1263,dga
+GH,wale,wlx,wali1263,dga
 BJ,waama,wwa,waam1244,wwa
 NG,waja,wja,waja1259,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp vag wwa xsm
 CI,wan,wan,wann1242,wna
@@ -4373,10 +4571,10 @@ GH,wangra,mis,,
 KE,wardei,som,soma1255,som
 BJ,warma,wwa,waam1244,wwa
 GH,wassa,wss,wasa1244,akn
-TG,watchi,mis,,
+TG,watchi,wci,waci1239,ewa
 CM,weh,weh,wehh1238,agh
-CM,wibum,mis,,
 CM,widikum,mis,,
+CM,wibum,lmp,limb1268,mbz yba
 CM,wimbum,lmp,limb1268,mbz yba
 MW,wiza,leb,bisa1264,lmb
 CI,wobe,wob,weno1238,wob
@@ -4409,81 +4607,97 @@ NG,wurkum,piy,piya1245,kwm per tan
 NG,wurkun,piy,piya1245,kwm per tan
 BW,isixhosa,xho,xhos1239,xho
 LS,isixhosa,xho,xhos1239,xho
+MW,isixhosa,xho,xhos1239,xho
 NA,isixhosa,xho,xhos1239,xho
 ZA,isixhosa,xho,xhos1239,xho
 ZW,isixhosa,xho,xhos1239,xho
 BW,isixhoza,xho,xhos1239,xho
 LS,isixhoza,xho,xhos1239,xho
+MW,isixhoza,xho,xhos1239,xho
 NA,isixhoza,xho,xhos1239,xho
 ZA,isixhoza,xho,xhos1239,xho
 ZW,isixhoza,xho,xhos1239,xho
 BW,isizhoza,xho,xhos1239,xho
 LS,isizhoza,xho,xhos1239,xho
+MW,isizhoza,xho,xhos1239,xho
 NA,isizhoza,xho,xhos1239,xho
 ZA,isizhoza,xho,xhos1239,xho
 ZW,isizhoza,xho,xhos1239,xho
 BW,ixhosa,xho,xhos1239,xho
 LS,ixhosa,xho,xhos1239,xho
+MW,ixhosa,xho,xhos1239,xho
 NA,ixhosa,xho,xhos1239,xho
 ZA,ixhosa,xho,xhos1239,xho
 ZW,ixhosa,xho,xhos1239,xho
 BW,sekhooa,xho,xhos1239,xho
 LS,sekhooa,xho,xhos1239,xho
+MW,sekhooa,xho,xhos1239,xho
 NA,sekhooa,xho,xhos1239,xho
 ZA,sekhooa,xho,xhos1239,xho
 ZW,sekhooa,xho,xhos1239,xho
 BW,sexhauza,xho,xhos1239,xho
 LS,sexhauza,xho,xhos1239,xho
+MW,sexhauza,xho,xhos1239,xho
 NA,sexhauza,xho,xhos1239,xho
 ZA,sexhauza,xho,xhos1239,xho
 ZW,sexhauza,xho,xhos1239,xho
 BW,sexhoaza,xho,xhos1239,xho
 LS,sexhoaza,xho,xhos1239,xho
+MW,sexhoaza,xho,xhos1239,xho
 NA,sexhoaza,xho,xhos1239,xho
 ZA,sexhoaza,xho,xhos1239,xho
 ZW,sexhoaza,xho,xhos1239,xho
 BW,sexhosa,xho,xhos1239,xho
 LS,sexhosa,xho,xhos1239,xho
+MW,sexhosa,xho,xhos1239,xho
 NA,sexhosa,xho,xhos1239,xho
 ZA,sexhosa,xho,xhos1239,xho
 ZW,sexhosa,xho,xhos1239,xho
 BW,sexhouza,xho,xhos1239,xho
 LS,sexhouza,xho,xhos1239,xho
+MW,sexhouza,xho,xhos1239,xho
 NA,sexhouza,xho,xhos1239,xho
 ZA,sexhouza,xho,xhos1239,xho
 ZW,sexhouza,xho,xhos1239,xho
 BW,sexhovza,xho,xhos1239,xho
 LS,sexhovza,xho,xhos1239,xho
+MW,sexhovza,xho,xhos1239,xho
 NA,sexhovza,xho,xhos1239,xho
 ZA,sexhovza,xho,xhos1239,xho
 ZW,sexhovza,xho,xhos1239,xho
 BW,sexhoza,xho,xhos1239,xho
 LS,sexhoza,xho,xhos1239,xho
+MW,sexhoza,xho,xhos1239,xho
 NA,sexhoza,xho,xhos1239,xho
 ZA,sexhoza,xho,xhos1239,xho
 ZW,sexhoza,xho,xhos1239,xho
 BW,sixhosa,xho,xhos1239,xho
 LS,sixhosa,xho,xhos1239,xho
+MW,sixhosa,xho,xhos1239,xho
 NA,sixhosa,xho,xhos1239,xho
 ZA,sixhosa,xho,xhos1239,xho
 ZW,sixhosa,xho,xhos1239,xho
 BW,sizhosa,xho,xhos1239,xho
 LS,sizhosa,xho,xhos1239,xho
+MW,sizhosa,xho,xhos1239,xho
 NA,sizhosa,xho,xhos1239,xho
 ZA,sizhosa,xho,xhos1239,xho
 ZW,sizhosa,xho,xhos1239,xho
 BW,xhosa,xho,xhos1239,xho
 LS,xhosa,xho,xhos1239,xho
+MW,xhosa,xho,xhos1239,xho
 NA,xhosa,xho,xhos1239,xho
 ZA,xhosa,xho,xhos1239,xho
 ZW,xhosa,xho,xhos1239,xho
 BW,xhouza,xho,xhos1239,xho
 LS,xhouza,xho,xhos1239,xho
+MW,xhouza,xho,xhos1239,xho
 NA,xhouza,xho,xhos1239,xho
 ZA,xhouza,xho,xhos1239,xho
 ZW,xhouza,xho,xhos1239,xho
 BW,xhoza,xho,xhos1239,xho
 LS,xhoza,xho,xhos1239,xho
+MW,xhoza,xho,xhos1239,xho
 NA,xhoza,xho,xhos1239,xho
 ZA,xhoza,xho,xhos1239,xho
 ZW,xhoza,xho,xhos1239,xho
@@ -4493,9 +4707,9 @@ MZ,xichangana,tso,chan1318,tsn
 MZ,xirhonga,rng,rong1268,rga
 MZ,xiteu,twx,tewe1238,shn
 MZ,xitsau,tsc,tswa1255,rga tsn
-ZA,xitsonga,tso,tson1249,tsn
 MZ,xitsua,tsc,tswa1255,rga tsn
 MZ,xitswa,tsc,tswa1255,rga tsn
+ZA,xitsonga,tso,tson1249,tsn
 ZA,xtsonga,tso,tson1249,tsn
 CM,yabassi,dua,dual1243,dua
 CI,yacouba,dnj,dann1241,dbw
@@ -4506,8 +4720,8 @@ NG,yakurr,yaz,loka1252,agb
 NG,yala,yba,yala1263,ido
 SL,yalunka,yal,yalu1240,sus
 CM,yamba,yam,yamb1251,yba
-CM,yambassa,yav,yang1293,gun
-CM,yamben,mis,,
+CM,yamben,yam,yamb1251,yba
+CM,yambassa,ekm mmu baf yas yav,nucl1746,gun
 BF,yanan,mos,yana1270,moo
 TG,yanan,mos,yana1270,moo
 BF,yanana,mos,yana1270,moo
@@ -4956,15 +5170,15 @@ NA,spanish,spa,stan1288,spa
 SN,spanish,spa,stan1288,spa
 ZA,spanish,spa,stan1288,spa
 KE,swedish,swe,swed1254,swe
-CV,dutch,nld,dutc1256,dbr
-LR,dutch,nld,dutc1256,dbr
-NA,dutch,nld,dutc1256,dbr
-CV,flemish,nld,dutc1256,dbr
-LR,flemish,nld,dutc1256,dbr
-NA,flemish,nld,dutc1256,dbr
-CV,holandês,nld,dutc1256,dbr
-LR,holandês,nld,dutc1256,dbr
-NA,holandês,nld,dutc1256,dbr
+CV,dutch,nld,dutc1256,dut
+LR,dutch,nld,dutc1256,dut
+NA,dutch,nld,dutc1256,dut
+CV,flemish,nld,dutc1256,dut
+LR,flemish,nld,dutc1256,dut
+NA,flemish,nld,dutc1256,dut
+CV,holandês,nld,dutc1256,dut
+LR,holandês,nld,dutc1256,dut
+NA,holandês,nld,dutc1256,dut
 ZA,hebrew,heb,hebr1246,hba
 CV,italian,ita,ital1282,ifi
 MG,italian,ita,ital1282,ifi
@@ -5020,14 +5234,16 @@ BF,tiefou,tiq,tief1242,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob l
 CV,casteliano,spa,stan1288,spa
 CV,grego,ell,mode1248,afr ago alb alt ass ast awd bdc bec ben bgi bhi bho bkt blc blr bos bre bro bsm bul cln crn ctl cvc cze dar dbr dgi dhi dmk dom dri dsh duz eng far fea fno fre frw gae gbc gfr gha gil glc goj grp guj gvi gwe hcr hin hlb hwc hwr ice ifi irm itg itn itu jcr kal kas kbt khw kji kkn klh klr knq ksu ktz kum lat lcr ldn lge lit lmn lno lur lux mai mcd mce mcr mgh mhi mlc mnx mol mqc mwc mzn ndy nep npi npn oko orm oss pan pap plb pol por pra pri pro prs psh rbg rbu rlo rnr rsh rsm rus rwe sav scr sdh sey skw slo sna snh sou spa sra srb srd srl srm svk swe taj tay taz tmu tpi trw tts ukr urd vaf vas ved wak wec wgl yaz ydd ydl ygn zaz
 GH,eve,ewe,ewee1241,ewa
-TZ,kiingereza,eng,,
-TZ,kingereza,eng,,
+TZ,kiingereza,eng,,eng
+TZ,kingereza,eng,,eng
 MW,sena / chewa,swk,,
 GH,adangbe,adq,adan1248,ewa
 SN,arabe,mey,hass1238,ahs
 BF,arabe,shu,chad1249,arn
+BJ,arabe,shu,chad1249,arn
 NG,arabe,shu,chad1249,arn
 BF,arabic,shu,chad1249,arn
+BJ,arabic,shu,chad1249,arn
 NG,arabic,shu,chad1249,arn
 SN,soce,mnk,,
 ZA,isindebele,nbl,sout2808,ndb
@@ -5039,10 +5255,19 @@ KE,markweeta,enb,mark1255,pkt
 MW,bemba,bem,bemb1257,lmb
 ZA,arab,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub
 ZA,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub
+ZA,muslimic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub
 MG,arabo,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub
 KE,rabai,nyf,raba1248,com
 UG,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub
 NA,mbukushu,mhw,mbuk1240,aka bbl bee blu bob bol bsh dma dng hem her ifm kil kon ktb kte kwn kwy kyo lbu lin luc luv mbe mbl mdw mgo mhu nbe ndo ndu nto sge sgl sgu sku tet tks umb vif yak yey yns
 KE,kissi,kiz,kisi1243,png
 MW,wemba,bem,bemb1257,lmb
+TZ,kiwemba,bem,bemb1257,lmb
 SN,dialonké,yal,yalu1240,sus
+NG,latin,lat,,
+LS,sethupu,mis,,
+TZ,kinyika,nih,,
+LS,fanagolog,mis,,
+LS,fanakaloko,mis,,
+LS,janakalor,mis,,
+LS,janakalore,mis,,
