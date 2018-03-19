@@ -9356,7 +9356,7 @@ GHA0035,GH,akan,aka,akan1250,akn,1
 GHA0036,GH,fante,fat,fant1241,akn,1
 GHA0037,GH,english,eng,stan1293,eng,4
 GHA0037,GH,fante,fat,fant1241,akn,4
-GHA0037,GH,busanga,bqp,busa1253,bus,4
+GHA0037,GH,busanga,bib,biss1248,bis,4
 GHA0037,GH,ga,gaa,gaaa1244,ga,4
 GHA0038,GH,ewe,ewe,ewee1241,ewe,2
 GHA0038,GH,akan,aka,akan1250,akn,2
@@ -10889,7 +10889,7 @@ GHA0700,GH,twi,twi,twii1234,akn,1
 GHA0701,GH,twi,twi,twii1234,akn,5
 GHA0701,GH,french,fra,stan1290,fre,5
 GHA0701,GH,hausa,hau,haus1257,hau,5
-GHA0701,GH,wangara,mis,,,5
+GHA0701,GH,wangara,bib,biss1248,bis,5
 GHA0701,GH,mossi,mos,moss1236,moo,5
 GHA0702,GH,fante,fat,fant1241,akn,3
 GHA0702,GH,twi,twi,twii1234,akn,3
@@ -11048,7 +11048,7 @@ GHA0782,GH,twi,twi,twii1234,akn,1
 GHA0783,GH,akan,aka,akan1250,akn,1
 GHA0784,GH,hausa,hau,haus1257,hau,3
 GHA0784,GH,twi,twi,twii1234,akn,3
-GHA0784,GH,buzanga,bqp,busa1253,bus,3
+GHA0784,GH,buzanga,bib,biss1248,bis,3
 GHA0785,GH,twi,twi,twii1234,akn,2
 GHA0785,GH,english,eng,stan1293,eng,2
 GHA0786,GH,twi,twi,twii1234,akn,4
@@ -11404,10 +11404,10 @@ GHA0971,GH,mamprusi,maw,mamp1244,mmp,3
 GHA0971,GH,english,eng,stan1293,eng,3
 GHA0972,GH,akan,aka,akan1250,akn,2
 GHA0972,GH,guan,gwx,guaa1238,nkn,2
-GHA0973,GH,busanga,bqp,busa1253,bus,2
+GHA0973,GH,busanga,bib,biss1248,bis,2
 GHA0973,GH,akan,aka,akan1250,akn,2
 GHA0974,GH,akan,aka,akan1250,akn,1
-GHA0975,GH,busanga,bqp,busa1253,bus,2
+GHA0975,GH,busanga,bib,biss1248,bis,2
 GHA0975,GH,akan,aka,akan1250,akn,2
 GHA0976,GH,akan,aka,akan1250,akn,1
 GHA0977,GH,akan,aka,akan1250,akn,1
@@ -11825,7 +11825,7 @@ GHA1147,GH,english,eng,stan1293,eng,6
 GHA1147,GH,hausa,hau,haus1257,hau,6
 GHA1147,GH,twi,twi,twii1234,akn,6
 GHA1147,GH,kusaa,kus,kusa1250,dgb mmp,6
-GHA1147,GH,busanga,bqp,busa1253,bus,6
+GHA1147,GH,busanga,bib,biss1248,bis,6
 GHA1147,GH,moshiyi,mos,moss1236,moo,6
 GHA1148,GH,kusasi,kus,kusa1250,dgb mmp,1
 GHA1149,GH,english,eng,stan1293,eng,3
@@ -11902,7 +11902,7 @@ GHA1174,GH,waala,wlx,wali1263,dga,3
 GHA1175,GH,wala,wlx,wali1263,dga,6
 GHA1175,GH,moslu,,,,6
 GHA1175,GH,fulani,ffm,maas1239,fum,6
-GHA1175,GH,wangara,mis,,,6
+GHA1175,GH,wangara,bib,biss1248,bis,6
 GHA1175,GH,dangari,dga,sout2789,dga,6
 GHA1175,GH,dangari,dga,sout2789,dga,6
 GHA1176,GH,waala,wlx,wali1263,dga,4

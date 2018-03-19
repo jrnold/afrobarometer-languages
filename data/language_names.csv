@@ -397,10 +397,16 @@ BF,birifor,bfo,malb1235,dga
 GH,birifori,biv,sout2790,dga
 NG,birom,bom,bero1242,bir
 ZM,bisa,leb,bisa1264,lmb
-NG,bisa,bqp,busa1253,bus
+BF,bisab,bib,biss1248,bis
 GH,bisab,bib,biss1248,bis
 BF,bissa,bib,biss1248,bis
 GH,bissa,bib,biss1248,bis
+BF,busanga,bib,biss1248,bis
+GH,busanga,bib,biss1248,bis
+BF,bussa,bib,biss1248,bis
+GH,bussa,bib,biss1248,bis
+BF,buzanga,bib,biss1248,bis
+GH,buzanga,bib,biss1248,bis
 MZ,bitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul
 CM,bobis,mis,,
 BF,bobo,bbo bwq,bobo1253,bbf
@@ -753,6 +759,7 @@ CM,ejaka,etu,ejag1239,eja
 CM,ejakam,etu,ejag1239,eja
 MZ,ekote,eko,koti1238,eko
 NG,ekpeye,ekp,ekpe1253,igb izi
+CM,elam eguo,ags,esim1238,tiv
 CM,elam equ0,ags,esim1238,tiv
 CM,elam equo,ags,esim1238,tiv
 NG,eleme,elm,elem1253,gok kan
@@ -2961,6 +2968,7 @@ SN,mdinka,mnk,mand1436,mdk
 SN,mandinka/bambara,bam mnk,mand1435,bam dyu maw mdk mka mnk xas
 CM,mandoua,mis,,
 MW,chimang'anja,nya,nyan1308,cic
+MW,chimang’anja,nya,nyan1308,cic
 MW,mang'anja,nya,nyan1308,cic
 MW,manga'nja,nya,nyan1308,cic
 NG,manga,kby,mang1399,knr
@@ -3028,6 +3036,7 @@ KE,mbeere,ebu,embu1241,kik
 CM,mbem,yam,yamb1251,yba
 NG,mbembe,mfn,cros1244,agb
 CM,mbesah,yas,nugu1242,gun
+CM,mbessa,yas,nugu1242,gun
 CM,mbessah,yas,nugu1242,gun
 CM,mbo,mbo,mboc1235,bas bfi bga bku bnk buj buw dua ewo ldo mkz mpo tgo
 CM,mbo'o,mis,,
@@ -4616,8 +4625,8 @@ NG,waja,wja,waja1259,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye
 CI,wan,wan,wann1242,wna
 CM,wandala,mfi,wand1278,mlg
 KE,wanga,lwg,wang1294,luy
-GH,wangara,mis,,
-GH,wangra,mis,,
+GH,wangara,bib,biss1248,bis
+GH,wangra,bib,biss1248,bis
 KE,wardei,som,soma1255,som
 BJ,warma,wwa,waam1244,wwa
 GH,wassa,wss,wasa1244,akn
@@ -5317,10 +5326,11 @@ LS,fanagolog,mis,,
 LS,fanakaloko,mis,,
 LS,janakalor,mis,,
 LS,janakalore,mis,,
-GH,busanga,bqp,busa1253,bus
-GH,bussa,bqp,busa1253,bus
-GH,buzanga,bqp,busa1253,bus
+NG,bisa,bqp,busa1253,bus
+NG,bussa,bqp,busa1253,bus
 CM,mendakwe,mfd,mend1261,baf mbi mkq
 NA,totela,ttl,tote1238,sub
 BW,sebanderu,her,mban1265,her
 CM,gouife,mxf,goul1242,ktk
+UG,other northern languages,mul,,
+GH,other northern languages,mul,,

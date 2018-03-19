@@ -98,3 +98,20 @@ for (country in countries) {
 
 
 ```
+
+# First Round
+
+```{r}
+afrob1 <- read_sav(here::here("external", "afrobarometer",
+                              "merged_r1_data.sav")) %>%
+  mutate_if(haven::is.labelled, haven::as_factor)
+```
+
+```{r}
+filter(afrob1, country == "Nigeria") %>%
+  count(language, area) %>% 
+  filter(language %in% c("Ikan", "Esako", "Gyerawa", "Anam", "Auche",
+                         "Eterco", "Ikpon", "Nanba/Wanba", "Ndochi",
+                         "Nkwana", "Omoku", "Ora", "Owan", "Lantan", "Madara"))
+```
+

@@ -374,11 +374,13 @@
   country:
   - TG
 - name: anam
-  glottocode: null
+  glottocode: anaa1238
   iso_639_3:
-  - mis
+  - anw
   country:
   - NG
+  note: >
+    Anaang spoken in Akwa-Ibom state like the one speaker in r1.
 - name: anang
   glottocode: anaa1238
   iso_639_3:
@@ -656,13 +658,10 @@
   - mis
   country:
   - GH
-- name: auche
-  glottocode: null
-  iso_639_3:
-  - mis
-  country:
-  - NG
-- name: auchi
+
+- name:
+  - auchi
+  - auche
   glottocode: yekh1238
   iso_639_3:
   - ets
@@ -1787,25 +1786,25 @@
   - leb
   country:
   - ZM
-- name: bisa
-  glottocode: busa1253
-  iso_639_3:
-  - bqp
-  country:
-  - NG
-- name: bisab
-  glottocode: biss1248
-  iso_639_3:
-  - bib
-  country:
-  - GH
-- name: bissa
+
+
+- name:
+  - bissa
+  - bisab
+  - "bussa"
+  - busanga
+  - buzanga
   glottocode: biss1248
   iso_639_3:
   - bib
   country:
     - BF
     - GH
+  note: >
+    Busanga is another name for [Bissa](https://en.wikipedia.org/wiki/Bissa_people) people.
+
+    Busa (bqp) in Nigeria  than Busa in Ghana and Burkina Faso (bib)
+
 - name: bitonga
   glottocode: gito1238
   iso_639_3:
@@ -3348,6 +3347,7 @@
 - name:
   - elam equ0
   - elam equo
+  - elam eguo
   glottocode: esim1238
   iso_639_3:
   - ags
@@ -3597,11 +3597,13 @@
   - NG
 
 - name: esako
-  glottocode: null
+  glottocode: ekh1238
   iso_639_3:
-  - mis
+  - ets
   country:
   - NG
+  note: >
+    Etsako is spoken in Edo state. Speaker is in Edo state.
 - name: esan
   glottocode: esan1238
   iso_639_3:
@@ -3631,11 +3633,13 @@
   country:
   - CM
 - name: eterco
-  glottocode: null
+  glottocode: itar1242
   iso_639_3:
-  - mis
+  - yer
   country:
   - NG
+  note: >
+    iTarok spoken in Plateau state.
 - name: eton
   glottocode: eton1253
   iso_639_3:
@@ -4452,11 +4456,13 @@
   country:
   - NG
 - name: gyerawa
-  glottocode: null
+  glottocode: gera1246
   iso_639_3:
-  - mis
+  - gew
   country:
   - NG
+  note: >
+    Gerawa is an alt-name for Gawa. Spoken in Bauchi.
 - name: half taita, half zai
   glottocode: tait1250
   iso_639_3:
@@ -4723,7 +4729,9 @@
     As such, I have to consider this entry as constituting separate langauges.
     However, this seems too many to be a multiple-languages entry.
 
-- name: ika
+- name:
+  - ika
+  - ikan
   glottocode: ikaa1238
   iso_639_3:
   - ikk
@@ -4744,12 +4752,6 @@
     Since there is a specific dialect Ikalanga of [Kalanga](http://glottolog.org/resource/languoid/id/kala1384) in Glottolog,
     use that.
 
-- name: ikan
-  glottocode: null
-  iso_639_3:
-  - mis
-  country:
-  - NG
 - name: ikewere
   glottocode: ikwe1242
   iso_639_3:
@@ -4769,11 +4771,13 @@
   country:
   - NG
 - name: ikpon
-  glottocode: null
+  glottocode: ekpo1238
   iso_639_3:
-  - mis
+  - ish
   country:
   - NG
+  note: >
+    Ekpon dialect of Esan.
 - name: ikposso (akposso)
   glottocode: ikpo1238
   iso_639_3:
@@ -7603,11 +7607,13 @@
   country:
   - CM
 - name: madara
-  glottocode: null
+  glottocode: mada1293
   iso_639_3:
-  - mis
+  - mxu
   country:
   - NG
+  note: >
+    Spoken in Borno state. More likely Camoroon Mada than Nigerian Mada.
 - name: madi
   glottocode: sout2827
   iso_639_3:
@@ -7843,6 +7849,7 @@
 - name:
   - mang'anja
   - chimang'anja
+  - chimang’anja
   - manga'nja
   glottocode: nyan1308
   iso_639_3:
@@ -8197,11 +8204,12 @@
   country:
   - NG
 - name:
+  - mbessa
   - mbesah
   - mbessah
   glottocode: nugu1242
   iso_639_3:
-  - yas
+  - "yas"
   country:
   - CM
   note: >
@@ -9234,11 +9242,13 @@
   country:
   - CM
 - name: ndochi
-  glottocode: null
+  glottocode: ngos1242
   iso_639_3:
-  - mis
+  - glw
   country:
   - NG
+  note: >
+    Ngoshie (Ngweshe) dialect of Glavda
 - name:
   - ndola
   - ndoro
@@ -9513,9 +9523,9 @@
   country:
   - GH
 - name: nkwana
-  glottocode: null
+  glottocode: kura1249
   iso_639_3:
-  - mis
+  - krh
   country:
   - NG
 - name: nkwen
@@ -10014,9 +10024,9 @@
   country:
   - UG
 - name: omoku
-  glottocode: null
+  glottocode: unog1238
   iso_639_3:
-  - mis
+  - iso
   country:
   - NG
 - name: once
@@ -10032,9 +10042,9 @@
   country:
   - NG
 - name: ora
-  glottocode: null
+  glottocode: oraa1239
   iso_639_3:
-  - mis
+  - ema
   country:
   - NG
 - name: oroko
@@ -10195,11 +10205,13 @@
   country:
   - "NA"
 - name: owan
-  glottocode: null
+  glottocode: emai1241
   iso_639_3:
-  - mis
+  - ema
   country:
   - NG
+  note: >
+    Use the most widely spoken language in the Owan LGA.
 - name: pakistanais
   glottocode: guja1252
   iso_639_3:
@@ -12394,15 +12406,15 @@
 - name:
   - wangra
   - wangara
-  glottocode: mand1469
+  glottocode: biss1248
   iso_639_3:
-  - lig
   - bib
   country:
   - GH
+  wals: bis
   note: >
     Wangara refers to Mande speakers. Bisa and Ligbe are the Mande languages
-    spoken in Ghana.
+    spoken in Ghana. Bisa is more widely spoken.
 - name: wardei
   glottocode: soma1255
   iso_639_3:
@@ -13385,17 +13397,17 @@
     "Fanakalo" is a pejorative name for [Pidgin Bantu](https://www.ethnologue.com/country/ZA/languages).
     See glottocode fana1235 and fng.
 
+
 - name:
+  - bisa
   - "bussa"
-  - "buzanga"
-  - "busanga"
   country:
-  - GH
+  - NG
   glottocode: busa1253
   iso_639_3:
   - bqp
   note: >
-    Busanga is another name for [Bissa](https://en.wikipedia.org/wiki/Bissa_people) people.
+    Bisa/Busa (bqp) in Nigeria  than Bisa/Busa in Ghana and Burkina Faso (bib)
 
 - name:
   - mendakwe
@@ -13431,3 +13443,17 @@
   iso_639_3:
   - mxf
   glottocode: goul1242
+
+- name: other northern languages
+  country:
+  - UG
+  iso_639_3:
+  - mul
+  glottocode: null
+
+- name: other northern languages
+  country:
+  - GH
+  iso_639_3:
+  - mul
+  glottocode: null

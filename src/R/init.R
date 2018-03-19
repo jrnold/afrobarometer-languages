@@ -106,7 +106,9 @@ env_bind_fns(IO,
                 interview = col_character(),
                 interview_other = col_character(),
                 interviewer = col_character(),
-                interviewer_other = col_character()
+                interviewer_other = col_character(),
+                district = col_character(),
+                region = col_character()
               ))
    },
 
@@ -142,7 +144,9 @@ env_bind_fns(IO,
                 interview = col_character(),
                 interview_other = col_character(),
                 interviewer = col_character(),
-                interviewer_other = col_character()
+                interviewer_other = col_character(),
+                district = col_character(),
+                region = col_character()
               ))
    },
 
@@ -183,6 +187,24 @@ env_bind_fns(IO,
                 wals = col_character()
               )) %>%
        mutate(name = if_else(is.na(name), "", name))
+   },
+
+   languages_respno = function() {
+     read_csv(here::here("data", "languages_respno.csv"), na = "",
+              col_types = cols(
+                 round = col_integer(),
+                 variable = col_character(),
+                 respno = col_character(),
+                 country = col_character(),
+                 lang_name = col_character(),
+                 is_other = col_logical(),
+                 iso_639_3 = col_character(),
+                 glottocode = col_character(),
+                 wals = col_character(),
+                 district = col_character(),
+                 region = col_character(),
+                 withinwt = col_double()
+               ))
    }
 )
 

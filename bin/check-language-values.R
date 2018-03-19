@@ -20,23 +20,48 @@ language_values <- read_csv("data/language_values.csv", na = "",
            prop = col_double()
          ))
 
-ISO_MISSING <- c("und", "mul", "mis")
 
 TESTDATA <- yaml::read_yaml(here::here("data-raw", "tests.yml"))
 
+#' No duplicates
+lang_dups <- language_values[duplicated(language_values), ]
+if (nrow(lang_dups)) {
+  cat("Duplicated language values\n")
+  print(lang_dups)
+}
+
+#' Check that ISO 639-3 values are non-missing
+missing_iso <- language_values %>%
+  filter(is.na(iso_639_3))
+if (nrow(missing_iso)) {
+  cat("ISO 639-3 codes are missing:\n")
+  print(missing_iso)
+}
+
+
 #' Check that glottolog is only missing if iso_639_3 is missing
-verify(language_values,  iso_639_3 %in% ISO_MISSING | !is.na(glottocode))
+missing_glottocodes <- language_values %>%
+  filter(!iso_639_3 %in% TESTDATA$iso$special,
+         is.na(glottocode))
+if (nrow(missing_glottocodes)) {
+  cat("Glottocodes are missing:\n")
+  print(missing_glottocodes)
+}
 
 #' Check that WALS is only missing if glottolog is missing
-verify(language_values, is.na(glottocode) | !is.na(wals))
-
+missing_wals <- language_values %>%
+  filter(!is.na(glottocode), is.na(wals))
+if (nrow(missing_wals)) {
+  cat("WALS codes are missing:\n")
+  print(missing_wals)
+}
 #' ## ISO 639-3 Matches
 
 #' Check that all ISO 639-3 codes are valid
 iso_639_3_db <- src_sqlite(here::here("external/lingdata/iso_639_3.db"))
 
 lang_iso <- language_values %>%
-  filter(!iso_639_3 %in% ISO_MISSING) %>%
+  filter(!iso_639_3 %in% TESTDATA$iso$special) %>%
   select(round, variable, lang_name, country, iso_639_3) %>%
   mutate(iso_639_3 = str_split(iso_639_3, " ")) %>%
   unnest() %>%
@@ -48,11 +73,11 @@ lang_iso <- language_values %>%
 #' - exist
 #' - be an individual or macrolanguage
 #' - be a living language
-bad_iso_match <- filter(lang_iso, !(Language_Type %in% "L") |
-                          !(Scope %in% c("I", "M")))
+bad_iso_match <- filter(lang_iso,
+                        !(Language_Type %in% "L" & Scope %in% c("I", "M")))
 if (nrow(bad_iso_match)) {
   print("Missing or non-living ISO 639-3 language codes found")
-  print(distinct(iso_639_3, Language_Type, Scope))
+  print(distinct(bad_iso_match, iso_639_3, Language_Type, Scope))
 }
 
 
@@ -70,6 +95,12 @@ if (nrow(bad_iso_scope)) {
   print(bad_iso_scope, n = 100)
 }
 
+iso_countries <- tbl(ethnologue_db, "LanguageCodes") %>%
+  distinct(LangID, CountryID) %>%
+  rename(iso_639_3 = LangID, country = CountryID)
+
+# anti_join(distinct(lang_iso, iso_639_3, lang_name, country),
+#           iso_countries, by = c("iso_639_3", "country"), copy = TRUE)
 
 #' ## Glottolog Matches
 glottolog_db <- src_sqlite(here::here("external/lingdata/glottolog.db"))
@@ -103,10 +134,9 @@ if (nrow(glotto_bad_macroareas)) {
   print(distinct(bad_glotto_macroareas, glottocode))
 }
 
-
-
-###
-
+# anti_join(filter(language_values, !is.na(glottocode)),
+#           tbl(glottolog_db, "countries"),
+#           by = c("glottocode", "country" = "country_code"), copy = TRUE)
 
 #' ## WALS Matches
 wals_db <- src_sqlite(here::here("external/lingdata/wals.db"))
