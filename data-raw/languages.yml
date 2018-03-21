@@ -232,7 +232,7 @@
   country:
   - UG
 - name: akassa
-  glottocode: sout2774
+  glottocode: akas1241
   iso_639_3:
   - ijs
   country:
@@ -451,9 +451,9 @@
 - name:
   - annag
   - annang
-  glottocode: null
+  glottocode: anaa1238
   iso_639_3:
-  - mis
+  - anw
   country:
   - NG
 - name: anyanga
@@ -662,7 +662,7 @@
 - name:
   - auchi
   - auche
-  glottocode: yekh1238
+  glottocode: auch1238
   iso_639_3:
   - ets
   country:
@@ -1279,6 +1279,9 @@
   - lns
   country:
   - CM
+  note: >
+    Banso is an alt-name for Lamnso'. No dialects of it named
+    Banso in Glottolog.
 - name: banvele
   glottocode: null
   iso_639_3:
@@ -1321,6 +1324,8 @@
   - bba
   country:
   - BJ
+  note: >
+    Bariba is an alt-name for Baatonum.
 - name: baruba
   glottocode: null
   iso_639_3:
@@ -1623,14 +1628,7 @@
   - mis
   country:
   - CM
-- name: berber language
-  glottocode: berb1260
-  iso_639_3:
-    - kab
-    - shi
-    - shy
-  country:
-  - DZ
+
 - name: berber language
   glottocode: berb1260
   iso_639_3:
@@ -2186,11 +2184,19 @@
   country:
   - ZM
 - name: cabarmawa
-  glottocode: null
+  glottocode: mara1395
   iso_639_3:
-  - mis
+  - kcg
   country:
   - NG
+  note: >
+    This name "cabmarwa" does not appear in Ethnologue, Glottolog, or even Google searches
+    (apart from Afrobarometer).
+
+    The one speaker in R1 is from Borno state.
+
+    Best guess is a Kaba language - spoken primarily in Chad and CAF.
+    Sara Kaba Deme has a dialect Mara.
 
 - name: calabar
   glottocode: efik1245
@@ -2272,8 +2278,26 @@
   - MZ
 
 - name:
-  - chewa
   - chewa/nyanja
+  - nyanja/chewa
+  glottocode: nyan1308
+  iso_639_3:
+  - nya
+  country:
+    - BW
+    - MW
+    - MZ
+    - ZA
+    - ZM
+    - ZW
+    - MW
+  note: >
+    Use the Chewa dialect (chew1246) of Nyanja (nyan1308) in Glottolog.
+
+    Include various alt-spellings.
+
+- name:
+  - chewa
   - chewe
   - cheua
   - cheue
@@ -2281,7 +2305,6 @@
   - chechewa
   - chichewa
   - tchitchewa
-  - nyanja/chewa
   - macheua
   glottocode: chew1246
   iso_639_3:
@@ -2331,7 +2354,9 @@
   - sna
   country:
   - ZW
-- name: chikunda
+- name:
+  - chikunda
+  - kund1254
   glottocode: kund1255
   iso_639_3:
   - kdn
@@ -2451,12 +2476,6 @@
   glottocode: nyak1260
   iso_639_3:
   - nyy
-  country:
-  - MW
-- name: chinyanja
-  glottocode: nyan1308
-  iso_639_3:
-  - nya
   country:
   - MW
 - name:
@@ -2697,14 +2716,7 @@
   - ndc
   country:
   - MZ
-- name:
-  - cinyanja
-  - nhanja
-  glottocode: nyan1308
-  iso_639_3:
-  - nya
-  country:
-  - MZ
+
 - name: cinyungwe
   glottocode: nyun1248
   iso_639_3:
@@ -2874,7 +2886,7 @@
   country:
   - NG
 - name: damara
-  glottocode: nama1264
+  glottocode: dama1270
   iso_639_3:
   - naq
   country:
@@ -3184,11 +3196,13 @@
   country:
   - CM
 - name: dschang
-  glottocode: yemb1246
+  glottocode: fore1267
   iso_639_3:
   - ybb
   country:
   - CM
+  note: >
+    Foreke Dschan is a dialect of Yemba.
 - name: du
   glottocode: null
   iso_639_3:
@@ -3597,7 +3611,7 @@
   - NG
 
 - name: esako
-  glottocode: ekh1238
+  glottocode: yekh1238
   iso_639_3:
   - ets
   country:
@@ -4161,24 +4175,27 @@
   - glw
   country:
   - NG
-- name: gnanboua
+- name:
+  - gnanboua
+  - gniaboua
   glottocode: nyab1255
   iso_639_3:
   - nwb
   country:
   - CI
-- name: gniaboua
-  glottocode: nyab1255
+  note: >
+    Niaboua, Nyaboa and Nyabobɔgo are alt-names for Nyabwa.
+
+- name:
+  - gnideboua
+  glottocode: nyed1238
   iso_639_3:
   - nwb
   country:
   - CI
-- name: gnideboua
-  glottocode: null
-  iso_639_3:
-  - mis
-  country:
-  - CI
+  note: >
+    Nyedabwa is a dialect of Nyabwa.
+
 - name: goba
   glottocode: shon1251
   iso_639_3:
@@ -4577,7 +4594,7 @@
   country:
   - ZW
 - name: ibaji
-  glottocode: igal1242
+  glottocode: ibaj1238
   iso_639_3:
   - igl
   country:
@@ -4700,10 +4717,9 @@
   country:
   - NG
 - name: ijaw
-  glottocode: ijoo1239
+  glottocode: izon1238
   iso_639_3:
-    - ijc
-    - ijs
+  - ijc
   country:
   - NG
 - name: ijaw/kalabari/okirika/andoni/ogoni/nembe
@@ -4821,18 +4837,15 @@
   - mis
   country:
   - NG
-- name: iregwe
+- name:
+  - iregwe
+  - irigwe
   glottocode: irig1241
   iso_639_3:
   - iri
   country:
   - NG
-- name: irigwe
-  glottocode: irig1241
-  iso_639_3:
-  - iri
-  country:
-  - NG
+
 # here for checking multi
 - name: irobo/urhobo
   glottocode: urho1239
@@ -4942,23 +4955,21 @@
   country:
   - ZW
 - name: jonam
-  glottocode: alur1250
+  glottocode: jona1239
   iso_639_3:
   - alz
   country:
   - UG
+  note: >
+    Jonam is a dialect of Alur.
 - name: jukum
   glottocode: wapa1235
   iso_639_3:
   - juk
   country:
   - NG
-- name: jukum
-  glottocode: null
-  iso_639_3:
-  - mis
-  country:
   - CM
+
 - name: jukun
   glottocode: juku1254
   iso_639_3:
@@ -5591,9 +5602,9 @@
   note: >
     "ki-" prefix for language + Hindi.
 - name: kiiba
-  glottocode: null
+  glottocode: ciba1236
   iso_639_3:
-  - mis
+  - ckl
   country:
   - NG
 - name: kiikizu
@@ -6444,11 +6455,16 @@
   country:
   - CM
 - name: knale
-  glottocode: null
+  glottocode: ukwu1242
   iso_639_3:
-  - mis
+  - ukw
   country:
   - NG
+  note:
+    Two speakers in R1 in Delta and Lagos region.
+    No langs named Knale.
+    Ukwani-Aboh-Ndoni
+    Kwale is a dialect of
 - name: kodia
   glottocode: kodi1246
   iso_639_3:
@@ -6686,6 +6702,9 @@
   - nwb
   country:
   - CI
+  note: >
+    Kouzii is a dialect of Nyabwe accordin to Ethnologue.
+    Glottolog does not have a Nyabwe dialect for it.
 - name: koyaka
   glottocode: koya1253
   iso_639_3:
@@ -6767,6 +6786,9 @@
     - ted
   country:
   - CI
+  note: >
+    Kroumen is an alt-name for several languages in the
+    Ivorian Grebo family.
 - name: kru
   glottocode: klao1243
   iso_639_3:
@@ -6792,13 +6814,7 @@
   - kdi
   country:
   - UG
-- name: kunda
-  glottocode: tumb1253
-  iso_639_3:
-    - kdn
-    - nya
-  country:
-  - ZM
+
 - name:
   - kupsabinyi
   - kupsabiny
@@ -7010,11 +7026,18 @@
   country:
   - NG
 - name: lantan
-  glottocode: null
+  glottocode: taro1263
   iso_639_3:
-  - mis
+  - yer
   country:
   - NG
+  note: >
+    No languages or dialects named Lantan in Nigeria.
+
+    The one speaker in R1 is from the Plateau State.
+    [Lantang-North](http://www.plateaustate.gov.ng/page/langtang-south) and [Langtang-South](http://www.plateaustate.gov.ng/page/langtang-south) are LGAs.
+    The languages spoken in them are Taroh.
+
 - name: larteh
   glottocode: lart1238
   iso_639_3:
@@ -7361,12 +7384,7 @@
   - lke
   country:
   - UG
-- name: lukhonjo
-  glottocode: konz1239
-  iso_639_3:
-  - koo
-  country:
-  - UG
+
 - name: lukuku
   glottocode: bari1284
   iso_639_3:
@@ -7676,9 +7694,9 @@
   country:
   - MZ
 - name: maka
-  glottocode: byep1241
+  glottocode: maka1304
   iso_639_3:
-  - mkk
+  - mcp
   country:
   - CM
 
@@ -8426,6 +8444,8 @@
   - iri
   country:
   - NG
+  note: >
+    Miango is an alt-name for [Rigwe](https://www.ethnologue.com/language/iri)
 - name: mianka
   glottocode: mama1271
   iso_639_3:
@@ -9061,9 +9081,19 @@
 - name:
   - nama/damara
   - damara/nama
+  glottocode: nama1264
+  iso_639_3:
+  - naq
+  country:
+  - "NA"
+  - ZW
+  note: >
+    [Damara](http://glottolog.org/resource/languoid/id/dama1270)
+    is a dialect of [Nama](http://glottolog.org/resource/languoid/id/nama1264).
+
+- name:
   - nama
-  glottocode:
-  - nama1264
+  glottocode: nama1265
   iso_639_3:
   - naq
   country:
@@ -9096,11 +9126,38 @@
     - MW
     - ZM
 - name: nanba/wanba
-  glottocode: null
+  glottocode: eggo1239
   iso_639_3:
-  - mis
+  - ego
   country:
   - NG
+  note: >
+    Unclear.
+
+    The one speaker in R1 was from Plateau region. Wamba is an LGA in the
+    neighboring Nasarawa State on the border of Plateau state.
+
+    Languages
+
+    - No Nanba/Wanba or similar spelling languages in Nigeria mentioned in Ethnologue.
+    - Gwamba is a dialect of [Mbula-Bwazza](https://www.ethnologue.com/language/mbu).
+      spoken in Nigeria in Adamawaa state.
+    - Gwamba dialect
+    - Mwamba is a dialect of Nyakusa-Ngonde spoken in Tanzania (too distant)
+    - Gwamba is a dialect of [Tsonga](http://glottolog.org/resource/languoid/id/tson1249)
+      spoken in southern Africa (too distant).
+    - [Bwamba](http://glottolog.org/resource/languoid/id/bwam1249) is spoken in
+      Cameroon, Congo, and CAF.
+
+    Wamba is an LGA in Nasarawa State. Ethnologue lists the
+    following languages as spoken in the Wamba LGA.
+
+    - Eggon (ego) (6a; 140,000)
+    - Nnugu (rin) (6a; 50,000)
+    - Bu (jid) (6a; 20,000)
+    - Alema-Tesu  (aab) ()
+    - Hasha (ybj) (6a; vigorous) (Volta-Congo)
+    - Toro (tdv)
 
 - name: nandi
   glottocode: nand1266
@@ -9265,7 +9322,7 @@
   country:
   - NG
 - name: nembe
-  glottocode: sout2774
+  glottocode: nemb1238
   iso_639_3:
   - ijs
   country:
@@ -9564,12 +9621,7 @@
   - nhu
   country:
   - CM
-- name: normana
-  glottocode: numa1252
-  iso_639_3:
-  - nbr
-  country:
-  - NG
+
 - name: north ivie
   glottocode: null
   iso_639_3:
@@ -9577,13 +9629,15 @@
   country:
   - NG
 - name: nsahas
-  glottocode: null
+  glottocode: akan1250
   iso_639_3:
-  - mis
+  - aka
   country:
   - GH
+  note: >
+    Speaker in R1 is from Ashanti region and likely Akan.
 - name: nsenga
-  glottocode: nucl1377
+  glottocode: nucl1379
   iso_639_3:
   - nse
   country:
@@ -9606,12 +9660,6 @@
   - lns
   country:
   - CM
-- name: nswaka
-  glottocode: null
-  iso_639_3:
-  - mis
-  country:
-  - ZM
 - name: ntem
   glottocode: null
   iso_639_3:
@@ -9672,8 +9720,10 @@
     Not included: brk (extinct), Dair (drb) is moribund,
     Dilling (dil) is moribund, El Hugeirat (elh) is moribund
     with no monolinguals.
-- name: numana
-  glottocode: numa1252
+- name:
+  - numana
+  - normana
+  glottocode: numa1253
   iso_639_3:
   - nbr
   country:
@@ -9751,6 +9801,9 @@
   country:
   - NG
 - name:
+  - chinyanja
+  - cinyanja
+  - nhanja
   - nyanja
   - myanja
   - nvanja
@@ -9759,7 +9812,7 @@
   - nyanga
   - njanja
   - myanja
-  glottocode: nyan1308
+  glottocode: nucl1395
   iso_639_3:
   - nya
   country:
@@ -9774,9 +9827,9 @@
   country:
   - KE
 - name: nyasa
-  glottocode: null
+  glottocode: nyas1241
   iso_639_3:
-  - mis
+  - nya
   country:
   - KE
 - name: nyasaland
@@ -10236,6 +10289,8 @@
   - asa
   country:
   - TZ
+  note: >
+    Pare is an alt-name for [Asu](http://glottolog.org/resource/languoid/id/asut1235).
 - name: pashto
   glottocode: nort2646
   iso_639_3:
@@ -10538,7 +10593,7 @@
   - rufumbira
   - rufumbiira
   - rufumbia
-  glottocode: kiny1244
+  glottocode: rufu1238
   iso_639_3:
   - kin
   country:
@@ -10573,14 +10628,12 @@
   - cgg
   country:
   - UG
-- name: rukonjo
-  glottocode: konz1239
-  iso_639_3:
-  - koo
-  country:
-  - UG
-- name: rukonzo
-  glottocode: konz1239
+
+- name:
+  - rukonzo
+  - rukonjo
+  - lukhonjo
+  glottocode: rufu1238
   iso_639_3:
   - koo
   country:
@@ -10916,6 +10969,8 @@
   - naq
   country:
   - BW
+  note: >
+    Sekgothu is a name for [Nama](http://allafrica.com/stories/200605090949.html).
 - name: sekhurutsi
   glottocode: tswa1253
   iso_639_3:
@@ -11149,6 +11204,7 @@
   - isesoth
   - issotho
   - sisuthu
+  - suthu
   glottocode: sout2807
   iso_639_3:
   - sot
@@ -11670,12 +11726,6 @@
   - sus
   country:
   - SL
-- name: suthu
-  glottocode: tswa1253
-  iso_639_3:
-  - tsn
-  country:
-  - ZW
 
 - name:
   - swahili
@@ -11729,12 +11779,16 @@
   note: >
     Ethnologue lists Congo Swahili as the form of
     Swahili spoken in Zambia.
-- name: swaka
-  glottocode: lala1264
+- name:
+  - swaka
+  - nswaka
+  glottocode: swak1238
   iso_639_3:
   - leb
   country:
   - ZM
+  note: >
+    Swaka is a dialect of Lala-Bisa
 - name: swazi
   glottocode: swat1243
   iso_639_3:
@@ -12255,23 +12309,20 @@
   country:
   - NG
 - name: ugep
-  glottocode: loka1252
+  glottocode: ugep1238
   iso_639_3:
   - yaz
   country:
   - NG
-- name: ukwale
-  glottocode: ukwu1241
+- name:
+  - ukwale
+  - ukwani
+  glottocode: ukwu1242
   iso_639_3:
   - ukw
   country:
   - NG
-- name: ukwani
-  glottocode: ukwu1241
-  iso_639_3:
-  - ukw
-  country:
-  - NG
+
 - name: umone
   glottocode: kohu1243
   iso_639_3:
@@ -12344,11 +12395,13 @@
     - ZA
     - ZW
 - name: vhitori
-  glottocode: shon1251
+  glottocode: kara1480
   iso_639_3:
-  - sna
+  - kck
   country:
   - ZW
+  note: >
+    Vhitori are a Shona tribe, closely related to Karanga.
 - name: vigue
   glottocode: viem1243
   iso_639_3:
@@ -12728,11 +12781,16 @@
   country:
   - NG
 - name: zabagle
-  glottocode: null
+  glottocode: ntch1242
   iso_639_3:
-  - mis
+  - bud
   country:
   - GH
+  note: >
+    [https://en.wikipedia.org/wiki/Zabzugu-Tatale_District](https://en.wikipedia.org/wiki/Zabzugu)
+    is a district in the Northern Region, the location of the R1 speakers.
+    Ethnologue only lists [Ntcham](https://www.ethnologue.com/country/GH/languages) with
+    the Zabzugu-Tatale district.
 - name: zabrama
   glottocode: null
   iso_639_3:

@@ -47,7 +47,7 @@ language_values <-
             select(tbl(glottolog_db, "languoids"), glottocode, name),
             by = "glottocode", copy = TRUE) %>%
   mutate(glottolog_url = glottolog_url(glottocode)) %>%
-  mutate(glottocode = str_c("[", name, "](", glottocode, ")"))
+  mutate(glottocode = str_c("[", name, "](", glottolog_url(glottocode), ")"))
 
 # add iso 639 codes
 language_values_iso <- 
@@ -110,8 +110,11 @@ afrob1 <- read_sav(here::here("external", "afrobarometer",
 ```{r}
 filter(afrob1, country == "Nigeria") %>%
   count(language, area) %>% 
-  filter(language %in% c("Ikan", "Esako", "Gyerawa", "Anam", "Auche",
-                         "Eterco", "Ikpon", "Nanba/Wanba", "Ndochi",
-                         "Nkwana", "Omoku", "Ora", "Owan", "Lantan", "Madara"))
+  filter(language %in% c("Cabarmawa", "Kiiba", "Knale"))
 ```
 
+```{r}
+filter(afrob1, country == "Ghana") %>%
+  count(language, area) %>% 
+  filter(language %in% c("Nsahas", "Zabagle"))
+```

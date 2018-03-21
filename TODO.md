@@ -1,0 +1,5 @@
+- [ ] Check official names vs. Afrobarometer names
+- [ ] Check numbers against ISO data - top languages spoken
+- [ ] Check numbers against Ethnologue data - Official + vigorous
+- [ ] Check languages against ISO 639-3 and Glottolog countries
+- [ ] Fill in any easy languages among unmatched languages.

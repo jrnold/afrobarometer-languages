@@ -205,8 +205,18 @@ env_bind_fns(IO,
                  region = col_character(),
                  withinwt = col_double()
                ))
-   }
+   },
+
+
+
 )
+
+IO$glottolog <- src_sqlite(here::here("external", "lingdata", "glottolog.db"))
+
+IO$iso_639_3 <- src_sqlite(here::here("external", "lingdata", "iso_639_3.db"))
+
+IO$ethnologue <- src_sqlite(here::here("external", "lingdata", "ethnologue.db"))
+
 
 #' Misc functions
 #'

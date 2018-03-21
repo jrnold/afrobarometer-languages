@@ -1,7 +1,7 @@
 round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_resp,prop
 1,language,respondent,1,Afrikaans,BW,afrikaans,afr,afri1274,afr,1,8.333333333333334e-4
 1,language,respondent,2,Chewa,BW,chewa,nya,chew1246,cic,2,0.0016666666666666668
-1,language,respondent,5,Damara,BW,damara,naq,nama1264,kho,4,0.0033333333333333335
+1,language,respondent,5,Damara,BW,damara,naq,dama1270,kho,4,0.0033333333333333335
 1,language,respondent,6,English,BW,english,eng,stan1293,eng,16,0.013333333333333334
 1,language,respondent,7,German,BW,german,deu,stan1295,ger,1,8.333333333333334e-4
 1,language,respondent,9,Ndebele,BW,ndebele,nde,nort2795,swt xho zul,1,8.333333333333334e-4
@@ -38,7 +38,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 1,language,respondent,64,Waale,GH,waale,wlx,wali1263,dga,12,0.006013430693639802
 1,language,respondent,65,Nabi,GH,nabi,gur,fare1241,grn,1,4.6295534127241883e-4
 1,language,respondent,66,Mamprulni,GH,mamprulni,maw,mamp1244,mmp,15,0.007554952250247317
-1,language,respondent,67,Zabagle,GH,zabagle,mis,,,2,0.001002238448939967
+1,language,respondent,67,Zabagle,GH,zabagle,bud,ntch1242,ncm,2,0.001002238448939967
 1,language,respondent,68,Gonja,GH,gonja,gjn,gonj1241,cum nkn,17,0.008557190699187284
 1,language,respondent,69,Efutu,GH,efutu,afu,awut1241,cum nkn,10,0.005240175543885223
 1,language,respondent,70,Senya,GH,senya,afu,awut1241,cum nkn,3,0.0015415215566075152
@@ -46,7 +46,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 1,language,respondent,72,Wangara,GH,wangara,bib,biss1248,bis,2,0.001002238448939967
 1,language,respondent,73,Dagomba,GH,dagomba,dag,dagb1246,dgb,2,0.001002238448939967
 1,language,respondent,74,Buam/Lelemi,GH,buam/lelemi,lef,lele1264,llm,17,0.008175551867211639
-1,language,respondent,75,Nsahas,GH,nsahas,mis,,,1,4.6295534127241883e-4
+1,language,respondent,75,Nsahas,GH,nsahas,aka,akan1250,akn,1,4.6295534127241883e-4
 1,language,respondent,76,Brong,GH,brong,abr,abro1238,akn,3,0.0016178493230026446
 1,language,respondent,77,Basari,GH,basari,bud,ntch1242,ncm,1,4.6295534127241883e-4
 1,language,respondent,78,Kanjaga,GH,kanjaga,bwu,buli1254,buy,1,4.6295534127241883e-4
@@ -84,7 +84,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 1,language,respondent,3,Chinyungwe,MW,chinyungwe,nyu,nyun1248,sen,2,0.0016556291390728477
 1,language,respondent,4,Chisena,MW,chisena,swk,mala1475,sen,44,0.03642384105960265
 1,language,respondent,6,English,MW,english,eng,stan1293,eng,12,0.009933774834437087
-1,language,respondent,30,Nyanja,MW,nyanja,nya,nyan1308,cic,43,0.03559602649006623
+1,language,respondent,30,Nyanja,MW,nyanja,nya,nucl1395,cic,43,0.03559602649006623
 1,language,respondent,31,Tonga,MW,tonga,tog,tong1321,cic sen,30,0.024834437086092714
 1,language,respondent,32,Ngoni,MW,ngoni,nya,ngon1270,cic,12,0.009933774834437087
 1,language,respondent,33,Lomwe,MW,lomwe,lon,mala1256,mua,17,0.014072847682119206
@@ -97,10 +97,10 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 1,language,respondent,999,Missing data,MW,missing data,und,,,1,8.278145695364238e-4
 1,language,respondent,1,Afrikaans,NA,afrikaans,afr,afri1274,afr,129,0.10904480135249366
 1,language,respondent,3,Chinyungwe,NA,chinyungwe,nyu,nyun1248,sen,1,8.453085376162299e-4
-1,language,respondent,5,Damara,NA,damara,naq,nama1264,kho,80,0.0676246830092984
+1,language,respondent,5,Damara,NA,damara,naq,dama1270,kho,80,0.0676246830092984
 1,language,respondent,6,English,NA,english,eng,stan1293,eng,37,0.03127641589180051
 1,language,respondent,7,German,NA,german,deu,stan1295,ger,8,0.006762468300929839
-1,language,respondent,8,Nama,NA,nama,naq,nama1264,kho,75,0.06339814032121724
+1,language,respondent,8,Nama,NA,nama,naq,nama1265,kho,75,0.06339814032121724
 1,language,respondent,9,Ndebele,NA,ndebele,nde,nort2795,swt xho zul,1,8.453085376162299e-4
 1,language,respondent,10,Oshiwambo,NA,oshiwambo,kua,kuan1247,mhu ndo,569,0.4809805579036348
 1,language,respondent,11,Otjiherero,NA,otjiherero,her,here1253,her,92,0.07776838546069316
@@ -116,7 +116,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 1,language,respondent,104,Yoruba,NG,yoruba,yor,yoru1245,yor,919,0.25506522342492366
 1,language,respondent,105,Ibo,NG,ibo,ibo,nucl1417,igb,601,0.16680543991118513
 1,language,respondent,106,Tiv,NG,tiv,tiv,tivv1240,tiv,81,0.022481265611990008
-1,language,respondent,107,Ijaw,NG,ijaw,ijc ijs,ijoo1239,ijo,53,0.014709963918956424
+1,language,respondent,107,Ijaw,NG,ijaw,ijc,izon1238,ijo,53,0.014709963918956424
 1,language,respondent,108,Nupe,NG,nupe,nup,nupe1254,nup,15,0.004163197335553705
 1,language,respondent,109,Kanuri,NG,kanuri,kby knc,kanu1281,knr,122,0.03386067166250347
 1,language,respondent,110,Ibibio-Efik,NG,ibibio-efik,efi ibb,efik1244,efi ibi,79,0.02192617263391618
@@ -125,48 +125,48 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 1,language,respondent,114,Idoma,NG,idoma,idu,idom1241,ido,14,0.0038856508465167916
 1,language,respondent,115,Calabar,NG,calabar,efi,efik1245,efi,3,8.326394671107411e-4
 1,language,respondent,116,Ogoja,NG,ogoja,yba,yala1263,ido,5,0.0013877324451845685
-1,language,respondent,117,Knale,NG,knale,mis,,,2,5.550929780738274e-4
+1,language,respondent,117,Knale,NG,knale,ukw,ukwu1242,igb izi,2,5.550929780738274e-4
 1,language,respondent,118,Igala,NG,igala,igl,igal1242,ise yor,10,0.002775464890369137
 1,language,respondent,119,Boki,NG,boki,bky,boky1238,efi gok ibi kan koh agb obo ogb obg,1,2.775464890369137e-4
 1,language,respondent,120,Igbira,NG,igbira,igb,ebir1243,ebi,10,0.002775464890369137
-1,language,respondent,121,Ikpon,NG,ikpon,mis,,,1,2.775464890369137e-4
+1,language,respondent,121,Ikpon,NG,ikpon,ish,ekpo1238,bni ora,1,2.775464890369137e-4
 1,language,respondent,122,Isoko,NG,isoko,iso,isok1239,iso,27,0.00749375520399667
-1,language,respondent,123,Ikan,NG,ikan,mis,,,4,0.0011101859561476548
+1,language,respondent,123,Ikan,NG,ikan,ikk,ikaa1238,igb izi,4,0.0011101859561476548
 1,language,respondent,124,Ishan/Esan,NG,ishan/esan,ish,esan1238,bni ora,19,0.00527338329170136
-1,language,respondent,125,Anam,NG,anam,mis,,,1,2.775464890369137e-4
-1,language,respondent,126,Annag,NG,annag,mis,,,5,0.0013877324451845685
+1,language,respondent,125,Anam,NG,anam,anw,anaa1238,efi ibi,1,2.775464890369137e-4
+1,language,respondent,126,Annag,NG,annag,anw,anaa1238,efi ibi,5,0.0013877324451845685
 1,language,respondent,127,Itsekiri,NG,itsekiri,its,isek1239,ise,6,0.0016652789342214821
 1,language,respondent,128,Ika,NG,ika,ikk,ikaa1238,igb izi,2,5.550929780738274e-4
-1,language,respondent,129,Ukwale,NG,ukwale,ukw,ukwu1241,igb izi,1,2.775464890369137e-4
+1,language,respondent,129,Ukwale,NG,ukwale,ukw,ukwu1242,igb izi,1,2.775464890369137e-4
 1,language,respondent,130,Epie,NG,epie,epi,epie1238,deg egn,5,0.0013877324451845685
 1,language,respondent,131,Tangoa,NG,tangoa,uta,otan1238,tiv,1,2.775464890369137e-4
-1,language,respondent,132,Omoku,NG,omoku,mis,,,1,2.775464890369137e-4
-1,language,respondent,133,Ora,NG,ora,mis,,,1,2.775464890369137e-4
-1,language,respondent,134,Auche,NG,auche,mis,,,1,2.775464890369137e-4
+1,language,respondent,132,Omoku,NG,omoku,iso,unog1238,iso,1,2.775464890369137e-4
+1,language,respondent,133,Ora,NG,ora,ema,oraa1239,ora,1,2.775464890369137e-4
+1,language,respondent,134,Auche,NG,auche,ets,auch1238,ets,1,2.775464890369137e-4
 1,language,respondent,135,Okirika,NG,okirika,okr,kiri1254,ijo,5,0.0013877324451845685
-1,language,respondent,136,Esako,NG,esako,mis,,,2,5.550929780738274e-4
+1,language,respondent,136,Esako,NG,esako,ets,yekh1238,ets,2,5.550929780738274e-4
 1,language,respondent,137,Okpe,NG,okpe,oke,okpe1250,iso urh,1,2.775464890369137e-4
-1,language,respondent,138,Owan,NG,owan,mis,,,1,2.775464890369137e-4
+1,language,respondent,138,Owan,NG,owan,ema,emai1241,ora,1,2.775464890369137e-4
 1,language,respondent,139,Ikwerre,NG,ikwerre,ikw,ikwe1242,igb izi,66,0.018318068276436304
 1,language,respondent,140,Ibani,NG,ibani,iby,iban1261,ijo,2,5.550929780738274e-4
 1,language,respondent,141,Kalabari,NG,kalabari,ijn,kala1381,ijo,4,0.0011101859561476548
 1,language,respondent,142,Ogoni,NG,ogoni,ogo,khan1278,kan,2,5.550929780738274e-4
-1,language,respondent,143,Akassa,NG,akassa,ijs,sout2774,ijo,1,2.775464890369137e-4
+1,language,respondent,143,Akassa,NG,akassa,ijs,akas1241,ijo,1,2.775464890369137e-4
 1,language,respondent,145,Berieberi,NG,berieberi,knc,cent2050,knr,1,2.775464890369137e-4
 1,language,respondent,146,Fulani,NG,fulani,fuv,nige1253,fni,27,0.00749375520399667
 1,language,respondent,147,Kagoro,NG,kagoro,kcg,kago1246,gwo,1,2.775464890369137e-4
 1,language,respondent,148,Bekwarr,NG,bekwarr,bkv,bekw1241,efi gok ibi kan koh agb obo ogb obg,3,8.326394671107411e-4
-1,language,respondent,149,Nkwana,NG,nkwana,mis,,,1,2.775464890369137e-4
+1,language,respondent,149,Nkwana,NG,nkwana,krh,kura1249,amo,1,2.775464890369137e-4
 1,language,respondent,150,Babur,NG,babur,bwr,bura1292,bpa,4,0.0011101859561476548
-1,language,respondent,151,Kiiba,NG,kiiba,mis,,,2,5.550929780738274e-4
+1,language,respondent,151,Kiiba,NG,kiiba,ckl,ciba1236,bpa,2,5.550929780738274e-4
 1,language,respondent,152,Nungu,NG,nungu,rin,nung1292,mdz,1,2.775464890369137e-4
 1,language,respondent,153,Kabba/Koro,NG,kabba/koro,ahs bqv ldb yes,koro1301,kgm,2,5.550929780738274e-4
 1,language,respondent,154,Eggon,NG,eggon,ego,eggo1239,bir fye gwo kgm mdz tok,2,5.550929780738274e-4
 1,language,respondent,155,Kuba,NG,kuba,ruk,chee1238,mdz,2,5.550929780738274e-4
-1,language,respondent,156,Madara,NG,madara,mis,,,1,2.775464890369137e-4
+1,language,respondent,156,Madara,NG,madara,mxu,mada1293,mda,1,2.775464890369137e-4
 1,language,respondent,157,Bura,NG,bura,bwr,bura1292,bpa,6,0.0016652789342214821
 1,language,respondent,158,Margi,NG,margi,mrt,marg1265,mrg,4,0.0011101859561476548
-1,language,respondent,159,Cabarmawa,NG,cabarmawa,mis,,,1,2.775464890369137e-4
+1,language,respondent,159,Cabarmawa,NG,cabarmawa,kcg,mara1395,bgr,1,2.775464890369137e-4
 1,language,respondent,160,Kibaku,NG,kibaku,ckl,ciba1236,bpa,1,2.775464890369137e-4
 1,language,respondent,161,Mafa,NG,mafa,maf,mafa1239,dab gnd gud hna ter,3,8.326394671107411e-4
 1,language,respondent,162,Beron/Birom,NG,beron/birom,bom,bero1242,bir,22,0.006106022758812101
@@ -174,17 +174,17 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 1,language,respondent,164,Iregwe,NG,iregwe,iri,irig1241,gwo,1,2.775464890369137e-4
 1,language,respondent,165,Afizere,NG,afizere,izr,izer1241,gwo,1,2.775464890369137e-4
 1,language,respondent,166,Koro,NG,koro,ahs bqv ldb yes,koro1301,kgm,1,2.775464890369137e-4
-1,language,respondent,167,Normana,NG,normana,nbr,numa1252,mdz,1,2.775464890369137e-4
+1,language,respondent,167,Normana,NG,normana,nbr,numa1253,mdz,1,2.775464890369137e-4
 1,language,respondent,168,Miango,NG,miango,iri,irig1241,gwo,1,2.775464890369137e-4
-1,language,respondent,169,Gyerawa,NG,gyerawa,mis,,,2,5.550929780738274e-4
-1,language,respondent,170,Eterco,NG,eterco,mis,,,1,2.775464890369137e-4
+1,language,respondent,169,Gyerawa,NG,gyerawa,gew,gera1246,blq,2,5.550929780738274e-4
+1,language,respondent,170,Eterco,NG,eterco,yer,itar1242,tok,1,2.775464890369137e-4
 1,language,respondent,171,Zar,NG,zar,say,saya1246,bad miy ngz paa,1,2.775464890369137e-4
-1,language,respondent,172,Lantan,NG,lantan,mis,,,1,2.775464890369137e-4
+1,language,respondent,172,Lantan,NG,lantan,yer,taro1263,tok,1,2.775464890369137e-4
 1,language,respondent,173,Mwaghauw,NG,mwaghauw,sur,mwag1236,mup,2,5.550929780738274e-4
 1,language,respondent,174,Pyem,NG,pyem,pym,fyam1238,fye,3,8.326394671107411e-4
 1,language,respondent,175,Chawai,NG,chawai,cch,atsa1241,amo,1,2.775464890369137e-4
 1,language,respondent,176,Gbaji,NG,gbaji,gbr,gbag1258,gwa,2,5.550929780738274e-4
-1,language,respondent,177,Nanba/Wanba,NG,nanba/wanba,mis,,,1,2.775464890369137e-4
+1,language,respondent,177,Nanba/Wanba,NG,nanba/wanba,ego,eggo1239,bir fye gwo kgm mdz tok,1,2.775464890369137e-4
 1,language,respondent,178,Jarawa,NG,jarawa,jgk jjr,jara1263,jar,9,0.002497918401332223
 1,language,respondent,179,Katap,NG,katap,kcg,tyap1238,gwo,1,2.775464890369137e-4
 1,language,respondent,180,Tangale,NG,tangale,tan,nucl1696,tan,1,2.775464890369137e-4
@@ -192,7 +192,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 1,language,respondent,182,Jukun,NG,jukun,jbu,juku1254,juk,1,2.775464890369137e-4
 1,language,respondent,183,Bayam,NG,bayam,gya,nort2775,gbk,1,2.775464890369137e-4
 1,language,respondent,184,Shuwa Arab,NG,shuwa arab,shu,chad1249,arn,8,0.0022203719122953097
-1,language,respondent,185,Ndochi,NG,ndochi,mis,,,1,2.775464890369137e-4
+1,language,respondent,185,Ndochi,NG,ndochi,glw,ngos1242,mlg,1,2.775464890369137e-4
 1,language,respondent,186,Kare Kare,NG,kare kare,kai,kare1348,blq,1,2.775464890369137e-4
 1,language,respondent,187,Gwari,NG,gwari,gbr gby,gbag1256,gwa,29,0.008048848182070497
 1,language,respondent,188,Rukuba,NG,rukuba,ruk,chee1238,mdz,1,2.775464890369137e-4
@@ -247,7 +247,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 1,language,respondent,24,Sepedi/N.Sotho,ZA,sepedi/n.sotho,nso,pedi1238,stn,160,0.07796408827448426
 1,language,respondent,995,Other,ZA,other,und,,,3,0.0013112371666077116
 1,language,respondent,4,Chisena,ZM,chisena,swk,mala1475,sen,2,0.001669449081803005
-1,language,respondent,5,Damara,ZM,damara,naq,nama1264,kho,1,8.347245409015025e-4
+1,language,respondent,5,Damara,ZM,damara,naq,dama1270,kho,1,8.347245409015025e-4
 1,language,respondent,6,English,ZM,english,eng,stan1293,eng,39,0.0325542570951586
 1,language,respondent,9,Ndebele,ZM,ndebele,nde,nort2795,swt xho zul,1,8.347245409015025e-4
 1,language,respondent,16,Silozi,ZM,silozi,loz,lozi1239,loz,113,0.09432387312186978
@@ -256,14 +256,14 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 1,language,respondent,26,Bemba,ZM,bemba,bem,bemb1257,lmb,383,0.31969949916527546
 1,language,respondent,27,Kaonde,ZM,kaonde,kqn,kaon1241,kil,28,0.02337228714524207
 1,language,respondent,29,Luvale,ZM,luvale,lue,luva1239,luv,38,0.03171953255425709
-1,language,respondent,30,Nyanja,ZM,nyanja,nya,nyan1308,cic,223,0.18614357262103506
+1,language,respondent,30,Nyanja,ZM,nyanja,nya,nucl1395,cic,223,0.18614357262103506
 1,language,respondent,31,Tonga,ZM,tonga,toi,tong1318,toz,125,0.10434056761268781
 1,language,respondent,995,Other,ZM,other,und,,,230,0.19198664440734559
 1,language,respondent,999,Missing data,ZM,missing data,und,,,11,0.009181969949916527
 1,language,respondent,2,Chewa,ZW,chewa,nya,chew1246,cic,11,0.009166666666666667
-1,language,respondent,5,Damara,ZW,damara,naq,nama1264,kho,1,8.333333333333334e-4
+1,language,respondent,5,Damara,ZW,damara,naq,dama1270,kho,1,8.333333333333334e-4
 1,language,respondent,6,English,ZW,english,eng,stan1293,eng,19,0.015833333333333335
-1,language,respondent,8,Nama,ZW,nama,naq,nama1264,kho,2,0.0016666666666666668
+1,language,respondent,8,Nama,ZW,nama,naq,nama1265,kho,2,0.0016666666666666668
 1,language,respondent,9,Ndebele,ZW,ndebele,nde,nort2795,swt xho zul,182,0.15166666666666667
 1,language,respondent,17,Shangaan/Tsonga/Ronga/Tswa,ZW,shangaan/tsonga/ronga/tswa,tsc tso rng,tswa1254,rga tsn,10,0.008333333333333333
 1,language,respondent,18,Shona,ZW,shona,sna,shon1251,shn,933,0.7775
@@ -316,7 +316,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q110,interviewer,81,Emakhuwa,MZ,emakhuwa,vmw,makh1264,mua,310,0.3451088073789798
 2,q110,interviewer,82,Cisena,MZ,cisena,seh,nucl1396,sen,38,0.020840375411925082
 2,q110,interviewer,83,Cindau,MZ,cindau,ndc,ndau1241,shn,80,0.05655469871160107
-2,q110,interviewer,84,Cinyanja,MZ,cinyanja,nya,nyan1308,cic,40,0.028277349355800535
+2,q110,interviewer,84,Cinyanja,MZ,cinyanja,nya,nucl1395,cic,40,0.028277349355800535
 2,q110,interviewer,85,Xichangana,MZ,xichangana,tso,chan1318,tsn,366,0.18367435019276213
 2,q110,interviewer,86,Cicopi,MZ,cicopi,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,40,0.02463001670337377
 2,q110,interviewer,87,Gitonga,MZ,gitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,24,0.02649891921667973
@@ -334,7 +334,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q110,interviewer,261,Yoruba,NG,yoruba,yor,yoru1245,yor,579,0.25943307308915853
 2,q110,interviewer,262,Igbo,NG,igbo,ibo,nucl1417,igb,433,0.17856722772657652
 2,q110,interviewer,263,Tiv,NG,tiv,tiv,tivv1240,tiv,90,0.04041403675132367
-2,q110,interviewer,264,Ijaw,NG,ijaw,ijc ijs,ijoo1239,ijo,25,0.007048914402107887
+2,q110,interviewer,264,Ijaw,NG,ijaw,ijc,izon1238,ijo,25,0.007048914402107887
 2,q110,interviewer,266,Nupe,NG,nupe,nup,nupe1254,nup,10,0.0044904485279248525
 2,q110,interviewer,267,Ibibio,NG,ibibio,ibb,ibib1240,ibi,63,0.017763264293311876
 2,q110,interviewer,268,Efik,NG,efik,efi,efik1245,efi,11,0.0031015223369274705
@@ -388,7 +388,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q110,interviewer,302,kaonda,ZM,kaonda,kqn,kaon1241,kil,48,0.04109134013524518
 2,q110,interviewer,303,Lozi,ZM,lozi,loz,lozi1239,loz,198,0.1695100325404239
 2,q110,interviewer,305,Luvale,ZM,luvale,lue,luva1239,luv,152,0.12669976754371337
-2,q110,interviewer,306,Nyanja,ZM,nyanja,nya,nyan1308,cic,157,0.1313091192999305
+2,q110,interviewer,306,Nyanja,ZM,nyanja,nya,nucl1395,cic,157,0.1313091192999305
 2,q110,interviewer,307,Tonga,ZM,tonga,toi,tong1318,toz,184,0.15283568465363528
 2,q110,interviewer,308,Tumbuka,ZM,tumbuka,tum,tumb1250,cic sen,46,0.03936150368126798
 2,q110,interviewer,310,Nyika,ZM,nyika,nih nkv,cent2285,nyh,73,0.06333798302175722
@@ -481,7 +481,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q83,respondent,81,Emakhuwa,MZ,emakhuwa,vmw,makh1264,mua,345,0.4258537874326375
 2,q83,respondent,82,Cisena,MZ,cisena,seh,nucl1396,sen,136,0.09512108805624758
 2,q83,respondent,83,Cindau,MZ,cindau,ndc,ndau1241,shn,70,0.029787252228231087
-2,q83,respondent,84,Cinyanja,MZ,cinyanja,nya,nyan1308,cic,47,0.03542700062328711
+2,q83,respondent,84,Cinyanja,MZ,cinyanja,nya,nucl1395,cic,47,0.03542700062328711
 2,q83,respondent,85,Xichangana,MZ,xichangana,tso,chan1318,tsn,319,0.13979233403036787
 2,q83,respondent,86,Cicopi,MZ,cicopi,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,36,0.019894121300271086
 2,q83,respondent,87,Gitonga,MZ,gitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,56,0.03943241941608249
@@ -514,7 +514,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q83,respondent,261,Yoruba,NG,yoruba,yor,yoru1245,yor,505,0.22608512126486563
 2,q83,respondent,262,Igbo,NG,igbo,ibo,nucl1417,igb,403,0.17116380314631152
 2,q83,respondent,263,Tiv,NG,tiv,tiv,tivv1240,tiv,63,0.028133734163429024
-2,q83,respondent,264,Ijaw,NG,ijaw,ijc ijs,ijoo1239,ijo,162,0.04651417771560841
+2,q83,respondent,264,Ijaw,NG,ijaw,ijc,izon1238,ijo,162,0.04651417771560841
 2,q83,respondent,265,Kanuri,NG,kanuri,kby knc,kanu1281,knr,91,0.04116979108372326
 2,q83,respondent,266,Nupe,NG,nupe,nup,nupe1254,nup,17,0.0072881073513574035
 2,q83,respondent,267,Ibibio,NG,ibibio,ibb,ibib1240,ibi,57,0.016726076449511396
@@ -574,10 +574,10 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q83,respondent,69,Madi,UG,madi,mhi snm,sout2827,mad,37,0.013225505052019212
 2,q83,respondent,70,Runyankole,UG,runyankole,nyn,nyan1307,rny,273,0.11628406685765723
 2,q83,respondent,71,Runyoro,UG,runyoro,nyo,nyor1246,rru,77,0.03276086921315096
-2,q83,respondent,72,Rukonjo,UG,rukonjo,koo,konz1239,nde,46,0.019254965798618226
+2,q83,respondent,72,Rukonjo,UG,rukonjo,koo,rufu1238,kin,46,0.019254965798618226
 2,q83,respondent,73,Samia-Lugwe,UG,samia-lugwe,lsm,saam1283,luy,72,0.03033621036163813
 2,q83,respondent,74,Kinyarwanda,UG,kinyarwanda,kin,kiny1244,kin,15,0.006785800940191158
-2,q83,respondent,75,Rufumbira,UG,rufumbira,kin,kiny1244,kin,32,0.013367758403975003
+2,q83,respondent,75,Rufumbira,UG,rufumbira,kin,rufu1238,kin,32,0.013367758403975003
 2,q83,respondent,76,Kakwa,UG,kakwa,keo,kakw1240,kuk,25,0.009047533495810285
 2,q83,respondent,77,Other Western languages,UG,other western languages,und,,,21,0.008796310564938913
 2,q83,respondent,78,Other Eastern languages,UG,other eastern languages,und,,,88,0.03693036994517316
@@ -605,7 +605,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q83,respondent,303,Lozi,ZM,lozi,loz,lozi1239,loz,93,0.07682823597006129
 2,q83,respondent,304,Lunda,ZM,lunda,lun,lund1266,lbu,17,0.01378071582120272
 2,q83,respondent,305,Luvale,ZM,luvale,lue,luva1239,luv,32,0.026043409190741714
-2,q83,respondent,306,Nyanja,ZM,nyanja,nya,nyan1308,cic,54,0.04746344327309217
+2,q83,respondent,306,Nyanja,ZM,nyanja,nya,nucl1395,cic,54,0.04746344327309217
 2,q83,respondent,307,Tonga,ZM,tonga,toi,tong1318,toz,158,0.1313419491566945
 2,q83,respondent,308,Tumbuka,ZM,tumbuka,tum,tumb1250,cic sen,35,0.03001396614617164
 2,q83,respondent,309,Senga,ZM,senga,nse,nucl1397,nse,44,0.04092395482154328
@@ -621,7 +621,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q83,respondent,319,Soli,ZM,soli,sby,soli1239,ila toz,2,0.0016736921695532235
 2,q83,respondent,440,Mambwe,ZM,mambwe,mgr,mamb1297,mmw,7,0.005063752903770723
 2,q83,respondent,441,Chikunda,ZM,chikunda,kdn,kund1255,cic sen,3,0.0019133593816446645
-2,q83,respondent,442,Swaka,ZM,swaka,leb,lala1264,lmb,1,8.340283200971635e-4
+2,q83,respondent,442,Swaka,ZM,swaka,leb,swak1238,lmb,1,8.340283200971635e-4
 2,q83,respondent,443,Luchazi,ZM,luchazi,lch,luch1239,luc,1,8.340283200971635e-4
 2,q83,respondent,444,Aushi,ZM,aushi,auh,aush1241,lmb,28,0.022372411855097724
 2,q83,respondent,445,Chishinga,ZM,chishinga,bem,bemb1257,lmb,1,7.943127255224567e-4
@@ -701,7 +701,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q97,interview,81,Emakhuwa,MZ,emakhuwa,vmw,makh1264,mua,204,0.2984031862136611
 2,q97,interview,82,Cisena,MZ,cisena,seh,nucl1396,sen,79,0.05593514746648876
 2,q97,interview,83,Cindau,MZ,cindau,ndc,ndau1241,shn,32,0.014385741870591306
-2,q97,interview,84,Cinyanja,MZ,cinyanja,nya,nyan1308,cic,29,0.022999873239913548
+2,q97,interview,84,Cinyanja,MZ,cinyanja,nya,nucl1395,cic,29,0.022999873239913548
 2,q97,interview,85,Xichangana,MZ,xichangana,tso,chan1318,tsn,181,0.0984006959602774
 2,q97,interview,86,Cicopi,MZ,cicopi,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,10,0.00835327695072195
 2,q97,interview,87,Gitonga,MZ,gitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,7,0.0065578833259833545
@@ -726,7 +726,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q97,interview,261,Yoruba,NG,yoruba,yor,yoru1245,yor,270,0.12128090765017478
 2,q97,interview,262,Igbo,NG,igbo,ibo,nucl1417,igb,134,0.05943901131483227
 2,q97,interview,263,Tiv,NG,tiv,tiv,tivv1240,tiv,41,0.018418178344538086
-2,q97,interview,264,Ijaw,NG,ijaw,ijc ijs,ijoo1239,ijo,23,0.006655746860811859
+2,q97,interview,264,Ijaw,NG,ijaw,ijc,izon1238,ijo,23,0.006655746860811859
 2,q97,interview,265,Kanuri,NG,kanuri,kby knc,kanu1281,knr,14,0.0063291279742781
 2,q97,interview,266,Nupe,NG,nupe,nup,nupe1254,nup,2,5.63913152168631e-4
 2,q97,interview,267,Ibibio,NG,ibibio,ibb,ibib1240,ibi,25,0.007048914402107887
@@ -766,7 +766,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q97,interview,69,Madi,UG,madi,mhi snm,sout2827,mad,8,0.0028537411764150643
 2,q97,interview,70,Runyankole,UG,runyankole,nyn,nyan1307,rny,295,0.12308092669796705
 2,q97,interview,71,Runyoro,UG,runyoro,nyo,nyor1246,rru,10,0.00415586167185099
-2,q97,interview,72,Rukonjo,UG,rukonjo,koo,konz1239,nde,8,0.003324689337480792
+2,q97,interview,72,Rukonjo,UG,rukonjo,koo,rufu1238,kin,8,0.003324689337480792
 2,q97,interview,73,Samia-Lugwe,UG,samia-lugwe,lsm,saam1283,luy,7,0.0029091031702956935
 2,q97,interview,76,Kakwa,UG,kakwa,keo,kakw1240,kuk,4,0.0013932314338456946
 2,q97,interview,1,English,ZA,english,eng,stan1293,eng,812,0.34569632902242303
@@ -789,7 +789,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 2,q97,interview,303,Lozi,ZM,lozi,loz,lozi1239,loz,76,0.06289963525130887
 2,q97,interview,304,Lunda,ZM,lunda,lun,lund1266,lbu,5,0.004100420169038975
 2,q97,interview,305,Luvale,ZM,luvale,lue,luva1239,luv,10,0.008517528397473724
-2,q97,interview,306,Nyanja,ZM,nyanja,nya,nyan1308,cic,121,0.10998209688986561
+2,q97,interview,306,Nyanja,ZM,nyanja,nya,nucl1395,cic,121,0.10998209688986561
 2,q97,interview,307,Tonga,ZM,tonga,toi,tong1318,toz,95,0.07886973045863577
 2,q97,interview,308,Tumbuka,ZM,tumbuka,tum,tumb1250,cic sen,6,0.0057369288539973065
 2,q97,interview,309,Senga,ZM,senga,nse,nucl1397,nse,8,0.00769439332126535
@@ -872,7 +872,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q103,interview,300,Makua,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,269,0.22454090150250416
 3,q103,interview,301,Sena,MZ,sena,seh,nucl1396,sen,37,0.030884808013355594
 3,q103,interview,302,Ndau,MZ,ndau,ndc,ndau1241,shn,37,0.030884808013355594
-3,q103,interview,303,Nyanja,MZ,nyanja,nya,nyan1308,cic,22,0.018363939899833055
+3,q103,interview,303,Nyanja,MZ,nyanja,nya,nucl1395,cic,22,0.018363939899833055
 3,q103,interview,304,Changana,MZ,changana,tso,chan1318,tsn,143,0.11936560934891485
 3,q103,interview,305,Chope,MZ,chope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,10,0.008347245409015025
 3,q103,interview,306,Bitonga,MZ,bitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,10,0.008347245409015025
@@ -924,7 +924,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q103,interview,417,Luganda,UG,luganda,lug,gand1255,lda,722,0.3403341143611348
 3,q103,interview,418,Lumasaba,UG,lumasaba,myx,masa1299,buk,16,0.007445872440273038
 3,q103,interview,419,Lusoga,UG,lusoga,xog,soga1242,lda,2,9.307340550341297e-4
-3,q103,interview,501,Rufumbia,UG,rufumbia,kin,kiny1244,kin,4,0.0018698005546075088
+3,q103,interview,501,Rufumbia,UG,rufumbia,kin,rufu1238,kin,4,0.0018698005546075088
 3,q103,interview,506,Runyoro - Rutooro,UG,runyoro-rutooro,nyo ttj,nyor1247,rru,149,0.06095099856015359
 3,q103,interview,508,Rutooro,UG,rutooro,ttj,toor1238,rru,2,9.349002773037544e-4
 3,q103,interview,510,Runyankole - Rukiga,UG,runyankole-rukiga,cgg nyn,nkor1241,nko rny,398,0.16834704298208192
@@ -951,7 +951,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q103,interview,995,Other,ZA,other,und,,,8,0.00417989265875817
 3,q103,interview,1,English,ZM,english,eng,stan1293,eng,408,0.34
 3,q103,interview,420,Bemba,ZM,bemba,bem,bemb1257,lmb,416,0.3466666666666667
-3,q103,interview,421,Nyanja,ZM,nyanja,nya,nyan1308,cic,167,0.13916666666666666
+3,q103,interview,421,Nyanja,ZM,nyanja,nya,nucl1395,cic,167,0.13916666666666666
 3,q103,interview,422,Tonga,ZM,tonga,toi,tong1318,toz,118,0.09833333333333333
 3,q103,interview,423,Lozi,ZM,lozi,loz,lozi1239,loz,91,0.07583333333333334
 3,q103,interview,1,English,ZW,english,eng,stan1293,eng,99,0.09446564885496184
@@ -1002,7 +1002,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q114,interviewer,300,Makua,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,336,0.28046744574290483
 3,q114,interviewer,301,Sena,MZ,sena,seh,nucl1396,sen,28,0.02337228714524207
 3,q114,interviewer,302,Ndau,MZ,ndau,ndc,ndau1241,shn,134,0.11185308848080133
-3,q114,interviewer,303,Nyanja,MZ,nyanja,nya,nyan1308,cic,63,0.052587646076794656
+3,q114,interviewer,303,Nyanja,MZ,nyanja,nya,nucl1395,cic,63,0.052587646076794656
 3,q114,interviewer,304,Changana,MZ,changana,tso,chan1318,tsn,166,0.13856427378964942
 3,q114,interviewer,305,Chope,MZ,chope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,46,0.038397328881469114
 3,q114,interviewer,306,Bitonga,MZ,bitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,66,0.05509181969949917
@@ -1023,12 +1023,12 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q114,interviewer,348,Ibibio,NG,ibibio,ibb,ibib1240,ibi,99,0.04495912806694682
 3,q114,interviewer,350,Tiv,NG,tiv,tiv,tivv1240,tiv,62,0.02862407353686441
 3,q114,interviewer,351,Nupe,NG,nupe,nup,nupe1254,nup,53,0.02406902815705234
-3,q114,interviewer,352,Ijaw,NG,ijaw,ijc ijs,ijoo1239,ijo,138,0.04076165012402266
+3,q114,interviewer,352,Ijaw,NG,ijaw,ijc,izon1238,ijo,138,0.04076165012402266
 3,q114,interviewer,353,Edo,NG,edo,bin,bini1246,bni,105,0.0411926997920666
 3,q114,interviewer,354,Igala,NG,igala,igl,igal1242,ise yor,97,0.044942385846691926
 3,q114,interviewer,355,Urhobo,NG,urhobo,urh,urho1239,urh,32,0.01453224341557877
 3,q114,interviewer,357,Bassa,NG,bassa,bzw,basa1282,duk,15,0.006811989101052548
-3,q114,interviewer,359,Ukwani,NG,ukwani,ukw,ukwu1241,igb izi,20,0.0033303057812230264
+3,q114,interviewer,359,Ukwani,NG,ukwani,ukw,ukwu1242,igb izi,20,0.0033303057812230264
 3,q114,interviewer,552,Geomai,NG,geomai,ank,goem1240,goe,4,0.0018165304269473462
 3,q114,interviewer,554,Pyam,NG,pyam,pym,fyam1238,fye,13,0.0059037238875788755
 3,q114,interviewer,558,Esan,NG,esan,ish,esan1238,bni ora,42,0.015743263699907577
@@ -1063,7 +1063,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q114,interviewer,108,Venda,ZA,venda,ven,vend1245,ven,60,0.02924862120103607
 3,q114,interviewer,109,Zulu,ZA,zulu,zul,zulu1248,zul,444,0.18363104954500833
 3,q114,interviewer,420,Bemba,ZM,bemba,bem,bemb1257,lmb,428,0.3566666666666667
-3,q114,interviewer,421,Nyanja,ZM,nyanja,nya,nyan1308,cic,138,0.115
+3,q114,interviewer,421,Nyanja,ZM,nyanja,nya,nucl1395,cic,138,0.115
 3,q114,interviewer,422,Tonga,ZM,tonga,toi,tong1318,toz,241,0.20083333333333334
 3,q114,interviewer,423,Lozi,ZM,lozi,loz,lozi1239,loz,136,0.11333333333333333
 3,q114,interviewer,424,Chewa,ZM,chewa,nya,chew1246,cic,58,0.04833333333333333
@@ -1191,7 +1191,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q3,respondent,300,Makua,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,379,0.31636060100166946
 3,q3,respondent,301,Sena,MZ,sena,seh,nucl1396,sen,87,0.07262103505843072
 3,q3,respondent,302,Ndau,MZ,ndau,ndc,ndau1241,shn,79,0.0659432387312187
-3,q3,respondent,303,Nyanja,MZ,nyanja,nya,nyan1308,cic,28,0.02337228714524207
+3,q3,respondent,303,Nyanja,MZ,nyanja,nya,nucl1395,cic,28,0.02337228714524207
 3,q3,respondent,304,Changana,MZ,changana,tso,chan1318,tsn,202,0.1686143572621035
 3,q3,respondent,305,Chope,MZ,chope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,29,0.024207011686143573
 3,q3,respondent,306,Bitonga,MZ,bitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,22,0.018363939899833055
@@ -1230,14 +1230,14 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q3,respondent,349,Kanuri,NG,kanuri,kby knc,kanu1281,knr,50,0.022729418352737257
 3,q3,respondent,350,Tiv,NG,tiv,tiv,tivv1240,tiv,32,0.01430168378432649
 3,q3,respondent,351,Nupe,NG,nupe,nup,nupe1254,nup,27,0.012051321158454087
-3,q3,respondent,352,Ijaw,NG,ijaw,ijc ijs,ijoo1239,ijo,153,0.03361296298980681
+3,q3,respondent,352,Ijaw,NG,ijaw,ijc,izon1238,ijo,153,0.03361296298980681
 3,q3,respondent,353,Edo,NG,edo,bin,bini1246,bni,50,0.02166030133953051
 3,q3,respondent,354,Igala,NG,igala,igl,igal1242,ise yor,37,0.016802906449262953
 3,q3,respondent,355,Urhobo,NG,urhobo,urh,urho1239,urh,28,0.006921077038840147
 3,q3,respondent,356,Idoma,NG,idoma,idu,idom1241,ido,26,0.011582771643451539
 3,q3,respondent,357,Bassa,NG,bassa,bzw,basa1282,duk,7,0.003178928247157856
 3,q3,respondent,358,Ikwere,NG,ikwere,ikw,ikwe1242,igb izi,28,0.007492541101984303
-3,q3,respondent,359,Ukwani,NG,ukwani,ukw,ukwu1241,igb izi,11,0.0022706630336841826
+3,q3,respondent,359,Ukwani,NG,ukwani,ukw,ukwu1242,igb izi,11,0.0022706630336841826
 3,q3,respondent,550,Anang,NG,anang,anw,anaa1238,efi ibi,30,0.013623978202105097
 3,q3,respondent,553,Kadara,NG,kadara,kad,kada1284,bir fye gwo kgm mdz tok,8,0.0037925769651626865
 3,q3,respondent,555,Bahumono,NG,bahumono,bcs,kohu1244,koh,9,0.004087193460631529
@@ -1294,7 +1294,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q3,respondent,406,Akur,UG,akur,alz,alur1250,luo,73,0.02949977002453072
 3,q3,respondent,407,Ateso,UG,ateso,teo,teso1249,tes,174,0.06714408796395052
 3,q3,respondent,408,Japadhola,UG,japadhola,adh,adho1243,luo,41,0.016436580098122867
-3,q3,respondent,409,Jonam,UG,jonam,alz,alur1250,luo,7,0.0033946379052901023
+3,q3,respondent,409,Jonam,UG,jonam,alz,jona1239,luo,7,0.0033946379052901023
 3,q3,respondent,410,Kakwa,UG,kakwa,keo,kakw1240,kuk,14,0.003948328844923209
 3,q3,respondent,411,Kumam,UG,kumam,kdi,kuma1275,lan,4,6.753446299061433e-4
 3,q3,respondent,412,Kuksabin,UG,kuksabin,kpz,kups1238,seb,5,0.0018031409982935153
@@ -1306,10 +1306,10 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q3,respondent,418,Lugishu/Lumasaba,UG,lugishu/lumasaba,myx,masa1299,buk,96,0.040991877533063145
 3,q3,respondent,419,Lusoga,UG,lusoga,xog,soga1242,lda,237,0.09747876893131399
 3,q3,respondent,500,Lunyoli,UG,lunyoli,nuj,nyol1238,buk luy,28,0.011546268398037542
-3,q3,respondent,501,Rufumbira,UG,rufumbira,kin,kiny1244,kin,30,0.015050477949018773
+3,q3,respondent,501,Rufumbira,UG,rufumbira,kin,rufu1238,kin,30,0.015050477949018773
 3,q3,respondent,502,Ruhororo,UG,ruhororo,nyn,nyan1307,rny,13,0.006407233228455632
 3,q3,respondent,503,Rukiga,UG,rukiga,cgg,chig1238,nko,150,0.06395401157209898
-3,q3,respondent,504,Rukonzo,UG,rukonzo,koo,konz1239,nde,34,0.013204424861348124
+3,q3,respondent,504,Rukonzo,UG,rukonzo,koo,rufu1238,kin,34,0.013204424861348124
 3,q3,respondent,505,Runyarwanda,UG,runyarwanda,kin,kiny1244,kin,19,0.008904050234641638
 3,q3,respondent,506,Runyoro,UG,runyoro,nyo,nyor1246,rru,73,0.028971909662969288
 3,q3,respondent,507,Rutagwenda,UG,rutagwenda,nyo,ruta1240,rru,7,0.002972182967150171
@@ -1333,7 +1333,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 3,q3,respondent,995,Other,ZA,other,und,,,4,0.0016240306835108194
 3,q3,respondent,1,English,ZM,english,eng,stan1293,eng,13,0.010833333333333334
 3,q3,respondent,420,Bemba,ZM,bemba,bem,bemb1257,lmb,422,0.3516666666666667
-3,q3,respondent,421,Nyanja,ZM,nyanja,nya,nyan1308,cic,95,0.07916666666666666
+3,q3,respondent,421,Nyanja,ZM,nyanja,nya,nucl1395,cic,95,0.07916666666666666
 3,q3,respondent,422,Tonga,ZM,tonga,toi,tong1318,toz,168,0.14
 3,q3,respondent,423,Lozi,ZM,lozi,loz,lozi1239,loz,106,0.08833333333333333
 3,q3,respondent,424,Chewa,ZM,chewa,nya,chew1246,cic,83,0.06916666666666667
@@ -1473,7 +1473,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q103,interview,-1,Missing,ZM,missing,und,,,2,0.001062538934479402
 4,Q103,interview,1,English,ZM,english,eng,stan1293,eng,291,0.25097702464971516
 4,Q103,interview,820,Bemba,ZM,bemba,bem,bemb1257,lmb,436,0.3478695669695574
-4,Q103,interview,821,Nyanja,ZM,nyanja,nya,nyan1308,cic,270,0.2316771150754401
+4,Q103,interview,821,Nyanja,ZM,nyanja,nya,nucl1395,cic,270,0.2316771150754401
 4,Q103,interview,822,Tonga,ZM,tonga,toi,tong1318,toz,91,0.07983068953971756
 4,Q103,interview,823,Lozi,ZM,lozi,loz,lozi1239,loz,67,0.05413265281484267
 4,Q103,interview,827,Kaonde,ZM,kaonde,kqn,kaon1241,kil,43,0.03445041201624767
@@ -1582,7 +1582,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q114,interviewer,643,Igede,NG,igede,ige,iged1239,ige,3,0.001320939352963337
 4,Q114,interviewer,645,Marghi,NG,marghi,mfl mfm mrt,bura1296,bpa klb mrg,22,0.011466255851202131
 4,Q114,interviewer,646,Gbagyi,NG,gbagyi,gbr,gbag1258,gwa,24,0.011098396245800368
-4,Q114,interviewer,647,Ugep,NG,ugep,yaz,loka1252,agb,20,0.010449212466489912
+4,Q114,interviewer,647,Ugep,NG,ugep,yaz,ugep1238,agb,20,0.010449212466489912
 4,Q114,interviewer,648,Kambari,NG,kambari,yaz,loka1252,agb,20,0.00726282192741337
 4,Q114,interviewer,649,Eggon,NG,eggon,ego,eggo1239,bir fye gwo kgm mdz tok,20,0.00726282192741337
 4,Q114,interviewer,650,Kataf (Atyap),NG,kataf (atyap),kcg,kata1265,gwo,20,0.010449212466489912
@@ -1613,7 +1613,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q114,interviewer,782,Runyolo,UG,runyolo,nyo,nyor1246,rru,100,0.045321580980329124
 4,Q114,interviewer,783,Lusoga,UG,lusoga,xog,soga1242,lda,122,0.06539324173755066
 4,Q114,interviewer,784,Lumasaba,UG,lumasaba,myx,masa1299,buk,109,0.04852373263447544
-4,Q114,interviewer,785,Lukhonjo,UG,lukhonjo,koo,konz1239,nde,72,0.03053479870865012
+4,Q114,interviewer,785,Lukhonjo,UG,lukhonjo,koo,rufu1238,kin,72,0.03053479870865012
 4,Q114,interviewer,787,Ateso,UG,ateso,teo,teso1249,tes,222,0.07115880365602212
 4,Q114,interviewer,788,Acholi,UG,acholi,ach,acol1236,acl,176,0.06705938525245925
 4,Q114,interviewer,789,Alur,UG,alur,alz,alur1250,luo,48,0.014453341290180784
@@ -1636,7 +1636,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q114,interviewer,709,Zulu,ZA,zulu,zul,zulu1248,zul,605,0.30158003363923536
 4,Q114,interviewer,1,English,ZM,english,eng,stan1293,eng,34,0.028147785567687194
 4,Q114,interviewer,820,Bemba,ZM,bemba,bem,bemb1257,lmb,590,0.5037341389444621
-4,Q114,interviewer,821,Nyanja,ZM,nyanja,nya,nyan1308,cic,35,0.02903524040270026
+4,Q114,interviewer,821,Nyanja,ZM,nyanja,nya,nucl1395,cic,35,0.02903524040270026
 4,Q114,interviewer,822,Tonga,ZM,tonga,toi,tong1318,toz,157,0.1301542467277646
 4,Q114,interviewer,823,Lozi,ZM,lozi,loz,lozi1239,loz,64,0.05115607216190182
 4,Q114,interviewer,824,Chewa,ZM,chewa,nya,chew1246,cic,43,0.03508527672021556
@@ -1820,7 +1820,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3,respondent,541,Makua,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,318,0.26397272010378986
 4,Q3,respondent,542,Sena,MZ,sena,seh,nucl1396,sen,101,0.07070574264306156
 4,Q3,respondent,543,Ndau,MZ,ndau,ndc,ndau1241,shn,46,0.04239721403505712
-4,Q3,respondent,544,Nyanja,MZ,nyanja,nya,nyan1308,cic,24,0.018128742353649786
+4,Q3,respondent,544,Nyanja,MZ,nyanja,nya,nucl1395,cic,24,0.018128742353649786
 4,Q3,respondent,545,Changana,MZ,changana,tso,chan1318,tsn,150,0.12581205803385148
 4,Q3,respondent,546,Chope,MZ,chope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,14,0.019197432667463352
 4,Q3,respondent,547,Bitonga,MZ,bitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,34,0.02841477595043507
@@ -1880,7 +1880,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3,respondent,644,Babur,NG,babur,bwr,bura1292,bpa,16,0.008602427449615568
 4,Q3,respondent,645,Marghi,NG,marghi,mfl mfm mrt,bura1296,bpa klb mrg,12,0.007357169899263407
 4,Q3,respondent,646,Gbagyi,NG,gbagyi,gbr,gbag1258,gwa,11,0.005616659512500966
-4,Q3,respondent,647,Ugep,NG,ugep,yaz,loka1252,agb,10,0.002222528583278795
+4,Q3,respondent,647,Ugep,NG,ugep,yaz,ugep1238,agb,10,0.002222528583278795
 4,Q3,respondent,648,Kambari,NG,kambari,yaz,loka1252,agb,10,0.00426012605425328
 4,Q3,respondent,649,Eggon,NG,eggon,ego,eggo1239,bir fye gwo kgm mdz tok,9,0.004953742771252441
 4,Q3,respondent,650,Kataf (Atyap),NG,kataf (atyap),kcg,kata1265,gwo,9,0.00585403734136577
@@ -1951,7 +1951,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3,respondent,782,Runyolo,UG,runyolo,nyo,nyor1246,rru,117,0.04747355353581062
 4,Q3,respondent,783,Lusoga,UG,lusoga,xog,soga1242,lda,247,0.1334224829100771
 4,Q3,respondent,784,Lumasaba,UG,lumasaba,myx,masa1299,buk,118,0.045719903545155746
-4,Q3,respondent,785,Lukhonjo,UG,lukhonjo,koo,konz1239,nde,55,0.02246715096144718
+4,Q3,respondent,785,Lukhonjo,UG,lukhonjo,koo,rufu1238,kin,55,0.02246715096144718
 4,Q3,respondent,786,Lunyole,UG,lunyole,nuj,nyol1238,buk luy,4,0.0016875260951455832
 4,Q3,respondent,787,Ateso,UG,ateso,teo,teso1249,tes,164,0.05290118588436641
 4,Q3,respondent,788,Acholi,UG,acholi,ach,acol1236,acl,180,0.06748394888827065
@@ -1969,7 +1969,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3,respondent,800,Lululi,UG,lululi,ruc,ruul1235,nko rny rru tal,11,0.0014129243956703262
 4,Q3,respondent,801,Lwamba,UG,lwamba,rwm,amba1263,bia,7,0.0030621805781459927
 4,Q3,respondent,802,Nubian,UG,nubian,kcn,nubi1253,nub,7,0.002746406167148895
-4,Q3,respondent,803,Rufumbira,UG,rufumbira,kin,kiny1244,kin,22,0.00508732763019637
+4,Q3,respondent,803,Rufumbira,UG,rufumbira,kin,rufu1238,kin,22,0.00508732763019637
 4,Q3,respondent,804,Runyarwanda,UG,runyarwanda,kin,kiny1244,kin,11,0.002809130525008581
 4,Q3,respondent,805,Sabiny,UG,sabiny,kpz,kups1238,seb,18,0.004089969373479025
 4,Q3,respondent,995,Others,UG,others,und,,,5,0.001512587075235435
@@ -1989,7 +1989,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3,respondent,995,Others,ZA,others,und,,,2,9.801591063101893e-6
 4,Q3,respondent,1,English,ZM,english,eng,stan1293,eng,1,9.248284571956497e-4
 4,Q3,respondent,820,Bemba,ZM,bemba,bem,bemb1257,lmb,344,0.28905289428561365
-4,Q3,respondent,821,Nyanja,ZM,nyanja,nya,nyan1308,cic,65,0.058692191927499276
+4,Q3,respondent,821,Nyanja,ZM,nyanja,nya,nucl1395,cic,65,0.058692191927499276
 4,Q3,respondent,822,Tonga,ZM,tonga,toi,tong1318,toz,164,0.1498881265657003
 4,Q3,respondent,823,Lozi,ZM,lozi,loz,lozi1239,loz,104,0.08334321020301498
 4,Q3,respondent,824,Chewa,ZM,chewa,nya,chew1246,cic,62,0.04519812901687442
@@ -2006,7 +2006,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3,respondent,835,Ngoni,ZM,ngoni,nse,ngon1271,nse,43,0.03446575611849644
 4,Q3,respondent,836,Soli,ZM,soli,sby,soli1239,ila toz,5,0.0044942326956726964
 4,Q3,respondent,837,Ila,ZM,ila,ilb,ilaa1246,ila,5,0.0063484669509384995
-4,Q3,respondent,838,Kunda,ZM,kunda,kdn nya,tumb1253,cic sen,9,0.0056540896369432474
+4,Q3,respondent,838,Kunda,ZM,kunda,,,,9,0.0056540896369432474
 4,Q3,respondent,839,Lala,ZM,lala,leb,lala1265,lmb,14,0.01018518046545744
 4,Q3,respondent,840,Lamba,ZM,lamba,lam,lamb1271,lmb,11,0.01121576773001143
 4,Q3,respondent,841,Lungu,ZM,lungu,mgr,rung1256,mmw,11,0.008362488927858245
@@ -2022,7 +2022,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3,respondent,863,Kalanga,ZW,kalanga,kck,kala1384,klz,11,0.00805847103216778
 4,Q3,respondent,864,Tonga,ZW,tonga,toi,tong1318,toz,19,0.01823236437356994
 4,Q3,respondent,865,Nambya,ZW,nambya,nmq,namb1291,klz,9,0.004931999285241212
-4,Q3,respondent,866,Nyanja,ZW,nyanja,nya,nyan1308,cic,7,0.004565405360810272
+4,Q3,respondent,866,Nyanja,ZW,nyanja,nya,nucl1395,cic,7,0.004565405360810272
 4,Q3,respondent,995,Others,ZW,others,und,,,15,0.014014454112144794
 4,Q3OTHER,respondent_other,,"",BF,"",und,,,1184,0.9928926908752395
 4,Q3OTHER,respondent_other,,BELLA,BF,bella,taq,tama1365,tsk,4,0.0015612455122181478
@@ -2249,7 +2249,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3OTHER,respondent_other,,MWAGHAWUL,NG,mwaghawul,sur,mwag1236,mup,3,7.032367881139519e-4
 4,Q3OTHER,respondent_other,,NDORO,NG,ndoro,ndr,ndoo1241,mla,1,4.2178913895572366e-4
 4,Q3OTHER,respondent_other,,NEDERE,NG,nedere,kmy,koma1266,doy,1,5.311032481429819e-4
-4,Q3OTHER,respondent_other,,NUMANA,NG,numana,nbr,numa1252,mdz,1,5.059919834553683e-4
+4,Q3OTHER,respondent_other,,NUMANA,NG,numana,nbr,numa1253,mdz,1,5.059919834553683e-4
 4,Q3OTHER,respondent_other,,OBUBRA,NG,obubra,mis,,,1,3.36984723182677e-4
 4,Q3OTHER,respondent_other,,OGAJA,NG,ogaja,mis,,,1,5.059919834553683e-4
 4,Q3OTHER,respondent_other,,OGBIA,NG,ogbia,ogb,ogbi1239,ogb,8,0.0026244838553464694
@@ -2263,7 +2263,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3OTHER,respondent_other,,TERA,NG,tera,ttr,tera1251,ter,1,5.435054333400911e-4
 4,Q3OTHER,respondent_other,,TIGUM,NG,tigum,nza,tigo1236,juk,3,0.001265367416867171
 4,Q3OTHER,respondent_other,,TIGUN,NG,tigun,nza,tigo1236,juk,1,1.9844612065774976e-4
-4,Q3OTHER,respondent_other,,UGEP,NG,ugep,yaz,loka1252,agb,10,0.002222528583278795
+4,Q3OTHER,respondent_other,,UGEP,NG,ugep,yaz,ugep1238,agb,10,0.002222528583278795
 4,Q3OTHER,respondent_other,,WAJA,NG,waja,wja,waja1259,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp vag wwa xsm,2,8.562499670408058e-4
 4,Q3OTHER,respondent_other,,YAKUR,NG,yakur,yaz,loka1252,agb,1,3.541643365214021e-4
 4,Q3OTHER,respondent_other,,ZURU,NG,zuru,dri,lila1245,duk,2,9.98639698230036e-4
@@ -2348,7 +2348,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3OTHER,respondent_other,,Lululi,UG,lululi,ruc,ruul1235,nko rny rru tal,11,0.0014129243956703262
 4,Q3OTHER,respondent_other,,Lwamba,UG,lwamba,rwm,amba1263,bia,7,0.0030621805781459927
 4,Q3OTHER,respondent_other,,Nubian,UG,nubian,kcn,nubi1253,nub,7,0.002746406167148895
-4,Q3OTHER,respondent_other,,Rufumbira,UG,rufumbira,kin,kiny1244,kin,22,0.00508732763019637
+4,Q3OTHER,respondent_other,,Rufumbira,UG,rufumbira,kin,rufu1238,kin,22,0.00508732763019637
 4,Q3OTHER,respondent_other,,Rulundi,UG,rulundi,run,rund1242,rnd,2,5.914524831578475e-4
 4,Q3OTHER,respondent_other,,Runyarwanda,UG,runyarwanda,kin,kiny1244,kin,10,0.0026250314163125776
 4,Q3OTHER,respondent_other,,Rwandese,UG,rwandese,kin,kiny1244,kin,1,1.8409910869600298e-4
@@ -2363,7 +2363,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3OTHER,respondent_other,,BWILE,ZM,bwile,bwc,bwil1245,lmb tbw,3,0.0018111905079844781
 4,Q3OTHER,respondent_other,,CHOKWE,ZM,chokwe,cjk,chok1245,luv,4,0.0038192228330629265
 4,Q3OTHER,respondent_other,,ICISHILA,ZM,icishila,mis,,,1,8.195851462788348e-4
-4,Q3OTHER,respondent_other,,KUNDA,ZM,kunda,kdn nya,tumb1253,cic sen,9,0.005654089636943248
+4,Q3OTHER,respondent_other,,KUNDA,ZM,kunda,,,,9,0.005654089636943248
 4,Q3OTHER,respondent_other,,LALA,ZM,lala,leb,lala1265,lmb,14,0.010185180465457442
 4,Q3OTHER,respondent_other,,LAMBA,ZM,lamba,lam,lamb1271,lmb,11,0.011215767730011431
 4,Q3OTHER,respondent_other,,LUCHAZI,ZM,luchazi,lch,luch1239,luc,1,8.858021506873664e-4
@@ -2376,7 +2376,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3OTHER,respondent_other,,SALA,ZM,sala,shq,sala1266,ila toz,2,0.001239798702350483
 4,Q3OTHER,respondent_other,,SENGA,ZM,senga,nse,nucl1397,nse,7,0.008976092815930488
 4,Q3OTHER,respondent_other,,SHONA,ZM,shona,sna,shon1251,shn,1,6.198993511752415e-4
-4,Q3OTHER,respondent_other,,SWAKA,ZM,swaka,leb,lala1264,lmb,1,7.58994015027884e-4
+4,Q3OTHER,respondent_other,,SWAKA,ZM,swaka,leb,swak1238,lmb,1,7.58994015027884e-4
 4,Q3OTHER,respondent_other,,TOKALEYA,ZM,tokaleya,toi,tong1318,toz,12,0.005098533180258974
 4,Q3OTHER,respondent_other,,USHI,ZM,ushi,auh,aush1241,lmb,12,0.009786888589642308
 4,Q3OTHER,respondent_other,,USMI,ZM,usmi,mis,,,2,0.0016411458163106214
@@ -2398,7 +2398,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3OTHER,respondent_other,,NAMBYA,ZW,nambya,nmq,namb1291,klz,9,0.004931999285241212
 4,Q3OTHER,respondent_other,,NDAU,ZW,ndau,ndc,ndau1241,shn,14,0.013428202083246476
 4,Q3OTHER,respondent_other,,NYAHO (CHAWA),ZW,nyaho (chawa),nya,chew1246,cic,1,5.359143031303067e-4
-4,Q3OTHER,respondent_other,,NYANJA,ZW,nyanja,nya,nyan1308,cic,7,0.004565405360810272
+4,Q3OTHER,respondent_other,,NYANJA,ZW,nyanja,nya,nucl1395,cic,7,0.004565405360810272
 4,Q3OTHER,respondent_other,,SHANGANI,ZW,shangani,tso,chan1318,tsn,2,0.001787728382464829
 4,Q3OTHER,respondent_other,,TAURA (MOZAMBICAN),ZW,taura (mozambican),twl,tawa1270,shn,1,6.849213471142559e-4
 4,Q3OTHER,respondent_other,,YAO,ZW,yao,yao,yaoo1241,yao,1,5.701895521103158e-4
@@ -2555,7 +2555,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q103,interview,711,Mixed - English/Afrikaans,ZA,mixed-english/afrikaans,eng,stan1293,eng,2,0.001240082613512298
 5,Q103,interview,712,Tsonga,ZA,tsonga,tso,tson1249,tsn,14,0.006864687182298388
 5,Q103,interview,1,English,ZM,english,eng,stan1293,eng,287,0.22784300389659612
-5,Q103,interview,820,Chewa/nyanja,ZM,chewa/nyanja,nya,chew1246,cic,253,0.21849072806335257
+5,Q103,interview,820,Chewa/nyanja,ZM,chewa/nyanja,nya,nyan1308,cic,253,0.21849072806335257
 5,Q103,interview,821,Ichibemba,ZM,ichibemba,bem,bemb1257,lmb,439,0.3717665952792614
 5,Q103,interview,822,Tonga,ZM,tonga,toi,tong1318,toz,85,0.07325574370769355
 5,Q103,interview,823,Kikaonde,ZM,kikaonde,kqn,kaon1241,kil,57,0.04558171794663028
@@ -2649,7 +2649,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q103OTHER,interview_other,,"",ZW,"",und,,,2386,0.9948607315633837
 5,Q103OTHER,interview_other,,NAMBYA,ZW,nambya,nmq,namb1291,klz,1,3.550952969393867e-4
 5,Q103OTHER,interview_other,,NDAU,ZW,ndau,ndc,ndau1241,shn,10,0.0037599727388680903
-5,Q103OTHER,interview_other,,NYANJA,ZW,nyanja,nya,nyan1308,cic,1,3.638630820490011e-4
+5,Q103OTHER,interview_other,,NYANJA,ZW,nyanja,nya,nucl1395,cic,1,3.638630820490011e-4
 5,Q103OTHER,interview_other,,SHONA & NDEBELE,ZW,shona & ndebele,sna,shon1251,shn,2,6.603373187598156e-4
 5,Q116,interviewer,15,Fulfuldé,BF,fulfuldé,fuh,west2454,fbf,100,0.08283406184556222
 5,Q116,interviewer,180,Mooré,BF,mooré,mos,moss1236,moo,650,0.5411750471077843
@@ -2780,7 +2780,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q116,interviewer,628,Ibibio,NG,ibibio,ibb,ibib1240,ibi,120,0.0519428305194283
 5,Q116,interviewer,629,Kanuri,NG,kanuri,kby knc,kanu1281,knr,24,0.010739340940726743
 5,Q116,interviewer,630,Tiv,NG,tiv,tiv,tivv1240,tiv,56,0.024636798579701316
-5,Q116,interviewer,632,Ijaw,NG,ijaw,ijc ijs,ijoo1239,ijo,38,0.013543977635439778
+5,Q116,interviewer,632,Ijaw,NG,ijaw,ijc,izon1238,ijo,38,0.013543977635439778
 5,Q116,interviewer,633,Edo,NG,edo,bin,bini1246,bni,300,0.12067296370672964
 5,Q116,interviewer,634,Igala,NG,igala,igl,igal1242,ise yor,27,0.011767276367672764
 5,Q116,interviewer,639,Idoma,NG,idoma,idu,idom1241,ido,29,0.012869522212028554
@@ -2835,7 +2835,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q116,interviewer,782,Runyoro,UG,runyoro,nyo,nyor1246,rru,60,0.030351418626304753
 5,Q116,interviewer,783,Lusoga,UG,lusoga,xog,soga1242,lda,175,0.08440580481575455
 5,Q116,interviewer,784,Lumasaba,UG,lumasaba,myx,masa1299,buk,80,0.03261806699211355
-5,Q116,interviewer,785,Lukhonjo,UG,lukhonjo,koo,konz1239,nde,120,0.060702837252609505
+5,Q116,interviewer,785,Lukhonjo,UG,lukhonjo,koo,rufu1238,kin,120,0.060702837252609505
 5,Q116,interviewer,787,Ateso,UG,ateso,teo,teso1249,tes,234,0.07794377424261074
 5,Q116,interviewer,788,Acholi,UG,acholi,ach,acol1236,acl,129,0.047492703591632074
 5,Q116,interviewer,789,Alur,UG,alur,alz,alur1250,luo,52,0.01708894454031134
@@ -2849,7 +2849,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q116,interviewer,797,Langi,UG,langi,laj,lang1324,lan,135,0.04409619778004239
 5,Q116,interviewer,798,Kupsabinyi,UG,kupsabinyi,kpz,kups1238,seb,24,0.003321535827227102
 5,Q116,interviewer,799,Ngakarimajong,UG,ngakarimajong,kdj,kara1483,kmj,80,0.04283446154410343
-5,Q116,interviewer,800,Rufumbira,UG,rufumbira,kin,kiny1244,kin,36,0.01481879470609449
+5,Q116,interviewer,800,Rufumbira,UG,rufumbira,kin,rufu1238,kin,36,0.01481879470609449
 5,Q116,interviewer,1,English,ZA,english,eng,stan1293,eng,275,0.08725280818060464
 5,Q116,interviewer,30,Ndebele,ZA,ndebele,nbl,sout2808,ndb,32,0.013189397394520068
 5,Q116,interviewer,700,Afrikaans,ZA,afrikaans,afr,afri1274,afr,265,0.07220762632092068
@@ -2862,7 +2862,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q116,interviewer,708,Venda,ZA,venda,ven,vend1245,ven,48,0.02136665348016058
 5,Q116,interviewer,709,Zulu,ZA,zulu,zul,zulu1248,zul,551,0.2991435226944017
 5,Q116,interviewer,820,Bemba,ZM,bemba,bem,bemb1257,lmb,392,0.3195737430484748
-5,Q116,interviewer,821,Nyanja,ZM,nyanja,nya,nyan1308,cic,130,0.12269494426873291
+5,Q116,interviewer,821,Nyanja,ZM,nyanja,nya,nucl1395,cic,130,0.12269494426873291
 5,Q116,interviewer,822,Tonga,ZM,tonga,toi,tong1318,toz,144,0.11678487009142571
 5,Q116,interviewer,823,Lozi,ZM,lozi,loz,lozi1239,loz,94,0.08161059664389565
 5,Q116,interviewer,825,Nsenga,ZM,nsenga,nse,nucl1397,nse,80,0.06759870695122192
@@ -2951,7 +2951,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q116OTHER,interviewer_other,,KIJITA,TZ,kijita,jit,jita1239,gus,89,0.03995912773804723
 5,Q116OTHER,interviewer_other,,KILURI,TZ,kiluri,kya,ruri1238,gus,89,0.04194251541859761
 5,Q116OTHER,interviewer_other,,"",UG,"",und,,,2364,0.9851812052939054
-5,Q116OTHER,interviewer_other,,RUFUMBIIRA,UG,rufumbiira,kin,kiny1244,kin,36,0.014818794706094488
+5,Q116OTHER,interviewer_other,,RUFUMBIIRA,UG,rufumbiira,kin,rufu1238,kin,36,0.014818794706094488
 5,Q116OTHER,interviewer_other,,"",ZA,"",und,,,2399,1
 5,Q116OTHER,interviewer_other,,"",ZM,"",und,,,1168,0.9748757869697549
 5,Q116OTHER,interviewer_other,,NYIKA,ZM,nyika,nih nkv,cent2285,nyh,32,0.025124213030245153
@@ -3063,7 +3063,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2,respondent,1235,Batanga,CM,batanga,bnm,bata1285,bga,5,0.0056702602603402145
 5,Q2,respondent,1236,Bayangi,CM,bayangi,ken,keny1279,kyg,11,0.008325216652999512
 5,Q2,respondent,1237,Bulu,CM,bulu,bum,bulu1251,buw,22,0.018115275296086916
-5,Q2,respondent,1238,Dschang,CM,dschang,ybb,yemb1246,yem,8,0.007007158626253763
+5,Q2,respondent,1238,Dschang,CM,dschang,ybb,fore1267,yem,8,0.007007158626253763
 5,Q2,respondent,1239,Eton,CM,eton,eto,eton1253,buw ewo,34,0.02643932288741969
 5,Q2,respondent,1240,Fali,CM,fali,fal fll,adam1254,aiz,16,0.013706351814989047
 5,Q2,respondent,1241,Fong,CM,fong,ewo,fong1242,ewo,7,0.0049110613786279966
@@ -3240,7 +3240,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2,respondent,3,Portuguese,MZ,portuguese,por,port1283,por,355,0.15301447347695613
 5,Q2,respondent,12,Chichewa,MZ,chichewa,nya,chew1246,cic,64,0.031033167287330014
 5,Q2,respondent,29,Ndau,MZ,ndau,ndc,ndau1241,shn,79,0.02829084973248366
-5,Q2,respondent,31,Nyanja,MZ,nyanja,nya,nyan1308,cic,268,0.10982245136311568
+5,Q2,respondent,31,Nyanja,MZ,nyanja,nya,nucl1395,cic,268,0.10982245136311568
 5,Q2,respondent,540,Makua,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,603,0.2594017339380347
 5,Q2,respondent,541,Sena,MZ,sena,seh,nucl1396,sen,170,0.0769093436215202
 5,Q2,respondent,544,Changana,MZ,changana,tso,chan1318,tsn,95,0.03577243571544871
@@ -3299,7 +3299,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2,respondent,629,Kanuri,NG,kanuri,kby knc,kanu1281,knr,46,0.014513270561799371
 5,Q2,respondent,630,Tiv,NG,tiv,tiv,tivv1240,tiv,46,0.015730850573975174
 5,Q2,respondent,631,Nupe,NG,nupe,nup,nupe1254,nup,16,0.007295648406289817
-5,Q2,respondent,632,Ijaw,NG,ijaw,ijc ijs,ijoo1239,ijo,40,0.013752757637527577
+5,Q2,respondent,632,Ijaw,NG,ijaw,ijc,izon1238,ijo,40,0.013752757637527577
 5,Q2,respondent,633,Edo,NG,edo,bin,bini1246,bni,23,0.010190650101906501
 5,Q2,respondent,634,Igala,NG,igala,igl,igal1242,ise yor,39,0.01780410267804103
 5,Q2,respondent,635,Urhobo,NG,urhobo,urh,urho1239,urh,34,0.012862448461957816
@@ -3308,14 +3308,14 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2,respondent,638,Ikwere,NG,ikwere,ikw,ikwe1242,igb izi,26,0.00630587464639208
 5,Q2,respondent,639,Idoma,NG,idoma,idu,idom1241,ido,25,0.01479147889791479
 5,Q2,respondent,640,Esan,NG,esan,ish,esan1238,bni ora,14,0.005986008809860087
-5,Q2,respondent,641,Nembe,NG,nembe,ijs,sout2774,ijo,5,0.0016020420993537543
+5,Q2,respondent,641,Nembe,NG,nembe,ijs,nemb1238,ijo,5,0.0016020420993537543
 5,Q2,respondent,642,Jukun,NG,jukun,jbu,juku1254,juk,18,0.006486376731530434
 5,Q2,respondent,643,Okrika,NG,okrika,okr,kiri1254,ijo,21,0.013868355138683551
 5,Q2,respondent,644,Yakhor,NG,yakhor,yaz,loka1252,agb,16,0.007393276740599435
 5,Q2,respondent,645,Ika,NG,ika,ikk,ikaa1238,igb izi,11,0.004448313377816467
 5,Q2,respondent,646,Okpe,NG,okpe,oke,okpe1250,iso urh,14,0.005548066305480662
 5,Q2,respondent,647,Tarok,NG,tarok,yer,taro1263,tok,11,0.006786789234534559
-5,Q2,respondent,648,Ibaji,NG,ibaji,igl,igal1242,ise yor,8,0.0021995296053286292
+5,Q2,respondent,648,Ibaji,NG,ibaji,igl,ibaj1238,ise yor,8,0.0021995296053286292
 5,Q2,respondent,649,Migili,NG,migili,mgi,liji1238,bir fye gwo kgm mdz tok,8,0.002615878359492117
 5,Q2,respondent,650,Gbagyi,NG,gbagyi,gbr,gbag1258,gwa,13,0.00482663963159973
 5,Q2,respondent,651,Gwoza,NG,gwoza,gdf ngs,dghw1240,gdf,7,0.0023663200236632
@@ -3451,7 +3451,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2,respondent,782,Runyoro,UG,runyoro,nyo,nyor1246,rru,66,0.028327860485729675
 5,Q2,respondent,783,Lusoga,UG,lusoga,xog,soga1242,lda,248,0.11713838163246769
 5,Q2,respondent,784,Lumasaba,UG,lumasaba,myx,masa1299,buk,98,0.037957298611494196
-5,Q2,respondent,785,Lukhonjo,UG,lukhonjo,koo,konz1239,nde,55,0.02154242255114155
+5,Q2,respondent,785,Lukhonjo,UG,lukhonjo,koo,rufu1238,kin,55,0.02154242255114155
 5,Q2,respondent,786,Lunyoro,UG,lunyoro,nyo,nyor1246,rru,20,0.0072257023158094355
 5,Q2,respondent,787,Ateso,UG,ateso,teo,teso1249,tes,173,0.054900390539977445
 5,Q2,respondent,789,Alur,UG,alur,alz,alur1250,luo,41,0.014881883641875168
@@ -3466,7 +3466,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2,respondent,798,Kupsabinyi,UG,kupsabinyi,kpz,kups1238,seb,25,0.003767148161138774
 5,Q2,respondent,799,Ngakarimajong,UG,ngakarimajong,kdj,kara1483,kmj,79,0.042439043457122405
 5,Q2,respondent,800,Rutagwenda,UG,rutagwenda,nyo,ruta1240,rru,13,0.006940242958568275
-5,Q2,respondent,801,Rufumbira,UG,rufumbira,kin,kiny1244,kin,8,0.00316368287297046
+5,Q2,respondent,801,Rufumbira,UG,rufumbira,kin,rufu1238,kin,8,0.00316368287297046
 5,Q2,respondent,802,Runyarwanda,UG,runyarwanda,kin,kiny1244,kin,9,0.007158170940690173
 5,Q2,respondent,803,Rululi,UG,rululi,ruc,ruul1235,nko rny rru tal,10,0.0019137026239306907
 5,Q2,respondent,804,Aringa,UG,aringa,luc,arin1244,avo lgt lug,5,0.003795457710418502
@@ -3491,7 +3491,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2,respondent,1,English,ZM,english,eng,stan1293,eng,3,0.0018208954963209413
 5,Q2,respondent,24,Lamba,ZM,lamba,lam,lamb1271,lmb,34,0.028865364932080445
 5,Q2,respondent,30,Ndebele,ZM,ndebele,nde,nort2795,swt xho zul,1,9.271141672820664e-4
-5,Q2,respondent,31,Nyanja,ZM,nyanja,nya,nyan1308,cic,38,0.03753823755460716
+5,Q2,respondent,31,Nyanja,ZM,nyanja,nya,nucl1395,cic,38,0.03753823755460716
 5,Q2,respondent,36,Tonga,ZM,tonga,toi,tong1318,toz,141,0.12033784066112095
 5,Q2,respondent,820,Bemba,ZM,bemba,bem,bemb1257,lmb,334,0.2909259391644694
 5,Q2,respondent,823,Lozi,ZM,lozi,loz,lozi1239,loz,115,0.08924058883601506
@@ -3511,7 +3511,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2,respondent,837,Ila,ZM,ila,ilb,ilaa1246,ila,4,0.0025519114178263642
 5,Q2,respondent,838,Ushi,ZM,ushi,auh,aush1241,lmb,16,0.01082790622577545
 5,Q2,respondent,840,Mbunda,ZM,mbunda,mck,mbun1249,luc,9,0.00815715987166997
-5,Q2,respondent,841,Kunda,ZM,kunda,kdn nya,tumb1253,cic sen,19,0.013494057806078229
+5,Q2,respondent,841,Kunda,ZM,kunda,,,,19,0.013494057806078229
 5,Q2,respondent,842,Lala,ZM,lala,leb,lala1265,lmb,40,0.03532750402417436
 5,Q2,respondent,844,Lungu,ZM,lungu,mgr,rung1256,mmw,6,0.005489110049520693
 5,Q2,respondent,846,Senga,ZM,senga,nse,nucl1397,nse,12,0.009133942137681426
@@ -3535,7 +3535,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2,respondent,864,Karanga,ZW,karanga,sna,kara1480,shn,234,0.09750895979512397
 5,Q2,respondent,865,Manyika,ZW,manyika,mxc,many1258,shn,98,0.04049852237552968
 5,Q2,respondent,868,Kalanga,ZW,kalanga,kck,kala1384,klz,22,0.009048469601205339
-5,Q2,respondent,870,Vhitori,ZW,vhitori,sna,shon1251,shn,5,0.0017346377707481509
+5,Q2,respondent,870,Vhitori,ZW,vhitori,kck,kara1480,shn,5,0.0017346377707481509
 5,Q2,respondent,872,Nambya,ZW,nambya,nmq,namb1291,klz,11,0.00321572732831985
 5,Q2,respondent,873,Maungwe,ZW,maungwe,mxc,many1258,shn,7,0.002916518651754551
 5,Q2,respondent,874,Buja,ZW,buja,sna,budy1238,shn,6,0.0018823038244972332
@@ -3651,7 +3651,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,DII,CM,dii,dur,diii1241,ygd,3,0.003846331276897447
 5,Q2OTHER,respondent_other,,DJANCH,CM,djanch,mis,,,1,6.199639042038644e-4
 5,Q2OTHER,respondent_other,,DJEM,CM,djem,njy,njye1238,mkz,1,9.877357158925974e-4
-5,Q2OTHER,respondent_other,,DSCHANG,CM,dschang,ybb,yemb1246,yem,1,0.001606172591763037
+5,Q2OTHER,respondent_other,,DSCHANG,CM,dschang,ybb,fore1267,yem,1,0.001606172591763037
 5,Q2OTHER,respondent_other,,DU,CM,du,mis,,,1,0.0011771404342372951
 5,Q2OTHER,respondent_other,,EJAGAM,CM,ejagam,etu,ejag1239,eja,1,0.0012774068800766442
 5,Q2OTHER,respondent_other,,ESIMBI,CM,esimbi,ags,esim1238,tiv,1,3.5498242002129893e-4
@@ -3661,7 +3661,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,GIZZIGARE,CM,gizzigare,mis,,,1,3.7588891418922e-4
 5,Q2OTHER,respondent_other,,GOUIFE,CM,gouife,mxf,goul1242,ktk,3,0.0010978715575658722
 5,Q2OTHER,respondent_other,,HINA,CM,hina,hna,mina1276,hna,4,0.002533087187651985
-5,Q2OTHER,respondent_other,,JUKUM,CM,jukum,mis,,,1,3.5498242002129893e-4
+5,Q2OTHER,respondent_other,,JUKUM,CM,jukum,juk,wapa1235,juk,1,3.5498242002129893e-4
 5,Q2OTHER,respondent_other,,KAMBU,CM,kambu,lmp,limb1268,mbz yba,1,3.0847335751850837e-4
 5,Q2OTHER,respondent_other,,KANGYANG,CM,kangyang,mis,,,2,9.63998173391173e-4
 5,Q2OTHER,respondent_other,,KANOURI,CM,kanouri,knc,cent2050,knr,3,5.411299550324678e-4
@@ -3860,7 +3860,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,LUMWE,MZ,lumwe,ngl,lomw1241,mua,1,2.3533042137327512e-4
 5,Q2OTHER,respondent_other,,MANHAWA,MZ,manhawa,mny,many1259,eko mua,11,0.002296757129268476
 5,Q2OTHER,respondent_other,,NHARINGA,MZ,nharinga,mis,,,1,2.0730125414602512e-4
-5,Q2OTHER,respondent_other,,NSENGA,MZ,nsenga,nse,nucl1377,tsw,2,8.162350163247004e-4
+5,Q2OTHER,respondent_other,,NSENGA,MZ,nsenga,nse,nucl1379,kga,2,8.162350163247004e-4
 5,Q2OTHER,respondent_other,,RONGA,MZ,ronga,rng,rong1268,rga,12,0.004755535095110703
 5,Q2OTHER,respondent_other,,TACUANE,MZ,tacuane,tke,takw1238,eko mua,14,0.007149470142989404
 5,Q2OTHER,respondent_other,,YAO,MZ,yao,yao,yaoo1241,yao,4,0.0014194708617227506
@@ -3883,7 +3883,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,ANDONI,NG,andoni,ann,obol1243,obo,3,0.001078887927455546
 5,Q2OTHER,respondent_other,,ANGAS,NG,angas,anc,ngas1240,anc,1,5.588379222550458e-4
 5,Q2OTHER,respondent_other,,ATTAKAR,NG,attakar,kcg,atak1251,gwo,1,4.2165708754990415e-4
-5,Q2OTHER,respondent_other,,AUCHI,NG,auchi,ets,yekh1238,ets,3,0.0012746829294134959
+5,Q2OTHER,respondent_other,,AUCHI,NG,auchi,ets,auch1238,ets,3,0.0012746829294134959
 5,Q2OTHER,respondent_other,,AWA,NG,awa,mis,,,1,3.981500039815e-4
 5,Q2OTHER,respondent_other,,BAGWOM,NG,bagwom,mis,,,1,1.228012512280125e-4
 5,Q2OTHER,respondent_other,,BAJJU,NG,bajju,kaj,jjuu1238,gwo,6,0.002334537523345375
@@ -3914,9 +3914,9 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,GWARI,NG,gwari,gbr gby,gbag1256,gwa,1,8.904833422381666e-5
 5,Q2OTHER,respondent_other,,GWOZA,NG,gwoza,gdf ngs,dghw1240,gdf,7,0.0023663200236632
 5,Q2OTHER,respondent_other,,HIGGI,NG,higgi,hig,kamw1239,ban,2,6.6425500664255e-4
-5,Q2OTHER,respondent_other,,IBAJI,NG,ibaji,igl,igal1242,ise yor,8,0.0021995296053286292
+5,Q2OTHER,respondent_other,,IBAJI,NG,ibaji,igl,ibaj1238,ise yor,8,0.0021995296053286292
 5,Q2OTHER,respondent_other,,IBIE,NG,ibie,mis,,,1,2.947895862812292e-4
-5,Q2OTHER,respondent_other,,IJAW,NG,ijaw,ijc ijs,ijoo1239,ijo,1,3.570491702371583e-4
+5,Q2OTHER,respondent_other,,IJAW,NG,ijaw,ijc,izon1238,ijo,1,3.570491702371583e-4
 5,Q2OTHER,respondent_other,,IKA,NG,ika,ikk,ikaa1238,igb izi,11,0.004448313377816467
 5,Q2OTHER,respondent_other,,IKOM,NG,ikom,iko,olul1245,agb,1,3.0458000304580004e-4
 5,Q2OTHER,respondent_other,,IKPENA,NG,ikpena,mis,,,1,2.947895862812292e-4
@@ -3967,8 +3967,8 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,TANGALE,NG,tangale,tan,nucl1696,tan,1,3.7390667040573334e-4
 5,Q2OTHER,respondent_other,,TAROK,NG,tarok,yer,taro1263,tok,11,0.006786789234534559
 5,Q2OTHER,respondent_other,,TIV,NG,tiv,tiv,tivv1240,tiv,1,3.456754201234209e-4
-5,Q2OTHER,respondent_other,,UKWALE,NG,ukwale,ukw,ukwu1241,igb izi,1,3.4972500349725e-4
-5,Q2OTHER,respondent_other,,UKWANI,NG,ukwani,ukw,ukwu1241,igb izi,1,3.570491702371583e-4
+5,Q2OTHER,respondent_other,,UKWALE,NG,ukwale,ukw,ukwu1242,igb izi,1,3.4972500349725e-4
+5,Q2OTHER,respondent_other,,UKWANI,NG,ukwani,ukw,ukwu1242,igb izi,1,3.570491702371583e-4
 5,Q2OTHER,respondent_other,,UWA,NG,uwa,mis,,,1,4.3613000436130007e-4
 5,Q2OTHER,respondent_other,,UZEBA,NG,uzeba,mis,,,2,0.0011494983448283166
 5,Q2OTHER,respondent_other,,YAKHOR,NG,yakhor,yaz,loka1252,agb,16,0.007393276740599435
@@ -4147,7 +4147,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,MWAMBA,UG,mwamba,rwm,amba1263,bia,1,3.32469998453711e-4
 5,Q2OTHER,respondent_other,,OKEBU,UG,okebu,ndp,okeb1238,les mmv,1,4.6978241807610756e-4
 5,Q2OTHER,respondent_other,,OMBACH,UG,ombach,mis,,,1,6.289793203646271e-4
-5,Q2OTHER,respondent_other,,RUFUMBIRA,UG,rufumbira,kin,kiny1244,kin,3,0.0012897498856320362
+5,Q2OTHER,respondent_other,,RUFUMBIRA,UG,rufumbira,kin,rufu1238,kin,3,0.0012897498856320362
 5,Q2OTHER,respondent_other,,RUGISU,UG,rugisu,kin,kiny1244,kin,1,6.079024591531014e-4
 5,Q2OTHER,respondent_other,,RULULI,UG,rululi,ruc,ruul1235,nko rny rru tal,2,3.0634408962754086e-4
 5,Q2OTHER,respondent_other,,RUNYARWANDA,UG,runyarwanda,kin,kiny1244,kin,1,2.9276557173914854e-4
@@ -4168,7 +4168,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,SHILA,ZM,shila,tap,taab1238,tbw,1,7.870597441669948e-4
 5,Q2OTHER,respondent_other,,SHONA,ZM,shona,sna,shon1251,shn,3,0.0015927015188149025
 5,Q2OTHER,respondent_other,,SILUCHAZI,ZM,siluchazi,mis,,,1,0.001232441542887632
-5,Q2OTHER,respondent_other,,SWAKA,ZM,swaka,leb,lala1264,lmb,1,0.0011581458199819302
+5,Q2OTHER,respondent_other,,SWAKA,ZM,swaka,leb,swak1238,lmb,1,0.0011581458199819302
 5,Q2OTHER,respondent_other,,YAWA,ZM,yawa,mis,,,1,8.225672505460037e-4
 5,Q2OTHER,respondent_other,,"",ZW,"",und,,,2318,0.9666491221090605
 5,Q2OTHER,respondent_other,,BOCHA,ZW,bocha,mxc,boch1238,shn,6,0.00316042441841478
@@ -4185,14 +4185,14 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,MLEMBA,ZW,mlemba,mis,,,1,3.0368216517066756e-4
 5,Q2OTHER,respondent_other,,MUHERA,ZW,muhera,mis,,,1,5.204794240122512e-4
 5,Q2OTHER,respondent_other,,NAMBIYA,ZW,nambiya,nmq,namb1291,klz,11,0.0032157273283198507
-5,Q2OTHER,respondent_other,,NYANJA,ZW,nyanja,nya,nyan1308,cic,1,3.6386308204900113e-4
+5,Q2OTHER,respondent_other,,NYANJA,ZW,nyanja,nya,nucl1395,cic,1,3.6386308204900113e-4
 5,Q2OTHER,respondent_other,,NYASALAND,ZW,nyasaland,nya,nyas1241,cic,1,3.1189619950171884e-4
 5,Q2OTHER,respondent_other,,SHANGANI,ZW,shangani,tso,chan1318,tsn,20,0.00817323332369608
 5,Q2OTHER,respondent_other,,SHANGWE,ZW,shangwe,sna,shon1251,shn,4,0.0023341811290094163
 5,Q2OTHER,respondent_other,,SOTHO,ZW,sotho,sot,sout2807,ses,2,0.0012611354848067378
 5,Q2OTHER,respondent_other,,SOTHO,ZW,sotho,nso,pedi1238,stn,2,0.0012611354848067378
 5,Q2OTHER,respondent_other,,TUMBUKA,ZW,tumbuka,tum,tumb1250,cic sen,1,5.997528957144869e-4
-5,Q2OTHER,respondent_other,,VHITORI,ZW,vhitori,sna,shon1251,shn,5,0.0017346377707481513
+5,Q2OTHER,respondent_other,,VHITORI,ZW,vhitori,kck,kara1480,shn,5,0.0017346377707481513
 5,Q2OTHER,respondent_other,,XHOSA,ZW,xhosa,xho,xhos1239,xho,1,2.5499427751569573e-4
 6,Q103,interview,2,French,BF,french,fra,stan1290,fre,294,0.23925560072483867
 6,Q103,interview,15,Dioula,BF,dioula,dyu,dyul1238,dyu,191,0.16820508588366045
@@ -4352,7 +4352,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q103,interview,9995,Other,ZA,other,und,,,24,0.010496596709624191
 6,Q103,interview,-1,Missing,ZM,missing,und,,,7,0.00490798055355358
 6,Q103,interview,1,English,ZM,english,eng,stan1293,eng,264,0.21406761116315148
-6,Q103,interview,820,Chewa/Nyanja,ZM,chewa/nyanja,nya,chew1246,cic,256,0.20999155619574597
+6,Q103,interview,820,Chewa/Nyanja,ZM,chewa/nyanja,nya,nyan1308,cic,256,0.20999155619574597
 6,Q103,interview,821,Bembia,ZM,bembia,bem,bemb1257,lmb,433,0.3661510046107915
 6,Q103,interview,822,Tonga,ZM,tonga,toi,tong1318,toz,113,0.1008411903896913
 6,Q103,interview,823,Kaonde,ZM,kaonde,kqn,kaon1241,kil,49,0.04085330588510304
@@ -4489,7 +4489,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q103OTHER,interview_other,,LUNYOLE,UG,lunyole,nuj,nyol1238,buk luy,5,0.001756941332166014
 6,Q103OTHER,interview_other,,LUSAMIA,UG,lusamia,lsm,saam1283,luy,1,5.50949524884968e-4
 6,Q103OTHER,interview_other,,NGAKARIMAJONG,UG,ngakarimajong,kdj,kara1483,kmj,65,0.026200506530018628
-6,Q103OTHER,interview_other,,RUFUMBIRA,UG,rufumbira,kin,kiny1244,kin,5,0.0027550232703806295
+6,Q103OTHER,interview_other,,RUFUMBIRA,UG,rufumbira,kin,rufu1238,kin,5,0.0027550232703806295
 6,Q103OTHER,interview_other,,RUNYARWANDA,UG,runyarwanda,kin,kiny1244,kin,3,1.5796943477793812e-4
 6,Q103OTHER,interview_other,,"",ZA,"",und,,,2364,0.9887394889854029
 6,Q103OTHER,interview_other,,KHOISAN,ZA,khoisan,naq,nama1264,kho,1,7.987707653525327e-5
@@ -4612,7 +4612,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q116,interviewer,466,Chilomwe,MW,chilomwe,lon,mala1256,mua,44,0.020851031160740417
 6,Q116,interviewer,471,Chitonga,MW,chitonga,tog,tong1321,cic sen,48,0.01935251888100372
 6,Q116,interviewer,3,Portuguese,MZ,portuguese,por,port1283,por,419,0.1718252142407214
-6,Q116,interviewer,28,Nyanja,MZ,nyanja,nya,nyan1308,cic,86,0.03368710871855343
+6,Q116,interviewer,28,Nyanja,MZ,nyanja,nya,nucl1395,cic,86,0.03368710871855343
 6,Q116,interviewer,540,Makua,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,327,0.14799324101086597
 6,Q116,interviewer,541,Sena,MZ,sena,seh,nucl1396,sen,183,0.07499350120058079
 6,Q116,interviewer,542,Ndau,MZ,ndau,ndc,ndau1241,shn,167,0.06878347567377718
@@ -4642,7 +4642,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q116,interviewer,628,Ubibio,NG,ubibio,ibb,ibib1240,ibi,88,0.0368439467341396
 6,Q116,interviewer,630,Tiv,NG,tiv,tiv,tivv1240,tiv,38,0.015352989345009076
 6,Q116,interviewer,631,Nupe,NG,nupe,nup,nupe1254,nup,34,0.012835523680841773
-6,Q116,interviewer,632,Ijaw,NG,ijaw,ijc ijs,ijoo1239,ijo,11,0.003890488431582806
+6,Q116,interviewer,632,Ijaw,NG,ijaw,ijc,izon1238,ijo,11,0.003890488431582806
 6,Q116,interviewer,633,Edo,NG,edo,bin,bini1246,bni,126,0.05195252659058815
 6,Q116,interviewer,634,Igala,NG,igala,igl,igal1242,ise yor,89,0.037628552482759856
 6,Q116,interviewer,638,Ikwere,NG,ikwere,ikw,ikwe1242,igb izi,50,0.013114670776666653
@@ -4726,7 +4726,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q116,interviewer,709,Zulu,ZA,zulu,zul,zulu1248,zul,452,0.22440559322465245
 6,Q116,interviewer,9995,Other,ZA,other,und,,,47,0.005405161113564368
 6,Q116,interviewer,1,English,ZM,english,eng,stan1293,eng,185,0.1556717496879741
-6,Q116,interviewer,28,Nyanja,ZM,nyanja,nya,nyan1308,cic,116,0.10002237360246648
+6,Q116,interviewer,28,Nyanja,ZM,nyanja,nya,nucl1395,cic,116,0.10002237360246648
 6,Q116,interviewer,820,Bemba,ZM,bemba,bem,bemb1257,lmb,400,0.33041972919296364
 6,Q116,interviewer,822,Tonga,ZM,tonga,toi,tong1318,toz,168,0.1417216770484574
 6,Q116,interviewer,823,Lozi,ZM,lozi,loz,lozi1239,loz,128,0.10211847059642955
@@ -4944,7 +4944,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2,respondent,1235,Batanga,CM,batanga,bnm,bata1285,bga,7,0.005609837539253319
 6,Q2,respondent,1236,Bayangi,CM,bayangi,ken,keny1279,kyg,11,0.009102815147758982
 6,Q2,respondent,1237,Bulu,CM,bulu,bum,bulu1251,buw,27,0.02616588485597552
-6,Q2,respondent,1238,Dschang,CM,dschang,ybb,yemb1246,yem,16,0.015523414472618883
+6,Q2,respondent,1238,Dschang,CM,dschang,ybb,fore1267,yem,16,0.015523414472618883
 6,Q2,respondent,1239,Eton,CM,eton,eto,eton1253,buw ewo,46,0.040561507982771
 6,Q2,respondent,1240,Fali,CM,fali,fal fll,adam1254,aiz,4,0.004062226463752886
 6,Q2,respondent,1241,Fong,CM,fong,ewo,fong1242,ewo,5,0.004118870118485163
@@ -4971,7 +4971,6 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2,respondent,220,Crioulo,CV,crioulo,kea,kabu1256,por,1195,0.9969040739866764
 6,Q2,respondent,221,Português,CV,português,por,port1283,por,5,0.0030959260133236375
 6,Q2,respondent,2,French,DZ,french,fra,stan1290,fre,7,0.005694056456719133
-6,Q2,respondent,11,Berber Language,DZ,berber language,kab shi shy,berb1260,bch bmz bou brf bse bsi kbl tai tas tsk zen,85,0.06914055781716229
 6,Q2,respondent,11,Berber Language,DZ,berber language,kab,kaby1243,kbl,85,0.06914055781716229
 6,Q2,respondent,1420,Algerian Arabic,DZ,algerian arabic,arq,alge1239,atu,1108,0.9251653857261186
 6,Q2,respondent,1460,Egyptian Arabic,EG,egyptian arabic,arz,egyp1253,aeg,1198,1
@@ -5106,7 +5105,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2,respondent,3,Portuguese,MZ,portuguese,por,port1283,por,310,0.1358851596010969
 6,Q2,respondent,14,Chewa,MZ,chewa,nya,chew1246,cic,35,0.011983964763195099
 6,Q2,respondent,26,Ndau,MZ,ndau,ndc,ndau1241,shn,91,0.04254241643421348
-6,Q2,respondent,28,Nyanja,MZ,nyanja,nya,nyan1308,cic,79,0.03198497244589715
+6,Q2,respondent,28,Nyanja,MZ,nyanja,nya,nucl1395,cic,79,0.03198497244589715
 6,Q2,respondent,540,Makua,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,654,0.27174156508917835
 6,Q2,respondent,541,Sena,MZ,sena,seh,nucl1396,sen,179,0.0798020578604885
 6,Q2,respondent,543,Changana,MZ,changana,tso,chan1318,tsn,325,0.13494766772745415
@@ -5155,7 +5154,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2,respondent,627,Isoko,NG,isoko,iso,isok1239,iso,18,0.0072843575490205495
 6,Q2,respondent,628,Ibibio,NG,ibibio,ibb,ibib1240,ibi,70,0.0308444420300138
 6,Q2,respondent,631,Nupe,NG,nupe,nup,nupe1254,nup,42,0.017399785032277487
-6,Q2,respondent,632,Ijaw,NG,ijaw,ijc ijs,ijoo1239,ijo,57,0.018966660455416343
+6,Q2,respondent,632,Ijaw,NG,ijaw,ijc,izon1238,ijo,57,0.018966660455416343
 6,Q2,respondent,633,Edo,NG,edo,bin,bini1246,bni,53,0.02298998419159619
 6,Q2,respondent,634,Igala,NG,igala,igl,igal1242,ise yor,26,0.015988125691049956
 6,Q2,respondent,635,Urhobo,NG,urhobo,urh,urho1239,urh,37,0.018667083154740298
@@ -5164,7 +5163,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2,respondent,638,Ikwere,NG,ikwere,ikw,ikwe1242,igb izi,16,0.009236922271402668
 6,Q2,respondent,639,Idoma,NG,idoma,idu,idom1241,ido,45,0.02214474585214637
 6,Q2,respondent,640,Esan,NG,esan,ish,esan1238,bni ora,8,0.004188663836626213
-6,Q2,respondent,641,Nembe,NG,nembe,ijs,sout2774,ijo,3,0.0011435101883948502
+6,Q2,respondent,641,Nembe,NG,nembe,ijs,nemb1238,ijo,3,0.0011435101883948502
 6,Q2,respondent,642,Alago,NG,alago,ala,alag1242,ido,10,0.0033184828986534574
 6,Q2,respondent,643,Degema,NG,degema,deg,dege1246,deg,14,0.00493322945773907
 6,Q2,respondent,644,Eggon,NG,eggon,ego,eggo1239,bir fye gwo kgm mdz tok,16,0.0054980760318447
@@ -5300,7 +5299,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2,respondent,782,Runyoro,UG,runyoro,nyo,nyor1246,rru,101,0.042796306114233795
 6,Q2,respondent,783,Lusoga,UG,lusoga,xog,soga1242,lda,216,0.0912166040871952
 6,Q2,respondent,784,Lumasaaba,UG,lumasaaba,myx,masa1299,buk,140,0.053350599703055994
-6,Q2,respondent,785,Lukhonjo,UG,lukhonjo,koo,konz1239,nde,63,0.020383099779897128
+6,Q2,respondent,785,Lukhonjo,UG,lukhonjo,koo,rufu1238,kin,63,0.020383099779897128
 6,Q2,respondent,786,Lunyole,UG,lunyole,nuj,nyol1238,buk luy,23,0.008089917550250911
 6,Q2,respondent,787,Ateso,UG,ateso,teo,teso1249,tes,171,0.08320032149556
 6,Q2,respondent,788,Acholi,UG,acholi,ach,acol1236,acl,86,0.03895965684532088
@@ -5315,7 +5314,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2,respondent,797,Langi,UG,langi,laj,lang1324,lan,170,0.06762771537828417
 6,Q2,respondent,798,Kupsabinyi,UG,kupsabinyi,kpz,kups1238,seb,32,0.006484926251566726
 6,Q2,respondent,799,Ngakarimajong,UG,ngakarimajong,kdj,kara1483,kmj,70,0.027987400319627584
-6,Q2,respondent,800,Rufumbira,UG,rufumbira,kin,kiny1244,kin,26,0.012276369929819167
+6,Q2,respondent,800,Rufumbira,UG,rufumbira,kin,rufu1238,kin,26,0.012276369929819167
 6,Q2,respondent,9995,Other,UG,other,und,,,63,0.02440405728622286
 6,Q2,respondent,1,English,ZA,english,eng,stan1293,eng,340,0.1098728762625436
 6,Q2,respondent,3,Portuguese,ZA,portuguese,por,port1283,por,3,6.566375701286967e-4
@@ -5333,7 +5332,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2,respondent,9995,Other,ZA,other,und,,,5,4.930599141675443e-4
 6,Q2,respondent,1,English,ZM,english,eng,stan1293,eng,13,0.010452259257596632
 6,Q2,respondent,14,Chewa,ZM,chewa,nya,chew1246,cic,82,0.06955843854457411
-6,Q2,respondent,28,Nyanja,ZM,nyanja,nya,nyan1308,cic,80,0.06600511949607295
+6,Q2,respondent,28,Nyanja,ZM,nyanja,nya,nucl1395,cic,80,0.06600511949607295
 6,Q2,respondent,33,Tonga,ZM,tonga,toi,tong1318,toz,154,0.13698327008618377
 6,Q2,respondent,820,Bemba,ZM,bemba,bem,bemb1257,lmb,343,0.28303226203310494
 6,Q2,respondent,823,Lozi,ZM,lozi,loz,lozi1239,loz,100,0.08150890361867433
@@ -5353,7 +5352,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2,respondent,838,Ushi,ZM,ushi,auh,aush1241,lmb,13,0.015373492536038435
 6,Q2,respondent,839,Chokwe,ZM,chokwe,cjk,chok1245,luv,4,0.004107637619701404
 6,Q2,respondent,840,Mbunda,ZM,mbunda,mck,mbun1249,luc,3,0.0018825652187254623
-6,Q2,respondent,841,Kunda,ZM,kunda,kdn nya,tumb1253,cic sen,15,0.0072008131065028624
+6,Q2,respondent,841,Kunda,ZM,kunda,,,,15,0.0072008131065028624
 6,Q2,respondent,842,Lala,ZM,lala,leb,lala1265,lmb,29,0.028724453031221977
 6,Q2,respondent,843,Lamba,ZM,lamba,lam,lamb1271,lmb,20,0.017335215005155953
 6,Q2,respondent,844,Lungu,ZM,lungu,mgr,rung1256,mmw,5,0.004561731249127728
@@ -5376,7 +5375,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2,respondent,868,Kalanga,ZW,kalanga,kck,kala1384,klz,30,0.012603642894291923
 6,Q2,respondent,870,Buja,ZW,buja,sna,budy1238,shn,15,0.005614659991415747
 6,Q2,respondent,871,Shangani,ZW,shangani,tso,chan1318,tsn,30,0.012567997168291106
-6,Q2,respondent,872,Suthu,ZW,suthu,tsn,tswa1253,tsw,15,0.00656197546421529
+6,Q2,respondent,872,Suthu,ZW,suthu,sot,sout2807,ses,15,0.00656197546421529
 6,Q2,respondent,9995,Other,ZW,other,und,,,39,0.01430755084532228
 6,Q2OTHER,respondent_other,,"",BF,"",und,,,1154,0.9540316916116095
 6,Q2OTHER,respondent_other,,BELLA,BF,bella,taq,tama1365,tsk,3,0.00614785120631807
@@ -5496,7 +5495,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2OTHER,respondent_other,,DABA,CM,daba,dbq,nucl1683,dab,2,5.897090327801753e-4
 6,Q2OTHER,respondent_other,,DBO,CM,dbo,mis,,,1,8.701191863224081e-4
 6,Q2OTHER,respondent_other,,DOUROU,CM,dourou,dur,diii1241,ygd,2,0.0013780996144134245
-6,Q2OTHER,respondent_other,,DSCHANG,CM,dschang,ybb,yemb1246,yem,1,1.9218636832047154e-4
+6,Q2OTHER,respondent_other,,DSCHANG,CM,dschang,ybb,fore1267,yem,1,1.9218636832047154e-4
 6,Q2OTHER,respondent_other,,EDJAGHAM,CM,edjagham,mis,,,1,0.0012575798424647843
 6,Q2OTHER,respondent_other,,EJAGHAM,CM,ejagham,etu,ejag1239,eja,1,7.489833929015929e-4
 6,Q2OTHER,respondent_other,,EJAKA,CM,ejaka,etu,ejag1239,eja,1,4.242884729860611e-4
@@ -5672,7 +5671,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2OTHER,respondent_other,,Nandi,KE,nandi,niq,nand1266,nan,1,7.091880861194472e-4
 6,Q2OTHER,respondent_other,,Nubi,KE,nubi,kcn,nubi1253,nub,1,1.4170792585581726e-4
 6,Q2OTHER,respondent_other,,Nyarwanda,KE,nyarwanda,kin,kiny1244,kin,1,2.786846894953874e-4
-6,Q2OTHER,respondent_other,,Nyasa,KE,nyasa,mis,,,1,5.467131856450849e-4
+6,Q2OTHER,respondent_other,,Nyasa,KE,nyasa,nya,nyas1241,cic,1,5.467131856450849e-4
 6,Q2OTHER,respondent_other,,Ogiek,KE,ogiek,oki,okie1245,nan pkt seb,7,0.0029911578518354407
 6,Q2OTHER,respondent_other,,Rendille,KE,rendille,rel,rend1243,ren,1,3.241967113357785e-4
 6,Q2OTHER,respondent_other,,Sabaot,KE,sabaot,spy,saba1262,seb,8,0.0034362475665227635
@@ -5693,7 +5692,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2OTHER,respondent_other,,Chimambwe,MW,chimambwe,mgr,mamb1297,mmw,2,7.609575330249565e-4
 6,Q2OTHER,respondent_other,,Chindali,MW,chindali,ndh,ndal1241,mmw nyh,8,0.004107507728446535
 6,Q2OTHER,respondent_other,,Chinyakyusa,MW,chinyakyusa,nyy,nyak1260,mmw nyh,1,2.114733277897267e-4
-6,Q2OTHER,respondent_other,,Chinyanja,MW,chinyanja,nya,nyan1308,cic,1,2.8604552371713754e-4
+6,Q2OTHER,respondent_other,,Chinyanja,MW,chinyanja,nya,nucl1395,cic,1,2.8604552371713754e-4
 6,Q2OTHER,respondent_other,,Chinyika,MW,chinyika,nkv,nyik1246,nyh,1,3.8047876651247823e-4
 6,Q2OTHER,respondent_other,,Chinyungwe,MW,chinyungwe,nyu,nyun1248,sen,2,5.461704956863082e-4
 6,Q2OTHER,respondent_other,,Chiswahili,MW,chiswahili,swh,swah1253,swa,1,2.991322054665695e-4
@@ -5778,7 +5777,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2OTHER,respondent_other,,NHUNQUE,MZ,nhunque,nyu,nyun1248,sen,1,9.992822487082038e-5
 6,Q2OTHER,respondent_other,,nunga,MZ,nunga,mis,,,1,1.6141639584819962e-4
 6,Q2OTHER,respondent_other,,NUTO,MZ,nuto,mis,,,1,6.527062080019759e-4
-6,Q2OTHER,respondent_other,,Nyanja,MZ,nyanja,nya,nyan1308,cic,1,0.001334062512717513
+6,Q2OTHER,respondent_other,,Nyanja,MZ,nyanja,nya,nucl1395,cic,1,0.001334062512717513
 6,Q2OTHER,respondent_other,,Nyongue,MZ,nyongue,nyu,nyun1248,sen,1,0.001334062512717513
 6,Q2OTHER,respondent_other,,NYUENGE,MZ,nyuenge,nyu,nyun1248,sen,1,5.186564750643963e-4
 6,Q2OTHER,respondent_other,,NYUGUE,MZ,nyugue,nyu,nyun1248,sen,2,7.261580708367959e-4
@@ -5879,7 +5878,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2OTHER,respondent_other,,NDALA,NG,ndala,ndr,ndoo1241,mla,1,8.152966523768339e-5
 6,Q2OTHER,respondent_other,,NGAS,NG,ngas,anc,ngas1240,anc,2,6.900533239786979e-4
 6,Q2OTHER,respondent_other,,NINZOM,NG,ninzom,nin,ninz1246,mdz,8,7.515781151199023e-4
-6,Q2OTHER,respondent_other,,NUMANA,NG,numana,nbr,numa1252,mdz,8,7.515781151199023e-4
+6,Q2OTHER,respondent_other,,NUMANA,NG,numana,nbr,numa1253,mdz,8,7.515781151199023e-4
 6,Q2OTHER,respondent_other,,NWANGAVUL,NG,nwangavul,sur,mwag1236,mup,14,0.0066939531094964855
 6,Q2OTHER,respondent_other,,NYANDANG,NG,nyandang,ynq,yend1241,mum,2,7.403437393964542e-4
 6,Q2OTHER,respondent_other,,OBODU,NG,obodu,mis,,,1,3.7395005094699213e-4
@@ -5888,7 +5887,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2OTHER,respondent_other,,OKIRIKA,NG,okirika,okr,kiri1254,ijo,5,0.0013434679700932116
 6,Q2OTHER,respondent_other,,OKRIKA,NG,okrika,okr,kiri1254,ijo,1,2.686935940186423e-4
 6,Q2OTHER,respondent_other,,ORON,NG,oron,orx,oroo1241,efi ibi obo,1,4.0661616129056895e-4
-6,Q2OTHER,respondent_other,,OWAN,NG,owan,mis,,,1,1.4426541303410052e-4
+6,Q2OTHER,respondent_other,,OWAN,NG,owan,ema,emai1241,ora,1,1.4426541303410052e-4
 6,Q2OTHER,respondent_other,,PANSO,NG,panso,lns,lamn1239,lns,1,6.434614381902458e-5
 6,Q2OTHER,respondent_other,,SAYAWA,NG,sayawa,say,saya1246,bad miy ngz paa,5,0.0022581379108697177
 6,Q2OTHER,respondent_other,,SIYAWA,NG,siyawa,mis,,,1,7.031894722905291e-5
@@ -6035,7 +6034,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2OTHER,respondent_other,,MULAMOGI,UG,mulamogi,xog,soga1242,lda,1,6.969141748716297e-4
 6,Q2OTHER,respondent_other,,MUNYABINDI,UG,munyabindi,mis,,,2,7.934676181454023e-4
 6,Q2OTHER,respondent_other,,MURUNDI,UG,murundi,run,rund1242,rnd,1,2.2680154734878625e-4
-6,Q2OTHER,respondent_other,,RUFUMBIRA,UG,rufumbira,kin,kiny1244,kin,26,0.012276369929819167
+6,Q2OTHER,respondent_other,,RUFUMBIRA,UG,rufumbira,kin,rufu1238,kin,26,0.012276369929819167
 6,Q2OTHER,respondent_other,,RUNGUNGU,UG,rungungu,rub,gung1250,buk gus hnd hya kin lda luy nbo nde nko rnd rny rru tal,2,0.0012491718493574772
 6,Q2OTHER,respondent_other,,RUNYARWANDA,UG,runyarwanda,kin,kiny1244,kin,8,0.0011393156247999693
 6,Q2OTHER,respondent_other,,RURULI,UG,ruruli,ruc,ruul1235,nko rny rru tal,2,0.001517115909094308
@@ -6052,7 +6051,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2OTHER,respondent_other,,luchazi,ZM,luchazi,lch,luch1239,luc,2,0.0019190999789465146
 6,Q2OTHER,respondent_other,,mikundu,ZM,mikundu,mis,,,1,5.034038049338552e-4
 6,Q2OTHER,respondent_other,,ndebele,ZM,ndebele,nde,nort2795,swt xho zul,3,0.0028243394308689073
-6,Q2OTHER,respondent_other,,nswaka,ZM,nswaka,mis,,,1,0.0012733554424016933
+6,Q2OTHER,respondent_other,,nswaka,ZM,nswaka,leb,swak1238,lmb,1,0.0012733554424016933
 6,Q2OTHER,respondent_other,,sala,ZM,sala,shq,sala1266,ila toz,1,8.586040409093043e-4
 6,Q2OTHER,respondent_other,,swahili,ZM,swahili,swc,cong1236,swa,1,8.68837700514898e-4
 6,Q2OTHER,respondent_other,,"",ZW,"",und,,,2301,0.9609478165307557
@@ -6067,8 +6066,8 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2OTHER,respondent_other,,MUSHANGWE,ZW,mushangwe,mis,,,1,3.411624363461399e-4
 6,Q2OTHER,respondent_other,,NAMBYA,ZW,nambya,nmq,namb1291,klz,9,0.003396104139323439
 6,Q2OTHER,respondent_other,,NLEYA ZAMBIA,ZW,nleya zambia,mis,,,1,5.314773265367418e-4
-6,Q2OTHER,respondent_other,,NYANJA,ZW,nyanja,nya,nyan1308,cic,5,0.0018742532878174914
+6,Q2OTHER,respondent_other,,NYANJA,ZW,nyanja,nya,nucl1395,cic,5,0.0018742532878174914
 6,Q2OTHER,respondent_other,,SHANGANI,ZW,shangani,tso,chan1318,tsn,30,0.012567997168291106
 6,Q2OTHER,respondent_other,,SIDOMBE,ZW,sidombe,mis,,,1,3.1402723445895245e-4
-6,Q2OTHER,respondent_other,,SUTHU,ZW,suthu,tsn,tswa1253,tsw,15,0.00656197546421529
+6,Q2OTHER,respondent_other,,SUTHU,ZW,suthu,sot,sout2807,ses,15,0.00656197546421529
 6,Q2OTHER,respondent_other,,TSENGA,ZW,tsenga,nse,nucl1397,nse,1,3.751213033321048e-4

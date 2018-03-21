@@ -111,7 +111,7 @@ KE,ajuran,mis,,
 NG,aka,mis,,
 GH,akan,aka,akan1250,akn
 UG,akaramojonj,kdj,kara1483,kmj
-NG,akassa,ijs,sout2774,ijo
+NG,akassa,ijs,akas1241,ijo
 TG,akebou,keu,akeb1238,avt kpo
 TG,akébou,keu,akeb1238,avt kpo
 TG,aklobo,ewe,ewee1241,ewa
@@ -134,7 +134,7 @@ CM,ambo-batibo,mis,,
 NG,amoh,amo,amoo1242,amo
 TG,ana,ife,ifee1241,yor
 TG,anago,mis,,
-NG,anam,mis,,
+NG,anam,anw,anaa1238,efi ibi
 NG,anang,anw,anaa1238,efi ibi
 CI,andoh,bci,baou1238,ble
 NG,andoni,ann,obol1243,obo
@@ -148,8 +148,8 @@ ST,angulares,aoa,ango1258,ago
 ST,creolo,aoa,ango1258,ago
 NG,ankwai,ank,goem1240,goe
 NG,ankwe,ank,goem1240,goe
-NG,annag,mis,,
-NG,annang,mis,,
+NG,annag,anw,anaa1238,efi ibi
+NG,annang,anw,anaa1238,efi ibi
 TG,anyanga,ayg,giny1241,cum
 GH,anyinam,any,anyi1245,ayi
 CI,appolo,nzi,nzim1238,anu ayi ble
@@ -210,8 +210,8 @@ NG,atakat,kcg,atak1251,gwo
 NG,attakar,kcg,atak1251,gwo
 CI,attié,ati,atti1239,abd adi akn ald anu avk ayi ble cum nkn
 GH,atweti,mis,,
-NG,auche,mis,,
-NG,auchi,ets,yekh1238,ets
+NG,auche,ets,auch1238,ets
+NG,auchi,ets,auch1238,ets
 NG,aukwe,afo,eloy1241,bir fye gwo kgm mdz tok
 ZM,aushi,auh,aush1241,lmb
 GH,avatime,avn,avat1244,avt
@@ -374,7 +374,6 @@ TG,ben (moba),mfq,moba1244,bmb
 CM,bene,bum,bene1244,buw
 CM,benegun,mis,,
 CM,bengwi,mis,,
-DZ,berber language,kab shi shy,berb1260,bch bmz bou brf bse bsi kbl tai tas tsk zen
 MA,berber language,rif shi tzm zgh,berb1260,bch bmz bou brf bse bsi kbl tai tas tsk zen
 NE,béri béri,knc,cent2050,knr
 NG,berieberi,knc,cent2050,knr
@@ -461,7 +460,7 @@ BF,bwaba,bmq box,bwam1247,kfe
 BF,bwamou,bmq box,bwam1247,kfe
 BF,bwamu,bmq box,bwam1247,kfe
 ZM,bwile,bwc,bwil1245,lmb tbw
-NG,cabarmawa,mis,,
+NG,cabarmawa,kcg,mara1395,bgr
 NG,calabar,efi,efik1245,efi
 NA,caprivi languages,loz,lozi1239,loz
 MZ,chaewa,nya,nyan1308,cic
@@ -477,6 +476,18 @@ MZ,shope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul
 NG,chawai,cch,atsa1241,amo
 GH,chekosi,cko,anuf1239,anu
 MZ,chena,seh,nucl1396,sen
+BW,chewa/nyanja,nya,nyan1308,cic
+MW,chewa/nyanja,nya,nyan1308,cic
+MZ,chewa/nyanja,nya,nyan1308,cic
+ZA,chewa/nyanja,nya,nyan1308,cic
+ZM,chewa/nyanja,nya,nyan1308,cic
+ZW,chewa/nyanja,nya,nyan1308,cic
+BW,nyanja/chewa,nya,nyan1308,cic
+MW,nyanja/chewa,nya,nyan1308,cic
+MZ,nyanja/chewa,nya,nyan1308,cic
+ZA,nyanja/chewa,nya,nyan1308,cic
+ZM,nyanja/chewa,nya,nyan1308,cic
+ZW,nyanja/chewa,nya,nyan1308,cic
 BW,chechewa,nya,chew1246,cic
 MW,chechewa,nya,chew1246,cic
 MZ,chechewa,nya,chew1246,cic
@@ -507,12 +518,6 @@ MZ,chewa,nya,chew1246,cic
 ZA,chewa,nya,chew1246,cic
 ZM,chewa,nya,chew1246,cic
 ZW,chewa,nya,chew1246,cic
-BW,chewa/nyanja,nya,chew1246,cic
-MW,chewa/nyanja,nya,chew1246,cic
-MZ,chewa/nyanja,nya,chew1246,cic
-ZA,chewa/nyanja,nya,chew1246,cic
-ZM,chewa/nyanja,nya,chew1246,cic
-ZW,chewa/nyanja,nya,chew1246,cic
 BW,chewe,nya,chew1246,cic
 MW,chewe,nya,chew1246,cic
 MZ,chewe,nya,chew1246,cic
@@ -531,12 +536,6 @@ MZ,macheua,nya,chew1246,cic
 ZA,macheua,nya,chew1246,cic
 ZM,macheua,nya,chew1246,cic
 ZW,macheua,nya,chew1246,cic
-BW,nyanja/chewa,nya,chew1246,cic
-MW,nyanja/chewa,nya,chew1246,cic
-MZ,nyanja/chewa,nya,chew1246,cic
-ZA,nyanja/chewa,nya,chew1246,cic
-ZM,nyanja/chewa,nya,chew1246,cic
-ZW,nyanja/chewa,nya,chew1246,cic
 BW,tchitchewa,nya,chew1246,cic
 MW,tchitchewa,nya,chew1246,cic
 MZ,tchitchewa,nya,chew1246,cic
@@ -551,6 +550,8 @@ MZ,chigorongozi,seh,goro1256,sen
 ZW,chikaranga,sna,kara1480,shn
 ZM,chikunda,kdn,kund1255,cic sen
 ZW,chikunda,kdn,kund1255,cic sen
+ZM,kund1254,kdn,kund1255,cic sen
+ZW,kund1254,kdn,kund1255,cic sen
 MW,chilambya,lai,lamb1272,lmb
 MW,chilomwe,lon,mala1256,mua
 MW,chimambwe,mgr,mamb1297,mmw
@@ -574,7 +575,6 @@ MZ,chingozi,mis,,
 MZ,chinhungue,mxc,hung1277,shn
 MW,chinkhonde,nyy,nkon1246,mmw nyh
 MW,chinyakyusa,nyy,nyak1260,mmw nyh
-MW,chinyanja,nya,nyan1308,cic
 MW,chinyika,nkv,nyik1246,nyh
 MW,kinyika,nkv,nyik1246,nyh
 MW,chinyungwe,nyu,nyun1248,sen
@@ -618,8 +618,6 @@ MZ,cicopi,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul
 MZ,cicoti,eko,koti1238,eko
 MZ,cimanyika,mxc,many1258,shn
 MZ,cindau,ndc,ndau1241,shn
-MZ,cinyanja,nya,nyan1308,cic
-MZ,nhanja,nya,nyan1308,cic
 MZ,cinyungwe,nyu,nyun1248,sen
 MZ,cisena,seh,nucl1396,sen
 MZ,citshwa,tsc,tswa1255,rga tsn
@@ -665,10 +663,10 @@ GH,danbge,dag,dagb1246,dgb
 GH,dangbani,dag,dagb1246,dgb
 CI,dahomey,fon,fonn1241,fon
 NG,dakarkari,dri,clel1238,duk
-BW,damara,naq,nama1264,kho
-NA,damara,naq,nama1264,kho
-ZM,damara,naq,nama1264,kho
-ZW,damara,naq,nama1264,kho
+BW,damara,naq,dama1270,kho
+NA,damara,naq,dama1270,kho
+ZM,damara,naq,dama1270,kho
+ZW,damara,naq,dama1270,kho
 GH,dangaare,dga,sout2789,dga
 GH,dangari,dga,sout2789,dga
 GH,dangbe,ada,adan1247,ga
@@ -729,7 +727,7 @@ ZW,dombe,dov,domb1246,ila toz
 BF,donsin,mis,,
 CM,douala,dua,dual1243,dua
 CM,dourou,dur,diii1241,ygd
-CM,dschang,ybb,yemb1246,yem
+CM,dschang,ybb,fore1267,yem
 CM,du,mis,,
 ZW,dumbe,mis,,
 KE,duruma,dug,duru1249,com
@@ -1338,13 +1336,13 @@ KE,"english, kiswahili, and kamba",eng,stan1293,eng
 NG,epeye,ekp,ekpe1253,igb izi
 NG,epia,epi,epie1238,deg egn
 NG,epie,epi,epie1238,deg egn
-NG,esako,mis,,
+NG,esako,ets,yekh1238,ets
 NG,esan,ish,esan1238,bni ora
 CM,esimbi,ags,esim1238,tiv
 CM,essimbi,ags,esim1238,tiv
 CM,esu,mis,,
 CM,etenga,mis,,
-NG,eterco,mis,,
+NG,eterco,yer,itar1242,tok
 CM,eton,eto,eton1253,buw ewo
 NG,etsako,ets,yekh1238,ets
 GH,ew,ewe,ewee1241,ewe
@@ -2282,7 +2280,7 @@ NG,gwandara,gwn,gwan1268,hau
 NG,gwari,gbr gby,gbag1256,gwa
 NG,gwong,kdm,kago1247,kgm
 NG,gwoza,gdf ngs,dghw1240,gdf
-NG,gyerawa,mis,,
+NG,gyerawa,gew,gera1246,blq
 KE,"half taita, half zai",dav,tait1250,dbd
 KE,zai,mis,,
 GH,hanga,hag,hang1258,dgb mmp
@@ -2381,7 +2379,7 @@ ZA,hindu,hin,hind1269,hin
 ZW,hindu,hin,hind1269,hin
 GH,husa,hau,haus1257,hau
 ZW,hwesa,sna,shon1251,shn
-NG,ibaji,igl,igal1242,ise yor
+NG,ibaji,igl,ibaj1238,ise yor
 NG,ibani,iby,iban1261,ijo
 NG,ibibio,ibb,ibib1240,ibi
 NG,ibibo,ibb,ibib1240,ibi
@@ -2404,17 +2402,17 @@ NG,igara,igl,igal1242,ise yor
 NG,igbira,igb,ebir1243,ebi
 NG,igbo,ibo,nucl1417,igb
 NG,igede,ige,iged1239,ige
-NG,ijaw,ijc ijs,ijoo1239,ijo
+NG,ijaw,ijc,izon1238,ijo
 NG,ijaw/kalabari/okirika/andoni/ogoni/nembe,ijc,izon1238,ijo
 NG,ika,ikk,ikaa1238,igb izi
+NG,ikan,ikk,ikaa1238,igb izi
 BW,ikalanga/sekala,kck,ikal1242,klz
 BW,ikalanga/sekalaka,kck,ikal1242,klz
 BW,sekalnga,kck,ikal1242,klz
-NG,ikan,mis,,
 NG,ikewere,ikw,ikwe1242,igb izi
 NG,ikom,iko,olul1245,agb
 NG,ikpena,mis,,
-NG,ikpon,mis,,
+NG,ikpon,ish,ekpo1238,bni ora
 TG,ikposso (akposso),kpo,ikpo1238,kpo
 NG,ikwere,ikw,ikwe1242,igb izi
 NG,ikwerre,ikw,ikwe1242,igb izi
@@ -2442,9 +2440,9 @@ UG,japhadhola,adh,adho1243,luo
 NG,jarawa,jgk jjr,jara1263,jar
 NG,jenjo,jen,dzaa1238,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp vag wwa xsm
 ZW,jindwi,mxc,many1258,shn
-UG,jonam,alz,alur1250,luo
+UG,jonam,alz,jona1239,luo
+CM,jukum,juk,wapa1235,juk
 NG,jukum,juk,wapa1235,juk
-CM,jukum,mis,,
 NG,jukun,jbu,juku1254,juk
 NG,jukun donga,jbu,juku1254,juk
 NG,jukun wanu,jub,wann1241,juk
@@ -2555,7 +2553,7 @@ TZ,kihangaza,han,hang1260,kin rnd
 TZ,kihaya,hay,haya1250,hya
 TZ,kihehe,heh,hehe1240,heh
 TZ,kihindi,hin,hind1269,hin
-NG,kiiba,mis,,
+NG,kiiba,ckl,ciba1236,bpa
 TZ,kiikizu,ikz,ikiz1238,gus
 TZ,kiiraq,irk,iraq1241,irq
 TZ,kiiraqi,irk,iraq1241,irq
@@ -2713,7 +2711,7 @@ TZ,kizaramo,zaj,zara1247,kmi
 TZ,kizigua,ziw,zigu1242,shm
 TZ,kizinza,zin,zinz1238,hya lda nbo nko rny rru tal
 CM,klum,mis,,
-NG,knale,mis,,
+NG,knale,ukw,ukwu1242,igb izi
 CI,kodia,kwp,kodi1246,bet ddj ney vat
 CM,kom,nfu,mfum1238,mbz yba
 BF,komono,kqm,khis1238,brb kby kir kow lob lye nnn ssa tem tmp vag xsm
@@ -2775,7 +2773,6 @@ SL,kru,klu,klao1243,kla
 NG,kuba,ruk,chee1238,mdz
 UG,kuksabin,kpz,kups1238,seb
 UG,kumam,kdi,kuma1275,lan
-ZM,kunda,kdn nya,tumb1253,cic sen
 UG,kupsabiny,kpz,kups1238,seb
 UG,kupsabinyi,kpz,kups1238,seb
 NG,kurama,krh,kura1249,amo
@@ -2814,7 +2811,7 @@ SD,language almapat,mis,,
 SD,language fellata,fub,adam1253,fgo
 SD,language inqasna,mis,,
 NG,lanta,mis,,
-NG,lantan,mis,,
+NG,lantan,yer,taro1263,tok
 GH,larteh,lar,lart1238,cum nkn
 NG,laru,lan,laru1238,amo awk duk
 NG,lawabe,mis,,
@@ -2880,7 +2877,6 @@ KE,luhy,luy,luyi1234,luy
 KE,luhya,luy,luyi1234,luy
 UG,lujaluwo,alz,alur1250,luo
 UG,lukene,lke,keny1278,lda
-UG,lukhonjo,koo,konz1239,nde
 UG,lukuku,bfa,bari1284,kuk
 UG,lulamogi,xog,soga1242,lda
 UG,lululi,ruc,ruul1235,nko rny rru tal
@@ -2919,7 +2915,7 @@ MZ,mabawe,mis,,
 CM,mabi,nmg,kwas1243,buj
 NG,mada,mda,mada1282,mdz
 CM,mada,mxu,mada1293,mda
-NG,madara,mis,,
+NG,madara,mxu,mada1293,mda
 UG,madi,mhi snm,sout2827,mad
 SL,madingo,emk,east2426,mnk
 CM,mafa,maf,mafa1239,dab gnd gud hna ter
@@ -3216,17 +3212,17 @@ MZ,naindo,cwb,main1272,eko mua
 GN,nallou,naj,nalu1240,bfd bsr fbf fgo fgu fma fni fum kgi ndt noo plr wlf
 NA,damara/nama,naq,nama1264,kho
 ZW,damara/nama,naq,nama1264,kho
-NA,nama,naq,nama1264,kho
-ZW,nama,naq,nama1264,kho
 NA,nama/damara,naq,nama1264,kho
 ZW,nama/damara,naq,nama1264,kho
+NA,nama,naq,nama1265,kho
+ZW,nama,naq,nama1265,kho
 ZW,nambia,nmq,namb1291,klz
 ZW,nambiya,nmq,namb1291,klz
 ZW,nambya,nmq,namb1291,klz
 MZ,namica,mis,,
 MW,namwanga,mwn,nyam1275,mmw
 ZM,namwanga,mwn,nyam1275,mmw
-NG,nanba/wanba,mis,,
+NG,nanba/wanba,ego,eggo1239,bir fye gwo kgm mdz tok
 KE,nandi,niq,nand1266,nan
 GH,nankan,gur,fare1241,grn
 GH,nankani,gur,fare1241,grn
@@ -3259,11 +3255,11 @@ LS,ndebele,nbl,sout2808,ndb
 SZ,ndebele,nbl,sout2808,ndb
 ZA,ndebele,nbl,sout2808,ndb
 CM,ndi,www,wawa1246,mla
-NG,ndochi,mis,,
+NG,ndochi,glw,ngos1242,mlg
 NG,ndola,ndr,ndoo1241,mla
 NG,ndoro,ndr,ndoo1241,mla
 NG,nedere,kmy,koma1266,doy
-NG,nembe,ijs,sout2774,ijo
+NG,nembe,ijs,nemb1238,ijo
 CI,neyo,wec,wewe1238,gue
 UG,ngakarimajong,kdj,kara1483,kmj
 TG,ngam-gam,gng,ngan1299,kkb
@@ -3306,21 +3302,19 @@ MW,nkhonde,nyy,nkon1246,mmw nyh
 GH,nkona,nko,nkon1245,nkn
 ZM,nkoya,nka,nkoy1244,blu hem kil kyo sge
 GH,nkura,nku,kula1277,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp tou tow vag wwa xsm
-NG,nkwana,mis,,
+NG,nkwana,krh,kura1249,amo
 CM,nkwen,mfd,mend1261,baf mbi mkq
 ZW,nleya zambia,mis,,
 CM,nlimbom,mis,,
 CM,nnaga eboko,mis,,
 GH,noingo,ada,adan1247,ga
 CM,noni,nhu,noon1243,non
-NG,normana,nbr,numa1252,mdz
 NG,north ivie,mis,,
-GH,nsahas,mis,,
-MZ,nsenga,nse,nucl1377,tsw
+GH,nsahas,aka,akan1250,akn
+MZ,nsenga,nse,nucl1379,kga
 ZM,nsenga,nse,nucl1397,nse
 CM,nsie,mis,,
 CM,nso,lns,lamn1239,lns
-ZM,nswaka,mis,,
 CM,ntem,mis,,
 CM,ntenako,mis,,
 CM,ntoumou,fan,ntum1238,buw ewo
@@ -3328,7 +3322,8 @@ KE,nubi,kcn,nubi1253,nub
 KE,nubian,kcn,nubi1253,nub
 UG,nubian,kcn,nubi1253,nub
 SD,nubian language,dgl fia ghl kdu kko mei wll,nubi1251,mid nbh
-NG,numana,nbr,numa1252,mdz
+NG,normana,nbr,numa1253,mdz
+NG,numana,nbr,numa1253,mdz
 MZ,nunga,mis,,
 NG,nungu,rin,nung1292,mdz
 NG,nupe,nup,nupe1254,nup
@@ -3341,32 +3336,44 @@ TZ,nyakyusa,nyy,nyak1260,mmw nyh
 KE,nyala,nle,east2409,luy
 TZ,nyamwezi,nym,nyam1276,nym
 NG,nyandang,ynq,yend1241,mum
-MW,myanja,nya,nyan1308,cic
-MZ,myanja,nya,nyan1308,cic
-ZM,myanja,nya,nyan1308,cic
-ZW,myanja,nya,nyan1308,cic
-MW,njanja,nya,nyan1308,cic
-MZ,njanja,nya,nyan1308,cic
-ZM,njanja,nya,nyan1308,cic
-ZW,njanja,nya,nyan1308,cic
-MW,nvanja,nya,nyan1308,cic
-MZ,nvanja,nya,nyan1308,cic
-ZM,nvanja,nya,nyan1308,cic
-ZW,nvanja,nya,nyan1308,cic
-MW,nyaaja,nya,nyan1308,cic
-MZ,nyaaja,nya,nyan1308,cic
-ZM,nyaaja,nya,nyan1308,cic
-ZW,nyaaja,nya,nyan1308,cic
-MW,nyanga,nya,nyan1308,cic
-MZ,nyanga,nya,nyan1308,cic
-ZM,nyanga,nya,nyan1308,cic
-ZW,nyanga,nya,nyan1308,cic
-MW,nyanja,nya,nyan1308,cic
-MZ,nyanja,nya,nyan1308,cic
-ZM,nyanja,nya,nyan1308,cic
-ZW,nyanja,nya,nyan1308,cic
+MW,chinyanja,nya,nucl1395,cic
+MZ,chinyanja,nya,nucl1395,cic
+ZM,chinyanja,nya,nucl1395,cic
+ZW,chinyanja,nya,nucl1395,cic
+MW,cinyanja,nya,nucl1395,cic
+MZ,cinyanja,nya,nucl1395,cic
+ZM,cinyanja,nya,nucl1395,cic
+ZW,cinyanja,nya,nucl1395,cic
+MW,myanja,nya,nucl1395,cic
+MZ,myanja,nya,nucl1395,cic
+ZM,myanja,nya,nucl1395,cic
+ZW,myanja,nya,nucl1395,cic
+MW,nhanja,nya,nucl1395,cic
+MZ,nhanja,nya,nucl1395,cic
+ZM,nhanja,nya,nucl1395,cic
+ZW,nhanja,nya,nucl1395,cic
+MW,njanja,nya,nucl1395,cic
+MZ,njanja,nya,nucl1395,cic
+ZM,njanja,nya,nucl1395,cic
+ZW,njanja,nya,nucl1395,cic
+MW,nvanja,nya,nucl1395,cic
+MZ,nvanja,nya,nucl1395,cic
+ZM,nvanja,nya,nucl1395,cic
+ZW,nvanja,nya,nucl1395,cic
+MW,nyaaja,nya,nucl1395,cic
+MZ,nyaaja,nya,nucl1395,cic
+ZM,nyaaja,nya,nucl1395,cic
+ZW,nyaaja,nya,nucl1395,cic
+MW,nyanga,nya,nucl1395,cic
+MZ,nyanga,nya,nucl1395,cic
+ZM,nyanga,nya,nucl1395,cic
+ZW,nyanga,nya,nucl1395,cic
+MW,nyanja,nya,nucl1395,cic
+MZ,nyanja,nya,nucl1395,cic
+ZM,nyanja,nya,nucl1395,cic
+ZW,nyanja,nya,nucl1395,cic
 KE,nyarwanda,kin,kiny1244,kin
-KE,nyasa,mis,,
+KE,nyasa,nya,nyas1241,cic
 ZW,nyasaland,nya,nyas1241,cic
 CM,nyem nyem,sgi,suga1248,mla
 NA,nyemba,kua,kuan1247,mhu ndo
@@ -3411,10 +3418,10 @@ CM,oku,oku,okuu1243,oku
 NG,okun,yor,yoru1245,yor
 NG,olukumi,mis,,
 UG,ombach,mis,,
-NG,omoku,mis,,
+NG,omoku,iso,unog1238,iso
 NG,once,mis,,
 NG,opobo,mis,,
-NG,ora,mis,,
+NG,ora,ema,oraa1239,ora
 CM,oroko,bdu,orok1266,ldo
 KE,oroma,orc,waat1239,orb
 KE,oromo,orc,waat1239,orb
@@ -3438,7 +3445,7 @@ BJ,outamari,tbz,dita1238,ntn
 MZ,outra lingua,und,,
 MZ,outras linguas,und,,
 NA,ovambo languages,kua,kuan1247,mhu ndo
-NG,owan,mis,,
+NG,owan,ema,emai1241,ora
 MG,pakistanais,guj,guja1252,guj
 NG,panso,lns,lamn1239,lns
 BW,parakarungu,mis,,
@@ -3813,16 +3820,17 @@ KE,rendile,rel,rend1243,ren
 KE,rendille,rel,rend1243,ren
 NG,ron,cla,ronn1241,ron
 MZ,ronga,rng,rong1268,rga
-UG,rufumbia,kin,kiny1244,kin
-UG,rufumbiira,kin,kiny1244,kin
-UG,rufumbira,kin,kiny1244,kin
+UG,rufumbia,kin,rufu1238,kin
+UG,rufumbiira,kin,rufu1238,kin
+UG,rufumbira,kin,rufu1238,kin
 UG,rugisu,kin,kiny1244,kin
 NA,rugririku,diu,diri1252,kwn
 NA,rugririku/rumanyo,diu,diri1252,kwn
 UG,ruhororo,nyn,nyan1307,rny
 UG,rukiga,cgg,chig1238,nko
-UG,rukonjo,koo,konz1239,nde
-UG,rukonzo,koo,konz1239,nde
+UG,lukhonjo,koo,rufu1238,kin
+UG,rukonjo,koo,rufu1238,kin
+UG,rukonzo,koo,rufu1238,kin
 NG,rukuba,ruk,chee1238,mdz
 NA,rukwangali,kwn,kwan1273,kwn
 NA,rukwangalii,kwn,kwan1273,kwn
@@ -4018,6 +4026,11 @@ LS,southern sotho,sot,sout2807,ses
 NA,southern sotho,sot,sout2807,ses
 ZA,southern sotho,sot,sout2807,ses
 ZW,southern sotho,sot,sout2807,ses
+BW,suthu,sot,sout2807,ses
+LS,suthu,sot,sout2807,ses
+NA,suthu,sot,sout2807,ses
+ZA,suthu,sot,sout2807,ses
+ZW,suthu,sot,sout2807,ses
 BW,sesubia,sbs,subi1246,sub
 BW,setebele,nde,nort2795,swt xho zul
 LS,setebele,nde,nort2795,swt xho zul
@@ -4270,7 +4283,6 @@ KE,suba,sxb,suba1238,gus
 TZ,sukuma,suk,suku1261,skm
 MW,sukwa,ndh,ndal1241,mmw nyh
 SL,susu,sus,susu1250,sus
-ZW,suthu,tsn,tswa1253,tsw
 BI,kisawhili,swh,swah1253,swa
 BW,kisawhili,swh,swah1253,swa
 KE,kisawhili,swh,swah1253,swa
@@ -4480,7 +4492,8 @@ UG,swhailil,swh,swah1253,swa
 ZW,swhailil,swh,swah1253,swa
 ZM,kiswahili,swc,cong1236,swa
 ZM,swahili,swc,cong1236,swa
-ZM,swaka,leb,lala1264,lmb
+ZM,nswaka,leb,swak1238,lmb
+ZM,swaka,leb,swak1238,lmb
 MZ,swazi,ssw,swat1243,swt
 ZA,swazi,ssw,swat1243,swt
 ZM,swazi,ssw,swat1243,swt
@@ -4583,9 +4596,9 @@ BF,turka,tuz,turk1306,kir
 SN,turka,tuz,turk1306,kir
 KE,turkana,tuv,turk1308,tna
 NG,ubibio,ibb,ibib1240,ibi
-NG,ugep,yaz,loka1252,agb
-NG,ukwale,ukw,ukwu1241,igb izi
-NG,ukwani,ukw,ukwu1241,igb izi
+NG,ugep,yaz,ugep1238,agb
+NG,ukwale,ukw,ukwu1242,igb izi
+NG,ukwani,ukw,ukwu1242,igb izi
 NG,umone,bcs umm,kohu1243,koh
 NG,urhobo,urh,urho1239,urh
 ZM,ushi,auh,aush1241,lmb
@@ -4613,7 +4626,7 @@ ZW,venda,ven,vend1245,ven
 NA,vhenda,ven,vend1245,ven
 ZA,vhenda,ven,vend1245,ven
 ZW,vhenda,ven,vend1245,ven
-ZW,vhitori,sna,shon1251,shn
+ZW,vhitori,kck,kara1480,shn
 BF,vigue,vig,viem1243,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp tou tow vag wwa xsm
 GH,wa dormu,mis,,
 GH,waala,wlx,wali1263,dga
@@ -4818,7 +4831,7 @@ NG,ypruba,yor,yoru1245,yor
 SN,ypruba,yor,yoru1245,yor
 TG,ypruba,yor,yoru1245,yor
 NG,youm,mis,,
-GH,zabagle,mis,,
+GH,zabagle,bud,ntch1242,ncm
 GH,zabrama,mis,,
 NG,zamji,mis,,
 GH,zamrama,mis,,
