@@ -6461,8 +6461,8 @@ BFO0920,BF,moore,mos,moss1236,moo,2
 BFO0920,BF,dioula,dyu,dyul1238,dyu,2
 BFO0921,BF,dogon,djm dtm,plai1257,jms,2
 BFO0921,BF,dioula,dyu,dyul1238,dyu,2
-BFO0922,BF,kado,mis,,,1
-BFO0923,BF,kado,mis,,,1
+BFO0922,BF,kado,dje,kaad1238,zar,1
+BFO0923,BF,kado,dje,kaad1238,zar,1
 BFO0924,BF,dogon,djm dtm,plai1257,jms,2
 BFO0924,BF,dioula,dyu,dyul1238,dyu,2
 BFO0925,BF,karakan,mis,,,2
@@ -6470,8 +6470,8 @@ BFO0925,BF,dioula,dyu,dyul1238,dyu,2
 BFO0926,BF,karakan,mis,,,2
 BFO0926,BF,dioula,dyu,dyul1238,dyu,2
 BFO0927,BF,dioula,dyu,dyul1238,dyu,2
-BFO0927,BF,kado,mis,,,2
-BFO0928,BF,kado,mis,,,2
+BFO0927,BF,kado,dje,kaad1238,zar,2
+BFO0928,BF,kado,dje,kaad1238,zar,2
 BFO0928,BF,dioula,dyu,dyul1238,dyu,2
 BFO0929,BF,marka,rkm,mark1256,bam dyu mka mnk,2
 BFO0929,BF,dioula,dyu,dyul1238,dyu,2
@@ -9365,7 +9365,7 @@ GHA0039,GH,english,eng,stan1293,eng,2
 GHA0040,GH,fante,fat,fant1241,akn,1
 GHA0041,GH,english,eng,stan1293,eng,3
 GHA0041,GH,fante,fat,fant1241,akn,3
-GHA0041,GH,frafra,gur,fare1241,grn,3
+GHA0041,GH,frafra,gur,fraf1238,grn,3
 GHA0042,GH,english,eng,stan1293,eng,3
 GHA0042,GH,french,fra,stan1290,fre,3
 GHA0042,GH,fante,fat,fant1241,akn,3
@@ -9398,7 +9398,7 @@ GHA0056,GH,wassa,wss,wasa1244,akn,3
 GHA0056,GH,twi,twi,twii1234,akn,3
 GHA0057,GH,kusasi,kus,kusa1250,dgb mmp,8
 GHA0057,GH,mossi,mos,moss1236,moo,8
-GHA0057,GH,frafra,gur,fare1241,grn,8
+GHA0057,GH,frafra,gur,fraf1238,grn,8
 GHA0057,GH,dagaati,dga,sout2789,dga,8
 GHA0057,GH,twi,twi,twii1234,akn,8
 GHA0057,GH,brusa,,,,8
@@ -9410,10 +9410,10 @@ GHA0059,GH,ga,gaa,gaaa1244,ga,4
 GHA0059,GH,twi,twi,twii1234,akn,4
 GHA0059,GH,wassa,wss,wasa1244,akn,4
 GHA0059,GH,ewe,ewe,ewee1241,ewe,4
-GHA0060,GH,krobo,ada,adan1247,ga,2
+GHA0060,GH,krobo,ada,krob1243,ga,2
 GHA0060,GH,wassa,wss,wasa1244,akn,2
 GHA0061,GH,akan,aka,akan1250,akn,1
-GHA0062,GH,frafra,gur,fare1241,grn,2
+GHA0062,GH,frafra,gur,fraf1238,grn,2
 GHA0062,GH,twi,twi,twii1234,akn,2
 GHA0063,GH,twi,twi,twii1234,akn,5
 GHA0063,GH,ewe,ewe,ewee1241,ewe,5
@@ -9515,7 +9515,7 @@ GHA0106,GH,brusa,,,,2
 GHA0107,GH,ewe,ewe,ewee1241,ewe,3
 GHA0107,GH,twi,twi,twii1234,akn,3
 GHA0107,GH,english,eng,stan1293,eng,3
-GHA0108,GH,brosa,any,anyi1245,ayi,4
+GHA0108,GH,brosa,any,aowi1238,ayi,4
 GHA0108,GH,ewi,ewe,ewee1241,ewe,4
 GHA0108,GH,nzema,nzi,nzim1238,anu ayi ble,4
 GHA0108,GH,fante,fat,fant1241,akn,4
@@ -9601,20 +9601,20 @@ GHA0157,GH,hausa,hau,haus1257,hau,3
 GHA0158,GH,fante,fat,fant1241,akn,1
 GHA0159,GH,fante,fat,fant1241,akn,3
 GHA0159,GH,english,eng,stan1293,eng,3
-GHA0159,GH,efutu,afu,awut1241,cum nkn,3
+GHA0159,GH,efutu,afu,efut1241,cum nkn,3
 GHA0160,GH,akan,aka,akan1250,akn,3
 GHA0160,GH,ga,gaa,gaaa1244,ga,3
 GHA0160,GH,alata,,,,3
 GHA0161,GH,fante,fat,fant1241,akn,3
-GHA0161,GH,efutu,afu,awut1241,cum nkn,3
+GHA0161,GH,efutu,afu,efut1241,cum nkn,3
 GHA0161,GH,english,eng,stan1293,eng,3
 GHA0162,GH,fante,fat,fant1241,akn,4
-GHA0162,GH,krobo,ada,adan1247,ga,4
+GHA0162,GH,krobo,ada,krob1243,ga,4
 GHA0162,GH,english,eng,stan1293,eng,4
-GHA0162,GH,efutu,afu,awut1241,cum nkn,4
+GHA0162,GH,efutu,afu,efut1241,cum nkn,4
 GHA0163,GH,fante,fat,fant1241,akn,3
 GHA0163,GH,english,eng,stan1293,eng,3
-GHA0163,GH,efutu,afu,awut1241,cum nkn,3
+GHA0163,GH,efutu,afu,efut1241,cum nkn,3
 GHA0164,GH,fante,fat,fant1241,akn,1
 GHA0165,GH,akan,aka,akan1250,akn,1
 GHA0166,GH,akan,aka,akan1250,akn,1
@@ -9696,13 +9696,13 @@ GHA0217,GH,dangbe,ada,adan1247,ga,3
 GHA0217,GH,twi,twi,twii1234,akn,3
 GHA0217,GH,english,eng,stan1293,eng,3
 GHA0218,GH,english,eng,stan1293,eng,4
-GHA0218,GH,frafra,gur,fare1241,grn,4
+GHA0218,GH,frafra,gur,fraf1238,grn,4
 GHA0218,GH,twi,twi,twii1234,akn,4
 GHA0218,GH,french,fra,stan1290,fre,4
 GHA0219,GH,english,eng,stan1293,eng,3
-GHA0219,GH,krobo,ada,adan1247,ga,3
+GHA0219,GH,krobo,ada,krob1243,ga,3
 GHA0219,GH,twi,twi,twii1234,akn,3
-GHA0220,GH,frafra,gur,fare1241,grn,2
+GHA0220,GH,frafra,gur,fraf1238,grn,2
 GHA0220,GH,twi,twi,twii1234,akn,2
 GHA0221,GH,fante,fat,fant1241,akn,1
 GHA0222,GH,fante,fat,fant1241,akn,1
@@ -9807,7 +9807,7 @@ GHA0260,GH,twi,twi,twii1234,akn,3
 GHA0261,GH,fante,fat,fant1241,akn,5
 GHA0261,GH,english,eng,stan1293,eng,5
 GHA0261,GH,ga,gaa,gaaa1244,ga,5
-GHA0261,GH,frafra,gur,fare1241,grn,5
+GHA0261,GH,frafra,gur,fraf1238,grn,5
 GHA0261,GH,ewe,ewe,ewee1241,ewe,5
 GHA0262,GH,english,eng,stan1293,eng,3
 GHA0262,GH,ga,gaa,gaaa1244,ga,3
@@ -9857,7 +9857,7 @@ GHA0280,GH,ga,gaa,gaaa1244,ga,2
 GHA0280,GH,english,eng,stan1293,eng,2
 GHA0281,GH,twi,twi,twii1234,akn,3
 GHA0281,GH,ga,gaa,gaaa1244,ga,3
-GHA0281,GH,krobo,ada,adan1247,ga,3
+GHA0281,GH,krobo,ada,krob1243,ga,3
 GHA0282,GH,ga/dangbe,ada gaa,gada1257,ga,3
 GHA0282,GH,twi,twi,twii1234,akn,3
 GHA0282,GH,english,eng,stan1293,eng,3
@@ -9913,7 +9913,7 @@ GHA0300,GH,akan,aka,akan1250,akn,1
 GHA0301,GH,english,eng,stan1293,eng,3
 GHA0301,GH,ga,gaa,gaaa1244,ga,3
 GHA0301,GH,akan,aka,akan1250,akn,3
-GHA0302,GH,krobo,ada,adan1247,ga,4
+GHA0302,GH,krobo,ada,krob1243,ga,4
 GHA0302,GH,twi,twi,twii1234,akn,4
 GHA0302,GH,ga,gaa,gaaa1244,ga,4
 GHA0302,GH,larteh,lar,lart1238,cum nkn,4
@@ -10057,7 +10057,7 @@ GHA0352,GH,hausa,hau,haus1257,hau,4
 GHA0352,GH,ga,gaa,gaaa1244,ga,4
 GHA0352,GH,twi,twi,twii1234,akn,4
 GHA0352,GH,english,eng,stan1293,eng,4
-GHA0353,GH,krobo,ada,adan1247,ga,3
+GHA0353,GH,krobo,ada,krob1243,ga,3
 GHA0353,GH,english,eng,stan1293,eng,3
 GHA0353,GH,twi,twi,twii1234,akn,3
 GHA0354,GH,ewe,ewe,ewee1241,ewe,3
@@ -10127,7 +10127,7 @@ GHA0376,GH,ewe,ewe,ewee1241,ewe,5
 GHA0376,GH,english,eng,stan1293,eng,5
 GHA0376,GH,ga,gaa,gaaa1244,ga,5
 GHA0376,GH,fante,fat,fant1241,akn,5
-GHA0376,GH,ada,ada,adan1247,ga,5
+GHA0376,GH,ada,ada,adaa1238,ga,5
 GHA0377,GH,english,eng,stan1293,eng,3
 GHA0377,GH,twi,twi,twii1234,akn,3
 GHA0377,GH,ga,gaa,gaaa1244,ga,3
@@ -10154,13 +10154,13 @@ GHA0384,GH,guan,gwx,guaa1238,nkn,4
 GHA0384,GH,ga,gaa,gaaa1244,ga,4
 GHA0385,GH,ga/dangbe,ada gaa,gada1257,ga,2
 GHA0385,GH,english,eng,stan1293,eng,2
-GHA0386,GH,krobo,ada,adan1247,ga,2
+GHA0386,GH,krobo,ada,krob1243,ga,2
 GHA0386,GH,twi,twi,twii1234,akn,2
 GHA0387,GH,ga,gaa,gaaa1244,ga,5
 GHA0387,GH,twi,twi,twii1234,akn,5
 GHA0387,GH,ewe,ewe,ewee1241,ewe,5
 GHA0387,GH,english,eng,stan1293,eng,5
-GHA0387,GH,krobo,ada,adan1247,ga,5
+GHA0387,GH,krobo,ada,krob1243,ga,5
 GHA0388,GH,ga/adangbe,ada gaa,gada1257,ga,2
 GHA0388,GH,english,eng,stan1293,eng,2
 GHA0389,GH,ewe,ewe,ewee1241,ewe,5
@@ -10183,7 +10183,7 @@ GHA0392,GH,dangbe,ada,adan1247,ga,4
 GHA0393,GH,english,eng,stan1293,eng,3
 GHA0393,GH,adangbe,adq,adan1248,ewa,3
 GHA0393,GH,twi,twi,twii1234,akn,3
-GHA0394,GH,ada,ada,adan1247,ga,3
+GHA0394,GH,ada,ada,adaa1238,ga,3
 GHA0394,GH,english,eng,stan1293,eng,3
 GHA0394,GH,ga,gaa,gaaa1244,ga,3
 GHA0395,GH,english,eng,stan1293,eng,3
@@ -10221,7 +10221,7 @@ GHA0407,GH,ewe,ewe,ewee1241,ewe,5
 GHA0407,GH,hausa,hau,haus1257,hau,5
 GHA0408,GH,fante,fat,fant1241,akn,3
 GHA0408,GH,twi,twi,twii1234,akn,3
-GHA0408,GH,ada,ada,adan1247,ga,3
+GHA0408,GH,ada,ada,adaa1238,ga,3
 GHA0409,GH,ewe,ewe,ewee1241,ewe,1
 GHA0410,GH,ewe,ewe,ewee1241,ewe,1
 GHA0411,GH,ewe,ewe,ewee1241,ewe,1
@@ -10251,7 +10251,7 @@ GHA0424,GH,english,eng,stan1293,eng,3
 GHA0425,GH,ewe,ewe,ewee1241,ewe,4
 GHA0425,GH,english,eng,stan1293,eng,4
 GHA0425,GH,ga/dangbe,ada gaa,gada1257,ga,4
-GHA0425,GH,efutu,afu,awut1241,cum nkn,4
+GHA0425,GH,efutu,afu,efut1241,cum nkn,4
 GHA0426,GH,ewe,ewe,ewee1241,ewe,2
 GHA0426,GH,english,eng,stan1293,eng,2
 GHA0427,GH,ewe,ewe,ewee1241,ewe,2
@@ -10304,7 +10304,7 @@ GHA0450,GH,ewe,ewe,ewee1241,ewe,3
 GHA0450,GH,twi,twi,twii1234,akn,3
 GHA0450,GH,ga,gaa,gaaa1244,ga,3
 GHA0451,GH,ewe,ewe,ewee1241,ewe,3
-GHA0451,GH,krobo,ada,adan1247,ga,3
+GHA0451,GH,krobo,ada,krob1243,ga,3
 GHA0451,GH,english,eng,stan1293,eng,3
 GHA0452,GH,ewe,ewe,ewee1241,ewe,4
 GHA0452,GH,akan,aka,akan1250,akn,4
@@ -10467,7 +10467,7 @@ GHA0529,GH,dagomba,dag,dagb1246,dgb,4
 GHA0529,GH,zugu,mis,,,4
 GHA0529,GH,hausa,hau,haus1257,hau,4
 GHA0530,GH,twi,twi,twii1234,akn,4
-GHA0530,GH,krobo,ada,adan1247,ga,4
+GHA0530,GH,krobo,ada,krob1243,ga,4
 GHA0530,GH,ga,gaa,gaaa1244,ga,4
 GHA0530,GH,english,eng,stan1293,eng,4
 GHA0531,GH,akan,aka,akan1250,akn,4
@@ -10497,7 +10497,7 @@ GHA0542,GH,english,eng,stan1293,eng,2
 GHA0543,GH,akan,aka,akan1250,akn,2
 GHA0543,GH,english,eng,stan1293,eng,2
 GHA0544,GH,twi,twi,twii1234,akn,3
-GHA0544,GH,krobo,ada,adan1247,ga,3
+GHA0544,GH,krobo,ada,krob1243,ga,3
 GHA0544,GH,english,eng,stan1293,eng,3
 GHA0545,GH,english,eng,stan1293,eng,2
 GHA0545,GH,twi,twi,twii1234,akn,2
@@ -10575,7 +10575,7 @@ GHA0573,GH,twi,twi,twii1234,akn,3
 GHA0573,GH,english,eng,stan1293,eng,3
 GHA0573,GH,ga,gaa,gaaa1244,ga,3
 GHA0574,GH,twi,twi,twii1234,akn,2
-GHA0574,GH,krobo,ada,adan1247,ga,2
+GHA0574,GH,krobo,ada,krob1243,ga,2
 GHA0575,GH,twi,twi,twii1234,akn,2
 GHA0575,GH,english,eng,stan1293,eng,2
 GHA0576,GH,twi,twi,twii1234,akn,2
@@ -10651,7 +10651,7 @@ GHA0600,GH,twi,twi,twii1234,akn,3
 GHA0600,GH,ewe,ewe,ewee1241,ewe,3
 GHA0600,GH,adangbe,adq,adan1248,ewa,3
 GHA0601,GH,twi,twi,twii1234,akn,4
-GHA0601,GH,krobo,ada,adan1247,ga,4
+GHA0601,GH,krobo,ada,krob1243,ga,4
 GHA0601,GH,english,eng,stan1293,eng,4
 GHA0601,GH,larteh,lar,lart1238,cum nkn,4
 GHA0602,GH,twi,twi,twii1234,akn,2
@@ -10670,7 +10670,7 @@ GHA0606,GH,french,fra,stan1290,fre,3
 GHA0606,GH,english,eng,stan1293,eng,3
 GHA0607,GH,english,eng,stan1293,eng,3
 GHA0607,GH,twi,twi,twii1234,akn,3
-GHA0607,GH,krobo,ada,adan1247,ga,3
+GHA0607,GH,krobo,ada,krob1243,ga,3
 GHA0608,GH,twi,twi,twii1234,akn,3
 GHA0608,GH,ga/dangbe,ada gaa,gada1257,ga,3
 GHA0608,GH,english,eng,stan1293,eng,3
@@ -10686,7 +10686,7 @@ GHA0612,GH,dangbe,ada,adan1247,ga,2
 GHA0613,GH,english,eng,stan1293,eng,2
 GHA0613,GH,danbge,dag,dagb1246,dgb,2
 GHA0614,GH,ga/adangbe,ada gaa,gada1257,ga,3
-GHA0614,GH,krobo,ada,adan1247,ga,3
+GHA0614,GH,krobo,ada,krob1243,ga,3
 GHA0614,GH,english,eng,stan1293,eng,3
 GHA0615,GH,twi,twi,twii1234,akn,3
 GHA0615,GH,dangbe,ada,adan1247,ga,3
@@ -10713,11 +10713,11 @@ GHA0621,GH,twi,twi,twii1234,akn,4
 GHA0622,GH,twi,twi,twii1234,akn,3
 GHA0622,GH,dangbe,ada,adan1247,ga,3
 GHA0622,GH,english,eng,stan1293,eng,3
-GHA0623,GH,krobo,ada,adan1247,ga,4
+GHA0623,GH,krobo,ada,krob1243,ga,4
 GHA0623,GH,twi,twi,twii1234,akn,4
 GHA0623,GH,english,eng,stan1293,eng,4
 GHA0623,GH,adangbe,adq,adan1248,ewa,4
-GHA0624,GH,krobo,ada,adan1247,ga,4
+GHA0624,GH,krobo,ada,krob1243,ga,4
 GHA0624,GH,ga,gaa,gaaa1244,ga,4
 GHA0624,GH,english,eng,stan1293,eng,4
 GHA0624,GH,twi,twi,twii1234,akn,4
@@ -10851,7 +10851,7 @@ GHA0679,GH,twi,twi,twii1234,akn,1
 GHA0680,GH,twi,twi,twii1234,akn,1
 GHA0681,GH,twi,twi,twii1234,akn,2
 GHA0681,GH,english,eng,stan1293,eng,2
-GHA0682,GH,krobo,ada,adan1247,ga,5
+GHA0682,GH,krobo,ada,krob1243,ga,5
 GHA0682,GH,twi,twi,twii1234,akn,5
 GHA0682,GH,english,eng,stan1293,eng,5
 GHA0682,GH,french,fra,stan1290,fre,5
@@ -10973,7 +10973,7 @@ GHA0749,GH,twi,twi,twii1234,akn,2
 GHA0749,GH,english,eng,stan1293,eng,2
 GHA0750,GH,twi,twi,twii1234,akn,1
 GHA0751,GH,twi,twi,twii1234,akn,3
-GHA0751,GH,krobo,ada,adan1247,ga,3
+GHA0751,GH,krobo,ada,krob1243,ga,3
 GHA0751,GH,english,eng,stan1293,eng,3
 GHA0752,GH,twi,twi,twii1234,akn,1
 GHA0753,GH,akan,aka,akan1250,akn,2
@@ -11015,7 +11015,7 @@ GHA0770,GH,hausa,hau,haus1257,hau,2
 GHA0771,GH,twi,twi,twii1234,akn,5
 GHA0771,GH,english,eng,stan1293,eng,5
 GHA0771,GH,ga,gaa,gaaa1244,ga,5
-GHA0771,GH,krobo,ada,adan1247,ga,5
+GHA0771,GH,krobo,ada,krob1243,ga,5
 GHA0771,GH,fante,fat,fant1241,akn,5
 GHA0772,GH,akan,aka,akan1250,akn,2
 GHA0772,GH,hausa,hau,haus1257,hau,2
@@ -11164,7 +11164,7 @@ GHA0841,GH,lekpekpe,lip,sekp1241,llm,3
 GHA0842,GH,bimoba,bim,bimo1239,bmb,2
 GHA0842,GH,twi,twi,twii1234,akn,2
 GHA0843,GH,twi,twi,twii1234,akn,4
-GHA0843,GH,frafra,gur,fare1241,grn,4
+GHA0843,GH,frafra,gur,fraf1238,grn,4
 GHA0843,GH,english,eng,stan1293,eng,4
 GHA0843,GH,kusasi,kus,kusa1250,dgb mmp,4
 GHA0844,GH,guruma,bim,bimo1239,bmb,3
@@ -11246,7 +11246,7 @@ GHA0888,GH,hausa,hau,haus1257,hau,2
 GHA0889,GH,akan,aka,akan1250,akn,4
 GHA0889,GH,ewe,ewe,ewee1241,ewe,4
 GHA0889,GH,ga,gaa,gaaa1244,ga,4
-GHA0889,GH,krobo,ada,adan1247,ga,4
+GHA0889,GH,krobo,ada,krob1243,ga,4
 GHA0890,GH,twi,twi,twii1234,akn,1
 GHA0891,GH,akan,aka,akan1250,akn,2
 GHA0891,GH,english,eng,stan1293,eng,2
@@ -11359,7 +11359,7 @@ GHA0949,GH,akan,aka,akan1250,akn,4
 GHA0950,GH,akan,aka,akan1250,akn,3
 GHA0950,GH,fantla,fat,fant1241,akn,3
 GHA0950,GH,banda,nfr,nafa1258,naf,3
-GHA0951,GH,frafra,gur,fare1241,grn,1
+GHA0951,GH,frafra,gur,fraf1238,grn,1
 GHA0952,GH,akan,aka,akan1250,akn,2
 GHA0952,GH,fantla,fat,fant1241,akn,2
 GHA0953,GH,english,eng,stan1293,eng,3
@@ -11656,20 +11656,20 @@ GHA1092,GH,mampruli,maw,mamp1244,mmp,1
 GHA1093,GH,mamprusi,maw,mamp1244,mmp,2
 GHA1093,GH,twi,twi,twii1234,akn,2
 GHA1094,GH,mamprusi,maw,mamp1244,mmp,1
-GHA1095,GH,frafra,gur,fare1241,grn,5
+GHA1095,GH,frafra,gur,fraf1238,grn,5
 GHA1095,GH,mamprusi,maw,mamp1244,mmp,5
 GHA1095,GH,english,eng,stan1293,eng,5
 GHA1095,GH,kasim,xsm,kase1253,xsm,5
 GHA1095,GH,ashanti,twi,asan1239,akn,5
 GHA1096,GH,mamprusi,maw,mamp1244,mmp,1
-GHA1097,GH,frafra,gur,fare1241,grn,6
+GHA1097,GH,frafra,gur,fraf1238,grn,6
 GHA1097,GH,twi,twi,twii1234,akn,6
 GHA1097,GH,english,eng,stan1293,eng,6
 GHA1097,GH,awuna,,,,6
 GHA1097,GH,mushia,,,,6
 GHA1097,GH,dagbani,dag,dagb1246,dgb,6
 GHA1098,GH,guruni,gur,fare1241,grn,5
-GHA1098,GH,frafra,gur,fare1241,grn,5
+GHA1098,GH,frafra,gur,fraf1238,grn,5
 GHA1098,GH,twi,twi,twii1234,akn,5
 GHA1098,GH,dagbani,dag,dagb1246,dgb,5
 GHA1098,GH,mamprusi,maw,mamp1244,mmp,5
@@ -11713,7 +11713,7 @@ GHA1111,GH,bulsa,bwu,buli1254,buy,2
 GHA1111,GH,english,eng,stan1293,eng,2
 GHA1112,GH,buli,bwu,buli1254,buy,3
 GHA1112,GH,kassim,xsm,kase1253,xsm,3
-GHA1112,GH,frafra,gur,fare1241,grn,3
+GHA1112,GH,frafra,gur,fraf1238,grn,3
 GHA1113,GH,kasem,xsm,kase1253,xsm,3
 GHA1113,GH,akan,aka,akan1250,akn,3
 GHA1113,GH,english,eng,stan1293,eng,3
@@ -11726,29 +11726,29 @@ GHA1116,GH,kasena,xsm,kase1253,xsm,1
 GHA1117,GH,kasim,xsm,kase1253,xsm,1
 GHA1118,GH,twi,twi,twii1234,akn,3
 GHA1118,GH,grussi,cll kdh mzw ntr sig sil ssl tpm vag xsm,grus1239,xsm,3
-GHA1118,GH,frafra,gur,fare1241,grn,3
+GHA1118,GH,frafra,gur,fraf1238,grn,3
 GHA1119,GH,kasim,xsm,kase1253,xsm,3
 GHA1119,GH,english,eng,stan1293,eng,3
 GHA1119,GH,akan,aka,akan1250,akn,3
 GHA1120,GH,kasim,xsm,kase1253,xsm,1
-GHA1121,GH,gruni,gur,fare1241,grn,1
-GHA1122,GH,gruni,gur,fare1241,grn,1
-GHA1123,GH,gruni,gur,fare1241,grn,5
+GHA1121,GH,gruni,gur,guru1262,grn,1
+GHA1122,GH,gruni,gur,guru1262,grn,1
+GHA1123,GH,gruni,gur,guru1262,grn,5
 GHA1123,GH,twi,twi,twii1234,akn,5
 GHA1123,GH,hausa,hau,haus1257,hau,5
 GHA1123,GH,ga,gaa,gaaa1244,ga,5
 GHA1123,GH,english,eng,stan1293,eng,5
-GHA1124,GH,gruni,gur,fare1241,grn,1
+GHA1124,GH,gruni,gur,guru1262,grn,1
 GHA1125,GH,hausa,hau,haus1257,hau,3
-GHA1125,GH,gruni,gur,fare1241,grn,3
+GHA1125,GH,gruni,gur,guru1262,grn,3
 GHA1125,GH,twi,twi,twii1234,akn,3
-GHA1126,GH,gruni,gur,fare1241,grn,3
+GHA1126,GH,gruni,gur,guru1262,grn,3
 GHA1126,GH,twi,twi,twii1234,akn,3
 GHA1126,GH,english,eng,stan1293,eng,3
 GHA1127,GH,guruni,gur,fare1241,grn,3
 GHA1127,GH,twi,twi,twii1234,akn,3
 GHA1127,GH,ga,gaa,gaaa1244,ga,3
-GHA1128,GH,gruni,gur,fare1241,grn,2
+GHA1128,GH,gruni,gur,guru1262,grn,2
 GHA1128,GH,akan,aka,akan1250,akn,2
 GHA1129,GH,english,eng,stan1293,eng,8
 GHA1129,GH,fante,fat,fant1241,akn,8
@@ -11764,7 +11764,7 @@ GHA1131,GH,dagati,dga,sout2789,dga,4
 GHA1131,GH,english,eng,stan1293,eng,4
 GHA1131,GH,akan,aka,akan1250,akn,4
 GHA1131,GH,hausa,hau,haus1257,hau,4
-GHA1132,GH,frafra,gur,fare1241,grn,4
+GHA1132,GH,frafra,gur,fraf1238,grn,4
 GHA1132,GH,akan,aka,akan1250,akn,4
 GHA1132,GH,hausa,hau,haus1257,hau,4
 GHA1132,GH,english,eng,stan1293,eng,4
@@ -11776,7 +11776,7 @@ GHA1134,GH,manpurise,maw,mamp1244,mmp,4
 GHA1134,GH,english,eng,stan1293,eng,4
 GHA1135,GH,mamprili,,,,2
 GHA1135,GH,english,eng,stan1293,eng,2
-GHA1136,GH,gruni,gur,fare1241,grn,3
+GHA1136,GH,gruni,gur,guru1262,grn,3
 GHA1136,GH,twi,twi,twii1234,akn,3
 GHA1136,GH,english,eng,stan1293,eng,3
 GHA1137,GH,talensi,gur,fare1241,grn,4
@@ -11789,8 +11789,8 @@ GHA1138,GH,twi,twi,twii1234,akn,5
 GHA1138,GH,nabdan,,,,5
 GHA1138,GH,english,eng,stan1293,eng,5
 GHA1139,GH,talensi,gur,fare1241,grn,2
-GHA1139,GH,gruni,gur,fare1241,grn,2
-GHA1140,GH,frafra,gur,fare1241,grn,8
+GHA1139,GH,gruni,gur,guru1262,grn,2
+GHA1140,GH,frafra,gur,fraf1238,grn,8
 GHA1140,GH,akan,aka,akan1250,akn,8
 GHA1140,GH,mossi,mos,moss1236,moo,8
 GHA1140,GH,kusasi,kus,kusa1250,dgb mmp,8
@@ -11800,19 +11800,19 @@ GHA1140,GH,hausa,hau,haus1257,hau,8
 GHA1140,GH,dagb,,,,8
 GHA1141,GH,talensi,gur,fare1241,grn,3
 GHA1141,GH,dagbani,dag,dagb1246,dgb,3
-GHA1141,GH,gruni,gur,fare1241,grn,3
+GHA1141,GH,gruni,gur,guru1262,grn,3
 GHA1142,GH,hausa,hau,haus1257,hau,2
 GHA1142,GH,talensi,gur,fare1241,grn,2
 GHA1143,GH,talensi,gur,fare1241,grn,4
 GHA1143,GH,twi,twi,twii1234,akn,4
 GHA1143,GH,english,eng,stan1293,eng,4
-GHA1143,GH,gruni,gur,fare1241,grn,4
-GHA1144,GH,frafra,gur,fare1241,grn,5
+GHA1143,GH,gruni,gur,guru1262,grn,4
+GHA1144,GH,frafra,gur,fraf1238,grn,5
 GHA1144,GH,talensi,gur,fare1241,grn,5
 GHA1144,GH,english,eng,stan1293,eng,5
 GHA1144,GH,twi,twi,twii1234,akn,5
 GHA1144,GH,ankga,,,,5
-GHA1145,GH,frafra,gur,fare1241,grn,4
+GHA1145,GH,frafra,gur,fraf1238,grn,4
 GHA1145,GH,icusoil,,,,4
 GHA1145,GH,english,eng,stan1293,eng,4
 GHA1145,GH,hausa,hau,haus1257,hau,4
@@ -11835,7 +11835,7 @@ GHA1150,GH,kusal,kus,kusa1250,dgb mmp,4
 GHA1150,GH,twi,twi,twii1234,akn,4
 GHA1150,GH,mossi,mos,moss1236,moo,4
 GHA1150,GH,english,eng,stan1293,eng,4
-GHA1151,GH,frafra,gur,fare1241,grn,4
+GHA1151,GH,frafra,gur,fraf1238,grn,4
 GHA1151,GH,hausa,hau,haus1257,hau,4
 GHA1151,GH,english,eng,stan1293,eng,4
 GHA1151,GH,kusal,kus,kusa1250,dgb mmp,4
@@ -11843,7 +11843,7 @@ GHA1152,GH,kusal,kus,kusa1250,dgb mmp,4
 GHA1152,GH,akan,aka,akan1250,akn,4
 GHA1152,GH,english,eng,stan1293,eng,4
 GHA1152,GH,hausa,hau,haus1257,hau,4
-GHA1153,GH,gurumi,gur,fare1241,grn,4
+GHA1153,GH,gurumi,gur,guru1262,grn,4
 GHA1153,GH,kussasi,kus,kusa1250,dgb mmp,4
 GHA1153,GH,twi,twi,twii1234,akn,4
 GHA1153,GH,moshie,mos,moss1236,moo,4
@@ -11915,7 +11915,7 @@ GHA1177,GH,mossi,mos,moss1236,moo,5
 GHA1177,GH,french,fra,stan1290,fre,5
 GHA1177,GH,akan,aka,akan1250,akn,5
 GHA1178,GH,sisala,sil ssl,sisa1248,ssa,5
-GHA1178,GH,gruni,gur,fare1241,grn,5
+GHA1178,GH,gruni,gur,guru1262,grn,5
 GHA1178,GH,hausa,hau,haus1257,hau,5
 GHA1178,GH,wale,wlx,wali1263,dga,5
 GHA1178,GH,twi,twi,twii1234,akn,5
@@ -14776,7 +14776,7 @@ KEN1153,KE,english,eng,stan1293,eng,3
 KEN1153,KE,taita,dav,tait1250,dbd,3
 KEN1154,KE,kiswahili,swh,swah1253,swa,3
 KEN1154,KE,english,eng,stan1293,eng,3
-KEN1154,KE,oromo,orc,waat1239,orb,3
+KEN1154,KE,oromo,orc gax,cent2303,orb,3
 KEN1155,KE,kikamba,kam,kamb1297,kba,3
 KEN1155,KE,kiswahili,swh,swah1253,swa,3
 KEN1155,KE,english,eng,stan1293,eng,3
@@ -20872,7 +20872,7 @@ MLW0103,MW,chilomwe,lon,mala1256,mua,4
 MLW0104,MW,chichewa,nya,chew1246,cic,1
 MLW0105,MW,chewa,nya,chew1246,cic,1
 MLW0106,MW,sena,swk,mala1475,sen,1
-MLW0107,MW,mang'anja,nya,nyan1308,cic,5
+MLW0107,MW,mang'anja,nya,mang1391,cic,5
 MLW0107,MW,chewa,nya,chew1246,cic,5
 MLW0107,MW,senayao,,,,5
 MLW0107,MW,tonga,tog,tong1321,cic sen,5
@@ -20918,17 +20918,17 @@ MLW0125,MW,chichewa,nya,chew1246,cic,2
 MLW0125,MW,sena,swk,mala1475,sen,2
 MLW0126,MW,chichewa,nya,chew1246,cic,2
 MLW0126,MW,sena,swk,mala1475,sen,2
-MLW0127,MW,mang'anja,nya,nyan1308,cic,2
+MLW0127,MW,mang'anja,nya,mang1391,cic,2
 MLW0127,MW,sena,swk,mala1475,sen,2
 MLW0128,MW,sena,swk,mala1475,sen,2
-MLW0128,MW,mang'anja,nya,nyan1308,cic,2
+MLW0128,MW,mang'anja,nya,mang1391,cic,2
 MLW0129,MW,sena,swk,mala1475,sen,3
 MLW0129,MW,chichewa,nya,chew1246,cic,3
 MLW0129,MW,english,eng,stan1293,eng,3
 MLW0130,MW,chichewa,nya,chew1246,cic,2
 MLW0130,MW,sena,swk,mala1475,sen,2
 MLW0131,MW,sena,swk,mala1475,sen,1
-MLW0132,MW,manga'nja,nya,nyan1308,cic,2
+MLW0132,MW,manga'nja,nya,mang1391,cic,2
 MLW0132,MW,sena,swk,mala1475,sen,2
 MLW0133,MW,chisena,swk,mala1475,sen,2
 MLW0133,MW,chichewa,nya,chew1246,cic,2
@@ -21107,13 +21107,13 @@ MLW0243,MW,tumbuka,tum,tumb1250,cic sen,6
 MLW0243,MW,ndali,ndh,ndal1241,mmw nyh,6
 MLW0243,MW,nyakyusa,,,,6
 MLW0243,MW,nkhonde,nyy,nkon1246,mmw nyh,6
-MLW0243,MW,sukwa,ndh,ndal1241,mmw nyh,6
+MLW0243,MW,sukwa,ndh,sukw1242,mmw nyh,6
 MLW0243,MW,chichewa,nya,chew1246,cic,6
 MLW0244,MW,tumbuka,tum,tumb1250,cic sen,4
 MLW0244,MW,ndali,ndh,ndal1241,mmw nyh,4
 MLW0244,MW,chichewa,nya,chew1246,cic,4
 MLW0244,MW,nkhonde,nyy,nkon1246,mmw nyh,4
-MLW0245,MW,sukwa,ndh,ndal1241,mmw nyh,3
+MLW0245,MW,sukwa,ndh,sukw1242,mmw nyh,3
 MLW0245,MW,ndali,ndh,ndal1241,mmw nyh,3
 MLW0245,MW,chichewa,nya,chew1246,cic,3
 MLW0246,MW,ndali,ndh,ndal1241,mmw nyh,2
@@ -21256,7 +21256,7 @@ MLW0317,MW,chichewa,nya,chew1246,cic,1
 MLW0318,MW,chichewa,nya,chew1246,cic,2
 MLW0318,MW,english,eng,stan1293,eng,2
 MLW0319,MW,chichewa,nya,chew1246,cic,1
-MLW0320,MW,sukwa,ndh,ndal1241,mmw nyh,2
+MLW0320,MW,sukwa,ndh,sukw1242,mmw nyh,2
 MLW0320,MW,ndali,ndh,ndal1241,mmw nyh,2
 MLW0321,MW,chiao,yao,yaoo1241,yao,2
 MLW0321,MW,chichewa,nya,chew1246,cic,2
@@ -21769,7 +21769,7 @@ MLW0583,MW,tumbuka,tum,tumb1250,cic sen,4
 MLW0583,MW,tonga,tog,tong1321,cic sen,4
 MLW0584,MW,chewa,nya,chew1246,cic,4
 MLW0584,MW,ndali,ndh,ndal1241,mmw nyh,4
-MLW0584,MW,sukwa,ndh,ndal1241,mmw nyh,4
+MLW0584,MW,sukwa,ndh,sukw1242,mmw nyh,4
 MLW0584,MW,tumbuka,tum,tumb1250,cic sen,4
 MLW0585,MW,tumbu,,,,2
 MLW0585,MW,chewa,nya,chew1246,cic,2
@@ -22281,25 +22281,25 @@ MLW0879,MW,sena,swk,mala1475,sen,2
 MLW0880,MW,sena,swk,mala1475,sen,1
 MLW0881,MW,sena,swk,mala1475,sen,1
 MLW0882,MW,sena/chewa,swk,,,2
-MLW0882,MW,mang'anja,nya,nyan1308,cic,2
+MLW0882,MW,mang'anja,nya,mang1391,cic,2
 MLW0883,MW,chewa,nya,chew1246,cic,1
 MLW0884,MW,chewa,nya,chew1246,cic,4
 MLW0884,MW,sena,swk,mala1475,sen,4
 MLW0884,MW,lomwe,lon,mala1256,mua,4
-MLW0884,MW,mang'anja,nya,nyan1308,cic,4
+MLW0884,MW,mang'anja,nya,mang1391,cic,4
 MLW0885,MW,chewa,nya,chew1246,cic,2
 MLW0885,MW,english,eng,stan1293,eng,2
 MLW0886,MW,chewa,nya,chew1246,cic,1
 MLW0887,MW,chewa,nya,chew1246,cic,2
 MLW0887,MW,sena,swk,mala1475,sen,2
 MLW0888,MW,chewa,nya,chew1246,cic,1
-MLW0889,MW,mang'anja,nya,nyan1308,cic,2
+MLW0889,MW,mang'anja,nya,mang1391,cic,2
 MLW0889,MW,chikunda,,,,2
 MLW0890,MW,chewa,nya,chew1246,cic,1
-MLW0891,MW,mang'anja,nya,nyan1308,cic,1
-MLW0892,MW,mang'anja,nya,nyan1308,cic,1
+MLW0891,MW,mang'anja,nya,mang1391,cic,1
+MLW0892,MW,mang'anja,nya,mang1391,cic,1
 MLW0893,MW,chewa,nya,chew1246,cic,1
-MLW0894,MW,mang'anja,nya,nyan1308,cic,3
+MLW0894,MW,mang'anja,nya,mang1391,cic,3
 MLW0894,MW,chewa,nya,chew1246,cic,3
 MLW0894,MW,sena,swk,mala1475,sen,3
 MLW0895,MW,chewa,nya,chew1246,cic,1
@@ -22687,7 +22687,7 @@ MLW1087,MW,khokhola,kzn,koko1267,eko mua,2
 MLW1088,MW,chewa,nya,chew1246,cic,1
 MLW1089,MW,chewa,nya,chew1246,cic,1
 MLW1090,MW,khokhola,kzn,koko1267,eko mua,3
-MLW1090,MW,mang'anja,nya,nyan1308,cic,3
+MLW1090,MW,mang'anja,nya,mang1391,cic,3
 MLW1090,MW,chewa,nya,chew1246,cic,3
 MLW1091,MW,chewa,nya,chew1246,cic,2
 MLW1091,MW,khokhola,kzn,koko1267,eko mua,2
@@ -25427,7 +25427,7 @@ MOZ0019,MZ,portugues,por,port1283,por,2
 MOZ0020,MZ,bitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,2
 MOZ0020,MZ,potugues,por,port1283,por,2
 MOZ0021,MZ,chitswa,tsc,tswa1255,rga tsn,3
-MOZ0021,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0021,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0021,MZ,portugues,por,port1283,por,3
 MOZ0022,MZ,matsua,tsc,tswa1255,rga tsn,3
 MOZ0022,MZ,bitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,3
@@ -25443,7 +25443,7 @@ MOZ0025,MZ,portugues,por,port1283,por,2
 MOZ0025,MZ,chitswa,tsc,tswa1255,rga tsn,2
 MOZ0026,MZ,sena,seh,nucl1396,sen,3
 MOZ0026,MZ,portugues,por,port1283,por,3
-MOZ0026,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0026,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0027,MZ,portugues,por,port1283,por,2
 MOZ0027,MZ,matsua,tsc,tswa1255,rga tsn,2
 MOZ0028,MZ,portugues,por,port1283,por,2
@@ -25595,7 +25595,7 @@ MOZ0098,MZ,portugues,por,port1283,por,2
 MOZ0099,MZ,macua,mgh,makh1261,mua,4
 MOZ0099,MZ,portugues,por,port1283,por,4
 MOZ0099,MZ,chuabo,chw,chuw1238,eko mua,4
-MOZ0099,MZ,shona,ndc,ndau1241,shn,4
+MOZ0099,MZ,shona,sna,shon1251,shn,4
 MOZ0100,MZ,macua,mgh,makh1261,mua,1
 MOZ0101,MZ,portugues,por,port1283,por,2
 MOZ0101,MZ,macua,mgh,makh1261,mua,2
@@ -25678,14 +25678,14 @@ MOZ0139,MZ,sena,seh,nucl1396,sen,1
 MOZ0140,MZ,chuabo,chw,chuw1238,eko mua,2
 MOZ0140,MZ,portugues,por,port1283,por,2
 MOZ0141,MZ,portugues,por,port1283,por,4
-MOZ0141,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0141,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0141,MZ,chuabo,chw,chuw1238,eko mua,4
 MOZ0141,MZ,lomue,ngl,lomw1241,mua,4
 MOZ0142,MZ,portugues,por,port1283,por,3
 MOZ0142,MZ,sena,seh,nucl1396,sen,3
 MOZ0142,MZ,chuabo,chw,chuw1238,eko mua,3
 MOZ0143,MZ,sena,seh,nucl1396,sen,3
-MOZ0143,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0143,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0143,MZ,portugues,por,port1283,por,3
 MOZ0144,MZ,portugues,por,port1283,por,2
 MOZ0144,MZ,sena,seh,nucl1396,sen,2
@@ -25795,21 +25795,21 @@ MOZ0183,MZ,portugues,por,port1283,por,2
 MOZ0184,MZ,nhungue,mxc,hung1277,shn,1
 MOZ0185,MZ,portugues,por,port1283,por,3
 MOZ0185,MZ,sena,seh,nucl1396,sen,3
-MOZ0185,MZ,ndau,ndc,ndau1241,shn,3
-MOZ0186,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0185,MZ,ndau,ndc,nucl1378,shn,3
+MOZ0186,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0186,MZ,nhungue,mxc,hung1277,shn,2
 MOZ0187,MZ,tewe,twx,tewe1238,shn,2
 MOZ0187,MZ,portugues,por,port1283,por,2
 MOZ0188,MZ,tewe,twx,tewe1238,shn,2
 MOZ0188,MZ,portugues,por,port1283,por,2
 MOZ0189,MZ,portugues,por,port1283,por,4
-MOZ0189,MZ,shona,ndc,ndau1241,shn,4
+MOZ0189,MZ,shona,sna,shon1251,shn,4
 MOZ0189,MZ,tewe,twx,tewe1238,shn,4
 MOZ0189,MZ,chibárue,,,,4
 MOZ0190,MZ,portugues,por,port1283,por,4
 MOZ0190,MZ,tewe,twx,tewe1238,shn,4
 MOZ0190,MZ,sena,seh,nucl1396,sen,4
-MOZ0190,MZ,shona,ndc,ndau1241,shn,4
+MOZ0190,MZ,shona,sna,shon1251,shn,4
 MOZ0191,MZ,portugues,por,port1283,por,1
 MOZ0192,MZ,tewe,twx,tewe1238,shn,1
 MOZ0193,MZ,portugues,por,port1283,por,3
@@ -25871,7 +25871,7 @@ MOZ0215,MZ,portugues,por,port1283,por,2
 MOZ0216,MZ,tacuane,tke,takw1238,eko mua,3
 MOZ0216,MZ,chewa,nya,chew1246,cic,3
 MOZ0216,MZ,portugues,por,port1283,por,3
-MOZ0217,MZ,ndau,ndc,ndau1241,shn,1
+MOZ0217,MZ,ndau,ndc,nucl1378,shn,1
 MOZ0218,MZ,xiteu,twx,tewe1238,shn,1
 MOZ0219,MZ,sena,seh,nucl1396,sen,3
 MOZ0219,MZ,tewe,twx,tewe1238,shn,3
@@ -25888,13 +25888,13 @@ MOZ0222,MZ,maronga,rng,rong1268,rga,5
 MOZ0222,MZ,tewe,twx,tewe1238,shn,5
 MOZ0223,MZ,tewe,twx,tewe1238,shn,5
 MOZ0223,MZ,sena,seh,nucl1396,sen,5
-MOZ0223,MZ,ndau,ndc,ndau1241,shn,5
+MOZ0223,MZ,ndau,ndc,nucl1378,shn,5
 MOZ0223,MZ,portugues,por,port1283,por,5
 MOZ0223,MZ,ingles,eng,stan1293,eng,5
 MOZ0224,MZ,portugues,por,port1283,por,4
 MOZ0224,MZ,ingles,eng,stan1293,eng,4
 MOZ0224,MZ,sena,seh,nucl1396,sen,4
-MOZ0224,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0224,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0225,MZ,portugues,por,port1283,por,2
 MOZ0225,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,2
 MOZ0226,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,2
@@ -25978,7 +25978,7 @@ MOZ0270,MZ,sena,seh,nucl1396,sen,2
 MOZ0270,MZ,portugues,por,port1283,por,2
 MOZ0271,MZ,portugues,por,port1283,por,4
 MOZ0271,MZ,sena,seh,nucl1396,sen,4
-MOZ0271,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0271,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0271,MZ,magorongosa,,,,4
 MOZ0272,MZ,portugues,por,port1283,por,3
 MOZ0272,MZ,sena,seh,nucl1396,sen,3
@@ -26027,12 +26027,12 @@ MOZ0293,MZ,portugues,por,port1283,por,2
 MOZ0294,MZ,magorongose,,,,2
 MOZ0294,MZ,sena,seh,nucl1396,sen,2
 MOZ0295,MZ,sena,seh,nucl1396,sen,4
-MOZ0295,MZ,ndau,ndc,ndau1241,shn,4
-MOZ0295,MZ,shona,ndc,ndau1241,shn,4
+MOZ0295,MZ,ndau,ndc,nucl1378,shn,4
+MOZ0295,MZ,shona,sna,shon1251,shn,4
 MOZ0295,MZ,portugues,por,port1283,por,4
 MOZ0296,MZ,portugues,por,port1283,por,3
 MOZ0296,MZ,sena,seh,nucl1396,sen,3
-MOZ0296,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0296,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0297,MZ,portugues,por,port1283,por,3
 MOZ0297,MZ,sena,seh,nucl1396,sen,3
 MOZ0297,MZ,lolo,llb,lolo1261,eko mua,3
@@ -26144,7 +26144,7 @@ MOZ0337,MZ,nhungue,mxc,hung1277,shn,1
 MOZ0338,MZ,nhungue,mxc,hung1277,shn,1
 MOZ0339,MZ,nhungue,mxc,hung1277,shn,3
 MOZ0339,MZ,portugues,por,port1283,por,3
-MOZ0339,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0339,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0340,MZ,nhungue,mxc,hung1277,shn,2
 MOZ0340,MZ,portugues,por,port1283,por,2
 MOZ0341,MZ,portugues,por,port1283,por,2
@@ -26162,26 +26162,26 @@ MOZ0346,MZ,sena,seh,nucl1396,sen,1
 MOZ0347,MZ,portugues,por,port1283,por,4
 MOZ0347,MZ,chiute,twx,tewe1238,shn,4
 MOZ0347,MZ,chimanica,mxc,many1258,shn,4
-MOZ0347,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0347,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0348,MZ,cimanica,mxc,many1258,shn,3
 MOZ0348,MZ,shangana,tso,chan1318,tsn,3
 MOZ0348,MZ,portugues,por,port1283,por,3
 MOZ0349,MZ,tewe,twx,tewe1238,shn,3
-MOZ0349,MZ,shona,ndc,ndau1241,shn,3
-MOZ0349,MZ,ndau,ndc,ndau1241,shn,3
-MOZ0350,MZ,shona,ndc,ndau1241,shn,3
+MOZ0349,MZ,shona,sna,shon1251,shn,3
+MOZ0349,MZ,ndau,ndc,nucl1378,shn,3
+MOZ0350,MZ,shona,sna,shon1251,shn,3
 MOZ0350,MZ,chimanyca,mxc,many1258,shn,3
 MOZ0350,MZ,tewe,twx,tewe1238,shn,3
-MOZ0351,MZ,chona,ndc,ndau1241,shn,1
+MOZ0351,MZ,chona,sna,shon1251,shn,1
 MOZ0352,MZ,sumanica,,,,1
 MOZ0353,MZ,chuabo,chw,chuw1238,eko mua,1
 MOZ0354,MZ,portugues,por,port1283,por,1
-MOZ0355,MZ,ndau,ndc,ndau1241,shn,1
+MOZ0355,MZ,ndau,ndc,nucl1378,shn,1
 MOZ0356,MZ,sena,seh,nucl1396,sen,1
 MOZ0357,MZ,sena,seh,nucl1396,sen,1
 MOZ0358,MZ,portugues,por,port1283,por,3
 MOZ0358,MZ,sena,seh,nucl1396,sen,3
-MOZ0358,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0358,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0359,MZ,sena,seh,nucl1396,sen,1
 MOZ0360,MZ,sena,seh,nucl1396,sen,1
 MOZ0361,MZ,portugues,por,port1283,por,3
@@ -26253,7 +26253,7 @@ MOZ0388,MZ,portugues,por,port1283,por,2
 MOZ0389,MZ,portugues,por,port1283,por,3
 MOZ0389,MZ,nhungue,mxc,hung1277,shn,3
 MOZ0389,MZ,cheua,nya,chew1246,cic,3
-MOZ0390,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0390,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0390,MZ,portugues,por,port1283,por,2
 MOZ0391,MZ,portugues,por,port1283,por,2
 MOZ0391,MZ,manhungue,mxc,many1258,shn,2
@@ -26321,21 +26321,21 @@ MOZ0414,MZ,portugues,por,port1283,por,4
 MOZ0414,MZ,nyanja,nya,nucl1395,cic,4
 MOZ0414,MZ,cheua,nya,chew1246,cic,4
 MOZ0414,MZ,angone,,,,4
-MOZ0415,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0415,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0415,MZ,portugues,por,port1283,por,3
 MOZ0415,MZ,angone,,,,3
 MOZ0416,MZ,manhungue,mxc,many1258,shn,2
 MOZ0416,MZ,portugues,por,port1283,por,2
-MOZ0417,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0417,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0417,MZ,portugues,por,port1283,por,2
 MOZ0418,MZ,sena,seh,nucl1396,sen,4
-MOZ0418,MZ,ndau,ndc,ndau1241,shn,4
-MOZ0418,MZ,chona,ndc,ndau1241,shn,4
+MOZ0418,MZ,ndau,ndc,nucl1378,shn,4
+MOZ0418,MZ,chona,sna,shon1251,shn,4
 MOZ0418,MZ,portugues,por,port1283,por,4
 MOZ0419,MZ,sena,seh,nucl1396,sen,3
 MOZ0419,MZ,portugues,por,port1283,por,3
 MOZ0419,MZ,ingles,eng,stan1293,eng,3
-MOZ0420,MZ,ndau,ndc,ndau1241,shn,5
+MOZ0420,MZ,ndau,ndc,nucl1378,shn,5
 MOZ0420,MZ,sena,seh,nucl1396,sen,5
 MOZ0420,MZ,matewe,twx,tewe1238,shn,5
 MOZ0420,MZ,mabarwe,,,,5
@@ -26344,12 +26344,12 @@ MOZ0421,MZ,portugues,por,port1283,por,2
 MOZ0421,MZ,lomue,ngl,lomw1241,mua,2
 MOZ0422,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,2
 MOZ0422,MZ,portugues,por,port1283,por,2
-MOZ0423,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0423,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0423,MZ,portugues,por,port1283,por,2
 MOZ0424,MZ,changana,tso,chan1318,tsn,4
 MOZ0424,MZ,chitsua,tsc,tswa1255,rga tsn,4
 MOZ0424,MZ,portugues,por,port1283,por,4
-MOZ0424,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0424,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0425,MZ,portugues,por,port1283,por,2
 MOZ0425,MZ,lomué,ngl,lomw1241,mua,2
 MOZ0426,MZ,lomue,ngl,lomw1241,mua,2
@@ -26464,7 +26464,7 @@ MOZ0470,MZ,portugues,por,port1283,por,4
 MOZ0470,MZ,ingles,eng,stan1293,eng,4
 MOZ0470,MZ,nyanja,nya,nucl1395,cic,4
 MOZ0470,MZ,nyungue,nyu,nyun1248,sen,4
-MOZ0471,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0471,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0471,MZ,portugues,por,port1283,por,4
 MOZ0471,MZ,sena,seh,nucl1396,sen,4
 MOZ0471,MZ,angone,,,,4
@@ -26473,8 +26473,8 @@ MOZ0472,MZ,chichewa,nya,chew1246,cic,3
 MOZ0472,MZ,ingles,eng,stan1293,eng,3
 MOZ0473,MZ,ingles,eng,stan1293,eng,4
 MOZ0473,MZ,portugues,por,port1283,por,4
-MOZ0473,MZ,chona,ndc,ndau1241,shn,4
-MOZ0473,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0473,MZ,chona,sna,shon1251,shn,4
+MOZ0473,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0474,MZ,portugues,por,port1283,por,3
 MOZ0474,MZ,sena,seh,nucl1396,sen,3
 MOZ0474,MZ,chuabo,chw,chuw1238,eko mua,3
@@ -26482,13 +26482,13 @@ MOZ0475,MZ,portugues,por,port1283,por,2
 MOZ0475,MZ,sena,seh,nucl1396,sen,2
 MOZ0476,MZ,portugues,por,port1283,por,3
 MOZ0476,MZ,sena,seh,nucl1396,sen,3
-MOZ0476,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0476,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0477,MZ,sena,seh,nucl1396,sen,2
 MOZ0477,MZ,portugues,por,port1283,por,2
 MOZ0478,MZ,sena,seh,nucl1396,sen,2
 MOZ0478,MZ,portugues,por,port1283,por,2
 MOZ0479,MZ,portugues,por,port1283,por,3
-MOZ0479,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0479,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0479,MZ,sena,seh,nucl1396,sen,3
 MOZ0480,MZ,portugues,por,port1283,por,2
 MOZ0480,MZ,changana,tso,chan1318,tsn,2
@@ -26500,13 +26500,13 @@ MOZ0483,MZ,portugues,por,port1283,por,2
 MOZ0483,MZ,sena,seh,nucl1396,sen,2
 MOZ0484,MZ,sena,seh,nucl1396,sen,3
 MOZ0484,MZ,portugues,por,port1283,por,3
-MOZ0484,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0484,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0485,MZ,portugues,por,port1283,por,2
-MOZ0485,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0485,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0486,MZ,nadau,,,,2
 MOZ0486,MZ,portugues,por,port1283,por,2
 MOZ0487,MZ,sena,seh,nucl1396,sen,3
-MOZ0487,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0487,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0487,MZ,portugues,por,port1283,por,3
 MOZ0488,MZ,sena,seh,nucl1396,sen,2
 MOZ0488,MZ,portugues,por,port1283,por,2
@@ -26514,12 +26514,12 @@ MOZ0489,MZ,portugues,por,port1283,por,2
 MOZ0489,MZ,sena,seh,nucl1396,sen,2
 MOZ0490,MZ,portugues,por,port1283,por,3
 MOZ0490,MZ,sena,seh,nucl1396,sen,3
-MOZ0490,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0490,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0491,MZ,sena,seh,nucl1396,sen,2
 MOZ0491,MZ,portugues,por,port1283,por,2
 MOZ0492,MZ,portugues,por,port1283,por,3
 MOZ0492,MZ,sena,seh,nucl1396,sen,3
-MOZ0492,MZ,shona,ndc,ndau1241,shn,3
+MOZ0492,MZ,shona,sna,shon1251,shn,3
 MOZ0493,MZ,portugues,por,port1283,por,2
 MOZ0493,MZ,sena,seh,nucl1396,sen,2
 MOZ0494,MZ,sena,seh,nucl1396,sen,2
@@ -26531,7 +26531,7 @@ MOZ0496,MZ,sena,seh,nucl1396,sen,6
 MOZ0496,MZ,portugues,por,port1283,por,6
 MOZ0496,MZ,changana,tso,chan1318,tsn,6
 MOZ0496,MZ,ronga,rng,rong1268,rga,6
-MOZ0496,MZ,chona,ndc,ndau1241,shn,6
+MOZ0496,MZ,chona,sna,shon1251,shn,6
 MOZ0496,MZ,matsua,tsc,tswa1255,rga tsn,6
 MOZ0497,MZ,manhungue,mxc,many1258,shn,2
 MOZ0497,MZ,portugues,por,port1283,por,2
@@ -26539,7 +26539,7 @@ MOZ0498,MZ,manhungue,mxc,many1258,shn,1
 MOZ0499,MZ,portugues,por,port1283,por,4
 MOZ0499,MZ,nyungue,nyu,nyun1248,sen,4
 MOZ0499,MZ,cheua,nya,chew1246,cic,4
-MOZ0499,MZ,chona,ndc,ndau1241,shn,4
+MOZ0499,MZ,chona,sna,shon1251,shn,4
 MOZ0500,MZ,portugues,por,port1283,por,2
 MOZ0500,MZ,nyungue,nyu,nyun1248,sen,2
 MOZ0501,MZ,nyungue,nyu,nyun1248,sen,3
@@ -26555,7 +26555,7 @@ MOZ0505,MZ,portugues,por,port1283,por,3
 MOZ0505,MZ,chuabo,chw,chuw1238,eko mua,3
 MOZ0505,MZ,macua,mgh,makh1261,mua,3
 MOZ0506,MZ,nhungue,mxc,hung1277,shn,3
-MOZ0506,MZ,chona,ndc,ndau1241,shn,3
+MOZ0506,MZ,chona,sna,shon1251,shn,3
 MOZ0506,MZ,portugues,por,port1283,por,3
 MOZ0507,MZ,portugues,por,port1283,por,4
 MOZ0507,MZ,nhungwe,nyu,nyun1248,sen,4
@@ -26609,8 +26609,8 @@ MOZ0526,MZ,chuabo,chw,chuw1238,eko mua,2
 MOZ0526,MZ,portugues,por,port1283,por,2
 MOZ0527,MZ,portugues,por,port1283,por,4
 MOZ0527,MZ,sena,seh,nucl1396,sen,4
-MOZ0527,MZ,ndau,ndc,ndau1241,shn,4
-MOZ0527,MZ,chona,ndc,ndau1241,shn,4
+MOZ0527,MZ,ndau,ndc,nucl1378,shn,4
+MOZ0527,MZ,chona,sna,shon1251,shn,4
 MOZ0528,MZ,portugues,por,port1283,por,3
 MOZ0528,MZ,nharinga,mis,,,3
 MOZ0528,MZ,chuabo,chw,chuw1238,eko mua,3
@@ -26729,7 +26729,7 @@ MOZ0579,MZ,ronga,rng,rong1268,rga,2
 MOZ0580,MZ,changana,tso,chan1318,tsn,1
 MOZ0581,MZ,portugues,por,port1283,por,4
 MOZ0581,MZ,sena,seh,nucl1396,sen,4
-MOZ0581,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0581,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0581,MZ,changana,tso,chan1318,tsn,4
 MOZ0582,MZ,portugues,por,port1283,por,3
 MOZ0582,MZ,machope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,3
@@ -26807,7 +26807,7 @@ MOZ0617,MZ,portugues,por,port1283,por,2
 MOZ0618,MZ,changana,tso,chan1318,tsn,2
 MOZ0618,MZ,portugues,por,port1283,por,2
 MOZ0619,MZ,changana,tso,chan1318,tsn,3
-MOZ0619,MZ,shona,ndc,ndau1241,shn,3
+MOZ0619,MZ,shona,sna,shon1251,shn,3
 MOZ0619,MZ,portugues,por,port1283,por,3
 MOZ0620,MZ,portugues,por,port1283,por,3
 MOZ0620,MZ,changana,tso,chan1318,tsn,3
@@ -27040,7 +27040,7 @@ MOZ0729,MZ,sena,seh,nucl1396,sen,3
 MOZ0729,MZ,tchitchewa,nya,chew1246,cic,3
 MOZ0730,MZ,portugues,por,port1283,por,4
 MOZ0730,MZ,sena,seh,nucl1396,sen,4
-MOZ0730,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0730,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0730,MZ,tchitchewa,nya,chew1246,cic,4
 MOZ0731,MZ,sena,seh,nucl1396,sen,2
 MOZ0731,MZ,portugues,por,port1283,por,2
@@ -27053,14 +27053,14 @@ MOZ0735,MZ,nyungue,nyu,nyun1248,sen,3
 MOZ0735,MZ,sena,seh,nucl1396,sen,3
 MOZ0736,MZ,sena,seh,nucl1396,sen,3
 MOZ0736,MZ,portugues,por,port1283,por,3
-MOZ0736,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0736,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0737,MZ,sena,seh,nucl1396,sen,2
 MOZ0737,MZ,portugues,por,port1283,por,2
 MOZ0738,MZ,portugues,por,port1283,por,2
 MOZ0738,MZ,sena,seh,nucl1396,sen,2
 MOZ0739,MZ,portugues,por,port1283,por,3
 MOZ0739,MZ,sena,seh,nucl1396,sen,3
-MOZ0739,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0739,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0740,MZ,portugues,por,port1283,por,2
 MOZ0740,MZ,sena,seh,nucl1396,sen,2
 MOZ0741,MZ,portugues,por,port1283,por,3
@@ -27232,7 +27232,7 @@ MOZ0822,MZ,portugues,por,port1283,por,2
 MOZ0823,MZ,sena,seh,nucl1396,sen,1
 MOZ0824,MZ,sena,seh,nucl1396,sen,1
 MOZ0825,MZ,sena,seh,nucl1396,sen,4
-MOZ0825,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0825,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0825,MZ,portugues,por,port1283,por,4
 MOZ0825,MZ,changana,tso,chan1318,tsn,4
 MOZ0826,MZ,sena,seh,nucl1396,sen,1
@@ -27247,139 +27247,139 @@ MOZ0831,MZ,sena,seh,nucl1396,sen,1
 MOZ0832,MZ,sena,seh,nucl1396,sen,2
 MOZ0832,MZ,portugues,por,port1283,por,2
 MOZ0833,MZ,changana,tso,chan1318,tsn,4
-MOZ0833,MZ,ndau,ndc,ndau1241,shn,4
-MOZ0833,MZ,chona,ndc,ndau1241,shn,4
+MOZ0833,MZ,ndau,ndc,nucl1378,shn,4
+MOZ0833,MZ,chona,sna,shon1251,shn,4
 MOZ0833,MZ,portugues,por,port1283,por,4
 MOZ0834,MZ,changana,tso,chan1318,tsn,2
-MOZ0834,MZ,ndau,ndc,ndau1241,shn,2
-MOZ0835,MZ,ndau,ndc,ndau1241,shn,1
-MOZ0836,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0834,MZ,ndau,ndc,nucl1378,shn,2
+MOZ0835,MZ,ndau,ndc,nucl1378,shn,1
+MOZ0836,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0836,MZ,bitonga,toh,gito1238,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,2
-MOZ0837,MZ,ndau,ndc,ndau1241,shn,1
+MOZ0837,MZ,ndau,ndc,nucl1378,shn,1
 MOZ0838,MZ,changa,tso,chan1318,tsn,2
 MOZ0838,MZ,portugues,por,port1283,por,2
 MOZ0839,MZ,changana,tso,chan1318,tsn,2
 MOZ0839,MZ,portugues,por,port1283,por,2
 MOZ0840,MZ,changana,tso,chan1318,tsn,3
 MOZ0840,MZ,portugues,por,port1283,por,3
-MOZ0840,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0840,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0841,MZ,changana,tso,chan1318,tsn,3
-MOZ0841,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0841,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0841,MZ,ingles,eng,stan1293,eng,3
 MOZ0842,MZ,changana,tso,chan1318,tsn,2
-MOZ0842,MZ,ndau,ndc,ndau1241,shn,2
-MOZ0843,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0842,MZ,ndau,ndc,nucl1378,shn,2
+MOZ0843,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0843,MZ,changana,tso,chan1318,tsn,3
 MOZ0843,MZ,portugues,por,port1283,por,3
-MOZ0844,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0844,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0844,MZ,portugues,por,port1283,por,3
 MOZ0844,MZ,changana,tso,chan1318,tsn,3
-MOZ0845,MZ,ndau,ndc,ndau1241,shn,2
-MOZ0845,MZ,shona,ndc,ndau1241,shn,2
+MOZ0845,MZ,ndau,ndc,nucl1378,shn,2
+MOZ0845,MZ,shona,sna,shon1251,shn,2
 MOZ0846,MZ,changana,tso,chan1318,tsn,1
 MOZ0847,MZ,changana,tso,chan1318,tsn,2
-MOZ0847,MZ,shona,ndc,ndau1241,shn,2
+MOZ0847,MZ,shona,sna,shon1251,shn,2
 MOZ0848,MZ,changana,tso,chan1318,tsn,2
-MOZ0848,MZ,shona,ndc,ndau1241,shn,2
-MOZ0849,MZ,shona,ndc,ndau1241,shn,2
-MOZ0849,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0848,MZ,shona,sna,shon1251,shn,2
+MOZ0849,MZ,shona,sna,shon1251,shn,2
+MOZ0849,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0850,MZ,portugues,por,port1283,por,4
 MOZ0850,MZ,ingles,eng,stan1293,eng,4
-MOZ0850,MZ,shona,ndc,ndau1241,shn,4
+MOZ0850,MZ,shona,sna,shon1251,shn,4
 MOZ0850,MZ,chope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,4
 MOZ0851,MZ,portugues,por,port1283,por,3
-MOZ0851,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0851,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0851,MZ,ingles,eng,stan1293,eng,3
 MOZ0852,MZ,portugues,por,port1283,por,2
-MOZ0852,MZ,ndau,ndc,ndau1241,shn,2
-MOZ0853,MZ,ndau,ndc,ndau1241,shn,1
+MOZ0852,MZ,ndau,ndc,nucl1378,shn,2
+MOZ0853,MZ,ndau,ndc,nucl1378,shn,1
 MOZ0854,MZ,changana,tso,chan1318,tsn,3
-MOZ0854,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0854,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0854,MZ,portugues,por,port1283,por,3
 MOZ0855,MZ,ingles,eng,stan1293,eng,4
 MOZ0855,MZ,portugues,por,port1283,por,4
-MOZ0855,MZ,shona,ndc,ndau1241,shn,4
-MOZ0855,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0855,MZ,shona,sna,shon1251,shn,4
+MOZ0855,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0856,MZ,portugues,por,port1283,por,3
-MOZ0856,MZ,ndau,ndc,ndau1241,shn,3
-MOZ0856,MZ,shona,ndc,ndau1241,shn,3
+MOZ0856,MZ,ndau,ndc,nucl1378,shn,3
+MOZ0856,MZ,shona,sna,shon1251,shn,3
 MOZ0857,MZ,portugues,por,port1283,por,2
-MOZ0857,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0857,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0858,MZ,portugues,por,port1283,por,2
-MOZ0858,MZ,ndau,ndc,ndau1241,shn,2
-MOZ0859,MZ,shona,ndc,ndau1241,shn,5
+MOZ0858,MZ,ndau,ndc,nucl1378,shn,2
+MOZ0859,MZ,shona,sna,shon1251,shn,5
 MOZ0859,MZ,sena,seh,nucl1396,sen,5
-MOZ0859,MZ,ndau,ndc,ndau1241,shn,5
+MOZ0859,MZ,ndau,ndc,nucl1378,shn,5
 MOZ0859,MZ,changana,tso,chan1318,tsn,5
 MOZ0859,MZ,portugues,por,port1283,por,5
 MOZ0860,MZ,matewe,twx,tewe1238,shn,2
 MOZ0860,MZ,portugues,por,port1283,por,2
 MOZ0861,MZ,portugues,por,port1283,por,3
 MOZ0861,MZ,makua,mgh mhm vmk vmw xmc xsq,maku1279,mua,3
-MOZ0861,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0861,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0862,MZ,portugues,por,port1283,por,2
-MOZ0862,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0862,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0863,MZ,portugues,por,port1283,por,2
-MOZ0863,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0863,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0864,MZ,portugues,por,port1283,por,2
-MOZ0864,MZ,ndau,ndc,ndau1241,shn,2
-MOZ0865,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0864,MZ,ndau,ndc,nucl1378,shn,2
+MOZ0865,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0865,MZ,portugues,por,port1283,por,4
 MOZ0865,MZ,cena,,,,4
-MOZ0865,MZ,shona,ndc,ndau1241,shn,4
+MOZ0865,MZ,shona,sna,shon1251,shn,4
 MOZ0866,MZ,matheu,,,,4
 MOZ0866,MZ,cena,,,,4
-MOZ0866,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0866,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0866,MZ,portugues,por,port1283,por,4
-MOZ0867,MZ,ndau,ndc,ndau1241,shn,1
+MOZ0867,MZ,ndau,ndc,nucl1378,shn,1
 MOZ0868,MZ,sena,seh,nucl1396,sen,1
-MOZ0869,MZ,ndau,ndc,ndau1241,shn,1
-MOZ0870,MZ,ndau,ndc,ndau1241,shn,1
+MOZ0869,MZ,ndau,ndc,nucl1378,shn,1
+MOZ0870,MZ,ndau,ndc,nucl1378,shn,1
 MOZ0871,MZ,portugues,por,port1283,por,3
-MOZ0871,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0871,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0871,MZ,sena,seh,nucl1396,sen,3
-MOZ0872,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0872,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0872,MZ,portugues,por,port1283,por,2
 MOZ0873,MZ,portugues,por,port1283,por,2
 MOZ0873,MZ,sena,seh,nucl1396,sen,2
 MOZ0874,MZ,portugues,por,port1283,por,1
-MOZ0875,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0875,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0875,MZ,portugues,por,port1283,por,2
-MOZ0876,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0876,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0876,MZ,macena,,,,4
 MOZ0876,MZ,massua,,,,4
 MOZ0876,MZ,portugues,por,port1283,por,4
 MOZ0877,MZ,portugues,por,port1283,por,3
-MOZ0877,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0877,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0877,MZ,changana,tso,chan1318,tsn,3
 MOZ0878,MZ,portugues,por,port1283,por,2
-MOZ0878,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0878,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0879,MZ,pportugues,por,port1283,por,4
 MOZ0879,MZ,chitsua,tsc,tswa1255,rga tsn,4
 MOZ0879,MZ,sena,seh,nucl1396,sen,4
-MOZ0879,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0879,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0880,MZ,portugues,por,port1283,por,4
-MOZ0880,MZ,ndau,ndc,ndau1241,shn,4
+MOZ0880,MZ,ndau,ndc,nucl1378,shn,4
 MOZ0880,MZ,sena,seh,nucl1396,sen,4
-MOZ0880,MZ,shona,ndc,ndau1241,shn,4
-MOZ0881,MZ,ndau,ndc,ndau1241,shn,1
+MOZ0880,MZ,shona,sna,shon1251,shn,4
+MOZ0881,MZ,ndau,ndc,nucl1378,shn,1
 MOZ0882,MZ,chuabo,chw,chuw1238,eko mua,2
 MOZ0882,MZ,portugues,por,port1283,por,2
-MOZ0883,MZ,ndau,ndc,ndau1241,shn,2
+MOZ0883,MZ,ndau,ndc,nucl1378,shn,2
 MOZ0883,MZ,portugues,por,port1283,por,2
 MOZ0884,MZ,portugues,por,port1283,por,3
-MOZ0884,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0884,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0884,MZ,sena,seh,nucl1396,sen,3
 MOZ0885,MZ,portugues,por,port1283,por,1
 MOZ0886,MZ,portugues,por,port1283,por,3
-MOZ0886,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0886,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0886,MZ,sena,seh,nucl1396,sen,3
-MOZ0887,MZ,ndau,ndc,ndau1241,shn,3
+MOZ0887,MZ,ndau,ndc,nucl1378,shn,3
 MOZ0887,MZ,portugues,por,port1283,por,3
 MOZ0887,MZ,sena,seh,nucl1396,sen,3
 MOZ0888,MZ,sena,seh,nucl1396,sen,6
 MOZ0888,MZ,nhungue,mxc,hung1277,shn,6
-MOZ0888,MZ,shona,ndc,ndau1241,shn,6
+MOZ0888,MZ,shona,sna,shon1251,shn,6
 MOZ0888,MZ,nyanga,nya,nucl1395,cic,6
 MOZ0888,MZ,portugues,por,port1283,por,6
 MOZ0888,MZ,ingles,eng,stan1293,eng,6
@@ -27401,7 +27401,7 @@ MOZ0894,MZ,portugues,por,port1283,por,5
 MOZ0894,MZ,alemao,,,,5
 MOZ0894,MZ,shope,cce,chop1243,eko loz mua ndb rga ses stn swt tsn tsw ven xho zul,5
 MOZ0894,MZ,sena,seh,nucl1396,sen,5
-MOZ0894,MZ,ndau,ndc,ndau1241,shn,5
+MOZ0894,MZ,ndau,ndc,nucl1378,shn,5
 MOZ0895,MZ,portugues,por,port1283,por,2
 MOZ0895,MZ,ingles,eng,stan1293,eng,2
 MOZ0896,MZ,portugues,por,port1283,por,1
@@ -27735,7 +27735,7 @@ MOZ1053,MZ,changana,tso,chan1318,tsn,1
 MOZ1054,MZ,portugues,por,port1283,por,5
 MOZ1054,MZ,xiitswa,,,,5
 MOZ1054,MZ,changana,tso,chan1318,tsn,5
-MOZ1054,MZ,ndau,ndc,ndau1241,shn,5
+MOZ1054,MZ,ndau,ndc,nucl1378,shn,5
 MOZ1054,MZ,ingles,eng,stan1293,eng,5
 MOZ1055,MZ,matsua,tsc,tswa1255,rga tsn,3
 MOZ1055,MZ,portugues,por,port1283,por,3
@@ -27806,12 +27806,12 @@ MOZ1084,MZ,portugues,por,port1283,por,1
 MOZ1085,MZ,portugues,por,port1283,por,5
 MOZ1085,MZ,chuabo,chw,chuw1238,eko mua,5
 MOZ1085,MZ,sena,seh,nucl1396,sen,5
-MOZ1085,MZ,ndau,ndc,ndau1241,shn,5
+MOZ1085,MZ,ndau,ndc,nucl1378,shn,5
 MOZ1085,MZ,ingles,eng,stan1293,eng,5
 MOZ1086,MZ,portugues,por,port1283,por,2
 MOZ1086,MZ,ingles,eng,stan1293,eng,2
 MOZ1087,MZ,tsenga,,,,6
-MOZ1087,MZ,shona,ndc,ndau1241,shn,6
+MOZ1087,MZ,shona,sna,shon1251,shn,6
 MOZ1087,MZ,cheua,nya,chew1246,cic,6
 MOZ1087,MZ,sena,seh,nucl1396,sen,6
 MOZ1087,MZ,portugues,por,port1283,por,6
@@ -30777,12 +30777,12 @@ NAM1053,NA,oshiwambo,kua,kuan1247,mhu ndo,2
 NAM1053,NA,english,eng,stan1293,eng,2
 NAM1054,NA,oshiwambo,kua,kuan1247,mhu ndo,2
 NAM1054,NA,english,eng,stan1293,eng,2
-NAM1055,NA,oshiwambo (oshindongo),ndo,ndon1253,mhu ndo,1
-NAM1056,NA,oshiwambo (oshindongo),ndo,ndon1253,mhu ndo,1
+NAM1055,NA,oshiwambo (oshindongo),ndo,ndon1254,ndo,1
+NAM1056,NA,oshiwambo (oshindongo),ndo,ndon1254,ndo,1
 NAM1057,NA,english,eng,stan1293,eng,2
-NAM1057,NA,oshiwambo (oshindongo),ndo,ndon1253,mhu ndo,2
+NAM1057,NA,oshiwambo (oshindongo),ndo,ndon1254,ndo,2
 NAM1058,NA,english,eng,stan1293,eng,3
-NAM1058,NA,oshiwambo (oshindongo),ndo,ndon1253,mhu ndo,3
+NAM1058,NA,oshiwambo (oshindongo),ndo,ndon1254,ndo,3
 NAM1058,NA,afrikaans,afr,afri1274,afr,3
 NAM1059,NA,english,eng,stan1293,eng,5
 NAM1059,NA,afrikaans,afr,afri1274,afr,5
@@ -30858,7 +30858,7 @@ NAM1097,NA,afrikaans,afr,afri1274,afr,3
 NAM1097,NA,oshiwambo,kua,kuan1247,mhu ndo,3
 NAM1097,NA,english,eng,stan1293,eng,3
 NAM1098,NA,oshiwambo,kua,kuan1247,mhu ndo,1
-NAM1099,NA,oshiwambo (oshindongo),ndo,ndon1253,mhu ndo,1
+NAM1099,NA,oshiwambo (oshindongo),ndo,ndon1254,ndo,1
 NAM1100,NA,english,eng,stan1293,eng,2
 NAM1100,NA,oshiwambo,kua,kuan1247,mhu ndo,2
 NAM1101,NA,english,eng,stan1293,eng,2
@@ -34035,7 +34035,7 @@ NIG1325,NG,english,eng,stan1293,eng,2
 NIG1325,NG,hausa,hau,haus1257,hau,2
 NIG1326,NG,hausa,hau,haus1257,hau,2
 NIG1326,NG,english,eng,stan1293,eng,2
-NIG1327,NG,kataf,kcg,tyap1238,gwo,3
+NIG1327,NG,kataf,kcg,kata1265,gwo,3
 NIG1327,NG,hausa,hau,haus1257,hau,3
 NIG1327,NG,pidgin,pcm,nige1257,npi,3
 NIG1328,NG,yoruba,yor,yoru1245,yor,3
@@ -34145,9 +34145,9 @@ NIG1385,NG,atyap (kataf),,,,3
 NIG1386,NG,hausa,hau,haus1257,hau,3
 NIG1386,NG,kataf (atyap),kcg,kata1265,gwo,3
 NIG1386,NG,english,eng,stan1293,eng,3
-NIG1387,NG,kataf,kcg,tyap1238,gwo,2
+NIG1387,NG,kataf,kcg,kata1265,gwo,2
 NIG1387,NG,hausa,hau,haus1257,hau,2
-NIG1388,NG,kataf,kcg,tyap1238,gwo,4
+NIG1388,NG,kataf,kcg,kata1265,gwo,4
 NIG1388,NG,tiv,tiv,tivv1240,tiv,4
 NIG1388,NG,hausa,hau,haus1257,hau,4
 NIG1388,NG,pidgin,pcm,nige1257,npi,4
@@ -34157,9 +34157,9 @@ NIG1389,NG,atyap (kataf),,,,3
 NIG1390,NG,english,eng,stan1293,eng,3
 NIG1390,NG,hausa,hau,haus1257,hau,3
 NIG1390,NG,kataf (atyap),kcg,kata1265,gwo,3
-NIG1391,NG,kataf,kcg,tyap1238,gwo,2
+NIG1391,NG,kataf,kcg,kata1265,gwo,2
 NIG1391,NG,hausa,hau,haus1257,hau,2
-NIG1392,NG,kataf,kcg,tyap1238,gwo,2
+NIG1392,NG,kataf,kcg,kata1265,gwo,2
 NIG1392,NG,hausa,hau,haus1257,hau,2
 NIG1393,NG,hausa,hau,haus1257,hau,3
 NIG1393,NG,arabic,shu,chad1249,arn,3
@@ -44113,7 +44113,7 @@ TAN0074,TZ,kichaga,old,moch1256,cga,2
 TAN0075,TZ,kiswahili,swh,swah1253,swa,2
 TAN0075,TZ,kijaluo,luo,luok1236,luo,2
 TAN0076,TZ,kiswahili,swh,swah1253,swa,3
-TAN0076,TZ,kimeru,rwk,rwaa1238,cga,3
+TAN0076,TZ,kimeru,mer,nucl1387,kba kik,3
 TAN0076,TZ,kirangi,lag,lang1320,lgi,3
 TAN0077,TZ,kiswahili,swh,swah1253,swa,2
 TAN0077,TZ,kinyaturu,rim,nyat1246,rim,2
@@ -44186,12 +44186,12 @@ TAN0109,TZ,kingereza,eng,,eng,3
 TAN0110,TZ,kiswahili,swh,swah1253,swa,2
 TAN0110,TZ,kimasai,mas,masa1300,maa,2
 TAN0111,TZ,kiswahili,swh,swah1253,swa,3
-TAN0111,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,3
+TAN0111,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,3
 TAN0111,TZ,kiingereza,eng,,eng,3
 TAN0112,TZ,kiswahili,swh,swah1253,swa,2
 TAN0112,TZ,kimasai,mas,masa1300,maa,2
 TAN0113,TZ,kiswahili,swh,swah1253,swa,2
-TAN0113,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0113,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0114,TZ,kiswahili,swh,swah1253,swa,3
 TAN0114,TZ,kiingereza,eng,,eng,3
 TAN0114,TZ,kimbulu,irk,iraq1241,irq,3
@@ -44470,7 +44470,7 @@ TAN0244,TZ,kiswahili,swh,swah1253,swa,3
 TAN0244,TZ,kingereza,eng,,eng,3
 TAN0244,TZ,kihehe,heh,hehe1240,heh,3
 TAN0245,TZ,kiswahili,swh,swah1253,swa,2
-TAN0245,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0245,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0246,TZ,kiswahili,swh,swah1253,swa,2
 TAN0246,TZ,kibena,bez,bena1262,heh,2
 TAN0247,TZ,kiswahili,swh,swah1253,swa,2
@@ -45142,7 +45142,7 @@ TAN0602,TZ,kiswahili,swh,swah1253,swa,2
 TAN0602,TZ,kinyamwezi,nym,nyam1276,nym,2
 TAN0603,TZ,kiswahili,swh,swah1253,swa,3
 TAN0603,TZ,kiingereza,eng,,eng,3
-TAN0603,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,3
+TAN0603,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,3
 TAN0604,TZ,kiswahili,swh,swah1253,swa,4
 TAN0604,TZ,kiingereza,eng,,eng,4
 TAN0604,TZ,kirangi,lag,lang1320,lgi,4
@@ -45546,7 +45546,7 @@ TAN0793,TZ,kibungu,wun,bung1265,mmw,3
 TAN0793,TZ,kingoni,ngo,ngon1269,ngo,3
 TAN0794,TZ,kiswahili,swh,swah1253,swa,4
 TAN0794,TZ,kibungu,wun,bung1265,mmw,4
-TAN0794,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,4
+TAN0794,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,4
 TAN0794,TZ,kingoni,ngo,ngon1269,ngo,4
 TAN0795,TZ,kiswahili,swh,swah1253,swa,3
 TAN0795,TZ,kindendeule,dne,nden1249,mtb,3
@@ -45558,39 +45558,39 @@ TAN0797,TZ,kindendeleko,,,,3
 TAN0797,TZ,kingoni,ngo,ngon1269,ngo,3
 TAN0798,TZ,kiswahili,swh,swah1253,swa,3
 TAN0798,TZ,kikinga,zga,nucl1379,kga,3
-TAN0798,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,3
+TAN0798,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,3
 TAN0799,TZ,kiswahili,swh,swah1253,swa,2
 TAN0799,TZ,kindendeule,dne,nden1249,mtb,2
 TAN0800,TZ,kiswahili,swh,swah1253,swa,2
 TAN0800,TZ,kindendeule,dne,nden1249,mtb,2
 TAN0801,TZ,kiswahili,swh,swah1253,swa,3
-TAN0801,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,3
+TAN0801,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,3
 TAN0801,TZ,kifipa,fip,fipa1238,mmw,3
 TAN0802,TZ,kiswahili,swh,swah1253,swa,2
 TAN0802,TZ,kimalile,,,,2
 TAN0803,TZ,kiswahili,swh,swah1253,swa,2
 TAN0803,TZ,kisafwa,sbk,safw1238,mmw nyh,2
 TAN0804,TZ,kiswahili,swh,swah1253,swa,2
-TAN0804,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0804,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0805,TZ,kiswahili,swh,swah1253,swa,5
 TAN0805,TZ,kibena,bez,bena1262,heh,5
 TAN0805,TZ,kiingereza,eng,,eng,5
 TAN0805,TZ,kindamba,ndj,ndam1239,pog,5
 TAN0805,TZ,kipogoro,poy,pogo1243,pog,5
 TAN0806,TZ,kiswahili,swh,swah1253,swa,3
-TAN0806,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,3
+TAN0806,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,3
 TAN0806,TZ,kihehe,heh,hehe1240,heh,3
 TAN0807,TZ,kiswahili,swh,swah1253,swa,3
 TAN0807,TZ,kisafa,,,,3
 TAN0807,TZ,kibena,bez,bena1262,heh,3
 TAN0808,TZ,kiswahili,swh,swah1253,swa,3
 TAN0808,TZ,kiingereza,eng,,eng,3
-TAN0808,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,3
+TAN0808,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,3
 TAN0809,TZ,kiswahili,swh,swah1253,swa,2
 TAN0809,TZ,kindali,ndh,ndal1241,mmw nyh,2
 TAN0810,TZ,kiswahili,swh,swah1253,swa,5
 TAN0810,TZ,kifipa,fip,fipa1238,mmw,5
-TAN0810,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,5
+TAN0810,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,5
 TAN0810,TZ,kindali,ndh,ndal1241,mmw nyh,5
 TAN0810,TZ,kinyamwang,,,,5
 TAN0811,TZ,kiswahili,swh,swah1253,swa,2
@@ -45603,7 +45603,7 @@ TAN0813,TZ,kinyiha,nih nkt,nyik1249,nyh,2
 TAN0814,TZ,kiswahili,swh,swah1253,swa,5
 TAN0814,TZ,kinyia,,,,5
 TAN0814,TZ,kiwanji,wbi,vwan1235,heh kga ngo png,5
-TAN0814,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,5
+TAN0814,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,5
 TAN0814,TZ,kindali,ndh,ndal1241,mmw nyh,5
 TAN0815,TZ,kiswahili,swh,swah1253,swa,2
 TAN0815,TZ,kindalo,,,,2
@@ -45616,7 +45616,7 @@ TAN0818,TZ,kindali,ndh,ndal1241,mmw nyh,2
 TAN0819,TZ,kiswahili,swh,swah1253,swa,4
 TAN0819,TZ,kindali,ndh,ndal1241,mmw nyh,4
 TAN0819,TZ,kinyiha,nih nkt,nyik1249,nyh,4
-TAN0819,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,4
+TAN0819,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,4
 TAN0820,TZ,kiswahili,swh,swah1253,swa,3
 TAN0820,TZ,kindali,ndh,ndal1241,mmw nyh,3
 TAN0820,TZ,kisafwa,sbk,safw1238,mmw nyh,3
@@ -45656,7 +45656,7 @@ TAN0834,TZ,kiswahili,swh,swah1253,swa,3
 TAN0834,TZ,kifipa,fip,fipa1238,mmw,3
 TAN0834,TZ,kibungu,wun,bung1265,mmw,3
 TAN0835,TZ,kiswahili,swh,swah1253,swa,2
-TAN0835,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0835,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0836,TZ,kiswahili,swh,swah1253,swa,2
 TAN0836,TZ,kinyamwezi,nym,nyam1276,nym,2
 TAN0837,TZ,kiswahili,swh,swah1253,swa,2
@@ -45665,7 +45665,7 @@ TAN0838,TZ,kiswahili,swh,swah1253,swa,3
 TAN0838,TZ,kibungwa,,,,3
 TAN0838,TZ,kilungwa,mis,,,3
 TAN0839,TZ,kiswahili,swh,swah1253,swa,4
-TAN0839,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,4
+TAN0839,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,4
 TAN0839,TZ,kibungo,,,,4
 TAN0839,TZ,kinyamwanga,mwn,nyam1275,mmw,4
 TAN0840,TZ,kiswahili,swh,swah1253,swa,2
@@ -45682,7 +45682,7 @@ TAN0844,TZ,kingoni,ngo,ngon1269,ngo,3
 TAN0844,TZ,kinyamwanga,mwn,nyam1275,mmw,3
 TAN0845,TZ,kiswahili,swh,swah1253,swa,3
 TAN0845,TZ,kibungu,wun,bung1265,mmw,3
-TAN0845,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,3
+TAN0845,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,3
 TAN0846,TZ,kiswahili,swh,swah1253,swa,2
 TAN0846,TZ,kiluguru,ruf,lugu1238,kmi,2
 TAN0847,TZ,kiswahili,swh,swah1253,swa,3
@@ -45691,41 +45691,41 @@ TAN0847,TZ,kinyamwezi,nym,nyam1276,nym,3
 TAN0848,TZ,kiswahili,swh,swah1253,swa,2
 TAN0848,TZ,kibungo,,,,2
 TAN0849,TZ,kiswahili,swh,swah1253,swa,4
-TAN0849,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,4
+TAN0849,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,4
 TAN0849,TZ,kiingereza,eng,,eng,4
 TAN0849,TZ,kifaransa,,,,4
 TAN0850,TZ,kiswahili,swh,swah1253,swa,2
-TAN0850,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0850,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0851,TZ,kiswahili,swh,swah1253,swa,2
-TAN0851,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0851,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0852,TZ,kiswahili,swh,swah1253,swa,2
-TAN0852,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0852,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0853,TZ,kiswahili,swh,swah1253,swa,2
-TAN0853,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0853,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0854,TZ,kiswahili,swh,swah1253,swa,2
-TAN0854,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0854,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0855,TZ,kiswahili,swh,swah1253,swa,2
-TAN0855,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0855,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0856,TZ,kiswahili,swh,swah1253,swa,2
-TAN0856,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0856,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0857,TZ,kiswahili,swh,swah1253,swa,3
-TAN0857,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,3
+TAN0857,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,3
 TAN0857,TZ,kiingereza,eng,,eng,3
 TAN0858,TZ,kiswahili,swh,swah1253,swa,2
-TAN0858,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0858,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0859,TZ,kiswahili,swh,swah1253,swa,2
-TAN0859,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0859,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0860,TZ,kiswahili,swh,swah1253,swa,2
-TAN0860,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0860,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0861,TZ,kiswahili,swh,swah1253,swa,2
-TAN0861,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0861,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0862,TZ,kiswahili,swh,swah1253,swa,2
-TAN0862,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0862,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0863,TZ,kiswahili,swh,swah1253,swa,3
 TAN0863,TZ,kiingereza,eng,,eng,3
 TAN0863,TZ,kisukuma,suk,suku1261,skm,3
 TAN0864,TZ,kiswahili,swh,swah1253,swa,2
-TAN0864,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0864,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0865,TZ,kiswahili,swh,swah1253,swa,3
 TAN0865,TZ,kifipa,fip,fipa1238,mmw,3
 TAN0865,TZ,kibende,bdp,bend1258,buk cga com dbd gus heh hnd hya kba kga kgr kik kin kmi lda luy nbo nde ngo nko nym png pre rnd rny rru shm skm swa tal,3
@@ -45744,7 +45744,7 @@ TAN0869,TZ,kifipa,fip,fipa1238,mmw,5
 TAN0870,TZ,kiswahili,swh,swah1253,swa,2
 TAN0870,TZ,kipimbwe,piw,pimb1238,mmw,2
 TAN0871,TZ,kiswahili,swh,swah1253,swa,2
-TAN0871,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,2
+TAN0871,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,2
 TAN0872,TZ,kiswahili,swh,swah1253,swa,2
 TAN0872,TZ,kinyamwezi,nym,nyam1276,nym,2
 TAN0873,TZ,kiswahili,swh,swah1253,swa,3
@@ -45824,7 +45824,7 @@ TAN0899,TZ,kiwemba,bem,bemb1257,lmb,6
 TAN0899,TZ,kimambw,,,,6
 TAN0900,TZ,kiswahili,swh,swah1253,swa,3
 TAN0900,TZ,kifipa,fip,fipa1238,mmw,3
-TAN0900,TZ,kinyakyusa,nyy,nyak1260,mmw nyh,3
+TAN0900,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,3
 TAN0901,TZ,kiswahili,swh,swah1253,swa,2
 TAN0901,TZ,kifipa,fip,fipa1238,mmw,2
 TAN0902,TZ,kiswahili,swh,swah1253,swa,3
@@ -46535,17 +46535,17 @@ UGA0048,UG,runyankole,nyn,nyan1307,rny,4
 UGA0049,UG,english,eng,stan1293,eng,2
 UGA0049,UG,runyankole,nyn,nyan1307,rny,2
 UGA0058,UG,english,eng,stan1293,eng,3
-UGA0058,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0058,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0058,UG,rutooro,ttj,toor1238,rru,3
-UGA0059,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0059,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0059,UG,english,eng,stan1293,eng,3
 UGA0059,UG,luganda,lug,gand1255,lda,3
-UGA0060,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0060,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0060,UG,english,eng,stan1293,eng,2
-UGA0061,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0061,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0061,UG,english,eng,stan1293,eng,3
 UGA0061,UG,swahili,swh,swah1253,swa,3
-UGA0062,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0062,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0062,UG,english,eng,stan1293,eng,3
 UGA0062,UG,swahili,swh,swah1253,swa,3
 UGA0063,UG,english,eng,stan1293,eng,2
@@ -46553,23 +46553,23 @@ UGA0063,UG,rutooro,ttj,toor1238,rru,2
 UGA0064,UG,runyankole,nyn,nyan1307,rny,3
 UGA0064,UG,english,eng,stan1293,eng,3
 UGA0064,UG,rutooro,ttj,toor1238,rru,3
-UGA0065,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0065,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0065,UG,luganda,lug,gand1255,lda,3
 UGA0065,UG,english,eng,stan1293,eng,3
-UGA0074,UG,lukhonjo,koo,rufu1238,kin,4
+UGA0074,UG,lukhonjo,koo,ruko1238,nde,4
 UGA0074,UG,english,eng,stan1293,eng,4
 UGA0074,UG,rutooro,ttj,toor1238,rru,4
 UGA0074,UG,swahili,swh,swah1253,swa,4
-UGA0075,UG,lukhonjo,koo,rufu1238,kin,4
+UGA0075,UG,lukhonjo,koo,ruko1238,nde,4
 UGA0075,UG,rutooro,ttj,toor1238,rru,4
 UGA0075,UG,english,eng,stan1293,eng,4
 UGA0075,UG,swahili,swh,swah1253,swa,4
-UGA0076,UG,lukhonjo,koo,rufu1238,kin,4
+UGA0076,UG,lukhonjo,koo,ruko1238,nde,4
 UGA0076,UG,luganda,lug,gand1255,lda,4
 UGA0076,UG,english,eng,stan1293,eng,4
 UGA0076,UG,swahili,swh,swah1253,swa,4
-UGA0077,UG,lukhonjo,koo,rufu1238,kin,1
-UGA0078,UG,lukhonjo,koo,rufu1238,kin,4
+UGA0077,UG,lukhonjo,koo,ruko1238,nde,1
+UGA0078,UG,lukhonjo,koo,ruko1238,nde,4
 UGA0078,UG,luganda,lug,gand1255,lda,4
 UGA0078,UG,english,eng,stan1293,eng,4
 UGA0078,UG,swahili,swh,swah1253,swa,4
@@ -46577,110 +46577,110 @@ UGA0079,UG,english,eng,stan1293,eng,4
 UGA0079,UG,rutooro,ttj,toor1238,rru,4
 UGA0079,UG,runyankole,nyn,nyan1307,rny,4
 UGA0079,UG,swahili,swh,swah1253,swa,4
-UGA0080,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0080,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0080,UG,rutooro,ttj,toor1238,rru,3
 UGA0080,UG,english,eng,stan1293,eng,3
 UGA0081,UG,rutooro,ttj,toor1238,rru,3
-UGA0081,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0081,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0081,UG,swahili,swh,swah1253,swa,3
-UGA0099,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0099,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0099,UG,rutooro,ttj,toor1238,rru,2
 UGA0100,UG,rutooro,ttj,toor1238,rru,3
 UGA0100,UG,english,eng,stan1293,eng,3
 UGA0100,UG,swahili,swh,swah1253,swa,3
 UGA0101,UG,english,eng,stan1293,eng,3
-UGA0101,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0101,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0101,UG,swahili,swh,swah1253,swa,3
-UGA0102,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0102,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0102,UG,english,eng,stan1293,eng,2
-UGA0103,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0103,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0103,UG,english,eng,stan1293,eng,3
 UGA0103,UG,swahili,swh,swah1253,swa,3
 UGA0104,UG,runyankole,nyn,nyan1307,rny,3
 UGA0104,UG,english,eng,stan1293,eng,3
 UGA0104,UG,swahili,swh,swah1253,swa,3
-UGA0105,UG,lukhonjo,koo,rufu1238,kin,1
-UGA0106,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0105,UG,lukhonjo,koo,ruko1238,nde,1
+UGA0106,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0106,UG,rutooro,ttj,toor1238,rru,3
 UGA0106,UG,swahili,swh,swah1253,swa,3
-UGA0131,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0131,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0131,UG,rutooro,ttj,toor1238,rru,2
-UGA0132,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0132,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0132,UG,english,eng,stan1293,eng,3
 UGA0132,UG,swahili,swh,swah1253,swa,3
-UGA0133,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0133,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0133,UG,rutooro,ttj,toor1238,rru,2
 UGA0134,UG,rukhonjo,,,,1
-UGA0135,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0135,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0135,UG,rutooro,ttj,toor1238,rru,2
-UGA0136,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0136,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0136,UG,rutooro,ttj,toor1238,rru,2
 UGA0137,UG,rutooro,ttj,toor1238,rru,3
-UGA0137,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0137,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0137,UG,swahili,swh,swah1253,swa,3
-UGA0138,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0138,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0138,UG,rutooro,ttj,toor1238,rru,2
-UGA0147,UG,lukhonjo,koo,rufu1238,kin,1
+UGA0147,UG,lukhonjo,koo,ruko1238,nde,1
 UGA0148,UG,english,eng,stan1293,eng,2
-UGA0148,UG,lukhonjo,koo,rufu1238,kin,2
-UGA0149,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0148,UG,lukhonjo,koo,ruko1238,nde,2
+UGA0149,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0149,UG,rutooro,ttj,toor1238,rru,2
-UGA0150,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0150,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0150,UG,rutooro,ttj,toor1238,rru,3
 UGA0150,UG,english,eng,stan1293,eng,3
 UGA0151,UG,rutooro,ttj,toor1238,rru,2
-UGA0151,UG,lukhonjo,koo,rufu1238,kin,2
-UGA0152,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0151,UG,lukhonjo,koo,ruko1238,nde,2
+UGA0152,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0152,UG,runyabindi,,,,2
-UGA0153,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0153,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0153,UG,rutooro,ttj,toor1238,rru,3
 UGA0153,UG,english,eng,stan1293,eng,3
-UGA0154,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0154,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0154,UG,english,eng,stan1293,eng,2
 UGA0155,UG,english,eng,stan1293,eng,3
-UGA0155,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0155,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0155,UG,rutooro,ttj,toor1238,rru,3
-UGA0156,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0156,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0156,UG,rutooro,ttj,toor1238,rru,3
 UGA0156,UG,swahili,swh,swah1253,swa,3
-UGA0157,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0157,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0157,UG,rutooro,ttj,toor1238,rru,3
 UGA0157,UG,swahili,swh,swah1253,swa,3
 UGA0158,UG,rutooro,ttj,toor1238,rru,5
 UGA0158,UG,runyabindi,,,,5
 UGA0158,UG,runyankole,nyn,nyan1307,rny,5
-UGA0158,UG,lukhonjo,koo,rufu1238,kin,5
+UGA0158,UG,lukhonjo,koo,ruko1238,nde,5
 UGA0158,UG,swahili,swh,swah1253,swa,5
 UGA0159,UG,english,eng,stan1293,eng,3
-UGA0159,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0159,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0159,UG,rutooro,ttj,toor1238,rru,3
 UGA0160,UG,swahili,swh,swah1253,swa,3
 UGA0160,UG,english,eng,stan1293,eng,3
-UGA0160,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0160,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0161,UG,rutooro,ttj,toor1238,rru,3
 UGA0161,UG,english,eng,stan1293,eng,3
-UGA0161,UG,lukhonjo,koo,rufu1238,kin,3
-UGA0162,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0161,UG,lukhonjo,koo,ruko1238,nde,3
+UGA0162,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0162,UG,rutooro,ttj,toor1238,rru,2
 UGA0171,UG,rutooro,ttj,toor1238,rru,2
-UGA0171,UG,lukhonjo,koo,rufu1238,kin,2
-UGA0172,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0171,UG,lukhonjo,koo,ruko1238,nde,2
+UGA0172,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0172,UG,english,eng,stan1293,eng,3
 UGA0172,UG,swahili,swh,swah1253,swa,3
-UGA0173,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0173,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0173,UG,english,eng,stan1293,eng,2
-UGA0174,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0174,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0174,UG,rutooro,ttj,toor1238,rru,2
-UGA0175,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0175,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0175,UG,kiswahili,swh,swah1253,swa,3
 UGA0175,UG,rutooro,ttj,toor1238,rru,3
-UGA0176,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0176,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0176,UG,kiswahili,swh,swah1253,swa,3
 UGA0176,UG,rutooro,ttj,toor1238,rru,3
-UGA0177,UG,lukhonjo,koo,rufu1238,kin,3
+UGA0177,UG,lukhonjo,koo,ruko1238,nde,3
 UGA0177,UG,english,eng,stan1293,eng,3
 UGA0177,UG,swahili,swh,swah1253,swa,3
-UGA0178,UG,lukhonjo,koo,rufu1238,kin,2
+UGA0178,UG,lukhonjo,koo,ruko1238,nde,2
 UGA0178,UG,english,eng,stan1293,eng,2
 UGA0186,UG,luganda,lug,gand1255,lda,3
 UGA0186,UG,lusoga,xog,soga1242,lda,3
@@ -47411,7 +47411,7 @@ UGA0653,UG,runyoro,nyo,nyor1246,rru,5
 UGA0653,UG,rutooro,ttj,toor1238,rru,5
 UGA0653,UG,swahili,swh,swah1253,swa,5
 UGA0653,UG,luganda,lug,gand1255,lda,5
-UGA0653,UG,lukhonjo,koo,rufu1238,kin,5
+UGA0653,UG,lukhonjo,koo,ruko1238,nde,5
 UGA0654,UG,runyoro,nyo,nyor1246,rru,6
 UGA0654,UG,rutooro,ttj,toor1238,rru,6
 UGA0654,UG,luganda,lug,gand1255,lda,6
@@ -47739,7 +47739,7 @@ UGA1212,UG,luganda,lug,gand1255,lda,3
 UGA1212,UG,swahili,swh,swah1253,swa,3
 UGA1213,UG,luganda,lug,gand1255,lda,1
 UGA1214,UG,luganda,lug,gand1255,lda,2
-UGA1214,UG,lukhonjo,koo,rufu1238,kin,2
+UGA1214,UG,lukhonjo,koo,ruko1238,nde,2
 UGA1215,UG,luganda,lug,gand1255,lda,2
 UGA1215,UG,english,eng,stan1293,eng,2
 UGA1216,UG,luganda,lug,gand1255,lda,1
@@ -48043,7 +48043,7 @@ UGA1393,UG,runyankole,nyn,nyan1307,rny,2
 UGA1394,UG,runyankole,nyn,nyan1307,rny,3
 UGA1394,UG,english,eng,stan1293,eng,3
 UGA1394,UG,swahili,swh,swah1253,swa,3
-UGA1395,UG,ruhororo,nyn,nyan1307,rny,3
+UGA1395,UG,ruhororo,nyn,horo1246,rny,3
 UGA1395,UG,runyankole,nyn,nyan1307,rny,3
 UGA1395,UG,rukiga,cgg,chig1238,nko,3
 UGA1396,UG,runyankole,nyn,nyan1307,rny,3
@@ -48125,7 +48125,7 @@ UGA1424,UG,swahili,swh,swah1253,swa,4
 UGA1425,UG,luganda,lug,gand1255,lda,3
 UGA1425,UG,runyankole,nyn,nyan1307,rny,3
 UGA1425,UG,lusoga,xog,soga1242,lda,3
-UGA1426,UG,lukhonjo,koo,rufu1238,kin,2
+UGA1426,UG,lukhonjo,koo,ruko1238,nde,2
 UGA1426,UG,english,eng,stan1293,eng,2
 UGA1427,UG,lusoga,xog,soga1242,lda,3
 UGA1427,UG,english,eng,stan1293,eng,3
@@ -49189,7 +49189,7 @@ UGA2239,UG,rutooro,ttj,toor1238,rru,1
 UGA2240,UG,english,eng,stan1293,eng,4
 UGA2240,UG,runyankole,nyn,nyan1307,rny,4
 UGA2240,UG,luganda,lug,gand1255,lda,4
-UGA2240,UG,lukhonjo,koo,rufu1238,kin,4
+UGA2240,UG,lukhonjo,koo,ruko1238,nde,4
 UGA2241,UG,rutooro,ttj,toor1238,rru,2
 UGA2241,UG,swahili,swh,swah1253,swa,2
 UGA2242,UG,runyankole,nyn,nyan1307,rny,3
@@ -49335,7 +49335,7 @@ UGA2298,UG,rukiga,cgg,chig1238,nko,2
 UGA2298,UG,english,eng,stan1293,eng,2
 UGA2299,UG,english,eng,stan1293,eng,4
 UGA2299,UG,runyankole,nyn,nyan1307,rny,4
-UGA2299,UG,lukhonjo,koo,rufu1238,kin,4
+UGA2299,UG,lukhonjo,koo,ruko1238,nde,4
 UGA2299,UG,luganda,lug,gand1255,lda,4
 UGA2300,UG,english,eng,stan1293,eng,3
 UGA2300,UG,runyankole,nyn,nyan1307,rny,3
@@ -49350,7 +49350,7 @@ UGA2304,UG,rukiga,cgg,chig1238,nko,2
 UGA2304,UG,runyankole,nyn,nyan1307,rny,2
 UGA2305,UG,rukiga,cgg,chig1238,nko,1
 UGA2306,UG,rukiga,cgg,chig1238,nko,1
-UGA2307,UG,lukhonjo,koo,rufu1238,kin,3
+UGA2307,UG,lukhonjo,koo,ruko1238,nde,3
 UGA2307,UG,rukiga,cgg,chig1238,nko,3
 UGA2307,UG,rutooro,ttj,toor1238,rru,3
 UGA2308,UG,runyankole,nyn,nyan1307,rny,2
@@ -49400,7 +49400,7 @@ UGA2325,UG,swahili,swh,swah1253,swa,3
 UGA2326,UG,rwamba,rwm,amba1263,bia,3
 UGA2326,UG,rutooro,ttj,toor1238,rru,3
 UGA2326,UG,swahili,swh,swah1253,swa,3
-UGA2327,UG,lukhonjo,koo,rufu1238,kin,6
+UGA2327,UG,lukhonjo,koo,ruko1238,nde,6
 UGA2327,UG,lunyole,nuj,nyol1238,buk luy,6
 UGA2327,UG,rwamba,rwm,amba1263,bia,6
 UGA2327,UG,rutooro,ttj,toor1238,rru,6
@@ -49422,14 +49422,14 @@ UGA2333,UG,runyoro,nyo,nyor1246,rru,2
 UGA2334,UG,runyankole,nyn,nyan1307,rny,2
 UGA2334,UG,rutooro,ttj,toor1238,rru,2
 UGA2335,UG,rwamba,rwm,amba1263,bia,3
-UGA2335,UG,lukhonjo,koo,rufu1238,kin,3
+UGA2335,UG,lukhonjo,koo,ruko1238,nde,3
 UGA2335,UG,rutooro,ttj,toor1238,rru,3
 UGA2336,UG,rutooro,ttj,toor1238,rru,3
-UGA2336,UG,lukhonjo,koo,rufu1238,kin,3
+UGA2336,UG,lukhonjo,koo,ruko1238,nde,3
 UGA2336,UG,rwamba,rwm,amba1263,bia,3
 UGA2337,UG,rwamba,rwm,amba1263,bia,2
 UGA2337,UG,rutooro,ttj,toor1238,rru,2
-UGA2338,UG,lukhonjo,koo,rufu1238,kin,2
+UGA2338,UG,lukhonjo,koo,ruko1238,nde,2
 UGA2338,UG,rutooro,ttj,toor1238,rru,2
 UGA2339,UG,lusoga,xog,soga1242,lda,3
 UGA2339,UG,luganda,lug,gand1255,lda,3
@@ -53144,10 +53144,10 @@ ZAM0551,ZM,bemba,bem,bemb1257,lmb,1
 ZAM0552,ZM,bemba,bem,bemb1257,lmb,1
 ZAM0553,ZM,bemba,bem,bemb1257,lmb,3
 ZAM0553,ZM,ushi,auh,aush1241,lmb,3
-ZAM0553,ZM,ngumbo,bem,bemb1257,lmb,3
+ZAM0553,ZM,ngumbo,bem,ngum1254,lmb,3
 ZAM0554,ZM,bemba,bem,bemb1257,lmb,3
 ZAM0554,ZM,ushi,auh,aush1241,lmb,3
-ZAM0554,ZM,ngumbo,bem,bemb1257,lmb,3
+ZAM0554,ZM,ngumbo,bem,ngum1254,lmb,3
 ZAM0555,ZM,english,eng,stan1293,eng,2
 ZAM0555,ZM,bemba,bem,bemb1257,lmb,2
 ZAM0556,ZM,bemba,bem,bemb1257,lmb,1
@@ -55487,7 +55487,7 @@ ZIM0342,ZW,shona,sna,shon1251,shn,2
 ZIM0342,ZW,english,eng,stan1293,eng,2
 ZIM0343,ZW,shona,sna,shon1251,shn,2
 ZIM0343,ZW,english,eng,stan1293,eng,2
-ZIM0344,ZW,maungwe,mxc,many1258,shn,4
+ZIM0344,ZW,maungwe,mxc,hung1277,shn,4
 ZIM0344,ZW,english,eng,stan1293,eng,4
 ZIM0344,ZW,chewa,nya,chew1246,cic,4
 ZIM0344,ZW,shona,sna,shon1251,shn,4
@@ -56912,7 +56912,7 @@ ZIM1113,ZW,english,eng,stan1293,eng,3
 ZIM1114,ZW,shona,sna,shon1251,shn,1
 ZIM1115,ZW,english,eng,stan1293,eng,3
 ZIM1115,ZW,shona,sna,shon1251,shn,3
-ZIM1115,ZW,sena,nse,nsen1242,nse,3
+ZIM1115,ZW,sena,seh,nucl1396,sen,3
 ZIM1116,ZW,shona,sna,shon1251,shn,1
 ZIM1117,ZW,shona,sna,shon1251,shn,2
 ZIM1117,ZW,english,eng,stan1293,eng,2

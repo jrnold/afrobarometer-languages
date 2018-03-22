@@ -1,5 +1,119 @@
 - [ ] Check official names vs. Afrobarometer names
+
+  - [X] BF
+  - [X] BI
+  - [X] BJ
+  - [X] BW
+  - [X] CI
+  - [X] CM
+  - [X] CV
+  - [X] DZ
+  - [X] EG
+  - [X] GA
+  - [X] GH
+  - [X] GN
+  - [X] KE
+  - [X] LR
+  - [X] LS
+  - [X] MA
+  - [X] MG
+  - [X] ML
+  - [X] MU
+  - [X] MW
+  - [X] MZ
+  - [X] NA
+  - [X] NE
+  - [X] NG
+  - [X] SD
+  - [X] SL
+  - [X] SN
+  - [X] ST
+  - [X] SZ
+  - [X] TG
+  - [X] TN
+  - [X] TZ
+  - [X] UG
+  - [X] ZA
+  - [X] ZM
+  - [X] ZW
+
 - [ ] Check numbers against ISO data - top languages spoken
+
+  - [ ] BF
+  - [ ] BI
+  - [ ] BJ
+  - [ ] BW
+  - [ ] CI
+  - [ ] CM
+  - [ ] CV
+  - [ ] DZ
+  - [ ] EG
+  - [ ] GA
+  - [ ] GH
+  - [ ] GN
+  - [ ] KE
+  - [ ] LR
+  - [ ] LS
+  - [ ] MA
+  - [ ] MG
+  - [ ] ML
+  - [ ] MU
+  - [ ] MW
+  - [ ] MZ
+  - [ ] NA
+  - [ ] NE
+  - [ ] NG
+  - [ ] SD
+  - [ ] SL
+  - [ ] SN
+  - [ ] ST
+  - [ ] SZ
+  - [ ] TG
+  - [ ] TN
+  - [ ] TZ
+  - [ ] UG
+  - [ ] ZA
+  - [ ] ZM
+  - [ ] ZW
+
 - [ ] Check numbers against Ethnologue data - Official + vigorous
+
+  - [ ] BF
+  - [ ] BI
+  - [ ] BJ
+  - [ ] BW
+  - [ ] CI
+  - [ ] CM
+  - [ ] CV
+  - [ ] DZ
+  - [ ] EG
+  - [ ] GA
+  - [ ] GH
+  - [ ] GN
+  - [ ] KE
+  - [ ] LR
+  - [ ] LS
+  - [ ] MA
+  - [ ] MG
+  - [ ] ML
+  - [ ] MU
+  - [ ] MW
+  - [ ] MZ
+  - [ ] NA
+  - [ ] NE
+  - [ ] NG
+  - [ ] SD
+  - [ ] SL
+  - [ ] SN
+  - [ ] ST
+  - [ ] SZ
+  - [ ] TG
+  - [ ] TN
+  - [ ] TZ
+  - [ ] UG
+  - [ ] ZA
+  - [ ] ZM
+  - [ ] ZW
+
 - [ ] Check languages against ISO 639-3 and Glottolog countries
 - [ ] Fill in any easy languages among unmatched languages.

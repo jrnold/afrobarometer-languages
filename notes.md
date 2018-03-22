@@ -1,3 +1,24 @@
+# Notes
+
+
+- If multiple distantly related languages, the entry is coded as a multi-language
+  and only the first language is used.
+- If distinct but related langagues are listed, multiple ISO 639-3 languages are
+  listed and the overarching glottolog family that includes all the languages
+  is used.
+- If a language and a dialect is listed, then the dialect is used.
+- I inconsistenly handle the assignment of some dialects. Often Glottolog will
+  have a language x and a dialect named "nuclear x".
+- No ISO 639-3 values should be missing
+
+  - "mis"
+  - "mul"
+  - "und"
+
+
+
+# Similarly Named Languages 
+
 Bassa
 
 - Nigeria - Basa (bzw)
@@ -90,6 +111,11 @@ In Mali:
   - boz Bozo, Tieyaxo (recognized)
 
 
+# Tonga/Tsonga
+
+In South Africa, ‘Tsonga’ is used to describe Changana [tso], Tswa [tsc], and Ronga [rng], although often used interchangeably with Changana, the most prestigious of the 3.
+
+Different from Tonga [tog] of Malawi, Tonga [toh] of Mozambique, or Tsonga (Tonga) [tso] of Mozambique.
 
 Tonga: Multiple languages named tonga. But all are related Bantu languages.
 
@@ -253,6 +279,13 @@ Also, Glottlog places North and South Fali as unclassified [Volta-Congo language
 Ethnologue puts North and South Fali in the [Adamawa subgroup](https://www.ethnologue.com/subgroups/adamawa).
 
 
+# Shanga/Changa
+
+- [Shanga](http://glottolog.org/resource/languoid/id/shan1279) is a dialect of Ndau in Mozambique
+- Changana is 
+
+
+
 # Multiple Languages
 
 In r2, r3, and r4 there are entries for multiple languages, e.g. Afrikaans and English, etc.
@@ -287,3 +320,5 @@ Guinea Bissea Creole        pov  gbc  Portuguese
 Morisyen, Mauritian Creole  mfe  mcr  French
 Nubi                        kcn  nub  Arabic
 --------------------------- ---- ---- ---------------- -------------
+
+
