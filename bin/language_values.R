@@ -10,8 +10,13 @@ source(here::here("src", "R", "init.R"))
 OUTPUT <- project_path("data", "language_values.csv")
 
 clean_lang <- function(x) {
-  str_replace_all(str_to_lower(x), "\\s*/\\s*", "/") %>%
-    str_replace_all("\\s*-\\s*", "-")
+  x %>%
+  str_replace_all( "\\s*/\\s*", "/") %>%
+    str_replace_all("\\s*-\\s*", "-") %>%
+    # only lowercase everything
+    str_to_lower()
+    # a more general transformation would convert everything to ASCII.
+    # stringi::stri_trans_general("NFKD; Lower; Any-Latin; Latin-ASCII")
 }
 
 #' For an Afrobarometer Dataset summarize the languages
@@ -66,12 +71,16 @@ language_values <- IO$afrobarometer_variables %>%
   unname() %>%
   map_df(process_round) %>%
   # join countries
-  left_join(select(IO$countries, round, country = value, iso_alpha2), by = c("country", "round")) %>%
+  left_join(select(IO$countries, round, country = value, iso_alpha2),
+            by = c("country", "round")) %>%
   select(-country) %>%
   rename(country = iso_alpha2) %>%
   # Add linguistic IDs
-  left_join(IO$language_names, by = c("country", "lang_name" = "name")) %>%
-  select(round, variable, type, value, label, country, lang_name, iso_639_3, glottocode, wals, n_resp, prop) %>%
+  left_join(filter(IO$language_names, lang_number == 1L) %>%
+              select(-lang_number),
+            by = c("country", "lang_name" = "name")) %>%
+  select(round, variable, type, value, label, country, lang_name, iso_639_3,
+         glottocode, wals, n_resp, prop) %>%
   arrange(round, variable, country, value)
 
 write_csv(language_values, OUTPUT, na = "")

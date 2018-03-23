@@ -1,232 +1,126 @@
-- from: afrikaans and oshiwambo
-  to:
-  - afrikaans
-  - oshiwambo
-
-- from: eng and swahili
-  to:
-  - english
-  - swahili
-
-- from: ewe and fante
-  to:
-  - ewe
-  - fante
-
-- from: english and afrikaans
-  to:
-  - english
-  - afrikaans
-
-- from: english and kamba
-  to:
-  - english
-  - kamba
-
-- from: english and kikuyu
-  to:
-  - english
-  - kikuyu
-
-- from: english and kiswahili
-  to:
-  - english
-  - kiswahili
-
-- from: english and luo
-  to:
-  - english
-  - luo
-
-- from: english and oshiwambo
-  to:
-  - english
-  - oshiwambo
-
-- from: english, afrikaans and local languages
-  to:
-  - english
-  - afrikaans
-  - local languages
-
-- from: english, kiswahili and kalenjin
-  to:
-  - english
-  - kiswahili
-  - kalenjin
-
-- from: english, kiswahili and kikuyu
-  to:
-  - english
-  - kiswahili
-  - kikuyu
-
-- from: english, kiswahili, and kamba
-  to:
-  - english
-  - kiswahili
-  - kamba
-
-- from: english, kiswahili and meru
-  to:
-  - english
-  - kiswahili
-  - meru
-
-- from:  english, kiswahili, and kamba
-  to:
-  - english
-  - kiswahili
-  - kamba
-
-- from: ewe and fante
-  to:
-  - ewe
-  - fante
-
-- from: kiswahili and kalenjin
-  to:
-  - kiswahili
-  - kalenjin
-
-- from: kiswahili and kamba
-  to:
-  - kiswahili
-  - kamba
-
-- from: kiswahili and kikuyu
-  to:
-  - kiswahili
-  - kikuyu
-
-- from: kiswahili and luhya
-  to:
-  - kiswahili
-  - luhya
-
-- from: kiswahili and luhya
-  to:
-  - kiswahili
-  - luhya
-
-- from: meru/samburu
-  to:
-  - meru
-  - samburu
-
-- from: "mixed-english/afrikaans"
-  to:
-  - english
-  - afrikaans
-
-- from: "english + afrikaans"
-  to:
-  - english
-  - afrikaans
-
-- from: "english + afrikaans"
-  to:
-  - english
-  - afrikaans
-
-- from: english + ndebele
-  to:
-  - english
-  - ndebele
-
-- from: english + pedi/n. sotho
-  to:
-  - english
-  - n. sotho
-
-- from:  english + setswana
-  to:
-  - english
-  - setswana
-
-- from: english + venda
-  to:
-  - english
-  - venda
-
-- from: english + xhosa
-  to:
-  - english
-  - xhosa
-
-- from: english + zulu
-  to:
-  - english
-  - zulu
-
-- from: english/swahili
-  to:
-  - english
-  - swahili
-
-- from: ijaw/kalabari/okirika/andoni/ogoni/nembe
-  to:
-  - ijaw
-  - kalabari
-  - okirika
-  - andoni
-  - ogoni
-  - nembe
-  note: >
-    This seems unusual. Unrelated languages (Ijoid and Volta-Congo families),
-    but too many to be mulitiple-langauges.
-
-- from: kiswahili/luhya
-  to:
-  - kiswahili
-  - luhya
-
-- from: ewe and fante
-  to:
-  - ewe
-  - fante
-
-- from: punu/mériè
-  to:
-  - ewe
-  - mériè
-
-- from: shona, cheua
-  to:
-  - shona
-  - cheua
-
-- from: kotokoli/chamba
-  to:
-  - kotokoli
-  - chamba
-
-- from:  half taita, half zai
-  to:
-  - taita
-  - zai
-
-- from: shona & ndebele
-  to:
-  - shona
-  - ndebele
-
-- from: poetugues e xitsua
-  to:
-  - poetugues
-  - xitsua
-
-- from: portugues e outras linguas
-  to:
-  - portugues
-  - outras linguas
-
-- from: portugues e sena
-  to:
-  - portugues
-  - sena
-
-- from: sena e portugues
-  to:
-  - sena
-  - portugues
+afrikaans and oshiwambo:
+- afrikaans
+- oshiwambo
+eng and swahili:
+- english
+- swahili
+english + afrikaans:
+- english
+- afrikaans
+english + ndebele:
+- english
+- ndebele
+english + pedi/n. sotho:
+- english
+- pedi/n. sotho
+english + setswana:
+- english
+- setswana
+english + venda:
+- english
+- venda
+english + xhosa:
+- english
+- xhosa
+english + zulu:
+- english
+- zulu
+english and afrikaans:
+- english
+- afrikaans
+english and kamba:
+- english
+- kamba
+english and kikuyu:
+- english
+- kikuyu
+english and kiswahili:
+- english
+- kiswahili
+english and luo:
+- english
+- luo
+english and oshiwambo:
+- english
+- oshiwambo
+english, afrikaans and local languages:
+- english
+- afrikaans
+- local languages
+english, kiswahili and kalenjin:
+- english
+- kiswahili
+- kalenjin
+english, kiswahili and kikuyu:
+- english
+- kiswahili
+- kikuyu
+english, kiswahili and meru:
+- english
+- kiswahili
+- meru
+english, kiswahili, and kamba:
+- english
+- kiswahili
+- kamba
+english/swahili:
+- english
+- swahili
+ewe and fante:
+- ewe
+- fante
+half taita, half zai:
+- taita
+- zai
+ijaw/kalabari/okirika/andoni/ogoni/nembe:
+- ijaw
+- kalabari
+- okirika
+- andoni
+- ogoni
+- nembe
+kiswahili and kalenjin:
+- kiswahili
+- kalenjin
+kiswahili and kamba:
+- kiswahili
+- kamba
+kiswahili and kikuyu:
+- kiswahili
+- kikuyu
+kiswahili and luhya:
+- kiswahili
+- luhya
+kiswahili/luhya:
+- kiswahili
+- luhya
+kotokoli/chamba:
+- kotokoli
+- chamba
+meru/samburu:
+- meru
+- samburu
+mixed-english/afrikaans:
+- english
+- afrikaans
+poetugues e xitsua:
+- poetugues
+- xitsua
+portugues e outras linguas:
+- portugues
+- outras linguas
+portugues e sena:
+- portugues
+- sena
+punu/mériè:
+- punu
+- mériè
+sena e portugues:
+- sena
+- portugues
+shona & ndebele:
+- shona
+- ndebele
+shona, cheua:
+- shona
+- cheua
