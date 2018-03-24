@@ -15,7 +15,7 @@ clean_lang <- function(x) {
     str_replace_all("\\s*-\\s*", "-") %>%
     # only lowercase everything
     str_to_lower()
-    # a more general transformation would convert everything to ASCII.
+    # a more general transformation would convert everything to ASCII
     # stringi::stri_trans_general("NFKD; Lower; Any-Latin; Latin-ASCII")
 }
 

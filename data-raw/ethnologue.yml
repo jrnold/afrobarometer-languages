@@ -1,0 +1,288 @@
+BJ:
+  national:
+  - name: French
+    isocode: fra
+  wider:
+  - name: Baatonum
+    isocode: bba
+  - name: Dendi
+    isocode: ddn
+  - name: Fon
+    isocode: fon
+  - name: Gen
+    isocode: gej
+  - name: Hausa
+    isocode: hau
+  - name: Ten
+    isocode: kdh
+  - name: Yoruba
+    isocode: yor
+BW:
+  national:
+    eng: English
+    tsn: Setswana
+  wider:
+    nhr: Naro
+  educational:
+    nya: Chichewa
+BF:
+  national:
+    fra: French
+  wider:
+    dyu: Jula
+    mos: Moore
+DZ:
+  national:
+    arb: Standard Arabic
+  wider:
+    arq: Algerian Spoken Arabic
+    fra: French
+BI:
+  national:
+    run: Rundi
+  wider:
+    fra: French
+    swh: Swahili
+CI:
+  national:
+EG:
+  national:
+    arb: Standard Arabic
+  wider:
+    arz: Egyptian Spoken Arabic
+GH:
+  national:
+    eng: English
+  provincial:
+    gur: Farefare
+    maw: Mampruli
+  wider:
+    aka: Akan
+    ewe: Ewe
+    gpe: Ghanian Pidgin English
+    hau: Hausa
+  educational:
+    dga: Southern Daagare
+    dag: Dagbani
+    ada: Dangme
+    gaa: Ga
+    gjn: Gonja
+    xsm: Kasem
+GN:
+  national:
+    fra: French
+  provincial:
+    fuf: Pular
+  wider:
+    emk: Eastern Maninkakan
+  educational:
+    kqs: Northern Kissi
+    sus: Susu
+KE:
+  national:
+    eng: English
+    swh: Swahili
+  educational:
+    bxk: Bukusu
+    kam: Kamba
+    mer: Kimiiru
+    rag: Lulogooli
+    lko: Olukhayo
+    lrj: Olumarachi
+    lsm: Olusamia
+    lks: Olushisa
+    lto: Olutsotso
+    lwg: Oluwanga
+LS:
+  national:
+    eng: English
+    sot: Southern Sotho
+LR:
+  national:
+    eng: English
+  wider:
+    lir: Liberian English
+MG:
+  national:
+    fra: French
+    plt: Plateau Malagasy
+  wider:
+    eng: English
+MW:
+  national:
+    eng: English
+  wider:
+    nya: Chichewa
+  educational:
+    tum: Tumbuka
+ML:
+  national:
+    fra: French
+  wider:
+    dyu: Jula
+  educational:
+    arb: Standard Arabic
+    bam: Bamanankan
+    dts: Toro So Dogon
+    ffm: Maasina Fulfulde
+    myk: Mamara Senoufo
+    khq: Koyra Chiini Songhay
+MA:
+  national:
+    arb: Standard Arabic
+    zgh: Standard Moroccan Tamazight
+  wider:
+    ary: Moroccan Spoken Arabic
+    fra: French
+MZ:
+  national:
+    por: Portuguese
+  wider:
+    nyu: Nyungwe
+NA:
+  national:
+    eng: English
+  wider:
+    afr: Afrikaans
+    loz: Lozi
+  educational:
+    diu: Gciriku
+    deu: Standard German
+    her: Herero
+    ktz: Ju|'hoansi
+    naq: Khoekhoe
+    kwn: Kwangali
+    kua: Kwanyama
+    mhw: Mbukushu
+    ndo: Ndonga
+    tsn: Setswana
+NE:
+  national:
+    fra: French
+  wider:
+    hau: Hausa
+  educational:
+    arb: Standard Arabic
+    thz: Tayart Tamajeq
+    dje: Zarma
+NG:
+  national:
+    eng: English
+  provincial:
+    hau: Hausa
+    ibo: Igbo
+    yor: Yoruba
+  wider:
+    shu: Shuwa Arabic
+    efi: Efik
+    fuv: Nigerian Fulfulde
+    ibb: Ibibio
+    knc: Central Kanuri
+    kby: Manga Kanuri
+    sur: Mwaghavul
+    nup: Nupe-Nupe-Tako
+    pcm: Nigerian Pidgin
+    tiv: Tiv
+  educational:
+    bin: Edo
+    ema: Emai-Iuleha-Ora
+    gqa: Ga'anda
+    igl: Igala
+    ijc: Izon
+ST:
+  national:
+    por: Portuguese
+SN:
+  national:
+    fra: French
+  wider:
+    pov: Upper Guinea Crioulo
+  educational:
+    wol: Wolof
+SL:
+  national:
+    eng: English
+  provincial:
+    lia: West-Central Limba
+    men: Mende
+    tem: Themne
+  wider:
+    kri: Krio
+    emk: Eastern Maninkakan
+ZA:
+  national:
+    afr: Afrikaans
+    eng: English
+    nbl: Ndebele
+    tsn: Setswana
+    nso: Northern Sotho
+    sot: Southern Sotho
+    ssw: Swati
+    tso: Tsonga
+    ven: Venda
+    xho: Xhosa
+    zul: Zulu
+  educational:
+    tam: Tamil
+SZ:
+  national:
+    eng: English
+    ssw: Swati
+SD:
+  national:
+    arb: Standard Arabic
+    eng: English
+  wider:
+    apd: Sudanese Spoken Arabic
+TZ:
+  national:
+    swh: Swahili
+  wider:
+    eng: English
+TG:
+  national:
+    fra: French
+  wider:
+    ewe: Ewe
+    gej: Gen
+    kdh: Tem
+TN:
+  national:
+    arb: Standard Arabic
+  wider:
+    aeb: Tunisian Spoken Arabic
+UG:
+  national:
+    eng: English
+    swh: Swahili
+  wider:
+    lug: Ganda
+  educational:
+    cgg: Chiga
+    nyn: Nyankore
+ZM:
+  national:
+    eng: English
+  provincial:
+    bem: Bemba
+    lue: Luvale
+    toi: Tonga
+  wider:
+    swc: Congo Swahili
+  educational:
+    nya: Chichewa
+    kqn: Kaonde
+    loz: Lozi
+    lun: Luna
+    lyn: Luyana
+ZW:
+  national:
+    eng: English
+  wider:
+    nde: Ndebele
+    sna: Shona
+  educational:
+    nmq: Nambya
+    toi: Tonga
+    tso: Tsonga
+    ven: Venda

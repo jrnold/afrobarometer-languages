@@ -237,9 +237,9 @@
   - ajuran
 - country:
   - NG
-  glottocode: null
+  glottocode: akan1250
   iso_639_3:
-  - mis
+  - aka
   name:
   - aka
 - country:
@@ -1981,13 +1981,6 @@
 
     Busa (bqp) in Nigeria  than Busa in Ghana and Burkina Faso (bib)'
 - country:
-  - MZ
-  glottocode: gito1238
-  iso_639_3:
-  - toh
-  name:
-  - bitonga
-- country:
   - CM
   glottocode: null
   iso_639_3:
@@ -2583,6 +2576,7 @@
   - manhica
   - munica
   - sumanica
+  - namica
   note: Manika is an alt-name for Manyika.
 - country:
   - MZ
@@ -2644,20 +2638,17 @@
   - nya
   name:
   - chingoni
+  note: >
+    Ngoni people in Malawi speak Nyanja as L1. <https://www.ethnologue.com/country/mz/languages>
 - country:
   - MZ
-  glottocode: null
+  glottocode: ngon1269
   iso_639_3:
-  - mis
+  - ngo
   name:
   - chingozi
-- country:
-  - MZ
-  glottocode: hung1277
-  iso_639_3:
-  - mxc
-  name:
-  - chinhungue
+  note: >
+    Probably Ngoni since only lang beginning with "Ngo".
 - country:
   - MW
   glottocode: nkon1246
@@ -2776,13 +2767,6 @@
   - chitoko
   note: Toko speak Karanga dialect of [Shona](https://www.ethnologue.com/country/ZW/languages)
     in Zimbabwe.
-- country:
-  - MW
-  glottocode: tong1321
-  iso_639_3:
-  - tog
-  name:
-  - chitonga
 - country:
   - MZ
   glottocode: tswa1255
@@ -2929,13 +2913,7 @@
   - mxc
   name:
   - cimanyika
-- country:
-  - MZ
-  glottocode: nyun1248
-  iso_639_3:
-  - nyu
-  name:
-  - cinyungwe
+
 - country:
   - MZ
   glottocode: nucl1396
@@ -4182,6 +4160,7 @@
   - fulful
   - fulfulde
   - fuka
+  - peuhl
   note: Use Nigerian Fulfulde for fula languages in Nigeria
 - country:
   - GH
@@ -4419,13 +4398,6 @@
   name:
   - giriama
   - kigiriama
-- country:
-  - MZ
-  glottocode: gito1238
-  iso_639_3:
-  - toh
-  name:
-  - gitonga
 - country:
   - CM
   glottocode: null
@@ -8469,20 +8441,7 @@
   - mis
   name:
   - manhembane
-- country:
-  - MZ
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
-  - manhgue
-- country:
-  - MZ
-  glottocode: many1258
-  iso_639_3:
-  - mxc
-  name:
-  - manhungue
+
 - country:
   - GN
   glottocode: mann1248
@@ -9686,14 +9645,7 @@
   - mye
   name:
   - myénè
-- country:
-  - MZ
-  glottocode: nyun1248
-  iso_639_3:
-  - nyu
-  name:
-  - myungue
-  - nyungwe
+
 - country:
   - LS
   glottocode: null
@@ -9789,13 +9741,7 @@
   - nambya
   - nambiya
   - nambia
-- country:
-  - MZ
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
-  - namica
+
 - country:
   - MW
   - ZM
@@ -10080,6 +10026,9 @@
   - ngo
   name:
   - ngoni
+  - kingoni
+  note: >
+    In Tanzania, Ngoni refers to Ngoni (ngo).
 - country:
   - MW
   glottocode: ngon1270
@@ -10087,6 +10036,9 @@
   - nya
   name:
   - ngoni
+  note: >
+    In Malawi, Ngoni speak Nyanja/Chichew (nse).
+
 - country:
   - ZM
   glottocode: ngon1271
@@ -10094,13 +10046,35 @@
   - nse
   name:
   - ngoni
+  note: >
+    In Zambia, Ngoni generally refers to a Nsenga (nse) dialect.
+    Not to be confused with Ngoni (ngo) or dialects of
+    Nyanja/Chichewa (nsa) or Tumbuku (tum).
+
+- country:
+  - ZM
+  glottocode: ngon1270
+  iso_639_3:
+  - nya
+  name:
+  - chingoni
+  - cingoni
+  - kingoni
+  note: >
+    In Zambia, Ngoni generally refers to a Nsenga (nse) dialect.
+    But if Chingoni/Cingoni, it refers to a Nsenga dailect.
+
 - country:
   - MZ
-  glottocode: null
+  glottocode: ngon1269
   iso_639_3:
-  - mis
+  - ngo
   name:
+  - ngoni
   - ngony
+  note: >
+    In Mozambique, Ngoni generally refers to Ngoni (ngo).
+
 - country:
   - CM
   glottocode: null
@@ -10147,17 +10121,24 @@
   - ngyemboon
 - country:
   - MZ
-  glottocode: null
+  glottocode: nyar1246
   iso_639_3:
-  - mis
+  - chw
   name:
   - nharinga
+  note:
+    Nyaringa is a dialect of Chuwabu.
 - country:
   - MZ
   glottocode: nyun1248
   iso_639_3:
   - nyu
   name:
+  - nyongue
+  - nyhungue
+  - njungur
+  - njungue
+  - njumgue
   - nhumgue
   - nhungwe
   - nhunhue
@@ -10167,6 +10148,12 @@
   - nhungue
   - nhugue
   - ngungue
+  - chinhungue
+  - manhungue
+  - manhgue
+  - cinyungwe
+  - myungue
+  - nyungwe
 - country:
   - ZW
   glottocode: nyun1248
@@ -10219,27 +10206,7 @@
   - njikwa
   note: Ngwo is the major language spoken in the Nijkwa subdivision of Northwest region;
     Momo divsion.
-- country:
-  - MZ
-  glottocode: nyun1248
-  iso_639_3:
-  - nyu
-  name:
-  - njumgue
-- country:
-  - MZ
-  glottocode: nyun1248
-  iso_639_3:
-  - nyu
-  name:
-  - njungue
-- country:
-  - MZ
-  glottocode: nyun1248
-  iso_639_3:
-  - nyu
-  name:
-  - njungur
+
 - country:
   - CM
   glottocode: null
@@ -10297,13 +10264,6 @@
   name:
   - nkwen
 - country:
-  - ZW
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
-  - nleya zambia
-- country:
   - CM
   glottocode: null
   iso_639_3:
@@ -10334,9 +10294,9 @@
   - noni
 - country:
   - NG
-  glottocode: null
+  glottocode: ivbi1242
   iso_639_3:
-  - mis
+  - atg
   name:
   - north ivie
 - country:
@@ -10363,9 +10323,9 @@
   - nsenga
 - country:
   - CM
-  glottocode: null
+  glottocode: kens1251
   iso_639_3:
-  - mis
+  - ndb
   name:
   - nsie
 - country:
@@ -10598,13 +10558,6 @@
   name:
   - nyemba
 - country:
-  - MZ
-  glottocode: nyun1248
-  iso_639_3:
-  - nyu
-  name:
-  - nyhungue
-- country:
   - ZM
   glottocode: cent2285
   iso_639_3:
@@ -10626,13 +10579,7 @@
   - nvo
   name:
   - nyokon
-- country:
-  - MZ
-  glottocode: nyun1248
-  iso_639_3:
-  - nyu
-  name:
-  - nyongue
+
 - country:
   - KE
   glottocode: nyor1244
@@ -10654,6 +10601,7 @@
   - nyungunhe
   - nyungwe
   - nyyngue
+  - nyhungue
 - country:
   - GA
   glottocode: njeb1242
@@ -12352,8 +12300,10 @@
   name:
   - shuwa
   - shuwa arab
+  - arabe
   - arabi
   - arab
+  - arabic
 - country:
   - CI
   glottocode: koya1253
@@ -12394,9 +12344,9 @@
   - siloze
 - country:
   - ZM
-  glottocode: null
+  glottocode: luch1239
   iso_639_3:
-  - mis
+  - lch
   name:
   - siluchazi
 - country:
@@ -12421,12 +12371,6 @@
   - sisila
   - sissala
   - sissali
-- country:
-  - BF
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
   - sissaba
 - country:
   - LS
@@ -12449,23 +12393,23 @@
   - siswazi
 - country:
   - NG
-  glottocode: null
+  glottocode: saya1246
   iso_639_3:
-  - mis
+  - say
   name:
   - siyawa
 - country:
   - CM
-  glottocode: null
+  glottocode: soca1235
   iso_639_3:
-  - mis
+  - sox
   name:
   - so'o
 - country:
   - CI
-  glottocode: null
+  glottocode: kouy1238
   iso_639_3:
-  - mis
+  - kyf
   name:
   - sokouya
 - country:
@@ -12720,13 +12664,8 @@
   - tgw
   name:
   - tagbana
-- country:
-  - CI
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
   - tagbanan
+
 - country:
   - KE
   glottocode: tait1250
@@ -13042,12 +12981,27 @@
   - tjimbanderu
 - country:
   - ZM
-  glottocode: toka1243
+  glottocode: domb1246
   iso_639_3:
   - dov
   name:
   - tokaleya
+  note: >
+    Toka-Leya-Dombe.
+- country:
+  - ZM
+  glottocode: toka1243
+  iso_639_3:
+  - dov
+  name:
   - toka
+- country:
+  - ZM
+  glottocode: leya1238
+  iso_639_3:
+  - dov
+  name:
+  - leya
 - country:
   - GN
   glottocode: toma1245
@@ -13081,17 +13035,28 @@
   - tog
   name:
   - tonga
+  - chitonga
   note: Not to be confused with other Tonga languages.
 - country:
   - MZ
   - SZ
+  glottocode: gito1238
+  iso_639_3:
+  - toh
+  name:
+  - tonga
+  - bitonga
+  - gitonga
+  note: Not to be confused with other Tonga languages.
+- country:
   - ZA
   glottocode: tson1249
   iso_639_3:
   - tso
   name:
   - tonga
-  note: Not to be confused with other Tonga languages.
+  note: >
+    Not to be confused with other Tonga languages.
 - country:
   - NE
   glottocode: tuar1240
@@ -13272,13 +13237,9 @@
   - auh
   name:
   - ushi
-- country:
-  - ZM
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
   - usmi
+  note: >
+    usmi is probably a typo for Ushi.
 - country:
   - NA
   glottocode: umbu1257
@@ -13445,9 +13406,9 @@
   - weh
 - country:
   - CM
-  glottocode: null
+  glottocode: menk1238
   iso_639_3:
-  - mis
+  - mea
   name:
   - widikum
 - country:
@@ -14341,15 +14302,7 @@
   name:
   - latin
   note: Assume that they learned it in school.
-- country:
-  - LS
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
-  - sethupu
-  note: Sethupu is different than Sesotho because listed as a separate lang in the
-    Q88e entries.
+
 - country:
   - TZ
   glottocode: null

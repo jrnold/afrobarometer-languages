@@ -113,6 +113,16 @@ In Mali:
 
 # Tonga/Tsonga
 
+- Tonga
+
+    - MW: tog
+    - ZM, ZW: toi
+    - MZ: toh
+
+- Tsonga
+
+    - MZ, SZ, MZ, ZA, ZW: tso (Shangaan)
+
 In South Africa, ‘Tsonga’ is used to describe Changana [tso], Tswa [tsc], and Ronga [rng], although often used interchangeably with Changana, the most prestigious of the 3.
 
 Different from Tonga [tog] of Malawi, Tonga [toh] of Mozambique, or Tsonga (Tonga) [tso] of Mozambique.
@@ -188,16 +198,50 @@ WALS: Luyia [[luy](http://wals.info/languoid/lect/wals_code_luy)].
 - Nigeria: Bete (byf) Benue-Congo/Jukunoid
 - Niegeria: Bete-Bendi (btt) Benue-Congo/Cross-River
 
-# ZImbabwe
+# Zixmbabwe
 
 These are distinct languages
 
 - Lunda (lun)
 - Luunda dialect of Bemba (bem)
 
-# Senga/Ngoni
+# Ngoni
 
-In Malawi/Zambia: (N)Senga and Ngoni are names of several distinct languages and dialects including Nsenga (nse), Chichewa (nya), and Tumbuku (tum).
+
+## Malawi
+
+- (*) Dialect and alt-nam name for [Chichewa/Nyanja](https://www.ethnologue.com/language/nya)
+- Dialect [Zulu](https://www.ethnologue.com/language/zul) (few speakers)
+- Dialect [Swazi](https://www.ethnologue.com/language/swz) (few speakers)
+- Dialect of [Nsenga](https://www.ethnologue.com/language/nse)
+- Dialect of [Tumbuka](https://www.ethnologue.com/language/tum)
+
+
+## Mozambique
+
+- Ngoni (ngo)
+- Dialect of Nyanja/Chichewa (nya). Also called Cingoni.
+
+## Tanzania
+
+- Ngoni (ngo)
+
+## Zambia
+
+- If "Ngoni", then Nsenga (nse) dialect
+- If "Chingoni/Cingoni", then Chichwa (nya)
+
+- Dialect of [Nsenga](https://www.ethnologue.com/language/nse). Also called Mpezeni.
+- Cingoni. Dialect of Nyanja/Chichewa (nya)
+- Dialect (Magodi) of [Tumbuka](https://www.ethnologue.com/language/tum)
+
+
+
+# Nsenga/Senga
+
+- Nsenga language (nse)
+- Dialect of Tumbuka
+
 
 
 # Senoufu

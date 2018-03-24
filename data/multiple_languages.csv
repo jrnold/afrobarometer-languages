@@ -7055,7 +7055,7 @@ BFO1158,BF,francais,fra,stan1290,fre,1,,7
 BFO1158,BF,achanti,twi,asan1239,akn,1,,7
 BFO1158,BF,hangni,,,,,,7
 BFO1158,BF,da,,,,,,7
-BFO1159,BF,sissaba,mis,,,1,,3
+BFO1159,BF,sissaba,sil ssl,sisa1248,ssa,1,,3
 BFO1159,BF,dioula,dyu,dyul1238,dyu,1,,3
 BFO1159,BF,francais,fra,stan1290,fre,1,,3
 BFO1160,BF,dagara,dgi,nort2780,dga,1,,2
@@ -15651,9 +15651,8 @@ LES0647,LS,sesotho,sot,sout2807,ses,1,,1
 LES0648,LS,sesotho,sot,sout2807,ses,1,,2
 LES0648,LS,english,eng,stan1293,eng,1,,2
 LES0649,LS,sesotho,sot,sout2807,ses,1,,1
-LES0650,LS,sethupu,xho,them1241,xho,1,,3
-LES0650,LS,sethupu,mis,,,1,,3
-LES0650,LS,sesotho,sot,sout2807,ses,1,,3
+LES0650,LS,sethupu,xho,them1241,xho,1,,2
+LES0650,LS,sesotho,sot,sout2807,ses,1,,2
 LES0651,LS,sesotho,sot,sout2807,ses,1,,1
 LES0652,LS,sesotho,sot,sout2807,ses,1,,1
 LES0653,LS,sesotho,sot,sout2807,ses,1,,1
@@ -16452,9 +16451,8 @@ LES1281,LS,english,eng,stan1293,eng,1,,2
 LES1282,LS,sesotho,sot,sout2807,ses,1,,3
 LES1282,LS,sethepu,xho,them1241,xho,1,,3
 LES1282,LS,sephuthi,ssw,phut1246,swt,1,,3
-LES1283,LS,sesotho,sot,sout2807,ses,1,,3
-LES1283,LS,sethupu,xho,them1241,xho,1,,3
-LES1283,LS,sethupu,mis,,,1,,3
+LES1283,LS,sesotho,sot,sout2807,ses,1,,2
+LES1283,LS,sethupu,xho,them1241,xho,1,,2
 LES1286,LS,sesotho,sot,sout2807,ses,1,,3
 LES1286,LS,isizhoza,xho,xhos1239,xho,1,,3
 LES1286,LS,english,eng,stan1293,eng,1,,3
@@ -16539,9 +16537,8 @@ LES1336,LS,sethepu,xho,them1241,xho,1,,2
 LES1337,LS,sesotho,sot,sout2807,ses,1,,1
 LES1338,LS,sesotho,sot,sout2807,ses,1,,1
 LES1339,LS,sesotho,sot,sout2807,ses,1,,1
-LES1340,LS,sesotho,sot,sout2807,ses,1,,3
-LES1340,LS,sethupu,xho,them1241,xho,1,,3
-LES1340,LS,sethupu,mis,,,1,,3
+LES1340,LS,sesotho,sot,sout2807,ses,1,,2
+LES1340,LS,sethupu,xho,them1241,xho,1,,2
 LES1341,LS,sesotho,sot,sout2807,ses,1,,2
 LES1341,LS,english,eng,stan1293,eng,1,,2
 LES1342,LS,sesotho,sot,sout2807,ses,1,,1
@@ -26256,8 +26253,8 @@ MOZ0389,MZ,cheua,nya,chew1246,cic,1,,3
 MOZ0390,MZ,ndau,ndc,nucl1378,shn,1,,2
 MOZ0390,MZ,portugues,por,port1283,por,1,,2
 MOZ0391,MZ,portugues,por,port1283,por,1,,2
-MOZ0391,MZ,manhungue,mxc,many1258,shn,1,,2
-MOZ0392,MZ,manhungue,mxc,many1258,shn,1,,2
+MOZ0391,MZ,manhungue,nyu,nyun1248,sen,1,,2
+MOZ0392,MZ,manhungue,nyu,nyun1248,sen,1,,2
 MOZ0392,MZ,portugues,por,port1283,por,1,,2
 MOZ0393,MZ,portugues,por,port1283,por,1,,4
 MOZ0393,MZ,lomwe,ngl,lomw1241,mua,1,,4
@@ -26324,7 +26321,7 @@ MOZ0414,MZ,angone,,,,,,4
 MOZ0415,MZ,ndau,ndc,nucl1378,shn,1,,3
 MOZ0415,MZ,portugues,por,port1283,por,1,,3
 MOZ0415,MZ,angone,,,,,,3
-MOZ0416,MZ,manhungue,mxc,many1258,shn,1,,2
+MOZ0416,MZ,manhungue,nyu,nyun1248,sen,1,,2
 MOZ0416,MZ,portugues,por,port1283,por,1,,2
 MOZ0417,MZ,ndau,ndc,nucl1378,shn,1,,2
 MOZ0417,MZ,portugues,por,port1283,por,1,,2
@@ -26441,10 +26438,10 @@ MOZ0460,MZ,portugues,por,port1283,por,1,,4
 MOZ0460,MZ,cheua,nya,chew1246,cic,1,,4
 MOZ0460,MZ,sena,seh,nucl1396,sen,1,,4
 MOZ0460,MZ,nhungue,nyu,nyun1248,sen,1,,4
-MOZ0461,MZ,manhungue,mxc,many1258,shn,1,,3
+MOZ0461,MZ,manhungue,nyu,nyun1248,sen,1,,3
 MOZ0461,MZ,cheua,nya,chew1246,cic,1,,3
 MOZ0461,MZ,portugues,por,port1283,por,1,,3
-MOZ0462,MZ,manhungue,mxc,many1258,shn,1,,2
+MOZ0462,MZ,manhungue,nyu,nyun1248,sen,1,,2
 MOZ0462,MZ,portugues,por,port1283,por,1,,2
 MOZ0463,MZ,nhungue,nyu,nyun1248,sen,1,,2
 MOZ0463,MZ,portugues,por,port1283,por,1,,2
@@ -26533,9 +26530,9 @@ MOZ0496,MZ,changana,tso,chan1318,tsn,1,,6
 MOZ0496,MZ,ronga,rng,rong1268,rga,1,,6
 MOZ0496,MZ,chona,sna,shon1251,shn,1,,6
 MOZ0496,MZ,matsua,tsc,tswa1255,rga tsn,1,,6
-MOZ0497,MZ,manhungue,mxc,many1258,shn,1,,2
+MOZ0497,MZ,manhungue,nyu,nyun1248,sen,1,,2
 MOZ0497,MZ,portugues,por,port1283,por,1,,2
-MOZ0498,MZ,manhungue,mxc,many1258,shn,1,,1
+MOZ0498,MZ,manhungue,nyu,nyun1248,sen,1,,1
 MOZ0499,MZ,portugues,por,port1283,por,1,,4
 MOZ0499,MZ,nyungue,nyu,nyun1248,sen,1,,4
 MOZ0499,MZ,cheua,nya,chew1246,cic,1,,4
@@ -31759,9 +31756,10 @@ NIG0263,NG,yoruba,yor,yoru1245,yor,1,,2
 NIG0263,NG,english,eng,stan1293,eng,1,,2
 NIG0264,NG,yoruba,yor,yoru1245,yor,1,,2
 NIG0264,NG,english,eng,stan1293,eng,1,,2
-NIG0265,NG,yoruba,yor,yoru1245,yor,1,,3
-NIG0265,NG,arabic,shu,chad1249,arn,1,,3
-NIG0265,NG,english,eng,stan1293,eng,1,,3
+NIG0265,NG,yoruba,yor,yoru1245,yor,1,,4
+NIG0265,NG,arabic,shu,chad1249,arn,1,,4
+NIG0265,NG,arabic,shu,chad1249,arn,1,,4
+NIG0265,NG,english,eng,stan1293,eng,1,,4
 NIG0266,NG,english,eng,stan1293,eng,1,,2
 NIG0266,NG,yoruba,yor,yoru1245,yor,1,,2
 NIG0267,NG,yoruba,yor,yoru1245,yor,1,,1
@@ -31813,9 +31811,10 @@ NIG0292,NG,yoruba,yor,yoru1245,yor,1,,1
 NIG0293,NG,yoruba,yor,yoru1245,yor,1,,2
 NIG0293,NG,english,eng,stan1293,eng,1,,2
 NIG0294,NG,yoruba,yor,yoru1245,yor,1,,1
-NIG0295,NG,yoruba,yor,yoru1245,yor,1,,3
-NIG0295,NG,english,eng,stan1293,eng,1,,3
-NIG0295,NG,arabic,shu,chad1249,arn,1,,3
+NIG0295,NG,yoruba,yor,yoru1245,yor,1,,4
+NIG0295,NG,english,eng,stan1293,eng,1,,4
+NIG0295,NG,arabic,shu,chad1249,arn,1,,4
+NIG0295,NG,arabic,shu,chad1249,arn,1,,4
 NIG0296,NG,yoruba,yor,yoru1245,yor,1,,2
 NIG0296,NG,english,eng,stan1293,eng,1,,2
 NIG0297,NG,yoruba,yor,yoru1245,yor,1,,3
@@ -31864,8 +31863,9 @@ NIG0322,NG,yoruba,yor,yoru1245,yor,1,,2
 NIG0322,NG,english,eng,stan1293,eng,1,,2
 NIG0323,NG,yoruba,yor,yoru1245,yor,1,,1
 NIG0324,NG,yoruba,yor,yoru1245,yor,1,,1
-NIG0325,NG,yoruba,yor,yoru1245,yor,1,,2
-NIG0325,NG,arabic,shu,chad1249,arn,1,,2
+NIG0325,NG,yoruba,yor,yoru1245,yor,1,,3
+NIG0325,NG,arabic,shu,chad1249,arn,1,,3
+NIG0325,NG,arabic,shu,chad1249,arn,1,,3
 NIG0326,NG,yoruba,yor,yoru1245,yor,1,,1
 NIG0327,NG,yoruba,yor,yoru1245,yor,1,,2
 NIG0327,NG,english,eng,stan1293,eng,1,,2
@@ -31986,9 +31986,10 @@ NIG0398,NG,yoruba,yor,yoru1245,yor,1,,3
 NIG0398,NG,tapa,,,,,,3
 NIG0399,NG,yoruba,yor,yoru1245,yor,1,,1
 NIG0400,NG,yoruba,yor,yoru1245,yor,1,,1
-NIG0401,NG,yoruba,yor,yoru1245,yor,1,,3
-NIG0401,NG,english,eng,stan1293,eng,1,,3
-NIG0401,NG,arabic,shu,chad1249,arn,1,,3
+NIG0401,NG,yoruba,yor,yoru1245,yor,1,,4
+NIG0401,NG,english,eng,stan1293,eng,1,,4
+NIG0401,NG,arabic,shu,chad1249,arn,1,,4
+NIG0401,NG,arabic,shu,chad1249,arn,1,,4
 NIG0402,NG,yoruba,yor,yoru1245,yor,1,,2
 NIG0402,NG,english,eng,stan1293,eng,1,,2
 NIG0403,NG,yoruba,yor,yoru1245,yor,1,,2
@@ -32225,17 +32226,17 @@ NIG0549,NG,pidgin,pcm,nige1257,npi,1,,4
 NIG0550,NG,benin,,,,,,2
 NIG0550,NG,pidgin,pcm,nige1257,npi,1,,2
 NIG0555,NG,urhobo,urh,urho1239,urh,1,,4
-NIG0555,NG,aka,mis,,,1,,4
+NIG0555,NG,aka,aka,akan1250,akn,1,,4
 NIG0555,NG,pigin,pcm,nige1257,npi,1,,4
 NIG0555,NG,english,eng,stan1293,eng,1,,4
 NIG0556,NG,pigin,pcm,nige1257,npi,1,,3
 NIG0556,NG,edo,bin,bini1246,bni,1,,3
 NIG0556,NG,english,eng,stan1293,eng,1,,3
 NIG0557,NG,pigin,pcm,nige1257,npi,1,,3
-NIG0557,NG,aka,mis,,,1,,3
+NIG0557,NG,aka,aka,akan1250,akn,1,,3
 NIG0557,NG,english,eng,stan1293,eng,1,,3
 NIG0558,NG,esan,ish,esan1238,bni ora,1,,3
-NIG0558,NG,aka,mis,,,1,,3
+NIG0558,NG,aka,aka,akan1250,akn,1,,3
 NIG0558,NG,english,eng,stan1293,eng,1,,3
 NIG0561,NG,english,eng,stan1293,eng,1,,2
 NIG0561,NG,urhobo,urh,urho1239,urh,1,,2
@@ -34065,8 +34066,9 @@ NIG1336,NG,english,eng,stan1293,eng,1,,4
 NIG1336,NG,ebira,igb,ebir1243,ebi,1,,4
 NIG1337,NG,english,eng,stan1293,eng,1,,2
 NIG1337,NG,hausa,hau,haus1257,hau,1,,2
-NIG1338,NG,arabic,shu,chad1249,arn,1,,2
-NIG1338,NG,hausa,hau,haus1257,hau,1,,2
+NIG1338,NG,arabic,shu,chad1249,arn,1,,3
+NIG1338,NG,arabic,shu,chad1249,arn,1,,3
+NIG1338,NG,hausa,hau,haus1257,hau,1,,3
 NIG1339,NG,hausa,hau,haus1257,hau,1,,1
 NIG1340,NG,hausa,hau,haus1257,hau,1,,1
 NIG1341,NG,hausa,hau,haus1257,hau,1,,1
@@ -34095,9 +34097,10 @@ NIG1357,NG,hausa,hau,haus1257,hau,1,,1
 NIG1358,NG,hausa,hau,haus1257,hau,1,,1
 NIG1359,NG,hausa,hau,haus1257,hau,1,,1
 NIG1360,NG,hausa,hau,haus1257,hau,1,,1
-NIG1361,NG,english,eng,stan1293,eng,1,,3
-NIG1361,NG,hausa,hau,haus1257,hau,1,,3
-NIG1361,NG,arabic,shu,chad1249,arn,1,,3
+NIG1361,NG,english,eng,stan1293,eng,1,,4
+NIG1361,NG,hausa,hau,haus1257,hau,1,,4
+NIG1361,NG,arabic,shu,chad1249,arn,1,,4
+NIG1361,NG,arabic,shu,chad1249,arn,1,,4
 NIG1362,NG,english,eng,stan1293,eng,1,,3
 NIG1362,NG,hausa,hau,haus1257,hau,1,,3
 NIG1362,NG,igbo,ibo,nucl1417,igb,1,,3
@@ -34162,11 +34165,13 @@ NIG1391,NG,kataf,kcg,kata1265,gwo,1,,2
 NIG1391,NG,hausa,hau,haus1257,hau,1,,2
 NIG1392,NG,kataf,kcg,kata1265,gwo,1,,2
 NIG1392,NG,hausa,hau,haus1257,hau,1,,2
-NIG1393,NG,hausa,hau,haus1257,hau,1,,3
-NIG1393,NG,arabic,shu,chad1249,arn,1,,3
-NIG1393,NG,english,eng,stan1293,eng,1,,3
-NIG1394,NG,hausa,hau,haus1257,hau,1,,2
-NIG1394,NG,arabic,shu,chad1249,arn,1,,2
+NIG1393,NG,hausa,hau,haus1257,hau,1,,4
+NIG1393,NG,arabic,shu,chad1249,arn,1,,4
+NIG1393,NG,arabic,shu,chad1249,arn,1,,4
+NIG1393,NG,english,eng,stan1293,eng,1,,4
+NIG1394,NG,hausa,hau,haus1257,hau,1,,3
+NIG1394,NG,arabic,shu,chad1249,arn,1,,3
+NIG1394,NG,arabic,shu,chad1249,arn,1,,3
 NIG1395,NG,english,eng,stan1293,eng,1,,2
 NIG1395,NG,hausa,hau,haus1257,hau,1,,2
 NIG1396,NG,hausa,hau,haus1257,hau,1,,1
@@ -34176,11 +34181,13 @@ NIG1398,NG,hausa,hau,haus1257,hau,1,,1
 NIG1399,NG,hausa,hau,haus1257,hau,1,,1
 NIG1400,NG,hausa,hau,haus1257,hau,1,,2
 NIG1400,NG,english,eng,stan1293,eng,1,,2
-NIG1401,NG,hausa,hau,haus1257,hau,1,,3
-NIG1401,NG,english,eng,stan1293,eng,1,,3
-NIG1401,NG,arabic,shu,chad1249,arn,1,,3
-NIG1402,NG,hausa,hau,haus1257,hau,1,,2
-NIG1402,NG,arabic,shu,chad1249,arn,1,,2
+NIG1401,NG,hausa,hau,haus1257,hau,1,,4
+NIG1401,NG,english,eng,stan1293,eng,1,,4
+NIG1401,NG,arabic,shu,chad1249,arn,1,,4
+NIG1401,NG,arabic,shu,chad1249,arn,1,,4
+NIG1402,NG,hausa,hau,haus1257,hau,1,,3
+NIG1402,NG,arabic,shu,chad1249,arn,1,,3
+NIG1402,NG,arabic,shu,chad1249,arn,1,,3
 NIG1403,NG,hausa,hau,haus1257,hau,1,,2
 NIG1403,NG,english,eng,stan1293,eng,1,,2
 NIG1404,NG,hausa,hau,haus1257,hau,1,,2
@@ -34195,8 +34202,9 @@ NIG1407,NG,english,eng,stan1293,eng,1,,3
 NIG1408,NG,hausa,hau,haus1257,hau,1,,3
 NIG1408,NG,english,eng,stan1293,eng,1,,3
 NIG1408,NG,ibira,,,,,,3
-NIG1409,NG,hausa,hau,haus1257,hau,1,,2
-NIG1409,NG,arabic,shu,chad1249,arn,1,,2
+NIG1409,NG,hausa,hau,haus1257,hau,1,,3
+NIG1409,NG,arabic,shu,chad1249,arn,1,,3
+NIG1409,NG,arabic,shu,chad1249,arn,1,,3
 NIG1410,NG,hausa,hau,haus1257,hau,1,,3
 NIG1410,NG,english,eng,stan1293,eng,1,,3
 NIG1410,NG,kanuri,kby knc,kanu1281,knr,1,,3
@@ -34209,9 +34217,10 @@ NIG1413,NG,fulani,fuv,nige1253,fni,1,,3
 NIG1413,NG,english,eng,stan1293,eng,1,,3
 NIG1414,NG,hausa,hau,haus1257,hau,1,,2
 NIG1414,NG,english,eng,stan1293,eng,1,,2
-NIG1415,NG,hausa,hau,haus1257,hau,1,,3
-NIG1415,NG,english,eng,stan1293,eng,1,,3
-NIG1415,NG,arabic,shu,chad1249,arn,1,,3
+NIG1415,NG,hausa,hau,haus1257,hau,1,,4
+NIG1415,NG,english,eng,stan1293,eng,1,,4
+NIG1415,NG,arabic,shu,chad1249,arn,1,,4
+NIG1415,NG,arabic,shu,chad1249,arn,1,,4
 NIG1416,NG,hausa,hau,haus1257,hau,1,,1
 NIG1417,NG,hausa,hau,haus1257,hau,1,,1
 NIG1418,NG,hausa,hau,haus1257,hau,1,,2
@@ -34295,9 +34304,10 @@ NIG1469,NG,hausa,hau,haus1257,hau,1,,2
 NIG1469,NG,english,eng,stan1293,eng,1,,2
 NIG1470,NG,hausa,hau,haus1257,hau,1,,1
 NIG1471,NG,hausa,hau,haus1257,hau,1,,1
-NIG1472,NG,hausa,hau,haus1257,hau,1,,3
-NIG1472,NG,english,eng,stan1293,eng,1,,3
-NIG1472,NG,arabic,shu,chad1249,arn,1,,3
+NIG1472,NG,hausa,hau,haus1257,hau,1,,4
+NIG1472,NG,english,eng,stan1293,eng,1,,4
+NIG1472,NG,arabic,shu,chad1249,arn,1,,4
+NIG1472,NG,arabic,shu,chad1249,arn,1,,4
 NIG1473,NG,hausa,hau,haus1257,hau,1,,1
 NIG1474,NG,hausa,hau,haus1257,hau,1,,1
 NIG1475,NG,hausa,hau,haus1257,hau,1,,2
@@ -34312,12 +34322,14 @@ NIG1479,NG,english,eng,stan1293,eng,1,,2
 NIG1480,NG,hausa,hau,haus1257,hau,1,,1
 NIG1481,NG,hausa,hau,haus1257,hau,1,,1
 NIG1482,NG,hausa,hau,haus1257,hau,1,,1
-NIG1483,NG,shuwa,shu,chad1249,arn,1,,3
-NIG1483,NG,arabic,shu,chad1249,arn,1,,3
-NIG1483,NG,hausa,hau,haus1257,hau,1,,3
-NIG1484,NG,shuwa,shu,chad1249,arn,1,,3
-NIG1484,NG,arabic,shu,chad1249,arn,1,,3
-NIG1484,NG,hausa,hau,haus1257,hau,1,,3
+NIG1483,NG,shuwa,shu,chad1249,arn,1,,4
+NIG1483,NG,arabic,shu,chad1249,arn,1,,4
+NIG1483,NG,arabic,shu,chad1249,arn,1,,4
+NIG1483,NG,hausa,hau,haus1257,hau,1,,4
+NIG1484,NG,shuwa,shu,chad1249,arn,1,,4
+NIG1484,NG,arabic,shu,chad1249,arn,1,,4
+NIG1484,NG,arabic,shu,chad1249,arn,1,,4
+NIG1484,NG,hausa,hau,haus1257,hau,1,,4
 NIG1485,NG,hausa,hau,haus1257,hau,1,,2
 NIG1485,NG,english,eng,stan1293,eng,1,,2
 NIG1486,NG,english,eng,stan1293,eng,1,,2
@@ -35049,16 +35061,18 @@ NIG1914,NG,igbo,ibo,nucl1417,igb,1,,4
 NIG1914,NG,english,eng,stan1293,eng,1,,4
 NIG1914,NG,pidgin,pcm,nige1257,npi,1,,4
 NIG1914,NG,hausa,hau,haus1257,hau,1,,4
-NIG1917,NG,kanuri,kby knc,kanu1281,knr,1,,5
-NIG1917,NG,shuwa,shu,chad1249,arn,1,,5
-NIG1917,NG,arabic,shu,chad1249,arn,1,,5
-NIG1917,NG,fulani,fuv,nige1253,fni,1,,5
-NIG1917,NG,hausa,hau,haus1257,hau,1,,5
-NIG1918,NG,kanuri,kby knc,kanu1281,knr,1,,5
-NIG1918,NG,shuwa,shu,chad1249,arn,1,,5
-NIG1918,NG,arabic,shu,chad1249,arn,1,,5
-NIG1918,NG,fulani,fuv,nige1253,fni,1,,5
-NIG1918,NG,hausa,hau,haus1257,hau,1,,5
+NIG1917,NG,kanuri,kby knc,kanu1281,knr,1,,6
+NIG1917,NG,shuwa,shu,chad1249,arn,1,,6
+NIG1917,NG,arabic,shu,chad1249,arn,1,,6
+NIG1917,NG,arabic,shu,chad1249,arn,1,,6
+NIG1917,NG,fulani,fuv,nige1253,fni,1,,6
+NIG1917,NG,hausa,hau,haus1257,hau,1,,6
+NIG1918,NG,kanuri,kby knc,kanu1281,knr,1,,6
+NIG1918,NG,shuwa,shu,chad1249,arn,1,,6
+NIG1918,NG,arabic,shu,chad1249,arn,1,,6
+NIG1918,NG,arabic,shu,chad1249,arn,1,,6
+NIG1918,NG,fulani,fuv,nige1253,fni,1,,6
+NIG1918,NG,hausa,hau,haus1257,hau,1,,6
 NIG1919,NG,kanuri,kby knc,kanu1281,knr,1,,3
 NIG1919,NG,hausa,hau,haus1257,hau,1,,3
 NIG1919,NG,shuwa,shu,chad1249,arn,1,,3
@@ -35286,8 +35300,9 @@ NIG1995,NG,hausa,hau,haus1257,hau,1,,2
 NIG1995,NG,badawa,bau,bada1258,jar,1,,2
 NIG1996,NG,hausa,hau,haus1257,hau,1,,2
 NIG1996,NG,bada,bde,bade1248,bad,1,,2
-NIG1997,NG,hausa,hau,haus1257,hau,1,,2
-NIG1997,NG,arabic,shu,chad1249,arn,1,,2
+NIG1997,NG,hausa,hau,haus1257,hau,1,,3
+NIG1997,NG,arabic,shu,chad1249,arn,1,,3
+NIG1997,NG,arabic,shu,chad1249,arn,1,,3
 NIG1998,NG,hausa,hau,haus1257,hau,1,,2
 NIG1998,NG,kari-kari,kai,kare1348,blq,1,,2
 NIG1999,NG,hausa,hau,haus1257,hau,1,,3
@@ -35354,10 +35369,11 @@ NIG2034,NG,hausa,hau,haus1257,hau,1,,1
 NIG2035,NG,hausa,hau,haus1257,hau,1,,1
 NIG2036,NG,hausa,hau,haus1257,hau,1,,2
 NIG2036,NG,kanuri,kby knc,kanu1281,knr,1,,2
-NIG2037,NG,fulani,fuv,nige1253,fni,1,,4
-NIG2037,NG,jarawa,jgk jjr,jara1263,jar,1,,4
-NIG2037,NG,arabic,shu,chad1249,arn,1,,4
-NIG2037,NG,english,eng,stan1293,eng,1,,4
+NIG2037,NG,fulani,fuv,nige1253,fni,1,,5
+NIG2037,NG,jarawa,jgk jjr,jara1263,jar,1,,5
+NIG2037,NG,arabic,shu,chad1249,arn,1,,5
+NIG2037,NG,arabic,shu,chad1249,arn,1,,5
+NIG2037,NG,english,eng,stan1293,eng,1,,5
 NIG2038,NG,hausa,hau,haus1257,hau,1,,1
 NIG2039,NG,hausa,hau,haus1257,hau,1,,1
 NIG2040,NG,fulani,fuv,nige1253,fni,1,,2
@@ -35491,9 +35507,10 @@ NIG2095,NG,fulani,fuv,nige1253,fni,1,,2
 NIG2095,NG,hausa,hau,haus1257,hau,1,,2
 NIG2096,NG,hausa,hau,haus1257,hau,1,,2
 NIG2096,NG,fulani,fuv,nige1253,fni,1,,2
-NIG2097,NG,yoruba,yor,yoru1245,yor,1,,3
-NIG2097,NG,english,eng,stan1293,eng,1,,3
-NIG2097,NG,arabic,shu,chad1249,arn,1,,3
+NIG2097,NG,yoruba,yor,yoru1245,yor,1,,4
+NIG2097,NG,english,eng,stan1293,eng,1,,4
+NIG2097,NG,arabic,shu,chad1249,arn,1,,4
+NIG2097,NG,arabic,shu,chad1249,arn,1,,4
 NIG2098,NG,yoruba,yor,yoru1245,yor,1,,1
 NIG2099,NG,yoruba,yor,yoru1245,yor,1,,2
 NIG2099,NG,english,eng,stan1293,eng,1,,2
@@ -44571,8 +44588,9 @@ TAN0291,TZ,kizilizo,,,,,,4
 TAN0292,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0292,TZ,kizigua,ziw,zigu1242,shm,1,,2
 TAN0293,TZ,kiswahili,swh,swah1253,swa,1,,1
-TAN0294,TZ,kiswahili,swh,swah1253,swa,1,,2
-TAN0294,TZ,kingoni,ngo,ngon1269,ngo,1,,2
+TAN0294,TZ,kiswahili,swh,swah1253,swa,1,,3
+TAN0294,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0294,TZ,kingoni,ngo,ngon1269,ngo,1,,3
 TAN0295,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0295,TZ,kinyamwezi,nym,nyam1276,nym,1,,2
 TAN0296,TZ,kiswahili,swh,swah1253,swa,1,,3
@@ -45262,8 +45280,9 @@ TAN0656,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0656,TZ,kigogo,gog,gogo1263,shm,1,,2
 TAN0657,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0657,TZ,kigogo,gog,gogo1263,shm,1,,2
-TAN0658,TZ,kiswahili,swh,swah1253,swa,1,,2
-TAN0658,TZ,kingoni,ngo,ngon1269,ngo,1,,2
+TAN0658,TZ,kiswahili,swh,swah1253,swa,1,,3
+TAN0658,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0658,TZ,kingoni,ngo,ngon1269,ngo,1,,3
 TAN0659,TZ,kiswahili,swh,swah1253,swa,1,,1
 TAN0660,TZ,kiswahili,swh,swah1253,swa,1,,1
 TAN0661,TZ,kiswahili,swh,swah1253,swa,1,,2
@@ -45287,8 +45306,9 @@ TAN0672,TZ,kiswahili,swh,swah1253,swa,1,,1
 TAN0673,TZ,kiswahili,swh,swah1253,swa,1,,3
 TAN0673,TZ,kichaga,old,moch1256,cga,1,,3
 TAN0673,TZ,kingereza,eng,stan1293,eng,1,,3
-TAN0674,TZ,kiswahili,swh,swah1253,swa,1,,2
-TAN0674,TZ,kingoni,ngo,ngon1269,ngo,1,,2
+TAN0674,TZ,kiswahili,swh,swah1253,swa,1,,3
+TAN0674,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0674,TZ,kingoni,ngo,ngon1269,ngo,1,,3
 TAN0675,TZ,kiswahili,swh,swah1253,swa,1,,5
 TAN0675,TZ,kingereza,eng,stan1293,eng,1,,5
 TAN0675,TZ,kipare,asa,asut1235,pre,1,,5
@@ -45308,16 +45328,18 @@ TAN0681,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0681,TZ,kipogoro,poy,pogo1243,pog,1,,2
 TAN0682,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0682,TZ,kipogoro,poy,pogo1243,pog,1,,2
-TAN0683,TZ,kiswahili,swh,swah1253,swa,1,,2
-TAN0683,TZ,kingoni,ngo,ngon1269,ngo,1,,2
+TAN0683,TZ,kiswahili,swh,swah1253,swa,1,,3
+TAN0683,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0683,TZ,kingoni,ngo,ngon1269,ngo,1,,3
 TAN0684,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0684,TZ,kipogoro,poy,pogo1243,pog,1,,2
 TAN0685,TZ,kiswahili,swh,swah1253,swa,1,,1
 TAN0686,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0686,TZ,kipogoro,poy,pogo1243,pog,1,,2
-TAN0687,TZ,kiswahili,swh,swah1253,swa,1,,3
-TAN0687,TZ,kiluguru,ruf,lugu1238,kmi,1,,3
-TAN0687,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0687,TZ,kiswahili,swh,swah1253,swa,1,,4
+TAN0687,TZ,kiluguru,ruf,lugu1238,kmi,1,,4
+TAN0687,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0687,TZ,kingoni,ngo,ngon1269,ngo,1,,4
 TAN0688,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0688,TZ,kipogoro,poy,pogo1243,pog,1,,2
 TAN0689,TZ,kiswahili,swh,swah1253,swa,1,,2
@@ -45325,11 +45347,13 @@ TAN0689,TZ,kipogoro,poy,pogo1243,pog,1,,2
 TAN0690,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0690,TZ,kipogoro,poy,pogo1243,pog,1,,2
 TAN0691,TZ,kiswahili,swh,swah1253,swa,1,,1
-TAN0692,TZ,kiswahili,swh,swah1253,swa,1,,2
-TAN0692,TZ,kingoni,ngo,ngon1269,ngo,1,,2
+TAN0692,TZ,kiswahili,swh,swah1253,swa,1,,3
+TAN0692,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0692,TZ,kingoni,ngo,ngon1269,ngo,1,,3
 TAN0693,TZ,kiswahili,swh,swah1253,swa,1,,1
-TAN0694,TZ,kiswahili,swh,swah1253,swa,1,,2
-TAN0694,TZ,kingoni,ngo,ngon1269,ngo,1,,2
+TAN0694,TZ,kiswahili,swh,swah1253,swa,1,,3
+TAN0694,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0694,TZ,kingoni,ngo,ngon1269,ngo,1,,3
 TAN0695,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0695,TZ,kipogoro,poy,pogo1243,pog,1,,2
 TAN0696,TZ,kiswahili,swh,swah1253,swa,1,,1
@@ -45397,9 +45421,10 @@ TAN0725,TZ,kihehe,heh,hehe1240,heh,1,,2
 TAN0726,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0726,TZ,kihehe,heh,hehe1240,heh,1,,2
 TAN0727,TZ,kiswahili,swh,swah1253,swa,1,,1
-TAN0728,TZ,kiswahili,swh,swah1253,swa,1,,3
-TAN0728,TZ,kingoni,ngo,ngon1269,ngo,1,,3
-TAN0728,TZ,kihehe,heh,hehe1240,heh,1,,3
+TAN0728,TZ,kiswahili,swh,swah1253,swa,1,,4
+TAN0728,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0728,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0728,TZ,kihehe,heh,hehe1240,heh,1,,4
 TAN0729,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0729,TZ,kihehe,heh,hehe1240,heh,1,,2
 TAN0730,TZ,kiswahili,swh,swah1253,swa,1,,3
@@ -45475,14 +45500,16 @@ TAN0759,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0759,TZ,kibena,bez,bena1262,heh,1,,2
 TAN0760,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0760,TZ,kibena,bez,bena1262,heh,1,,2
-TAN0761,TZ,kiswahili,swh,swah1253,swa,1,,3
-TAN0761,TZ,kingoni,ngo,ngon1269,ngo,1,,3
-TAN0761,TZ,kiingereza,eng,stan1293,eng,1,,3
+TAN0761,TZ,kiswahili,swh,swah1253,swa,1,,4
+TAN0761,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0761,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0761,TZ,kiingereza,eng,stan1293,eng,1,,4
 TAN0762,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0762,TZ,kimatengo,mgv,mate1258,mtb,1,,2
-TAN0763,TZ,kiswahili,swh,swah1253,swa,1,,3
-TAN0763,TZ,kingoni,ngo,ngon1269,ngo,1,,3
-TAN0763,TZ,kimatengo,mgv,mate1258,mtb,1,,3
+TAN0763,TZ,kiswahili,swh,swah1253,swa,1,,4
+TAN0763,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0763,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0763,TZ,kimatengo,mgv,mate1258,mtb,1,,4
 TAN0764,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0764,TZ,kimatengo,mgv,mate1258,mtb,1,,2
 TAN0765,TZ,kiswahili,swh,swah1253,swa,1,,2
@@ -45495,24 +45522,27 @@ TAN0768,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0768,TZ,kinindi,,,,,,2
 TAN0769,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0769,TZ,kimatengo,mgv,mate1258,mtb,1,,2
-TAN0770,TZ,kiswahili,swh,swah1253,swa,1,,3
-TAN0770,TZ,kimatengo,mgv,mate1258,mtb,1,,3
-TAN0770,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0770,TZ,kiswahili,swh,swah1253,swa,1,,4
+TAN0770,TZ,kimatengo,mgv,mate1258,mtb,1,,4
+TAN0770,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0770,TZ,kingoni,ngo,ngon1269,ngo,1,,4
 TAN0771,TZ,kiswahili,swh,swah1253,swa,1,,1
 TAN0772,TZ,kiswahili,swh,swah1253,swa,1,,3
 TAN0772,TZ,kimatengo,mgv,mate1258,mtb,1,,3
 TAN0772,TZ,kiingereza,eng,stan1293,eng,1,,3
 TAN0773,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0773,TZ,kimatengo,mgv,mate1258,mtb,1,,2
-TAN0774,TZ,kiswahili,swh,swah1253,swa,1,,2
-TAN0774,TZ,kingoni,ngo,ngon1269,ngo,1,,2
+TAN0774,TZ,kiswahili,swh,swah1253,swa,1,,3
+TAN0774,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0774,TZ,kingoni,ngo,ngon1269,ngo,1,,3
 TAN0775,TZ,kiswahili,swh,swah1253,swa,1,,1
 TAN0776,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0776,TZ,kimatengo,mgv,mate1258,mtb,1,,2
 TAN0777,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0777,TZ,kinndeule,,,,,,2
-TAN0778,TZ,kiswahili,swh,swah1253,swa,1,,2
-TAN0778,TZ,kingoni,ngo,ngon1269,ngo,1,,2
+TAN0778,TZ,kiswahili,swh,swah1253,swa,1,,3
+TAN0778,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0778,TZ,kingoni,ngo,ngon1269,ngo,1,,3
 TAN0779,TZ,kiswhili,swh,swah1253,swa,1,,3
 TAN0779,TZ,kimatengo,mgv,mate1258,mtb,1,,3
 TAN0779,TZ,kiyao,yao,yaoo1241,yao,1,,3
@@ -45520,8 +45550,9 @@ TAN0780,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0780,TZ,kindendeule,dne,nden1249,mtb,1,,2
 TAN0781,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0781,TZ,kindendeule,dne,nden1249,mtb,1,,2
-TAN0782,TZ,kiswahili,swh,swah1253,swa,1,,2
-TAN0782,TZ,kingoni,ngo,ngon1269,ngo,1,,2
+TAN0782,TZ,kiswahili,swh,swah1253,swa,1,,3
+TAN0782,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0782,TZ,kingoni,ngo,ngon1269,ngo,1,,3
 TAN0783,TZ,kiswahili,swh,swah1253,swa,1,,3
 TAN0783,TZ,kiyao,yao,yaoo1241,yao,1,,3
 TAN0783,TZ,kingereza,eng,stan1293,eng,1,,3
@@ -45542,21 +45573,24 @@ TAN0791,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0791,TZ,kiyao,yao,yaoo1241,yao,1,,2
 TAN0792,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0792,TZ,kiyao,yao,yaoo1241,yao,1,,2
-TAN0793,TZ,kiswahili,swh,swah1253,swa,1,,3
-TAN0793,TZ,kibungu,wun,bung1265,mmw,1,,3
-TAN0793,TZ,kingoni,ngo,ngon1269,ngo,1,,3
-TAN0794,TZ,kiswahili,swh,swah1253,swa,1,,4
-TAN0794,TZ,kibungu,wun,bung1265,mmw,1,,4
-TAN0794,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,1,,4
-TAN0794,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0793,TZ,kiswahili,swh,swah1253,swa,1,,4
+TAN0793,TZ,kibungu,wun,bung1265,mmw,1,,4
+TAN0793,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0793,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0794,TZ,kiswahili,swh,swah1253,swa,1,,5
+TAN0794,TZ,kibungu,wun,bung1265,mmw,1,,5
+TAN0794,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,1,,5
+TAN0794,TZ,kingoni,ngo,ngon1269,ngo,1,,5
+TAN0794,TZ,kingoni,ngo,ngon1269,ngo,1,,5
 TAN0795,TZ,kiswahili,swh,swah1253,swa,1,,3
 TAN0795,TZ,kindendeule,dne,nden1249,mtb,1,,3
 TAN0795,TZ,kimaginji,,,,,,3
 TAN0796,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0796,TZ,kindendeule,dne,nden1249,mtb,1,,2
-TAN0797,TZ,kiswahili,swh,swah1253,swa,1,,3
-TAN0797,TZ,kindendeleko,ndq,nden1248,mtb,1,,3
-TAN0797,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0797,TZ,kiswahili,swh,swah1253,swa,1,,4
+TAN0797,TZ,kindendeleko,ndq,nden1248,mtb,1,,4
+TAN0797,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0797,TZ,kingoni,ngo,ngon1269,ngo,1,,4
 TAN0798,TZ,kiswahili,swh,swah1253,swa,1,,3
 TAN0798,TZ,kikinga,zga,nucl1379,kga,1,,3
 TAN0798,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,1,,3
@@ -45660,8 +45694,9 @@ TAN0835,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0835,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,1,,2
 TAN0836,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0836,TZ,kinyamwezi,nym,nyam1276,nym,1,,2
-TAN0837,TZ,kiswahili,swh,swah1253,swa,1,,2
-TAN0837,TZ,kingoni,ngo,ngon1269,ngo,1,,2
+TAN0837,TZ,kiswahili,swh,swah1253,swa,1,,3
+TAN0837,TZ,kingoni,ngo,ngon1269,ngo,1,,3
+TAN0837,TZ,kingoni,ngo,ngon1269,ngo,1,,3
 TAN0838,TZ,kiswahili,swh,swah1253,swa,1,,3
 TAN0838,TZ,kibungwa,,,,,,3
 TAN0838,TZ,kilungwa,mis,,,1,,3
@@ -45678,9 +45713,10 @@ TAN0842,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0842,TZ,kinyaturu,rim,nyat1246,rim,1,,2
 TAN0843,TZ,kiswahili,swh,swah1253,swa,1,,2
 TAN0843,TZ,kinyakusa,,,,,,2
-TAN0844,TZ,kiswahili,swh,swah1253,swa,1,,3
-TAN0844,TZ,kingoni,ngo,ngon1269,ngo,1,,3
-TAN0844,TZ,kinyamwanga,mwn,nyam1275,mmw,1,,3
+TAN0844,TZ,kiswahili,swh,swah1253,swa,1,,4
+TAN0844,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0844,TZ,kingoni,ngo,ngon1269,ngo,1,,4
+TAN0844,TZ,kinyamwanga,mwn,nyam1275,mmw,1,,4
 TAN0845,TZ,kiswahili,swh,swah1253,swa,1,,3
 TAN0845,TZ,kibungu,wun,bung1265,mmw,1,,3
 TAN0845,TZ,kinyakyusa,nyy,nyak1261,mmw nyh,1,,3
@@ -54458,26 +54494,26 @@ ZAM1022,ZM,tonga,toi,tong1318,toz,1,,1
 ZAM1023,ZM,tonga,toi,tong1318,toz,1,,1
 ZAM1024,ZM,tonga,toi,tong1318,toz,1,,2
 ZAM1024,ZM,nyanja,nya,nucl1395,cic,1,,2
-ZAM1025,ZM,tokaleya,dov,toka1243,ila toz,1,,3
+ZAM1025,ZM,tokaleya,dov,domb1246,ila toz,1,,3
 ZAM1025,ZM,tonga,toi,tong1318,toz,1,,3
 ZAM1025,ZM,nyanja,nya,nucl1395,cic,1,,3
 ZAM1026,ZM,toka,dov,toka1243,ila toz,1,,3
 ZAM1026,ZM,lozi,loz,lozi1239,loz,1,,3
 ZAM1026,ZM,nyanja,nya,nucl1395,cic,1,,3
-ZAM1027,ZM,tokaleya,dov,toka1243,ila toz,1,,3
+ZAM1027,ZM,tokaleya,dov,domb1246,ila toz,1,,3
 ZAM1027,ZM,lozi,loz,lozi1239,loz,1,,3
 ZAM1027,ZM,tonga,toi,tong1318,toz,1,,3
-ZAM1028,ZM,tokaleya,dov,toka1243,ila toz,1,,4
+ZAM1028,ZM,tokaleya,dov,domb1246,ila toz,1,,4
 ZAM1028,ZM,lozi,loz,lozi1239,loz,1,,4
 ZAM1028,ZM,nyanja,nya,nucl1395,cic,1,,4
 ZAM1028,ZM,tonga,toi,tong1318,toz,1,,4
 ZAM1029,ZM,tonga,toi,tong1318,toz,1,,1
 ZAM1030,ZM,tonga,toi,tong1318,toz,1,,1
-ZAM1031,ZM,tokaleya,dov,toka1243,ila toz,1,,2
+ZAM1031,ZM,tokaleya,dov,domb1246,ila toz,1,,2
 ZAM1031,ZM,lozi,loz,lozi1239,loz,1,,2
 ZAM1032,ZM,lozi,loz,lozi1239,loz,1,,3
 ZAM1032,ZM,nyanja,nya,nucl1395,cic,1,,3
-ZAM1032,ZM,tokaleya,dov,toka1243,ila toz,1,,3
+ZAM1032,ZM,tokaleya,dov,domb1246,ila toz,1,,3
 ZAM1033,ZM,tonga,toi,tong1318,toz,1,,4
 ZAM1033,ZM,lozi,loz,lozi1239,loz,1,,4
 ZAM1033,ZM,nyanja,nya,nucl1395,cic,1,,4
@@ -54485,21 +54521,21 @@ ZAM1033,ZM,english,eng,stan1293,eng,1,,4
 ZAM1034,ZM,njanja,nya,nucl1395,cic,1,,3
 ZAM1034,ZM,bemba,bem,bemb1257,lmb,1,,3
 ZAM1034,ZM,tonga,toi,tong1318,toz,1,,3
-ZAM1035,ZM,tokaleya,dov,toka1243,ila toz,1,,3
+ZAM1035,ZM,tokaleya,dov,domb1246,ila toz,1,,3
 ZAM1035,ZM,tonga,toi,tong1318,toz,1,,3
 ZAM1035,ZM,lozi,loz,lozi1239,loz,1,,3
-ZAM1036,ZM,tokaleya,dov,toka1243,ila toz,1,,3
+ZAM1036,ZM,tokaleya,dov,domb1246,ila toz,1,,3
 ZAM1036,ZM,lozi,loz,lozi1239,loz,1,,3
 ZAM1036,ZM,tonga,toi,tong1318,toz,1,,3
-ZAM1037,ZM,tokaleya,dov,toka1243,ila toz,1,,1
-ZAM1038,ZM,tokaleya,dov,toka1243,ila toz,1,,4
+ZAM1037,ZM,tokaleya,dov,domb1246,ila toz,1,,1
+ZAM1038,ZM,tokaleya,dov,domb1246,ila toz,1,,4
 ZAM1038,ZM,lozi,loz,lozi1239,loz,1,,4
 ZAM1038,ZM,nyanja,nya,nucl1395,cic,1,,4
 ZAM1038,ZM,tonga,toi,tong1318,toz,1,,4
-ZAM1039,ZM,tokaleya,dov,toka1243,ila toz,1,,3
+ZAM1039,ZM,tokaleya,dov,domb1246,ila toz,1,,3
 ZAM1039,ZM,nyanja,nya,nucl1395,cic,1,,3
 ZAM1039,ZM,bemba,bem,bemb1257,lmb,1,,3
-ZAM1040,ZM,tokaleya,dov,toka1243,ila toz,1,,4
+ZAM1040,ZM,tokaleya,dov,domb1246,ila toz,1,,4
 ZAM1040,ZM,nyanja,nya,nucl1395,cic,1,,4
 ZAM1040,ZM,lozi,loz,lozi1239,loz,1,,4
 ZAM1040,ZM,english,eng,stan1293,eng,1,,4
@@ -54537,7 +54573,7 @@ ZAM1051,ZM,tonga,toi,tong1318,toz,1,,4
 ZAM1051,ZM,lozi,loz,lozi1239,loz,1,,4
 ZAM1051,ZM,bemba,bem,bemb1257,lmb,1,,4
 ZAM1052,ZM,tonga,toi,tong1318,toz,1,,4
-ZAM1052,ZM,tokaleya,dov,toka1243,ila toz,1,,4
+ZAM1052,ZM,tokaleya,dov,domb1246,ila toz,1,,4
 ZAM1052,ZM,bemba,bem,bemb1257,lmb,1,,4
 ZAM1052,ZM,lozi,loz,lozi1239,loz,1,,4
 ZAM1053,ZM,tonga,toi,tong1318,toz,1,,1
