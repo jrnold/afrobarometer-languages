@@ -5880,7 +5880,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,LOMWE,MZ,lomwe,ngl,lomw1241,mua,108,0.035106013618786944
 5,Q2OTHER,respondent_other,,LUMWE,MZ,lumwe,ngl,lomw1241,mua,1,2.3533042137327512e-4
 5,Q2OTHER,respondent_other,,MANHAWA,MZ,manhawa,mny,many1259,eko mua,11,0.002296757129268476
-5,Q2OTHER,respondent_other,,NHARINGA,MZ,nharinga,mis,,,1,2.0730125414602512e-4
+5,Q2OTHER,respondent_other,,NHARINGA,MZ,nharinga,chw,nyar1246,eko mua,1,2.0730125414602512e-4
 5,Q2OTHER,respondent_other,,NSENGA,MZ,nsenga,nse,nucl1397,nse,2,8.162350163247004e-4
 5,Q2OTHER,respondent_other,,RONGA,MZ,ronga,rng,rong1268,rga,12,0.004755535095110703
 5,Q2OTHER,respondent_other,,TACUANE,MZ,tacuane,tke,takw1238,eko mua,14,0.007149470142989404
@@ -6022,7 +6022,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,NGAS,NG,ngas,anc,ngas1240,anc,3,0.0019740771030741042
 5,Q2OTHER,respondent_other,,NIGILI,NG,nigili,mgi,liji1238,bir fye gwo kgm mdz tok,1,2.958337529583375e-4
 5,Q2OTHER,respondent_other,,NINGAWA,NG,ningawa,mis,,,1,3.750620870839542e-4
-5,Q2OTHER,respondent_other,,NORTH IVIE,NG,north ivie,mis,,,1,2.947895862812292e-4
+5,Q2OTHER,respondent_other,,NORTH IVIE,NG,north ivie,atg,ivbi1242,bni ets gho ora,1,2.947895862812292e-4
 5,Q2OTHER,respondent_other,,OGOJA,NG,ogoja,yba,yala1263,ido,2,7.847008411803418e-4
 5,Q2OTHER,respondent_other,,OHAFIA,NG,ohafia,ibo,nucl1417,igb,5,0.0023501716901683832
 5,Q2OTHER,respondent_other,,OKPE,NG,okpe,oke,okpe1250,iso urh,3,0.0015431933487652667
@@ -9172,7 +9172,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 6,Q2OTHER,respondent_other,,NGYEMBOON,CM,ngyemboon,nnh,ngie1241,fef yem,1,4.2959573944113594e-4
 6,Q2OTHER,respondent_other,,NNAGA EBOKO,CM,nnaga eboko,mis,,,1,6.378185098635651e-4
 6,Q2OTHER,respondent_other,,NONI,CM,noni,nhu,noon1243,non,2,0.0016465884707739303
-6,Q2OTHER,respondent_other,,NSIE,CM,nsie,mis,,,1,7.489833929015929e-4
+6,Q2OTHER,respondent_other,,NSIE,CM,nsie,ndb,kens1251,bab,1,7.489833929015929e-4
 6,Q2OTHER,respondent_other,,NSO,CM,nso,lns,lamn1239,lns,1,0.0016405318502539293
 6,Q2OTHER,respondent_other,,OBANG,CM,obang,etu,ejag1239,eja,1,3.8142155946118447e-4
 6,Q2OTHER,respondent_other,,OKU,CM,oku,oku,okuu1243,oku,1,4.6692705191182354e-4
