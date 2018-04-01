@@ -1798,16 +1798,6 @@
   name:
   - bengwi
 - country:
-  - MA
-  glottocode: berb1260
-  iso_639_3:
-  - rif
-  - shi
-  - tzm
-  - zgh
-  name:
-  - berber language
-- country:
   - NE
   glottocode: cent2050
   iso_639_3:
@@ -12494,13 +12484,6 @@
   name:
   - soro
 - country:
-  - ZW
-  glottocode: pedi1238
-  iso_639_3:
-  - nso
-  name:
-  - sotho
-- country:
   - ZA
   glottocode: sout2807
   iso_639_3:
@@ -14502,3 +14485,4 @@
   name:
   - magorongosa
   - magorongose
+
