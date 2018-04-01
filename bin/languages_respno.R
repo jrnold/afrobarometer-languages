@@ -78,9 +78,7 @@ languages_respno <- IO$afrobarometer_variables %>%
   rename(country = iso_alpha2) %>%
   # Add linguistic IDs
   mutate(lang_name = if_else(is.na(lang_name), "", lang_name)) %>%
-  left_join(filter(IO$language_names,
-                   lang_number == 1L) %>%
-              select(-lang_number),
+  left_join(IO$language_names,
             by = c("country", "lang_name" = "name")) %>%
   select(round, variable = type, respno, country, lang_name, is_other,
          iso_639_3, glottocode, wals, district, region, withinwt) %>%

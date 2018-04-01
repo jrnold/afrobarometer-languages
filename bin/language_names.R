@@ -38,21 +38,6 @@ process_lang <- function(x) {
 }
 
 language_names <-  IO$languages_raw %>%
-  map_dfr(process_lang)
-
-# Create multiple-language data entries
-multi_languages <- read_yaml(here::here("data-raw", "multiple-languages.yml")) %>%
-  enframe() %>%
-  unnest() %>%
-  group_by(name) %>%
-  mutate(lang_number = row_number()) %>%
-  left_join(rename(language_names, value = name), by = "value") %>%
-  select(-value) %>%
-  rename(lang_name = name)
-
-bind_rows(mutate(language_names, lang_number = 1L),
-          multi_languages) %>%
-  # in case I accidentally add extra lang data this will keep most mistakes
-  # from propogating
+  map_dfr(process_lang) %>%
   distinct() %>%
   write_csv(OUTPUT, na = "")
