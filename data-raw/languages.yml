@@ -207,18 +207,14 @@
   - ahizi
 - country:
   - NG
-  glottocode: null
+  glottocode: ekpe1253
   iso_639_3:
-  - mis
+  - ekp
   name:
   - ahoada
-- country:
-  - NG
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
   - ahuda
+  note: >-
+    Ekpeye live in the Ahoada (Ahuda) area.
 - country:
   - MZ
   glottocode: yaoo1241
@@ -236,17 +232,13 @@
   name:
   - ajuran
 - country:
+  - GH
   - NG
   glottocode: akan1250
   iso_639_3:
   - aka
-  name:
-  - aka
-- country:
-  - GH
-  glottocode: akan1250
-  iso_639_3:
-  - aka
+  wals:
+  - akn
   name:
   - akan
   note: In Glottolog, Akan is a family, and in ISO 639-3 it is a macrolanguage.
@@ -289,9 +281,9 @@
   - aklobo
 - country:
   - CM
-  glottocode: null
+  glottocode: akoo1248
   iso_639_3:
-  - mis
+  - bss
   name:
   - akosse
 - country:
@@ -805,24 +797,12 @@
   - azoqo
 - country:
   - CM
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
-  - babadjon
-- country:
-  - CM
   glottocode: ngom1271
   iso_639_3:
   - nla
   name:
+  - babadjon
   - babadjou
-- country:
-  - CM
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
   - babanjou
 - country:
   - CM

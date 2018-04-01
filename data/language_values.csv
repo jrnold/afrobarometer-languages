@@ -2178,7 +2178,7 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 4,Q3OTHER,respondent_other,,ADUN,NG,adun,mfn,adun1238,agb,1,3.541643365214021e-4
 4,Q3OTHER,respondent_other,,AFIKPO,NG,afikpo,ibo,nucl1417,igb,1,3.5482509088058346e-4
 4,Q3OTHER,respondent_other,,AHUDA,NG,ahuda,mis,,,1,3.4425302113367623e-4
-4,Q3OTHER,respondent_other,,AKA,NG,aka,aka,akan1250,akn,1,2.6719144095209516e-4
+4,Q3OTHER,respondent_other,,AKA,NG,aka,,,,1,2.6719144095209516e-4
 4,Q3OTHER,respondent_other,,AKWANDARA,NG,akwandara,gwn,gwan1268,hau,1,5.311032481429819e-4
 4,Q3OTHER,respondent_other,,ANDONI,NG,andoni,ann,obol1243,obo,12,0.0025058249304527667
 4,Q3OTHER,respondent_other,,ANGAS,NG,angas,anc,ngas1240,anc,5,0.0021972356601660087
