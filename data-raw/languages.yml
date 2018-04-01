@@ -4520,6 +4520,8 @@
   glottocode: greb1256
   iso_639_3:
   - grb
+  wals:
+  - grb
   name:
   - grebo
   note: Grebo (grb) is an ISO 639-3 macrolanguage. All the languages in it are named
@@ -4826,13 +4828,6 @@
   - hau
   name:
   - husa
-- country:
-  - ZW
-  glottocode: shon1251
-  iso_639_3:
-  - sna
-  name:
-  - hwesa
 - country:
   - NG
   glottocode: ibaj1238
@@ -13949,6 +13944,8 @@
   glottocode: ital1282
   iso_639_3:
   - ita
+  wals:
+  - ita
   name:
   - italian
   - italien
@@ -13961,6 +13958,8 @@
   country_ok: true
   glottocode: nucl1643
   iso_639_3:
+  - jpn
+  wals:
   - jpn
   name:
   - japanese
@@ -14095,6 +14094,8 @@
   glottocode: mode1248
   iso_639_3:
   - ell
+  wals:
+  - grk
   name:
   - grego
 - country:
@@ -14202,6 +14203,7 @@
   glottocode: arab1395
   iso_639_3:
   - ara
+  wals: [ams]
   name:
   - arab
   - arabic
@@ -14209,6 +14211,7 @@
   note: Can't asisgn it to a specific Arabic language.
 - country:
   - MG
+  wals: [ams]
   glottocode: arab1395
   iso_639_3:
   - ara
@@ -14226,6 +14229,7 @@
 - country:
   - UG
   glottocode: arab1395
+  wals: [ams]
   iso_639_3:
   - ara
   name:
@@ -14238,6 +14242,12 @@
   - mhw
   name:
   - mbukushu
+  wals:
+  - luc
+  - luv
+  - loz
+  - kwn
+  - sub
 - country:
   - KE
   glottocode: kisi1243
@@ -14276,13 +14286,14 @@
   glottocode: lati1261
   iso_639_3:
   - lat
+  wals: [ita, srd]
   name:
   - latin
   note: Assume that they learned it in school.
 
 - country:
   - TZ
-  glottocode: null
+  glottocode: nyih1240
   iso_639_3:
   - nih
   name:
@@ -14465,6 +14476,12 @@
   glottocode: mako1253
   iso_639_3:
   - sie
+  wals:
+  - luc
+  - luv
+  - loz
+  - kwn
+  - sub
   name:
   - sikoma
 - country:
@@ -14485,4 +14502,10 @@
   name:
   - magorongosa
   - magorongose
-
+- country:
+  - ZM
+  name:
+  - nleya zambia
+  glottocode: leya1238
+  iso_639_3:
+  - dov

@@ -7717,7 +7717,7 @@ CVE0394,CV,crioulo,kea,kabu1256,por,2
 CVE0394,CV,português,por,port1283,por,2
 CVE0395,CV,crioulo,kea,kabu1256,por,3
 CVE0395,CV,português,por,port1283,por,3
-CVE0395,CV,italiano,ita,ital1282,ifi,3
+CVE0395,CV,italiano,ita,ital1282,ita,3
 CVE0396,CV,crioulo,kea,kabu1256,por,2
 CVE0396,CV,português,por,port1283,por,2
 CVE0397,CV,crioulo,kea,kabu1256,por,3
@@ -7977,7 +7977,7 @@ CVE0560,CV,crioulo,kea,kabu1256,por,1
 CVE0561,CV,crioulo,kea,kabu1256,por,1
 CVE0562,CV,português,por,port1283,por,4
 CVE0562,CV,crioulo,kea,kabu1256,por,4
-CVE0562,CV,grego,ell,mode1248,afr ago alb alt ass ast awd bdc bec ben bgi bhi bho bkt blc blr bos bre bro bsm bul cln crn ctl cvc cze dar dbr dgi dhi dmk dom dri dsh duz eng far fea fno fre frw gae gbc gfr gha gil glc goj grp guj gvi gwe hcr hin hlb hwc hwr ice ifi irm itg itn itu jcr kal kas kbt khw kji kkn klh klr knq ksu ktz kum lat lcr ldn lge lit lmn lno lur lux mai mcd mce mcr mgh mhi mlc mnx mol mqc mwc mzn ndy nep npi npn oko orm oss pan pap plb pol por pra pri pro prs psh rbg rbu rlo rnr rsh rsm rus rwe sav scr sdh sey skw slo sna snh sou spa sra srb srd srl srm svk swe taj tay taz tmu tpi trw tts ukr urd vaf vas ved wak wec wgl yaz ydd ydl ygn zaz,4
+CVE0562,CV,grego,ell,mode1248,grk,4
 CVE0562,CV,espanhol,spa,stan1288,spa,4
 CVE0563,CV,crioulo,kea,kabu1256,por,1
 CVE0564,CV,crioulo,kea,kabu1256,por,2
@@ -8233,7 +8233,7 @@ CVE0720,CV,português,por,port1283,por,4
 CVE0720,CV,francês,fra,stan1290,fre,4
 CVE0720,CV,inglês,eng,stan1293,eng,4
 CVE0721,CV,crioulo,kea,kabu1256,por,4
-CVE0721,CV,grego,ell,mode1248,afr ago alb alt ass ast awd bdc bec ben bgi bhi bho bkt blc blr bos bre bro bsm bul cln crn ctl cvc cze dar dbr dgi dhi dmk dom dri dsh duz eng far fea fno fre frw gae gbc gfr gha gil glc goj grp guj gvi gwe hcr hin hlb hwc hwr ice ifi irm itg itn itu jcr kal kas kbt khw kji kkn klh klr knq ksu ktz kum lat lcr ldn lge lit lmn lno lur lux mai mcd mce mcr mgh mhi mlc mnx mol mqc mwc mzn ndy nep npi npn oko orm oss pan pap plb pol por pra pri pro prs psh rbg rbu rlo rnr rsh rsm rus rwe sav scr sdh sey skw slo sna snh sou spa sra srb srd srl srm svk swe taj tay taz tmu tpi trw tts ukr urd vaf vas ved wak wec wgl yaz ydd ydl ygn zaz,4
+CVE0721,CV,grego,ell,mode1248,grk,4
 CVE0721,CV,português,por,port1283,por,4
 CVE0721,CV,espanhol,spa,stan1288,spa,4
 CVE0722,CV,crioulo,kea,kabu1256,por,2
@@ -8288,7 +8288,7 @@ CVE0745,CV,crioulo,kea,kabu1256,por,2
 CVE0745,CV,português,por,port1283,por,2
 CVE0746,CV,crioulo,kea,kabu1256,por,3
 CVE0746,CV,português,por,port1283,por,3
-CVE0746,CV,italiano,ita,ital1282,ifi,3
+CVE0746,CV,italiano,ita,ital1282,ita,3
 CVE0747,CV,crioulo,kea,kabu1256,por,4
 CVE0747,CV,francês,fra,stan1290,fre,4
 CVE0747,CV,inglês,eng,stan1293,eng,4
@@ -8315,7 +8315,7 @@ CVE0756,CV,crioulo,kea,kabu1256,por,2
 CVE0756,CV,português,por,port1283,por,2
 CVE0757,CV,crioulo,kea,kabu1256,por,4
 CVE0757,CV,português,por,port1283,por,4
-CVE0757,CV,italiano,ita,ital1282,ifi,4
+CVE0757,CV,italiano,ita,ital1282,ita,4
 CVE0757,CV,francês,fra,stan1290,fre,4
 CVE0758,CV,crioulo,kea,kabu1256,por,4
 CVE0758,CV,francês,fra,stan1290,fre,4
@@ -8412,7 +8412,7 @@ CVE0800,CV,crioulo,kea,kabu1256,por,1
 CVE0801,CV,crioulo,kea,kabu1256,por,1
 CVE0802,CV,crioulo,kea,kabu1256,por,3
 CVE0802,CV,inglês,eng,stan1293,eng,3
-CVE0802,CV,italiano,ita,ital1282,ifi,3
+CVE0802,CV,italiano,ita,ital1282,ita,3
 CVE0803,CV,crioulo,kea,kabu1256,por,1
 CVE0804,CV,crioulo,kea,kabu1256,por,2
 CVE0804,CV,português,por,port1283,por,2
@@ -8995,7 +8995,7 @@ CVE1149,CV,crioulo,kea,kabu1256,por,2
 CVE1149,CV,português,por,port1283,por,2
 CVE1150,CV,crioulo,kea,kabu1256,por,3
 CVE1150,CV,português,por,port1283,por,3
-CVE1150,CV,italiano,ita,ital1282,ifi,3
+CVE1150,CV,italiano,ita,ital1282,ita,3
 CVE1151,CV,crioulo,kea,kabu1256,por,3
 CVE1151,CV,português,por,port1283,por,3
 CVE1151,CV,francês,fra,stan1290,fre,3
@@ -9052,7 +9052,7 @@ CVE1171,CV,francês,fra,stan1290,fre,3
 CVE1172,CV,crioulo,kea,kabu1256,por,4
 CVE1172,CV,frances,fra,stan1290,fre,4
 CVE1172,CV,portugês,por,port1283,por,4
-CVE1172,CV,italiano,ita,ital1282,ifi,4
+CVE1172,CV,italiano,ita,ital1282,ita,4
 CVE1173,CV,português,por,port1283,por,3
 CVE1173,CV,crioulo,kea,kabu1256,por,3
 CVE1173,CV,inglês,eng,stan1293,eng,3
@@ -19286,7 +19286,7 @@ MAD0315,MG,malagasy,mlg,mala1537,mal,1
 MAD0316,MG,malagasy,mlg,mala1537,mal,1
 MAD0317,MG,malagasy,mlg,mala1537,mal,3
 MAD0317,MG,frantsay,fra,stan1290,fre,3
-MAD0317,MG,arabo,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,3
+MAD0317,MG,arabo,ara,arab1395,ams,3
 MAD0318,MG,malagasy,mlg,mala1537,mal,2
 MAD0318,MG,frantsay,fra,stan1290,fre,2
 MAD0319,MG,malagasy,mlg,mala1537,mal,2
@@ -19298,14 +19298,14 @@ MAD0321,MG,frantsay,fra,stan1290,fre,2
 MAD0322,MG,malagasy,mlg,mala1537,mal,1
 MAD0323,MG,malagasy,mlg,mala1537,mal,3
 MAD0323,MG,frantsay,fra,stan1290,fre,3
-MAD0323,MG,arabo,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,3
+MAD0323,MG,arabo,ara,arab1395,ams,3
 MAD0324,MG,malagasy,mlg,mala1537,mal,1
 MAD0325,MG,malagasy,mlg,mala1537,mal,2
 MAD0325,MG,frantsay,fra,stan1290,fre,2
 MAD0326,MG,malagasy,mlg,mala1537,mal,1
 MAD0327,MG,malagasy,mlg,mala1537,mal,3
 MAD0327,MG,frantsay,fra,stan1290,fre,3
-MAD0327,MG,arabo,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,3
+MAD0327,MG,arabo,ara,arab1395,ams,3
 MAD0328,MG,malagasy,mlg,mala1537,mal,1
 MAD0329,MG,malagasy,mlg,mala1537,mal,1
 MAD0330,MG,malagasy,mlg,mala1537,mal,1
@@ -19321,7 +19321,7 @@ MAD0334,MG,malagasy,mlg,mala1537,mal,2
 MAD0334,MG,frantsay,fra,stan1290,fre,2
 MAD0335,MG,malagasy,mlg,mala1537,mal,3
 MAD0335,MG,frantsay,fra,stan1290,fre,3
-MAD0335,MG,arabo,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,3
+MAD0335,MG,arabo,ara,arab1395,ams,3
 MAD0336,MG,malagasy,mlg,mala1537,mal,3
 MAD0336,MG,frantsay,fra,stan1290,fre,3
 MAD0336,MG,anglais,eng,stan1293,eng,3
@@ -19401,8 +19401,8 @@ MAD0388,MG,malagasy,mlg,mala1537,mal,2
 MAD0388,MG,frantsay,fra,stan1290,fre,2
 MAD0389,MG,malagasy,mlg,mala1537,mal,5
 MAD0389,MG,frantsay,fra,stan1290,fre,5
-MAD0389,MG,arabo,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,5
-MAD0389,MG,italitn,ita,ital1282,ifi,5
+MAD0389,MG,arabo,ara,arab1395,ams,5
+MAD0389,MG,italitn,ita,ital1282,ita,5
 MAD0389,MG,bantou,,,,5
 MAD0390,MG,malagasy,mlg,mala1537,mal,1
 MAD0391,MG,malagasy,mlg,mala1537,mal,2
@@ -19899,7 +19899,7 @@ MAD0783,MG,malagasy,mlg,mala1537,mal,1
 MAD0784,MG,malagasy,mlg,mala1537,mal,4
 MAD0784,MG,francais,fra,stan1290,fre,4
 MAD0784,MG,anglais,eng,stan1293,eng,4
-MAD0784,MG,italien,ita,ital1282,ifi,4
+MAD0784,MG,italien,ita,ital1282,ita,4
 MAD0785,MG,malagasy,mlg,mala1537,mal,2
 MAD0785,MG,francais,fra,stan1290,fre,2
 MAD0786,MG,malagasy,mlg,mala1537,mal,1
@@ -20017,8 +20017,8 @@ MAD0864,MG,comorien,swb wlc wni zdj,como1260,com,3
 MAD0865,MG,malagasy,mlg,mala1537,mal,5
 MAD0865,MG,francais,fra,stan1290,fre,5
 MAD0865,MG,anglais,eng,stan1293,eng,5
-MAD0865,MG,italiane,ita,ital1282,ifi,5
-MAD0865,MG,japonais,jpn,nucl1643,ryu,5
+MAD0865,MG,italiane,ita,ital1282,ita,5
+MAD0865,MG,japonais,jpn,nucl1643,jpn,5
 MAD0866,MG,malagasy,mlg,mala1537,mal,1
 MAD0867,MG,malagasy,mlg,mala1537,mal,1
 MAD0868,MG,malagasy,mlg,mala1537,mal,3
@@ -20439,7 +20439,7 @@ MAD1185,MG,malagasy,mlg,mala1537,mal,1
 MAD1186,MG,malagasy,mlg,mala1537,mal,1
 MAD1187,MG,malagasy,mlg,mala1537,mal,3
 MAD1187,MG,francais,fra,stan1290,fre,3
-MAD1187,MG,italien,ita,ital1282,ifi,3
+MAD1187,MG,italien,ita,ital1282,ita,3
 MAD1188,MG,malagasy,mlg,mala1537,mal,1
 MAD1189,MG,malagasy,mlg,mala1537,mal,1
 MAD1190,MG,malagasy,mlg,mala1537,mal,1
@@ -20475,7 +20475,7 @@ MAD1207,MG,malagasy,mlg,mala1537,mal,2
 MAD1207,MG,frantsay,fra,stan1290,fre,2
 MAD1208,MG,malagasy,mlg,mala1537,mal,4
 MAD1208,MG,français,fra,stan1290,fre,4
-MAD1208,MG,japonais,jpn,nucl1643,ryu,4
+MAD1208,MG,japonais,jpn,nucl1643,jpn,4
 MAD1208,MG,anglais,eng,stan1293,eng,4
 MAD1209,MG,malagasy,mlg,mala1537,mal,3
 MAD1209,MG,frantsay,fra,stan1290,fre,3
@@ -21108,7 +21108,7 @@ MLW0273,MW,chiyao,yao,yaoo1241,yao,5
 MLW0274,MW,chichewa,nya,chew1246,cic,4
 MLW0274,MW,umbuka,,,,4
 MLW0274,MW,english,eng,stan1293,eng,4
-MLW0274,MW,japanese,jpn,nucl1643,ryu,4
+MLW0274,MW,japanese,jpn,nucl1643,jpn,4
 MLW0275,MW,chichewa,nya,chew1246,cic,1
 MLW0276,MW,chichewa,nya,chew1246,cic,2
 MLW0276,MW,chiyao,yao,yaoo1241,yao,2
@@ -27687,7 +27687,7 @@ MOZ1059,MZ,portugues,por,port1283,por,1
 MOZ1060,MZ,portugues,por,port1283,por,3
 MOZ1060,MZ,ingles,eng,stan1293,eng,3
 MOZ1060,MZ,ronga,rng,rong1268,rga,3
-MOZ1061,MZ,italiano,ita,ital1282,ifi,5
+MOZ1061,MZ,italiano,ita,ital1282,ita,5
 MOZ1061,MZ,ingles,eng,stan1293,eng,5
 MOZ1061,MZ,portugues,por,port1283,por,5
 MOZ1061,MZ,ronga,rng,rong1268,rga,5
@@ -28045,7 +28045,7 @@ NAM0014,NA,english,eng,stan1293,eng,3
 NAM0014,NA,silozi,loz,lozi1239,loz,3
 NAM0015,NA,english,eng,stan1293,eng,3
 NAM0015,NA,silozi,loz,lozi1239,loz,3
-NAM0015,NA,mbukushu,mhw,mbuk1240,aka bbl bee blu bob bol bsh dma dng hem her ifm kil kon ktb kte kwn kwy kyo lbu lin luc luv mbe mbl mdw mgo mhu nbe ndo ndu nto sge sgl sgu sku tet tks umb vif yak yey yns,3
+NAM0015,NA,mbukushu,mhw,mbuk1240,luc luv loz kwn sub,3
 NAM0016,NA,english,eng,stan1293,eng,2
 NAM0016,NA,silozi,loz,lozi1239,loz,2
 NAM0017,NA,masubia,sbs,subi1246,sub,3
@@ -28652,7 +28652,7 @@ NAM0234,NA,rukwangali,kwn,kwan1273,kwn,2
 NAM0235,NA,oshiwambo,kua,kuan1247,mhu ndo,2
 NAM0235,NA,english,eng,stan1293,eng,2
 NAM0236,NA,rukwangali,kwn,kwan1273,kwn,3
-NAM0236,NA,mbukushu,mhw,mbuk1240,aka bbl bee blu bob bol bsh dma dng hem her ifm kil kon ktb kte kwn kwy kyo lbu lin luc luv mbe mbl mdw mgo mhu nbe ndo ndu nto sge sgl sgu sku tet tks umb vif yak yey yns,3
+NAM0236,NA,mbukushu,mhw,mbuk1240,luc luv loz kwn sub,3
 NAM0236,NA,english,eng,stan1293,eng,3
 NAM0237,NA,english,eng,stan1293,eng,5
 NAM0237,NA,rukwangali,kwn,kwan1273,kwn,5
@@ -28704,7 +28704,7 @@ NAM0252,NA,rukwangali,kwn,kwan1273,kwn,4
 NAM0252,NA,oshiwambo,kua,kuan1247,mhu ndo,4
 NAM0253,NA,english,eng,stan1293,eng,3
 NAM0253,NA,rugririku,diu,diri1252,kwn,3
-NAM0253,NA,mbukushu,mhw,mbuk1240,aka bbl bee blu bob bol bsh dma dng hem her ifm kil kon ktb kte kwn kwy kyo lbu lin luc luv mbe mbl mdw mgo mhu nbe ndo ndu nto sge sgl sgu sku tet tks umb vif yak yey yns,3
+NAM0253,NA,mbukushu,mhw,mbuk1240,luc luv loz kwn sub,3
 NAM0254,NA,english,eng,stan1293,eng,3
 NAM0254,NA,rukwangali,kwn,kwan1273,kwn,3
 NAM0254,NA,rugririku,diu,diri1252,kwn,3
@@ -28730,7 +28730,7 @@ NAM0260,NA,afrikaans,afr,afri1274,afr,3
 NAM0261,NA,english,eng,stan1293,eng,4
 NAM0261,NA,rukwangali,kwn,kwan1273,kwn,4
 NAM0261,NA,rugririku,diu,diri1252,kwn,4
-NAM0261,NA,mbukushu,mhw,mbuk1240,aka bbl bee blu bob bol bsh dma dng hem her ifm kil kon ktb kte kwn kwy kyo lbu lin luc luv mbe mbl mdw mgo mhu nbe ndo ndu nto sge sgl sgu sku tet tks umb vif yak yey yns,4
+NAM0261,NA,mbukushu,mhw,mbuk1240,luc luv loz kwn sub,4
 NAM0262,NA,english,eng,stan1293,eng,3
 NAM0262,NA,thimbukushu,mhw,mbuk1240,luc luv loz kwn sub,3
 NAM0262,NA,rukwangali,kwn,kwan1273,kwn,3
@@ -28854,7 +28854,7 @@ NAM0303,NA,afrikaans,afr,afri1274,afr,3
 NAM0304,NA,rukwangali,kwn,kwan1273,kwn,4
 NAM0304,NA,rugririku,diu,diri1252,kwn,4
 NAM0304,NA,english,eng,stan1293,eng,4
-NAM0304,NA,mbukushu,mhw,mbuk1240,aka bbl bee blu bob bol bsh dma dng hem her ifm kil kon ktb kte kwn kwy kyo lbu lin luc luv mbe mbl mdw mgo mhu nbe ndo ndu nto sge sgl sgu sku tet tks umb vif yak yey yns,4
+NAM0304,NA,mbukushu,mhw,mbuk1240,luc luv loz kwn sub,4
 NAM0305,NA,rukwangali,kwn,kwan1273,kwn,3
 NAM0305,NA,english,eng,stan1293,eng,3
 NAM0305,NA,afrikaans,afr,afri1274,afr,3
@@ -33654,7 +33654,7 @@ NIG1146,NG,english,eng,stan1293,eng,2
 NIG1147,NG,igbo,ibo,nucl1417,igb,5
 NIG1147,NG,english,eng,stan1293,eng,5
 NIG1147,NG,french,fra,stan1290,fre,5
-NIG1147,NG,latin,lat,lati1261,ago ast ctl cvc fre gbc gfr glc hcr ifi itg itn itu lcr ldn lno mcr mlc mol mqc pap por pri pro rsm sey spa srd tay,5
+NIG1147,NG,latin,lat,lati1261,ita srd,5
 NIG1147,NG,hausa,hau,haus1257,hau,5
 NIG1148,NG,igbo,ibo,nucl1417,igb,2
 NIG1148,NG,english,eng,stan1293,eng,2
@@ -36311,7 +36311,7 @@ SEN0054,SN,soce,mnk,mand1436,mdk,4
 SEN0055,SN,wolof,wol,nucl1347,wlf,1
 SEN0056,SN,wolof,wol,nucl1347,wlf,4
 SEN0056,SN,francais,fra,stan1290,fre,4
-SEN0056,SN,italien,ita,ital1282,ifi,4
+SEN0056,SN,italien,ita,ital1282,ita,4
 SEN0056,SN,serer,srr,sere1260,fbf fgo fgu fma fni fum,4
 SEN0057,SN,wolof,wol,nucl1347,wlf,1
 SEN0058,SN,serer,srr,sere1260,fbf fgo fgu fma fni fum,2
@@ -36406,7 +36406,7 @@ SEN0095,SN,wolof,wol,nucl1347,wlf,2
 SEN0095,SN,francais,fra,stan1290,fre,2
 SEN0096,SN,wolof,wol,nucl1347,wlf,4
 SEN0096,SN,francais,fra,stan1290,fre,4
-SEN0096,SN,italien,ita,ital1282,ifi,4
+SEN0096,SN,italien,ita,ital1282,ita,4
 SEN0096,SN,espagnol,spa,stan1288,spa,4
 SEN0097,SN,wolof,wol,nucl1347,wlf,2
 SEN0097,SN,pulaar,fuc,pula1263,fus,2
@@ -38471,7 +38471,7 @@ SEN1144,SN,wlof,wol,nucl1347,wlf,6
 SEN1144,SN,diola,dyo,jola1263,dio,6
 SEN1144,SN,plaar,fuc,pula1263,fus,6
 SEN1144,SN,angl,eng,stan1293,eng,6
-SEN1144,SN,italien,ita,ital1282,ifi,6
+SEN1144,SN,italien,ita,ital1282,ita,6
 SEN1145,SN,pulaar,fuc,pula1263,fus,2
 SEN1145,SN,wolof,wol,nucl1347,wlf,2
 SEN1146,SN,pulaar,fuc,pula1263,fus,2
@@ -38707,9 +38707,9 @@ SAF0032,ZA,xhosa,xho,xhos1239,xho,4
 SAF0033,ZA,english,eng,stan1293,eng,1
 SAF0034,ZA,english,eng,stan1293,eng,3
 SAF0034,ZA,afrikaans,afr,afri1274,afr,3
-SAF0034,ZA,arab,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,3
+SAF0034,ZA,arab,ara,arab1395,ams,3
 SAF0035,ZA,english,eng,stan1293,eng,3
-SAF0035,ZA,muslimic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,3
+SAF0035,ZA,muslimic,ara,arab1395,ams,3
 SAF0035,ZA,afrikaans,afr,afri1274,afr,3
 SAF0036,ZA,english,eng,stan1293,eng,2
 SAF0036,ZA,afrikaans,afr,afri1274,afr,2
@@ -38724,12 +38724,12 @@ SAF0039,ZA,english,eng,stan1293,eng,2
 SAF0040,ZA,zulu,zul,zulu1248,zul,2
 SAF0040,ZA,english,eng,stan1293,eng,2
 SAF0041,ZA,english,eng,stan1293,eng,3
-SAF0041,ZA,muslimic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,3
+SAF0041,ZA,muslimic,ara,arab1395,ams,3
 SAF0041,ZA,afrikaans,afr,afri1274,afr,3
 SAF0042,ZA,english,eng,stan1293,eng,1
 SAF0043,ZA,english,eng,stan1293,eng,1
 SAF0044,ZA,english,eng,stan1293,eng,2
-SAF0044,ZA,muslimic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,2
+SAF0044,ZA,muslimic,ara,arab1395,ams,2
 SAF0045,ZA,zulu,zul,zulu1248,zul,3
 SAF0045,ZA,sotho,sot,sout2807,ses,3
 SAF0045,ZA,english,eng,stan1293,eng,3
@@ -39391,19 +39391,19 @@ SAF0327,ZA,english,eng,stan1293,eng,2
 SAF0327,ZA,afrikaans,afr,afri1274,afr,2
 SAF0328,ZA,english,eng,stan1293,eng,2
 SAF0328,ZA,afrikaans,afr,afri1274,afr,2
-SAF0329,ZA,arab,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,2
+SAF0329,ZA,arab,ara,arab1395,ams,2
 SAF0329,ZA,english,eng,stan1293,eng,2
 SAF0330,ZA,english,eng,stan1293,eng,5
 SAF0330,ZA,hebrew,heb,hebr1246,hba,5
-SAF0330,ZA,arab,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,5
+SAF0330,ZA,arab,ara,arab1395,ams,5
 SAF0330,ZA,french,fra,stan1290,fre,5
 SAF0330,ZA,afrikaans,afr,afri1274,afr,5
 SAF0331,ZA,indian,hin,hind1269,hin,4
-SAF0331,ZA,arab,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,4
+SAF0331,ZA,arab,ara,arab1395,ams,4
 SAF0331,ZA,english,eng,stan1293,eng,4
 SAF0331,ZA,french,fra,stan1290,fre,4
 SAF0332,ZA,hindu,hin,hind1269,hin,3
-SAF0332,ZA,arab,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,3
+SAF0332,ZA,arab,ara,arab1395,ams,3
 SAF0332,ZA,english,eng,stan1293,eng,3
 SAF0333,ZA,zulu,zul,zulu1248,zul,2
 SAF0333,ZA,sotho,sot,sout2807,ses,2
@@ -39465,7 +39465,7 @@ SAF0353,ZA,mamon,,,,5
 SAF0353,ZA,urdu,urd,urdu1245,urd,5
 SAF0353,ZA,afrikaans,afr,afri1274,afr,5
 SAF0353,ZA,kokni,naq,nama1264,kho,5
-SAF0354,ZA,arab,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,5
+SAF0354,ZA,arab,ara,arab1395,ams,5
 SAF0354,ZA,indian,hin,hind1269,hin,5
 SAF0354,ZA,zulu,zul,zulu1248,zul,5
 SAF0354,ZA,afrikaans,afr,afri1274,afr,5
@@ -40062,7 +40062,7 @@ SAF0656,ZA,swazi,ssw,swat1243,swt,2
 SAF0657,ZA,swazi,ssw,swat1243,swt,2
 SAF0657,ZA,english,eng,stan1293,eng,2
 SAF0658,ZA,english,eng,stan1293,eng,5
-SAF0658,ZA,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,5
+SAF0658,ZA,arabic,ara,arab1395,ams,5
 SAF0658,ZA,chichea,,,,5
 SAF0658,ZA,yao,yao,yaoo1241,yao,5
 SAF0658,ZA,swati,ssw,swat1243,swt,5
@@ -40096,7 +40096,7 @@ SAF0675,ZA,xhosa,xho,xhos1239,xho,3
 SAF0675,ZA,english,eng,stan1293,eng,3
 SAF0676,ZA,zulu,zul,zulu1248,zul,1
 SAF0677,ZA,english,eng,stan1293,eng,3
-SAF0677,ZA,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,3
+SAF0677,ZA,arabic,ara,arab1395,ams,3
 SAF0677,ZA,zulu,zul,zulu1248,zul,3
 SAF0678,ZA,english,eng,stan1293,eng,1
 SAF0679,ZA,english,eng,stan1293,eng,1
@@ -40879,7 +40879,7 @@ SAF1031,ZA,zulu,zul,zulu1248,zul,2
 SAF1032,ZA,isizulu,zul,zulu1248,zul,1
 SAF1033,ZA,english,eng,stan1293,eng,3
 SAF1033,ZA,zulu,zul,zulu1248,zul,3
-SAF1033,ZA,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,3
+SAF1033,ZA,arabic,ara,arab1395,ams,3
 SAF1034,ZA,english,eng,stan1293,eng,1
 SAF1035,ZA,english,eng,stan1293,eng,4
 SAF1035,ZA,hindu,hin,hind1269,hin,4
@@ -42560,7 +42560,7 @@ SAF1761,ZA,afrikaans,afr,afri1274,afr,7
 SAF1761,ZA,zulu,zul,zulu1248,zul,7
 SAF1761,ZA,xhosa,xho,xhos1239,xho,7
 SAF1761,ZA,kokni,naq,nama1264,kho,7
-SAF1761,ZA,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,7
+SAF1761,ZA,arabic,ara,arab1395,ams,7
 SAF1761,ZA,gu,,,,7
 SAF1762,ZA,afrikaans,afr,afri1274,afr,2
 SAF1762,ZA,english,eng,stan1293,eng,2
@@ -45668,7 +45668,7 @@ TAN0888,TZ,kiswahili,swh,swah1253,swa,2
 TAN0888,TZ,kifipa,fip,fipa1238,mmw,2
 TAN0889,TZ,kiswahili,swh,swah1253,swa,3
 TAN0889,TZ,kifipa,fip,fipa1238,mmw,3
-TAN0889,TZ,kinyika,nih,,,3
+TAN0889,TZ,kinyika,nih,nyih1240,nyh,3
 TAN0890,TZ,kiswahili,swh,swah1253,swa,2
 TAN0890,TZ,kifipa,fip,fipa1238,mmw,2
 TAN0891,TZ,kiswahili,swh,swah1253,swa,2
@@ -45684,7 +45684,7 @@ TAN0895,TZ,kifipa,fip,fipa1238,mmw,2
 TAN0896,TZ,kiswahili,swh,swah1253,swa,1
 TAN0897,TZ,kiswahili,swh,swah1253,swa,3
 TAN0897,TZ,kifipa,fip,fipa1238,mmw,3
-TAN0897,TZ,kinyika,nih,,,3
+TAN0897,TZ,kinyika,nih,nyih1240,nyh,3
 TAN0898,TZ,kiswahili,swh,swah1253,swa,3
 TAN0898,TZ,kifipa,fip,fipa1238,mmw,3
 TAN0898,TZ,kimambwe,mgr,mamb1297,mmw,3
@@ -45701,11 +45701,11 @@ TAN0901,TZ,kiswahili,swh,swah1253,swa,2
 TAN0901,TZ,kifipa,fip,fipa1238,mmw,2
 TAN0902,TZ,kiswahili,swh,swah1253,swa,3
 TAN0902,TZ,kifipa,fip,fipa1238,mmw,3
-TAN0902,TZ,kinyika,nih,,,3
+TAN0902,TZ,kinyika,nih,nyih1240,nyh,3
 TAN0903,TZ,kiswahili,swh,swah1253,swa,2
 TAN0903,TZ,kimambwe,mgr,mamb1297,mmw,2
 TAN0904,TZ,kiswahili,swh,swah1253,swa,3
-TAN0904,TZ,kinyika,nih,,,3
+TAN0904,TZ,kinyika,nih,nyih1240,nyh,3
 TAN0904,TZ,kifipa,fip,fipa1238,mmw,3
 TAN0905,TZ,kiswahili,swh,swah1253,swa,5
 TAN0905,TZ,kisukuma,suk,suku1261,skm,5
@@ -47377,7 +47377,7 @@ UGA0874,UG,luo,ach adh alz kdi laj lth,sout2831,acl lan luo,1
 UGA0875,UG,english,eng,stan1293,eng,4
 UGA0875,UG,luo,ach adh alz kdi laj lth,sout2831,acl lan luo,4
 UGA0875,UG,swahili,swh,swah1253,swa,4
-UGA0875,UG,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,4
+UGA0875,UG,arabic,ara,arab1395,ams,4
 UGA0876,UG,luo,ach adh alz kdi laj lth,sout2831,acl lan luo,1
 UGA0877,UG,langi,laj,lang1324,lan,1
 UGA0878,UG,langi,laj,lang1324,lan,1
@@ -47965,7 +47965,7 @@ UGA1413,UG,luganda,lug,gand1255,lda,2
 UGA1413,UG,english,eng,stan1293,eng,2
 UGA1414,UG,luganda,lug,gand1255,lda,4
 UGA1414,UG,english,eng,stan1293,eng,4
-UGA1414,UG,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,4
+UGA1414,UG,arabic,ara,arab1395,ams,4
 UGA1414,UG,chukuyu,,,,4
 UGA1415,UG,luganda,lug,gand1255,lda,3
 UGA1415,UG,english,eng,stan1293,eng,3
@@ -48599,7 +48599,7 @@ UGA1868,UG,lugbara,lgg,lugb1240,lug,3
 UGA1869,UG,madi,mhi snm,sout2827,mad,4
 UGA1869,UG,lugbara,lgg,lugb1240,lug,4
 UGA1869,UG,english,eng,stan1293,eng,4
-UGA1869,UG,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,4
+UGA1869,UG,arabic,ara,arab1395,ams,4
 UGA1870,UG,english,eng,stan1293,eng,3
 UGA1870,UG,madi,mhi snm,sout2827,mad,3
 UGA1870,UG,lugbara,lgg,lugb1240,lug,3
@@ -48849,7 +48849,7 @@ UGA2132,UG,acholi,ach,acol1236,acl,2
 UGA2132,UG,swahili,swh,swah1253,swa,2
 UGA2133,UG,luo,ach adh alz kdi laj lth,sout2831,acl lan luo,1
 UGA2134,UG,luo,ach adh alz kdi laj lth,sout2831,acl lan luo,2
-UGA2134,UG,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,2
+UGA2134,UG,arabic,ara,arab1395,ams,2
 UGA2135,UG,acholi,ach,acol1236,acl,1
 UGA2136,UG,acholi,ach,acol1236,acl,2
 UGA2136,UG,english,eng,stan1293,eng,2
@@ -48926,7 +48926,7 @@ UGA2170,UG,english,eng,stan1293,eng,2
 UGA2171,UG,lugbara,lgg,lugb1240,lug,2
 UGA2171,UG,english,eng,stan1293,eng,2
 UGA2172,UG,english,eng,stan1293,eng,3
-UGA2172,UG,latin,lat,lati1261,ago ast ctl cvc fre gbc gfr glc hcr ifi itg itn itu lcr ldn lno mcr mlc mol mqc pap por pri pro rsm sey spa srd tay,3
+UGA2172,UG,latin,lat,lati1261,ita srd,3
 UGA2172,UG,luganda,lug,gand1255,lda,3
 UGA2173,UG,luganda,lug,gand1255,lda,3
 UGA2173,UG,english,eng,stan1293,eng,3
@@ -50576,7 +50576,7 @@ UGA3534,UG,luganda,lug,gand1255,lda,2
 UGA3534,UG,english,eng,stan1293,eng,2
 UGA3535,UG,luganda,lug,gand1255,lda,1
 UGA3536,UG,luganda,lug,gand1255,lda,2
-UGA3536,UG,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,2
+UGA3536,UG,arabic,ara,arab1395,ams,2
 UGA3537,UG,lusoga,xog,soga1242,lda,2
 UGA3537,UG,luganda,lug,gand1255,lda,2
 UGA3538,UG,runyankole,nyn,nyan1307,rny,3
@@ -50662,7 +50662,7 @@ UGA3603,UG,luganda,lug,gand1255,lda,2
 UGA3603,UG,english,eng,stan1293,eng,2
 UGA3604,UG,luganda,lug,gand1255,lda,1
 UGA3605,UG,luganda,lug,gand1255,lda,2
-UGA3605,UG,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub,2
+UGA3605,UG,arabic,ara,arab1395,ams,2
 UGA3606,UG,luganda,lug,gand1255,lda,1
 UGA3607,UG,luganda,lug,gand1255,lda,2
 UGA3607,UG,english,eng,stan1293,eng,2

@@ -2470,7 +2470,6 @@ KE,hindu,hin,hind1269,hin
 ZA,hindu,hin,hind1269,hin
 ZW,hindu,hin,hind1269,hin
 GH,husa,hau,haus1257,hau
-ZW,hwesa,sna,shon1251,shn
 NG,ibaji,igl,ibaj1238,ise yor
 NG,ibani,iby,iban1261,ijo
 NG,ibbio,ibb,ibib1240,ibi
@@ -5616,30 +5615,30 @@ CV,holandês,nld,dutc1256,dut
 LR,holandês,nld,dutc1256,dut
 NA,holandês,nld,dutc1256,dut
 ZA,hebrew,heb,hebr1246,hba
-CV,italian,ita,ital1282,ifi
-MG,italian,ita,ital1282,ifi
-MZ,italian,ita,ital1282,ifi
-SN,italian,ita,ital1282,ifi
-CV,italiane,ita,ital1282,ifi
-MG,italiane,ita,ital1282,ifi
-MZ,italiane,ita,ital1282,ifi
-SN,italiane,ita,ital1282,ifi
-CV,italiano,ita,ital1282,ifi
-MG,italiano,ita,ital1282,ifi
-MZ,italiano,ita,ital1282,ifi
-SN,italiano,ita,ital1282,ifi
-CV,italien,ita,ital1282,ifi
-MG,italien,ita,ital1282,ifi
-MZ,italien,ita,ital1282,ifi
-SN,italien,ita,ital1282,ifi
-CV,italitn,ita,ital1282,ifi
-MG,italitn,ita,ital1282,ifi
-MZ,italitn,ita,ital1282,ifi
-SN,italitn,ita,ital1282,ifi
-MG,japanese,jpn,nucl1643,ryu
-MW,japanese,jpn,nucl1643,ryu
-MG,japonais,jpn,nucl1643,ryu
-MW,japonais,jpn,nucl1643,ryu
+CV,italian,ita,ital1282,ita
+MG,italian,ita,ital1282,ita
+MZ,italian,ita,ital1282,ita
+SN,italian,ita,ital1282,ita
+CV,italiane,ita,ital1282,ita
+MG,italiane,ita,ital1282,ita
+MZ,italiane,ita,ital1282,ita
+SN,italiane,ita,ital1282,ita
+CV,italiano,ita,ital1282,ita
+MG,italiano,ita,ital1282,ita
+MZ,italiano,ita,ital1282,ita
+SN,italiano,ita,ital1282,ita
+CV,italien,ita,ital1282,ita
+MG,italien,ita,ital1282,ita
+MZ,italien,ita,ital1282,ita
+SN,italien,ita,ital1282,ita
+CV,italitn,ita,ital1282,ita
+MG,italitn,ita,ital1282,ita
+MZ,italitn,ita,ital1282,ita
+SN,italitn,ita,ital1282,ita
+MG,japanese,jpn,nucl1643,jpn
+MW,japanese,jpn,nucl1643,jpn
+MG,japonais,jpn,nucl1643,jpn
+MW,japonais,jpn,nucl1643,jpn
 LS,russian,rus,russ1263,rus
 NA,russian,rus,russ1263,rus
 ZA,finish,fin,finn1318,fin
@@ -5664,7 +5663,7 @@ BF,sama,pnq,pana1295,lye nnn xsm
 BF,tiefo,tiq,tief1242,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp tou tow vag wwa xsm
 BF,tiefou,tiq,tief1242,bmb brb buy dga dgb grm grn kby kfe kir kkb kni kow lob lye mmp moo ncm nnn ntn ssa tem tmp tou tow vag wwa xsm
 CV,casteliano,spa,stan1288,spa
-CV,grego,ell,mode1248,afr ago alb alt ass ast awd bdc bec ben bgi bhi bho bkt blc blr bos bre bro bsm bul cln crn ctl cvc cze dar dbr dgi dhi dmk dom dri dsh duz eng far fea fno fre frw gae gbc gfr gha gil glc goj grp guj gvi gwe hcr hin hlb hwc hwr ice ifi irm itg itn itu jcr kal kas kbt khw kji kkn klh klr knq ksu ktz kum lat lcr ldn lge lit lmn lno lur lux mai mcd mce mcr mgh mhi mlc mnx mol mqc mwc mzn ndy nep npi npn oko orm oss pan pap plb pol por pra pri pro prs psh rbg rbu rlo rnr rsh rsm rus rwe sav scr sdh sey skw slo sna snh sou spa sra srb srd srl srm svk swe taj tay taz tmu tpi trw tts ukr urd vaf vas ved wak wec wgl yaz ydd ydl ygn zaz
+CV,grego,ell,mode1248,grk
 GH,eve,ewe,ewee1241,ewa
 TZ,kiingereza,eng,stan1293,eng
 TZ,kingereza,eng,stan1293,eng
@@ -5686,20 +5685,20 @@ SN,mandingue,mnk,mand1436,mdk
 KE,marakwet,enb,mark1255,pkt
 KE,markweeta,enb,mark1255,pkt
 MW,bemba,bem,bemb1257,lmb
-ZA,arab,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub
-ZA,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub
-ZA,muslimic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub
-MG,arabo,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub
+ZA,arab,ara,arab1395,ams
+ZA,arabic,ara,arab1395,ams
+ZA,muslimic,ara,arab1395,ams
+MG,arabo,ara,arab1395,ams
 KE,rabai,nyf,raba1248,com
-UG,arabic,ara,arab1395,abh aeg ael ahs ako amr ams anl apa arh arj arn arq ars atu mlt nub
-NA,mbukushu,mhw,mbuk1240,aka bbl bee blu bob bol bsh dma dng hem her ifm kil kon ktb kte kwn kwy kyo lbu lin luc luv mbe mbl mdw mgo mhu nbe ndo ndu nto sge sgl sgu sku tet tks umb vif yak yey yns
+UG,arabic,ara,arab1395,ams
+NA,mbukushu,mhw,mbuk1240,luc luv loz kwn sub
 KE,kissi,kiz,kisi1243,png
 MW,wemba,bem,bemb1257,lmb
 TZ,kiwemba,bem,bemb1257,lmb
 SN,dialonké,yal,yalu1240,sus
-NG,latin,lat,lati1261,ago ast ctl cvc fre gbc gfr glc hcr ifi itg itn itu lcr ldn lno mcr mlc mol mqc pap por pri pro rsm sey spa srd tay
-UG,latin,lat,lati1261,ago ast ctl cvc fre gbc gfr glc hcr ifi itg itn itu lcr ldn lno mcr mlc mol mqc pap por pri pro rsm sey spa srd tay
-TZ,kinyika,nih,,
+NG,latin,lat,lati1261,ita srd
+UG,latin,lat,lati1261,ita srd
+TZ,kinyika,nih,nyih1240,nyh
 LS,fanagolog,mis,,
 LS,fanakaloko,mis,,
 LS,janakalor,mis,,
@@ -5731,10 +5730,11 @@ TZ,kindebgereko,ndq,nden1248,mtb
 TZ,kindendeleko,ndq,nden1248,mtb
 NA,tsirungu,mgr,rung1256,mmw
 ZW,gova,sna,gova1253,shn
-SM,sikoma,sie,mako1253,aka bbl bee blu bob bol bsh dma dng hem her ifm kil kon ktb kte kwn kwy kyo lbu lin luc luv mbe mbl mdw mgo mhu nbe ndo ndu nto sge sgl sgu sku tet tks umb vif yak yey yns
+SM,sikoma,sie,mako1253,luc luv loz kwn sub
 ZM,chikunda,nya,kund1254,cic
 ZW,chikunda,nya,kund1254,cic
 ZM,kunda,nya,kund1254,cic
 ZW,kunda,nya,kund1254,cic
 MZ,magorongosa,seh,goro1256,sen
 MZ,magorongose,seh,goro1256,sen
+ZM,nleya zambia,dov,leya1238,ila toz

@@ -4177,7 +4177,6 @@ round,variable,type,value,label,country,lang_name,iso_639_3,glottocode,wals,n_re
 5,Q2OTHER,respondent_other,,DOMBE,ZW,dombe,dov,domb1246,ila toz,2,5.934373692827583e-4
 5,Q2OTHER,respondent_other,,GARWE,ZW,garwe,ndc,garw1238,shn,1,3.4951494756791567e-4
 5,Q2OTHER,respondent_other,,HINDI,ZW,hindi,hin,hind1269,hin,1,3.0689579741392624e-4
-5,Q2OTHER,respondent_other,,HWESA,ZW,hwesa,sna,shon1251,shn,3,8.670207408200716e-4
 5,Q2OTHER,respondent_other,,HWESA,ZW,hwesa,sna,hwes1238,shn,3,8.670207408200716e-4
 5,Q2OTHER,respondent_other,,JINDWI,ZW,jindwi,mxc,many1258,shn,2,8.006828476122753e-4
 5,Q2OTHER,respondent_other,,MAUNGWE,ZW,maungwe,mxc,hung1277,shn,7,0.0029165186517545513

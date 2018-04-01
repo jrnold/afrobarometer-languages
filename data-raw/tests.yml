@@ -1,4 +1,6 @@
 iso:
+  non_living:
+  - lat
   special:
     - mis
     - mul
@@ -23,6 +25,19 @@ wals:
     - por
     - psh
     - wuc
+    - spa
+    - swe
+    - dut
+    - hba
+    - tsp
+    - tel
+    - fin
+    - jpn
+    - rus
+    - urd
+    - ita
+    - srd
+    - ams
   families:
     - Afro-Asiatic
     - Austronesian
@@ -41,6 +56,10 @@ wals:
     - Sandawe
     - Sino-Tibetan
     - Songhay
+    - Japanese
+    - Uralic
+    - Dravidian
+    - Greek
 glottolog:
   non_african:
     - stan1293
@@ -60,3 +79,17 @@ glottolog:
     - tana1285
     - mala1537
     - plat1254
+    - swed1254
+    - dutc1256
+    - hebr1246
+    - ital1282
+    - nucl1643
+    - russ1263
+    - finn1318
+    - urdu1245
+    - tami1289
+    - telu1262
+    - mode1248
+    - arab1395
+    - lati1261
+    - stan1288
