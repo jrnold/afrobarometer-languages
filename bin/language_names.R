@@ -52,4 +52,7 @@ multi_languages <- read_yaml(here::here("data-raw", "multiple-languages.yml")) %
 
 bind_rows(mutate(language_names, lang_number = 1L),
           multi_languages) %>%
+  # in case I accidentally add extra lang data this will keep most mistakes
+  # from propogating
+  distinct() %>%
   write_csv(OUTPUT, na = "")

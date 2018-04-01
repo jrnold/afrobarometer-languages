@@ -81,6 +81,7 @@ language_values <- IO$afrobarometer_variables %>%
             by = c("country", "lang_name" = "name")) %>%
   select(round, variable, type, value, label, country, lang_name, iso_639_3,
          glottocode, wals, n_resp, prop) %>%
-  arrange(round, variable, country, value)
+  arrange(round, variable, country, value) %>%
+  distinct()
 
 write_csv(language_values, OUTPUT, na = "")
