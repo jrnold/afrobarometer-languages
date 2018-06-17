@@ -881,9 +881,11 @@
   - SN
   glottocode: null
   iso_639_3:
-  - mis
+  - pbpñ˜
   name:
   - badiaranke
+  note: >
+    Badyara
 - country:
   - CM
   glottocode: koon1245
@@ -1714,7 +1716,7 @@
   - taq
   name:
   - bella
-  note: '"Bella" is a Songhay word for [Ikelan](https://en.wikipedia.org/wiki/Ikelan).
+  note: '"Bella" is a Songhay word for [Ikelan]˜†(https://en.wikipedia.org/wiki/Ikelan).
     Ikelan is a Tuareg caste, and speak Tuareg.'
 - country:
   - BF
@@ -4035,16 +4037,10 @@
   - fulane
   - peulh
   - filani
+  - foulbe
   wals:
   - fgo
   - fni
-- country:
-  - CM
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
-  - foulbe
 - country:
   - GH
   glottocode: fraf1238
@@ -6060,11 +6056,13 @@
   - kilindi
 - country:
   - TZ
-  glottocode: null
+  glottocode: long1390
   iso_639_3:
-  - mis
+  - zin
   name:
   - kilongo
+  note: >
+    Longo dialect of Zinza.
 - country:
   - TZ
   glottocode: lugu1238
@@ -7525,20 +7523,7 @@
     Since Liberian English is not in WALS, use Nigerian Pidgin English instead.'
   wals:
   - npi
-- country:
-  - MZ
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
-  - ligete
-- country:
-  - MZ
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
-  - ligode
+
 - country:
   - MZ
   glottocode: null
@@ -7546,13 +7531,9 @@
   - mis
   name:
   - ligote
-- country:
-  - MZ
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
   - ligoute
+  - ligode
+  - ligete
 - country:
   - GH
   glottocode: konk1269
@@ -11703,6 +11684,7 @@
   - her
   name:
   - seherero
+  - setlharo
 - country:
   - BW
   glottocode: kala1384
@@ -12009,13 +11991,7 @@
   - sthepha
   - sethupu
   note: Thembu is a dialect of [Xhosa](http://glottolog.org/resource/languoid/id/xhos1239)
-- country:
-  - BW
-  glottocode: null
-  iso_639_3:
-  - mis
-  name:
-  - setlharo
+
 - country:
   - BW
   glottocode: null
